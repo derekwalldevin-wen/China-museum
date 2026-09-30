@@ -185,4 +185,7 @@ export const storyTeaserHooks: Record<string, string> = {
   'cq-nxz': '一件“尊”，为什么连一滴酒都装不了？',
   'cq-hty': '一幅画“秘不示人”几百年，会留下什么麻烦？',
   'jdz-cslh': '“无语佛”是文物本名，还是网友起的名字？',
+  'sy-ljy': '一把椅子，为什么要把鹿角反扣过来？',
+  'yz-tj': '一面铜镜上，为什么刻着一场球赛？',
+  'xj-fxnv': '中原的神话，为什么画在西域的墓里？',
 };

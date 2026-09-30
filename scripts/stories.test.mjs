@@ -58,7 +58,8 @@ const batch55 = JSON.parse(readFileSync(new URL('../src/data/stories-batch55.jso
 const batch56 = JSON.parse(readFileSync(new URL('../src/data/stories-batch56.json', import.meta.url), 'utf8'));
 const batch57 = JSON.parse(readFileSync(new URL('../src/data/stories-batch57.json', import.meta.url), 'utf8'));
 const batch58 = JSON.parse(readFileSync(new URL('../src/data/stories-batch58.json', import.meta.url), 'utf8'));
-for (const batch of [batch2, batch3, batch4, batch5, batch6, batch7, batch8, batch9, batch10, batch11, batch12, batch13, batch14, batch15, batch16, batch17, batch18, batch19, batch20, batch21, batch22, batch23, batch24, batch25, batch26, batch27, batch28, batch29, batch31, batch32, batch34, batch35, batch36, batch37, batch38, batch39, batch40, batch42, batch43, batch44, batch45, batch46, batch47, batch48, batch49, batch50, batch51, batch52, batch53, batch54, batch55, batch56, batch57, batch58]) { data.sources.push(...batch.sources); data.trails.push(...batch.trails); data.stories.push(...batch.stories); }
+const batch59 = JSON.parse(readFileSync(new URL('../src/data/stories-batch59.json', import.meta.url), 'utf8'));
+for (const batch of [batch2, batch3, batch4, batch5, batch6, batch7, batch8, batch9, batch10, batch11, batch12, batch13, batch14, batch15, batch16, batch17, batch18, batch19, batch20, batch21, batch22, batch23, batch24, batch25, batch26, batch27, batch28, batch29, batch31, batch32, batch34, batch35, batch36, batch37, batch38, batch39, batch40, batch42, batch43, batch44, batch45, batch46, batch47, batch48, batch49, batch50, batch51, batch52, batch53, batch54, batch55, batch56, batch57, batch58, batch59]) { data.sources.push(...batch.sources); data.trails.push(...batch.trails); data.stories.push(...batch.stories); }
 data.stories = [...new Map(data.stories.map(story => [story.id, story])).values()];
 const source = readFileSync(new URL('../src/data/story-routes.ts', import.meta.url), 'utf8');
 const js = ts.transpileModule(source, { compilerOptions: { module: ts.ModuleKind.ESNext, target: ts.ScriptTarget.ES2022 } }).outputText;
@@ -70,13 +71,13 @@ const objects = new Map(museums.flatMap(m => m.artifacts.map(a => [a.id, a])));
 const sources = new Map(data.sources.map(s => [s.id, s]));
 
 test('140 real collection IDs, six curated trails and discoverable standalone stories', () => {
-  assert.equal(data.stories.length, 185); assert.equal(data.trails.length, 6);
+  assert.equal(data.stories.length, 188); assert.equal(data.trails.length, 6);
   const ids = data.stories.map(s => s.id);
-  assert.equal(new Set(ids).size, 185);
+  assert.equal(new Set(ids).size, 188);
   const stops = data.trails.flatMap(t => t.ids);
   assert.equal(stops.length, 20); assert.equal(new Set(stops).size, 20);
   assert.ok(stops.every(id => ids.includes(id)));
-  assert.deepEqual(ids.filter(id => !stops.includes(id)).sort(), [...batch3.stories, ...batch4.stories, ...batch5.stories, ...batch6.stories, ...batch7.stories, ...batch8.stories, ...batch9.stories, ...batch10.stories, ...batch11.stories, ...batch12.stories, ...batch13.stories, ...batch14.stories, ...batch15.stories, ...batch16.stories, ...batch18.stories, ...batch19.stories, ...batch20.stories, ...batch21.stories, ...batch22.stories, ...batch23.stories, ...batch24.stories, ...batch25.stories, ...batch26.stories, ...batch27.stories, ...batch28.stories, ...batch29.stories, ...batch31.stories, ...batch32.stories, ...batch34.stories, ...batch35.stories, ...batch36.stories, ...batch37.stories, ...batch38.stories, ...batch39.stories, ...batch40.stories, ...batch42.stories, ...batch43.stories, ...batch44.stories, ...batch45.stories, ...batch46.stories, ...batch47.stories, ...batch48.stories, ...batch49.stories, ...batch50.stories, ...batch51.stories, ...batch52.stories, ...batch53.stories, ...batch54.stories, ...batch55.stories, ...batch56.stories, ...batch57.stories, ...batch58.stories].map(s => s.id).sort());
+  assert.deepEqual(ids.filter(id => !stops.includes(id)).sort(), [...batch3.stories, ...batch4.stories, ...batch5.stories, ...batch6.stories, ...batch7.stories, ...batch8.stories, ...batch9.stories, ...batch10.stories, ...batch11.stories, ...batch12.stories, ...batch13.stories, ...batch14.stories, ...batch15.stories, ...batch16.stories, ...batch18.stories, ...batch19.stories, ...batch20.stories, ...batch21.stories, ...batch22.stories, ...batch23.stories, ...batch24.stories, ...batch25.stories, ...batch26.stories, ...batch27.stories, ...batch28.stories, ...batch29.stories, ...batch31.stories, ...batch32.stories, ...batch34.stories, ...batch35.stories, ...batch36.stories, ...batch37.stories, ...batch38.stories, ...batch39.stories, ...batch40.stories, ...batch42.stories, ...batch43.stories, ...batch44.stories, ...batch45.stories, ...batch46.stories, ...batch47.stories, ...batch48.stories, ...batch49.stories, ...batch50.stories, ...batch51.stories, ...batch52.stories, ...batch53.stories, ...batch54.stories, ...batch55.stories, ...batch56.stories, ...batch57.stories, ...batch58.stories, ...batch59.stories].map(s => s.id).sort());
   for (const trail of data.trails) {
     assert.ok(trail.ids.length >= 3 && trail.ids.length <= 4);
     assert.ok(trail.intro && trail.takeaway && trail.question);
@@ -123,7 +124,7 @@ test('story prose renders as plain text: no markdown emphasis markers leak into 
 });
 
 test('evidence distinguishes museum material from reported interviews and image rights', () => {
-  assert.equal(data.sources.length, 481); assert.equal(sources.size, 481);
+  assert.equal(data.sources.length, 484); assert.equal(sources.size, 484);
   for (const source of data.sources) {
     assert.equal(new URL(source.url).protocol, 'https:');
     assert.match(source.checkedAt, /^\d{4}-\d{2}-\d{2}$/);
@@ -1655,4 +1656,28 @@ test('batch 58 records the Three Gorges pair and the Wuyu Buddha with per-item e
     assert.equal(new URL(source.url).protocol, 'https:');
     assert.ok(['search-text', 'full-text', 'abstract-and-note'].includes(source.retrieval));
   }
+});
+
+test('batch 59 records the Mukden throne, the polo mirror and the Fuxi-Nuwa silk painting', () => {
+  assert.deepEqual(batch59.stories.map(story => story.id), ['sy-ljy', 'yz-tj', 'xj-fxnv']);
+  assert.equal(batch59.sources.length, 3);
+  // Mukden Palace deer-antler chair: construction, size, and the Qianlong poem.
+  assert.match(batch59.stories[0].summary, /反扣于方形底座/);
+  assert.match(batch59.stories[0].summary, /通高约1\.5米、鹿角围长近两米/);
+  assert.match(batch59.stories[0].sections[2].text, /乾隆十九年（1754）/);
+  assert.doesNotMatch(batch59.stories[0].summary, /全国仅此一件|鹿角根/);
+  // Yangzhou polo mirror: the image description and the 击鞠 background.
+  assert.match(batch59.stories[1].summary, /两组骑士策马击球/);
+  assert.match(batch59.stories[1].summary, /兴起于汉代/);
+  assert.doesNotMatch(batch59.stories[1].summary, /从波斯传入|宫女/);
+  // Xinjiang silk painting: 73 pieces, the era range, and 执矩/执规.
+  assert.match(batch59.stories[2].summary, /73幅/);
+  assert.match(batch59.stories[2].summary, /魏晋南北朝后期至隋唐/);
+  assert.match(batch59.stories[2].sections[1].text, /左手执矩/);
+  assert.doesNotMatch(batch59.stories[2].summary, /覆棺|明证/);
+  for (const source of batch59.sources) {
+    assert.equal(new URL(source.url).protocol, 'https:');
+    assert.ok(['search-text', 'full-text', 'abstract-and-note'].includes(source.retrieval));
+  }
+  assert.equal(sources.get('b59-sy-ljy').kind, 'newspaper');
 });
