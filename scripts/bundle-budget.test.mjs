@@ -95,7 +95,7 @@ test('full story prose is deferred but lightweight routing stays initial', () =>
   assert.ok(statSync(new URL(story, assetsUrl)).size <= guideBudget, `${story} should only carry the reader and story catalog (budget ${guideBudget})`);
   const pft = one(/^gg-pft-[\w-]+\.js$/);
   assert.match(readFileSync(new URL(pft, assetsUrl), 'utf8'), /《平复帖》开头关心“彦先”的疾病/);
-  assert.equal(storyGeneration.payloads.count, 188);
+  assert.equal(storyGeneration.payloads.count, 191);
   for (const { id } of storyGeneration.payloads.files) one(new RegExp(`^${id}-[\\w-]+\\.js$`));
   assert.match(mainText, /gg-qmsh/);
 });

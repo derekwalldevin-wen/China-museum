@@ -188,4 +188,7 @@ export const storyTeaserHooks: Record<string, string> = {
   'sy-ljy': '一把椅子，为什么要把鹿角反扣过来？',
   'yz-tj': '一面铜镜上，为什么刻着一场球赛？',
   'xj-fxnv': '中原的神话，为什么画在西域的墓里？',
+  'qz-mbs': '一块墓碑，为什么两面写着两种文字？',
+  'jl-ljm': '这只面具为什么少了一只耳朵？',
+  'jdz-blz': '“百鹿图”为什么其实不到一百只鹿？',
 };
