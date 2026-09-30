@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "reviewedAt": null,
+  "note": "审核通过的访客实地记录。每条必须带 contributor / publishedAt / reviewedAt / reviewerNote，照片放在 public/visitor-records/<id>/ 下；展示时一律标注「访客投稿 · 未经馆方核验」。",
+  "records": []
+}

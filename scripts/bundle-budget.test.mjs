@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import { readdirSync, readFileSync, statSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync, statSync } from 'node:fs';
 import { test } from 'node:test';
 import { gzipSync } from 'node:zlib';
 
@@ -26,9 +26,31 @@ const storyText = readFileSync(new URL(story, assetsUrl), 'utf8');
 const html = readFileSync(new URL('../dist/index.html', import.meta.url), 'utf8');
 const allJavaScript = files.filter(file => file.endsWith('.js')).map(file => readFileSync(new URL(file, assetsUrl), 'utf8')).join('\n');
 
+/**
+ * The atlas is now one of two pages, so Vite hoists shared dependencies (React et al.)
+ * into a common chunk. The budget only means something if it counts everything the
+ * atlas page loads statically, not just the entry file.
+ */
+function staticGraph(pageHtml) {
+  const seen = new Set();
+  const queue = [...pageHtml.matchAll(/<script[^>]+src="([^"]+\.js)"/g)].map(match => new URL(match[1], new URL('../dist/', import.meta.url)));
+  while (queue.length) {
+    const url = queue.shift();
+    if (seen.has(url.pathname) || !existsSync(url)) continue;
+    seen.add(url.pathname);
+    const code = readFileSync(url, 'utf8');
+    for (const match of code.matchAll(/(?:from|import)\s*["'](\.[^"']+\.js)["']/g)) queue.push(new URL(match[1], url));
+  }
+  return [...seen].map(pathname => pathname.split(/[\\/]/).pop());
+}
+const initialChunks = staticGraph(html);
+const initialBytes = initialChunks.reduce((sum, file) => sum + statSync(new URL(file, assetsUrl)).size, 0);
+const initialText = initialChunks.map(file => readFileSync(new URL(file, assetsUrl), 'utf8')).join('\n');
+
 test('initial JavaScript stays below the production budget', () => {
-  // The current Vite 7 build is 325,305 bytes; retain a tight ceiling without hiding a 0.1% toolchain variation.
-  assert.ok(statSync(new URL(main, assetsUrl)).size <= 326_000, `${main} exceeds 326kB`);
+  // Counts the entry plus every chunk it imports statically (2026-09-30 two-page build:
+  // index + shared client chunk). The ceiling itself is unchanged.
+  assert.ok(initialBytes <= 326_000, `${initialChunks.join(' + ')} exceed 326kB (${initialBytes} bytes)`);
   assert.match(html, new RegExp(`/assets/${main.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`));
 });
 
@@ -37,9 +59,11 @@ test('full museum descriptions and search prose stay out of the first screen', (
   assert.ok(payloadChunks.reduce((sum, file) => sum + statSync(new URL(file, assetsUrl)).size, 0) <= 105_000);
   // Collection expansion grows only this deferred search JSON, not the initial JS.
   assert.ok(statSync(new URL(artifactSearch, assetsUrl)).size <= 52_000);
-  assert.doesNotMatch(mainText, /张择端《清明上河图》是北宋/);
-  assert.doesNotMatch(mainText, /authorizationStatus/);
+  assert.doesNotMatch(initialText, /张择端《清明上河图》是北宋/);
+  assert.doesNotMatch(initialText, /authorizationStatus/);
   assert.doesNotMatch(html, /artifact-search|gugong-|guobo-/);
+  // The visitor-record tool must never join the atlas first screen.
+  assert.doesNotMatch(initialText, /huaxia-visitor-records/);
 });
 
 test('responsive card delivery stays deferred and complete provenance stays in 59 static payloads', () => {

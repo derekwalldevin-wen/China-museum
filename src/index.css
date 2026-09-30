@@ -281,6 +281,26 @@
   background: linear-gradient(to bottom, rgba(169, 52, 36, .95), rgba(169, 52, 36, .5));
   box-shadow: 0 0 6px rgba(169, 52, 36, .32);
 }
+
+/* 访客实地记录入口：与署名同一行，独立页面（不进入舆图路由与首屏包）。
+   JS 初始包余量很小，故沿用 id 选择器、不挂 class。 */
+#visitor-link {
+  flex: none;
+  margin-left: auto;
+  padding: 0 10px;
+  min-height: 22px;
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+  font-family: 'Noto Serif SC', 'Songti SC', serif;
+  font-size: 10px;
+  letter-spacing: .12em;
+  color: rgba(215, 168, 74, .72);
+  text-decoration: none;
+  border: 1px solid rgba(215, 168, 74, .28);
+  transition: color .2s, border-color .2s;
+}
+#visitor-link:hover { color: rgba(215, 168, 74, 1); border-color: rgba(215, 168, 74, .7); }
 @media (max-width: 767px) {
   #author { margin-left: 10px; font-size: 9px; letter-spacing: .06em; }
   #author::before { height: 10px; }

@@ -1,0 +1,17 @@
+{
+  "baseUrl": "http://127.0.0.1:4187/",
+  "testedAt": "2026-09-30T14:13:36.949Z",
+  "passed": 10,
+  "checks": [
+    "desktop: 建档成功（含 32 KB 源图 → 压缩后 1 张缩略图）",
+    "desktop: 刷新后记录仍在（IndexedDB 持久化）",
+    "desktop: 导出 ZIP 华夏博物志-访客记录-2026-09-30.zip（30 KB，PK 头正确）",
+    "desktop: 清空后从导出包导入还原成功",
+    "desktop: 无横向溢出，触控目标均 ≥43px",
+    "mobile: 建档成功（含 32 KB 源图 → 压缩后 1 张缩略图）",
+    "mobile: 刷新后记录仍在（IndexedDB 持久化）",
+    "mobile: 导出 ZIP 华夏博物志-访客记录-2026-09-30.zip（30 KB，PK 头正确）",
+    "mobile: 清空后从导出包导入还原成功",
+    "mobile: 无横向溢出，触控目标均 ≥43px"
+  ]
+}

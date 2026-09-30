@@ -484,7 +484,8 @@ export default function App() {
             轻触朱印 · 一步入卷
             {mapQuality && <span className="ml-2 text-[#d43a28]">{MAP_QUALITY_LABEL[mapQuality]}</span>}
           </div>
-          {/* ── 右下角署名 ── */}
+          {/* ── 右下角署名 + 访客记录入口 ── */}
+          <a id="visitor-link" href="./visitor-records/">访客实地记录</a>
           <span id="author">作者：德里克文</span>
         </div>
       </footer>
