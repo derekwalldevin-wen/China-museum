@@ -191,4 +191,7 @@ export const storyTeaserHooks: Record<string, string> = {
   'qz-mbs': '一块墓碑，为什么两面写着两种文字？',
   'jl-ljm': '这只面具为什么少了一只耳朵？',
   'jdz-blz': '“百鹿图”为什么其实不到一百只鹿？',
+  'sy-yyd': '一把没有开刃的剑，为什么是御用之物？',
+  'qz-jc': '“军持”在普通人家里是做什么用的？',
+  'gx-qht': '一只铜筒上，为什么画着一段升仙故事？',
 };

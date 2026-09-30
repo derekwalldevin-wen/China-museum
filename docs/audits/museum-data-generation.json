@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-09-30T15:37:56.148Z",
+ "generatedAt": "2026-09-30T15:46:40.788Z",
  "source": {
   "path": "src/data/museums.ts",
-  "bytes": 104540,
-  "sha256": "c521bd844ccde26a965157d5aefa54e6904d11463e56957a003ad18934d75ce1",
+  "bytes": 104407,
+  "sha256": "7f9de2dd8353df13f0caf2071f65475effc567902788985fa7231d69261c0cf2",
   "museums": 59,
   "artifacts": 206
  },
@@ -14,14 +14,14 @@
  },
  "searchCorpus": {
   "path": "src/data/artifact-search.json",
-  "bytes": 51415,
-  "sha256": "2dfc5796ba0c14dbc54c85f9a1bcc6a202d81f2c2d4b26bb56d6de1b675f851d",
+  "bytes": 51266,
+  "sha256": "cad295dc89779c03cf03028bef23b5757709d0a1acc7011565a822996e543886",
   "entries": 206
  },
  "payloads": {
   "directory": "src/data/museum-payloads",
   "count": 59,
-  "totalBytes": 105045,
+  "totalBytes": 104912,
   "files": [
    {
     "id": "gugong",
@@ -96,8 +96,8 @@
    {
     "id": "sygugong",
     "path": "src/data/museum-payloads/sygugong.json",
-    "bytes": 1738,
-    "sha256": "a4dc1aa87b877359e5f51500ce13e4423a1b9ad5a6008644912c6a65a96e43e6",
+    "bytes": 1646,
+    "sha256": "dced0cd3b6bdf6dc050fe8b1ffcf042b16980787fbea0cda0a607f6a49c58fe8",
     "artifacts": 3
    },
    {
@@ -173,8 +173,8 @@
    {
     "id": "quanzhou",
     "path": "src/data/museum-payloads/quanzhou.json",
-    "bytes": 1632,
-    "sha256": "e821725200768a88c24bf54ead8fff0bde41d4a6dd31fbd85bddc32a36608b52",
+    "bytes": 1553,
+    "sha256": "1abdcdaa033991c4ae35d156af25ab5e831e29f03ddc97c2c9042a1ab2da26cc",
     "artifacts": 3
    },
    {
@@ -285,8 +285,8 @@
    {
     "id": "guangxi",
     "path": "src/data/museum-payloads/guangxi.json",
-    "bytes": 1437,
-    "sha256": "09675c2dfb786699f38c6a6620833f61f14c50652efb910ca62734380bf3be49",
+    "bytes": 1475,
+    "sha256": "234ca45c26d3b8f5513354a4bf58443c520bfd3240ea5b86cfb319dcea52d45e",
     "artifacts": 3
    },
    {
