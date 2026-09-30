@@ -1,0 +1,748 @@
+{
+ "records": {
+  "gb-hmwd": {
+   "src": "/artifacts/gb-hmwd.jpg",
+   "credit": "HouMuWuDingFullView.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/gb-hmwd.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "既有 AI 风格样片（生成器待补证）",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "unknown",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/gb-hmwd.jpg",
+        "credit": "HouMuWuDingFullView.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "既有风格样片通过视觉复核；鼎体、双耳、四足和主要纹带关系清晰，细部仍待史实审核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/gb-hmwd.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "HouMuWuDingFullView.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "7f94efd9197da68da234eb978f79a27d62f6d0aa0c88c3839090e878968936ea",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HouMuWuDingFullView.jpg",
+      "sourceTitle": "HouMuWuDingFullView.jpg",
+      "author": "Mlogic",
+      "institution": "中国国家博物馆",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "gb-syz": {
+   "src": "/artifacts/gb-syz.jpg",
+   "credit": "Square zun with four sheep 01.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/gb-syz.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/gb-syz.jpg",
+        "credit": "Square zun with four sheep 01.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "方尊、四羊首、外撇口沿与主要纹带关系清晰；细部纹样和构件数量仍待史实审核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/gb-syz.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Square zun with four sheep 01.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "244a3b01198de4ca251cd4d1e0732d9eab34c9c54601d1fca7577108910b0b24",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Square_zun_with_four_sheep_01.jpg",
+      "sourceTitle": "Square zun with four sheep 01.jpg",
+      "author": "Smartneddy",
+      "institution": "中国国家博物馆",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "gb-jgs": {
+   "src": "/artifacts/gb-jgs.jpg",
+   "credit": "Ceramic figure of a story-teller.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/gb-jgs.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "既有 AI 风格样片（生成器待补证）",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "unknown",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/gb-jgs.jpg",
+        "credit": "Ceramic figure of a story-teller.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "既有风格样片通过视觉复核；说唱俑姿态、鼓与陶质语义明确，细部仍待史实审核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/gb-jgs.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Ceramic figure of a story-teller.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "aea5d9d84b161d7b85dab8ff4dc34b05dc2cf670f0de81dcf91d2c1a9e6b0758",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceramic_figure_of_a_story-teller.jpg",
+      "sourceTitle": "Ceramic figure of a story-teller.jpg",
+      "author": "Shujianyang",
+      "institution": "中国国家博物馆",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "gb-jlfw": {
+   "src": "/artifacts/gb-jlfw.jpg",
+   "credit": "孝端显皇后九龙九凤冠.jpeg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/gb-jlfw.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/gb-jlfw.jpg",
+        "credit": "孝端显皇后九龙九凤冠.jpeg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "冠体、点翠色彩、珠宝层级与垂饰完整，展柜干扰已清除；龙凤数量和细部仍待权威资料复核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/gb-jlfw.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "孝端显皇后九龙九凤冠.jpeg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "35db0fa195dfd37b811c1cd59ee79dced595cee803d7d537716c3e0934cf926c",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%AD%9D%E7%AB%AF%E6%98%BE%E7%9A%87%E5%90%8E%E4%B9%9D%E9%BE%99%E4%B9%9D%E5%87%A4%E5%86%A0.jpeg",
+      "sourceTitle": "孝端显皇后九龙九凤冠.jpeg",
+      "author": "清原染子",
+      "institution": "中国国家博物馆",
+      "license": "PD-self",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:%E5%AD%9D%E7%AB%AF%E6%98%BE%E7%9A%87%E5%90%8E%E4%B9%9D%E9%BE%99%E4%B9%9D%E5%87%A4%E5%86%A0.jpeg#Licensing",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "gb-hsyl": {
+   "src": "/artifacts/gb-hsyl.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "gb-gyts": {
+   "src": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+   "credit": "Augustokremo / Wikimedia Commons / CC BY-SA 4.0",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Augustokremo / Wikimedia Commons / CC BY-SA 4.0",
+     "provenance": {
+      "type": "source",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%B9%B3%E9%B1%BC%E7%9F%B3%E6%96%A7%E5%9B%BE%E5%BD%A9%E7%BB%98%E9%99%B6%E7%BC%B808764.jpg",
+      "sourceTitle": "鹳鱼石斧图彩绘陶缸08764.jpg",
+      "author": "Augustokremo",
+      "institution": "中国国家博物馆",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-22",
+      "linkCheckedAt": "2026-09-22",
+      "authorizationStatus": "verified",
+      "assetMatchStatus": "verified",
+      "evidenceNote": "与馆方图核对：白鹳衔鱼、右侧石斧、器耳及收腹轮廓一致；选用正面08764，背面08766不用于展示。Commons原件与公布SHA-1一致，摄影者标明CC BY-SA 4.0。",
+      "assetSha256": "c80d648cbfb383b6c57363320f5fbb223d5be45a0282b831a3279145829ed209",
+      "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/%E9%B9%B3%E9%B1%BC%E7%9F%B3%E6%96%A7%E5%9B%BE%E5%BD%A9%E7%BB%98%E9%99%B6%E7%BC%B808764.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalSha1": "d2ce9e3281e23b92cadc50580212fde4684624f7",
+      "originalSha256": "b23cf365f1d7f5d64f9ac4979dd8849e1026dd63bc71d656b829b4c86c062edd",
+      "processingManifest": "/data/image-processing/collection-20260922-gb-gyts.json"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-09-22",
+      "reviewedBy": "馆方图与开放许可原件比对",
+      "note": "与馆方图核对：白鹳衔鱼、右侧石斧、器耳及收腹轮廓一致；选用正面08764，背面08766不用于展示。Commons原件与公布SHA-1一致，摄影者标明CC BY-SA 4.0。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Augustokremo / Wikimedia Commons / CC BY-SA 4.0",
+     "provenance": {
+      "type": "source",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%B9%B3%E9%B1%BC%E7%9F%B3%E6%96%A7%E5%9B%BE%E5%BD%A9%E7%BB%98%E9%99%B6%E7%BC%B808764.jpg",
+      "sourceTitle": "鹳鱼石斧图彩绘陶缸08764.jpg",
+      "author": "Augustokremo",
+      "institution": "中国国家博物馆",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-22",
+      "linkCheckedAt": "2026-09-22",
+      "authorizationStatus": "verified",
+      "assetMatchStatus": "verified",
+      "evidenceNote": "与馆方图核对：白鹳衔鱼、右侧石斧、器耳及收腹轮廓一致；选用正面08764，背面08766不用于展示。Commons原件与公布SHA-1一致，摄影者标明CC BY-SA 4.0。",
+      "assetSha256": "c80d648cbfb383b6c57363320f5fbb223d5be45a0282b831a3279145829ed209",
+      "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/%E9%B9%B3%E9%B1%BC%E7%9F%B3%E6%96%A7%E5%9B%BE%E5%BD%A9%E7%BB%98%E9%99%B6%E7%BC%B808764.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalSha1": "d2ce9e3281e23b92cadc50580212fde4684624f7",
+      "originalSha256": "b23cf365f1d7f5d64f9ac4979dd8849e1026dd63bc71d656b829b4c86c062edd",
+      "processingManifest": "/data/image-processing/collection-20260922-gb-gyts.json"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-09-22",
+      "reviewedBy": "馆方图与开放许可原件比对",
+      "note": "与馆方图核对：白鹳衔鱼、右侧石斧、器耳及收腹轮廓一致；选用正面08764，背面08766不用于展示。Commons原件与公布SHA-1一致，摄影者标明CC BY-SA 4.0。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-22",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247232.shtml",
+    "note": "与馆方图核对：白鹳衔鱼、右侧石斧、器耳及收腹轮廓一致；选用正面08764，背面08766不用于展示。Commons原件与公布SHA-1一致，摄影者标明CC BY-SA 4.0。"
+   }
+  },
+  "gb-yygd": {
+   "src": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+   "credit": "Gary Todd / Wikimedia Commons / CC0",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Gary Todd / Wikimedia Commons / CC0",
+     "provenance": {
+      "type": "source",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_Han_Bronze_Goose-shaped_Lamp_-_a.jpg",
+      "sourceTitle": "Western Han Bronze Goose-shaped Lamp - a.jpg",
+      "author": "Gary Todd",
+      "institution": "中国国家博物馆",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verifiedAt": "2026-09-22",
+      "linkCheckedAt": "2026-09-22",
+      "authorizationStatus": "verified",
+      "assetMatchStatus": "verified",
+      "evidenceNote": "与馆方图核对：雁衔鱼灯罩、灯盘开口、腹部红白彩点与鳞纹、把手结构一致；拍摄方向不同。馆藏机构及山西出土信息相符。Commons摄影原件标明CC0。",
+      "assetSha256": "9a484451c5af79f37f8368c6fc9ed527cd026889d7166c87395f1f3cb5bce320",
+      "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Western_Han_Bronze_Goose-shaped_Lamp_-_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalSha1": "570bc4ecafcbf33e02b903e219147ac1584a5a31",
+      "originalSha256": "b5b043e2ba288aa39536e56c675b829f08783cc9c38c0ea23e68ba4e87e9d51c",
+      "processingManifest": "/data/image-processing/collection-20260922-gb-yygd.json"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-09-22",
+      "reviewedBy": "馆方图与开放许可原件比对",
+      "note": "与馆方图核对：雁衔鱼灯罩、灯盘开口、腹部红白彩点与鳞纹、把手结构一致；拍摄方向不同。馆藏机构及山西出土信息相符。Commons摄影原件标明CC0。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Gary Todd / Wikimedia Commons / CC0",
+     "provenance": {
+      "type": "source",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_Han_Bronze_Goose-shaped_Lamp_-_a.jpg",
+      "sourceTitle": "Western Han Bronze Goose-shaped Lamp - a.jpg",
+      "author": "Gary Todd",
+      "institution": "中国国家博物馆",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verifiedAt": "2026-09-22",
+      "linkCheckedAt": "2026-09-22",
+      "authorizationStatus": "verified",
+      "assetMatchStatus": "verified",
+      "evidenceNote": "与馆方图核对：雁衔鱼灯罩、灯盘开口、腹部红白彩点与鳞纹、把手结构一致；拍摄方向不同。馆藏机构及山西出土信息相符。Commons摄影原件标明CC0。",
+      "assetSha256": "9a484451c5af79f37f8368c6fc9ed527cd026889d7166c87395f1f3cb5bce320",
+      "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Western_Han_Bronze_Goose-shaped_Lamp_-_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalSha1": "570bc4ecafcbf33e02b903e219147ac1584a5a31",
+      "originalSha256": "b5b043e2ba288aa39536e56c675b829f08783cc9c38c0ea23e68ba4e87e9d51c",
+      "processingManifest": "/data/image-processing/collection-20260922-gb-yygd.json"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-09-22",
+      "reviewedBy": "馆方图与开放许可原件比对",
+      "note": "与馆方图核对：雁衔鱼灯罩、灯盘开口、腹部红白彩点与鳞纹、把手结构一致；拍摄方向不同。馆藏机构及山西出土信息相符。Commons摄影原件标明CC0。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-22",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247233.shtml",
+    "note": "与馆方图核对：雁衔鱼灯罩、灯盘开口、腹部红白彩点与鳞纹、把手结构一致；拍摄方向不同。馆藏机构及山西出土信息相符。Commons摄影原件标明CC0。"
+   }
+  },
+  "gb-cxct": {
+   "src": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+   "credit": "Editor at Large / Wikimedia Commons / CC BY-SA 2.5",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Editor at Large / Wikimedia Commons / CC BY-SA 2.5",
+     "provenance": {
+      "type": "source",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CMOC_Treasures_of_Ancient_China_exhibit_-_boat-shaped_pot.jpg",
+      "sourceTitle": "CMOC Treasures of Ancient China exhibit - boat-shaped pot.jpg",
+      "author": "Editor at Large",
+      "institution": "中国国家博物馆",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "verifiedAt": "2026-09-22",
+      "linkCheckedAt": "2026-09-22",
+      "authorizationStatus": "verified",
+      "assetMatchStatus": "verified",
+      "evidenceNote": "与馆方图核对：船形轮廓、双系耳、黑色网格带与彩绘剥落位置一致；Commons展览信息支持馆藏对应，摄影原件标明CC BY-SA 2.5。",
+      "assetSha256": "f46eb99baa35b46d9133c1f19b806c8f687ccefa1cc8b85cf848935953257f29",
+      "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。Commons上传历史记载此前已旋转、裁切和清理；本站不再裁切，不进行修复或AI补绘。",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/CMOC_Treasures_of_Ancient_China_exhibit_-_boat-shaped_pot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalSha1": "ef4cb2366756525a9dbabb4a390cddbd2c940ae7",
+      "originalSha256": "9a56efe986c9219cbf87bea12039439ae5076f1bee0126400958e0ead5d64a4d",
+      "processingManifest": "/data/image-processing/collection-20260922-gb-cxct.json"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-09-22",
+      "reviewedBy": "馆方图与开放许可原件比对",
+      "note": "与馆方图核对：船形轮廓、双系耳、黑色网格带与彩绘剥落位置一致；Commons展览信息支持馆藏对应，摄影原件标明CC BY-SA 2.5。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Editor at Large / Wikimedia Commons / CC BY-SA 2.5",
+     "provenance": {
+      "type": "source",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CMOC_Treasures_of_Ancient_China_exhibit_-_boat-shaped_pot.jpg",
+      "sourceTitle": "CMOC Treasures of Ancient China exhibit - boat-shaped pot.jpg",
+      "author": "Editor at Large",
+      "institution": "中国国家博物馆",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "verifiedAt": "2026-09-22",
+      "linkCheckedAt": "2026-09-22",
+      "authorizationStatus": "verified",
+      "assetMatchStatus": "verified",
+      "evidenceNote": "与馆方图核对：船形轮廓、双系耳、黑色网格带与彩绘剥落位置一致；Commons展览信息支持馆藏对应，摄影原件标明CC BY-SA 2.5。",
+      "assetSha256": "f46eb99baa35b46d9133c1f19b806c8f687ccefa1cc8b85cf848935953257f29",
+      "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。Commons上传历史记载此前已旋转、裁切和清理；本站不再裁切，不进行修复或AI补绘。",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/CMOC_Treasures_of_Ancient_China_exhibit_-_boat-shaped_pot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalSha1": "ef4cb2366756525a9dbabb4a390cddbd2c940ae7",
+      "originalSha256": "9a56efe986c9219cbf87bea12039439ae5076f1bee0126400958e0ead5d64a4d",
+      "processingManifest": "/data/image-processing/collection-20260922-gb-cxct.json"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-09-22",
+      "reviewedBy": "馆方图与开放许可原件比对",
+      "note": "与馆方图核对：船形轮廓、双系耳、黑色网格带与彩绘剥落位置一致；Commons展览信息支持馆藏对应，摄影原件标明CC BY-SA 2.5。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-22",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247229.shtml",
+    "note": "与馆方图核对：船形轮廓、双系耳、黑色网格带与彩绘剥落位置一致；Commons展览信息支持馆藏对应，摄影原件标明CC BY-SA 2.5。"
+   }
+  },
+  "yn-dwy": {
+   "src": "/artifacts/yn-dwy.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "qh-gyq": {
+   "src": "/artifacts/qh-gyq.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  }
+ },
+ "delivery": {
+  "gb-hmwd": {
+   "src": "/artifacts/gb-hmwd.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7f94efd9197da68d-detail-w480.webp",
+      "width": 480,
+      "height": 625
+     },
+     {
+      "src": "/artifact-responsive/7f94efd9197da68d-detail-w691.webp",
+      "width": 691,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-syz": {
+   "src": "/artifacts/gb-syz.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/244a3b01198de4ca-detail-w480.webp",
+      "width": 480,
+      "height": 553
+     },
+     {
+      "src": "/artifact-responsive/244a3b01198de4ca-detail-w695.webp",
+      "width": 695,
+      "height": 800
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-jgs": {
+   "src": "/artifacts/gb-jgs.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/aea5d9d84b161d7b-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/aea5d9d84b161d7b-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-jlfw": {
+   "src": "/artifacts/gb-jlfw.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/35db0fa195dfd37b-detail-w480.webp",
+      "width": 480,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/35db0fa195dfd37b-detail-w800.webp",
+      "width": 800,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/35db0fa195dfd37b-detail-w900.webp",
+      "width": 900,
+      "height": 675
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-hsyl": {
+   "src": "/artifacts/gb-hsyl.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4c90a46a33e0fe5e-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/4c90a46a33e0fe5e-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "gb-gyts": {
+   "src": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c80d648cbfb383b6-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/c80d648cbfb383b6-detail-w800.webp",
+      "width": 800,
+      "height": 1200
+     },
+     {
+      "src": "/artifact-responsive/c80d648cbfb383b6-detail-w1200.webp",
+      "width": 1200,
+      "height": 1799
+     },
+     {
+      "src": "/artifact-responsive/c80d648cbfb383b6-detail-w1600.webp",
+      "width": 1600,
+      "height": 2399
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-yygd": {
+   "src": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9a484451c5af79f3-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/9a484451c5af79f3-detail-w800.webp",
+      "width": 800,
+      "height": 1200
+     },
+     {
+      "src": "/artifact-responsive/9a484451c5af79f3-detail-w1200.webp",
+      "width": 1200,
+      "height": 1800
+     },
+     {
+      "src": "/artifact-responsive/9a484451c5af79f3-detail-w1600.webp",
+      "width": 1600,
+      "height": 2400
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-cxct": {
+   "src": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f46eb99baa35b46d-detail-w480.webp",
+      "width": 480,
+      "height": 382
+     },
+     {
+      "src": "/artifact-responsive/f46eb99baa35b46d-detail-w800.webp",
+      "width": 800,
+      "height": 637
+     },
+     {
+      "src": "/artifact-responsive/f46eb99baa35b46d-detail-w1200.webp",
+      "width": 1200,
+      "height": 956
+     },
+     {
+      "src": "/artifact-responsive/f46eb99baa35b46d-detail-w1600.webp",
+      "width": 1600,
+      "height": 1274
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "yn-dwy": {
+   "src": "/artifacts/yn-dwy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/dbc804e0b7f9f39b-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/dbc804e0b7f9f39b-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "qh-gyq": {
+   "src": "/artifacts/qh-gyq.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4ddd406e970a49c9-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/4ddd406e970a49c9-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

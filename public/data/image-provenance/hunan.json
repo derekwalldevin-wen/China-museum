@@ -1,0 +1,226 @@
+{
+ "records": {
+  "hun-tbh": {
+   "src": "/artifacts/hun-tbh.jpg",
+   "credit": "File:Banière funéraire, peinture sur soie, Chine.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/hun-tbh.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/hun-tbh.jpg",
+        "credit": "File:Banière funéraire, peinture sur soie, Chine.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "T 形帛画轮廓通过；内部神兽、人物与日月纹样为生成式重构。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/hun-tbh.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:Banière funéraire, peinture sur soie, Chine.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "3c5c3613eba8479354f45ed6edeff946a52f96777d9a8feb696c814de2e88454",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bani%C3%A8re_fun%C3%A9raire%2C_peinture_sur_soie%2C_Chine.jpg",
+      "sourceTitle": "Banière funéraire, peinture sur soie, Chine.jpg",
+      "author": "佚名（古画）；Yann Forget（扫描上传）",
+      "institution": "湖南博物院",
+      "license": "PD-Art",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex source QA",
+      "note": "真实来源图用于保存全卷或全文信息；来源页与许可字段仍待补充。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "hun-ssd": {
+   "src": "/artifacts/hun-ssd.jpg",
+   "credit": "File:Plain Unlined Silk Gauze Gown, Hunan Museum, picture2.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/hun-ssd.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "既有 AI 风格样片（生成器待补证）",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "unknown",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/hun-ssd.jpg",
+        "credit": "File:Plain Unlined Silk Gauze Gown, Hunan Museum, picture2.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "既有风格样片通过视觉复核；襌衣形制、透明质感与缘饰关系清晰，织物细节仍待史实审核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/hun-ssd.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:Plain Unlined Silk Gauze Gown, Hunan Museum, picture2.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "47c7ca323c74e6dc3780aafccceaa237e9033b8b70d8d122c218aeb78fe9a889",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plain_Unlined_Silk_Gauze_Gown%2C_Hunan_Museum%2C_picture2.jpg",
+      "sourceTitle": "Plain Unlined Silk Gauze Gown, Hunan Museum, picture2.jpg",
+      "author": "Huangdan2060",
+      "institution": "湖南博物院",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "hun-dhd": {
+   "src": "/artifacts/hun-dhd.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "hun-mfl": {
+   "src": "/artifacts/hun-mfl.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  }
+ },
+ "delivery": {
+  "hun-tbh": {
+   "src": "/artifacts/hun-tbh.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/3c5c3613eba84793-scroll-detail-w485.webp",
+      "width": 485,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hun-ssd": {
+   "src": "/artifacts/hun-ssd.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/47c7ca323c74e6dc-detail-w480.webp",
+      "width": 480,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/47c7ca323c74e6dc-detail-w800.webp",
+      "width": 800,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/47c7ca323c74e6dc-detail-w900.webp",
+      "width": 900,
+      "height": 675
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hun-dhd": {
+   "src": "/artifacts/hun-dhd.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/fa6bbc72b9c53799-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/fa6bbc72b9c53799-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hun-mfl": {
+   "src": "/artifacts/hun-mfl.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/447434b69429acb3-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/447434b69429acb3-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

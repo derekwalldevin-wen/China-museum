@@ -1,0 +1,132 @@
+{
+ "records": {
+  "cq-nxz": {
+   "src": "/artifacts/cq-nxz.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "cq-wyq": {
+   "src": "/artifacts/cq-wyq.jpg",
+   "credit": "File:Wuyang Que, 2017-09-21 03.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/cq-wyq.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/cq-wyq.jpg",
+        "credit": "File:Wuyang Que, 2017-09-21 03.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "单阙、微收石柱、叠涩阙楼、出檐与现存浮雕构件关系通过；未补造成对阙或题刻。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/cq-wyq.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:Wuyang Que, 2017-09-21 03.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "2972f50bc7e2864f8365291ed7db08ff7b87279827cd97fdb957420f9f9b909b",
+      "evidenceNote": "已检索到分类页线索，逐文件说明页读取失败；不据文件名或分类页页脚填写作者与许可。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已检索到分类页线索，逐文件说明页读取失败；不据文件名或分类页页脚填写作者与许可。"
+   }
+  },
+  "cq-hty": {
+   "src": "/artifacts/cq-hty.jpg",
+   "credit": "AI 生成示意",
+   "ai": true,
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "馆藏或研究线索，不是当前 AI 图的来源或授权证明；尚未取得可绑定到当前文物的开放许可文件。",
+    "authorityUrl": "https://www.3gmuseum.cn/web/article/1431993710239088640/web/content_1431993710239088640.html"
+   }
+  }
+ },
+ "delivery": {
+  "cq-nxz": {
+   "src": "/artifacts/cq-nxz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/bcd96387590dcfe8-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/bcd96387590dcfe8-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "cq-wyq": {
+   "src": "/artifacts/cq-wyq.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/2972f50bc7e2864f-detail-w480.webp",
+      "width": 480,
+      "height": 719
+     },
+     {
+      "src": "/artifact-responsive/2972f50bc7e2864f-detail-w601.webp",
+      "width": 601,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cq-hty": {
+   "src": "/artifacts/cq-hty.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/2279bb79b0129a15-scroll-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

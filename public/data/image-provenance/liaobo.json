@@ -1,0 +1,163 @@
+{
+ "records": {
+  "lb-zfsg": {
+   "src": "/artifacts/lb-zfsg.jpg",
+   "credit": "AI 生成示意",
+   "ai": true,
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "馆藏或研究线索，不是当前 AI 图的来源或授权证明；尚未取得可绑定到当前文物的开放许可文件。",
+    "authorityUrl": "https://zhuanti.mct.gov.cn/lnsbwg2022.html"
+   }
+  },
+  "lb-gf": {
+   "src": "/artifacts/lb-gf.jpg",
+   "credit": "AI 生成示意",
+   "ai": true,
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "馆藏或研究线索，不是当前 AI 图的来源或授权证明；尚未取得可绑定到当前文物的开放许可文件。",
+    "authorityUrl": "https://zhuanti.mct.gov.cn/lnsbwg2022.html"
+   }
+  },
+  "lb-yzl": {
+   "src": "/artifacts/lb-yzl.jpg",
+   "credit": "Hongshan pig-dragon (reassigned)",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/lb-yzl.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/lb-yzl.jpg",
+        "credit": "Hongshan pig-dragon (reassigned)"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "保留来源图的抽象 C 形与穿孔；名称和具体形制仍待权威核对。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/lb-yzl.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/lb-yzl.jpg",
+        "credit": "Hongshan pig-dragon (reassigned)"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "保留来源图的抽象 C 形与穿孔；名称和具体形制仍待权威核对。"
+     }
+    }
+   }
+  }
+ },
+ "delivery": {
+  "lb-zfsg": {
+   "src": "/artifacts/lb-zfsg.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/32cfa0ba533d0a9c-scroll-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "lb-gf": {
+   "src": "/artifacts/lb-gf.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/44d109c453c5564b-scroll-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "lb-yzl": {
+   "src": "/artifacts-v2/p1/lb-yzl.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/cd8680bb5c22f3a5-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/cd8680bb5c22f3a5-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/cd8680bb5c22f3a5-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/lb-yzl.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/5072d2a020f0b978-detail-w480.webp",
+       "width": 480,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/5072d2a020f0b978-detail-w800.webp",
+       "width": 800,
+       "height": 533
+      },
+      {
+       "src": "/artifact-responsive/5072d2a020f0b978-detail-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  }
+ }
+}

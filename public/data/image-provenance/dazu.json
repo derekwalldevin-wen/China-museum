@@ -1,0 +1,145 @@
+{
+ "records": {
+  "dz-qsg": {
+   "src": "/artifacts/dz-qsg.jpg",
+   "credit": "File:Avalokitesvara.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/dz-qsg.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/dz-qsg.jpg",
+        "credit": "File:Avalokitesvara.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "千手观音中央主尊、石窟壁面属性与密集残存手臂场关系通过；画面采用建筑性裁切，未拆分为独立造像。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/dz-qsg.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:Avalokitesvara.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "9f38a8aa2856fb93f5918da11a14e96bbb59953d79cf24fe118586c6536b6a01",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avalokitesvara.jpg",
+      "sourceTitle": "Avalokitesvara.jpg",
+      "author": "Calton（页面根据版权声明推定）",
+      "institution": "大足石刻",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "dz-zlj": {
+   "src": "/artifacts/dz-zlj.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "dz-mnt": {
+   "src": "/artifacts/dz-mnt.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  }
+ },
+ "delivery": {
+  "dz-qsg": {
+   "src": "/artifacts/dz-qsg.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9f38a8aa2856fb93-detail-w480.webp",
+      "width": 480,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/9f38a8aa2856fb93-detail-w800.webp",
+      "width": 800,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/9f38a8aa2856fb93-detail-w900.webp",
+      "width": 900,
+      "height": 675
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "dz-zlj": {
+   "src": "/artifacts/dz-zlj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7f336c55b68d1bb9-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/7f336c55b68d1bb9-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "dz-mnt": {
+   "src": "/artifacts/dz-mnt.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/dfa75d4d7263b114-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/dfa75d4d7263b114-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

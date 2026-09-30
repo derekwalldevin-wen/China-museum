@@ -1,0 +1,102 @@
+{
+ "records": {
+  "sd-acy": {
+   "src": "/artifacts/sd-acy.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "sd-lgdy": {
+   "src": "/artifacts/sd-lgdy.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "sd-hts": {
+   "src": "/artifacts/sd-hts.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "sd-szb": {
+   "src": "/artifacts/sd-szb.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  }
+ },
+ "delivery": {
+  "sd-acy": {
+   "src": "/artifacts/sd-acy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6f524d7b44602ad2-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/6f524d7b44602ad2-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "sd-lgdy": {
+   "src": "/artifacts/sd-lgdy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/5cafe8e510461838-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/5cafe8e510461838-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "sd-hts": {
+   "src": "/artifacts/sd-hts.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f63827a7a81524aa-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/f63827a7a81524aa-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "sd-szb": {
+   "src": "/artifacts/sd-szb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/70d1cd74f14c1c28-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/70d1cd74f14c1c28-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

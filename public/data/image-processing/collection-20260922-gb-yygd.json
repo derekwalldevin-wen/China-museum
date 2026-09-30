@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "artifactId": "gb-yygd",
+  "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247233.shtml",
+  "reviewedAt": "2026-09-22",
+  "sourceTitle": "Western Han Bronze Goose-shaped Lamp - a.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_Han_Bronze_Goose-shaped_Lamp_-_a.jpg",
+  "author": "Gary Todd",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "derivativeLicense": "CC0",
+  "original": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Western_Han_Bronze_Goose-shaped_Lamp_-_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sha1": "570bc4ecafcbf33e02b903e219147ac1584a5a31",
+    "sha256": "b5b043e2ba288aa39536e56c675b829f08783cc9c38c0ea23e68ba4e87e9d51c",
+    "bytes": 1260474,
+    "width": 2304,
+    "height": 3456
+  },
+  "display": {
+    "src": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+    "sha256": "9a484451c5af79f37f8368c6fc9ed527cd026889d7166c87395f1f3cb5bce320",
+    "bytes": 620501,
+    "width": 1600,
+    "height": 2400,
+    "format": "JPEG"
+  },
+  "derivatives": [
+    {
+      "src": "/artifact-responsive/9a484451c5af79f3-card-w240.webp",
+      "width": 240,
+      "height": 360,
+      "bytes": 9124,
+      "sha256": "a116c116f61df9561478178e6df0e8211473bd9b3cb08aeeba3a329155b4c28d",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+      "inputSha256": "9a484451c5af79f37f8368c6fc9ed527cd026889d7166c87395f1f3cb5bce320",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9a484451c5af79f3-card-w400.webp",
+      "width": 400,
+      "height": 600,
+      "bytes": 17948,
+      "sha256": "1b0128b030f2180f16d48614c601a6dfbc5304cb0dab0b2dc3263cecdef1f131",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+      "inputSha256": "9a484451c5af79f37f8368c6fc9ed527cd026889d7166c87395f1f3cb5bce320",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9a484451c5af79f3-card-w640.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 33128,
+      "sha256": "3974e087c63a4f75a27007c2105aa4912eaa8925e102cde011ae43422da27168",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+      "inputSha256": "9a484451c5af79f37f8368c6fc9ed527cd026889d7166c87395f1f3cb5bce320",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9a484451c5af79f3-card-w960.webp",
+      "width": 960,
+      "height": 1440,
+      "bytes": 58464,
+      "sha256": "4bbb6236e81e197ede249d038449d5a0e47559ebbe3082e0e275414597dd23a8",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+      "inputSha256": "9a484451c5af79f37f8368c6fc9ed527cd026889d7166c87395f1f3cb5bce320",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9a484451c5af79f3-detail-w480.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 32382,
+      "sha256": "fe0a6c42911f90b7685e16981b7a581e60a5184221a9321fe219748c290661fb",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+      "inputSha256": "9a484451c5af79f37f8368c6fc9ed527cd026889d7166c87395f1f3cb5bce320",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9a484451c5af79f3-detail-w800.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 66636,
+      "sha256": "dad6d35be2d4e3afa9a890b4b945f950315fe53ca2b1d62609c92feb0142af48",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+      "inputSha256": "9a484451c5af79f37f8368c6fc9ed527cd026889d7166c87395f1f3cb5bce320",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9a484451c5af79f3-detail-w1200.webp",
+      "width": 1200,
+      "height": 1800,
+      "bytes": 137696,
+      "sha256": "a611b27d9e560e51f39726537e676ef196ae33a85e56632291fa4b5f10606bba",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+      "inputSha256": "9a484451c5af79f37f8368c6fc9ed527cd026889d7166c87395f1f3cb5bce320",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9a484451c5af79f3-detail-w1600.webp",
+      "width": 1600,
+      "height": 2400,
+      "bytes": 259814,
+      "sha256": "cfde7ef8855d679fb1128f6f4840bee159a7e253a2bdab8e10d61b7f48555181",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+      "inputSha256": "9a484451c5af79f37f8368c6fc9ed527cd026889d7166c87395f1f3cb5bce320",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    }
+  ],
+  "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。",
+  "priorModifications": "源文件上传前处理情况未另行确认",
+  "cropped": false,
+  "upscaled": false,
+  "aiGenerated": false,
+  "matchEvidence": "与馆方图核对：雁衔鱼灯罩、灯盘开口、腹部红白彩点与鳞纹、把手结构一致；拍摄方向不同。馆藏机构及山西出土信息相符。Commons摄影原件标明CC0。"
+}

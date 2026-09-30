@@ -1,0 +1,323 @@
+{
+ "records": {
+  "js-tysn": {
+   "src": "/artifacts/js-tysn.jpg",
+   "credit": "太阳神鸟金箔片, 2017-09-17.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/js-tysn.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/js-tysn.jpg",
+        "credit": "太阳神鸟金箔片, 2017-09-17.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "四鸟绕日识别通过；红色背衬和外圈按展陈元素处理。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/js-tysn.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/js-tysn.jpg",
+        "credit": "太阳神鸟金箔片, 2017-09-17.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "四鸟绕日识别通过；红色背衬和外圈按展陈元素处理。"
+     }
+    }
+   }
+  },
+  "js-hjm": {
+   "src": "/artifacts/js-hjm.jpg",
+   "credit": "File:Golden Mask Jinsha.JPG",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/js-hjm.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/js-hjm.jpg",
+        "credit": "File:Golden Mask Jinsha.JPG"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "金面具薄片、破损与正面陈列通过；五官细节待史料复核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/js-hjm.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/js-hjm.jpg",
+        "credit": "File:Golden Mask Jinsha.JPG"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "金面具薄片、破损与正面陈列通过；五官细节待史料复核。"
+     }
+    }
+   }
+  },
+  "js-sjc": {
+   "src": "/artifacts/js-sjc.jpg",
+   "credit": "File:Shijie Yucong.JPG",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/js-sjc.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/js-sjc.jpg",
+        "credit": "File:Shijie Yucong.JPG"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "十节比例、方体和顶端中孔通过；细刻纹与沁色待实物资料复核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/js-sjc.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/js-sjc.jpg",
+        "credit": "File:Shijie Yucong.JPG"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "十节比例、方体和顶端中孔通过；细刻纹与沁色待实物资料复核。"
+     }
+    }
+   }
+  }
+ },
+ "delivery": {
+  "js-tysn": {
+   "src": "/artifacts-v2/p1/js-tysn.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/23ca91aa61df40fd-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/23ca91aa61df40fd-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/23ca91aa61df40fd-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/js-tysn.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/e077628eca200f67-detail-w480.webp",
+       "width": 480,
+       "height": 321
+      },
+      {
+       "src": "/artifact-responsive/e077628eca200f67-detail-w800.webp",
+       "width": 800,
+       "height": 534
+      },
+      {
+       "src": "/artifact-responsive/e077628eca200f67-detail-w900.webp",
+       "width": 900,
+       "height": 601
+      }
+     ]
+    }
+   }
+  },
+  "js-hjm": {
+   "src": "/artifacts-v2/p1/js-hjm.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b4f1c27e50f4c171-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/b4f1c27e50f4c171-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/b4f1c27e50f4c171-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/js-hjm.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/3ad64b8581f8948f-detail-w480.webp",
+       "width": 480,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/3ad64b8581f8948f-detail-w800.webp",
+       "width": 800,
+       "height": 533
+      },
+      {
+       "src": "/artifact-responsive/3ad64b8581f8948f-detail-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  },
+  "js-sjc": {
+   "src": "/artifacts-v2/p1/js-sjc.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4fa7d023744db441-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/4fa7d023744db441-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/4fa7d023744db441-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/js-sjc.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/1815fa786a513c0f-detail-w375.webp",
+       "width": 375,
+       "height": 900
+      }
+     ]
+    }
+   }
+  }
+ }
+}

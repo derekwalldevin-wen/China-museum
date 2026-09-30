@@ -1,0 +1,102 @@
+{
+ "records": {
+  "nj-js": {
+   "src": "/artifacts/nj-js.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "nj-mb": {
+   "src": "/artifacts/nj-mb.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "nj-zlqx": {
+   "src": "/artifacts/nj-zlqx.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "nj-frs": {
+   "src": "/artifacts/nj-frs.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  }
+ },
+ "delivery": {
+  "nj-js": {
+   "src": "/artifacts/nj-js.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/30e12be01437bd90-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/30e12be01437bd90-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "nj-mb": {
+   "src": "/artifacts/nj-mb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4a51a817fb109f0c-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/4a51a817fb109f0c-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "nj-zlqx": {
+   "src": "/artifacts/nj-zlqx.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b1aa81e965824410-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/b1aa81e965824410-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "nj-frs": {
+   "src": "/artifacts/nj-frs.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d097af6b7421ae01-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/d097af6b7421ae01-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

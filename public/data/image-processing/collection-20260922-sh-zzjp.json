@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "artifactId": "sh-zzjp",
+  "authorityUrl": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00000699",
+  "reviewedAt": "2026-09-22",
+  "sourceTitle": "Zi Zhong Jiang pan bronzeware.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zi_Zhong_Jiang_pan_bronzeware.jpg",
+  "author": "Alexey Yakovlev",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "derivativeLicense": "CC0",
+  "original": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Zi_Zhong_Jiang_pan_bronzeware.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sha1": "4aac56a88bb4549ec4a1e5a4d45d2ae02bfb7f8f",
+    "sha256": "9bf3fd40e182145c7ffb524c4375c0e1c740efc488bb99e8173b07a12ec970b5",
+    "bytes": 1062653,
+    "width": 3557,
+    "height": 2540
+  },
+  "display": {
+    "src": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+    "sha256": "9b3128adc2434a805ce9d96611150f3c6eb91d461bb1b55d777812073accb9d5",
+    "bytes": 280830,
+    "width": 1600,
+    "height": 1143,
+    "format": "JPEG"
+  },
+  "derivatives": [
+    {
+      "src": "/artifact-responsive/9b3128adc2434a80-card-w240.webp",
+      "width": 240,
+      "height": 171,
+      "bytes": 7068,
+      "sha256": "8ee09e55268b478d004c2d14fef4c812d24c1896dcbf4f3e24dbb199261435fb",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+      "inputSha256": "9b3128adc2434a805ce9d96611150f3c6eb91d461bb1b55d777812073accb9d5",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9b3128adc2434a80-card-w400.webp",
+      "width": 400,
+      "height": 286,
+      "bytes": 14878,
+      "sha256": "d91d26ad9ac37851cc38a2e7e07ec628fb87b23b88e293fc73f18046a7a06fe8",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+      "inputSha256": "9b3128adc2434a805ce9d96611150f3c6eb91d461bb1b55d777812073accb9d5",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9b3128adc2434a80-card-w640.webp",
+      "width": 640,
+      "height": 457,
+      "bytes": 28154,
+      "sha256": "0ef5920f329f9125a319552a56c449e8c824c1d49d8a14698cc76e68bc060dc2",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+      "inputSha256": "9b3128adc2434a805ce9d96611150f3c6eb91d461bb1b55d777812073accb9d5",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9b3128adc2434a80-card-w960.webp",
+      "width": 960,
+      "height": 686,
+      "bytes": 49232,
+      "sha256": "e79d8d902df34216441f66d63f04ec14f8f675aeeb3af1b0cd87657fcc5cdb25",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+      "inputSha256": "9b3128adc2434a805ce9d96611150f3c6eb91d461bb1b55d777812073accb9d5",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9b3128adc2434a80-detail-w480.webp",
+      "width": 480,
+      "height": 343,
+      "bytes": 26094,
+      "sha256": "30dcc2547d9752349bdd3f10b32c1ca39d5348e6955e9d704cf92efc07846eb4",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+      "inputSha256": "9b3128adc2434a805ce9d96611150f3c6eb91d461bb1b55d777812073accb9d5",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9b3128adc2434a80-detail-w800.webp",
+      "width": 800,
+      "height": 572,
+      "bytes": 52288,
+      "sha256": "1dfa7241512d20ddb16bacbbbe29d37f578479201376116505b232068f037e75",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+      "inputSha256": "9b3128adc2434a805ce9d96611150f3c6eb91d461bb1b55d777812073accb9d5",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9b3128adc2434a80-detail-w1200.webp",
+      "width": 1200,
+      "height": 857,
+      "bytes": 92360,
+      "sha256": "6ffbfd3fe2fa7a1c345a21f5c294b67488af08a2520f5d024b40106ebef047c0",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+      "inputSha256": "9b3128adc2434a805ce9d96611150f3c6eb91d461bb1b55d777812073accb9d5",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/9b3128adc2434a80-detail-w1600.webp",
+      "width": 1600,
+      "height": 1143,
+      "bytes": 136584,
+      "sha256": "3c9510e9becc44f6e06f907240b1252a813afdaa8248f861b80c5e3239ecc4d8",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+      "inputSha256": "9b3128adc2434a805ce9d96611150f3c6eb91d461bb1b55d777812073accb9d5",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    }
+  ],
+  "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。",
+  "priorModifications": "源文件上传前处理情况未另行确认",
+  "cropped": false,
+  "upscaled": false,
+  "aiGenerated": false,
+  "matchEvidence": "与馆方图核对：双耳、沿口角兽、盘内立鸟及鱼鸟布局、蛙龟造型和蓝绿色锈斑一致。Commons摄影原件标明CC0；其年代、尺寸和铭文说明存在错误，事实仍采用馆方春秋早期、口径45厘米、高18厘米、铭文32字，不采纳Commons说明文字。"
+}

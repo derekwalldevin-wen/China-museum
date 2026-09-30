@@ -1,0 +1,78 @@
+{
+ "records": {
+  "gd-qjy": {
+   "src": "/artifacts/gd-qjy.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "gd-dsk": {
+   "src": "/artifacts/gd-dsk.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "gd-mlt": {
+   "src": "/artifacts/gd-mlt.jpg",
+   "credit": "AI 生成示意",
+   "ai": true,
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "馆藏或研究线索，不是当前 AI 图的来源或授权证明；尚未取得可绑定到当前文物的开放许可文件。",
+    "authorityUrl": "https://www.gdmuseum.org.cn/cn/col49/149836"
+   }
+  }
+ },
+ "delivery": {
+  "gd-qjy": {
+   "src": "/artifacts/gd-qjy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/35acf5a848d8d710-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/35acf5a848d8d710-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "gd-dsk": {
+   "src": "/artifacts/gd-dsk.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a68793a9d0c48aea-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/a68793a9d0c48aea-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "gd-mlt": {
+   "src": "/artifacts/gd-mlt.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c10cbf3a47e1f70b-scroll-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

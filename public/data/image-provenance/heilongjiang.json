@@ -1,0 +1,304 @@
+{
+ "records": {
+  "hlj-tzl": {
+   "src": "/artifacts/hlj-tzl.jpg",
+   "credit": "File:铜坐龙-4.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/hlj-tzl.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/hlj-tzl.jpg",
+        "credit": "File:铜坐龙-4.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "坐龙单体、昂首、长前肢、坐姿与深色铜锈通过；低分辨率原图限制下的具体动物纹细节仍待复核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/hlj-tzl.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:铜坐龙-4.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "60d97e5e0fc42bd0a08c984aef36b09eaa2bf39816f3e6d6156ae81df937fc52",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%93%9C%E5%9D%90%E9%BE%99-4.jpg",
+      "sourceTitle": "铜坐龙-4.jpg",
+      "author": "Huanokinhejo",
+      "institution": "黑龙江省博物馆",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "hlj-gys": {
+   "src": "/artifacts/hlj-gys.jpg",
+   "credit": "File:桂叶形石器.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/hlj-gys.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/hlj-gys.jpg",
+        "credit": "File:桂叶形石器.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "石制尖状器轮廓与材质通过；具体器类判定仍待史实审核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/hlj-gys.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/hlj-gys.jpg",
+        "credit": "File:桂叶形石器.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "石制尖状器轮廓与材质通过；具体器类判定仍待史实审核。"
+     }
+    }
+   }
+  },
+  "hlj-syj": {
+   "src": "/artifacts-v2/ai-pending-20260923/hlj-syj.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-pending-20260923/hlj-syj.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "quarantined-six-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/quarantined-six-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://wlt.hlj.gov.cn/wlt/c114162/202508/c00_31863487.shtml",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-pending-20260923/hlj-syj.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "quarantined-six-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/quarantined-six-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://wlt.hlj.gov.cn/wlt/c114162/202508/c00_31863487.shtml",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-23",
+    "authorityUrl": "https://wlt.hlj.gov.cn/wlt/c114162/202508/c00_31863487.shtml",
+    "note": "找到两馆展览中的黑龙江双鱼纹大铜镜线索，页面超时；不能据同名把不同尺寸、出土地的双鱼镜代入。 当前AI示意图仅据馆方文字生成，具体造型与细节继续待真品影像核验。"
+   },
+   "retiredAssets": [
+    {
+     "src": "/artifacts/hlj-syj.jpg",
+     "reason": "分类页出现复制品线索；文件说明页未能读取，不能认定为原件影像。",
+     "retiredAt": "2026-09-15"
+    },
+    {
+     "src": "/artifacts-v2/p2-source/hlj-syj.png",
+     "reason": "分类页出现复制品线索；文件说明页未能读取，不能认定为原件影像。",
+     "retiredAt": "2026-09-15"
+    }
+   ]
+  }
+ },
+ "delivery": {
+  "hlj-tzl": {
+   "src": "/artifacts/hlj-tzl.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/60d97e5e0fc42bd0-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/60d97e5e0fc42bd0-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hlj-gys": {
+   "src": "/artifacts-v2/p1/hlj-gys.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7786922b643b8492-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/7786922b643b8492-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/7786922b643b8492-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/hlj-gys.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/cc163339e426f84c-detail-w480.webp",
+       "width": 480,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/cc163339e426f84c-detail-w800.webp",
+       "width": 800,
+       "height": 533
+      },
+      {
+       "src": "/artifact-responsive/cc163339e426f84c-detail-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  },
+  "hlj-syj": {
+   "src": "/artifacts-v2/ai-pending-20260923/hlj-syj.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7856595d79a8cb76-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/7856595d79a8cb76-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/7856595d79a8cb76-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

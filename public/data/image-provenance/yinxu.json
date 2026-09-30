@@ -1,0 +1,163 @@
+{
+ "records": {
+  "yx-sxd": {
+   "src": "/artifacts/yx-sxd.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "yx-yz": {
+   "src": "/artifacts/yx-yz.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "yx-jg": {
+   "src": "/artifacts/yx-jg.jpg",
+   "credit": "Shang Ox Bone Oracle Bones.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/yx-jg.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/yx-jg.jpg",
+        "credit": "Shang Ox Bone Oracle Bones.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "两块卜骨的数量与关系通过；生成刻辞不可释读。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/yx-jg.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/yx-jg.jpg",
+        "credit": "Shang Ox Bone Oracle Bones.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "两块卜骨的数量与关系通过；生成刻辞不可释读。"
+     }
+    }
+   }
+  }
+ },
+ "delivery": {
+  "yx-sxd": {
+   "src": "/artifacts/yx-sxd.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/94e672c3e664a933-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/94e672c3e664a933-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "yx-yz": {
+   "src": "/artifacts/yx-yz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/73e6e01560c4f8c7-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/73e6e01560c4f8c7-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "yx-jg": {
+   "src": "/artifacts-v2/p1/yx-jg.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/706d51f2973313b9-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/706d51f2973313b9-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/706d51f2973313b9-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/yx-jg.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/be9b08656114d15d-detail-w480.webp",
+       "width": 480,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/be9b08656114d15d-detail-w800.webp",
+       "width": 800,
+       "height": 533
+      },
+      {
+       "src": "/artifact-responsive/be9b08656114d15d-detail-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,646 @@
+{
+ "records": {
+  "gg-qmsh": {
+   "src": "/artifact-sources/user-qingming/gg-qmsh-reading.jpg",
+   "credit": "用户提供《清明上河图》分段影像 · 画心拼接浏览版（不含完整题跋）",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/user-qingming/gg-qmsh-hongqiao-card.jpg",
+     "kind": "source",
+     "fit": "cover",
+     "credit": "用户提供《清明上河图》影像 · 虹桥局部",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "sourceTitle": "用户提供的高清分段影像：第8段",
+      "author": "张择端（作品作者；数字影像制作方待核）",
+      "assetSha256": "c73cf96aa9955e619579fb785a6f18fbf60ef4aca793463731da76944ccbe4bb",
+      "originalSha256": "15f2cd5c3b6182e4b4f57fe6be08f1900c523033fd663043d7179f81688fd98f",
+      "processingManifest": "/data/image-processing/gg-qmsh-user-2026-09-16.json",
+      "evidenceNote": "用户于2026-09-16提供本机文件；未附来源网页或许可。已核对画面与局部对应关系，不据此确认数字文件出处及授权。",
+      "modifications": "从同源第8段裁取虹桥局部，等比缩小并编码JPEG/WebP；未调色、未锐化、未使用AI补绘。"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-16",
+      "reviewedBy": "Codex visual QA",
+      "note": "用户来源影像的虹桥局部；卡片与详情同源，文件出处与授权继续待核。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/user-qingming/gg-qmsh-reading.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "用户提供《清明上河图》分段影像 · 画心拼接浏览版（不含完整题跋）",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "52420153f1afc0c982a173354ed60cf56f8ca3685fe395956a349589e813b7c6",
+      "evidenceNote": "用户于2026-09-16提供8个分段文件。已逐一记录哈希并目视核对第7—10段画心接缝；缺少第3、6段，本版不含完整装裱和题跋。未附下载来源或许可证，数字文件出处与授权仍待核。旧Commons许可不套用于本批文件。",
+      "modifications": "第7—10段按画面接缝顺序拼接，末段保留至横坐标19000；等比缩小为16000×770网页浏览版，并派生WebP。未补缝、未调色、未锐化、未AI补绘；原始大图未改动。",
+      "sourceTitle": "用户提供的高清分段影像：第7—10段",
+      "author": "张择端（作品作者；数字影像制作方待核）",
+      "processingManifest": "/data/image-processing/gg-qmsh-user-2026-09-16.json"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-16",
+      "reviewedBy": "Codex source QA",
+      "note": "画心7/8、8/9、9/10接缝已目视核对；不将网页缩小版标作未处理原件，不将用户提供视为授权核验通过。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-16",
+    "note": "用户高清分段已接入为同源局部卡片和画心阅卷版；未提供来源页和许可，授权继续pending。"
+   },
+   "retiredAssets": [
+    {
+     "src": "/artifacts-v2/p1/gg-qmsh.png",
+     "reason": "已由用户提供的同源虹桥局部替换AI卡片",
+     "retiredAt": "2026-09-16"
+    },
+    {
+     "src": "/artifacts/gg-qmsh.jpg",
+     "reason": "已由用户提供的高清分段阅卷版替换历史低清缩图",
+     "retiredAt": "2026-09-16"
+    }
+   ]
+  },
+  "gg-qljs": {
+   "src": "/artifacts/gg-qljs.jpg",
+   "credit": "王希孟千里江山图卷.png",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/gg-qljs.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "既有 AI 候选资产（生成器待核）",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "unknown",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/gg-qljs.jpg",
+        "credit": "王希孟千里江山图卷.png"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "采用克制的传统手卷候选；详情保留真实全卷。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/gg-qljs.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "王希孟千里江山图卷.png",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "ffa4af8f0fc545266a7432f65cf59e8a760edc0832f4bb770d0c392a7c6c5801",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%8E%8B%E5%B8%8C%E5%AD%9F%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%E5%8D%B7.png",
+      "sourceTitle": "王希孟千里江山图卷.png",
+      "author": "王希孟",
+      "institution": "故宫博物院",
+      "license": "PD-scan",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15",
+      "fullResolutionSourceUrl": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._(Complete,_51,3x1191,5_cm)._1113._Palace_museum,_Beijing.jpg"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex source QA",
+      "note": "真实来源图用于保存全卷或全文信息；来源页与许可字段仍待补充。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已知高清原件本次仍连接超时；按用户指示跳过。"
+   }
+  },
+  "gg-pft": {
+   "src": "/artifacts/gg-pft.jpg",
+   "credit": "陆机草隶平复帖卷.png",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/gg-pft.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/gg-pft.jpg",
+        "credit": "陆机草隶平复帖卷.png"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "卷轴与纸张展陈通过；书迹和印章不可作为原帖文字释读。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/gg-pft.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "陆机草隶平复帖卷.png",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "540f6438d1234270251db485632f53babca6a72dde39bb664e5acc527cba8dbf",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%99%86%E6%9C%BA%E8%8D%89%E9%9A%B6%E5%B9%B3%E5%A4%8D%E5%B8%96%E5%8D%B7.png",
+      "sourceTitle": "陆机草隶平复帖卷.png",
+      "author": "陆机",
+      "institution": "故宫博物院",
+      "license": "PD-Art",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex source QA",
+      "note": "真实来源图用于保存全卷或全文信息；来源页与许可字段仍待补充。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "gg-jgyg": {
+   "src": "/artifacts-v2/ai-pending-20260923/gg-jgyg.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-pending-20260923/gg-jgyg.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "quarantined-six-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/quarantined-six-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://digicol.dpm.org.cn/cultural/detail?id=d3c6021697c94071a79f405c9e79aa82&page=1&source=0",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-pending-20260923/gg-jgyg.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "quarantined-six-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/quarantined-six-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://digicol.dpm.org.cn/cultural/detail?id=d3c6021697c94071a79f405c9e79aa82&page=1&source=0",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-23",
+    "authorityUrl": "https://digicol.dpm.org.cn/cultural/detail?id=d3c6021697c94071a79f405c9e79aa82&page=1&source=0",
+    "note": "北京故宫数字库已核对到故00011674；未取得开放许可，不能用台北故杂005490图片代替。 当前AI示意图仅据馆方文字生成，具体造型与细节继续待真品影像核验。"
+   },
+   "retiredAssets": [
+    {
+     "src": "/artifacts/gg-jgyg.jpg",
+     "reason": "来源页图像标注台北故宫故雜005490，并非本站北京故宫记录。",
+     "retiredAt": "2026-09-15"
+    },
+    {
+     "src": "/artifacts-v2/p2-source/gg-jgyg.png",
+     "reason": "来源页图像标注台北故宫故雜005490，并非本站北京故宫记录。",
+     "retiredAt": "2026-09-15"
+    }
+   ]
+  },
+  "gg-gzdc": {
+   "src": "/artifacts/gg-gzdc.jpg",
+   "credit": "File:13 Glazed Vase.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/gg-gzdc.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "既有 AI 候选资产（生成器待核）",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "unknown",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/gg-gzdc.jpg",
+        "credit": "File:13 Glazed Vase.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "既有统一风格候选通过视觉复核；生成器与生成日期尚待补证。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/gg-gzdc.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "既有 AI 候选资产（生成器待核）",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "unknown",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/gg-gzdc.jpg",
+        "credit": "File:13 Glazed Vase.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "既有统一风格候选通过视觉复核；生成器与生成日期尚待补证。"
+     }
+    }
+   }
+  },
+  "gg-jgb": {
+   "src": "/artifacts-v2/ai-pending-20260923/gg-jgb.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-pending-20260923/gg-jgb.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "pending-five-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/pending-five-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://intl.dpm.org.cn/Ceramicsis/852.html",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-pending-20260923/gg-jgb.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "pending-five-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/pending-five-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://intl.dpm.org.cn/Ceramicsis/852.html",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-22",
+    "authorityUrl": "https://intl.dpm.org.cn/Ceramicsis/852.html",
+    "note": "Commons候选有CC BY-SA 4.0许可，但同类鸡缸杯不止一件，缺少器底款识或藏品编号等精确对应证据，不据器型或文件名认定为本条藏品。"
+   }
+  },
+  "gg-ryzl": {
+   "src": "/artifacts-v2/ai-pending-20260923/gg-ryzl.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-pending-20260923/gg-ryzl.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "pending-five-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/pending-five-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://ggzl.dpm.org.cn/pages/exhibit_works/details?id=9404",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-pending-20260923/gg-ryzl.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "pending-five-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/pending-five-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://ggzl.dpm.org.cn/pages/exhibit_works/details?id=9404",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-23",
+    "authorityUrl": "https://ggzl.dpm.org.cn/pages/exhibit_works/details?id=9404",
+    "institution": "故宫博物院",
+    "linkCheckedAt": "2026-09-23",
+    "note": "故宫数字展品页确认藏品名、北宋汝窑、三足兽形足、七道弦纹与淡天青釉；该文字记录不授权页面影像。未找到明确可复用的精确匹配照片，AI示意保留，釉色和开片仍待原件影像核验。"
+   }
+  }
+ },
+ "delivery": {
+  "gg-qmsh": {
+   "src": "/artifact-sources/user-qingming/gg-qmsh-reading.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/52420153f1afc0c9-scroll-detail-w16000.webp",
+      "width": 16000,
+      "height": 770
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gg-qljs": {
+   "src": "/artifacts/gg-qljs.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ffa4af8f0fc54526-scroll-detail-w900.webp",
+      "width": 900,
+      "height": 36
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gg-pft": {
+   "src": "/artifacts/gg-pft.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/540f6438d1234270-scroll-detail-w900.webp",
+      "width": 900,
+      "height": 475
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gg-jgyg": {
+   "src": "/artifacts-v2/ai-pending-20260923/gg-jgyg.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/26e06e717e2c21f5-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/26e06e717e2c21f5-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/26e06e717e2c21f5-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gg-gzdc": {
+   "src": "/artifacts-v2/p1/gg-gzdc.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ceb7d27ef26bc7b5-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/ceb7d27ef26bc7b5-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/ceb7d27ef26bc7b5-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/gg-gzdc.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/e1475fa788ed9c3e-detail-w480.webp",
+       "width": 480,
+       "height": 724
+      },
+      {
+       "src": "/artifact-responsive/e1475fa788ed9c3e-detail-w597.webp",
+       "width": 597,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "gg-jgb": {
+   "src": "/artifacts-v2/ai-pending-20260923/gg-jgb.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9adefabf9e1f3e15-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/9adefabf9e1f3e15-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/9adefabf9e1f3e15-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gg-ryzl": {
+   "src": "/artifacts-v2/ai-pending-20260923/gg-ryzl.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4a5ae37198349e34-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/4a5ae37198349e34-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/4a5ae37198349e34-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

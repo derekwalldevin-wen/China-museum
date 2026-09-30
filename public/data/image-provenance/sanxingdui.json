@@ -1,0 +1,464 @@
+{
+ "records": {
+  "sxd-qs": {
+   "src": "/artifacts/sxd-qs.jpg",
+   "credit": "Ⅰ号大型青铜神树.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/sxd-qs.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sxd-qs.jpg",
+        "credit": "Ⅰ号大型青铜神树.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "神树中央干、三层主要枝组、鸟、垂饰、下部盘龙与环形底座关系通过；未添加真实树叶或额外层级。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/sxd-qs.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Ⅰ号大型青铜神树.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "1263e6991877c8245142e6def9848ab9156592a2be002aea8e327e17f810466c",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E2%85%A0%E5%8F%B7%E5%A4%A7%E5%9E%8B%E9%9D%92%E9%93%9C%E7%A5%9E%E6%A0%91.jpg",
+      "sourceTitle": "Ⅰ号大型青铜神树.jpg",
+      "author": "Tyg728",
+      "institution": "三星堆博物馆",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "sxd-dlr": {
+   "src": "/artifacts/sxd-dlr.jpg",
+   "credit": "File:三星堆出土青铜大立人像, 2017-09-17.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/sxd-dlr.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sxd-dlr.jpg",
+        "credit": "File:三星堆出土青铜大立人像, 2017-09-17.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "大立人高冠、面部、双手空握、长袍、双足及分层台座完整关系通过；手中未补造器物。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/sxd-dlr.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:三星堆出土青铜大立人像, 2017-09-17.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "b5cf953fd8223413c26de0c03fd9b61379187f4b2a7ae9b4053eb7e1fa8ec441",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E6%98%9F%E5%A0%86%E5%87%BA%E5%9C%9F%E9%9D%92%E9%93%9C%E5%A4%A7%E7%AB%8B%E4%BA%BA%E5%83%8F%2C_2017-09-17.jpg",
+      "sourceTitle": "三星堆出土青铜大立人像, 2017-09-17.jpg",
+      "author": "Siyuwj",
+      "institution": "三星堆博物馆",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "sxd-hjm": {
+   "src": "/artifacts/sxd-hjm.jpg",
+   "credit": "Sanxingdui Oct 2007 585.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/sxd-hjm.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sxd-hjm.jpg",
+        "credit": "Sanxingdui Oct 2007 585.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "青铜头像、金面罩覆盖关系、突出双耳、眼鼻口轮廓与金铜材质层级通过；残损边缘仍以原始详情图为准。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/sxd-hjm.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Sanxingdui Oct 2007 585.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "5171ac0be9c72dfde85784c3c634315b34f23508086ffa40bb3f5a5d1a5e7b5c",
+      "evidenceNote": "来源页描述为贴金箔的青铜头像，不能仅凭黄金面具名称认定为2021年出土的独立金面具；当前实物版本与图像绑定仍待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sanxingdui_Oct_2007_585.jpg",
+      "sourceTitle": "Sanxingdui Oct 2007 585.jpg",
+      "author": "G41rn8",
+      "institution": "三星堆博物馆",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "来源页描述为贴金箔的青铜头像，不能仅凭黄金面具名称认定为2021年出土的独立金面具；当前实物版本与图像绑定仍待核。"
+   }
+  },
+  "sxd-zym": {
+   "src": "/artifacts/sxd-zym.jpg",
+   "credit": "File:Bronze Mask with Protruding Eyes.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/sxd-zym.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sxd-zym.jpg",
+        "credit": "File:Bronze Mask with Protruding Eyes.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "纵目面具双筒形眼、宽耳、额部开孔、鼻口与面壳残边关系通过；未添加头颈或幻想构件。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/sxd-zym.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:Bronze Mask with Protruding Eyes.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "92538c62246bc46bce03e8b0d8c1ed5ef999faf2d04a76c18c530920b58370c6",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bronze_Mask_with_Protruding_Eyes.jpg",
+      "sourceTitle": "Bronze Mask with Protruding Eyes.jpg",
+      "author": "momo",
+      "institution": "三星堆博物馆",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "sxd-jz": {
+   "src": "/artifacts/sxd-jz.jpg",
+   "credit": "File:Sanxingdui Gold Scepter (9950984395).jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/sxd-jz.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sxd-jz.jpg",
+        "credit": "File:Sanxingdui Gold Scepter (9950984395).jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "细长金皮包卷与对角构图通过；微刻纹仍以原图为依据。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/sxd-jz.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sxd-jz.jpg",
+        "credit": "File:Sanxingdui Gold Scepter (9950984395).jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "细长金皮包卷与对角构图通过；微刻纹仍以原图为依据。"
+     }
+    }
+   }
+  }
+ },
+ "delivery": {
+  "sxd-qs": {
+   "src": "/artifacts/sxd-qs.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1263e6991877c824-detail-w480.webp",
+      "width": 480,
+      "height": 640
+     },
+     {
+      "src": "/artifact-responsive/1263e6991877c824-detail-w675.webp",
+      "width": 675,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sxd-dlr": {
+   "src": "/artifacts/sxd-dlr.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b5cf953fd8223413-detail-w480.webp",
+      "width": 480,
+      "height": 719
+     },
+     {
+      "src": "/artifact-responsive/b5cf953fd8223413-detail-w601.webp",
+      "width": 601,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sxd-hjm": {
+   "src": "/artifacts/sxd-hjm.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/5171ac0be9c72dfd-detail-w480.webp",
+      "width": 480,
+      "height": 640
+     },
+     {
+      "src": "/artifact-responsive/5171ac0be9c72dfd-detail-w675.webp",
+      "width": 675,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sxd-zym": {
+   "src": "/artifacts/sxd-zym.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/92538c62246bc46b-detail-w480.webp",
+      "width": 480,
+      "height": 355
+     },
+     {
+      "src": "/artifact-responsive/92538c62246bc46b-detail-w800.webp",
+      "width": 800,
+      "height": 591
+     },
+     {
+      "src": "/artifact-responsive/92538c62246bc46b-detail-w900.webp",
+      "width": 900,
+      "height": 665
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sxd-jz": {
+   "src": "/artifacts-v2/p1/sxd-jz.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f27706cea19ba3db-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/f27706cea19ba3db-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/f27706cea19ba3db-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/sxd-jz.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/cd3bad553b9fa0c5-detail-w480.webp",
+       "width": 480,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/cd3bad553b9fa0c5-detail-w800.webp",
+       "width": 800,
+       "height": 533
+      },
+      {
+       "src": "/artifact-responsive/cd3bad553b9fa0c5-detail-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  }
+ }
+}

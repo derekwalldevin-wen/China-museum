@@ -1,0 +1,246 @@
+{
+ "records": {
+  "zj-fcst": {
+   "src": "/artifacts/zj-fcst.jpg",
+   "credit": "浙博藏剩山图, 2023-09-26 01.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/zj-fcst.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/zj-fcst.jpg",
+        "credit": "浙博藏剩山图, 2023-09-26 01.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "《剩山图》横卷中央山水段、纸色、墨色与卷轴展示关系通过；未生成边跋文字，详情继续使用原始来源图。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/zj-fcst.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "浙博藏剩山图, 2023-09-26 01.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "febf065b464e30c7221a621b9926ac89607a51d4b18dad6d12a42498ba7031ca",
+      "evidenceNote": "已检索到分类页线索，逐文件说明页读取失败；不据文件名或分类页页脚填写作者与许可。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已检索到分类页线索，逐文件说明页读取失败；不据文件名或分类页页脚填写作者与许可。"
+   }
+  },
+  "zj-sncy": {
+   "src": "/artifacts/zj-sncy.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "zj-aywt": {
+   "src": "/artifacts/zj-aywt.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "zj-yzj": {
+   "src": "/artifact-sources/verified/zj-yzj-detail-cc0.jpg",
+   "credit": "Gary Todd 摄影 · 浙江省博物馆藏越王者旨於睗剑 · CC0 1.0",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/verified/zj-yzj-card-cc0.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Gary Todd 摄影 · 浙江省博物馆藏越王者旨於睗剑 · CC0 1.0",
+     "provenance": {
+      "type": "source",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yuyue_People-_Warring_States_Bronze_Sword_of_Zhu_Ji_Yu_Shi,_King_of_the_Yue_%E8%B6%8A%E7%8E%8B%E8%80%85%E6%97%A8%E6%96%BC%E7%9D%97%E5%89%91_%E6%B5%99%E6%B1%9F%E5%8D%9A%E7%89%A9%E9%A6%86.jpg",
+      "sourceTitle": "Yuyue People — Warring States Bronze Sword of Zhu Ji Yu Shi, King of the Yue",
+      "author": "Gary Todd",
+      "institution": "浙江省博物馆",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15",
+      "authorizationStatus": "verified",
+      "assetMatchStatus": "verified",
+      "assetSha256": "8d4c83a516743a84ad04df5afa60aa281afe8eff56a346fc4c9bb5705619f2a2",
+      "originalSourceUrl": "https://live.staticflickr.com/7723/17095340942_16c2e09b60_o.jpg",
+      "originalSha1": "66fa9c9b291a476e615e88d72eb90fddec3c475a",
+      "originalSha256": "1c5c2e0ec384ffd154af4325f8dbe2c6e4935227aa20ea8504bfad46e5b720ee",
+      "processingManifest": "assets/provenance/zj-yzj-verified-processing.json",
+      "modifications": "从5184×3456原件等比缩放为900×600，JPEG质量90；未裁切、未补绘、未调色，无AI生成。",
+      "evidenceNote": "摄影者原始发布文件与Commons公布SHA-1完全一致；逐文件CC0声明及Flickr许可复核记录已核读，画面与浙江馆藏单剑对应。verified表示本项目证据核验通过，并非馆方背书。"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-09-15",
+      "reviewedBy": "Codex source-chain review",
+      "note": "保留完整原始构图；主体单剑与丝质缠缑可见，不沿用上海两剑参考。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/verified/zj-yzj-detail-cc0.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Gary Todd 摄影 · 浙江省博物馆藏越王者旨於睗剑 · CC0 1.0",
+     "provenance": {
+      "type": "source",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yuyue_People-_Warring_States_Bronze_Sword_of_Zhu_Ji_Yu_Shi,_King_of_the_Yue_%E8%B6%8A%E7%8E%8B%E8%80%85%E6%97%A8%E6%96%BC%E7%9D%97%E5%89%91_%E6%B5%99%E6%B1%9F%E5%8D%9A%E7%89%A9%E9%A6%86.jpg",
+      "sourceTitle": "Yuyue People — Warring States Bronze Sword of Zhu Ji Yu Shi, King of the Yue",
+      "author": "Gary Todd",
+      "institution": "浙江省博物馆",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15",
+      "authorizationStatus": "verified",
+      "assetMatchStatus": "verified",
+      "assetSha256": "b5dd26e6a32c72d6c082869fb0e7d160822604cce12291697ee5dfba8f158c28",
+      "originalSourceUrl": "https://live.staticflickr.com/7723/17095340942_16c2e09b60_o.jpg",
+      "originalSha1": "66fa9c9b291a476e615e88d72eb90fddec3c475a",
+      "originalSha256": "1c5c2e0ec384ffd154af4325f8dbe2c6e4935227aa20ea8504bfad46e5b720ee",
+      "processingManifest": "assets/provenance/zj-yzj-verified-processing.json",
+      "modifications": "从5184×3456原件等比缩放为2400×1600，JPEG质量90；未裁切、未补绘、未调色，无AI生成。",
+      "evidenceNote": "摄影者原始发布文件与Commons公布SHA-1完全一致；逐文件CC0声明及Flickr许可复核记录已核读，画面与浙江馆藏单剑对应。verified表示本项目证据核验通过，并非馆方背书。"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-09-15",
+      "reviewedBy": "Codex source-chain review",
+      "note": "保留完整原始构图；主体单剑与丝质缠缑可见，不沿用上海两剑参考。"
+     }
+    }
+   },
+   "retiredAssets": [
+    {
+     "src": "/artifacts/zj-yzj.jpg",
+     "reason": "上一轮上海馆藏错配及依赖该参考的AI图，不再发布或回退",
+     "retiredAt": "2026-09-15"
+    },
+    {
+     "src": "/artifacts-v2/p2-source/zj-yzj.png",
+     "reason": "上一轮上海馆藏错配及依赖该参考的AI图，不再发布或回退",
+     "retiredAt": "2026-09-15"
+    }
+   ],
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "authorityUrl": "https://commons.wikimedia.org/wiki/File:Yuyue_People-_Warring_States_Bronze_Sword_of_Zhu_Ji_Yu_Shi,_King_of_the_Yue_%E8%B6%8A%E7%8E%8B%E8%80%85%E6%97%A8%E6%96%BC%E7%9D%97%E5%89%91_%E6%B5%99%E6%B1%9F%E5%8D%9A%E7%89%A9%E9%A6%86.jpg",
+    "note": "以摄影者CC0原件替换错配图；原件与两种展示图哈希及处理链已归档。"
+   }
+  }
+ },
+ "delivery": {
+  "zj-fcst": {
+   "src": "/artifacts/zj-fcst.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/febf065b464e30c7-scroll-detail-w900.webp",
+      "width": 900,
+      "height": 601
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "zj-sncy": {
+   "src": "/artifacts/zj-sncy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/92f6120f1eb58609-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/92f6120f1eb58609-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "zj-aywt": {
+   "src": "/artifacts/zj-aywt.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c6bf7f901c55d455-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/c6bf7f901c55d455-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "zj-yzj": {
+   "src": "/artifact-sources/verified/zj-yzj-detail-cc0.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b5dd26e6a32c72d6-detail-w480.webp",
+      "width": 480,
+      "height": 320
+     },
+     {
+      "src": "/artifact-responsive/b5dd26e6a32c72d6-detail-w800.webp",
+      "width": 800,
+      "height": 533
+     },
+     {
+      "src": "/artifact-responsive/b5dd26e6a32c72d6-detail-w1200.webp",
+      "width": 1200,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/b5dd26e6a32c72d6-detail-w1600.webp",
+      "width": 1600,
+      "height": 1067
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

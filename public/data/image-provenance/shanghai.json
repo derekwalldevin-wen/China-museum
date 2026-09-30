@@ -1,0 +1,468 @@
+{
+ "records": {
+  "sh-dkd": {
+   "src": "/artifacts/sh-dkd.jpg",
+   "credit": "Da Ke ding.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/sh-dkd.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sh-dkd.jpg",
+        "credit": "Da Ke ding.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "大克鼎双立耳、圆腹、三足、扉棱和主要纹带关系通过；铭文与细部纹饰未作重构。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/sh-dkd.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Da Ke ding.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "28967b4cfe43c684a263c6aa9d7fbfb2dd79e572b96181138a1d622b2e7005cd",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Da_Ke_ding.jpg",
+      "sourceTitle": "Da Ke ding.jpg",
+      "author": "Mountain",
+      "institution": "上海博物馆",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "sh-syt": {
+   "src": "/artifacts/sh-syt.jpg",
+   "credit": "File:王羲之 草书上虞帖卷.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/sh-syt.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sh-syt.jpg",
+        "credit": "File:王羲之 草书上虞帖卷.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "旧纸、装裱与卷轴展陈通过；书迹和印章不可释读。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/sh-syt.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:王羲之 草书上虞帖卷.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "2f3f6f706c4921e8483c113354eacc4dcb0277a330dc5cf294241d94172f2193",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%8E%8B%E7%BE%B2%E4%B9%8B_%E8%8D%89%E4%B9%A6%E4%B8%8A%E8%99%9E%E5%B8%96%E5%8D%B7.jpg",
+      "sourceTitle": "王羲之 草书上虞帖卷.jpg",
+      "author": "王羲之（唐摹本）",
+      "institution": "上海博物馆",
+      "license": "PD-Art",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex source QA",
+      "note": "真实来源图用于保存全卷或全文信息；来源页与许可字段仍待补充。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "sh-sqf": {
+   "src": "/artifact-sources/official/sh-sqf.jpg",
+   "credit": "上海博物馆：战国商鞅方升",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/sh-sqf.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifact-sources/official/sh-sqf.jpg",
+        "credit": "上海博物馆：战国商鞅方升"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "依据上海博物馆官方本体图生成；浅长方槽体、单侧中空短柄、低壁比例与多色铜锈通过，铭文仅保留不可读刻痕语义。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/official/sh-sqf.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "上海博物馆：战国商鞅方升",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "4df068c5b71eec6caca562769de18a06571abc9813c3f97ec90d36b1ce74451c",
+      "evidenceNote": "官方藏品页可读并标注版权；未见本图开放许可，不能把官网公开展示视为授权。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/CI00000346",
+      "institution": "上海博物馆",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "权威文博页面完整图，用于保存器物真实结构与比例；页面版权与再利用许可仍需单独核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "官方藏品页可读并标注版权；未见本图开放许可，不能把官网公开展示视为授权。"
+   }
+  },
+  "sh-zzjp": {
+   "src": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+   "credit": "Alexey Yakovlev / Wikimedia Commons / CC0",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Alexey Yakovlev / Wikimedia Commons / CC0",
+     "provenance": {
+      "type": "source",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zi_Zhong_Jiang_pan_bronzeware.jpg",
+      "sourceTitle": "Zi Zhong Jiang pan bronzeware.jpg",
+      "author": "Alexey Yakovlev",
+      "institution": "上海博物馆",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verifiedAt": "2026-09-22",
+      "linkCheckedAt": "2026-09-22",
+      "authorizationStatus": "verified",
+      "assetMatchStatus": "verified",
+      "evidenceNote": "与馆方图核对：双耳、沿口角兽、盘内立鸟及鱼鸟布局、蛙龟造型和蓝绿色锈斑一致。Commons摄影原件标明CC0；其年代、尺寸和铭文说明存在错误，事实仍采用馆方春秋早期、口径45厘米、高18厘米、铭文32字，不采纳Commons说明文字。",
+      "assetSha256": "9b3128adc2434a805ce9d96611150f3c6eb91d461bb1b55d777812073accb9d5",
+      "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Zi_Zhong_Jiang_pan_bronzeware.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalSha1": "4aac56a88bb4549ec4a1e5a4d45d2ae02bfb7f8f",
+      "originalSha256": "9bf3fd40e182145c7ffb524c4375c0e1c740efc488bb99e8173b07a12ec970b5",
+      "processingManifest": "/data/image-processing/collection-20260922-sh-zzjp.json"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-09-22",
+      "reviewedBy": "馆方图与开放许可原件比对",
+      "note": "与馆方图核对：双耳、沿口角兽、盘内立鸟及鱼鸟布局、蛙龟造型和蓝绿色锈斑一致。Commons摄影原件标明CC0；其年代、尺寸和铭文说明存在错误，事实仍采用馆方春秋早期、口径45厘米、高18厘米、铭文32字，不采纳Commons说明文字。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Alexey Yakovlev / Wikimedia Commons / CC0",
+     "provenance": {
+      "type": "source",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zi_Zhong_Jiang_pan_bronzeware.jpg",
+      "sourceTitle": "Zi Zhong Jiang pan bronzeware.jpg",
+      "author": "Alexey Yakovlev",
+      "institution": "上海博物馆",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verifiedAt": "2026-09-22",
+      "linkCheckedAt": "2026-09-22",
+      "authorizationStatus": "verified",
+      "assetMatchStatus": "verified",
+      "evidenceNote": "与馆方图核对：双耳、沿口角兽、盘内立鸟及鱼鸟布局、蛙龟造型和蓝绿色锈斑一致。Commons摄影原件标明CC0；其年代、尺寸和铭文说明存在错误，事实仍采用馆方春秋早期、口径45厘米、高18厘米、铭文32字，不采纳Commons说明文字。",
+      "assetSha256": "9b3128adc2434a805ce9d96611150f3c6eb91d461bb1b55d777812073accb9d5",
+      "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Zi_Zhong_Jiang_pan_bronzeware.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalSha1": "4aac56a88bb4549ec4a1e5a4d45d2ae02bfb7f8f",
+      "originalSha256": "9bf3fd40e182145c7ffb524c4375c0e1c740efc488bb99e8173b07a12ec970b5",
+      "processingManifest": "/data/image-processing/collection-20260922-sh-zzjp.json"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-09-22",
+      "reviewedBy": "馆方图与开放许可原件比对",
+      "note": "与馆方图核对：双耳、沿口角兽、盘内立鸟及鱼鸟布局、蛙龟造型和蓝绿色锈斑一致。Commons摄影原件标明CC0；其年代、尺寸和铭文说明存在错误，事实仍采用馆方春秋早期、口径45厘米、高18厘米、铭文32字，不采纳Commons说明文字。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-22",
+    "authorityUrl": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00000699",
+    "note": "与馆方图核对：双耳、沿口角兽、盘内立鸟及鱼鸟布局、蛙龟造型和蓝绿色锈斑一致。Commons摄影原件标明CC0；其年代、尺寸和铭文说明存在错误，事实仍采用馆方春秋早期、口径45厘米、高18厘米、铭文32字，不采纳Commons说明文字。"
+   }
+  },
+  "sh-ltry": {
+   "src": "/artifacts-v2/ai-pending-20260923/sh-ltry.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-pending-20260923/sh-ltry.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "pending-five-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/pending-five-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/E00004147",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-pending-20260923/sh-ltry.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "pending-five-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/pending-five-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/E00004147",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-22",
+    "authorityUrl": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/E00004147",
+    "note": "候选为莲塘乳鸭图的二维复制影像，只有PD-Art公共领域声明，未提供摄影者的独立开放许可；尚未完成该声明对本站使用场景的适用性核验，继续待图。这不等于判定该影像侵权。"
+   }
+  }
+ },
+ "delivery": {
+  "sh-dkd": {
+   "src": "/artifacts/sh-dkd.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/28967b4cfe43c684-detail-w480.webp",
+      "width": 480,
+      "height": 429
+     },
+     {
+      "src": "/artifact-responsive/28967b4cfe43c684-detail-w800.webp",
+      "width": 800,
+      "height": 716
+     },
+     {
+      "src": "/artifact-responsive/28967b4cfe43c684-detail-w900.webp",
+      "width": 900,
+      "height": 805
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sh-syt": {
+   "src": "/artifacts/sh-syt.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/2f3f6f706c4921e8-scroll-detail-w900.webp",
+      "width": 900,
+      "height": 392
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sh-sqf": {
+   "src": "/artifact-sources/official/sh-sqf.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4df068c5b71eec6c-detail-w480.webp",
+      "width": 480,
+      "height": 286
+     },
+     {
+      "src": "/artifact-responsive/4df068c5b71eec6c-detail-w800.webp",
+      "width": 800,
+      "height": 477
+     },
+     {
+      "src": "/artifact-responsive/4df068c5b71eec6c-detail-w1200.webp",
+      "width": 1200,
+      "height": 716
+     },
+     {
+      "src": "/artifact-responsive/4df068c5b71eec6c-detail-w1600.webp",
+      "width": 1600,
+      "height": 954
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sh-zzjp": {
+   "src": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9b3128adc2434a80-detail-w480.webp",
+      "width": 480,
+      "height": 343
+     },
+     {
+      "src": "/artifact-responsive/9b3128adc2434a80-detail-w800.webp",
+      "width": 800,
+      "height": 572
+     },
+     {
+      "src": "/artifact-responsive/9b3128adc2434a80-detail-w1200.webp",
+      "width": 1200,
+      "height": 857
+     },
+     {
+      "src": "/artifact-responsive/9b3128adc2434a80-detail-w1600.webp",
+      "width": 1600,
+      "height": 1143
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sh-ltry": {
+   "src": "/artifacts-v2/ai-pending-20260923/sh-ltry.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/86d1acefa28056bb-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/86d1acefa28056bb-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/86d1acefa28056bb-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

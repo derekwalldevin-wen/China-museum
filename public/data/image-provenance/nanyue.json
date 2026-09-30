@@ -1,0 +1,558 @@
+{
+ "records": {
+  "ny-sly": {
+   "src": "/artifacts/ny-sly.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "ny-wdx": {
+   "src": "/artifacts/ny-wdx.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "ny-jyb": {
+   "src": "/artifacts/ny-jyb.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "ny-yh": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-yh.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍；纹样与表面状态不保真",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-new-20260927/ny-yh.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "nanyue-five-2026-09-27",
+      "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+      "generatedAt": "2026-09-27",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nywmuseum.org.cn/Collection/Details/dcjp?nid=70",
+        "credit": "仅据馆方文字限定大致形制；未转载馆方图片"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "原件纹样、铭文与表面状态不可据AI图核对。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-new-20260927/ny-yh.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 非文物实拍；纹样与表面状态不保真",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "nanyue-five-2026-09-27",
+      "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+      "generatedAt": "2026-09-27",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nywmuseum.org.cn/Collection/Details/dcjp?nid=70",
+        "credit": "仅据馆方文字限定大致形制；未转载馆方图片"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "原件纹样、铭文与表面状态不可据AI图核对。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-27",
+    "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/dcjp?nid=70",
+    "note": "馆方逐件文字可核身份和大致形制；官网图片未核得本站可用授权，故仅使用独立生成示意图。"
+   }
+  },
+  "ny-cpyb": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-cpyb.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍；板面纹样不保真",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-new-20260927/ny-cpyb.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "nanyue-five-2026-09-27",
+      "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+      "generatedAt": "2026-09-27",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=54",
+        "credit": "仅据馆方文字限定两板尺寸关系；板面花纹为AI想象"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "具体凸纹为AI想象，不能当同出织物的实际印纹。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-new-20260927/ny-cpyb.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 非文物实拍；板面纹样不保真",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "nanyue-five-2026-09-27",
+      "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+      "generatedAt": "2026-09-27",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=54",
+        "credit": "仅据馆方文字限定两板尺寸关系；板面花纹为AI想象"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "具体凸纹为AI想象，不能当同出织物的实际印纹。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-27",
+    "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=54",
+    "note": "馆方逐件文字支持两件板模及同纹织物对比；未核得官网图片本站可用授权，AI板纹非原件纹样。"
+   }
+  },
+  "ny-hujie": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-hujie.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍；铭文不作真实复刻",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-new-20260927/ny-hujie.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "nanyue-five-2026-09-27",
+      "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+      "generatedAt": "2026-09-27",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nywmuseum.org.cn/Collection/Details/?nid=49",
+        "credit": "仅据馆方文字限定扁平虎形与金斑；不复刻铭文"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "虎形、金箔分布及保存状态仍为艺术概括；图上不得读铭。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-new-20260927/ny-hujie.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 非文物实拍；铭文不作真实复刻",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "nanyue-five-2026-09-27",
+      "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+      "generatedAt": "2026-09-27",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nywmuseum.org.cn/Collection/Details/?nid=49",
+        "credit": "仅据馆方文字限定扁平虎形与金斑；不复刻铭文"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "虎形、金箔分布及保存状态仍为艺术概括；图上不得读铭。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-27",
+    "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/?nid=49",
+    "note": "馆方逐件文字支持铭文和两种产地解释；未核得官网图片本站可用授权，AI图不显示可读铭文。"
+   }
+  },
+  "ny-gaozu": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-gaozu.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍；连接细节不保真",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-new-20260927/ny-gaozu.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "nanyue-five-2026-09-27",
+      "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+      "generatedAt": "2026-09-27",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nywmuseum.org.cn/Collection/Details/?nid=55",
+        "credit": "仅据馆方检索可见文字限定杯、托架、承盘三层；不复刻连接细节"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "龙托架与玉杯接合、金银细节均为艺术想象，不可作构造图。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-new-20260927/ny-gaozu.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 非文物实拍；连接细节不保真",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "nanyue-five-2026-09-27",
+      "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+      "generatedAt": "2026-09-27",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nywmuseum.org.cn/Collection/Details/?nid=55",
+        "credit": "仅据馆方检索可见文字限定杯、托架、承盘三层；不复刻连接细节"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "龙托架与玉杯接合、金银细节均为艺术想象，不可作构造图。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-27",
+    "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/?nid=55",
+    "note": "馆方逐件记录仅核到搜索可见文字；未核得官网图片本站可用授权，连接工艺和本件修复待核。"
+   }
+  },
+  "ny-xiangyazhi": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍；针刻纹样不保真",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "nanyue-five-2026-09-27",
+      "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+      "generatedAt": "2026-09-27",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=71",
+        "credit": "仅据馆方检索可见文字限定象牙筒、金釦、三环与朱蓝线饰；纹样不保真"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "朱蓝图样、缺损和具体牙料来源均不能从AI图确认。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 非文物实拍；针刻纹样不保真",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "nanyue-five-2026-09-27",
+      "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+      "generatedAt": "2026-09-27",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=71",
+        "credit": "仅据馆方检索可见文字限定象牙筒、金釦、三环与朱蓝线饰；纹样不保真"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "朱蓝图样、缺损和具体牙料来源均不能从AI图确认。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-27",
+    "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=71",
+    "note": "馆方逐件记录仅核到搜索可见文字；官网图片未核得本站可用授权，不能将墓中另一支非洲象牙的鉴定结果套给本卮。"
+   }
+  }
+ },
+ "delivery": {
+  "ny-sly": {
+   "src": "/artifacts/ny-sly.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6be6dac3221ce8fe-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/6be6dac3221ce8fe-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "ny-wdx": {
+   "src": "/artifacts/ny-wdx.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a11dd7ec72f0af4b-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/a11dd7ec72f0af4b-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "ny-jyb": {
+   "src": "/artifacts/ny-jyb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/66fac003eb6be8d4-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/66fac003eb6be8d4-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "ny-yh": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-yh.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0b9f22c551a898a0-detail-w480.webp",
+      "width": 480,
+      "height": 400
+     },
+     {
+      "src": "/artifact-responsive/0b9f22c551a898a0-detail-w800.webp",
+      "width": 800,
+      "height": 667
+     },
+     {
+      "src": "/artifact-responsive/0b9f22c551a898a0-detail-w1200.webp",
+      "width": 1200,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/0b9f22c551a898a0-detail-w1374.webp",
+      "width": 1374,
+      "height": 1145
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "ny-cpyb": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-cpyb.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0fc5c41d286f7277-detail-w480.webp",
+      "width": 480,
+      "height": 320
+     },
+     {
+      "src": "/artifact-responsive/0fc5c41d286f7277-detail-w800.webp",
+      "width": 800,
+      "height": 533
+     },
+     {
+      "src": "/artifact-responsive/0fc5c41d286f7277-detail-w1200.webp",
+      "width": 1200,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/0fc5c41d286f7277-detail-w1536.webp",
+      "width": 1536,
+      "height": 1024
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "ny-hujie": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-hujie.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/82d68fa084d07a07-detail-w480.webp",
+      "width": 480,
+      "height": 320
+     },
+     {
+      "src": "/artifact-responsive/82d68fa084d07a07-detail-w800.webp",
+      "width": 800,
+      "height": 533
+     },
+     {
+      "src": "/artifact-responsive/82d68fa084d07a07-detail-w1200.webp",
+      "width": 1200,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/82d68fa084d07a07-detail-w1536.webp",
+      "width": 1536,
+      "height": 1024
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "ny-gaozu": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-gaozu.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a08f464c1704cd3e-detail-w480.webp",
+      "width": 480,
+      "height": 512
+     },
+     {
+      "src": "/artifact-responsive/a08f464c1704cd3e-detail-w800.webp",
+      "width": 800,
+      "height": 853
+     },
+     {
+      "src": "/artifact-responsive/a08f464c1704cd3e-detail-w1200.webp",
+      "width": 1200,
+      "height": 1280
+     },
+     {
+      "src": "/artifact-responsive/a08f464c1704cd3e-detail-w1214.webp",
+      "width": 1214,
+      "height": 1295
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "ny-xiangyazhi": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4322deb9cd8c156e-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/4322deb9cd8c156e-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/4322deb9cd8c156e-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     },
+     {
+      "src": "/artifact-responsive/4322deb9cd8c156e-detail-w1254.webp",
+      "width": 1254,
+      "height": 1254
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

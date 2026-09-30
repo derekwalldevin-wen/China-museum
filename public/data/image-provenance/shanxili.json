@@ -1,0 +1,429 @@
+{
+ "records": {
+  "sxl-xmb": {
+   "src": "/artifacts/sxl-xmb.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "sxl-wmh": {
+   "src": "/artifacts/sxl-wmh.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "sxl-hzx": {
+   "src": "/artifacts/sxl-hzx.jpg",
+   "credit": "\"皇后之玺\"玉印.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/sxl-hzx.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sxl-hzx.jpg",
+        "credit": "\"皇后之玺\"玉印.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "小型方形玉印、虎钮、乳白玉质与侧边卷云纹通过；印面文字未展示、未补造。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/sxl-hzx.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "\"皇后之玺\"玉印.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "7c94a12efca04528ed4fdd2c5c0661ec8225e0610f9205502ce8d66ecfe8f9b7",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22%E7%9A%87%E5%90%8E%E4%B9%8B%E7%8E%BA%22%E7%8E%89%E5%8D%B0.jpg",
+      "sourceTitle": "\"皇后之玺\"玉印.jpg",
+      "author": "Antolavoasio",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "sxl-lt": {
+   "src": "/artifacts-v2/ai-pending-20260923/sxl-lt.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-pending-20260923/sxl-lt.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "quarantined-six-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/quarantined-six-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.sxhm.com/collections/detail/509.html",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-pending-20260923/sxl-lt.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "quarantined-six-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/quarantined-six-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.sxhm.com/collections/detail/509.html",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-23",
+    "authorityUrl": "https://www.sxhm.com/collections/detail/509.html",
+    "note": "找到陕西历史博物馆Gary Todd照片，逐文件CC0声明已核读；从摄影者Flickr下载超时，继续隔离。 当前AI示意图仅据馆方文字生成，具体造型与细节继续待真品影像核验。"
+   },
+   "retiredAssets": [
+    {
+     "src": "/artifacts/sxl-lt.jpg",
+     "reason": "来源页明确为中国国家博物馆鲜于廉墓出土骆驼载乐俑，与本站陕西历史博物馆记录不符。",
+     "retiredAt": "2026-09-15"
+    },
+    {
+     "src": "/artifacts-v2/p2-source/sxl-lt.png",
+     "reason": "来源页明确为中国国家博物馆鲜于廉墓出土骆驼载乐俑，与本站陕西历史博物馆记录不符。",
+     "retiredAt": "2026-09-15"
+    }
+   ]
+  },
+  "sxl-yjb": {
+   "src": "/artifacts/sxl-yjb.jpg",
+   "credit": "File:鸳鸯莲瓣纹金碗 20091112.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/sxl-yjb.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sxl-yjb.jpg",
+        "credit": "File:鸳鸯莲瓣纹金碗 20091112.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "金碗敞口、矮圈足、莲瓣开光、鸟纹与錾刻层级通过；金色保留旧器哑光质感。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/sxl-yjb.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:鸳鸯莲瓣纹金碗 20091112.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "d6413e208b9d5b659ebb5ea059daebdd6d044a24578025325525eef3a406036c",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%B8%B3%E9%B8%AF%E8%8E%B2%E7%93%A3%E7%BA%B9%E9%87%91%E7%A2%97_20091112.jpg",
+      "sourceTitle": "鸳鸯莲瓣纹金碗 20091112.jpg",
+      "author": "颐园新居",
+      "institution": "陕西历史博物馆",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "sxl-ptxn": {
+   "src": "/artifacts-v2/ai-pending-20260923/sxl-ptxn.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-pending-20260923/sxl-ptxn.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "pending-five-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/pending-five-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.sxhm.com/collections/detail/9948",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-pending-20260923/sxl-ptxn.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "pending-five-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/pending-five-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.sxhm.com/collections/detail/9948",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-22",
+    "authorityUrl": "https://www.sxhm.com/collections/detail/9948",
+    "note": "陕西历史博物馆官方藏品记录及图像可核对，但无明确可复用许可；未用其他银香囊或复制品替代该件。"
+   }
+  }
+ },
+ "delivery": {
+  "sxl-xmb": {
+   "src": "/artifacts/sxl-xmb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/31aaf7e9cd00ce45-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/31aaf7e9cd00ce45-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "sxl-wmh": {
+   "src": "/artifacts/sxl-wmh.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/621bb63d5bf566f8-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/621bb63d5bf566f8-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "sxl-hzx": {
+   "src": "/artifacts/sxl-hzx.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7c94a12efca04528-detail-w480.webp",
+      "width": 480,
+      "height": 391
+     },
+     {
+      "src": "/artifact-responsive/7c94a12efca04528-detail-w800.webp",
+      "width": 800,
+      "height": 652
+     },
+     {
+      "src": "/artifact-responsive/7c94a12efca04528-detail-w900.webp",
+      "width": 900,
+      "height": 734
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sxl-lt": {
+   "src": "/artifacts-v2/ai-pending-20260923/sxl-lt.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/215cb93a1d11a63d-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/215cb93a1d11a63d-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/215cb93a1d11a63d-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sxl-yjb": {
+   "src": "/artifacts/sxl-yjb.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d6413e208b9d5b65-detail-w480.webp",
+      "width": 480,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/d6413e208b9d5b65-detail-w800.webp",
+      "width": 800,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/d6413e208b9d5b65-detail-w900.webp",
+      "width": 900,
+      "height": 675
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sxl-ptxn": {
+   "src": "/artifacts-v2/ai-pending-20260923/sxl-ptxn.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/18cef49d9ae1faee-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/18cef49d9ae1faee-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/18cef49d9ae1faee-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

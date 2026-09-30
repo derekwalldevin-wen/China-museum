@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "artifactId": "gb-gyts",
+  "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247232.shtml",
+  "reviewedAt": "2026-09-22",
+  "sourceTitle": "鹳鱼石斧图彩绘陶缸08764.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%B9%B3%E9%B1%BC%E7%9F%B3%E6%96%A7%E5%9B%BE%E5%BD%A9%E7%BB%98%E9%99%B6%E7%BC%B808764.jpg",
+  "author": "Augustokremo",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "derivativeLicense": "CC BY-SA 4.0",
+  "original": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/%E9%B9%B3%E9%B1%BC%E7%9F%B3%E6%96%A7%E5%9B%BE%E5%BD%A9%E7%BB%98%E9%99%B6%E7%BC%B808764.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sha1": "d2ce9e3281e23b92cadc50580212fde4684624f7",
+    "sha256": "b23cf365f1d7f5d64f9ac4979dd8849e1026dd63bc71d656b829b4c86c062edd",
+    "bytes": 9180131,
+    "width": 5304,
+    "height": 7952
+  },
+  "display": {
+    "src": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+    "sha256": "c80d648cbfb383b6c57363320f5fbb223d5be45a0282b831a3279145829ed209",
+    "bytes": 792284,
+    "width": 1600,
+    "height": 2399,
+    "format": "JPEG"
+  },
+  "derivatives": [
+    {
+      "src": "/artifact-responsive/c80d648cbfb383b6-card-w240.webp",
+      "width": 240,
+      "height": 360,
+      "bytes": 9642,
+      "sha256": "548e173660b7eff4fd1eddf4c5117449befa0023bfd30eeb0b37aa943197e2a3",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+      "inputSha256": "c80d648cbfb383b6c57363320f5fbb223d5be45a0282b831a3279145829ed209",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/c80d648cbfb383b6-card-w400.webp",
+      "width": 400,
+      "height": 600,
+      "bytes": 23652,
+      "sha256": "e9fc2dc12e69c5871a021e206bf39021bd4035b1c653485d2150aeaf723cb68f",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+      "inputSha256": "c80d648cbfb383b6c57363320f5fbb223d5be45a0282b831a3279145829ed209",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/c80d648cbfb383b6-card-w640.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 50888,
+      "sha256": "118efa396d96773d7d819962e9da01487613edb1a48c2fa0089c8b103e6c2648",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+      "inputSha256": "c80d648cbfb383b6c57363320f5fbb223d5be45a0282b831a3279145829ed209",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/c80d648cbfb383b6-card-w960.webp",
+      "width": 960,
+      "height": 1439,
+      "bytes": 98846,
+      "sha256": "5d1f911420ca8c71dd917c4c274353b3fa3841c535f47ca65936206377f6835f",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+      "inputSha256": "c80d648cbfb383b6c57363320f5fbb223d5be45a0282b831a3279145829ed209",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/c80d648cbfb383b6-detail-w480.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 47406,
+      "sha256": "e7b8ffd029d3569cb1bdfbbc808ab7ab837d17b54227271097e4f7fea206ab2b",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+      "inputSha256": "c80d648cbfb383b6c57363320f5fbb223d5be45a0282b831a3279145829ed209",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/c80d648cbfb383b6-detail-w800.webp",
+      "width": 800,
+      "height": 1200,
+      "bytes": 110396,
+      "sha256": "4704a8063d40161f6d34cd654f9979686db50155d0b4c2988bd5b4f543e73c4f",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+      "inputSha256": "c80d648cbfb383b6c57363320f5fbb223d5be45a0282b831a3279145829ed209",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/c80d648cbfb383b6-detail-w1200.webp",
+      "width": 1200,
+      "height": 1799,
+      "bytes": 236998,
+      "sha256": "a1d653def4a16cc20a1013e1b792131211d0777d18251b27911b02800d03d303",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+      "inputSha256": "c80d648cbfb383b6c57363320f5fbb223d5be45a0282b831a3279145829ed209",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/c80d648cbfb383b6-detail-w1600.webp",
+      "width": 1600,
+      "height": 2399,
+      "bytes": 437356,
+      "sha256": "c29fc6afdb7d8c51c8e517ec9ae864da57720396bc2a8d14ec2159e1c8f07d1c",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+      "inputSha256": "c80d648cbfb383b6c57363320f5fbb223d5be45a0282b831a3279145829ed209",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    }
+  ],
+  "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。",
+  "priorModifications": "源文件上传前处理情况未另行确认",
+  "cropped": false,
+  "upscaled": false,
+  "aiGenerated": false,
+  "matchEvidence": "与馆方图核对：白鹳衔鱼、右侧石斧、器耳及收腹轮廓一致；选用正面08764，背面08766不用于展示。Commons原件与公布SHA-1一致，摄影者标明CC BY-SA 4.0。"
+}

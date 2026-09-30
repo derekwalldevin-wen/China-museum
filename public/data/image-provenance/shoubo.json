@@ -1,0 +1,309 @@
+{
+ "records": {
+  "sb-jd": {
+   "src": "/artifacts/sb-jd.jpg",
+   "credit": "File:Western Zhou Bronze Jin Ding (9890625245).jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/sb-jd.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sb-jd.jpg",
+        "credit": "File:Western Zhou Bronze Jin Ding (9890625245).jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "鼎体、双耳与三足视觉通过；纹带和比例待史料复核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/sb-jd.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sb-jd.jpg",
+        "credit": "File:Western Zhou Bronze Jin Ding (9890625245).jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "鼎体、双耳与三足视觉通过；纹带和比例待史料复核。"
+     }
+    }
+   }
+  },
+  "sb-bjl": {
+   "src": "/artifacts/sb-bjl.jpg",
+   "credit": "Bo Ju Li.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/sb-bjl.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sb-bjl.jpg",
+        "credit": "Bo Ju Li.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "紧凑鬲形与牛首装饰关系通过；七牛首细节需多角度资料复核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/sb-bjl.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sb-bjl.jpg",
+        "credit": "Bo Ju Li.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "紧凑鬲形与牛首装饰关系通过；七牛首细节需多角度资料复核。"
+     }
+    }
+   }
+  },
+  "sb-qhbf": {
+   "src": "/artifacts/sb-qhbf.jpg",
+   "credit": "File:景德镇窑青花凤首扁壶09124.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/sb-qhbf.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/sb-qhbf.jpg",
+        "credit": "File:景德镇窑青花凤首扁壶09124.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "凤首流、扁圆壶体、曲柄、圈足与青花凤鸟主体关系通过；具体笔触仍以原始详情图为准。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/sb-qhbf.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:景德镇窑青花凤首扁壶09124.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "f474a1121a335308657f487a31f7644ccaf6855bd1f4b25977df449130e494a8",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%99%AF%E5%BE%B7%E9%95%87%E7%AA%91%E9%9D%92%E8%8A%B1%E5%87%A4%E9%A6%96%E6%89%81%E5%A3%B609124.jpg",
+      "sourceTitle": "景德镇窑青花凤首扁壶09124.jpg",
+      "author": "Augusthaiho",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  }
+ },
+ "delivery": {
+  "sb-jd": {
+   "src": "/artifacts-v2/p1/sb-jd.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6576b9593b20c3d9-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/6576b9593b20c3d9-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/6576b9593b20c3d9-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/sb-jd.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/4cd3ce8826d1f9ee-detail-w480.webp",
+       "width": 480,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/4cd3ce8826d1f9ee-detail-w800.webp",
+       "width": 800,
+       "height": 533
+      },
+      {
+       "src": "/artifact-responsive/4cd3ce8826d1f9ee-detail-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  },
+  "sb-bjl": {
+   "src": "/artifacts-v2/p1/sb-bjl.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0b04e465fc5ff255-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/0b04e465fc5ff255-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/0b04e465fc5ff255-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/sb-bjl.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/b0be5070b5426137-detail-w480.webp",
+       "width": 480,
+       "height": 641
+      },
+      {
+       "src": "/artifact-responsive/b0be5070b5426137-detail-w565.webp",
+       "width": 565,
+       "height": 754
+      }
+     ]
+    }
+   }
+  },
+  "sb-qhbf": {
+   "src": "/artifacts/sb-qhbf.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f474a1121a335308-detail-w480.webp",
+      "width": 480,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/f474a1121a335308-detail-w800.webp",
+      "width": 800,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/f474a1121a335308-detail-w900.webp",
+      "width": 900,
+      "height": 675
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

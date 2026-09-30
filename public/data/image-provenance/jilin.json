@@ -1,0 +1,78 @@
+{
+ "records": {
+  "jl-efj": {
+   "src": "/artifacts/jl-efj.jpg",
+   "credit": "AI 生成示意",
+   "ai": true,
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "馆藏或研究线索，不是当前 AI 图的来源或授权证明；尚未取得可绑定到当前文物的开放许可文件。",
+    "authorityUrl": "https://whhlyt.jl.gov.cn/ggfw/hdyg/201908/t20190814_6031978.html"
+   }
+  },
+  "jl-wjg": {
+   "src": "/artifacts/jl-wjg.jpg",
+   "credit": "AI 生成示意",
+   "ai": true,
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "馆藏或研究线索，不是当前 AI 图的来源或授权证明；尚未取得可绑定到当前文物的开放许可文件。",
+    "authorityUrl": "https://whhlyt.jl.gov.cn/ggfw/hdyg/201908/t20190814_6031978.html"
+   }
+  },
+  "jl-ljm": {
+   "src": "/artifacts/jl-ljm.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  }
+ },
+ "delivery": {
+  "jl-efj": {
+   "src": "/artifacts/jl-efj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/bfb444c0b52fa419-scroll-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "jl-wjg": {
+   "src": "/artifacts/jl-wjg.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/db2d630276a95a5d-scroll-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "jl-ljm": {
+   "src": "/artifacts/jl-ljm.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/37fda895a9d3aa5e-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/37fda895a9d3aa5e-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

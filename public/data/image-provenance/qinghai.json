@@ -1,0 +1,54 @@
+{
+ "records": {
+  "qh-wdw": {
+   "src": "/artifacts/qh-wdw.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "qh-tk": {
+   "src": "/artifacts/qh-tk.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  }
+ },
+ "delivery": {
+  "qh-wdw": {
+   "src": "/artifacts/qh-wdw.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6c36fa867e221812-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/6c36fa867e221812-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "qh-tk": {
+   "src": "/artifacts/qh-tk.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9b9b2f1207d546e7-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/9b9b2f1207d546e7-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

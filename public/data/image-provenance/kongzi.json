@@ -1,0 +1,77 @@
+{
+ "records": {
+  "kz-sg": {
+   "src": "/artifacts/kz-sg.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "kz-myc": {
+   "src": "/artifacts/kz-myc.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "kz-kzsj": {
+   "src": "/artifacts/kz-kzsj.jpg",
+   "credit": "AI 生成示意",
+   "ai": true,
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "馆藏或研究线索，不是当前 AI 图的来源或授权证明；尚未取得可绑定到当前文物的开放许可文件。"
+   }
+  }
+ },
+ "delivery": {
+  "kz-sg": {
+   "src": "/artifacts/kz-sg.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/720def2de9b04064-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/720def2de9b04064-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "kz-myc": {
+   "src": "/artifacts/kz-myc.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/58c7052a03d345eb-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/58c7052a03d345eb-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "kz-kzsj": {
+   "src": "/artifacts/kz-kzsj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1f127266fc781fd7-scroll-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

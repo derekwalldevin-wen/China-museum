@@ -1,0 +1,295 @@
+{
+ "records": {
+  "tb-xjhl": {
+   "src": "/artifacts/tb-xjhl.jpg",
+   "credit": "File:Xuejinghanlintu.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/tb-xjhl.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/tb-xjhl.jpg",
+        "credit": "File:Xuejinghanlintu.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "《雪景寒林图》中央山体、寒林、亭屋、远峰与旧绢色调关系通过；AI图仅作卡片展示，详情继续使用原始来源图。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/tb-xjhl.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:Xuejinghanlintu.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "dd753d6f794edc27b11f710186a723500042702f329d6cc3d3fb32810606c0a7",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xuejinghanlintu.jpg",
+      "sourceTitle": "Xuejinghanlintu.jpg",
+      "author": "范宽",
+      "institution": "天津博物馆",
+      "license": "PD-Art",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "tb-tbd": {
+   "src": "/artifacts/tb-tbd.jpg",
+   "credit": "Taibao Ding.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/tb-tbd.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/tb-tbd.jpg",
+        "credit": "Taibao Ding.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "方体、双耳和四足体系通过；纹带与侧构件待多角度资料复核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/tb-tbd.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/tb-tbd.jpg",
+        "credit": "Taibao Ding.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "方体、双耳和四足体系通过；纹带与侧构件待多角度资料复核。"
+     }
+    }
+   }
+  },
+  "tb-yhc": {
+   "src": "/artifacts/tb-yhc.jpg",
+   "credit": "File:珐琅彩芍药雉鸡图玉壶春瓶08470.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/tb-yhc.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/tb-yhc.jpg",
+        "credit": "File:珐琅彩芍药雉鸡图玉壶春瓶08470.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "梨形瓶和雉鸡花卉主题通过；釉色与具体画意待史料复核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/tb-yhc.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/tb-yhc.jpg",
+        "credit": "File:珐琅彩芍药雉鸡图玉壶春瓶08470.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "梨形瓶和雉鸡花卉主题通过；釉色与具体画意待史料复核。"
+     }
+    }
+   }
+  }
+ },
+ "delivery": {
+  "tb-xjhl": {
+   "src": "/artifacts/tb-xjhl.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/dd753d6f794edc27-scroll-detail-w748.webp",
+      "width": 748,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "tb-tbd": {
+   "src": "/artifacts-v2/p1/tb-tbd.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d4c5be28625cabbe-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/d4c5be28625cabbe-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/d4c5be28625cabbe-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/tb-tbd.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/44cc8b1aea02df37-detail-w390.webp",
+       "width": 390,
+       "height": 520
+      }
+     ]
+    }
+   }
+  },
+  "tb-yhc": {
+   "src": "/artifacts-v2/p1/tb-yhc.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/16f6ff0a78cc1a84-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/16f6ff0a78cc1a84-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/16f6ff0a78cc1a84-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/tb-yhc.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/17ecb9f683af343d-detail-w480.webp",
+       "width": 480,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/17ecb9f683af343d-detail-w800.webp",
+       "width": 800,
+       "height": 533
+      },
+      {
+       "src": "/artifact-responsive/17ecb9f683af343d-detail-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  }
+ }
+}

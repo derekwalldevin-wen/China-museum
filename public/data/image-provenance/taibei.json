@@ -1,0 +1,126 @@
+{
+ "records": {
+  "tp-cyb": {
+   "src": "/artifacts/tp-cyb.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "tp-rxs": {
+   "src": "/artifacts/tp-rxs.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "tp-mgd": {
+   "src": "/artifacts/tp-mgd.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "tp-rsp": {
+   "src": "/artifacts/tp-rsp.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "tp-kxs": {
+   "src": "/artifacts/tp-kxs.jpg",
+   "credit": "AI 生成示意",
+   "ai": true,
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "官方页面声明中阶图 CC BY 4.0；本次尚未下载并绑定具体本幅文件，仍展示明确标识的 AI 图，授权不升级。",
+    "authorityUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/19?dep=P"
+   }
+  }
+ },
+ "delivery": {
+  "tp-cyb": {
+   "src": "/artifacts/tp-cyb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/60744c3877bb36ce-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/60744c3877bb36ce-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "tp-rxs": {
+   "src": "/artifacts/tp-rxs.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c2ec47614b1ef1b6-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/c2ec47614b1ef1b6-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "tp-mgd": {
+   "src": "/artifacts/tp-mgd.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/12e1cb076c3b17a9-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/12e1cb076c3b17a9-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "tp-rsp": {
+   "src": "/artifacts/tp-rsp.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/faab4cf5e132b0b1-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/faab4cf5e132b0b1-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "tp-kxs": {
+   "src": "/artifacts/tp-kxs.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/54c00829e2c7ea7f-scroll-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,210 @@
+{
+ "records": {
+  "qzx-lxsf": {
+   "src": "/artifacts/qzx-lxsf.jpg",
+   "credit": "File:青州龙兴寺 北齐 贴金彩绘思惟菩萨像.JPG",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/qzx-lxsf.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/qzx-lxsf.jpg",
+        "credit": "File:青州龙兴寺 北齐 贴金彩绘思惟菩萨像.JPG"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "残损、贴金与思惟姿态通过；服饰和缺失部位待复核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/qzx-lxsf.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/qzx-lxsf.jpg",
+        "credit": "File:青州龙兴寺 北齐 贴金彩绘思惟菩萨像.JPG"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "残损、贴金与思惟姿态通过；服饰和缺失部位待复核。"
+     }
+    }
+   }
+  },
+  "qzx-zyj": {
+   "src": "/artifacts/qzx-zyj.jpg",
+   "credit": "File:状元卷.JPG",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/qzx-zyj.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/qzx-zyj.jpg",
+        "credit": "File:状元卷.JPG"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "保留原卷题签区域和纵行节奏；生成文字不可释读，详情使用原图。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/qzx-zyj.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:状元卷.JPG",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "64942b286039163d3e0d55def37774a977d1443ac757fa5bf901ebdfa372c336",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%8A%B6%E5%85%83%E5%8D%B7.JPG",
+      "sourceTitle": "状元卷.JPG",
+      "author": "三猎",
+      "institution": "青州博物馆",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex source QA",
+      "note": "真实来源图用于保存全卷或全文信息；来源页与许可字段仍待补充。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "qzx-yzb": {
+   "src": "/artifacts/qzx-yzb.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  }
+ },
+ "delivery": {
+  "qzx-lxsf": {
+   "src": "/artifacts-v2/p1/qzx-lxsf.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0fec47abb181081f-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/0fec47abb181081f-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/0fec47abb181081f-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/qzx-lxsf.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/2f196bc7ac03d8a2-detail-w421.webp",
+       "width": 421,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "qzx-zyj": {
+   "src": "/artifacts/qzx-zyj.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/64942b286039163d-scroll-detail-w900.webp",
+      "width": 900,
+      "height": 506
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "qzx-yzb": {
+   "src": "/artifacts/qzx-yzb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/56839775daca3540-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/56839775daca3540-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

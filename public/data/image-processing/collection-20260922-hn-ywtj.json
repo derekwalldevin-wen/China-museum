@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "artifactId": "hn-ywtj",
+  "authorityUrl": "https://www.chnmus.net/ch/collection/treasure/details.html?id=508168229516397923",
+  "reviewedAt": "2026-09-22",
+  "sourceTitle": "Spring & Autumn Bronze Jin.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spring_%26_Autumn_Bronze_Jin.jpg",
+  "author": "Gary Todd",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "derivativeLicense": "CC0",
+  "original": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Spring_%26_Autumn_Bronze_Jin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sha1": "db0807634de31d0f97fc58300670a6dc79f7b4e9",
+    "sha256": "87be750360248320a6f3fdbfa63638060a55bae4d07a20a8dcf4786cfcc46145",
+    "bytes": 1955881,
+    "width": 3888,
+    "height": 2592
+  },
+  "display": {
+    "src": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+    "sha256": "e62ffe8b26b28355002d83dd948fd44f3e6d3bcc563582f23c0698bee68b8fd2",
+    "bytes": 416337,
+    "width": 1600,
+    "height": 1067,
+    "format": "JPEG"
+  },
+  "derivatives": [
+    {
+      "src": "/artifact-responsive/e62ffe8b26b28355-card-w240.webp",
+      "width": 240,
+      "height": 160,
+      "bytes": 10936,
+      "sha256": "67f8ce33bc025e337fd723e230233cac21e58e8fe35280942efeb4be81e46b7e",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+      "inputSha256": "e62ffe8b26b28355002d83dd948fd44f3e6d3bcc563582f23c0698bee68b8fd2",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/e62ffe8b26b28355-card-w400.webp",
+      "width": 400,
+      "height": 267,
+      "bytes": 25520,
+      "sha256": "9d452b10cd5aaa1b6025a60fe5e8b16f2912c1bd0bd60a9b58e88b38aea80ca9",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+      "inputSha256": "e62ffe8b26b28355002d83dd948fd44f3e6d3bcc563582f23c0698bee68b8fd2",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/e62ffe8b26b28355-card-w640.webp",
+      "width": 640,
+      "height": 427,
+      "bytes": 52516,
+      "sha256": "cf20d9021725cda2ba829c7230d102e7d5255534273a4c41c9dfeb15199a61ea",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+      "inputSha256": "e62ffe8b26b28355002d83dd948fd44f3e6d3bcc563582f23c0698bee68b8fd2",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/e62ffe8b26b28355-card-w960.webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 93482,
+      "sha256": "52d9957b273bf5884d0160b73083636a52a0758654915a329fc92f6e6b298c41",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+      "inputSha256": "e62ffe8b26b28355002d83dd948fd44f3e6d3bcc563582f23c0698bee68b8fd2",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/e62ffe8b26b28355-detail-w480.webp",
+      "width": 480,
+      "height": 320,
+      "bytes": 43408,
+      "sha256": "0996dcbca07c152ecc5f8a2c0dc89900e064640adffc29079029f1172d85998d",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+      "inputSha256": "e62ffe8b26b28355002d83dd948fd44f3e6d3bcc563582f23c0698bee68b8fd2",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/e62ffe8b26b28355-detail-w800.webp",
+      "width": 800,
+      "height": 534,
+      "bytes": 96522,
+      "sha256": "09458edcf489f1170900d988db7e6c5e71f9bd1492f3f3d6a7631b991184ff10",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+      "inputSha256": "e62ffe8b26b28355002d83dd948fd44f3e6d3bcc563582f23c0698bee68b8fd2",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/e62ffe8b26b28355-detail-w1200.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 166080,
+      "sha256": "2f64dcf833e76e7b946041e72a5a71ff21361d7c79805abc0cefa418167709c0",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+      "inputSha256": "e62ffe8b26b28355002d83dd948fd44f3e6d3bcc563582f23c0698bee68b8fd2",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/e62ffe8b26b28355-detail-w1600.webp",
+      "width": 1600,
+      "height": 1067,
+      "bytes": 244560,
+      "sha256": "1947da936b49b191a070925d60037b7a9bb6b632a1b2949d84e7f70b645b9342",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+      "inputSha256": "e62ffe8b26b28355002d83dd948fd44f3e6d3bcc563582f23c0698bee68b8fd2",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    }
+  ],
+  "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。",
+  "priorModifications": "源文件上传前处理情况未另行确认",
+  "cropped": false,
+  "upscaled": false,
+  "aiGenerated": false,
+  "matchEvidence": "与馆方图核对：长方形中部素面、四周透空云纹、重复伏兽和边沿支撑布局一致；馆藏机构相符，Commons摄影原件标明CC0。"
+}

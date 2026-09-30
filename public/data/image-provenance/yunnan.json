@@ -1,0 +1,121 @@
+{
+ "records": {
+  "yn-nha": {
+   "src": "/artifacts/yn-nha.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "yn-jcn": {
+   "src": "/artifacts/yn-jcn.jpg",
+   "credit": "File:大理崇圣寺千寻塔出土-银鎏金镶珠金翅鸟-大理国-云南省博物馆 2025-09-18 04.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/yn-jcn.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/yn-jcn.jpg",
+        "credit": "File:大理崇圣寺千寻塔出土-银鎏金镶珠金翅鸟-大理国-云南省博物馆 2025-09-18 04.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "金翅鸟头、双翼、双足、火焰形背饰与珠饰关系通过；透明展托已移除，细部仍以原始详情图为准。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/yn-jcn.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:大理崇圣寺千寻塔出土-银鎏金镶珠金翅鸟-大理国-云南省博物馆 2025-09-18 04.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "f33499df6ce356043c3815fbd6895861618a38adcce8376222c703c2b75ca24c",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%90%86%E5%B4%87%E5%9C%A3%E5%AF%BA%E5%8D%83%E5%AF%BB%E5%A1%94%E5%87%BA%E5%9C%9F-%E9%93%B6%E9%8E%8F%E9%87%91%E9%95%B6%E7%8F%A0%E9%87%91%E7%BF%85%E9%B8%9F-%E5%A4%A7%E7%90%86%E5%9B%BD-%E4%BA%91%E5%8D%97%E7%9C%81%E5%8D%9A%E7%89%A9%E9%A6%86_2025-09-18_04.jpg",
+      "sourceTitle": "大理崇圣寺千寻塔出土-银鎏金镶珠金翅鸟-大理国-云南省博物馆 2025-09-18 04.jpg",
+      "author": "Kcx36",
+      "institution": "云南省博物馆",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  }
+ },
+ "delivery": {
+  "yn-nha": {
+   "src": "/artifacts/yn-nha.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/caa3d2e6add09871-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/caa3d2e6add09871-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "yn-jcn": {
+   "src": "/artifacts/yn-jcn.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f33499df6ce35604-detail-w480.webp",
+      "width": 480,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/f33499df6ce35604-detail-w800.webp",
+      "width": 800,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/f33499df6ce35604-detail-w900.webp",
+      "width": 900,
+      "height": 675
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "records": {
+  "dh-jsl": {
+   "src": "/artifacts/dh-jsl.jpg",
+   "credit": "AI 生成示意",
+   "ai": true,
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "馆藏或研究线索，不是当前 AI 图的来源或授权证明；尚未取得可绑定到当前文物的开放许可文件。",
+    "authorityUrl": "https://www.e-dunhuang.com/cave/10.0001/0001.0001.0257"
+   }
+  },
+  "dh-swk": {
+   "src": "/artifacts/dh-swk.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "dh-ft": {
+   "src": "/artifacts/dh-ft.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  }
+ },
+ "delivery": {
+  "dh-jsl": {
+   "src": "/artifacts/dh-jsl.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f257091d929fb0a7-scroll-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "dh-swk": {
+   "src": "/artifacts/dh-swk.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/e18f030c24f0d06f-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/e18f030c24f0d06f-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "dh-ft": {
+   "src": "/artifacts/dh-ft.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f729b918163c6ef5-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/f729b918163c6ef5-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

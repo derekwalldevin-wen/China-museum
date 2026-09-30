@@ -1,0 +1,475 @@
+{
+ "records": {
+  "hn-jhg": {
+   "src": "/artifacts/hn-jhg.jpg",
+   "credit": "File:贾湖骨笛 竖.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/hn-jhg.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/hn-jhg.jpg",
+        "credit": "File:贾湖骨笛 竖.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "骨笛单体、两端残损、自然弯曲、材质与七孔数量通过；孔位精确尺度仍以原始详情图为准。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/hn-jhg.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:贾湖骨笛 竖.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "703eebceddac5fc8330a62b8c0c3c106d26b82d8863a3358466e8c18496c6e1f",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E8%B4%BE%E6%B9%96%E9%AA%A8%E7%AC%9B_%E7%AB%96.jpg",
+      "sourceTitle": "贾湖骨笛 竖.jpg",
+      "author": "Cangminzho",
+      "institution": "河南博物院",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "hn-fhxz": {
+   "src": "/artifacts/hn-fhxz.jpg",
+   "credit": "20260408 Bronze Owl-Shaped Zun with Inscriptions of Fu Hao.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/hn-fhxz.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/hn-fhxz.jpg",
+        "credit": "20260408 Bronze Owl-Shaped Zun with Inscriptions of Fu Hao.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "鸮尊完整器形、盖体、翼纹、双足与尾撑关系清晰；纹饰细节仍待权威资料复核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/hn-fhxz.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "20260408 Bronze Owl-Shaped Zun with Inscriptions of Fu Hao.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "886df4fd7158ca6d8a38d41a3ea79dc9db09630b9cce6ea274babdbb0f10cea7",
+      "evidenceNote": "来源页照片含两件鸮尊，前方为河南博物院、后方为中国国家博物馆；不能把整张照片都称为河南单件馆藏。当前文件绑定仍待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260408_Bronze_Owl-Shaped_Zun_with_Inscriptions_of_Fu_Hao.jpg",
+      "sourceTitle": "20260408 Bronze Owl-Shaped Zun with Inscriptions of Fu Hao.jpg",
+      "author": "Windmemories",
+      "institution": "河南博物院 / 中国国家博物馆",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "来源页照片含两件鸮尊，前方为河南博物院、后方为中国国家博物馆；不能把整张照片都称为河南单件馆藏。当前文件绑定仍待核。"
+   }
+  },
+  "hn-lhfh": {
+   "src": "/artifacts/hn-lhfh.jpg",
+   "credit": "20260408 Rectangular Pot with Lotus Petal Cover and Crane Decoration 01.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/hn-lhfh.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/hn-lhfh.jpg",
+        "credit": "20260408 Rectangular Pot with Lotus Petal Cover and Crane Decoration 01.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "方壶完整器形、莲瓣冠、中央立鹤、双侧龙形构件、足座与斑驳铜锈层级通过；复杂纹饰仍待权威资料复核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/hn-lhfh.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "20260408 Rectangular Pot with Lotus Petal Cover and Crane Decoration 01.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "c5619ad31955241e167d55ed63191688d793d0406c8b1fffcdc661dec0b8ea84",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260408_Rectangular_Pot_with_Lotus_Petal_Cover_and_Crane_Decoration_01.jpg",
+      "sourceTitle": "20260408 Rectangular Pot with Lotus Petal Cover and Crane Decoration 01.jpg",
+      "author": "Windmemories",
+      "institution": "河南博物院",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "hn-wzt": {
+   "src": "/artifacts/hn-wzt.jpg",
+   "credit": "File:Chinese gold slip for absolving sin.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/hn-wzt.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/hn-wzt.jpg",
+        "credit": "File:Chinese gold slip for absolving sin.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "金简比例与材质通过；生成刻辞不可释读。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/hn-wzt.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/hn-wzt.jpg",
+        "credit": "File:Chinese gold slip for absolving sin.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "金简比例与材质通过；生成刻辞不可释读。"
+     }
+    }
+   }
+  },
+  "hn-ywtj": {
+   "src": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+   "credit": "Gary Todd / Wikimedia Commons / CC0",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Gary Todd / Wikimedia Commons / CC0",
+     "provenance": {
+      "type": "source",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spring_%26_Autumn_Bronze_Jin.jpg",
+      "sourceTitle": "Spring & Autumn Bronze Jin.jpg",
+      "author": "Gary Todd",
+      "institution": "河南博物院",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verifiedAt": "2026-09-22",
+      "linkCheckedAt": "2026-09-22",
+      "authorizationStatus": "verified",
+      "assetMatchStatus": "verified",
+      "evidenceNote": "与馆方图核对：长方形中部素面、四周透空云纹、重复伏兽和边沿支撑布局一致；馆藏机构相符，Commons摄影原件标明CC0。",
+      "assetSha256": "e62ffe8b26b28355002d83dd948fd44f3e6d3bcc563582f23c0698bee68b8fd2",
+      "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Spring_%26_Autumn_Bronze_Jin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalSha1": "db0807634de31d0f97fc58300670a6dc79f7b4e9",
+      "originalSha256": "87be750360248320a6f3fdbfa63638060a55bae4d07a20a8dcf4786cfcc46145",
+      "processingManifest": "/data/image-processing/collection-20260922-hn-ywtj.json"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-09-22",
+      "reviewedBy": "馆方图与开放许可原件比对",
+      "note": "与馆方图核对：长方形中部素面、四周透空云纹、重复伏兽和边沿支撑布局一致；馆藏机构相符，Commons摄影原件标明CC0。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "Gary Todd / Wikimedia Commons / CC0",
+     "provenance": {
+      "type": "source",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spring_%26_Autumn_Bronze_Jin.jpg",
+      "sourceTitle": "Spring & Autumn Bronze Jin.jpg",
+      "author": "Gary Todd",
+      "institution": "河南博物院",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verifiedAt": "2026-09-22",
+      "linkCheckedAt": "2026-09-22",
+      "authorizationStatus": "verified",
+      "assetMatchStatus": "verified",
+      "evidenceNote": "与馆方图核对：长方形中部素面、四周透空云纹、重复伏兽和边沿支撑布局一致；馆藏机构相符，Commons摄影原件标明CC0。",
+      "assetSha256": "e62ffe8b26b28355002d83dd948fd44f3e6d3bcc563582f23c0698bee68b8fd2",
+      "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。",
+      "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Spring_%26_Autumn_Bronze_Jin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalSha1": "db0807634de31d0f97fc58300670a6dc79f7b4e9",
+      "originalSha256": "87be750360248320a6f3fdbfa63638060a55bae4d07a20a8dcf4786cfcc46145",
+      "processingManifest": "/data/image-processing/collection-20260922-hn-ywtj.json"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-09-22",
+      "reviewedBy": "馆方图与开放许可原件比对",
+      "note": "与馆方图核对：长方形中部素面、四周透空云纹、重复伏兽和边沿支撑布局一致；馆藏机构相符，Commons摄影原件标明CC0。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-22",
+    "authorityUrl": "https://www.chnmus.net/ch/collection/treasure/details.html?id=508168229516397923",
+    "note": "与馆方图核对：长方形中部素面、四周透空云纹、重复伏兽和边沿支撑布局一致；馆藏机构相符，Commons摄影原件标明CC0。"
+   }
+  }
+ },
+ "delivery": {
+  "hn-jhg": {
+   "src": "/artifacts/hn-jhg.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/703eebceddac5fc8-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/703eebceddac5fc8-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hn-fhxz": {
+   "src": "/artifacts/hn-fhxz.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/886df4fd7158ca6d-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/886df4fd7158ca6d-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hn-lhfh": {
+   "src": "/artifacts/hn-lhfh.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c5619ad31955241e-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/c5619ad31955241e-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hn-wzt": {
+   "src": "/artifacts-v2/p1/hn-wzt.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4bf1e3e30365c8da-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/4bf1e3e30365c8da-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/4bf1e3e30365c8da-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/hn-wzt.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/eba69d74ff6cc887-detail-w480.webp",
+       "width": 480,
+       "height": 776
+      },
+      {
+       "src": "/artifact-responsive/eba69d74ff6cc887-detail-w557.webp",
+       "width": 557,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hn-ywtj": {
+   "src": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/e62ffe8b26b28355-detail-w480.webp",
+      "width": 480,
+      "height": 320
+     },
+     {
+      "src": "/artifact-responsive/e62ffe8b26b28355-detail-w800.webp",
+      "width": 800,
+      "height": 534
+     },
+     {
+      "src": "/artifact-responsive/e62ffe8b26b28355-detail-w1200.webp",
+      "width": 1200,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/e62ffe8b26b28355-detail-w1600.webp",
+      "width": 1600,
+      "height": 1067
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

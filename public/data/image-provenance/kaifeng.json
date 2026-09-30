@@ -1,0 +1,132 @@
+{
+ "records": {
+  "kf-tmj": {
+   "src": "/artifacts/kf-tmj.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "kf-dsb": {
+   "src": "/artifacts/kf-dsb.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "kf-khc": {
+   "src": "/artifacts/kf-khc.jpg",
+   "credit": "File:20241025 Stone Statues by Kong Huichao, Northern Wei Dynasty.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/kf-khc.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/kf-khc.jpg",
+        "credit": "File:20241025 Stone Statues by Kong Huichao, Northern Wei Dynasty.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "尖拱形背屏、中央立佛、左右二胁侍、足部残损与题记座关系通过；未补造可读题记。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/kf-khc.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:20241025 Stone Statues by Kong Huichao, Northern Wei Dynasty.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "1549903999b60dec4a87c97176b3f55324d7724d0b5cc76c5e4bfa87baff4e09",
+      "evidenceNote": "已检索到分类页线索，逐文件说明页读取失败；不据文件名或分类页页脚填写作者与许可。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已检索到分类页线索，逐文件说明页读取失败；不据文件名或分类页页脚填写作者与许可。"
+   }
+  }
+ },
+ "delivery": {
+  "kf-tmj": {
+   "src": "/artifacts/kf-tmj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/07c62ba0e0a7f2d9-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/07c62ba0e0a7f2d9-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "kf-dsb": {
+   "src": "/artifacts/kf-dsb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/24417de50ea342fa-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/24417de50ea342fa-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "kf-khc": {
+   "src": "/artifacts/kf-khc.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1549903999b60dec-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/1549903999b60dec-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "records": {
+  "mo-klk": {
+   "src": "/artifacts-v2/ai-pending-20260923/mo-klk.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-pending-20260923/mo-klk.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "quarantined-six-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/quarantined-six-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.macaumuseum.gov.mo/zh-hans/collections/84072",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-pending-20260923/mo-klk.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "quarantined-six-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/quarantined-six-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.macaumuseum.gov.mo/zh-hans/collections/84072",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-23",
+    "authorityUrl": "https://www.macaumuseum.gov.mo/zh-hans/collections/84072",
+    "note": "官网检索指向MM5197，页面本次返回空内容；图像和授权尚未完成核读，继续待核。 当前AI示意图仅据馆方文字生成，具体造型与细节继续待真品影像核验。"
+   },
+   "retiredAssets": [
+    {
+     "src": "/artifacts/mo-klk.jpg",
+     "reason": "文件说明只识别为克拉克瓷盘，未提供澳门博物馆收藏依据；元数据含 eBay 处理说明，需要核查上传者权利与实物身份。",
+     "retiredAt": "2026-09-15"
+    },
+    {
+     "src": "/artifacts-v2/p2-source/mo-klk.png",
+     "reason": "文件说明只识别为克拉克瓷盘，未提供澳门博物馆收藏依据；元数据含 eBay 处理说明，需要核查上传者权利与实物身份。",
+     "retiredAt": "2026-09-15"
+    }
+   ]
+  },
+  "mo-wxh": {
+   "src": "/artifacts/mo-wxh.jpg",
+   "credit": "AI 生成示意",
+   "ai": true,
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "检索到的是广东馆藏通草画，不是澳门具体藏品，不能迁移此图；需明确澳门记录的登记号。"
+   }
+  }
+ },
+ "delivery": {
+  "mo-klk": {
+   "src": "/artifacts-v2/ai-pending-20260923/mo-klk.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/01eb58e27be58645-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/01eb58e27be58645-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/01eb58e27be58645-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "mo-wxh": {
+   "src": "/artifacts/mo-wxh.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/217a50428ad8e01c-scroll-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

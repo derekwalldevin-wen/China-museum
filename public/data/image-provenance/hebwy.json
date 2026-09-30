@@ -1,0 +1,288 @@
+{
+ "records": {
+  "hb-cxd": {
+   "src": "/artifact-sources/official/hb-cxd.png",
+   "credit": "旅图河北：西汉长信宫灯 · 河北博物院藏",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/hb-cxd.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifact-sources/official/hb-cxd.png",
+        "credit": "旅图河北：西汉长信宫灯 · 河北博物院藏"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "依据河北权威文博页面完整图生成；跪姿、持灯结构、导烟袖管与鎏金残损语义清晰。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/official/hb-cxd.png",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "旅图河北：西汉长信宫灯 · 河北博物院藏",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "restricted",
+      "assetMatchStatus": "pending",
+      "assetSha256": "b4b520b345177bb8c8d9ea6a46296a61ff9ab03f757a8529ac0e634b8ef7eaba",
+      "evidenceNote": "页面明确未经允许不得复制或镜像；未取得额外授权，停止展示此来源图，详情仅保留标识清楚的 AI 示意。AI 参考图权利仍待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://lthb.hebeimedia.cn/c/2022-07-20/563282.html",
+      "institution": "河北博物院 / 河北新闻网旅图河北",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "approved",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "权威文博页面完整图，用于保存器物真实结构与比例；页面版权与再利用许可仍需单独核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "页面明确未经允许不得复制或镜像；未取得额外授权，停止展示此来源图，详情仅保留标识清楚的 AI 示意。AI 参考图权利仍待核。"
+   }
+  },
+  "hb-jly": {
+   "src": "/artifacts/hb-jly.jpg",
+   "credit": "File:Jin Lv Yu Yi of Liusheng, Han Dynasty,China (Hebei Museum).jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/hb-jly.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "既有 AI 风格样片（生成器待补证）",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "unknown",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/hb-jly.jpg",
+        "credit": "File:Jin Lv Yu Yi of Liusheng, Han Dynasty,China (Hebei Museum).jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "既有风格样片通过视觉复核；玉衣完整人形与玉片网格清晰，编缀细节仍待史实审核。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/hb-jly.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:Jin Lv Yu Yi of Liusheng, Han Dynasty,China (Hebei Museum).jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "cab1b60deb2ccc9eebe3e3ac0bceff8fa42089354fab209f41dec1ed0fd8e212",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jin_Lv_Yu_Yi_of_Liusheng%2C_Han_Dynasty%2CChina_(Hebei_Museum).jpg",
+      "sourceTitle": "Jin Lv Yu Yi of Liusheng, Han Dynasty,China (Hebei Museum).jpg",
+      "author": "XRAY96",
+      "institution": "河北博物院",
+      "license": "PD-self",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jin_Lv_Yu_Yi_of_Liusheng%2C_Han_Dynasty%2CChina_(Hebei_Museum).jpg#Licensing",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "hb-sjfa": {
+   "src": "/artifacts/hb-sjfa.jpg",
+   "credit": "File:Bronze Square Table Stand Decorated with Dragon-and-phoenix.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p1/hb-sjfa.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/hb-sjfa.jpg",
+        "credit": "File:Bronze Square Table Stand Decorated with Dragon-and-phoenix.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "复杂方案座结构视觉可辨；龙凤构件关系需权威资料核对。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/p1/hb-sjfa.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p1-2026-08-24",
+      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
+      "generatedAt": "2026-08-24/2026-08-25",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/hb-sjfa.jpg",
+        "credit": "File:Bronze Square Table Stand Decorated with Dragon-and-phoenix.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-25",
+      "reviewedBy": "Codex visual QA",
+      "note": "复杂方案座结构视觉可辨；龙凤构件关系需权威资料核对。"
+     }
+    }
+   }
+  }
+ },
+ "delivery": {
+  "hb-cxd": {
+   "src": "/artifacts-v2/p2-source/hb-cxd.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c28b785f12947f18-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/c28b785f12947f18-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/c28b785f12947f18-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "cover"
+  },
+  "hb-jly": {
+   "src": "/artifacts/hb-jly.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/cab1b60deb2ccc9e-detail-w480.webp",
+      "width": 480,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/cab1b60deb2ccc9e-detail-w800.webp",
+      "width": 800,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/cab1b60deb2ccc9e-detail-w900.webp",
+      "width": 900,
+      "height": 675
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hb-sjfa": {
+   "src": "/artifacts-v2/p1/hb-sjfa.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0ef9abbd089597d1-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/0ef9abbd089597d1-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/0ef9abbd089597d1-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifacts/hb-sjfa.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/b2887bda03d00966-detail-w480.webp",
+       "width": 480,
+       "height": 355
+      },
+      {
+       "src": "/artifact-responsive/b2887bda03d00966-detail-w732.webp",
+       "width": 732,
+       "height": 542
+      }
+     ]
+    }
+   }
+  }
+ }
+}

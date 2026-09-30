@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "artifactId": "gb-cxct",
+  "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247229.shtml",
+  "reviewedAt": "2026-09-22",
+  "sourceTitle": "CMOC Treasures of Ancient China exhibit - boat-shaped pot.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:CMOC_Treasures_of_Ancient_China_exhibit_-_boat-shaped_pot.jpg",
+  "author": "Editor at Large",
+  "license": "CC BY-SA 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+  "derivativeLicense": "CC BY-SA 2.5",
+  "original": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/CMOC_Treasures_of_Ancient_China_exhibit_-_boat-shaped_pot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sha1": "ef4cb2366756525a9dbabb4a390cddbd2c940ae7",
+    "sha256": "9a56efe986c9219cbf87bea12039439ae5076f1bee0126400958e0ead5d64a4d",
+    "bytes": 2832570,
+    "width": 2500,
+    "height": 1991
+  },
+  "display": {
+    "src": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+    "sha256": "f46eb99baa35b46d9133c1f19b806c8f687ccefa1cc8b85cf848935953257f29",
+    "bytes": 359890,
+    "width": 1600,
+    "height": 1274,
+    "format": "JPEG"
+  },
+  "derivatives": [
+    {
+      "src": "/artifact-responsive/f46eb99baa35b46d-card-w240.webp",
+      "width": 240,
+      "height": 191,
+      "bytes": 6564,
+      "sha256": "35d475533106ed7b1e55d1af93142614486218131a3fd17f3e7d30b20af54cb6",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+      "inputSha256": "f46eb99baa35b46d9133c1f19b806c8f687ccefa1cc8b85cf848935953257f29",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/f46eb99baa35b46d-card-w400.webp",
+      "width": 400,
+      "height": 318,
+      "bytes": 13666,
+      "sha256": "2630ce101ba82244b7dcd9b2211213104ca51fef8962240d684070bf34ec5449",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+      "inputSha256": "f46eb99baa35b46d9133c1f19b806c8f687ccefa1cc8b85cf848935953257f29",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/f46eb99baa35b46d-card-w640.webp",
+      "width": 640,
+      "height": 510,
+      "bytes": 26998,
+      "sha256": "114815c4ca17395892011312b9afaa8897a4cbc708704309cf99f102bbcefa77",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+      "inputSha256": "f46eb99baa35b46d9133c1f19b806c8f687ccefa1cc8b85cf848935953257f29",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/f46eb99baa35b46d-card-w960.webp",
+      "width": 960,
+      "height": 764,
+      "bytes": 51188,
+      "sha256": "e31035cb4e2ce2c3b99499fc1a752b987f278c68551a7edc5fc5616eac6e240a",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+      "inputSha256": "f46eb99baa35b46d9133c1f19b806c8f687ccefa1cc8b85cf848935953257f29",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/f46eb99baa35b46d-detail-w480.webp",
+      "width": 480,
+      "height": 382,
+      "bytes": 25828,
+      "sha256": "d5896bf9d94e17879e75e7760ae55cdf3c4be5e88c9550885923c16489f62878",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+      "inputSha256": "f46eb99baa35b46d9133c1f19b806c8f687ccefa1cc8b85cf848935953257f29",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/f46eb99baa35b46d-detail-w800.webp",
+      "width": 800,
+      "height": 637,
+      "bytes": 60394,
+      "sha256": "9d81fe903ad05287a2b811537082272dd901214eaf6cb31951d4e5987ba2f0fa",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+      "inputSha256": "f46eb99baa35b46d9133c1f19b806c8f687ccefa1cc8b85cf848935953257f29",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/f46eb99baa35b46d-detail-w1200.webp",
+      "width": 1200,
+      "height": 956,
+      "bytes": 111546,
+      "sha256": "0d5076fb0648fcc42fbb721840c5e437d9f3a508ae4c9e4ac7f96f923de165c6",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+      "inputSha256": "f46eb99baa35b46d9133c1f19b806c8f687ccefa1cc8b85cf848935953257f29",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/f46eb99baa35b46d-detail-w1600.webp",
+      "width": 1600,
+      "height": 1274,
+      "bytes": 171788,
+      "sha256": "f61fe310c9973a5ed697b229fd863b377c93bb93becc2087ade008ab429d68ca",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+      "inputSha256": "f46eb99baa35b46d9133c1f19b806c8f687ccefa1cc8b85cf848935953257f29",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    }
+  ],
+  "modifications": "本站仅EXIF方向归一、等比缩小至不超过1600像素宽、JPEG/WebP编码；不裁切、不放大、不修复、不AI补绘。Commons上传历史记载此前已旋转、裁切和清理；本站不再裁切，不进行修复或AI补绘。",
+  "priorModifications": "Commons上传历史记载此前已旋转、裁切和清理；本站不再裁切，不进行修复或AI补绘。",
+  "cropped": false,
+  "upscaled": false,
+  "aiGenerated": false,
+  "matchEvidence": "与馆方图核对：船形轮廓、双系耳、黑色网格带与彩绘剥落位置一致；Commons展览信息支持馆藏对应，摄影原件标明CC BY-SA 2.5。"
+}

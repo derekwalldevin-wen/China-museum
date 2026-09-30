@@ -1,0 +1,145 @@
+{
+ "records": {
+  "jz-hnjg": {
+   "src": "/artifacts/jz-hnjg.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "jz-yzj": {
+   "src": "/artifacts/jz-yzj.jpg",
+   "credit": "File:越王州句剑 03.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/jz-yzj.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/jz-yzj.jpg",
+        "credit": "File:越王州句剑 03.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "单剑完整轮廓、长刃、中脊、格、柄与首的比例通过；表面铭文未作重构。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/jz-yzj.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:越王州句剑 03.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "87ee793e569dc8e608da92354b052e7ec49ae8d13685655d5586eb2b03535f98",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E8%B6%8A%E7%8E%8B%E5%B7%9E%E5%8F%A5%E5%89%91_03.jpg",
+      "sourceTitle": "越王州句剑 03.jpg",
+      "author": "AriaKoi",
+      "institution": "荆州博物馆",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "jz-lfh": {
+   "src": "/artifacts/jz-lfh.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  }
+ },
+ "delivery": {
+  "jz-hnjg": {
+   "src": "/artifacts/jz-hnjg.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/af0f9ce72028d781-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/af0f9ce72028d781-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "jz-yzj": {
+   "src": "/artifacts/jz-yzj.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/87ee793e569dc8e6-detail-w480.webp",
+      "width": 480,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/87ee793e569dc8e6-detail-w800.webp",
+      "width": 800,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/87ee793e569dc8e6-detail-w900.webp",
+      "width": 900,
+      "height": 675
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "jz-lfh": {
+   "src": "/artifacts/jz-lfh.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0a648131e019797c-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/0a648131e019797c-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,145 @@
+{
+ "records": {
+  "nm-jgs": {
+   "src": "/artifacts/nm-jgs.jpg",
+   "credit": "File:匈奴王金冠.jpg",
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/p2-source/nm-jgs.png",
+     "kind": "ai",
+     "fit": "cover",
+     "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI image generation",
+      "promptVersion": "artifact-v2-p2-source-2026-08-27",
+      "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+      "generatedAt": "2026-08-27",
+      "references": [
+       {
+        "type": "local-archive",
+        "value": "/artifacts/nm-jgs.jpg",
+        "credit": "File:匈奴王金冠.jpg"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex visual QA",
+      "note": "鹰形冠饰、环形冠带、动物纹牌与小型玉石构件关系通过；去除蓝色展垫后未添加佩戴者或额外宝石。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts/nm-jgs.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "File:匈奴王金冠.jpg",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "pending",
+      "assetSha256": "2ee0d235b33d2020d76c39275996cd065400ecd2c5250dd459b61c8bf6239daf",
+      "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
+      "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%8C%88%E5%A5%B4%E7%8E%8B%E9%87%91%E5%86%A0.jpg",
+      "sourceTitle": "匈奴王金冠.jpg",
+      "author": "三猎",
+      "institution": "内蒙古博物院",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "verifiedAt": "2026-09-15",
+      "linkCheckedAt": "2026-09-15"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-08-27",
+      "reviewedBy": "Codex source QA",
+      "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。"
+   }
+  },
+  "nm-jyx": {
+   "src": "/artifacts/nm-jyx.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "nm-lsy": {
+   "src": "/artifacts/nm-lsy.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  }
+ },
+ "delivery": {
+  "nm-jgs": {
+   "src": "/artifacts/nm-jgs.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/2ee0d235b33d2020-detail-w480.webp",
+      "width": 480,
+      "height": 434
+     },
+     {
+      "src": "/artifact-responsive/2ee0d235b33d2020-detail-w800.webp",
+      "width": 800,
+      "height": 723
+     },
+     {
+      "src": "/artifact-responsive/2ee0d235b33d2020-detail-w900.webp",
+      "width": 900,
+      "height": 813
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "nm-jyx": {
+   "src": "/artifacts/nm-jyx.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4d309a7c8eba9cdd-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/4d309a7c8eba9cdd-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "nm-lsy": {
+   "src": "/artifacts/nm-lsy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0560c44c44f2e8d2-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/0560c44c44f2e8d2-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  }
+ }
+}

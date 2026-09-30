@@ -1,0 +1,248 @@
+{
+ "records": {
+  "nb-wgj": {
+   "src": "/artifacts-v2/ai-pending-20260923/nb-wgj.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-pending-20260923/nb-wgj.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "quarantined-six-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/quarantined-six-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nbmuseum.cn/art/2020/9/1/art_20385_1225.html",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-pending-20260923/nb-wgj.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "quarantined-six-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/quarantined-six-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nbmuseum.cn/art/2020/9/1/art_20385_1225.html",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-23",
+    "authorityUrl": "https://www.nbmuseum.cn/art/2020/9/1/art_20385_1225.html",
+    "note": "已核读宁波博物院万工轿资料，但未找到图像再利用许可；继续隔离旧浙江省博图与依赖图。 当前AI示意图仅据馆方文字生成，具体造型与细节继续待真品影像核验。"
+   },
+   "retiredAssets": [
+    {
+     "src": "/artifacts/nb-wgj.jpg",
+     "reason": "来源页明确馆藏为浙江省博物馆，与本站宁波博物馆记录不符。",
+     "retiredAt": "2026-09-15"
+    },
+    {
+     "src": "/artifacts-v2/p2-source/nb-wgj.png",
+     "reason": "来源页明确馆藏为浙江省博物馆，与本站宁波博物馆记录不符。",
+     "retiredAt": "2026-09-15"
+    }
+   ]
+  },
+  "nb-yrjd": {
+   "src": "/artifacts/nb-yrjd.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "nb-hyz": {
+   "src": "/artifacts/nb-hyz.jpg",
+   "credit": "AI 生成示意",
+   "ai": true
+  },
+  "nb-htb": {
+   "src": "/artifacts-v2/ai-pending-20260923/nb-htb.png",
+   "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+   "ai": true,
+   "variants": {
+    "card": {
+     "src": "/artifacts-v2/ai-pending-20260923/nb-htb.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "pending-five-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/pending-five-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nbmuseum.cn/art/2026/1/21/art_20384_8871.html",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    },
+    "detail": {
+     "src": "/artifacts-v2/ai-pending-20260923/nb-htb.png",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "pending-five-2026-09-23",
+      "promptManifest": "assets/artifact-image-prompts/pending-five-2026-09-23.json",
+      "generatedAt": "2026-09-23",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.nbmuseum.cn/art/2026/1/21/art_20384_8871.html",
+        "credit": "馆方文字资料用于限定大致形态；未转载馆方影像"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-09-23",
+      "reviewedBy": "Codex visual QA",
+      "note": "已核对为完整可读的AI示意画面；具体造型、纹饰、色彩与内部结构仍待真品影像核验。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-09-22",
+    "authorityUrl": "https://www.nbmuseum.cn/art/2026/1/21/art_20384_8871.html",
+    "note": "宁波博物馆官方页面可核对器物，但未找到明确开放影像许可；不把馆方公开展示等同于可转载。"
+   }
+  }
+ },
+ "delivery": {
+  "nb-wgj": {
+   "src": "/artifacts-v2/ai-pending-20260923/nb-wgj.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/8bd32aa0b6d46fb8-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/8bd32aa0b6d46fb8-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/8bd32aa0b6d46fb8-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "nb-yrjd": {
+   "src": "/artifacts/nb-yrjd.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/dd4362868ef87e9d-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/dd4362868ef87e9d-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "nb-hyz": {
+   "src": "/artifacts/nb-hyz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ca7f741397530992-detail-w480.webp",
+      "width": 480,
+      "height": 720
+     },
+     {
+      "src": "/artifact-responsive/ca7f741397530992-detail-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "nb-htb": {
+   "src": "/artifacts-v2/ai-pending-20260923/nb-htb.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/eca1bdf3f5bae040-detail-w480.webp",
+      "width": 480,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/eca1bdf3f5bae040-detail-w800.webp",
+      "width": 800,
+      "height": 1000
+     },
+     {
+      "src": "/artifact-responsive/eca1bdf3f5bae040-detail-w1122.webp",
+      "width": 1122,
+      "height": 1402
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}
