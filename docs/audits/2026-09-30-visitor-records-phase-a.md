@@ -76,8 +76,10 @@
 | `e2e-home-refinement` | **通过**（页脚新增入口后的三视口几何复验 + 慢网络 + 图片失败降级） |
 | `e2e-stories`（185 篇 × 桌面/390） | **394/394 通过**（页脚改动未影响任何故事页） |
 | `e2e-image-scheduling`（弱网） | **7/7 通过** |
-| 线上 | 部署 `a6c01b57`；`/visitor-records/` 返回 200；线上访客页 E2E **10/10** |
+| 线上 | 部署 `a6c01b57`；`/visitor-records/` 返回 200；**线上访客页 E2E 10/10**（`docs/audits/visitor-records/production/visitor-records-results.json` 记录 `baseUrl=https://huaxia-museum-atlas.pages.dev/`） |
 | 预算 | 舆图首屏 325,312 / 326,000；访客包 25.7 KB；检索语料不变 |
+
+> 说明：第一次"线上"复验时我的运行脚本替换 URL 未生效，实际仍打到本地预览；发现后已用真实线上地址重跑，上面的线上结论以那一轮为准（证据文件里记录了 `baseUrl`）。
 
 ### 本轮修掉的两个真实问题
 
