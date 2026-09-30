@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Local verification scratch space (headless Edge profiles, esbuild temp,
+# captured CDP logs). These reach multiple GB and are fully regenerable.
+.tmp
+.cache
+.wrangler
+.e2e-*
+
+# Packaged release archives and toolchain binaries rebuilt/fetched on demand.
+release
+contest/tools/imageio_ffmpeg/binaries/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

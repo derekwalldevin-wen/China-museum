@@ -1,0 +1,7491 @@
+{
+ "gg-qmsh": {
+  "image": {
+   "src": "/artifact-sources/user-qingming/gg-qmsh-hongqiao-card.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c73cf96aa9955e61-card-w240.webp",
+      "width": 240,
+      "height": 184
+     },
+     {
+      "src": "/artifact-responsive/c73cf96aa9955e61-card-w400.webp",
+      "width": 400,
+      "height": 307
+     },
+     {
+      "src": "/artifact-responsive/c73cf96aa9955e61-card-w640.webp",
+      "width": 640,
+      "height": 491
+     },
+     {
+      "src": "/artifact-responsive/c73cf96aa9955e61-card-w960.webp",
+      "width": 960,
+      "height": 737
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifact-sources/user-qingming/gg-qmsh-reading.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/52420153f1afc0c9-card-w240.webp",
+       "width": 240,
+       "height": 12
+      },
+      {
+       "src": "/artifact-responsive/52420153f1afc0c9-card-w400.webp",
+       "width": 400,
+       "height": 19
+      },
+      {
+       "src": "/artifact-responsive/52420153f1afc0c9-card-w640.webp",
+       "width": 640,
+       "height": 31
+      },
+      {
+       "src": "/artifact-responsive/52420153f1afc0c9-card-w960.webp",
+       "width": 960,
+       "height": 46
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "gg-qljs": {
+  "image": {
+   "src": "/artifacts-v2/p1/gg-qljs.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ae63f6634ca3549a-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/ae63f6634ca3549a-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/ae63f6634ca3549a-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/gg-qljs.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/ffa4af8f0fc54526-card-w240.webp",
+       "width": 240,
+       "height": 10
+      },
+      {
+       "src": "/artifact-responsive/ffa4af8f0fc54526-card-w400.webp",
+       "width": 400,
+       "height": 16
+      },
+      {
+       "src": "/artifact-responsive/ffa4af8f0fc54526-card-w640.webp",
+       "width": 640,
+       "height": 26
+      },
+      {
+       "src": "/artifact-responsive/ffa4af8f0fc54526-card-w900.webp",
+       "width": 900,
+       "height": 36
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "gg-pft": {
+  "image": {
+   "src": "/artifacts-v2/p1/gg-pft.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0e52e33eb514adae-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/0e52e33eb514adae-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/0e52e33eb514adae-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/0e52e33eb514adae-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/gg-pft.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/540f6438d1234270-card-w240.webp",
+       "width": 240,
+       "height": 127
+      },
+      {
+       "src": "/artifact-responsive/540f6438d1234270-card-w400.webp",
+       "width": 400,
+       "height": 211
+      },
+      {
+       "src": "/artifact-responsive/540f6438d1234270-card-w640.webp",
+       "width": 640,
+       "height": 338
+      },
+      {
+       "src": "/artifact-responsive/540f6438d1234270-card-w900.webp",
+       "width": 900,
+       "height": 475
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "gg-jgyg": {
+  "image": {
+   "src": "/artifacts-v2/ai-pending-20260923/gg-jgyg.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/26e06e717e2c21f5-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/26e06e717e2c21f5-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/26e06e717e2c21f5-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/26e06e717e2c21f5-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "gg-gzdc": {
+  "image": {
+   "src": "/artifacts-v2/p1/gg-gzdc.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ceb7d27ef26bc7b5-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/ceb7d27ef26bc7b5-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/ceb7d27ef26bc7b5-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/ceb7d27ef26bc7b5-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/gg-gzdc.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/e1475fa788ed9c3e-card-w240.webp",
+       "width": 240,
+       "height": 362
+      },
+      {
+       "src": "/artifact-responsive/e1475fa788ed9c3e-card-w400.webp",
+       "width": 400,
+       "height": 603
+      },
+      {
+       "src": "/artifact-responsive/e1475fa788ed9c3e-card-w597.webp",
+       "width": 597,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hlj-tzl": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/hlj-tzl.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/3c8296fe03a8c0ca-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/3c8296fe03a8c0ca-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/3c8296fe03a8c0ca-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/3c8296fe03a8c0ca-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/hlj-tzl.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/60d97e5e0fc42bd0-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/60d97e5e0fc42bd0-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/60d97e5e0fc42bd0-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hn-jhg": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/hn-jhg.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/240a2a1b2ef2cff5-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/240a2a1b2ef2cff5-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/240a2a1b2ef2cff5-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/240a2a1b2ef2cff5-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/hn-jhg.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/703eebceddac5fc8-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/703eebceddac5fc8-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/703eebceddac5fc8-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hn-fhxz": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/hn-fhxz.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7a20658c60c9ccad-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/7a20658c60c9ccad-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/7a20658c60c9ccad-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7a20658c60c9ccad-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/hn-fhxz.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/886df4fd7158ca6d-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/886df4fd7158ca6d-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/886df4fd7158ca6d-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hn-lhfh": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/hn-lhfh.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/8d42601865bdbf07-card-w240.webp",
+      "width": 240,
+      "height": 400
+     },
+     {
+      "src": "/artifact-responsive/8d42601865bdbf07-card-w400.webp",
+      "width": 400,
+      "height": 667
+     },
+     {
+      "src": "/artifact-responsive/8d42601865bdbf07-card-w640.webp",
+      "width": 640,
+      "height": 1067
+     },
+     {
+      "src": "/artifact-responsive/8d42601865bdbf07-card-w960.webp",
+      "width": 960,
+      "height": 1601
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/hn-lhfh.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/c5619ad31955241e-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/c5619ad31955241e-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/c5619ad31955241e-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hn-wzt": {
+  "image": {
+   "src": "/artifacts-v2/p1/hn-wzt.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4bf1e3e30365c8da-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/4bf1e3e30365c8da-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/4bf1e3e30365c8da-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/4bf1e3e30365c8da-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/hn-wzt.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/eba69d74ff6cc887-card-w240.webp",
+       "width": 240,
+       "height": 388
+      },
+      {
+       "src": "/artifact-responsive/eba69d74ff6cc887-card-w400.webp",
+       "width": 400,
+       "height": 646
+      },
+      {
+       "src": "/artifact-responsive/eba69d74ff6cc887-card-w557.webp",
+       "width": 557,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "gb-hmwd": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/gb-hmwd.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/3c72328943602d37-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/3c72328943602d37-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/3c72328943602d37-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/3c72328943602d37-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/gb-hmwd.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/7f94efd9197da68d-card-w240.webp",
+       "width": 240,
+       "height": 313
+      },
+      {
+       "src": "/artifact-responsive/7f94efd9197da68d-card-w400.webp",
+       "width": 400,
+       "height": 521
+      },
+      {
+       "src": "/artifact-responsive/7f94efd9197da68d-card-w640.webp",
+       "width": 640,
+       "height": 834
+      },
+      {
+       "src": "/artifact-responsive/7f94efd9197da68d-card-w691.webp",
+       "width": 691,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "gb-syz": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/gb-syz.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b9bf85f1ef664d12-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/b9bf85f1ef664d12-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/b9bf85f1ef664d12-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/b9bf85f1ef664d12-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/gb-syz.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/244a3b01198de4ca-card-w240.webp",
+       "width": 240,
+       "height": 276
+      },
+      {
+       "src": "/artifact-responsive/244a3b01198de4ca-card-w400.webp",
+       "width": 400,
+       "height": 460
+      },
+      {
+       "src": "/artifact-responsive/244a3b01198de4ca-card-w640.webp",
+       "width": 640,
+       "height": 737
+      },
+      {
+       "src": "/artifact-responsive/244a3b01198de4ca-card-w695.webp",
+       "width": 695,
+       "height": 800
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "gb-jgs": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/gb-jgs.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b02e0d2c9e1df23c-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/b02e0d2c9e1df23c-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/b02e0d2c9e1df23c-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/b02e0d2c9e1df23c-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/gb-jgs.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/aea5d9d84b161d7b-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/aea5d9d84b161d7b-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/aea5d9d84b161d7b-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "gb-jlfw": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/gb-jlfw.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1ee9c0a81d56f69e-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/1ee9c0a81d56f69e-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/1ee9c0a81d56f69e-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1ee9c0a81d56f69e-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/gb-jlfw.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/35db0fa195dfd37b-card-w240.webp",
+       "width": 240,
+       "height": 180
+      },
+      {
+       "src": "/artifact-responsive/35db0fa195dfd37b-card-w400.webp",
+       "width": 400,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/35db0fa195dfd37b-card-w640.webp",
+       "width": 640,
+       "height": 480
+      },
+      {
+       "src": "/artifact-responsive/35db0fa195dfd37b-card-w900.webp",
+       "width": 900,
+       "height": 675
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hlj-gys": {
+  "image": {
+   "src": "/artifacts-v2/p1/hlj-gys.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7786922b643b8492-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/7786922b643b8492-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/7786922b643b8492-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7786922b643b8492-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/hlj-gys.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/cc163339e426f84c-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/cc163339e426f84c-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/cc163339e426f84c-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/cc163339e426f84c-card-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "jdz-qhmb": {
+  "image": {
+   "src": "/artifacts-v2/ai-pending-20260923/jdz-qhmb.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/764447dee61c5835-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/764447dee61c5835-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/764447dee61c5835-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/764447dee61c5835-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "jz-yzj": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/jz-yzj.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7b1403084e5f07f7-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/7b1403084e5f07f7-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/7b1403084e5f07f7-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7b1403084e5f07f7-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/jz-yzj.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/87ee793e569dc8e6-card-w240.webp",
+       "width": 240,
+       "height": 180
+      },
+      {
+       "src": "/artifact-responsive/87ee793e569dc8e6-card-w400.webp",
+       "width": 400,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/87ee793e569dc8e6-card-w640.webp",
+       "width": 640,
+       "height": 480
+      },
+      {
+       "src": "/artifact-responsive/87ee793e569dc8e6-card-w900.webp",
+       "width": 900,
+       "height": 675
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hun-tbh": {
+  "image": {
+   "src": "/artifacts-v2/p1/hun-tbh.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c4e1ac3f41baa9b6-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/c4e1ac3f41baa9b6-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/c4e1ac3f41baa9b6-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/c4e1ac3f41baa9b6-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/hun-tbh.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/3c5c3613eba84793-card-w240.webp",
+       "width": 240,
+       "height": 445
+      },
+      {
+       "src": "/artifact-responsive/3c5c3613eba84793-card-w400.webp",
+       "width": 400,
+       "height": 742
+      },
+      {
+       "src": "/artifact-responsive/3c5c3613eba84793-card-w485.webp",
+       "width": 485,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hun-ssd": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/hun-ssd.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7a8a85a9d1b519b7-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/7a8a85a9d1b519b7-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/7a8a85a9d1b519b7-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7a8a85a9d1b519b7-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/hun-ssd.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/47c7ca323c74e6dc-card-w240.webp",
+       "width": 240,
+       "height": 180
+      },
+      {
+       "src": "/artifact-responsive/47c7ca323c74e6dc-card-w400.webp",
+       "width": 400,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/47c7ca323c74e6dc-card-w640.webp",
+       "width": 640,
+       "height": 480
+      },
+      {
+       "src": "/artifact-responsive/47c7ca323c74e6dc-card-w900.webp",
+       "width": 900,
+       "height": 675
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "sxd-zym": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/sxd-zym.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7e1bd64f28f9bba3-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/7e1bd64f28f9bba3-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/7e1bd64f28f9bba3-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7e1bd64f28f9bba3-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/sxd-zym.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/92538c62246bc46b-card-w240.webp",
+       "width": 240,
+       "height": 177
+      },
+      {
+       "src": "/artifact-responsive/92538c62246bc46b-card-w400.webp",
+       "width": 400,
+       "height": 296
+      },
+      {
+       "src": "/artifact-responsive/92538c62246bc46b-card-w640.webp",
+       "width": 640,
+       "height": 473
+      },
+      {
+       "src": "/artifact-responsive/92538c62246bc46b-card-w900.webp",
+       "width": 900,
+       "height": 665
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "sxd-jz": {
+  "image": {
+   "src": "/artifacts-v2/p1/sxd-jz.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f27706cea19ba3db-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/f27706cea19ba3db-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/f27706cea19ba3db-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/f27706cea19ba3db-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/sxd-jz.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/cd3bad553b9fa0c5-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/cd3bad553b9fa0c5-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/cd3bad553b9fa0c5-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/cd3bad553b9fa0c5-card-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "js-tysn": {
+  "image": {
+   "src": "/artifacts-v2/p1/js-tysn.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/23ca91aa61df40fd-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/23ca91aa61df40fd-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/23ca91aa61df40fd-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/23ca91aa61df40fd-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/js-tysn.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/e077628eca200f67-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/e077628eca200f67-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/e077628eca200f67-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/e077628eca200f67-card-w900.webp",
+       "width": 900,
+       "height": 601
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "js-hjm": {
+  "image": {
+   "src": "/artifacts-v2/p1/js-hjm.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b4f1c27e50f4c171-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/b4f1c27e50f4c171-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/b4f1c27e50f4c171-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/b4f1c27e50f4c171-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/js-hjm.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/3ad64b8581f8948f-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/3ad64b8581f8948f-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/3ad64b8581f8948f-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/3ad64b8581f8948f-card-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "js-sjc": {
+  "image": {
+   "src": "/artifacts-v2/p1/js-sjc.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4fa7d023744db441-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/4fa7d023744db441-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/4fa7d023744db441-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/4fa7d023744db441-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/js-sjc.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/1815fa786a513c0f-card-w240.webp",
+       "width": 240,
+       "height": 576
+      },
+      {
+       "src": "/artifact-responsive/1815fa786a513c0f-card-w375.webp",
+       "width": 375,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "nm-jgs": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/nm-jgs.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0a2aee652d229265-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/0a2aee652d229265-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/0a2aee652d229265-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/0a2aee652d229265-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/nm-jgs.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/2ee0d235b33d2020-card-w240.webp",
+       "width": 240,
+       "height": 217
+      },
+      {
+       "src": "/artifact-responsive/2ee0d235b33d2020-card-w400.webp",
+       "width": 400,
+       "height": 361
+      },
+      {
+       "src": "/artifact-responsive/2ee0d235b33d2020-card-w640.webp",
+       "width": 640,
+       "height": 578
+      },
+      {
+       "src": "/artifact-responsive/2ee0d235b33d2020-card-w900.webp",
+       "width": 900,
+       "height": 813
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "zj-yzj": {
+  "image": {
+   "src": "/artifact-sources/verified/zj-yzj-card-cc0.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/8d4c83a516743a84-card-w240.webp",
+      "width": 240,
+      "height": 160
+     },
+     {
+      "src": "/artifact-responsive/8d4c83a516743a84-card-w400.webp",
+      "width": 400,
+      "height": 267
+     },
+     {
+      "src": "/artifact-responsive/8d4c83a516743a84-card-w640.webp",
+      "width": 640,
+      "height": 427
+     },
+     {
+      "src": "/artifact-responsive/8d4c83a516743a84-card-w900.webp",
+      "width": 900,
+      "height": 600
+     }
+    ]
+   },
+   "fit": "contain",
+   "fallback": {
+    "src": "/artifact-sources/verified/zj-yzj-detail-cc0.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/b5dd26e6a32c72d6-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/b5dd26e6a32c72d6-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/b5dd26e6a32c72d6-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/b5dd26e6a32c72d6-card-w960.webp",
+       "width": 960,
+       "height": 640
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "kf-khc": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/kf-khc.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/e07b33184ecbc4a2-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/e07b33184ecbc4a2-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/e07b33184ecbc4a2-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/e07b33184ecbc4a2-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/kf-khc.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/1549903999b60dec-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/1549903999b60dec-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/1549903999b60dec-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "cq-wyq": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/cq-wyq.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d4f2a1239977cc0f-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/d4f2a1239977cc0f-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/d4f2a1239977cc0f-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/d4f2a1239977cc0f-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/cq-wyq.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/2972f50bc7e2864f-card-w240.webp",
+       "width": 240,
+       "height": 359
+      },
+      {
+       "src": "/artifact-responsive/2972f50bc7e2864f-card-w400.webp",
+       "width": 400,
+       "height": 599
+      },
+      {
+       "src": "/artifact-responsive/2972f50bc7e2864f-card-w601.webp",
+       "width": 601,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "dz-qsg": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/dz-qsg.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0e2b15917360e1eb-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/0e2b15917360e1eb-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/0e2b15917360e1eb-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/0e2b15917360e1eb-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/dz-qsg.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/9f38a8aa2856fb93-card-w240.webp",
+       "width": 240,
+       "height": 180
+      },
+      {
+       "src": "/artifact-responsive/9f38a8aa2856fb93-card-w400.webp",
+       "width": 400,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/9f38a8aa2856fb93-card-w640.webp",
+       "width": 640,
+       "height": 480
+      },
+      {
+       "src": "/artifact-responsive/9f38a8aa2856fb93-card-w900.webp",
+       "width": 900,
+       "height": 675
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "tb-tbd": {
+  "image": {
+   "src": "/artifacts-v2/p1/tb-tbd.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d4c5be28625cabbe-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/d4c5be28625cabbe-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/d4c5be28625cabbe-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/d4c5be28625cabbe-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/tb-tbd.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/44cc8b1aea02df37-card-w240.webp",
+       "width": 240,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/44cc8b1aea02df37-card-w390.webp",
+       "width": 390,
+       "height": 520
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "tb-yhc": {
+  "image": {
+   "src": "/artifacts-v2/p1/tb-yhc.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/16f6ff0a78cc1a84-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/16f6ff0a78cc1a84-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/16f6ff0a78cc1a84-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/16f6ff0a78cc1a84-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/tb-yhc.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/17ecb9f683af343d-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/17ecb9f683af343d-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/17ecb9f683af343d-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/17ecb9f683af343d-card-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hb-cxd": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/hb-cxd.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c28b785f12947f18-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/c28b785f12947f18-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/c28b785f12947f18-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/c28b785f12947f18-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover"
+  },
+  "hold": false
+ },
+ "hb-jly": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/hb-jly.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/144d7c04a1624bd6-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/144d7c04a1624bd6-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/144d7c04a1624bd6-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/144d7c04a1624bd6-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/hb-jly.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/cab1b60deb2ccc9e-card-w240.webp",
+       "width": 240,
+       "height": 180
+      },
+      {
+       "src": "/artifact-responsive/cab1b60deb2ccc9e-card-w400.webp",
+       "width": 400,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/cab1b60deb2ccc9e-card-w640.webp",
+       "width": 640,
+       "height": 480
+      },
+      {
+       "src": "/artifact-responsive/cab1b60deb2ccc9e-card-w900.webp",
+       "width": 900,
+       "height": 675
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "nb-wgj": {
+  "image": {
+   "src": "/artifacts-v2/ai-pending-20260923/nb-wgj.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/8bd32aa0b6d46fb8-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/8bd32aa0b6d46fb8-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/8bd32aa0b6d46fb8-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/8bd32aa0b6d46fb8-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "sb-jd": {
+  "image": {
+   "src": "/artifacts-v2/p1/sb-jd.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6576b9593b20c3d9-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/6576b9593b20c3d9-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/6576b9593b20c3d9-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/6576b9593b20c3d9-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/sb-jd.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/4cd3ce8826d1f9ee-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/4cd3ce8826d1f9ee-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/4cd3ce8826d1f9ee-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/4cd3ce8826d1f9ee-card-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "sb-bjl": {
+  "image": {
+   "src": "/artifacts-v2/p1/sb-bjl.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0b04e465fc5ff255-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/0b04e465fc5ff255-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/0b04e465fc5ff255-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/0b04e465fc5ff255-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/sb-bjl.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/b0be5070b5426137-card-w240.webp",
+       "width": 240,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/b0be5070b5426137-card-w400.webp",
+       "width": 400,
+       "height": 534
+      },
+      {
+       "src": "/artifact-responsive/b0be5070b5426137-card-w565.webp",
+       "width": 565,
+       "height": 754
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "sz-bz": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/sz-bz.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/cf2eb6e12e0fc1f7-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/cf2eb6e12e0fc1f7-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/cf2eb6e12e0fc1f7-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/cf2eb6e12e0fc1f7-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/sz-bz.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/8ffa301c154d64cc-card-w240.webp",
+       "width": 240,
+       "height": 359
+      },
+      {
+       "src": "/artifact-responsive/8ffa301c154d64cc-card-w400.webp",
+       "width": 400,
+       "height": 599
+      },
+      {
+       "src": "/artifact-responsive/8ffa301c154d64cc-card-w601.webp",
+       "width": 601,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hub-zhy": {
+  "image": {
+   "src": "/artifacts-v2/p1/hub-zhy.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f55af4e78a03852b-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/f55af4e78a03852b-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/f55af4e78a03852b-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/f55af4e78a03852b-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/hub-zhy.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/28c774d5b358bc61-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/28c774d5b358bc61-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/28c774d5b358bc61-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/28c774d5b358bc61-card-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hub-ywj": {
+  "image": {
+   "src": "/artifacts-v2/p1/hub-ywj.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/accb01547c22de0d-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/accb01547c22de0d-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/accb01547c22de0d-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/accb01547c22de0d-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/hub-ywj.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/fab63a818b5cc987-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/fab63a818b5cc987-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/fab63a818b5cc987-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/fab63a818b5cc987-card-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "sxl-hzx": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/sxl-hzx.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6d37b8bd02b8dd9a-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/6d37b8bd02b8dd9a-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/6d37b8bd02b8dd9a-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/6d37b8bd02b8dd9a-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/sxl-hzx.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/7c94a12efca04528-card-w240.webp",
+       "width": 240,
+       "height": 196
+      },
+      {
+       "src": "/artifact-responsive/7c94a12efca04528-card-w400.webp",
+       "width": 400,
+       "height": 326
+      },
+      {
+       "src": "/artifact-responsive/7c94a12efca04528-card-w640.webp",
+       "width": 640,
+       "height": 522
+      },
+      {
+       "src": "/artifact-responsive/7c94a12efca04528-card-w900.webp",
+       "width": 900,
+       "height": 734
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "sxl-yjb": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/sxl-yjb.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b72faa75b0bbfbcb-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/b72faa75b0bbfbcb-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/b72faa75b0bbfbcb-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/b72faa75b0bbfbcb-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/sxl-yjb.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/d6413e208b9d5b65-card-w240.webp",
+       "width": 240,
+       "height": 180
+      },
+      {
+       "src": "/artifact-responsive/d6413e208b9d5b65-card-w400.webp",
+       "width": 400,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/d6413e208b9d5b65-card-w640.webp",
+       "width": 640,
+       "height": 480
+      },
+      {
+       "src": "/artifact-responsive/d6413e208b9d5b65-card-w900.webp",
+       "width": 900,
+       "height": 675
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "sb-qhbf": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/sb-qhbf.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/2e06a7b07f02e8b0-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/2e06a7b07f02e8b0-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/2e06a7b07f02e8b0-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/2e06a7b07f02e8b0-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/sb-qhbf.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/f474a1121a335308-card-w240.webp",
+       "width": 240,
+       "height": 180
+      },
+      {
+       "src": "/artifact-responsive/f474a1121a335308-card-w400.webp",
+       "width": 400,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/f474a1121a335308-card-w640.webp",
+       "width": 640,
+       "height": 480
+      },
+      {
+       "src": "/artifact-responsive/f474a1121a335308-card-w900.webp",
+       "width": 900,
+       "height": 675
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "tb-xjhl": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/tb-xjhl.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/039e1ee299025b59-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/039e1ee299025b59-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/039e1ee299025b59-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/039e1ee299025b59-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/tb-xjhl.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/dd753d6f794edc27-card-w240.webp",
+       "width": 240,
+       "height": 289
+      },
+      {
+       "src": "/artifact-responsive/dd753d6f794edc27-card-w400.webp",
+       "width": 400,
+       "height": 481
+      },
+      {
+       "src": "/artifact-responsive/dd753d6f794edc27-card-w640.webp",
+       "width": 640,
+       "height": 770
+      },
+      {
+       "src": "/artifact-responsive/dd753d6f794edc27-card-w748.webp",
+       "width": 748,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hb-sjfa": {
+  "image": {
+   "src": "/artifacts-v2/p1/hb-sjfa.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0ef9abbd089597d1-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/0ef9abbd089597d1-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/0ef9abbd089597d1-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/0ef9abbd089597d1-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/hb-sjfa.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/b2887bda03d00966-card-w240.webp",
+       "width": 240,
+       "height": 178
+      },
+      {
+       "src": "/artifact-responsive/b2887bda03d00966-card-w400.webp",
+       "width": 400,
+       "height": 296
+      },
+      {
+       "src": "/artifact-responsive/b2887bda03d00966-card-w640.webp",
+       "width": 640,
+       "height": 474
+      },
+      {
+       "src": "/artifact-responsive/b2887bda03d00966-card-w732.webp",
+       "width": 732,
+       "height": 542
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hlj-syj": {
+  "image": {
+   "src": "/artifacts-v2/ai-pending-20260923/hlj-syj.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7856595d79a8cb76-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/7856595d79a8cb76-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/7856595d79a8cb76-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7856595d79a8cb76-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "sh-dkd": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/sh-dkd.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0e7ce0bfc622238c-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/0e7ce0bfc622238c-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/0e7ce0bfc622238c-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/0e7ce0bfc622238c-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/sh-dkd.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/28967b4cfe43c684-card-w240.webp",
+       "width": 240,
+       "height": 215
+      },
+      {
+       "src": "/artifact-responsive/28967b4cfe43c684-card-w400.webp",
+       "width": 400,
+       "height": 358
+      },
+      {
+       "src": "/artifact-responsive/28967b4cfe43c684-card-w640.webp",
+       "width": 640,
+       "height": 572
+      },
+      {
+       "src": "/artifact-responsive/28967b4cfe43c684-card-w900.webp",
+       "width": 900,
+       "height": 805
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "sh-syt": {
+  "image": {
+   "src": "/artifacts-v2/p1/sh-syt.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/186f4d577210c0cd-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/186f4d577210c0cd-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/186f4d577210c0cd-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/186f4d577210c0cd-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/sh-syt.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/2f3f6f706c4921e8-card-w240.webp",
+       "width": 240,
+       "height": 105
+      },
+      {
+       "src": "/artifact-responsive/2f3f6f706c4921e8-card-w400.webp",
+       "width": 400,
+       "height": 174
+      },
+      {
+       "src": "/artifact-responsive/2f3f6f706c4921e8-card-w640.webp",
+       "width": 640,
+       "height": 279
+      },
+      {
+       "src": "/artifact-responsive/2f3f6f706c4921e8-card-w900.webp",
+       "width": 900,
+       "height": 392
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "sh-sqf": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/sh-sqf.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/522c6a6e3a07329f-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/522c6a6e3a07329f-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/522c6a6e3a07329f-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/522c6a6e3a07329f-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifact-sources/official/sh-sqf.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/4df068c5b71eec6c-card-w240.webp",
+       "width": 240,
+       "height": 143
+      },
+      {
+       "src": "/artifact-responsive/4df068c5b71eec6c-card-w400.webp",
+       "width": 400,
+       "height": 239
+      },
+      {
+       "src": "/artifact-responsive/4df068c5b71eec6c-card-w640.webp",
+       "width": 640,
+       "height": 382
+      },
+      {
+       "src": "/artifact-responsive/4df068c5b71eec6c-card-w960.webp",
+       "width": 960,
+       "height": 573
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "qzx-lxsf": {
+  "image": {
+   "src": "/artifacts-v2/p1/qzx-lxsf.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0fec47abb181081f-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/0fec47abb181081f-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/0fec47abb181081f-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/0fec47abb181081f-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/qzx-lxsf.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/2f196bc7ac03d8a2-card-w240.webp",
+       "width": 240,
+       "height": 513
+      },
+      {
+       "src": "/artifact-responsive/2f196bc7ac03d8a2-card-w400.webp",
+       "width": 400,
+       "height": 855
+      },
+      {
+       "src": "/artifact-responsive/2f196bc7ac03d8a2-card-w421.webp",
+       "width": 421,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "qzx-zyj": {
+  "image": {
+   "src": "/artifacts-v2/p1/qzx-zyj.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/cdeb8ebbb362e620-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/cdeb8ebbb362e620-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/cdeb8ebbb362e620-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/cdeb8ebbb362e620-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/qzx-zyj.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/64942b286039163d-card-w240.webp",
+       "width": 240,
+       "height": 135
+      },
+      {
+       "src": "/artifact-responsive/64942b286039163d-card-w400.webp",
+       "width": 400,
+       "height": 225
+      },
+      {
+       "src": "/artifact-responsive/64942b286039163d-card-w640.webp",
+       "width": 640,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/64942b286039163d-card-w900.webp",
+       "width": 900,
+       "height": 506
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "sxd-qs": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/sxd-qs.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/85df6d589c2c2a81-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/85df6d589c2c2a81-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/85df6d589c2c2a81-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/85df6d589c2c2a81-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/sxd-qs.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/1263e6991877c824-card-w240.webp",
+       "width": 240,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/1263e6991877c824-card-w400.webp",
+       "width": 400,
+       "height": 533
+      },
+      {
+       "src": "/artifact-responsive/1263e6991877c824-card-w640.webp",
+       "width": 640,
+       "height": 853
+      },
+      {
+       "src": "/artifact-responsive/1263e6991877c824-card-w675.webp",
+       "width": 675,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "sxd-dlr": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/sxd-dlr.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a9028e32137ff38f-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/a9028e32137ff38f-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/a9028e32137ff38f-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/a9028e32137ff38f-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/sxd-dlr.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/b5cf953fd8223413-card-w240.webp",
+       "width": 240,
+       "height": 359
+      },
+      {
+       "src": "/artifact-responsive/b5cf953fd8223413-card-w400.webp",
+       "width": 400,
+       "height": 599
+      },
+      {
+       "src": "/artifact-responsive/b5cf953fd8223413-card-w601.webp",
+       "width": 601,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "sxd-hjm": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/sxd-hjm.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/654fb0d29352b79f-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/654fb0d29352b79f-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/654fb0d29352b79f-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/654fb0d29352b79f-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/sxd-hjm.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/5171ac0be9c72dfd-card-w240.webp",
+       "width": 240,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/5171ac0be9c72dfd-card-w400.webp",
+       "width": 400,
+       "height": 533
+      },
+      {
+       "src": "/artifact-responsive/5171ac0be9c72dfd-card-w640.webp",
+       "width": 640,
+       "height": 853
+      },
+      {
+       "src": "/artifact-responsive/5171ac0be9c72dfd-card-w675.webp",
+       "width": 675,
+       "height": 900
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hk-hrz": {
+  "image": {
+   "src": "/artifacts-v2/p1/hk-hrz.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4a435023095be1a5-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/4a435023095be1a5-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/4a435023095be1a5-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/4a435023095be1a5-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/hk-hrz.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/6f07992e05f71800-card-w240.webp",
+       "width": 240,
+       "height": 141
+      },
+      {
+       "src": "/artifact-responsive/6f07992e05f71800-card-w400.webp",
+       "width": 400,
+       "height": 236
+      },
+      {
+       "src": "/artifact-responsive/6f07992e05f71800-card-w640.webp",
+       "width": 640,
+       "height": 377
+      },
+      {
+       "src": "/artifact-responsive/6f07992e05f71800-card-w900.webp",
+       "width": 900,
+       "height": 530
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hk-jgb": {
+  "image": {
+   "src": "/artifacts-v2/p1/hk-jgb.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/bb755728e761d203-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/bb755728e761d203-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/bb755728e761d203-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/bb755728e761d203-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifact-sources/official/hk-jgb.png",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/2a68ca8c7c54fbc3-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/2a68ca8c7c54fbc3-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/2a68ca8c7c54fbc3-card-w600.webp",
+       "width": 600,
+       "height": 600
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "mo-klk": {
+  "image": {
+   "src": "/artifacts-v2/ai-pending-20260923/mo-klk.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/01eb58e27be58645-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/01eb58e27be58645-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/01eb58e27be58645-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/01eb58e27be58645-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "yn-jcn": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/yn-jcn.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1bb06d7328a83587-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/1bb06d7328a83587-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/1bb06d7328a83587-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1bb06d7328a83587-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/yn-jcn.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/f33499df6ce35604-card-w240.webp",
+       "width": 240,
+       "height": 180
+      },
+      {
+       "src": "/artifact-responsive/f33499df6ce35604-card-w400.webp",
+       "width": 400,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/f33499df6ce35604-card-w640.webp",
+       "width": 640,
+       "height": 480
+      },
+      {
+       "src": "/artifact-responsive/f33499df6ce35604-card-w900.webp",
+       "width": 900,
+       "height": 675
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "sxl-lt": {
+  "image": {
+   "src": "/artifacts-v2/ai-pending-20260923/sxl-lt.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/215cb93a1d11a63d-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/215cb93a1d11a63d-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/215cb93a1d11a63d-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/215cb93a1d11a63d-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "yx-jg": {
+  "image": {
+   "src": "/artifacts-v2/p1/yx-jg.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/706d51f2973313b9-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/706d51f2973313b9-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/706d51f2973313b9-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/706d51f2973313b9-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/yx-jg.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/be9b08656114d15d-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/be9b08656114d15d-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/be9b08656114d15d-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/be9b08656114d15d-card-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "zj-fcst": {
+  "image": {
+   "src": "/artifacts-v2/p2-source/zj-fcst.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9b98e3f52a23b02d-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/9b98e3f52a23b02d-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/9b98e3f52a23b02d-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/9b98e3f52a23b02d-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/zj-fcst.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/febf065b464e30c7-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/febf065b464e30c7-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/febf065b464e30c7-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/febf065b464e30c7-card-w900.webp",
+       "width": 900,
+       "height": 601
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "lb-yzl": {
+  "image": {
+   "src": "/artifacts-v2/p1/lb-yzl.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/cd8680bb5c22f3a5-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/cd8680bb5c22f3a5-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/cd8680bb5c22f3a5-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/cd8680bb5c22f3a5-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifacts/lb-yzl.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/5072d2a020f0b978-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/5072d2a020f0b978-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/5072d2a020f0b978-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/5072d2a020f0b978-card-w900.webp",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "gb-hsyl": {
+  "image": {
+   "src": "/artifacts/gb-hsyl.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4c90a46a33e0fe5e-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/4c90a46a33e0fe5e-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/4c90a46a33e0fe5e-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "dz-jp": {
+  "image": {
+   "src": "/artifacts/dz-jp.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/23986f1a202705cd-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/23986f1a202705cd-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/23986f1a202705cd-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "dz-yzp": {
+  "image": {
+   "src": "/artifacts/dz-yzp.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4e2eb2b345a834c3-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/4e2eb2b345a834c3-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/4e2eb2b345a834c3-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "dz-lgd": {
+  "image": {
+   "src": "/artifacts/dz-lgd.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/eb323d2eb27203f3-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/eb323d2eb27203f3-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/eb323d2eb27203f3-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sx-nz": {
+  "image": {
+   "src": "/artifacts/sx-nz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0e4a973ea2e2a6eb-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/0e4a973ea2e2a6eb-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/0e4a973ea2e2a6eb-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sx-hmms": {
+  "image": {
+   "src": "/artifacts/sx-hmms.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/fe5d9d1942a5f71d-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/fe5d9d1942a5f71d-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/fe5d9d1942a5f71d-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sx-qh": {
+  "image": {
+   "src": "/artifacts/sx-qh.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9c046235f652a3a5-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/9c046235f652a3a5-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/9c046235f652a3a5-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "dt-lbl": {
+  "image": {
+   "src": "/artifacts/dt-lbl.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1be1479917d64c38-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/1be1479917d64c38-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/1be1479917d64c38-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "dt-ytz": {
+  "image": {
+   "src": "/artifacts/dt-ytz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c0da4e3b7f2215c2-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/c0da4e3b7f2215c2-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/c0da4e3b7f2215c2-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "nm-jyx": {
+  "image": {
+   "src": "/artifacts/nm-jyx.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4d309a7c8eba9cdd-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/4d309a7c8eba9cdd-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/4d309a7c8eba9cdd-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "nm-lsy": {
+  "image": {
+   "src": "/artifacts/nm-lsy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0560c44c44f2e8d2-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/0560c44c44f2e8d2-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/0560c44c44f2e8d2-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "lb-zfsg": {
+  "image": {
+   "src": "/artifacts/lb-zfsg.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/32cfa0ba533d0a9c-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/32cfa0ba533d0a9c-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/32cfa0ba533d0a9c-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "lb-gf": {
+  "image": {
+   "src": "/artifacts/lb-gf.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/44d109c453c5564b-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/44d109c453c5564b-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/44d109c453c5564b-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sy-ljy": {
+  "image": {
+   "src": "/artifacts/sy-ljy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/22b19742f1f8f2ce-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/22b19742f1f8f2ce-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/22b19742f1f8f2ce-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sy-yyd": {
+  "image": {
+   "src": "/artifacts/sy-yyd.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/e36cb99c1369c0f7-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/e36cb99c1369c0f7-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/e36cb99c1369c0f7-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sy-wyc": {
+  "image": {
+   "src": "/artifacts/sy-wyc.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f6b10e126f69602b-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/f6b10e126f69602b-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/f6b10e126f69602b-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "jl-efj": {
+  "image": {
+   "src": "/artifacts/jl-efj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/bfb444c0b52fa419-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/bfb444c0b52fa419-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/bfb444c0b52fa419-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "jl-wjg": {
+  "image": {
+   "src": "/artifacts/jl-wjg.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/db2d630276a95a5d-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/db2d630276a95a5d-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/db2d630276a95a5d-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "jl-ljm": {
+  "image": {
+   "src": "/artifacts/jl-ljm.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/37fda895a9d3aa5e-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/37fda895a9d3aa5e-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/37fda895a9d3aa5e-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "nj-js": {
+  "image": {
+   "src": "/artifacts/nj-js.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/30e12be01437bd90-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/30e12be01437bd90-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/30e12be01437bd90-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "nj-mb": {
+  "image": {
+   "src": "/artifacts/nj-mb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4a51a817fb109f0c-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/4a51a817fb109f0c-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/4a51a817fb109f0c-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "nj-zlqx": {
+  "image": {
+   "src": "/artifacts/nj-zlqx.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b1aa81e965824410-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/b1aa81e965824410-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/b1aa81e965824410-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "nj-frs": {
+  "image": {
+   "src": "/artifacts/nj-frs.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d097af6b7421ae01-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/d097af6b7421ae01-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/d097af6b7421ae01-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sz-lhw": {
+  "image": {
+   "src": "/artifacts/sz-lhw.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ddc4a1d2764ee431-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/ddc4a1d2764ee431-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/ddc4a1d2764ee431-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sz-jx": {
+  "image": {
+   "src": "/artifacts/sz-jx.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b0299614f8b55349-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/b0299614f8b55349-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/b0299614f8b55349-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "yz-mb": {
+  "image": {
+   "src": "/artifacts/yz-mb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/96f672cbb78d2eb0-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/96f672cbb78d2eb0-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/96f672cbb78d2eb0-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "yz-tj": {
+  "image": {
+   "src": "/artifacts/yz-tj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/14a82a2c3c9cb838-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/14a82a2c3c9cb838-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/14a82a2c3c9cb838-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "yz-zbq": {
+  "image": {
+   "src": "/artifacts/yz-zbq.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b095bc03d0e94185-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/b095bc03d0e94185-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/b095bc03d0e94185-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "zj-sncy": {
+  "image": {
+   "src": "/artifacts/zj-sncy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/92f6120f1eb58609-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/92f6120f1eb58609-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/92f6120f1eb58609-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "zj-aywt": {
+  "image": {
+   "src": "/artifacts/zj-aywt.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c6bf7f901c55d455-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/c6bf7f901c55d455-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/c6bf7f901c55d455-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "nb-yrjd": {
+  "image": {
+   "src": "/artifacts/nb-yrjd.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/dd4362868ef87e9d-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/dd4362868ef87e9d-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/dd4362868ef87e9d-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "nb-hyz": {
+  "image": {
+   "src": "/artifacts/nb-hyz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ca7f741397530992-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/ca7f741397530992-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/ca7f741397530992-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "ah-czd": {
+  "image": {
+   "src": "/artifacts/ah-czd.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4c074e5a535a508f-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/4c074e5a535a508f-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/4c074e5a535a508f-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "ah-wgj": {
+  "image": {
+   "src": "/artifacts/ah-wgj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7bb49116228e09df-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/7bb49116228e09df-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/7bb49116228e09df-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "ah-yqz": {
+  "image": {
+   "src": "/artifacts/ah-yqz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/8cb1f7e9a8c84b41-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/8cb1f7e9a8c84b41-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/8cb1f7e9a8c84b41-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "fj-kql": {
+  "image": {
+   "src": "/artifacts/fj-kql.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/2ed735895bf9439a-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/2ed735895bf9439a-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/2ed735895bf9439a-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "fj-jyz": {
+  "image": {
+   "src": "/artifacts/fj-jyz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/dafcf4e66dac7106-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/dafcf4e66dac7106-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/dafcf4e66dac7106-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "fj-dhgy": {
+  "image": {
+   "src": "/artifacts/fj-dhgy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a1c21a0789ffb95a-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/a1c21a0789ffb95a-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/a1c21a0789ffb95a-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "qz-hzc": {
+  "image": {
+   "src": "/artifacts/qz-hzc.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/58a63dbbbe138d47-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/58a63dbbbe138d47-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/58a63dbbbe138d47-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "qz-mbs": {
+  "image": {
+   "src": "/artifacts/qz-mbs.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/20638d793a95e810-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/20638d793a95e810-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/20638d793a95e810-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "qz-jc": {
+  "image": {
+   "src": "/artifacts/qz-jc.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ebe80e599a6173d7-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/ebe80e599a6173d7-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/ebe80e599a6173d7-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "jx-qth": {
+  "image": {
+   "src": "/artifacts/jx-qth.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c6eae3e96010ad53-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/c6eae3e96010ad53-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/c6eae3e96010ad53-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "jx-smsr": {
+  "image": {
+   "src": "/artifacts/jx-smsr.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0d1782a82fbe20b2-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/0d1782a82fbe20b2-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/0d1782a82fbe20b2-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "jx-glc": {
+  "image": {
+   "src": "/artifacts/jx-glc.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/242f87bc15798979-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/242f87bc15798979-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/242f87bc15798979-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "jdz-blz": {
+  "image": {
+   "src": "/artifacts/jdz-blz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ba2ec62052924b1f-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/ba2ec62052924b1f-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/ba2ec62052924b1f-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "jdz-cslh": {
+  "image": {
+   "src": "/artifacts/jdz-cslh.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/700c40aaa81e597f-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/700c40aaa81e597f-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/700c40aaa81e597f-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sd-acy": {
+  "image": {
+   "src": "/artifacts/sd-acy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6f524d7b44602ad2-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/6f524d7b44602ad2-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/6f524d7b44602ad2-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sd-lgdy": {
+  "image": {
+   "src": "/artifacts/sd-lgdy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/5cafe8e510461838-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/5cafe8e510461838-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/5cafe8e510461838-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sd-hts": {
+  "image": {
+   "src": "/artifacts/sd-hts.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f63827a7a81524aa-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/f63827a7a81524aa-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/f63827a7a81524aa-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sd-szb": {
+  "image": {
+   "src": "/artifacts/sd-szb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/70d1cd74f14c1c28-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/70d1cd74f14c1c28-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/70d1cd74f14c1c28-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "kz-sg": {
+  "image": {
+   "src": "/artifacts/kz-sg.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/720def2de9b04064-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/720def2de9b04064-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/720def2de9b04064-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "kz-myc": {
+  "image": {
+   "src": "/artifacts/kz-myc.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/58c7052a03d345eb-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/58c7052a03d345eb-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/58c7052a03d345eb-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "kz-kzsj": {
+  "image": {
+   "src": "/artifacts/kz-kzsj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1f127266fc781fd7-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/1f127266fc781fd7-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/1f127266fc781fd7-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "qzx-yzb": {
+  "image": {
+   "src": "/artifacts/qzx-yzb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/56839775daca3540-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/56839775daca3540-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/56839775daca3540-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "ly-byb": {
+  "image": {
+   "src": "/artifacts/ly-byb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9082377bc76e6924-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/9082377bc76e6924-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/9082377bc76e6924-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "ly-hym": {
+  "image": {
+   "src": "/artifacts/ly-hym.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/11e085b8566fca83-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/11e085b8566fca83-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/11e085b8566fca83-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "ly-sbx": {
+  "image": {
+   "src": "/artifacts/ly-sbx.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/521160f071cac2e6-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/521160f071cac2e6-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/521160f071cac2e6-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "kf-tmj": {
+  "image": {
+   "src": "/artifacts/kf-tmj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/07c62ba0e0a7f2d9-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/07c62ba0e0a7f2d9-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/07c62ba0e0a7f2d9-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "kf-dsb": {
+  "image": {
+   "src": "/artifacts/kf-dsb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/24417de50ea342fa-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/24417de50ea342fa-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/24417de50ea342fa-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "yx-sxd": {
+  "image": {
+   "src": "/artifacts/yx-sxd.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/94e672c3e664a933-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/94e672c3e664a933-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/94e672c3e664a933-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "yx-yz": {
+  "image": {
+   "src": "/artifacts/yx-yz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/73e6e01560c4f8c7-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/73e6e01560c4f8c7-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/73e6e01560c4f8c7-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "hub-zp": {
+  "image": {
+   "src": "/artifacts/hub-zp.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/922aadeb6c973a8b-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/922aadeb6c973a8b-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/922aadeb6c973a8b-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "hub-qj": {
+  "image": {
+   "src": "/artifacts/hub-qj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c848840a0f371247-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/c848840a0f371247-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/c848840a0f371247-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "hub-sat": {
+  "image": {
+   "src": "/artifacts/hub-sat.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/29af14d884798325-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/29af14d884798325-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/29af14d884798325-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "jz-hnjg": {
+  "image": {
+   "src": "/artifacts/jz-hnjg.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/af0f9ce72028d781-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/af0f9ce72028d781-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/af0f9ce72028d781-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "jz-lfh": {
+  "image": {
+   "src": "/artifacts/jz-lfh.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0a648131e019797c-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/0a648131e019797c-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/0a648131e019797c-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "hun-dhd": {
+  "image": {
+   "src": "/artifacts/hun-dhd.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/fa6bbc72b9c53799-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/fa6bbc72b9c53799-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/fa6bbc72b9c53799-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "hun-mfl": {
+  "image": {
+   "src": "/artifacts/hun-mfl.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/447434b69429acb3-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/447434b69429acb3-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/447434b69429acb3-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "cs-zml": {
+  "image": {
+   "src": "/artifacts/cs-zml.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4c68915030760062-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/4c68915030760062-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/4c68915030760062-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "cs-dhj": {
+  "image": {
+   "src": "/artifacts/cs-dhj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/e351839b43bd2ba8-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/e351839b43bd2ba8-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/e351839b43bd2ba8-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "gd-qjy": {
+  "image": {
+   "src": "/artifacts/gd-qjy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/35acf5a848d8d710-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/35acf5a848d8d710-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/35acf5a848d8d710-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "gd-dsk": {
+  "image": {
+   "src": "/artifacts/gd-dsk.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a68793a9d0c48aea-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/a68793a9d0c48aea-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/a68793a9d0c48aea-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "gd-mlt": {
+  "image": {
+   "src": "/artifacts/gd-mlt.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c10cbf3a47e1f70b-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/c10cbf3a47e1f70b-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/c10cbf3a47e1f70b-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "ny-sly": {
+  "image": {
+   "src": "/artifacts/ny-sly.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6be6dac3221ce8fe-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/6be6dac3221ce8fe-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/6be6dac3221ce8fe-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "ny-wdx": {
+  "image": {
+   "src": "/artifacts/ny-wdx.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a11dd7ec72f0af4b-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/a11dd7ec72f0af4b-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/a11dd7ec72f0af4b-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "ny-jyb": {
+  "image": {
+   "src": "/artifacts/ny-jyb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/66fac003eb6be8d4-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/66fac003eb6be8d4-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/66fac003eb6be8d4-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "gx-xlt": {
+  "image": {
+   "src": "/artifacts/gx-xlt.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ecc2a1ec17ab893e-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/ecc2a1ec17ab893e-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/ecc2a1ec17ab893e-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "gx-yfd": {
+  "image": {
+   "src": "/artifacts/gx-yfd.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/253a7ee40c08dbf9-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/253a7ee40c08dbf9-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/253a7ee40c08dbf9-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "gx-qht": {
+  "image": {
+   "src": "/artifacts/gx-qht.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ffe115fa0e6c3861-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/ffe115fa0e6c3861-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/ffe115fa0e6c3861-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "hain-hgj": {
+  "image": {
+   "src": "/artifacts/hain-hgj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/cb9f02b8b0042552-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/cb9f02b8b0042552-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/cb9f02b8b0042552-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "hain-lj": {
+  "image": {
+   "src": "/artifacts/hain-lj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/2b3aa901a69d4faf-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/2b3aa901a69d4faf-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/2b3aa901a69d4faf-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "hain-hhl": {
+  "image": {
+   "src": "/artifacts/hain-hhl.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/bdfcacf20dbf5bb8-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/bdfcacf20dbf5bb8-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/bdfcacf20dbf5bb8-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "cq-nxz": {
+  "image": {
+   "src": "/artifacts/cq-nxz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/bcd96387590dcfe8-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/bcd96387590dcfe8-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/bcd96387590dcfe8-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "cq-hty": {
+  "image": {
+   "src": "/artifacts/cq-hty.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/2279bb79b0129a15-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/2279bb79b0129a15-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/2279bb79b0129a15-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "dz-zlj": {
+  "image": {
+   "src": "/artifacts/dz-zlj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7f336c55b68d1bb9-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/7f336c55b68d1bb9-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/7f336c55b68d1bb9-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "dz-mnt": {
+  "image": {
+   "src": "/artifacts/dz-mnt.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/dfa75d4d7263b114-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/dfa75d4d7263b114-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/dfa75d4d7263b114-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sc-xsel": {
+  "image": {
+   "src": "/artifacts/sc-xsel.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d0f260c8461196df-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/d0f260c8461196df-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/d0f260c8461196df-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sc-ssj": {
+  "image": {
+   "src": "/artifacts/sc-ssj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/195340dca2a49935-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/195340dca2a49935-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/195340dca2a49935-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sc-hxz": {
+  "image": {
+   "src": "/artifacts/sc-hxz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9c45359b6da6ae19-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/9c45359b6da6ae19-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/9c45359b6da6ae19-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "gz-tcm": {
+  "image": {
+   "src": "/artifacts/gz-tcm.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/441ee7cc1b182e0f-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/441ee7cc1b182e0f-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/441ee7cc1b182e0f-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "gz-myg": {
+  "image": {
+   "src": "/artifacts/gz-myg.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/874ae217193bc68e-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/874ae217193bc68e-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/874ae217193bc68e-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "gz-yjg": {
+  "image": {
+   "src": "/artifacts/gz-yjg.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a02f38083edc84d7-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/a02f38083edc84d7-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/a02f38083edc84d7-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "yn-nha": {
+  "image": {
+   "src": "/artifacts/yn-nha.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/caa3d2e6add09871-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/caa3d2e6add09871-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/caa3d2e6add09871-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "yn-dwy": {
+  "image": {
+   "src": "/artifacts/yn-dwy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/dbc804e0b7f9f39b-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/dbc804e0b7f9f39b-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/dbc804e0b7f9f39b-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "xz-stg": {
+  "image": {
+   "src": "/artifacts/xz-stg.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/34d15e51e3537438-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/34d15e51e3537438-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/34d15e51e3537438-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "xz-ljf": {
+  "image": {
+   "src": "/artifacts/xz-ljf.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/69bcd549d6af8af8-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/69bcd549d6af8af8-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/69bcd549d6af8af8-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "xz-byj": {
+  "image": {
+   "src": "/artifacts/xz-byj.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/fbc64c1b2363c922-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/fbc64c1b2363c922-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/fbc64c1b2363c922-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sxl-xmb": {
+  "image": {
+   "src": "/artifacts/sxl-xmb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/31aaf7e9cd00ce45-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/31aaf7e9cd00ce45-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/31aaf7e9cd00ce45-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "sxl-wmh": {
+  "image": {
+   "src": "/artifacts/sxl-wmh.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/621bb63d5bf566f8-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/621bb63d5bf566f8-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/621bb63d5bf566f8-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "qs-by": {
+  "image": {
+   "src": "/artifacts/qs-by.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/14a7041dd38a4679-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/14a7041dd38a4679-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/14a7041dd38a4679-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "qs-tcm": {
+  "image": {
+   "src": "/artifacts/qs-tcm.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6d84908075847472-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/6d84908075847472-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/6d84908075847472-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "qs-gyz": {
+  "image": {
+   "src": "/artifacts/qs-gyz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/69d7d8d113c613a4-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/69d7d8d113c613a4-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/69d7d8d113c613a4-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "xa-scm": {
+  "image": {
+   "src": "/artifacts/xa-scm.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ea364afc4dfa7371-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/ea364afc4dfa7371-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/ea364afc4dfa7371-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "xa-dqz": {
+  "image": {
+   "src": "/artifacts/xa-dqz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0e38588f3ef7a256-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/0e38588f3ef7a256-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/0e38588f3ef7a256-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "xa-snt": {
+  "image": {
+   "src": "/artifacts/xa-snt.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b160e1ff3c4bb578-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/b160e1ff3c4bb578-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/b160e1ff3c4bb578-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "bj-hz": {
+  "image": {
+   "src": "/artifacts/bj-hz.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9fa823587521f5d1-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/9fa823587521f5d1-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/9fa823587521f5d1-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "bj-lp": {
+  "image": {
+   "src": "/artifacts/bj-lp.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ed0a08b6370cfe98-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/ed0a08b6370cfe98-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/ed0a08b6370cfe98-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "bj-hg": {
+  "image": {
+   "src": "/artifacts/bj-hg.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f4dad75c5f656cd2-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/f4dad75c5f656cd2-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/f4dad75c5f656cd2-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "gs-tbm": {
+  "image": {
+   "src": "/artifacts/gs-tbm.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c9369e0b58b3d957-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/c9369e0b58b3d957-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/c9369e0b58b3d957-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "gs-rts": {
+  "image": {
+   "src": "/artifacts/gs-rts.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/8f3f2581a85a3145-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/8f3f2581a85a3145-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/8f3f2581a85a3145-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "gs-yxt": {
+  "image": {
+   "src": "/artifacts/gs-yxt.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/744c6ba7aa9e4916-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/744c6ba7aa9e4916-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/744c6ba7aa9e4916-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "dh-jsl": {
+  "image": {
+   "src": "/artifacts/dh-jsl.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f257091d929fb0a7-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/f257091d929fb0a7-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/f257091d929fb0a7-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "dh-swk": {
+  "image": {
+   "src": "/artifacts/dh-swk.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/e18f030c24f0d06f-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/e18f030c24f0d06f-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/e18f030c24f0d06f-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "dh-ft": {
+  "image": {
+   "src": "/artifacts/dh-ft.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f729b918163c6ef5-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/f729b918163c6ef5-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/f729b918163c6ef5-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "qh-wdw": {
+  "image": {
+   "src": "/artifacts/qh-wdw.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6c36fa867e221812-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/6c36fa867e221812-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/6c36fa867e221812-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "qh-gyq": {
+  "image": {
+   "src": "/artifacts/qh-gyq.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4ddd406e970a49c9-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/4ddd406e970a49c9-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/4ddd406e970a49c9-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "qh-tk": {
+  "image": {
+   "src": "/artifacts/qh-tk.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9b9b2f1207d546e7-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/9b9b2f1207d546e7-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/9b9b2f1207d546e7-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "nx-ljt": {
+  "image": {
+   "src": "/artifacts/nx-ljt.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6d261e5d141925f1-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/6d261e5d141925f1-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/6d261e5d141925f1-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "nx-jxb": {
+  "image": {
+   "src": "/artifacts/nx-jxb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/79726a2bdb61b6ec-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/79726a2bdb61b6ec-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/79726a2bdb61b6ec-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "nx-hxw": {
+  "image": {
+   "src": "/artifacts/nx-hxw.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ef8c33f1391b692a-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/ef8c33f1391b692a-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/ef8c33f1391b692a-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "xj-wxc": {
+  "image": {
+   "src": "/artifacts/xj-wxc.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a52ebaa3175895eb-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/a52ebaa3175895eb-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/a52ebaa3175895eb-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "xj-fxnv": {
+  "image": {
+   "src": "/artifacts/xj-fxnv.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/8910c6b5525d49ba-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/8910c6b5525d49ba-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/8910c6b5525d49ba-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "xj-thy": {
+  "image": {
+   "src": "/artifacts/xj-thy.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9a5aaf00915a0975-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/9a5aaf00915a0975-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/9a5aaf00915a0975-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "hk-lsf": {
+  "image": {
+   "src": "/artifacts/hk-lsf.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/28010bf973fce461-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/28010bf973fce461-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/28010bf973fce461-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "mo-wxh": {
+  "image": {
+   "src": "/artifacts/mo-wxh.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/217a50428ad8e01c-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/217a50428ad8e01c-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/217a50428ad8e01c-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "tp-cyb": {
+  "image": {
+   "src": "/artifacts/tp-cyb.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/60744c3877bb36ce-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/60744c3877bb36ce-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/60744c3877bb36ce-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "tp-rxs": {
+  "image": {
+   "src": "/artifacts/tp-rxs.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c2ec47614b1ef1b6-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/c2ec47614b1ef1b6-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/c2ec47614b1ef1b6-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "tp-mgd": {
+  "image": {
+   "src": "/artifacts/tp-mgd.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/12e1cb076c3b17a9-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/12e1cb076c3b17a9-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/12e1cb076c3b17a9-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "tp-rsp": {
+  "image": {
+   "src": "/artifacts/tp-rsp.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/faab4cf5e132b0b1-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/faab4cf5e132b0b1-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/faab4cf5e132b0b1-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "tp-kxs": {
+  "image": {
+   "src": "/artifacts/tp-kxs.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/54c00829e2c7ea7f-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/54c00829e2c7ea7f-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/54c00829e2c7ea7f-card-w600.webp",
+      "width": 600,
+      "height": 900
+     }
+    ]
+   }
+  },
+  "hold": false
+ },
+ "gg-jgb": {
+  "image": {
+   "src": "/artifacts-v2/ai-pending-20260923/gg-jgb.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9adefabf9e1f3e15-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/9adefabf9e1f3e15-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/9adefabf9e1f3e15-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/9adefabf9e1f3e15-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "gg-ryzl": {
+  "image": {
+   "src": "/artifacts-v2/ai-pending-20260923/gg-ryzl.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4a5ae37198349e34-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/4a5ae37198349e34-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/4a5ae37198349e34-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/4a5ae37198349e34-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "gb-gyts": {
+  "image": {
+   "src": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c80d648cbfb383b6-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/c80d648cbfb383b6-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/c80d648cbfb383b6-card-w640.webp",
+      "width": 640,
+      "height": 960
+     },
+     {
+      "src": "/artifact-responsive/c80d648cbfb383b6-card-w960.webp",
+      "width": 960,
+      "height": 1439
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "gb-yygd": {
+  "image": {
+   "src": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9a484451c5af79f3-card-w240.webp",
+      "width": 240,
+      "height": 360
+     },
+     {
+      "src": "/artifact-responsive/9a484451c5af79f3-card-w400.webp",
+      "width": 400,
+      "height": 600
+     },
+     {
+      "src": "/artifact-responsive/9a484451c5af79f3-card-w640.webp",
+      "width": 640,
+      "height": 960
+     },
+     {
+      "src": "/artifact-responsive/9a484451c5af79f3-card-w960.webp",
+      "width": 960,
+      "height": 1440
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "gb-cxct": {
+  "image": {
+   "src": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f46eb99baa35b46d-card-w240.webp",
+      "width": 240,
+      "height": 191
+     },
+     {
+      "src": "/artifact-responsive/f46eb99baa35b46d-card-w400.webp",
+      "width": 400,
+      "height": 318
+     },
+     {
+      "src": "/artifact-responsive/f46eb99baa35b46d-card-w640.webp",
+      "width": 640,
+      "height": 510
+     },
+     {
+      "src": "/artifact-responsive/f46eb99baa35b46d-card-w960.webp",
+      "width": 960,
+      "height": 764
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "sh-zzjp": {
+  "image": {
+   "src": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9b3128adc2434a80-card-w240.webp",
+      "width": 240,
+      "height": 171
+     },
+     {
+      "src": "/artifact-responsive/9b3128adc2434a80-card-w400.webp",
+      "width": 400,
+      "height": 286
+     },
+     {
+      "src": "/artifact-responsive/9b3128adc2434a80-card-w640.webp",
+      "width": 640,
+      "height": 457
+     },
+     {
+      "src": "/artifact-responsive/9b3128adc2434a80-card-w960.webp",
+      "width": 960,
+      "height": 686
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "sh-ltry": {
+  "image": {
+   "src": "/artifacts-v2/ai-pending-20260923/sh-ltry.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/86d1acefa28056bb-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/86d1acefa28056bb-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/86d1acefa28056bb-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/86d1acefa28056bb-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "nb-htb": {
+  "image": {
+   "src": "/artifacts-v2/ai-pending-20260923/nb-htb.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/eca1bdf3f5bae040-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/eca1bdf3f5bae040-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/eca1bdf3f5bae040-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/eca1bdf3f5bae040-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "hn-ywtj": {
+  "image": {
+   "src": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/e62ffe8b26b28355-card-w240.webp",
+      "width": 240,
+      "height": 160
+     },
+     {
+      "src": "/artifact-responsive/e62ffe8b26b28355-card-w400.webp",
+      "width": 400,
+      "height": 267
+     },
+     {
+      "src": "/artifact-responsive/e62ffe8b26b28355-card-w640.webp",
+      "width": 640,
+      "height": 427
+     },
+     {
+      "src": "/artifact-responsive/e62ffe8b26b28355-card-w960.webp",
+      "width": 960,
+      "height": 640
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "sxl-ptxn": {
+  "image": {
+   "src": "/artifacts-v2/ai-pending-20260923/sxl-ptxn.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/18cef49d9ae1faee-card-w240.webp",
+      "width": 240,
+      "height": 300
+     },
+     {
+      "src": "/artifact-responsive/18cef49d9ae1faee-card-w400.webp",
+      "width": 400,
+      "height": 500
+     },
+     {
+      "src": "/artifact-responsive/18cef49d9ae1faee-card-w640.webp",
+      "width": 640,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/18cef49d9ae1faee-card-w960.webp",
+      "width": 960,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "ny-yh": {
+  "image": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-yh.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0b9f22c551a898a0-card-w240.webp",
+      "width": 240,
+      "height": 200
+     },
+     {
+      "src": "/artifact-responsive/0b9f22c551a898a0-card-w400.webp",
+      "width": 400,
+      "height": 333
+     },
+     {
+      "src": "/artifact-responsive/0b9f22c551a898a0-card-w640.webp",
+      "width": 640,
+      "height": 533
+     },
+     {
+      "src": "/artifact-responsive/0b9f22c551a898a0-card-w960.webp",
+      "width": 960,
+      "height": 800
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "ny-cpyb": {
+  "image": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-cpyb.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0fc5c41d286f7277-card-w240.webp",
+      "width": 240,
+      "height": 160
+     },
+     {
+      "src": "/artifact-responsive/0fc5c41d286f7277-card-w400.webp",
+      "width": 400,
+      "height": 267
+     },
+     {
+      "src": "/artifact-responsive/0fc5c41d286f7277-card-w640.webp",
+      "width": 640,
+      "height": 427
+     },
+     {
+      "src": "/artifact-responsive/0fc5c41d286f7277-card-w960.webp",
+      "width": 960,
+      "height": 640
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "ny-hujie": {
+  "image": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-hujie.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/82d68fa084d07a07-card-w240.webp",
+      "width": 240,
+      "height": 160
+     },
+     {
+      "src": "/artifact-responsive/82d68fa084d07a07-card-w400.webp",
+      "width": 400,
+      "height": 267
+     },
+     {
+      "src": "/artifact-responsive/82d68fa084d07a07-card-w640.webp",
+      "width": 640,
+      "height": 427
+     },
+     {
+      "src": "/artifact-responsive/82d68fa084d07a07-card-w960.webp",
+      "width": 960,
+      "height": 640
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "ny-gaozu": {
+  "image": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-gaozu.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a08f464c1704cd3e-card-w240.webp",
+      "width": 240,
+      "height": 256
+     },
+     {
+      "src": "/artifact-responsive/a08f464c1704cd3e-card-w400.webp",
+      "width": 400,
+      "height": 427
+     },
+     {
+      "src": "/artifact-responsive/a08f464c1704cd3e-card-w640.webp",
+      "width": 640,
+      "height": 683
+     },
+     {
+      "src": "/artifact-responsive/a08f464c1704cd3e-card-w960.webp",
+      "width": 960,
+      "height": 1024
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ },
+ "ny-xiangyazhi": {
+  "image": {
+   "src": "/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4322deb9cd8c156e-card-w240.webp",
+      "width": 240,
+      "height": 240
+     },
+     {
+      "src": "/artifact-responsive/4322deb9cd8c156e-card-w400.webp",
+      "width": 400,
+      "height": 400
+     },
+     {
+      "src": "/artifact-responsive/4322deb9cd8c156e-card-w640.webp",
+      "width": 640,
+      "height": 640
+     },
+     {
+      "src": "/artifact-responsive/4322deb9cd8c156e-card-w960.webp",
+      "width": 960,
+      "height": 960
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hold": false
+ }
+}

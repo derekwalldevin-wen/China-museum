@@ -1,0 +1,123 @@
+{
+ "story": {
+  "id": "hun-tbh",
+  "hook": "一幅T形帛画，能画出多少种关于身后世界的想象？",
+  "summary": "湖南博物院藏辛追墓T形帛画出自1972—1974年发掘的马王堆汉墓。画面可沿天上、人间、地下观察；“升仙”与“镇墓”是研究者讨论其功能的解释，不等于已知绘者姓名、古代画名或唯一的仪式用途。",
+  "summaryRefs": [
+   "b8-mawangdui-gallery",
+   "b8-painting-lecture"
+  ],
+  "sections": [
+   {
+    "title": "先认准辛追墓这一幅",
+    "text": "【器物事实】湖南博物院的马王堆陈列把‘辛追墓T形帛画’列为代表展品；马王堆三座西汉墓于1972至1974年间发掘。研究者在湖南博物院讲座中还比较了一号墓与三号墓的两幅T形帛画，因此不能把所有马王堆帛画的画面与出土位置混作同一件。‘T形’先是今天描述外轮廓的方便叫法；旧介绍直接把‘非衣’、内棺位置和送葬功能写成一条没有争议的现场记录，超出本轮所核馆方展览文字。可从这幅画的具体墓主与形状开始读，而不先演绎仪式。",
+    "refs": [
+     "b8-mawangdui-gallery",
+     "b8-painting-lecture"
+    ]
+   },
+   {
+    "title": "从上到下看，是图像；解释如何连起来，是研究",
+    "text": "【器物事实与研究解释】湖南博物院讲座回顾记录，霍巍用高清图与线描图带领观众看天上、人间、地下三个画面层次，并比较一号与三号墓的差异。图中层次能被观察和讨论，但‘每个形象就是某位神祇’、‘整幅只讲灵魂升天’不能凭一个熟悉的神话名字证明。讲座题为‘升仙与镇墓’，恰好提醒两种功能解释需要放在墓葬整体里检验。让孩子先指出自己看到的人、动物与空间位置，再说‘我猜’，就能把观察与解释分开。",
+    "refs": [
+     "b8-painting-lecture",
+     "b8-mawangdui-gallery"
+    ]
+   },
+   {
+    "title": "画在帛上，不等于已知画师手中的每一步",
+    "text": "【研究问题】馆方陈列可以证实媒材与墓葬归属，但本轮没有找到公开可核、逐件对应的颜料成分、绘画顺序和画师署名报告。我们可以问：工匠如何准备长幅丝帛、起稿、设色，画面各层是否一次完成？这些是有价值的制作问题，不能把现代临摹过程说成西汉原作工序。马王堆同墓出土丝织服饰与帛书，说明当时多种丝质媒材并存；帛画与素纱衣的功能、加工方式不同，不能因‘都用丝’就推断同一作坊或同一人完成。",
+    "refs": [
+     "b8-mawangdui-gallery",
+     "b8-painting-lecture"
+    ]
+   },
+   {
+    "title": "研究、复制与保护原件，是三件事",
+    "text": "【当代研究与传播】馆方讲座让公众借高清图比较两墓帛画；湖南博物院的当代展览目录又明确将部分T形帛画展品标为复制品。学者的阐释、复制品的展示和原件的保存彼此有关，却不是同一记录。本轮尚无辛追墓这幅帛画的逐年修复、光照控制和装裱处理档案，不能因为展厅看得清就推断原件一直公开平展。现代复制的作用之一是让观众接近复杂图像，同时减少把展示图误认成古代原件的风险。",
+    "refs": [
+     "b8-painting-lecture",
+     "b8-painting-replica",
+     "b8-mawangdui-gallery"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "两个墓号",
+    "text": "一号墓辛追帛画与三号墓帛画都被学者比较，不能互借图像细节。",
+    "refs": [
+     "b8-mawangdui-gallery",
+     "b8-painting-lecture"
+    ]
+   },
+   {
+    "title": "三个画面层次",
+    "text": "天上、人间、地下是讲座导览的读图层次；每层确切信仰意义仍需解释。",
+    "refs": [
+     "b8-painting-lecture"
+    ]
+   },
+   {
+    "title": "复制品标签",
+    "text": "现代展览目录标明‘复制品’，提醒读者分清原件和再现。",
+    "refs": [
+     "b8-painting-replica"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "你看见画面上、中、下三部分，就能证明画师只想表达‘升仙’吗？",
+   "answer": "不能。三层构图是观察，升仙或镇墓是研究者结合墓葬提出的解释，仍要比较另一幅帛画与更多材料。",
+   "refs": [
+    "b8-painting-lecture"
+   ]
+  },
+  "uncertainty": "未核原始发掘报告中本幅的准确覆盖位置、逐件颜料与制作检测、保护修复档案；古代原名、画师、仪式用途不可唯一判定。",
+  "correction": "撤去‘内棺上的非衣必是引魂旌幡’和逐个神祇定名的确定说法；区分可见图像、学术解释与现代复制展示。",
+  "related": [
+   {
+    "id": "hun-ssd",
+    "reason": "同出马王堆一号墓，却一件用帛绘墓葬图像，一件用素纱制衣；比较丝质媒材怎样服务不同生活与丧葬语境，不推定同一工匠。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sx-qh",
+    "reason": "比较不同时代的墓葬图像如何安排人物和空间：西汉辛追墓帛画与北魏司马金龙墓木板漆画媒材、场景、年代均不同，不暗示直接传承。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "b8-mawangdui-gallery": {
+   "id": "b8-mawangdui-gallery",
+   "title": "Changsha Mawangdui Han Dynasty Tombs Exhibition",
+   "institution": "湖南博物院",
+   "url": "https://web.hnmuseum.com/en/content/changsha-mawangdui-han-dynasty-tombs-exhibition",
+   "checkedAt": "2026-09-27",
+   "retrieval": "full-text",
+   "kind": "museum",
+   "supports": "1972至1974年马王堆三墓发掘，馆方列辛追墓T形帛画与素纱单衣；并以丧葬观念为展览解释"
+  },
+  "b8-painting-lecture": {
+   "id": "b8-painting-lecture",
+   "title": "升仙与镇墓：从马王堆帛画看汉代墓葬的两级世界",
+   "institution": "湖南博物院湘博讲坛，第81期霍巍讲座回顾",
+   "url": "https://web.hnmuseum.com/zh-hans/aboutus/%E3%80%90%E8%AE%B2%E5%BA%A7%E5%9B%9E%E9%A1%BE%E3%80%91%E6%B9%98%E5%8D%9A%E8%AE%B2%E5%9D%9B-%E7%AC%AC81%E6%9C%9F-%E5%8D%87%E4%BB%99%E4%B8%8E%E9%95%87%E5%A2%93%EF%BC%9A%E4%BB%8E%E9%A9%AC%E7%8E%8B%E5%A0%86%E5%B8%9B%E7%94%BB%E7%9C%8B%E6%B1%89%E4%BB%A3%E5%A2%93%E8%91%AC%E7%9A%84%E4%B8%A4%E7%BA%A7%E4%B8%96%E7%95%8C",
+   "checkedAt": "2026-09-27",
+   "retrieval": "full-text",
+   "kind": "museum-scholar-lecture",
+   "supports": "研究者比较一号、三号墓两幅T形帛画及天上、人间、地下画面，以升仙和镇墓讨论墓葬观念；讲座回顾不是古代绘者自述或发掘报告全文"
+  },
+  "b8-painting-replica": {
+   "id": "b8-painting-replica",
+   "title": "湖南博物院当代数字艺术展展品目录",
+   "institution": "湖南博物院",
+   "url": "https://www.hnmuseum.com/ko/%E5%B1%95%E8%A7%88%E5%9B%BD%E5%86%85%E5%A4%96/%E9%A6%86%E5%86%85?page=2&s=%2Fko%2F%E5%B1%95%E8%A7%88%E5%9B%BD%E5%86%85%E5%A4%96%2F%E9%A6%86%E5%86%85",
+   "checkedAt": "2026-09-27",
+   "retrieval": "search-text",
+   "kind": "museum-exhibition-list",
+   "supports": "馆方展览列表明示T形帛画和素纱单衣展示品为复制品；非原件修复记录"
+  }
+ }
+}

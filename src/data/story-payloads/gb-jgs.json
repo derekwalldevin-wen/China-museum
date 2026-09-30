@@ -1,0 +1,145 @@
+{
+ "story": {
+  "id": "gb-jgs",
+  "hook": "没有声音，为什么仍能感觉他正在逗人发笑？",
+  "summary": "中国国家博物馆藏东汉击鼓说唱俑，以抱鼓、举槌和夸张的表情动作表现俳优。它帮助我们认识汉代的表演形象与社会生活，但不能据此还原一场具体演出的台词，或认定所有现代曲艺都由它直接演变。",
+  "summaryRefs": [
+   "drum"
+  ],
+  "sections": [
+   {
+    "title": "先读动作，不急着背名称",
+    "text": "试着不用“生动”这个词来形容他：一只手臂抱鼓，另一只手举起鼓槌，嘴张开，表情夸张。国博的说明把这件东汉陶俑与俳优的说唱形象联系起来。你并没有听见他的声音，却可以从动作理解“正在表演”的意思，这是造型的表达能力。",
+    "refs": [
+     "drum"
+    ]
+   },
+   {
+    "title": "笑声背后还有社会背景",
+    "text": "俳优是一类古代表演者。馆方资料介绍了诙谐、调侃的表演方式，也提到皇室贵族和富豪蓄养俳优的社会现象。因此，不能看到一张笑脸就断定艺人的生活始终快乐。艺术呈现给我们的，是被塑造的一种形象，而不是完整的人生档案。",
+    "refs": [
+     "drum"
+    ]
+   },
+   {
+    "title": "出土地提供背景，却没有留下台词",
+    "text": "国博专题目录记录，这件高五十六厘米的陶俑1957年出土于四川成都天回山，性质为明器。出土地点和文物类别把它放回汉墓语境，却没有告诉我们俑中人具体说了什么、唱了哪一首，也没有给出完整墓号和发掘过程。和家人替他写一句开场白可以成为今天的创作，但必须标明是想象；陶俑不是一位真实艺人的姓名档案。",
+    "refs": [
+     "drum",
+     "drum-discovery"
+    ]
+   },
+   {
+    "title": "从古籍里的俳优，到今天的舞台",
+    "text": "先读两种不同材料：《史记·滑稽列传》写淳于髡、优孟等以谈笑讽谏的人物，《盐铁论·散不足》则属于汉代政论中的社会风俗议题；国博专题还把俳优形象与画像石、陶楼等材料并读。这些文本能帮助理解表演者与社会生活的背景，却不是这尊陶俑的剧本，也不能证明俑中人物就是某位史传人物。今天，国博与中国传媒大学曾以它为切入口创作舞台剧《盛世欢歌》。那是当代再创作，展示今天如何讲述表演史，不能反向当成汉代演出的复原录像。",
+    "refs": [
+     "shiji-huaji",
+     "yantielun-sb",
+     "drum-context",
+     "drum-modern"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "鼓与槌",
+    "text": "两只手臂围绕表演道具安排，形成明确的动作关系。",
+    "refs": [
+     "drum"
+    ]
+   },
+   {
+    "title": "夸张神态",
+    "text": "张口与表情帮助塑造幽默感；不据此推定真实艺人的性格。",
+    "refs": [
+     "drum"
+    ]
+   },
+   {
+    "title": "俳优",
+    "text": "先理解古代身份与表演环境，不直接等同今天的某一职业。",
+    "refs": [
+     "drum"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "如果给他编一段台词，可以标成“汉代真实台词”吗？",
+   "answer": "不可以。陶俑没有提供这段文字。可以标成“我的想象”，并把观察到的形象与自己创作的情节分开。",
+   "refs": [
+    "drum"
+   ]
+  },
+  "uncertainty": "不据笑容推断艺人的命运，不把现代舞台剧中的故事写成该陶俑对应人物的生平。",
+  "correction": "移除“中国曲艺史的形象起点”等单线起源暗示，加入艺术形象与历史事实的边界。",
+  "related": [
+   {
+    "id": "sxl-lt",
+    "reason": "编钟的音域与铭文让人研究声音系统，陕西馆这组驼背乐舞俑则让人观察群像、乐器姿态和舞台式构图；比较“声音如何留下证据”与“视觉如何组织表演”，不要把陶俑当录音，也不推断两种表演传统直接相承。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "drum": {
+   "id": "drum",
+   "title": "击鼓说唱俑",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247253.shtml",
+   "checkedAt": "2026-09-15",
+   "retrieval": "search-text",
+   "kind": "museum",
+   "supports": "抱鼓举槌、夸张表情动作、俳优表演、汉代社会背景"
+  },
+  "drum-discovery": {
+   "id": "drum-discovery",
+   "title": "如果国宝会说话·国博馆藏文物目录",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/Portals/0/web/zt/20180101rggbhsh/index_mobile.html",
+   "checkedAt": "2026-09-25",
+   "retrieval": "search-text",
+   "kind": "museum-feature",
+   "supports": "击鼓说唱陶俑为明器，1957年四川成都天回山出土，高56厘米；目录信息不提供具体墓号及完整发掘经过"
+  },
+  "shiji-huaji": {
+   "id": "shiji-huaji",
+   "title": "《史记·滑稽列传》",
+   "institution": "中国哲学书电子化计划（文本底本信息见页面）",
+   "url": "https://ctext.org/shiji/hua-ji-lie-zhuan/zhs",
+   "checkedAt": "2026-09-23",
+   "retrieval": "search-text",
+   "kind": "primary-source",
+   "supports": "春秋战国以来淳于髡、优孟等以谈笑讽谏的传记叙事；不能直接证明四川说唱俑的身份或表演台词"
+  },
+  "yantielun-sb": {
+   "id": "yantielun-sb",
+   "title": "《盐铁论·散不足》",
+   "institution": "中国哲学书电子化计划（页面列出四库全书等底本）",
+   "url": "https://ctext.org/yan-tie-lun/san-bu-zu/zhs",
+   "checkedAt": "2026-09-23",
+   "retrieval": "search-text",
+   "kind": "primary-source",
+   "supports": "汉代关于社会消费、礼俗与娱乐的论辩文本；用于理解时代议题，不是特定陶俑的现场记录"
+  },
+  "drum-context": {
+   "id": "drum-context",
+   "title": "击鼓说唱俑·国博精品文物传播",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/portals/0/web/zt/202112jgscy/",
+   "checkedAt": "2026-09-23",
+   "retrieval": "search-text",
+   "kind": "museum-feature",
+   "supports": "汉代俳优表演与画像石、陶楼材料；国博专题引《史记》《盐铁论》并讨论四川地区同类俑"
+  },
+  "drum-modern": {
+   "id": "drum-modern",
+   "title": "击鼓说唱俑“活”了：原创文物活化舞台剧",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zx/gbxw/202305/t20230528_258568.shtml",
+   "checkedAt": "2026-09-23",
+   "retrieval": "search-text",
+   "kind": "contemporary-interpretation",
+   "supports": "2023年国博与中国传媒大学合作创作《盛世欢歌》；当代舞台阐释与馆藏形象的区别"
+  }
+ }
+}

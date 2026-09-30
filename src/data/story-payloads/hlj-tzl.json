@@ -1,0 +1,144 @@
+{
+ "story": {
+  "id": "hlj-tzl",
+  "hook": "这条铜龙是在1956年，还是1965年被发现？",
+  "summary": "黑龙江省博物馆藏金代铜坐龙，发现地点指向阿城金上京会宁府遗址；省志资料写1956年，央广报道写1965年，原始登记待核。它的车辇装饰用途属研究解释；阿城是金上京，绝非金中都。",
+  "summaryRefs": [
+   "b40-dragon-province",
+   "b40-dragon-gazetteer",
+   "b40-dragon-1965"
+  ],
+  "sections": [
+   {
+    "title": "先把两座都城分清",
+    "text": "【馆藏与地点事实】黑龙江省文化和旅游厅的省馆介绍把金代铜坐龙列为黑龙江省博物馆藏品，并配有本件馆藏图。不同后出资料都把发现地点指向阿城金上京会宁府遗址附近。旧卡片写‘金中都（今阿城）’，却把金上京与另一座都城混成一处，这里直接纠正为金上京。铜龙与遗址有关，并不意味着我们已掌握它从某辆帝王车上拆下时的原位；现有公开页面没有可以逐点核对的现场坐标、层位图或伴出关系。",
+    "refs": [
+     "b40-dragon-province",
+     "b40-dragon-gazetteer",
+     "b40-dragon-1965"
+    ]
+   },
+   {
+    "title": "为什么两种发现年并存",
+    "text": "【后出记录冲突】黑龙江省地方志网站逐件介绍的检索文字写1956年阿城白城金上京遗址出土，央广网2021年阿城专题检索文字却写1965年。两页本轮直开都失败，原始发现登记、入馆号或采访底稿也未得到，所以不能因为某一篇转载更多就替它裁决。1956也可能与某次发现、1965与另一环节有关，但这仍只是待查假设，不写成事实。给孩子看的问题是：一件古物的近现代年表也要证据，不能只凭一张看似正式的卡片。",
+    "refs": [
+     "b40-dragon-gazetteer",
+     "b40-dragon-1965"
+    ]
+   },
+   {
+    "title": "它原来装在哪里",
+    "text": "【形象观察与类型解释】蹲坐的龙形让人联想到宫殿、车辇上的威仪装饰。故宫院刊关于河北太子城金代铜坐龙的正式论文检索摘要把黑龙江金上京器列作比较物，这说明研究者在跨遗址比较同类形制，但河北那一件的出土地点、构件位置不能转写成黑龙江本件的原位。旧简介说它‘应为金代皇帝御辇装饰’可以保留为待检的用途解释，却不能当已有连接痕和车架原位的器物事实。此轮也没有本件铸造合金、内腔或接榫检测报告。",
+    "refs": [
+     "b40-dragon-comparison",
+     "b40-dragon-province"
+    ]
+   },
+   {
+    "title": "省馆如何保护它，我们知道多少",
+    "text": "【馆级保护与逐件未知】黑龙江省文旅厅介绍省馆建有恒温恒湿库房、藏品数据库，也开展铜器修复、复制等工作。这是整座馆的管理能力说明，并没有写铜坐龙哪年除锈、用何材料加固或是否曾被复制。今天它被省馆网页作为代表藏品展示，属于当代传播；馆方图片并非自动对本站开放转载。故事保留两个发现年份，让读者知道研究史仍可追问；也保留文物图像原有AI、来源及待核披露，不因一篇新文字改变授权状态。",
+    "refs": [
+     "b40-dragon-province",
+     "b40-dragon-gazetteer",
+     "b40-dragon-1965"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "金上京",
+    "text": "阿城的金代都城是上京会宁府，不是金中都。",
+    "refs": [
+     "b40-dragon-gazetteer",
+     "b40-dragon-1965"
+    ]
+   },
+   {
+    "title": "1956／1965",
+    "text": "两个公开来源的年份冲突，未取得原始入藏簿裁决。",
+    "refs": [
+     "b40-dragon-gazetteer",
+     "b40-dragon-1965"
+    ]
+   },
+   {
+    "title": "车辇装饰？",
+    "text": "形制比较提出用途问题，河北另一件的原位不是黑龙江本件的原位。",
+    "refs": [
+     "b40-dragon-comparison"
+    ]
+   },
+   {
+    "title": "馆级文保",
+    "text": "恒温恒湿和铜器修复是省馆整体能力，不是本铜龙的操作记录。",
+    "refs": [
+     "b40-dragon-province"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "两篇介绍把发现年写成1956和1965，我们该把哪一年删掉？",
+   "answer": "先不要删。在原始发现、入藏登记核对前，把冲突和资料来源一起保留。",
+   "refs": [
+    "b40-dragon-gazetteer",
+    "b40-dragon-1965"
+   ]
+  },
+  "uncertainty": "原始发现与入藏簿、1956/1965两年所指事件、具体出土层位、车辇或建筑用途的本件物证、材质检测、逐件修复工单及馆图再用许可均未核。",
+  "correction": "撤销旧卡片‘金中都（今阿城）’的地理错误和未经核实的单一年份，把御辇构件降为解释；不把河北太子城另件的考古证据移植本件。",
+  "related": [
+   {
+    "id": "bj-hz",
+    "reason": "比较金上京铜坐龙与西周何尊的动物化装饰如何进入青铜器造型：一个用途仍待证、一个可读内底铭文，时代与场景不同，不把兽形相似说成直接传承。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "hub-zhy",
+    "reason": "比较铜坐龙与曾侯乙编钟的青铜形制如何依原位、铭文和检测解释用途：一个用途仍待核、一个有较完整墓葬组合，不应互借证据。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "b40-dragon-province": {
+   "id": "b40-dragon-province",
+   "title": "黑龙江省博物馆介绍",
+   "institution": "黑龙江省文化和旅游厅",
+   "url": "https://wlt.hlj.gov.cn/wlt/c114195/202011/c00_31051876.shtml",
+   "checkedAt": "2026-09-29",
+   "retrieval": "full-text",
+   "kind": "government-museum-collection-and-care-summary",
+   "supports": "省馆馆藏包括金代铜坐龙；馆级恒温恒湿、铜器修复与数据库等制度只是整体能力，不证明本件曾作何具体处理"
+  },
+  "b40-dragon-gazetteer": {
+   "id": "b40-dragon-gazetteer",
+   "title": "黑龙江省博物馆十大镇馆之宝之一：金代铜坐龙",
+   "institution": "黑龙江省地方志办公室网站",
+   "url": "https://www.hljszw.org.cn/news/2619.html",
+   "checkedAt": "2026-09-29",
+   "retrieval": "search-text",
+   "kind": "government-object-summary-search-text",
+   "supports": "检索文字记1956年阿城白城金上京会宁府遗址出土；页面直开失败，发现年与另一公开报道的1965冲突，不能当已核原始登记"
+  },
+  "b40-dragon-1965": {
+   "id": "b40-dragon-1965",
+   "title": "走近阿城：赏金源文化瑰宝铜坐龙风采",
+   "institution": "央广网黑龙江地方报道",
+   "url": "https://hlj.cnr.cn/hljyw/20210909/t20210909_525595275.shtml",
+   "checkedAt": "2026-09-29",
+   "retrieval": "search-text",
+   "kind": "reported-discovery-year-search-text",
+   "supports": "检索文字记1965年阿城区金上京会宁府遗址西端出土，与省志网1956不同；直开失败，未得原始入藏或发现登记"
+  },
+  "b40-dragon-comparison": {
+   "id": "b40-dragon-comparison",
+   "title": "河北崇礼太子城遗址出土金代铜坐龙研究",
+   "institution": "故宫博物院《故宫博物院院刊》2023年正式论文",
+   "url": "https://www.dpm.org.cn/Uploads/File/2023/05/19/u6466dde1b733b.pdf",
+   "checkedAt": "2026-09-29",
+   "retrieval": "search-text",
+   "kind": "formal-archaeological-comparison-search-text",
+   "supports": "研究主体是河北太子城另件金代铜坐龙，并把黑龙江金上京铜坐龙列为比较对象；PDF直开失败，不能移植太子城原位、用途结论或修复史到黑龙江本件"
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-09-27",
+  "sources": [
+    {"id":"b9-silver-archive","title":"银雀山汉墓竹简申报书","institution":"国家档案局刊载，山东博物馆申报","url":"https://www.saac.gov.cn/mowcn/cn/6sbs/202512/d58b9dd7d61e4344a7a5c0a1699011f6.shtml","checkedAt":"2026-09-27","retrieval":"search-text","kind":"government-museum-record","supports":"1972年发现、1972年10月赴北京整理保护、1976年1月返山东入藏；检索可见申报文字，页面全文本轮未能打开"},
+    {"id":"b9-silver-national","title":"银雀山《孙子兵法》竹简","institution":"中国国家博物馆","url":"https://www.chnmuseum.cn/zp/zpml/kgfjp/202108/t20210806_250983.shtml","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum","supports":"《孙子兵法》与《孙膑兵法》同出及两种文本分立；该页是国博馆藏件，不能冒充山东博物馆逐件目录"},
+    {"id":"b9-silver-protection","title":"银雀山汉墓竹简饱水保护","institution":"白广珍，山东博物馆，中国文物保护技术协会第七次学术年会论文集","url":"https://www.cactch.org.cn/webfile/upload/2021/02-08/23-28-140889-1897064506.pdf","checkedAt":"2026-09-27","retrieval":"search-text","kind":"formal-conservation-report","supports":"论文检索文字记载早期逐简玻璃夹片、管内蒸馏水与密封蜡饱水保存及之后保存问题；PDF全文本轮打开超时，仅按可见摘要谨慎表述"},
+    {"id":"b9-silver-list","title":"山东省国有馆藏一级文物名录","institution":"山东省文化和旅游厅","url":"https://whhly.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=83aebc5fc6aa44edb585218a839196e6.pdf","checkedAt":"2026-09-27","retrieval":"search-text","kind":"government-collection-list","supports":"山东博物馆馆藏西汉竹简《孙膑兵法》；名录不是所有银雀山简的逐件保护档案"},
+    {"id":"b9-wu-discovery","title":"走马楼吴简的发现和发掘（一）","institution":"长沙简牍博物馆，采访李鄂权","url":"https://www.chinajiandu.cn/News/Details/zhshkp?nid=1219","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum-excavator-interview","supports":"1996年J22井、十万余枚、现场遭施工破坏、分区逐层清理及淤泥寻残片；早期14万和17万是采访回忆中的不同估算"},
+    {"id":"b9-wu-ledger","title":"[三国]吴简大木简","institution":"长沙简牍博物馆","url":"https://www.chinajiandu.cn/Collection/Details/wj?nid=241","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum","supports":"J22出土嘉禾吏民田家莂杉木券书，记田地租佃及钱粮布帛，保存裂分与系绳契口"},
+    {"id":"b9-wu-register","title":"[三国孙吴]户籍竹简","institution":"长沙简牍博物馆","url":"https://www.chinajiandu.cn/Collection/Details/wj?nid=244","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum","supports":"J22户籍简以家庭登记户主、成员、年龄、身体状况与税役事项"},
+    {"id":"b9-wu-method","title":"关于长沙走马楼吴简前期整理方法的观察与思考","institution":"宋少华，长沙简牍博物馆","url":"https://www.chinajiandu.cn/News/Details/xsyj?nid=526","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum-research","supports":"十余万枚的整理，1997—2003年逐层揭剥、层位与分布记录，2018年已刊七卷；不能由此断言每简原册顺序已完全复原"},
+    {"id":"b9-wu-protection","title":"走马楼吴简的整理和保护（一）","institution":"长沙简牍博物馆，采访宋少华","url":"https://www.chinajiandu.cn/News/Details/zhshkp?nid=1221","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum-conservator-interview","supports":"出土饱水、泥污和脱水变形风险；2003年保护项目立项、2015年专家验收并仍有收尾"},
+    {"id":"b9-qin-catalog","title":"秦高级军吏俑","institution":"秦始皇帝陵博物院","url":"https://bmy.com.cn/impor_collections/439.html","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum","supports":"陶质、高级军吏型、双重长襦、彩色鱼鳞甲、鹖冠、双手交垂腹前拄剑；网页未给本站图像对应俑号或准确出土位置"},
+    {"id":"b9-qin-excavation","title":"一号坑第三次发掘数字展演","institution":"秦始皇帝陵博物院","url":"https://www.bmy.com.cn/news/news/786.html","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum-archaeology","supports":"一号坑2009—2019第三次正式发掘，发现高级至普通武士五类陶俑和彩绘遗迹；群体事实非馆藏页那件的身份证明"},
+    {"id":"b9-qin-conservation","title":"秦俑修复室开放报道与馆方专家访谈","institution":"秦始皇帝陵博物院转载华商报对修复部访谈","url":"https://www.bmy.com.cn/news/news/949.html","checkedAt":"2026-09-27","retrieval":"full-text","kind":"reported-museum-interview","supports":"彩绘保护旨在保留原色而非重涂，陶片编号、拼对及一件高级军吏彩俑由四人修复两年；不能确认该件即本条馆藏页所示俑"}
+  ],
+  "trails": [],
+  "stories": [
+    {
+      "id":"sd-szb","hook":"两部兵法一起出土，究竟回答了哪个老问题？","summary":"1972年银雀山汉墓竹简中同见《孙子兵法》与《孙膑兵法》，证明汉代已有两种兵书文本；作者生平和篇章流传仍待考。简牍曾赴北京整理，后由山东博物馆饱水保存。","summaryRefs":["b9-silver-archive","b9-silver-national","b9-silver-protection"],
+      "sections":[
+        {"title":"1972年，泥土里出现两种兵书","text":"【器物事实】银雀山汉墓竹简1972年在山东临沂发现。中国国家博物馆的《孙子兵法》竹简馆藏页明言，与它同出土的还有《孙膑兵法》；山东省馆藏名录亦单列山东博物馆的《孙膑兵法》竹简。两种书名并见，支持它们不是后人误传的同一部书；但‘两书分立’不等于每篇内容、每位作者的身世都由这次发掘完全解决。本站将银雀山遗存作为一组文献入口，不把国博藏单简照片冒充山东博物馆每一枚竹简。","refs":["b9-silver-archive","b9-silver-national","b9-silver-list"]},
+        {"title":"纸本兵书之前，文字写在细竹片上","text":"【器物事实与研究问题】正式保护论文的可检索文字指出，出土时竹简在淤泥中长期饱水，原有编绳腐朽或断开。今天读到的分篇、排次、标点和今译，是出土文字经过辨字与整理后的读本，不是墓内已装订好的现代书。原本谁抄写、竹材如何劈削、两书是否由同一批书手书写，本轮所见馆藏页与论文摘要都不能作答。亲子读者可以先问：若绳断了，研究者要凭哪些字句和残片接痕，才敢把相邻两简排在一起？","refs":["b9-silver-national","b9-silver-protection"]},
+        {"title":"这场发现改变了讨论，却不代替讨论","text":"【研究解释】国博把两书并出与《史记》记载的孙武、孙膑各有兵法联系起来，这是理解研究史的重要线索。更谨慎的结论是：汉代墓葬中已有可以区分的两种兵法文本，旧日‘其实是一书’的简单说法难以维持。至于出土残简和后世十三篇文本如何对应、哪些章节经历改写，以及作者是否亲笔写下每句话，仍属于版本研究，不该借‘千年悬案终结’一语一笔带过。让孩子比较两种书的题名和文字，是比猜两位军事家是否见过面更可靠的入口。","refs":["b9-silver-national","b9-silver-archive"]},
+        {"title":"泡在水里保存，也是一段研究史","text":"【当代保护与传播】山东博物馆提交的档案申报材料记载，竹简1972年10月赴北京整理保护，1976年1月返山东入藏。山东博物馆白广珍的保护论文可检索文字描述早期逐简夹在玻璃片间、置入注水玻璃管并用蜡封口，以避免脆弱简片骤然脱水；论文还研究密封材料与长期保存问题。这说明‘保存’并非单次清洗即结束。PDF全文本轮打开超时，所用仅是可核的摘要与检索文字，不断言每一枚简都经历完全相同的后续处理，也不把影印或展陈复制图标成原件修复照。","refs":["b9-silver-archive","b9-silver-protection"]}
+      ],
+      "details":[{"title":"两种书名","text":"两种兵法文本同出土，不能再简单当作一书。","refs":["b9-silver-national"]},{"title":"断绳的难题","text":"编绳朽断意味着今天的排序需要整理与研究，非出土时完整书册。","refs":["b9-silver-protection"]},{"title":"饱水保护","text":"早期采用玻璃夹片、管内保湿与蜡封等办法，后续情况仍需阅读全文核。","refs":["b9-silver-protection"]}],
+      "reflection":{"question":"发现《孙子》和《孙膑》两种竹简，能不能证明后世流传的每一篇都保持汉代原文？","answer":"不能。并出证明两种文本在汉代可区分；篇章的残缺、整理和版本流传还要逐篇考证。","refs":["b9-silver-national","b9-silver-protection"]},
+      "uncertainty":"申报页与保护论文PDF全文本轮均未成功打开，仅采用检索可见文字；逐简出土层位、抄手、后续修复工单与版本细节待核。","correction":"把‘彻底终结孙武孙膑是否一人’改成两种兵法文本分立的实物证据，并明确国博藏简与山东博物馆整批材料的边界。",
+      "related":[{"id":"hub-qj","reason":"比较两批竹简怎样从出土残片成为可读篇章：秦法律与汉兵书内容不同，整理方法可对问，不说明直接传承。","type":"curatorial-comparison"},{"id":"cs-zml","reason":"从兵书转看孙吴基层档案：同为竹木简，却分别留下战略文本与日常行政记录，比较‘谁在写、写给谁’。","type":"curatorial-comparison"}]
+    },
+    {
+      "id":"cs-zml","hook":"一口受损古井，怎样留下十万余枚普通人的记录？","summary":"1996年长沙走马楼J22古井出土十万余枚孙吴简牍，含户籍、田地与仓储文书。14万、17万是早期估数；发掘、逐层整理和保护决定今天怎样读这些记录。","summaryRefs":["b9-wu-discovery","b9-wu-ledger","b9-wu-method"],
+      "sections":[
+        {"title":"古井被施工切开之后","text":"【出土事实】长沙简牍博物馆采访当年的考古队员李鄂权：1996年走马楼工地清理多口古井，J22号井已被施工损坏近半，工作人员分区、逐层记录，并在被运走的淤泥中继续寻找残简。馆方回忆中出现过14万、17万等早期估数，正式导览宜称‘十万余枚’，不把临场数字写成逐枚点清后的定值。这不是一座一夜完整打开的文书仓库；现场受损和后续抢救，正是它的考古史的一部分。孩子可想：若不知道一枚简出自哪一层，读它时会失去什么线索？","refs":["b9-wu-discovery","b9-wu-method"]},
+        {"title":"户籍与田地契券，让无名者有了位置","text":"【器物事实】馆方分别介绍了J22号井的户籍竹简和‘嘉禾吏民田家莂’大木简：前者按家庭登记成员、年龄、身体和税役，后者以可剖分的杉木券书记录田地租佃、交纳钱粮布帛，边缘还留有系绳契口。这些不是《三国志》里的英雄传记，而是行政工作生成的资料。由此能研究孙吴的基层管理，却不能说‘完整保存所有普通人的生活’：档案首先记录官府想知道的事项，未被登记的情感和日常劳动仍常常沉默。","refs":["b9-wu-register","b9-wu-ledger"]},
+        {"title":"简为什么不能按书页一张张翻","text":"【整理研究】宋少华在长沙简牍博物馆公开的整理回顾中写，发掘与整理团队须记录位置、层位和揭剥关系，再辨认简文的类别与关联；到2018年，原拟十二卷的整理成果已出版七卷。同样格式的户籍或账目可能出自不同册，不能只因内容相近便排成一卷。每张揭剥图、每个出土位置，都为重新理解原来的文书组合提供证据，但井中简册先前已经散乱变形，不保证能一一恢复原册顺序。研究史在这里不是‘发现以后就读懂’，而是持续的拼图。","refs":["b9-wu-method","b9-wu-discovery"]},
+        {"title":"墨迹离开湿井，保护才刚开始","text":"【现代保护】长沙简牍博物馆采访研究员宋少华：井中地下水、泥土和微生物使简面发黑、材质脆弱，骤然脱水会导致变形。2003年保护项目立项，2015年接受专家验收，后续仍有收尾。馆方另有具体方案与方法研究，但不能说全批简采用同一脱色、脱水工序，更不能把某件大木简的加固过程套给所有户籍简。今日展厅里可读的文字，依赖现场记录、清理、释字和长期保存；每一步都可能影响我们能提出的问题。","refs":["b9-wu-protection","b9-wu-method"]}
+      ],
+      "details":[{"title":"J22号古井","text":"1996年发掘，部分井体已遭施工破坏。","refs":["b9-wu-discovery"]},{"title":"‘莂’的契口","text":"杉木大简上的契口用于编连、核对租佃与赋税文书。","refs":["b9-wu-ledger"]},{"title":"十万余枚","text":"馆方采用十万余枚，14万和17万属于早期现场估数。","refs":["b9-wu-discovery","b9-wu-method"]}],
+      "reflection":{"question":"户籍简写了年龄和税役，是否就等于我们知道每个人的一生？","answer":"不是。它记录官府需要的项目；其他生活经验未必进入档案。要把可读的行政文字和对生活的推想分开。","refs":["b9-wu-register","b9-wu-ledger"]},
+      "uncertainty":"本轮未核J22原始发掘报告全文、整批最终精确件数或逐简修复工单；‘为什么弃置古井’以及每卷原始次序不可凭一个馆方科普页定论。","correction":"撤去固定‘14万余枚’与‘完整保存基层社会’的夸大句，改用馆方十万余枚及发掘受损、逐层整理的真实过程。",
+      "related":[{"id":"sd-szb","reason":"比较两种简牍的阅读障碍：银雀山兵书重在篇章与版本，走马楼档案重在层位与行政表格；不暗示两批简同源。","type":"curatorial-comparison"},{"id":"hub-qj","reason":"秦律简写制度条目，孙吴户籍简写制度如何落到家庭名册；对读材料类型与时代差异，而非说同一法条延续。","type":"curatorial-comparison"}]
+    },
+    {
+      "id":"qs-by","hook":"军阵里的‘将军’，真的有姓名吗？","summary":"秦始皇帝陵博物院藏高级军吏俑有鹖冠、鱼鳞甲与拄剑姿势。本站图片未核对俑号，不能将一号坑群体发掘和另件修复史当作本件履历。","summaryRefs":["b9-qin-catalog","b9-qin-excavation","b9-qin-conservation"],
+      "sections":[
+        {"title":"先看冠、甲、手势，再谈身份","text":"【器物事实】秦始皇帝陵博物院的高级军吏俑藏品页记其身穿双重长襦，外披彩色鱼鳞甲，头戴鹖冠，双手交垂腹前拄长剑。‘高级军吏’是依据服饰和军阵研究所作的类型名称，不是俑身铭刻的真姓名。本站旧名括号中的‘将军俑’可帮助普通观众寻找位置，却可能让人想象某位已经被确定的秦将；馆方没有在这个页面给出人物姓名。亲子读者不妨先从三处可见差别入手，再问：从衣冠判断等级，和认出某个人，是不是同一回事？","refs":["b9-qin-catalog"]},
+        {"title":"一号坑是军阵，不是一件陶俑的完整履历","text":"【考古事实与边界】馆方记载，一号坑在2009至2019年开展第三次正式发掘，出土包括高级、中级、下级军吏和普通武士在内的多类陶俑，也见彩绘和兵器遗迹。这能说明‘高级军吏型’置于怎样的军阵研究背景，却不能证明本站所用图像正是该次发掘中的某一尊。馆藏页未列俑号、具体过洞、出土日期和图像授权链，故本故事不把群体发掘时间改写成单件出土史；‘八千尊千人千面’也不是这件俑的可核参数。","refs":["b9-qin-catalog","b9-qin-excavation"]},
+        {"title":"陶与彩绘的制作，知道什么，不知道什么","text":"【器物事实与研究问题】馆方页面确证陶质、鱼鳞甲和原有彩色，说明我们今天看到的土色并不能代表它刚制成时的全部外观。馆方转引修复专家的访谈强调，保护彩绘是在保留发现时的原色，不是给古俑重新上色；数字扫描后的色彩重构也只是现代展示。本轮没有这件俑的胎土、成形分件、焙烧温度、古代工匠署名或颜料分析报告，故不把常见‘模制加手塑’的通论硬塞进单件制作工序。观察与重建的分界，也应显示在图片标识上。","refs":["b9-qin-catalog","b9-qin-conservation"]},
+        {"title":"修复故事要先找到是哪一尊","text":"【保护史】馆方转引的修复室访谈讲述编号、清理、拼接陶片，提到一件高级军吏彩俑曾由四位修复专家用两年完成修复。这是真实而生动的群体及另件保护案例，但报道没有提供能与本站当前卡片图、馆藏页图逐一对应的俑号。本站不能说‘我们这尊用了两年修好’。可以确信的是，发掘后的编号与拼对影响观众现在看到的完整军阵；具体这件的补配、加固、彩绘稳定措施和展出历程仍待核，AI示意或待核图像继续按原有标签披露。","refs":["b9-qin-conservation","b9-qin-excavation","b9-qin-catalog"]}
+      ],
+      "details":[{"title":"鹖冠与鱼鳞甲","text":"这是馆方确认的高级军吏型服饰特征，不是姓名线索。","refs":["b9-qin-catalog"]},{"title":"五类军阵","text":"一号坑第三次发掘见高级至普通武士多种等级。","refs":["b9-qin-excavation"]},{"title":"旧色与新色","text":"彩绘保护旨在留存原色，现代数字复原不得冒称原件。","refs":["b9-qin-conservation"]}],
+      "reflection":{"question":"报道说一件高级军吏俑修了两年，能说眼前这张卡片所示的俑也修了两年吗？","answer":"不能。必须先核对俑号及图像所指对象；仅凭同一类型，无法把另件修复档案移给它。","refs":["b9-qin-catalog","b9-qin-conservation"]},
+      "uncertainty":"本站图像与具体俑号尚未闭合；馆藏页未给精确发掘层位、逐件工序和修复档案，本轮不推断人物姓名或把群体修复史当单件履历。","correction":"去除固定身高‘近2米’、精确‘八千’及世界雕塑唯一性等未由逐件页支撑的修辞，明确将军型与具体人物、群体资料与单件资料的差别。",
+      "related":[{"id":"hub-qj","reason":"比较秦代统治的两种证据：陶俑展现军阵等级，秦律简记录制度文字；同朝不等于直接说明某一俑的职务。","type":"curatorial-comparison"},{"id":"sxd-dlr","reason":"跨时代比较大型人物造像与现代修复：青铜立人有已发表单件再修复史，军吏俑仍缺图像对应俑号，证据等级不同。","type":"curatorial-comparison"}]
+    }
+  ]
+}

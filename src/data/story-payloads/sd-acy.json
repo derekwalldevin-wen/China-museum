@@ -1,0 +1,147 @@
+{
+ "story": {
+  "id": "sd-acy",
+  "hook": "两把人面铜钺同墓出土，哪把才刻着‘亚醜’？",
+  "summary": "山东博物馆藏商代亚醜钺出自1965年青州苏埠屯一号大墓，长32.7厘米、刃宽34.5厘米、重4.6千克，正背有‘亚醜’铭。同墓另一把相似的人面钺现藏国家博物馆，不能把两件混作一器；‘亚醜’的族属和墓主身份仍属研究问题。",
+  "summaryRefs": [
+   "b35-shandong-object",
+   "b35-shandong-weight",
+   "b35-shandong-study",
+   "b35-shandong-distinction"
+  ],
+  "sections": [
+   {
+    "title": "北墓道口的两把钺",
+    "text": "【发掘报告转引】王恩田发表于正式论文集的研究，依据山东省博物馆《山东益都苏埠屯奴隶殉葬墓》转述：1965年山东馆在益都（今青州）苏埠屯清理商代一号大墓，它有四条墓道，北墓道口两侧各出土一把大型透雕人面铜钺。原1972年《文物》发掘论文书目可核，但本轮未取得原刊全文，因此细小层位和编号仍以转引标示。山东博物馆馆长另确认本馆亚醜钺出自该墓；2026年官方展讯同时明确另一把名为‘镂空人面纹钺’，现藏国博。读故事第一步不是猜人脸笑没笑，而是给两把钺各放一个正确的藏馆标签。",
+    "refs": [
+     "b35-shandong-study",
+     "b35-shandong-object",
+     "b35-shandong-distinction"
+    ]
+   },
+   {
+    "title": "人面与四个字的位置",
+    "text": "【山东件器物事实】山东馆副馆长公开介绍本件长32.7、刃宽34.5厘米、正背有‘亚醜’铭文；另有馆长受访检索片段给重4.6千克。王恩田研究也说两把中有一件正反合计四个亚醜族徽。我们可以比较人面上张开的口、两侧铭文与钺刃的关系，却不能把国博那件无本件铭文的尺寸和图像说明借过来。本件为青铜铸物，透雕造型并不能直接透露范块数量、合金配比或铸后磨刃程序；无本件检测前，制造细节仍是未知。",
+    "refs": [
+     "b35-shandong-object",
+     "b35-shandong-weight",
+     "b35-shandong-study",
+     "b35-shandong-distinction"
+    ]
+   },
+   {
+    "title": "‘亚醜’是姓名，还是族徽？",
+    "text": "【古文字研究解释】两把钺及同墓铜器上的亚醜铭文，使研究者能围绕一组金文讨论墓地与地方社会。王恩田论文把‘亚醜’解释为族徽，并进一步提出与文献里的九侯、鬼侯关联；其后一步跨越文字、年代和地域，是学术论证而非墓志自述。国博的逐件说明又谨慎把此地可能属于‘亚醜’族和薄姑氏联系列为推测。本站只能说铭文可见、族徽说有研究依据，不能给墓主安上某位传奇人物姓名，也不能从钺的威严形象直接写出某场战争。",
+    "refs": [
+     "b35-shandong-study",
+     "b35-shandong-object"
+    ]
+   },
+   {
+    "title": "分藏、再相见与保护未知",
+    "text": "【现代馆藏与展示】一把留山东、一把入国博。文化和旅游部2026年转载的国博展讯宣布两件将在辽宁省博物馆同展，让观众有机会直接对照同墓而不同藏的器物。这是现代借展与研究传播史，并非两件本来是一件器物的‘修复合体’。本轮来源未提供山东这把钺去污、加固、裂隙补配或借展点交的逐件工单；旧文把它称为‘微笑杀手’是现代传播修辞，不能替代古代用途和情绪。官方新闻配图也不等于本站已取得图像授权，原图片溯源状态不动。",
+    "refs": [
+     "b35-shandong-distinction",
+     "b35-shandong-object",
+     "b35-shandong-study"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "两把分藏",
+    "text": "山东馆亚醜钺与国博镂空人面纹钺是同墓两件，不是同一器的两张照片。",
+    "refs": [
+     "b35-shandong-distinction"
+    ]
+   },
+   {
+    "title": "32.7厘米",
+    "text": "山东馆副馆长给长32.7、刃宽34.5厘米；4.6千克见馆长受访检索片段。",
+    "refs": [
+     "b35-shandong-object",
+     "b35-shandong-weight"
+    ]
+   },
+   {
+    "title": "四处亚醜",
+    "text": "馆长说正背口部两侧各有铭，研究论文称正反合计四个族徽。",
+    "refs": [
+     "b35-shandong-object",
+     "b35-shandong-study"
+    ]
+   },
+   {
+    "title": "北墓道口",
+    "text": "正式研究转述原发掘论文称两把钺在北墓道口两侧；原刊全文待核。",
+    "refs": [
+     "b35-shandong-study"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "两把钺长得相似、出自同一座墓，讲解牌能互换吗？",
+   "answer": "不能。山东件有自己的尺寸和铭文位置，另一件由国博收藏；必须逐件核名、量测与铭文，不能凭相似外形合并身份。",
+   "refs": [
+    "b35-shandong-object",
+    "b35-shandong-distinction"
+   ]
+  },
+  "uncertainty": "山东馆1972原始报告全文、两钺逐件发掘编号、山东件的铸范/成分与保护档案、亚醜与某一文献人物的对应、墓主姓名均未核定；借展展讯不是修复报告。",
+  "correction": "旧简介保留出土地和人面/亚醜铭，但删除‘微笑的青铜杀手’作古代事实和未经证实的族属、军权定论；特别注明同墓国博件与山东件不可互相借证。",
+  "related": [
+   {
+    "id": "hun-dhd",
+    "reason": "比较商代大禾方鼎四面人像与亚醜钺透雕人面：图像都引出身份问题，铭文强度与出土记录却不同，不能把两件视为同一族群。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "hn-fhxz",
+    "reason": "比较亚醜钺的群体徽记解释与妇好鸮尊的‘妇好’铭文：都见商代文字，却分别支持不同层级的身份推断，不因同朝就认作同一人所有。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "b35-shandong-object": {
+   "id": "b35-shandong-object",
+   "title": "文物之光照亮中华文明浩瀚星空：山东博物馆副馆长讲亚醜钺",
+   "institution": "山东博物馆副馆长高震，《光明日报》2023年6月14日；人民政协网转载全文",
+   "url": "https://mobile.rmzxb.com.cn/tranm/index/url/www.rmzxw.com.cn/c/2023-06-16/3362699.shtml",
+   "checkedAt": "2026-09-29",
+   "retrieval": "full-text",
+   "kind": "museum-deputy-director-object-interview",
+   "supports": "山东馆本件长32.7、刃宽34.5厘米、正背亚醜铭、透雕人面；馆方卡通IP、短视频与AR为现代传播，不是古代图像意图或本件修复记录"
+  },
+  "b35-shandong-weight": {
+   "id": "b35-shandong-weight",
+   "title": "山东省博物馆四件镇馆之宝参展",
+   "institution": "山东省博物馆馆长鲁文生及保管部副主任蒋群接受媒体采访",
+   "url": "https://finance.sina.com.cn/money/collection/cjjj/20080729/22405144878.shtml",
+   "checkedAt": "2026-09-29",
+   "retrieval": "search-text",
+   "kind": "reported-collection-curator-interview",
+   "supports": "检索可见山东件重4.6千克、长32.7宽34.5厘米，因页面编码错误未直开全文；不据此推断修复过程"
+  },
+  "b35-shandong-study": {
+   "id": "b35-shandong-study",
+   "title": "益都苏埠屯亚丑族商代大墓的几点思考",
+   "institution": "王恩田，中央研究院历史语言研究所《金玉交辉》论文集2013年；复旦大学出土文献与古文字研究中心全文刊载",
+   "url": "https://www.fdgwz.org.cn/Web/Show/2543",
+   "checkedAt": "2026-09-29",
+   "retrieval": "full-text",
+   "kind": "formal-archaeology-interpretation",
+   "supports": "据山东馆1972原报告转述北墓道口两把人面钺，其中一件正反合计四枚亚丑族徽；原报告书目可核，但九侯/鬼侯等身份比附为作者争议性推论，不可当墓主事实"
+  },
+  "b35-shandong-distinction": {
+   "id": "b35-shandong-distinction",
+   "title": "国博镂空人面纹钺赴辽宁省博物馆展出",
+   "institution": "文化和旅游部转载中国国家博物馆2026年展讯",
+   "url": "https://www.mct.gov.cn/whzx/zsdw/zggjbwg/202608/t20260807_966801.html",
+   "checkedAt": "2026-09-29",
+   "retrieval": "full-text",
+   "kind": "official-two-object-exhibition-notice",
+   "supports": "明确国博镂空人面纹钺与山东博物馆亚醜钺为两个不同馆藏，展讯约定两件并展；不能互借尺寸、铭文或修复史"
+  }
+ }
+}

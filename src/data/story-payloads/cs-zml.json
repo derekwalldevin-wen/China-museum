@@ -1,0 +1,144 @@
+{
+ "story": {
+  "id": "cs-zml",
+  "hook": "一口受损古井，怎样留下十万余枚普通人的记录？",
+  "summary": "1996年长沙走马楼J22古井出土十万余枚孙吴简牍，含户籍、田地与仓储文书。14万、17万是早期估数；发掘、逐层整理和保护决定今天怎样读这些记录。",
+  "summaryRefs": [
+   "b9-wu-discovery",
+   "b9-wu-ledger",
+   "b9-wu-method"
+  ],
+  "sections": [
+   {
+    "title": "古井被施工切开之后",
+    "text": "【出土事实】长沙简牍博物馆采访当年的考古队员李鄂权：1996年走马楼工地清理多口古井，J22号井已被施工损坏近半，工作人员分区、逐层记录，并在被运走的淤泥中继续寻找残简。馆方回忆中出现过14万、17万等早期估数，正式导览宜称‘十万余枚’，不把临场数字写成逐枚点清后的定值。这不是一座一夜完整打开的文书仓库；现场受损和后续抢救，正是它的考古史的一部分。孩子可想：若不知道一枚简出自哪一层，读它时会失去什么线索？",
+    "refs": [
+     "b9-wu-discovery",
+     "b9-wu-method"
+    ]
+   },
+   {
+    "title": "户籍与田地契券，让无名者有了位置",
+    "text": "【器物事实】馆方分别介绍了J22号井的户籍竹简和‘嘉禾吏民田家莂’大木简：前者按家庭登记成员、年龄、身体和税役，后者以可剖分的杉木券书记录田地租佃、交纳钱粮布帛，边缘还留有系绳契口。这些不是《三国志》里的英雄传记，而是行政工作生成的资料。由此能研究孙吴的基层管理，却不能说‘完整保存所有普通人的生活’：档案首先记录官府想知道的事项，未被登记的情感和日常劳动仍常常沉默。",
+    "refs": [
+     "b9-wu-register",
+     "b9-wu-ledger"
+    ]
+   },
+   {
+    "title": "简为什么不能按书页一张张翻",
+    "text": "【整理研究】宋少华在长沙简牍博物馆公开的整理回顾中写，发掘与整理团队须记录位置、层位和揭剥关系，再辨认简文的类别与关联；到2018年，原拟十二卷的整理成果已出版七卷。同样格式的户籍或账目可能出自不同册，不能只因内容相近便排成一卷。每张揭剥图、每个出土位置，都为重新理解原来的文书组合提供证据，但井中简册先前已经散乱变形，不保证能一一恢复原册顺序。研究史在这里不是‘发现以后就读懂’，而是持续的拼图。",
+    "refs": [
+     "b9-wu-method",
+     "b9-wu-discovery"
+    ]
+   },
+   {
+    "title": "墨迹离开湿井，保护才刚开始",
+    "text": "【现代保护】长沙简牍博物馆采访研究员宋少华：井中地下水、泥土和微生物使简面发黑、材质脆弱，骤然脱水会导致变形。2003年保护项目立项，2015年接受专家验收，后续仍有收尾。馆方另有具体方案与方法研究，但不能说全批简采用同一脱色、脱水工序，更不能把某件大木简的加固过程套给所有户籍简。今日展厅里可读的文字，依赖现场记录、清理、释字和长期保存；每一步都可能影响我们能提出的问题。",
+    "refs": [
+     "b9-wu-protection",
+     "b9-wu-method"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "J22号古井",
+    "text": "1996年发掘，部分井体已遭施工破坏。",
+    "refs": [
+     "b9-wu-discovery"
+    ]
+   },
+   {
+    "title": "‘莂’的契口",
+    "text": "杉木大简上的契口用于编连、核对租佃与赋税文书。",
+    "refs": [
+     "b9-wu-ledger"
+    ]
+   },
+   {
+    "title": "十万余枚",
+    "text": "馆方采用十万余枚，14万和17万属于早期现场估数。",
+    "refs": [
+     "b9-wu-discovery",
+     "b9-wu-method"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "户籍简写了年龄和税役，是否就等于我们知道每个人的一生？",
+   "answer": "不是。它记录官府需要的项目；其他生活经验未必进入档案。要把可读的行政文字和对生活的推想分开。",
+   "refs": [
+    "b9-wu-register",
+    "b9-wu-ledger"
+   ]
+  },
+  "uncertainty": "本轮未核J22原始发掘报告全文、整批最终精确件数或逐简修复工单；‘为什么弃置古井’以及每卷原始次序不可凭一个馆方科普页定论。",
+  "correction": "撤去固定‘14万余枚’与‘完整保存基层社会’的夸大句，改用馆方十万余枚及发掘受损、逐层整理的真实过程。",
+  "related": [
+   {
+    "id": "sd-szb",
+    "reason": "比较两种简牍的阅读障碍：银雀山兵书重在篇章与版本，走马楼档案重在层位与行政表格；不暗示两批简同源。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "hub-qj",
+    "reason": "秦律简写制度条目，孙吴户籍简写制度如何落到家庭名册；对读材料类型与时代差异，而非说同一法条延续。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "b9-wu-discovery": {
+   "id": "b9-wu-discovery",
+   "title": "走马楼吴简的发现和发掘（一）",
+   "institution": "长沙简牍博物馆，采访李鄂权",
+   "url": "https://www.chinajiandu.cn/News/Details/zhshkp?nid=1219",
+   "checkedAt": "2026-09-27",
+   "retrieval": "full-text",
+   "kind": "museum-excavator-interview",
+   "supports": "1996年J22井、十万余枚、现场遭施工破坏、分区逐层清理及淤泥寻残片；早期14万和17万是采访回忆中的不同估算"
+  },
+  "b9-wu-ledger": {
+   "id": "b9-wu-ledger",
+   "title": "[三国]吴简大木简",
+   "institution": "长沙简牍博物馆",
+   "url": "https://www.chinajiandu.cn/Collection/Details/wj?nid=241",
+   "checkedAt": "2026-09-27",
+   "retrieval": "full-text",
+   "kind": "museum",
+   "supports": "J22出土嘉禾吏民田家莂杉木券书，记田地租佃及钱粮布帛，保存裂分与系绳契口"
+  },
+  "b9-wu-method": {
+   "id": "b9-wu-method",
+   "title": "关于长沙走马楼吴简前期整理方法的观察与思考",
+   "institution": "宋少华，长沙简牍博物馆",
+   "url": "https://www.chinajiandu.cn/News/Details/xsyj?nid=526",
+   "checkedAt": "2026-09-27",
+   "retrieval": "full-text",
+   "kind": "museum-research",
+   "supports": "十余万枚的整理，1997—2003年逐层揭剥、层位与分布记录，2018年已刊七卷；不能由此断言每简原册顺序已完全复原"
+  },
+  "b9-wu-register": {
+   "id": "b9-wu-register",
+   "title": "[三国孙吴]户籍竹简",
+   "institution": "长沙简牍博物馆",
+   "url": "https://www.chinajiandu.cn/Collection/Details/wj?nid=244",
+   "checkedAt": "2026-09-27",
+   "retrieval": "full-text",
+   "kind": "museum",
+   "supports": "J22户籍简以家庭登记户主、成员、年龄、身体状况与税役事项"
+  },
+  "b9-wu-protection": {
+   "id": "b9-wu-protection",
+   "title": "走马楼吴简的整理和保护（一）",
+   "institution": "长沙简牍博物馆，采访宋少华",
+   "url": "https://www.chinajiandu.cn/News/Details/zhshkp?nid=1221",
+   "checkedAt": "2026-09-27",
+   "retrieval": "full-text",
+   "kind": "museum-conservator-interview",
+   "supports": "出土饱水、泥污和脱水变形风险；2003年保护项目立项、2015年专家验收并仍有收尾"
+  }
+ }
+}

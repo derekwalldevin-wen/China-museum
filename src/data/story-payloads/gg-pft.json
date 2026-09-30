@@ -1,0 +1,258 @@
+{
+ "story": {
+  "id": "gg-pft",
+  "hook": "一封关心朋友的短信，为什么会被保存这么久？",
+  "summary": "《平复帖》是西晋陆机的草隶书手札。故宫馆藏说明记为9行86字，涉及友人的病况、举止与消息。它既是重要书法遗存，也是了解古人日常关切的一扇窗；张伯驹、潘素夫妇于1956年将其捐献国家。",
+  "summaryRefs": [
+   "pf"
+  ],
+  "sections": [
+   {
+    "title": "病中的“彦先”，是谁",
+    "text": "《平复帖》开头关心“彦先”的疾病，后文还谈吴子杨、夏伯荣等人的举止与音讯。故宫展览解说指出“恐难平复”四字是今天帖名的来由；帖名可以帮助我们记住这份关心，却不等于陆机在信纸上写下作品标题。故宫藏品页依据启功释文把“彦先”解释为贺循；刊于故宫的研究札记则提醒，顾荣、贺循等人同用“彦先”之字，身份和由此推及的作者问题仍有讨论。可以把“信中有人病了”当文本线索，把“他一定就是贺循”当一种研究释读，而非信纸自报全名。亲子读者不妨问：一封短札怎样留下关心，又怎样留下不能确定的人名？",
+    "refs": [
+     "pf",
+     "pf-rest-display",
+     "pf-identity-debate"
+    ]
+   },
+   {
+    "title": "九行字为什么仍需谨慎释读",
+    "text": "故宫馆藏页记草隶九行八十六字，指出它以秃笔写在麻纸上，并采用启功释文。书体、纸张与现存笔画是研究书法和文字变迁的材料；我们却没有陆机关于纸料配方、造纸地、制笔或书写准备的工作笔记。《故宫学刊》研究用《平复帖》较灰暗的墨色讨论书画目鉴，作者认为年代久远和当时制墨水平都可能相关，并提醒材料、印章、装潢只是鉴定的辅助证据。这是研究者的比较判断，不是该帖墨锭成分的实验报告，更不能由屏幕图像自行测出配方。2018年故宫专题展的简介又采用九行八十四字的口径，提示字数统计与释读并非所有出版物一致。本页保留馆藏页的八十六字，同时在资料层标明差异，不凭AI图认字，也不把一种现代释文伪装成原纸上每个字都清晰无疑。",
+    "refs": [
+     "pf",
+     "pf-material-study",
+     "pf-rest-display"
+    ]
+   },
+   {
+    "title": "尾纸题跋如何让传世过程可追问",
+    "text": "这不是考古出土品，没有某年某墓的‘发现现场’。故宫馆藏页依据董其昌、溥伟、傅增湘、赵椿年等尾纸题跋及旧著录梳理递藏，从宋内府到明清收藏，再到张伯驹购得。故宫讲坛研究人员还把其中一段放回寿康宫：此帖曾作为崇庆皇太后的遗念赏赐皇孙永瑆；馆藏页也记乾隆内府后转归成亲王永瑆。讲坛是今天对宫廷收藏的研究解说，不是公开的赏赐原档；寿康宫是传藏线索，不能把它想象成陆机书信的写作地点。题跋是后世加在作品周边的证据，不是陆机写信时就有的内容；各段递藏也未必能逐日排成无缺年表。1956年张伯驹、潘素夫妇将《平复帖》等八件法书无偿捐献国家；故宫院史编年另记当年接收文物局拨交的十四件珍贵书画，其中包括这八件。捐献与入藏是不同环节。",
+    "refs": [
+     "pf",
+     "pf-shoukang-lecture",
+     "pf-donation",
+     "pf-1956-accession"
+    ]
+   },
+   {
+    "title": "装潢线索、修裱转引与休眠展陈",
+    "text": "故宫2022年专题图录说明卷前有宋徽宗瘦金书题签，并保存宣和装形式；题签、装潢与西晋原信纸属于不同层次，不能把卷首题签当陆机亲写。《西泠艺丛》论文转引故宫文保档案WB-00178，称1947年修复采用仿宋宣和式单裱、浙江棉纸单层托裱；本站只核到论文检索片段，未读档案原件或论文全文，也未核宣和装形式与1947年处理之间每一层材料的先后关系，不应把术语写成已验证的完整工单。故宫正式刊物的可检索正文又将《平复帖》列入1960年11月至1963年12月间的照相复制作品；这是复制传播的时间区间，不是本帖确切复制日，更不是原帖修复日期。2018年故宫在张伯驹捐献书画展中因原件处于保护休眠期，改用复制品展出；故宫较新的捐献主题展列表同样明确在《平复帖》展签后写“复制品”。展出复制件是保护与传播的选择，不代表原帖遗失或内容被改写；今天的数字观看也不能替代纸张状态检查。故宫1956年接收记录可核公共入藏，具体每一次保护处理仍待逐件档案。",
+    "refs": [
+     "pf-2022-catalogue",
+     "pf-conservation-study",
+     "pf-photo-reproduction",
+     "pf-rest-display",
+     "pf-donation-exhibit-replica",
+     "pf-1956-accession"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "彦先是谁",
+    "text": "馆藏页随启功释文指向贺循；故宫研究还讨论顾荣、全彦先等识别。‘彦先’不是纸上写明的全名，身份与作者讨论也不能靠猜一个字来终结。",
+    "refs": [
+     "pf",
+     "pf-identity-debate"
+    ]
+   },
+   {
+    "title": "84与86字",
+    "text": "本页采用故宫馆藏页86字，2018年故宫展讯用84字；口径不同应并列说明，不擅自抹去。",
+    "refs": [
+     "pf",
+     "pf-rest-display"
+    ]
+   },
+   {
+    "title": "复制品展出",
+    "text": "2018年因原件保护休眠期展示复制品；复制品不应标作原帖，也不是原件修复记录。",
+    "refs": [
+     "pf-rest-display"
+    ]
+   },
+   {
+    "title": "尾纸不是西晋信纸",
+    "text": "故宫逐件页说明，尾纸位于后隔水之后，既增大手卷轴心以保护画心，也容纳后人题跋；宋徽宗题签和宣和装潢又属后世传藏层。1947年单裱细节仅见研究转引，原档未核，不能拼成完整修裱履历。",
+    "refs": [
+     "pf",
+     "pf-2022-catalogue",
+     "pf-conservation-study"
+    ]
+   },
+   {
+    "title": "三种‘保存’不是一回事",
+    "text": "1947年单裱只见研究转引档案，1960—1963年照相复制只知项目时段，2018年复制品出展则有故宫展讯；修裱、拍摄与以复制件代展是三个不同动作，均不能由本站AI图判读纸张现状。",
+    "refs": [
+     "pf-conservation-study",
+     "pf-photo-reproduction",
+     "pf-rest-display"
+    ]
+   },
+   {
+    "title": "作者讨论不是改定结论",
+    "text": "故宫一篇讨论另一件章草《出师颂》的文章，提及有人据《平复帖》文字与陆机时代背景的关系质疑传统归属。这证明学界有争论，并不提供《平复帖》改定作者的决定性证据；本站仍依故宫登记标作陆机，提醒读者把馆藏定名和研究异说分开。",
+    "refs": [
+     "pf",
+     "pf-authorship-context",
+     "pf-identity-debate"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "两份故宫资料分别记84字和86字，应该把其中一份悄悄删掉吗？",
+   "answer": "不应。先标明出处和计数口径，再看可靠释文；资料不完全一致本身就是继续研究的线索。",
+   "refs": [
+    "pf",
+    "pf-rest-display"
+   ]
+  },
+  "uncertainty": "‘彦先’身份与陆机归属在研究中存在讨论，本页沿用故宫馆藏登记而不宣称争论结束；馆藏页86字与2018展讯84字不同。墨色比较只是目鉴研究，不是材料成分检测。1947年修复细节仅见论文检索片段转引档案，未见论文及档案全文；不照AI图认字。",
+  "correction": "不再把贺循身份写成信纸直接明示；将84与86字口径并列，把墨色判断标为研究解释，区分1956年捐献与故宫接收、1947年文献转引及2018年复制展示。",
+  "related": [
+   {
+    "id": "sh-syt",
+    "reason": "《平复帖》是故宫登记的西晋传世纸本，卷首宋代题签属后加装潢；《丧乱帖》现存为唐人摹写。比较原信、题签和摹本各自保存了什么，不只按作者名气给材料排真假。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "jl-efj",
+    "reason": "《平复帖》是关切友人的短札，《洞庭春色赋》卷则合写二赋；先分别找书写年代、文本写作年代和今天保存的纸面，再比较不同文本如何记录人生，不把内容误作完整生平。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sh-dkd",
+    "reason": "把《平复帖》的题跋、1956年公共入藏，与大克鼎的出土年代重估及潘达于1951年捐赠对照：比较传世书札和出土青铜器的发现方式、递藏证据与保护需求，不假定收藏者相识。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "lb-gf",
+    "reason": "比较西晋传世书札的后加题签和宋摹唐代绘画的多层摹本：两者都要求区分作者时代、现存材料与后世展示，不因此推断两件作品的传藏有交集。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "pf": {
+   "id": "pf",
+   "title": "陆机草隶书平复帖卷",
+   "institution": "故宫博物院",
+   "url": "https://www.dpm.org.cn/collection/handwriting/234553.html",
+   "checkedAt": "2026-09-29",
+   "retrieval": "full-text",
+   "kind": "museum",
+   "supports": "新00044430、西晋陆机、9行86字、启功释文、草隶麻纸、张氏夫妇1956年捐献；馆方定义尾纸兼有增大卷轴轴心、保护画心和容纳题跋的作用"
+  },
+  "pf-rest-display": {
+   "id": "pf-rest-display",
+   "title": "张伯驹捐献书画精品展与平复帖休眠期",
+   "institution": "故宫博物院",
+   "url": "https://www.dpm.org.cn/show/246487.html",
+   "checkedAt": "2026-09-26",
+   "retrieval": "search-text",
+   "kind": "museum-feature",
+   "supports": "2018年展览因保护休眠期以复制品替代《平复帖》原作；展讯记84字，与馆藏页86字口径不同，不能把复制展示或字数差异写作原件已更改"
+  },
+  "pf-identity-debate": {
+   "id": "pf-identity-debate",
+   "title": "《平复帖》种种：彦先身份与作者讨论",
+   "institution": "故宫博物院《紫禁城》刊载研究札记",
+   "url": "https://www.dpm.org.cn/Uploads/File/pdf/af/34/82/af3482625bcdb7bed533d403b7ffe766.pdf",
+   "checkedAt": "2026-09-26",
+   "retrieval": "search-text",
+   "kind": "museum-research",
+   "supports": "介绍顾荣、贺循、全彦先等释读分歧及据彦先反推作者的争论；是研究意见，不推翻馆藏登记中的陆机归属"
+  },
+  "pf-material-study": {
+   "id": "pf-material-study",
+   "title": "书画鉴定中目鉴方法的内容构成",
+   "institution": "杨帆，《故宫学刊》2012年研究文章",
+   "url": "https://www.dpm.org.cn/Uploads/File/2020/02/13/u5e45253ca7e26.pdf",
+   "checkedAt": "2026-09-27",
+   "retrieval": "full-text",
+   "kind": "formal-research",
+   "supports": "论文第13页以《平复帖》墨色较灰暗为例，提出年代与当时制墨水平可能相关，同时强调材料、印章、装潢均是鉴定辅助证据；是研究解释，不是原帖的成分检测报告"
+  },
+  "pf-shoukang-lecture": {
+   "id": "pf-shoukang-lecture",
+   "title": "万岁千秋奉寿康——崇庆皇太后与寿康宫（故宫讲坛）",
+   "institution": "故宫博物院宫廷部研究馆员林姝",
+   "url": "https://www.dpm.org.cn/gugongforum/detail/236357.html",
+   "checkedAt": "2026-09-27",
+   "retrieval": "full-text",
+   "kind": "museum-research",
+   "supports": "故宫讲坛提纲称《平复帖》为崇庆皇太后遗念，后赏赐皇孙永瑆；是馆方研究解说，非赏赐原档全文"
+  },
+  "pf-donation": {
+   "id": "pf-donation",
+   "title": "纪念张伯驹先生诞辰115周年——张伯驹潘素书画展",
+   "institution": "故宫博物院",
+   "url": "https://www.dpm.org.cn/show/226190.html",
+   "checkedAt": "2026-09-25",
+   "retrieval": "search-text",
+   "kind": "museum-feature",
+   "supports": "张伯驹、潘素夫妇1956年将《平复帖》等八件书法无偿捐献国家；用于公共收藏史，不替代作品本体鉴定"
+  },
+  "pf-1956-accession": {
+   "id": "pf-1956-accession",
+   "title": "故宫院史编年：1956年的文物入藏",
+   "institution": "故宫博物院",
+   "url": "https://www.dpm.org.cn/classify_detail/157812.html",
+   "checkedAt": "2026-09-26",
+   "retrieval": "full-text",
+   "kind": "museum-archive",
+   "supports": "故宫当年接收文物局拨交的《平复帖》等珍贵书画14件，其中包括张伯驹捐献的8件；区分捐献国家与故宫接收的行政过程"
+  },
+  "pf-2022-catalogue": {
+   "id": "pf-2022-catalogue",
+   "title": "晋陆机《平复帖》卷专题图录说明",
+   "institution": "故宫博物院《紫禁城》2022年第11期",
+   "url": "https://www.dpm.org.cn/Uploads/File/2022/12/05/u638dad1534ab5.pdf",
+   "checkedAt": "2026-09-27",
+   "retrieval": "search-text",
+   "kind": "museum-research",
+   "supports": "专题说明卷前宋徽宗瘦金书题签及保存宣和装形式；是传世与装潢研究线索，不等于西晋原始装裱或本件逐次修复档案"
+  },
+  "pf-conservation-study": {
+   "id": "pf-conservation-study",
+   "title": "《平复帖》1947年修复记录的研究引用",
+   "institution": "《西泠艺丛》论文（引述故宫博物院文保档案WB-00178）",
+   "url": "https://www.xlys.org.cn/wenku/www/202507/15092740iuze.pdf",
+   "checkedAt": "2026-09-25",
+   "retrieval": "search-text",
+   "kind": "formal-research",
+   "supports": "论文据故宫文保档案WB-00178记述1947年《平复帖》采用仿宋宣和式单裱、浙江棉纸单层托裱；此为论文转引档案，当前没有直接公开该档案全文"
+  },
+  "pf-photo-reproduction": {
+   "id": "pf-photo-reproduction",
+   "title": "故宫博物院照相复制古书画技术发展始末",
+   "institution": "故宫博物院《紫禁城》",
+   "url": "https://www.dpm.org.cn/Uploads/File/2023/01/03/u63b3a1cd318e5.pdf",
+   "checkedAt": "2026-09-27",
+   "retrieval": "search-text",
+   "kind": "museum-research",
+   "supports": "可检索正文将《平复帖》列为1960年11月至1963年12月间故宫以照相复制法完成的作品之一；只证明复制项目，不给出本帖单独完成日期或原件修裱记录"
+  },
+  "pf-donation-exhibit-replica": {
+   "id": "pf-donation-exhibit-replica",
+   "title": "故宫捐献专题展展品列表",
+   "institution": "故宫博物院展览资料",
+   "url": "https://ggzl.dpm.org.cn/app/api/app/exhibitionListPc/690",
+   "checkedAt": "2026-09-27",
+   "retrieval": "full-text",
+   "kind": "museum-feature",
+   "supports": "展品清单明确标作陆机草隶书平复帖卷（复制品）；与2018年休眠期复制展示同属当代传播，不能称原件出展"
+  },
+  "pf-authorship-context": {
+   "id": "pf-authorship-context",
+   "title": "章草书《出师颂》辨析",
+   "institution": "故宫博物院学术研究",
+   "url": "https://www.dpm.org.cn/study_detail/98474.html",
+   "checkedAt": "2026-09-29",
+   "retrieval": "full-text",
+   "kind": "museum-research",
+   "supports": "文章以另一件《出师颂》讨论早期书法断代，并提及学界有人据《平复帖》内容质疑陆机作者归属；这是研究分歧的存在证据，不是《平复帖》已经改定作者的证明"
+  }
+ }
+}
