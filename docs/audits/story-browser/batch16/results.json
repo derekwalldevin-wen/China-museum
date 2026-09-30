@@ -1,0 +1,20 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "passed": 14,
+  "checks": [
+    "desktop:tp-cyb direct URL, layers, source, filters, viewport",
+    "desktop:tp-rxs direct URL, layers, source, filters, viewport",
+    "desktop:tp-rsp direct URL, layers, source, filters, viewport",
+    "desktop:tp-kxs direct URL, layers, source, filters, viewport",
+    "desktop:hub-sat direct URL, layers, source, filters, viewport",
+    "desktop:qz-hzc direct URL, layers, source, filters, viewport",
+    "desktop:related navigation and back restore filters + reading position",
+    "mobile:tp-cyb direct URL, layers, source, filters, viewport",
+    "mobile:tp-rxs direct URL, layers, source, filters, viewport",
+    "mobile:tp-rsp direct URL, layers, source, filters, viewport",
+    "mobile:tp-kxs direct URL, layers, source, filters, viewport",
+    "mobile:hub-sat direct URL, layers, source, filters, viewport",
+    "mobile:qz-hzc direct URL, layers, source, filters, viewport",
+    "mobile:related navigation and back restore filters + reading position"
+  ]
+}

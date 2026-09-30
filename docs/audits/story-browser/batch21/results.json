@@ -1,0 +1,14 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "passed": 8,
+  "checks": [
+    "desktop:dh-swk direct URL, source, filters and viewport",
+    "desktop:sxl-yjb direct URL, source, filters and viewport",
+    "desktop:sxl-ptxn direct URL, source, filters and viewport",
+    "desktop: related jump and history back restore filters and reading position",
+    "mobile:dh-swk direct URL, source, filters and viewport",
+    "mobile:sxl-yjb direct URL, source, filters and viewport",
+    "mobile:sxl-ptxn direct URL, source, filters and viewport",
+    "mobile: related jump and history back restore filters and reading position"
+  ]
+}

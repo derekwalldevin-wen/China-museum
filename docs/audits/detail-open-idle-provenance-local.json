@@ -1,0 +1,151 @@
+{
+  "label": "idle-provenance-local",
+  "baseUrl": "http://127.0.0.1:4173/",
+  "measuredAt": "2026-09-16T02:14:58.927Z",
+  "scenarios": [
+    {
+      "scenario": "desktop-ordinary",
+      "device": "desktop",
+      "artifactId": "gg-gzdc",
+      "weak": false,
+      "idleProvenanceReadyBeforeIntent": true,
+      "initialCardRequests": 4,
+      "intentToClickMs": 329.4000000357628,
+      "clickToDialogMs": 137.39999997615814,
+      "clickToImageDecodedMs": 186.30000001192093,
+      "clickToScrollReadyMs": null,
+      "intentToImageDecodedMs": 515.7000000476837,
+      "detailRequests": [
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/ceb7d27ef26bc7b5-detail-w1122.webp",
+          "startTime": 3239.7000000476837,
+          "responseEnd": 3258.400000035763,
+          "duration": 18.69999998807907,
+          "bytes": 170734,
+          "startFromIntentMs": 186.70000004768372,
+          "startFromClickMs": -142.69999998807907
+        }
+      ]
+    },
+    {
+      "scenario": "desktop-scroll",
+      "device": "desktop",
+      "artifactId": "gg-qmsh",
+      "weak": false,
+      "idleProvenanceReadyBeforeIntent": true,
+      "initialCardRequests": 4,
+      "intentToClickMs": 301.4000000357628,
+      "clickToDialogMs": 321.69999998807907,
+      "clickToImageDecodedMs": 337.19999998807907,
+      "clickToScrollReadyMs": 390.39999997615814,
+      "intentToImageDecodedMs": 638.6000000238419,
+      "detailRequests": [
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/7eff9b37c36f3348-scroll-detail-w900.webp",
+          "startTime": 2539.399999976158,
+          "responseEnd": 2562.699999988079,
+          "duration": 23.30000001192093,
+          "bytes": 13714,
+          "startFromIntentMs": 186.19999998807907,
+          "startFromClickMs": -115.20000004768372
+        }
+      ]
+    },
+    {
+      "scenario": "mobile-ordinary",
+      "device": "mobile",
+      "artifactId": "gg-gzdc",
+      "weak": false,
+      "idleProvenanceReadyBeforeIntent": true,
+      "initialCardRequests": 2,
+      "intentToClickMs": 107.60000002384186,
+      "clickToDialogMs": 126.59999996423721,
+      "clickToImageDecodedMs": 176,
+      "clickToScrollReadyMs": null,
+      "intentToImageDecodedMs": 283.60000002384186,
+      "detailRequests": [
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/ceb7d27ef26bc7b5-detail-w800.webp",
+          "startTime": 2214.300000011921,
+          "responseEnd": 2223.100000023842,
+          "duration": 8.800000011920929,
+          "bytes": 102148,
+          "startFromIntentMs": 20.100000023841858,
+          "startFromClickMs": -87.5
+        }
+      ]
+    },
+    {
+      "scenario": "mobile-scroll",
+      "device": "mobile",
+      "artifactId": "gg-qmsh",
+      "weak": false,
+      "idleProvenanceReadyBeforeIntent": true,
+      "initialCardRequests": 2,
+      "intentToClickMs": 120.59999996423721,
+      "clickToDialogMs": 129.19999998807907,
+      "clickToImageDecodedMs": 138.4000000357628,
+      "clickToScrollReadyMs": 154.4000000357628,
+      "intentToImageDecodedMs": 259,
+      "detailRequests": [
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/7eff9b37c36f3348-scroll-detail-w900.webp",
+          "startTime": 1975.199999988079,
+          "responseEnd": 1990,
+          "duration": 14.800000011920929,
+          "bytes": 13714,
+          "startFromIntentMs": 34.19999998807907,
+          "startFromClickMs": -86.39999997615814
+        }
+      ]
+    },
+    {
+      "scenario": "mobile-ordinary-weak",
+      "device": "mobile",
+      "artifactId": "gg-gzdc",
+      "weak": true,
+      "idleProvenanceReadyBeforeIntent": true,
+      "initialCardRequests": 2,
+      "intentToClickMs": 97,
+      "clickToDialogMs": 369.7000000476837,
+      "clickToImageDecodedMs": 37593.80000001192,
+      "clickToScrollReadyMs": null,
+      "intentToImageDecodedMs": 37690.80000001192,
+      "detailRequests": [
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/ceb7d27ef26bc7b5-detail-w800.webp",
+          "startTime": 60877.5,
+          "responseEnd": 98505.69999998808,
+          "duration": 37628.19999998808,
+          "bytes": 102148,
+          "startFromIntentMs": 29.600000023841858,
+          "startFromClickMs": -67.39999997615814
+        }
+      ]
+    },
+    {
+      "scenario": "mobile-scroll-weak",
+      "device": "mobile",
+      "artifactId": "gg-qmsh",
+      "weak": true,
+      "idleProvenanceReadyBeforeIntent": true,
+      "initialCardRequests": 2,
+      "intentToClickMs": 106.30000001192093,
+      "clickToDialogMs": 783.6999999880791,
+      "clickToImageDecodedMs": 15521.199999988079,
+      "clickToScrollReadyMs": 15541.699999988079,
+      "intentToImageDecodedMs": 15627.5,
+      "detailRequests": [
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/7eff9b37c36f3348-scroll-detail-w900.webp",
+          "startTime": 57970.89999997616,
+          "responseEnd": 73530.59999996424,
+          "duration": 15559.699999988079,
+          "bytes": 13714,
+          "startFromIntentMs": 23.19999998807907,
+          "startFromClickMs": -83.10000002384186
+        }
+      ]
+    }
+  ]
+}

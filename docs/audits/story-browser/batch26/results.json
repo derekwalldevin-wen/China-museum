@@ -1,0 +1,10 @@
+{
+  "base": "http://127.0.0.1:4176/",
+  "passed": 4,
+  "checks": [
+    "desktop: legacy Yunnan URL recovers the National Museum object and keeps filters",
+    "desktop: National Museum story, paragraph evidence, citations and viewport",
+    "mobile: legacy Yunnan URL recovers the National Museum object and keeps filters",
+    "mobile: National Museum story, paragraph evidence, citations and viewport"
+  ]
+}

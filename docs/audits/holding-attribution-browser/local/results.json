@@ -1,0 +1,13 @@
+{
+  "baseUrl": "http://127.0.0.1:4176/",
+  "testedAt": "2026-09-29T15:21:13.807Z",
+  "passed": 6,
+  "checks": [
+    "desktop: direct detail uses the verified holder and separates past exhibition",
+    "desktop: museum card carries holder and exhibition uncertainty",
+    "desktop: nationwide filters preserve the correct holder and province",
+    "mobile: direct detail uses the verified holder and separates past exhibition",
+    "mobile: museum card carries holder and exhibition uncertainty",
+    "mobile: nationwide filters preserve the correct holder and province"
+  ]
+}

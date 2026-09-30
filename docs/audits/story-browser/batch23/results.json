@@ -1,0 +1,12 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "passed": 6,
+  "checks": [
+    "desktop:dz-zlj direct URL, source, filters and viewport",
+    "desktop:dz-mnt direct URL, source, filters and viewport",
+    "desktop: related jump, history back, filters and reading position",
+    "mobile:dz-zlj direct URL, source, filters and viewport",
+    "mobile:dz-mnt direct URL, source, filters and viewport",
+    "mobile: related jump, history back, filters and reading position"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "passed": 10,
+  "checks": [
+    "desktop:nb-wgj direct URL, source, filters and viewport",
+    "desktop:nb-yrjd direct URL, source, filters and viewport",
+    "desktop:nb-hyz direct URL, source, filters and viewport",
+    "desktop:nb-htb direct URL, source, filters and viewport",
+    "desktop: related jump, history back, filters and reading position",
+    "mobile:nb-wgj direct URL, source, filters and viewport",
+    "mobile:nb-yrjd direct URL, source, filters and viewport",
+    "mobile:nb-hyz direct URL, source, filters and viewport",
+    "mobile:nb-htb direct URL, source, filters and viewport",
+    "mobile: related jump, history back, filters and reading position"
+  ]
+}

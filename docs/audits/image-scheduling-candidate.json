@@ -1,0 +1,187 @@
+{
+  "baseUrl": "http://127.0.0.1:4173/",
+  "measuredAt": "2026-09-15T15:04:22.809Z",
+  "note": "Museum gallery above-the-fold artifact image traffic with browser cache disabled.",
+  "scenarios": [
+    {
+      "label": "desktop",
+      "url": "http://127.0.0.1:4173/?province=%E5%8C%97%E4%BA%AC%E5%B8%82&museum=gugong",
+      "viewport": {
+        "width": 1440,
+        "height": 960,
+        "devicePixelRatio": 1
+      },
+      "requestCount": 4,
+      "transferredBytes": 72092,
+      "maximumSingleImageBytes": 24164,
+      "entries": [
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/7027f9da6e7ab26f-card-w400.webp",
+          "transferSize": 20104,
+          "encodedBodySize": 19804,
+          "decodedBodySize": 19804,
+          "startTime": 5027.199999988079,
+          "responseEnd": 5098.199999988079,
+          "duration": 71
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+          "transferSize": 17636,
+          "encodedBodySize": 17336,
+          "decodedBodySize": 17336,
+          "startTime": 5027.300000011921,
+          "responseEnd": 5115.899999976158,
+          "duration": 88.59999996423721
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/0e52e33eb514adae-card-w400.webp",
+          "transferSize": 11088,
+          "encodedBodySize": 10788,
+          "decodedBodySize": 10788,
+          "startTime": 5027.599999964237,
+          "responseEnd": 5089.599999964237,
+          "duration": 62
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/ceb7d27ef26bc7b5-card-w400.webp",
+          "transferSize": 24464,
+          "encodedBodySize": 24164,
+          "decodedBodySize": 24164,
+          "startTime": 5027.699999988079,
+          "responseEnd": 5099.699999988079,
+          "duration": 72
+        }
+      ],
+      "visibleImages": [
+        {
+          "src": "http://127.0.0.1:4173/artifact-responsive/7027f9da6e7ab26f-card-w400.webp",
+          "width": 280,
+          "height": 350
+        },
+        {
+          "src": "http://127.0.0.1:4173/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+          "width": 280,
+          "height": 350
+        },
+        {
+          "src": "http://127.0.0.1:4173/artifact-responsive/0e52e33eb514adae-card-w400.webp",
+          "width": 280,
+          "height": 350
+        },
+        {
+          "src": "http://127.0.0.1:4173/artifact-responsive/ceb7d27ef26bc7b5-card-w400.webp",
+          "width": 280,
+          "height": 350
+        }
+      ],
+      "cardImages": [
+        {
+          "index": 0,
+          "originalSrc": "/artifacts-v2/p1/gg-qmsh.png",
+          "currentSrc": "http://127.0.0.1:4173/artifact-responsive/7027f9da6e7ab26f-card-w400.webp",
+          "top": 254,
+          "bottom": 563,
+          "visible": true,
+          "complete": true,
+          "naturalWidth": 280
+        },
+        {
+          "index": 1,
+          "originalSrc": "/artifacts-v2/p1/gg-qljs.png",
+          "currentSrc": "http://127.0.0.1:4173/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+          "top": 254,
+          "bottom": 563,
+          "visible": true,
+          "complete": true,
+          "naturalWidth": 280
+        },
+        {
+          "index": 2,
+          "originalSrc": "/artifacts-v2/p1/gg-pft.png",
+          "currentSrc": "http://127.0.0.1:4173/artifact-responsive/0e52e33eb514adae-card-w400.webp",
+          "top": 254,
+          "bottom": 563,
+          "visible": true,
+          "complete": true,
+          "naturalWidth": 280
+        },
+        {
+          "index": 3,
+          "originalSrc": "/artifacts-v2/p1/gg-gzdc.png",
+          "currentSrc": "http://127.0.0.1:4173/artifact-responsive/ceb7d27ef26bc7b5-card-w400.webp",
+          "top": 254,
+          "bottom": 563,
+          "visible": true,
+          "complete": true,
+          "naturalWidth": 280
+        }
+      ]
+    },
+    {
+      "label": "mobile",
+      "url": "http://127.0.0.1:4173/?province=%E5%8C%97%E4%BA%AC%E5%B8%82&museum=gugong",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "devicePixelRatio": 2
+      },
+      "requestCount": 2,
+      "transferredBytes": 37140,
+      "maximumSingleImageBytes": 19804,
+      "entries": [
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/7027f9da6e7ab26f-card-w400.webp",
+          "transferSize": 20104,
+          "encodedBodySize": 19804,
+          "decodedBodySize": 19804,
+          "startTime": 2288,
+          "responseEnd": 2319.099999964237,
+          "duration": 31.099999964237213
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+          "transferSize": 17636,
+          "encodedBodySize": 17336,
+          "decodedBodySize": 17336,
+          "startTime": 2288.199999988079,
+          "responseEnd": 2317.899999976158,
+          "duration": 29.69999998807907
+        }
+      ],
+      "visibleImages": [
+        {
+          "src": "http://127.0.0.1:4173/artifact-responsive/7027f9da6e7ab26f-card-w400.webp",
+          "width": 167,
+          "height": 208
+        },
+        {
+          "src": "http://127.0.0.1:4173/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+          "width": 167,
+          "height": 208
+        }
+      ],
+      "cardImages": [
+        {
+          "index": 0,
+          "originalSrc": "/artifacts-v2/p1/gg-qmsh.png",
+          "currentSrc": "http://127.0.0.1:4173/artifact-responsive/7027f9da6e7ab26f-card-w400.webp",
+          "top": 257,
+          "bottom": 672,
+          "visible": true,
+          "complete": true,
+          "naturalWidth": 167
+        },
+        {
+          "index": 1,
+          "originalSrc": "/artifacts-v2/p1/gg-qljs.png",
+          "currentSrc": "http://127.0.0.1:4173/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+          "top": 776,
+          "bottom": 1191,
+          "visible": true,
+          "complete": true,
+          "naturalWidth": 167
+        }
+      ]
+    }
+  ]
+}

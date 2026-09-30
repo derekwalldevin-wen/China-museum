@@ -1,0 +1,18 @@
+{
+  "deployedAt": "2026-09-15T12:51:14.2550276Z",
+  "deploymentUrl": "https://5dfe2530.huaxia-museum-atlas.pages.dev/",
+  "productionUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "entry": {
+    "path": "/assets/index-DgMEjzfA.js",
+    "bytes": 317376,
+    "gzipBytes": 100983,
+    "sha256": "9f3da2aa1c22f20f37cae1bf5d30945bd88f8041379ae4d1da3945b4987ee0be"
+  },
+  "searchCorpus": {
+    "path": "/assets/artifact-search-CxQwAAHR.json",
+    "bytes": 43604,
+    "sha256": "d1f1288122747039b6be235cb37cd947a2e1a818cb3e66c1dd7cc23f4589c781"
+  },
+  "assets": {"checked":73,"matchedLocalSha256":73,"mismatched":0},
+  "verification": {"dataLoading":4,"map":7,"collectionAndDetail":25,"stories":48,"localFailureRecovery":6}
+}

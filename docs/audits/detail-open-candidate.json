@@ -1,0 +1,175 @@
+{
+  "label": "local-candidate",
+  "baseUrl": "http://127.0.0.1:4173/",
+  "measuredAt": "2026-09-16T00:44:03.370Z",
+  "scenarios": [
+    {
+      "scenario": "desktop-ordinary",
+      "device": "desktop",
+      "artifactId": "gg-gzdc",
+      "weak": false,
+      "initialCardRequests": 0,
+      "intentToClickMs": 302.69999998807907,
+      "clickToDialogMs": 282.9000000357628,
+      "clickToImageDecodedMs": 353.30000001192093,
+      "clickToScrollReadyMs": null,
+      "intentToImageDecodedMs": 656,
+      "detailRequests": [
+        {
+          "url": "http://127.0.0.1:4173/data/image-provenance/gugong.json",
+          "startTime": 3517.400000035763,
+          "responseEnd": 3548.699999988079,
+          "duration": 31.299999952316284,
+          "bytes": 2915
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/ceb7d27ef26bc7b5-detail-w1122.webp",
+          "startTime": 3611.300000011921,
+          "responseEnd": 3669.900000035763,
+          "duration": 58.60000002384186,
+          "bytes": 170734
+        }
+      ]
+    },
+    {
+      "scenario": "desktop-scroll",
+      "device": "desktop",
+      "artifactId": "gg-qmsh",
+      "weak": false,
+      "initialCardRequests": 4,
+      "intentToClickMs": 276.30000001192093,
+      "clickToDialogMs": 160,
+      "clickToImageDecodedMs": 169.69999998807907,
+      "clickToScrollReadyMs": 181.60000002384186,
+      "intentToImageDecodedMs": 446,
+      "detailRequests": [
+        {
+          "url": "http://127.0.0.1:4173/data/image-provenance/gugong.json",
+          "startTime": 2066.699999988079,
+          "responseEnd": 2072.600000023842,
+          "duration": 5.900000035762787,
+          "bytes": 2915
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/7eff9b37c36f3348-scroll-detail-w900.webp",
+          "startTime": 2077.300000011921,
+          "responseEnd": 2086.300000011921,
+          "duration": 9,
+          "bytes": 13714
+        }
+      ]
+    },
+    {
+      "scenario": "mobile-ordinary",
+      "device": "mobile",
+      "artifactId": "gg-gzdc",
+      "weak": false,
+      "initialCardRequests": 2,
+      "intentToClickMs": 106.60000002384186,
+      "clickToDialogMs": 123.39999997615814,
+      "clickToImageDecodedMs": 153.39999997615814,
+      "clickToScrollReadyMs": null,
+      "intentToImageDecodedMs": 260,
+      "detailRequests": [
+        {
+          "url": "http://127.0.0.1:4173/data/image-provenance/gugong.json",
+          "startTime": 1750.699999988079,
+          "responseEnd": 1758.3999999761581,
+          "duration": 7.699999988079071,
+          "bytes": 2915
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/ceb7d27ef26bc7b5-detail-w800.webp",
+          "startTime": 1765.0999999642372,
+          "responseEnd": 1776.199999988079,
+          "duration": 11.100000023841858,
+          "bytes": 102148
+        }
+      ]
+    },
+    {
+      "scenario": "mobile-scroll",
+      "device": "mobile",
+      "artifactId": "gg-qmsh",
+      "weak": false,
+      "initialCardRequests": 0,
+      "intentToClickMs": 89.89999997615814,
+      "clickToDialogMs": 178.5,
+      "clickToImageDecodedMs": 185.60000002384186,
+      "clickToScrollReadyMs": 195.80000001192093,
+      "intentToImageDecodedMs": 275.5,
+      "detailRequests": [
+        {
+          "url": "http://127.0.0.1:4173/data/image-provenance/gugong.json",
+          "startTime": 1420.300000011921,
+          "responseEnd": 1427.3999999761581,
+          "duration": 7.099999964237213,
+          "bytes": 2915
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/7eff9b37c36f3348-scroll-detail-w900.webp",
+          "startTime": 1432.699999988079,
+          "responseEnd": 1438.3999999761581,
+          "duration": 5.699999988079071,
+          "bytes": 13714
+        }
+      ]
+    },
+    {
+      "scenario": "mobile-ordinary-weak",
+      "device": "mobile",
+      "artifactId": "gg-gzdc",
+      "weak": true,
+      "initialCardRequests": 0,
+      "intentToClickMs": 114,
+      "clickToDialogMs": 441.5999999642372,
+      "clickToImageDecodedMs": 61490,
+      "clickToScrollReadyMs": null,
+      "intentToImageDecodedMs": 61604,
+      "detailRequests": [
+        {
+          "url": "http://127.0.0.1:4173/data/image-provenance/gugong.json",
+          "startTime": 37416.39999997616,
+          "responseEnd": 42985.39999997616,
+          "duration": 5569,
+          "bytes": 2915
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/ceb7d27ef26bc7b5-detail-w800.webp",
+          "startTime": 42994.799999952316,
+          "responseEnd": 98944.09999996424,
+          "duration": 55949.30000001192,
+          "bytes": 102148
+        }
+      ]
+    },
+    {
+      "scenario": "mobile-scroll-weak",
+      "device": "mobile",
+      "artifactId": "gg-qmsh",
+      "weak": true,
+      "initialCardRequests": 0,
+      "intentToClickMs": 105.69999998807907,
+      "clickToDialogMs": 306.0999999642372,
+      "clickToImageDecodedMs": 23415.19999998808,
+      "clickToScrollReadyMs": 23386.80000001192,
+      "intentToImageDecodedMs": 23520.899999976158,
+      "detailRequests": [
+        {
+          "url": "http://127.0.0.1:4173/data/image-provenance/gugong.json",
+          "startTime": 36741.69999998808,
+          "responseEnd": 42101.299999952316,
+          "duration": 5359.599999964237,
+          "bytes": 2915
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifact-responsive/7eff9b37c36f3348-scroll-detail-w900.webp",
+          "startTime": 42104.89999997616,
+          "responseEnd": 60186.69999998808,
+          "duration": 18081.80000001192,
+          "bytes": 13714
+        }
+      ]
+    }
+  ]
+}

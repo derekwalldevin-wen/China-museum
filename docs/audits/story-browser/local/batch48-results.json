@@ -1,0 +1,13 @@
+{
+  "baseUrl": "http://127.0.0.1:4178/",
+  "testedAt": "2026-09-30T03:02:31.175Z",
+  "passed": 6,
+  "checks": [
+    "desktop: nx-hxw 四章、≥3细节、来源面板可点(2条)、有理由比较(xz-stg)、无溢出",
+    "desktop: gz-tcm 四章、≥3细节、来源面板可点(2条)、有理由比较(gz-yjg)、无溢出",
+    "desktop: jz-yzj 四章、≥3细节、来源面板可点(1条)、有理由比较(sd-lgdy)、无溢出",
+    "mobile: nx-hxw 四章、≥3细节、来源面板可点(2条)、有理由比较(xz-stg)、无溢出",
+    "mobile: gz-tcm 四章、≥3细节、来源面板可点(2条)、有理由比较(gz-yjg)、无溢出",
+    "mobile: jz-yzj 四章、≥3细节、来源面板可点(1条)、有理由比较(sd-lgdy)、无溢出"
+  ]
+}

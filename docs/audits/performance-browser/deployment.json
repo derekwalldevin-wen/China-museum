@@ -1,0 +1,21 @@
+{
+  "date":"2026-09-15",
+  "deploymentUrl":"https://10687ade.huaxia-museum-atlas.pages.dev",
+  "productionUrl":"https://huaxia-museum-atlas.pages.dev/",
+  "mainHtmlReferencesCurrentIndex":true,
+  "verifiedAssetCount":11,
+  "allMatchLocalSha256":true,
+  "assets":[
+    {"path":"/assets/ArtifactArt-CEFFsejt.js","bytes":143427,"sha256":"f9b34f694aad27b9ef62cfa11e09758f7172fd569f36cb6d8205cbdbd2ed6ed2"},
+    {"path":"/assets/ArtifactCard-BEZUnRHC.js","bytes":18151,"sha256":"3582a4ad9818374145eed54f5804ff2167ca97136f7058d73447de31c52a56ca"},
+    {"path":"/assets/CollectionResults-CY87RSHu.js","bytes":6263,"sha256":"bfb2e36b86dbf48dbff0ff1b2ebb0c39e33311953e2954dbc1386d2e4f018d5b"},
+    {"path":"/assets/index-BrGG_nKn.css","bytes":115747,"sha256":"d6165d388cc07b724ee07c2e86e92543d7eeccc5e408731e9ef0d13d3d00e51d"},
+    {"path":"/assets/index-CmHkxlUS.js","bytes":351969,"sha256":"e8fc60d35e708aa76b04463cf1c04295431e907d51a7d7b9b7c67f591dddd009"},
+    {"path":"/assets/MuseumDetail-CHMaqaKK.js","bytes":12794,"sha256":"4a3e50be54326fca7d8befb636739dcfe0e08b196e5e3359c589c5e1a1e4866d"},
+    {"path":"/assets/ProvincePanel-tJiWCXAY.js","bytes":5673,"sha256":"828ddb2ba1cad2425e17f8aee08ae3acdc9a107c4c2834669b91657e481ca1ea"},
+    {"path":"/assets/RegionDirectory-BrMumWOi.js","bytes":5846,"sha256":"a0d473f077595ef54607d65ce9283c20a6bb58e4f63348dac611d59d10f93a5b"},
+    {"path":"/assets/ScrollMapScene-BfF_578M.js","bytes":434597,"sha256":"39cb923669e47988e6153af57b8517d0bf7f2635de5315670cd1e084ed8e4d4d"},
+    {"path":"/assets/StoryExperience-8SsGKM3_.css","bytes":7442,"sha256":"8a26ec38b4b5a3774273dde263915121053433d7b16281cbf18f31f8822e48a0"},
+    {"path":"/assets/StoryExperience-DwP1G6xo.js","bytes":81701,"sha256":"de0bcb856c57ce5affaf45b6bb19905e3c9e4127b026dd10bf18fc544d2f4507"}
+  ]
+}

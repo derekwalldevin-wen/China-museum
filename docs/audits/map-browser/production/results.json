@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "testedAt": "2026-09-16T15:51:21.773Z",
+  "passed": 7,
+  "checks": [
+    "desktop: 原创山水背景、AI 标识、34省标签、无横向溢出",
+    "desktop: 34省逐一真实鼠标命中，省卷和博物馆朱印数量一致",
+    "desktop: 北京已知坐标投影回读为N39.90° E116.41°",
+    "desktop: 进入西藏博物馆朱印真实点击进入展厅",
+    "mobile: 原创山水背景、AI 标识、34省标签、无横向溢出",
+    "mobile: 34省逐一真实触摸命中，省卷和博物馆朱印数量一致",
+    "mobile: 港澳偏移引线印章以原生触摸再次命中"
+  ]
+}

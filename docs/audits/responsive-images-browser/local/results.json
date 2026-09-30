@@ -1,0 +1,12 @@
+{
+  "baseUrl": "http://127.0.0.1:4173/",
+  "testedAt": "2026-09-16T02:18:35.956Z",
+  "passed": 5,
+  "checks": [
+    "desktop: 4 responsive requests, 72092 B total, 24164 B max",
+    "desktop: Qingming detail keeps source-image disclosure and scroll reader while using same-pixel WebP",
+    "mobile weak-network: responsive cards settle under 3G latency and 4x CPU throttling without overflow",
+    "mobile: WebP transport failure retries the same selected JPEG/PNG before semantic fallback",
+    "desktop: selected image plus original failure advances to the existing legacy semantic fallback"
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "verifiedAt": "2026-09-16T15:52:05.881Z",
+  "productionUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "deploymentUrl": "https://fd7bd40c.huaxia-museum-atlas.pages.dev/",
+  "paths": 19,
+  "production": [
+    {
+      "path": "/index.html",
+      "bytes": 1444,
+      "sha256": "79d5bdbfe8811950a85da0f60108c97dcda2247293d0cf39248ee5d51d195e21",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    },
+    {
+      "path": "/assets/index-D-RBGKHC.js",
+      "bytes": 323144,
+      "sha256": "8bbb6c98b06afa7e4211203beb9c0a32ed9b94bfac92602e360bc1232d59c52d",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/assets/index-DrxFMA9h.css",
+      "bytes": 132168,
+      "sha256": "87e1b293633e5f4626b9cd8a34c35273ebad9f8b42119156d189d12e909025ef",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/assets/ArtifactCard-BvEnMcYM.js",
+      "bytes": 24880,
+      "sha256": "592e5ee25c517476fd74b896e0188b04fbd000c7e182f3b2b0f255db0ff1f6aa",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/assets/InkScrollIntro-CImfBAHH.js",
+      "bytes": 510070,
+      "sha256": "49869dd97671197636c23d458c05f1d46141d96204c04e2cf7bba13f9c00bc1d",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/assets/MuseumDetail-CErjMeDd.js",
+      "bytes": 15348,
+      "sha256": "15c17b2006c779084c37c2849c78af9533a1dacfb47e9b546a7872f16962e04d",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/assets/ResponsiveArtifactImage-BvNCaSZB.js",
+      "bytes": 111949,
+      "sha256": "a4730bcc7d9dcbc2b35daa62e91f4bed594b3a4681f15ec41f5a76b99b9d63a7",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/assets/ScrollMapScene-DFKiB8e1.js",
+      "bytes": 11904,
+      "sha256": "2b033a5376adb6a3bd74c9e2ca9b103bd22fae3b3fe5e9ca917ad01b8bbe3f59",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/artifact-responsive/c73cf96aa9955e61-card-w400.webp",
+      "bytes": 10414,
+      "sha256": "9e9b23a19f9424c86abaf5d065bb891ce49d1075de4b8c423579b5c060f3a977",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+      "bytes": 17336,
+      "sha256": "0a296ccd211365e2b02ec4417441dae8746e776d3ffa946ba2275f49a2175285",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/artifact-responsive/0e52e33eb514adae-card-w400.webp",
+      "bytes": 10788,
+      "sha256": "3f48bb22d71bb527f07bd58b6952e06b2d56ea9e16af30908da9947b99622e22",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/artifact-responsive/ceb7d27ef26bc7b5-card-w400.webp",
+      "bytes": 24164,
+      "sha256": "00bad741a6fdcdda92c021846d595a8ca03582bf17cb1fa5338a33d08cbc73c8",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/artifact-responsive/52420153f1afc0c9-scroll-detail-w16000.webp",
+      "bytes": 2951844,
+      "sha256": "cdf59acadaa4628f7a4191412deb696e22c41fcd65baeed821dab4bda5a581e1",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/data/image-provenance/gugong.json",
+      "bytes": 15481,
+      "sha256": "8befafdd49b23232e10bfa95e925c1d2831d4a5c37a12cab7116228e0e6bb548",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    },
+    {
+      "path": "/data/image-processing/gg-qmsh-user-2026-09-16.json",
+      "bytes": 4396,
+      "sha256": "d417d655e1ab73e8f7c6c81361b12bf7d843fb0de0862e2ab929f52988194b50",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    },
+    {
+      "path": "/artifact-sources/user-qingming/gg-qmsh-reading.jpg",
+      "bytes": 3990673,
+      "sha256": "52420153f1afc0c982a173354ed60cf56f8ca3685fe395956a349589e813b7c6",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    },
+    {
+      "path": "/artifact-sources/user-qingming/gg-qmsh-hongqiao-card.jpg",
+      "bytes": 236179,
+      "sha256": "c73cf96aa9955e619579fb785a6f18fbf60ef4aca793463731da76944ccbe4bb",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    },
+    {
+      "path": "/art/shanhe-handscroll-desktop.jpg",
+      "bytes": 212164,
+      "sha256": "d095f8bd0687cd76f97e4d0519493bdd39eda6a0c3fd11b4df016dd79d13f9cc",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    },
+    {
+      "path": "/art/shanhe-handscroll-mobile.jpg",
+      "bytes": 84935,
+      "sha256": "c0fc0796b344756e02e2a27bb513e1079bfcecea922167d2b689780cdce4b03d",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    }
+  ],
+  "deployment": [
+    {
+      "path": "/index.html",
+      "bytes": 1444,
+      "sha256": "79d5bdbfe8811950a85da0f60108c97dcda2247293d0cf39248ee5d51d195e21",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    },
+    {
+      "path": "/assets/index-D-RBGKHC.js",
+      "bytes": 323144,
+      "sha256": "8bbb6c98b06afa7e4211203beb9c0a32ed9b94bfac92602e360bc1232d59c52d",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/assets/index-DrxFMA9h.css",
+      "bytes": 132168,
+      "sha256": "87e1b293633e5f4626b9cd8a34c35273ebad9f8b42119156d189d12e909025ef",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/assets/ArtifactCard-BvEnMcYM.js",
+      "bytes": 24880,
+      "sha256": "592e5ee25c517476fd74b896e0188b04fbd000c7e182f3b2b0f255db0ff1f6aa",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/assets/InkScrollIntro-CImfBAHH.js",
+      "bytes": 510070,
+      "sha256": "49869dd97671197636c23d458c05f1d46141d96204c04e2cf7bba13f9c00bc1d",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/assets/MuseumDetail-CErjMeDd.js",
+      "bytes": 15348,
+      "sha256": "15c17b2006c779084c37c2849c78af9533a1dacfb47e9b546a7872f16962e04d",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/assets/ResponsiveArtifactImage-BvNCaSZB.js",
+      "bytes": 111949,
+      "sha256": "a4730bcc7d9dcbc2b35daa62e91f4bed594b3a4681f15ec41f5a76b99b9d63a7",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/assets/ScrollMapScene-DFKiB8e1.js",
+      "bytes": 11904,
+      "sha256": "2b033a5376adb6a3bd74c9e2ca9b103bd22fae3b3fe5e9ca917ad01b8bbe3f59",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/artifact-responsive/c73cf96aa9955e61-card-w400.webp",
+      "bytes": 10414,
+      "sha256": "9e9b23a19f9424c86abaf5d065bb891ce49d1075de4b8c423579b5c060f3a977",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+      "bytes": 17336,
+      "sha256": "0a296ccd211365e2b02ec4417441dae8746e776d3ffa946ba2275f49a2175285",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/artifact-responsive/0e52e33eb514adae-card-w400.webp",
+      "bytes": 10788,
+      "sha256": "3f48bb22d71bb527f07bd58b6952e06b2d56ea9e16af30908da9947b99622e22",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/artifact-responsive/ceb7d27ef26bc7b5-card-w400.webp",
+      "bytes": 24164,
+      "sha256": "00bad741a6fdcdda92c021846d595a8ca03582bf17cb1fa5338a33d08cbc73c8",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/artifact-responsive/52420153f1afc0c9-scroll-detail-w16000.webp",
+      "bytes": 2951844,
+      "sha256": "cdf59acadaa4628f7a4191412deb696e22c41fcd65baeed821dab4bda5a581e1",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "/data/image-provenance/gugong.json",
+      "bytes": 15481,
+      "sha256": "8befafdd49b23232e10bfa95e925c1d2831d4a5c37a12cab7116228e0e6bb548",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    },
+    {
+      "path": "/data/image-processing/gg-qmsh-user-2026-09-16.json",
+      "bytes": 4396,
+      "sha256": "d417d655e1ab73e8f7c6c81361b12bf7d843fb0de0862e2ab929f52988194b50",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    },
+    {
+      "path": "/artifact-sources/user-qingming/gg-qmsh-reading.jpg",
+      "bytes": 3990673,
+      "sha256": "52420153f1afc0c982a173354ed60cf56f8ca3685fe395956a349589e813b7c6",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    },
+    {
+      "path": "/artifact-sources/user-qingming/gg-qmsh-hongqiao-card.jpg",
+      "bytes": 236179,
+      "sha256": "c73cf96aa9955e619579fb785a6f18fbf60ef4aca793463731da76944ccbe4bb",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    },
+    {
+      "path": "/art/shanhe-handscroll-desktop.jpg",
+      "bytes": 212164,
+      "sha256": "d095f8bd0687cd76f97e4d0519493bdd39eda6a0c3fd11b4df016dd79d13f9cc",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    },
+    {
+      "path": "/art/shanhe-handscroll-mobile.jpg",
+      "bytes": 84935,
+      "sha256": "c0fc0796b344756e02e2a27bb513e1079bfcecea922167d2b689780cdce4b03d",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    }
+  ]
+}

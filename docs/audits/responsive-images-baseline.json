@@ -1,0 +1,125 @@
+{
+  "baseUrl": "http://127.0.0.1:4173/",
+  "measuredAt": "2026-09-15T13:51:39.474Z",
+  "note": "Museum gallery above-the-fold artifact image traffic with browser cache disabled.",
+  "scenarios": [
+    {
+      "label": "desktop",
+      "url": "http://127.0.0.1:4173/?province=%E5%8C%97%E4%BA%AC%E5%B8%82&museum=gugong",
+      "viewport": {
+        "width": 1440,
+        "height": 960,
+        "devicePixelRatio": 1
+      },
+      "requestCount": 4,
+      "transferredBytes": 8664226,
+      "maximumSingleImageBytes": 2417808,
+      "entries": [
+        {
+          "url": "http://127.0.0.1:4173/artifacts-v2/p1/gg-qmsh.png",
+          "transferSize": 2418108,
+          "encodedBodySize": 2417808,
+          "decodedBodySize": 2417808,
+          "duration": 155.30000001192093
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifacts-v2/p1/gg-qljs.png",
+          "transferSize": 2337713,
+          "encodedBodySize": 2337413,
+          "decodedBodySize": 2337413,
+          "duration": 154.30000001192093
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifacts-v2/p1/gg-pft.png",
+          "transferSize": 1893191,
+          "encodedBodySize": 1892891,
+          "decodedBodySize": 1892891,
+          "duration": 142
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifacts-v2/p1/gg-gzdc.png",
+          "transferSize": 2016414,
+          "encodedBodySize": 2016114,
+          "decodedBodySize": 2016114,
+          "duration": 150.19999998807907
+        }
+      ],
+      "visibleImages": [
+        {
+          "src": "http://127.0.0.1:4173/artifacts-v2/p1/gg-qmsh.png",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "src": "http://127.0.0.1:4173/artifacts-v2/p1/gg-qljs.png",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "src": "http://127.0.0.1:4173/artifacts-v2/p1/gg-pft.png",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "src": "http://127.0.0.1:4173/artifacts-v2/p1/gg-gzdc.png",
+          "width": 1122,
+          "height": 1402
+        }
+      ]
+    },
+    {
+      "label": "mobile",
+      "url": "http://127.0.0.1:4173/?province=%E5%8C%97%E4%BA%AC%E5%B8%82&museum=gugong",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "devicePixelRatio": 2
+      },
+      "requestCount": 4,
+      "transferredBytes": 8664226,
+      "maximumSingleImageBytes": 2417808,
+      "entries": [
+        {
+          "url": "http://127.0.0.1:4173/artifacts-v2/p1/gg-qmsh.png",
+          "transferSize": 2418108,
+          "encodedBodySize": 2417808,
+          "decodedBodySize": 2417808,
+          "duration": 326.2999999523163
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifacts-v2/p1/gg-qljs.png",
+          "transferSize": 2337713,
+          "encodedBodySize": 2337413,
+          "decodedBodySize": 2337413,
+          "duration": 325.69999998807907
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifacts-v2/p1/gg-pft.png",
+          "transferSize": 1893191,
+          "encodedBodySize": 1892891,
+          "decodedBodySize": 1892891,
+          "duration": 833.5999999642372
+        },
+        {
+          "url": "http://127.0.0.1:4173/artifacts-v2/p1/gg-gzdc.png",
+          "transferSize": 2016414,
+          "encodedBodySize": 2016114,
+          "decodedBodySize": 2016114,
+          "duration": 836.0999999642372
+        }
+      ],
+      "visibleImages": [
+        {
+          "src": "http://127.0.0.1:4173/artifacts-v2/p1/gg-qmsh.png",
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "src": "http://127.0.0.1:4173/artifacts-v2/p1/gg-qljs.png",
+          "width": 1122,
+          "height": 1402
+        }
+      ]
+    }
+  ]
+}

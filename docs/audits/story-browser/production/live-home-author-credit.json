@@ -1,0 +1,49 @@
+{
+  "base": "https://huaxia-museum-atlas.pages.dev/",
+  "testedAt": "2026-09-30T06:15:53.851Z",
+  "passed": 2,
+  "results": [
+    {
+      "name": "desktop",
+      "viewport": {
+        "w": 1440,
+        "h": 960
+      },
+      "overflow": 0,
+      "text": "作者：德里克文",
+      "opacity": "1",
+      "credit": {
+        "left": 1332.59375,
+        "right": 1420,
+        "top": 938.25,
+        "bottom": 953.25
+      },
+      "footer": {
+        "top": 920.5,
+        "bottom": 960
+      },
+      "provinces": 34
+    },
+    {
+      "name": "mobile",
+      "viewport": {
+        "w": 390,
+        "h": 844
+      },
+      "overflow": 0,
+      "text": "作者：德里克文",
+      "opacity": "1",
+      "credit": {
+        "left": 294.21875,
+        "right": 370,
+        "top": 824.5,
+        "bottom": 838
+      },
+      "footer": {
+        "top": 807.5,
+        "bottom": 844
+      },
+      "provinces": 34
+    }
+  ]
+}

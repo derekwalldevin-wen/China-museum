@@ -1,0 +1,441 @@
+{
+ "generatedAt": "2026-09-30T05:49:31.517Z",
+ "source": {
+  "path": "src/data/images.json",
+  "bytes": 230910,
+  "sha256": "33866b421aa0f6a36a9b543a39b8a9ce4ba47fe8ff8c735363dcefa22bfbda65",
+  "records": 206
+ },
+ "responsiveSource": {
+  "path": "assets/responsive-images/manifest.json",
+  "bytes": 1360692,
+  "sha256": "e31cc6b781acade2d49338c7110d35391f74c7dc190fd2fcd37b5e8019550276",
+  "outputs": 1390
+ },
+ "cardManifest": {
+  "path": "src/data/image-card-manifest.json",
+  "bytes": 160219,
+  "sha256": "5c0a4293706b278f4e7ef028879e2c0ee675244488135b94e78d16180a323749",
+  "records": 206
+ },
+ "provenancePayloads": {
+  "directory": "public/data/image-provenance",
+  "count": 59,
+  "totalBytes": 318464,
+  "files": [
+   {
+    "id": "gugong",
+    "path": "public/data/image-provenance/gugong.json",
+    "bytes": 22688,
+    "sha256": "bf07a03e5deb401609bfbc10ddb7791cb1fd89639045e09558f9ad1b50e0a970",
+    "records": 7
+   },
+   {
+    "id": "guobo",
+    "path": "public/data/image-provenance/guobo.json",
+    "bytes": 30318,
+    "sha256": "4ce4aa391a73c632aad0bab71d18a7aabd660716a64925543820501cbc9b36cf",
+    "records": 10
+   },
+   {
+    "id": "shoubo",
+    "path": "public/data/image-provenance/shoubo.json",
+    "bytes": 9027,
+    "sha256": "2592ab3911f090844113262923a882f05f54536fd1b1f6186377700271540ae6",
+    "records": 3
+   },
+   {
+    "id": "tianbo",
+    "path": "public/data/image-provenance/tianbo.json",
+    "bytes": 8585,
+    "sha256": "1f337cad9098b06b840e2e322341a7e1a01a00c1a3117c42169aadea38def42d",
+    "records": 3
+   },
+   {
+    "id": "hebwy",
+    "path": "public/data/image-provenance/hebwy.json",
+    "bytes": 9527,
+    "sha256": "d50b0a0ecf276c893d17e77dbb822704beab72c9a4fe49f58cebefcc7652a7bc",
+    "records": 3
+   },
+   {
+    "id": "dingzhou",
+    "path": "public/data/image-provenance/dingzhou.json",
+    "bytes": 1534,
+    "sha256": "55c10889c136698316b358a820b90c8c244aed7a5bbdc5d537dcc49715fbc63a",
+    "records": 3
+   },
+   {
+    "id": "shanxi",
+    "path": "public/data/image-provenance/shanxi.json",
+    "bytes": 1534,
+    "sha256": "fdf8f94b31b6f90217af2a3b8f7f33facf01b89ead0390bef701482252664cbb",
+    "records": 3
+   },
+   {
+    "id": "datong",
+    "path": "public/data/image-provenance/datong.json",
+    "bytes": 1038,
+    "sha256": "28746058989f3076490207c0ec5090427784db3b52d893675807394387a1cba4",
+    "records": 2
+   },
+   {
+    "id": "neimenggu",
+    "path": "public/data/image-provenance/neimenggu.json",
+    "bytes": 4147,
+    "sha256": "aadf1b91a01d5401d28dbdccab550df86a90d00a7dbbb1614b692fde97ce0bbe",
+    "records": 3
+   },
+   {
+    "id": "liaobo",
+    "path": "public/data/image-provenance/liaobo.json",
+    "bytes": 4323,
+    "sha256": "0ce0769ab66e37e164c41ab07c1b4a307ccc23705640987a7d31194097a7ffac",
+    "records": 3
+   },
+   {
+    "id": "sygugong",
+    "path": "public/data/image-provenance/sygugong.json",
+    "bytes": 1538,
+    "sha256": "91d877a7cc4573790bf4552d8d638b6f50df9ab53889a20d47ec00cbb94a44f4",
+    "records": 3
+   },
+   {
+    "id": "jilin",
+    "path": "public/data/image-provenance/jilin.json",
+    "bytes": 1884,
+    "sha256": "0f6e45b16814364ac2da0256c0bb5f68526c9430d1021245fd7110675bc38cef",
+    "records": 3
+   },
+   {
+    "id": "heilongjiang",
+    "path": "public/data/image-provenance/heilongjiang.json",
+    "bytes": 9588,
+    "sha256": "361ecd05cb6c8f6b426fb8717f08152448f45b366a4875f556dfb9531b306f79",
+    "records": 3
+   },
+   {
+    "id": "shanghai",
+    "path": "public/data/image-provenance/shanghai.json",
+    "bytes": 18107,
+    "sha256": "56b125fd2408adac0514a0d2a0704bd9ed0d03e99c5506c351529c37a09644e6",
+    "records": 5
+   },
+   {
+    "id": "nanjing",
+    "path": "public/data/image-provenance/nanjing.json",
+    "bytes": 2034,
+    "sha256": "180cc9cd59db5df1912c574c49f47be0075fe27c4111752c73ed6718573db990",
+    "records": 4
+   },
+   {
+    "id": "suzhou",
+    "path": "public/data/image-provenance/suzhou.json",
+    "bytes": 3667,
+    "sha256": "fcb4bdbd252acb3df7d28ad8936e576fd3116d9b2ba650568e183fccf8a9c9b5",
+    "records": 3
+   },
+   {
+    "id": "yangzhou",
+    "path": "public/data/image-provenance/yangzhou.json",
+    "bytes": 1615,
+    "sha256": "1064b47f3c4ff4f3d8a383d8e8bda545642afdcf9e27567a8c31fceac949d8f2",
+    "records": 3
+   },
+   {
+    "id": "zhejiang",
+    "path": "public/data/image-provenance/zhejiang.json",
+    "bytes": 9356,
+    "sha256": "3d1e438304f44645eac37838c86eb8046b2c5bb82c0d164e98886c8480eed562",
+    "records": 4
+   },
+   {
+    "id": "ningbo",
+    "path": "public/data/image-provenance/ningbo.json",
+    "bytes": 7689,
+    "sha256": "e4b62b251f5e13d239657c62f46b4c5217315e3b0f308341800484b5dca4a19d",
+    "records": 4
+   },
+   {
+    "id": "anhui",
+    "path": "public/data/image-provenance/anhui.json",
+    "bytes": 1538,
+    "sha256": "12a036aa18b22cbfad4708faa054a523f4c0fd359d4fad92cab939c9c1568712",
+    "records": 3
+   },
+   {
+    "id": "fujian",
+    "path": "public/data/image-provenance/fujian.json",
+    "bytes": 1542,
+    "sha256": "56718db9d3c9e9517bffda589718660b2591728e8bedd7da3dbe96e0ca520281",
+    "records": 3
+   },
+   {
+    "id": "quanzhou",
+    "path": "public/data/image-provenance/quanzhou.json",
+    "bytes": 1534,
+    "sha256": "f8b209901c14351830475bafc5272ad4193aa8a88f5f0928cc8d74ce11ad5eb7",
+    "records": 3
+   },
+   {
+    "id": "jiangxi",
+    "path": "public/data/image-provenance/jiangxi.json",
+    "bytes": 1542,
+    "sha256": "b12f6dd69160268dcea530432f273c54d3463038aec2fec669a36b056a9d24ec",
+    "records": 3
+   },
+   {
+    "id": "jingdezhen",
+    "path": "public/data/image-provenance/jingdezhen.json",
+    "bytes": 4651,
+    "sha256": "8e6583e7a99b011a7ad9867d37690eb7814680a77a0c291af6fd14c5474a53d3",
+    "records": 3
+   },
+   {
+    "id": "shandong",
+    "path": "public/data/image-provenance/shandong.json",
+    "bytes": 2042,
+    "sha256": "e59ac4e64dd88e0b1acb253e34719070eaedf094ef72b752901f766db06d3d1e",
+    "records": 4
+   },
+   {
+    "id": "kongzi",
+    "path": "public/data/image-provenance/kongzi.json",
+    "bytes": 1623,
+    "sha256": "bd856a9057917e054bd905ea76512649f151422e39ad2cc166346b8ba62b0a03",
+    "records": 3
+   },
+   {
+    "id": "qingzhou",
+    "path": "public/data/image-provenance/qingzhou.json",
+    "bytes": 6081,
+    "sha256": "8be163ad2b5feb08366e71ca2e6691ef38c9d74bc3b9f2010d70ae89247716c1",
+    "records": 3
+   },
+   {
+    "id": "henan",
+    "path": "public/data/image-provenance/henan.json",
+    "bytes": 17431,
+    "sha256": "421445f17904a0394e8ef0c9d29bbbe535696eb05252ed19927409ea04f56dc7",
+    "records": 5
+   },
+   {
+    "id": "luoyang",
+    "path": "public/data/image-provenance/luoyang.json",
+    "bytes": 1538,
+    "sha256": "3ca4e5c84550f0493205a263f7015501bc3c43666f4072b2729bb94a51487a90",
+    "records": 3
+   },
+   {
+    "id": "kaifeng",
+    "path": "public/data/image-provenance/kaifeng.json",
+    "bytes": 3735,
+    "sha256": "b39bcf322765648bfdb027439353fd14f4d9a493d2491c54f51c157928dcabe9",
+    "records": 3
+   },
+   {
+    "id": "yinxu",
+    "path": "public/data/image-provenance/yinxu.json",
+    "bytes": 3966,
+    "sha256": "d563b03ba8039c4d4763a3d1e51469322381a8c7cfd8313efd22691b60f1c9cd",
+    "records": 3
+   },
+   {
+    "id": "hubei",
+    "path": "public/data/image-provenance/hubei.json",
+    "bytes": 7616,
+    "sha256": "48e6a0d27c7e2b51e48203cef3160f80e1c5d59bce2780a6670ebeb6a51cd8e6",
+    "records": 5
+   },
+   {
+    "id": "jingzhou",
+    "path": "public/data/image-provenance/jingzhou.json",
+    "bytes": 4122,
+    "sha256": "14ccdabc9a83fff4ae2ca6d0a80f2886e5fdc5888cddcd7ec88ed2cce7a25aae",
+    "records": 3
+   },
+   {
+    "id": "hunan",
+    "path": "public/data/image-provenance/hunan.json",
+    "bytes": 7286,
+    "sha256": "24acecbc1edc462ccc74a149740e253f2d5fef8de3e3fea7d2a58e72f5788866",
+    "records": 4
+   },
+   {
+    "id": "csjiandu",
+    "path": "public/data/image-provenance/csjiandu.json",
+    "bytes": 1038,
+    "sha256": "b9215946df02840b037d91e80a4f9503127e98d9a7beb3390296d02b689799b2",
+    "records": 2
+   },
+   {
+    "id": "guangdong",
+    "path": "public/data/image-provenance/guangdong.json",
+    "bytes": 1690,
+    "sha256": "13541d91d0e191f282953d8835d8f089b59f189332f287fe510038032722d189",
+    "records": 3
+   },
+   {
+    "id": "nanyue",
+    "path": "public/data/image-provenance/nanyue.json",
+    "bytes": 17108,
+    "sha256": "b8a41167d8b1599d4ad5b7e61886bf3f1115014596564ab2f6f9231cc5d88674",
+    "records": 8
+   },
+   {
+    "id": "guangxi",
+    "path": "public/data/image-provenance/guangxi.json",
+    "bytes": 1538,
+    "sha256": "a9b09926e5e0127d474aaa550311c868382128214ed192f0e337cb18c12ac2ce",
+    "records": 3
+   },
+   {
+    "id": "hainan",
+    "path": "public/data/image-provenance/hainan.json",
+    "bytes": 1558,
+    "sha256": "47af95eddee3a2053e4c1fdb63e5de29140d320197a41262b10fac2725b4271a",
+    "records": 3
+   },
+   {
+    "id": "sanxia",
+    "path": "public/data/image-provenance/sanxia.json",
+    "bytes": 3828,
+    "sha256": "add32001b02ee4ae96d8f13d6f745a630922dc28ae2b8dbd64bd612bcae60e28",
+    "records": 3
+   },
+   {
+    "id": "dazu",
+    "path": "public/data/image-provenance/dazu.json",
+    "bytes": 4148,
+    "sha256": "7651c992a19b16fbdc9c2efd215604a0a4162d7676fce429c807b7bcbc92b54a",
+    "records": 3
+   },
+   {
+    "id": "sichuan",
+    "path": "public/data/image-provenance/sichuan.json",
+    "bytes": 1542,
+    "sha256": "6a79cd8498876fb8d6d36048fd03b75d8520bc8cfbd31a372ca14f727efcc298",
+    "records": 3
+   },
+   {
+    "id": "sanxingdui",
+    "path": "public/data/image-provenance/sanxingdui.json",
+    "bytes": 15458,
+    "sha256": "6ef0e67fd9ae24cc1b0da11df35865aa11a3b37f2921abc3eee575eacc849d4d",
+    "records": 5
+   },
+   {
+    "id": "jinsha",
+    "path": "public/data/image-provenance/jinsha.json",
+    "bytes": 8674,
+    "sha256": "7f8a39f6934df7ec06e198635eb12c7617de76c13f536b2ac732f5d3b80340b7",
+    "records": 3
+   },
+   {
+    "id": "guizhou",
+    "path": "public/data/image-provenance/guizhou.json",
+    "bytes": 1538,
+    "sha256": "585b7514415f4f26c828eea362883a776b0c86afbd851c8bedf3b17a390ce307",
+    "records": 3
+   },
+   {
+    "id": "yunnan",
+    "path": "public/data/image-provenance/yunnan.json",
+    "bytes": 4190,
+    "sha256": "f65c0ec4bd4fe2dd587a3aadb8c2c818a82a8418cf79acce9e9126a3e25afae3",
+    "records": 2
+   },
+   {
+    "id": "xizang",
+    "path": "public/data/image-provenance/xizang.json",
+    "bytes": 1623,
+    "sha256": "300c81a72a7af9dbb725ceb5e0dc501941797314275e94654bc15dfe92fd9286",
+    "records": 3
+   },
+   {
+    "id": "shanxili",
+    "path": "public/data/image-provenance/shanxili.json",
+    "bytes": 13982,
+    "sha256": "a3387192d9f3b0b283f17e6627a058fcca52858fab3a1a98cf20e1d27b1c29fc",
+    "records": 6
+   },
+   {
+    "id": "qinshihuang",
+    "path": "public/data/image-provenance/qinshihuang.json",
+    "bytes": 1534,
+    "sha256": "17e8d3ef10f0d5f7761b77e1f9db9a5fc3164d704bb4a0a6ac5293586bc185f3",
+    "records": 3
+   },
+   {
+    "id": "xian",
+    "path": "public/data/image-provenance/xian.json",
+    "bytes": 1538,
+    "sha256": "4571060361beb73881ddbc76f7ecc15188ffc1861835e785bf23ff43c4fb4b8e",
+    "records": 3
+   },
+   {
+    "id": "baoji",
+    "path": "public/data/image-provenance/baoji.json",
+    "bytes": 1526,
+    "sha256": "94eec89392c36fc02b50d1e409bcb889af35b4bc560cb20e32fe3808ffbc3c2b",
+    "records": 3
+   },
+   {
+    "id": "gansu",
+    "path": "public/data/image-provenance/gansu.json",
+    "bytes": 1538,
+    "sha256": "0bb55c6e687c2b8717800209137388c71ecb9b756a9f82d48e1babf10379a22c",
+    "records": 3
+   },
+   {
+    "id": "dunhuang",
+    "path": "public/data/image-provenance/dunhuang.json",
+    "bytes": 1697,
+    "sha256": "e3a8bbf9494f2a0439af7718442549892cc6a256b2217f64a7fbf106339228ce",
+    "records": 3
+   },
+   {
+    "id": "qinghai",
+    "path": "public/data/image-provenance/qinghai.json",
+    "bytes": 1034,
+    "sha256": "3b505da47d9d7a4e97b18ee79f0fd6365e0ad6deea9f0c1bd0a96227f23560a8",
+    "records": 2
+   },
+   {
+    "id": "ningxia",
+    "path": "public/data/image-provenance/ningxia.json",
+    "bytes": 1623,
+    "sha256": "b9d4ebd9bbaf7d4d151c3832741e8c873bff3073a4a1e30e14f6b3a1e5fbb532",
+    "records": 3
+   },
+   {
+    "id": "xinjiang",
+    "path": "public/data/image-provenance/xinjiang.json",
+    "bytes": 1710,
+    "sha256": "54731f8153d65df04e48379d55ca7a2f47fa2c2ca70af044b46e423575f5c5fd",
+    "records": 3
+   },
+   {
+    "id": "hongkong",
+    "path": "public/data/image-provenance/hongkong.json",
+    "bytes": 6858,
+    "sha256": "dbf59ade139000134389b195dcb9bf9e704a0d9fa23b37b34d5cf41c0bf70f72",
+    "records": 3
+   },
+   {
+    "id": "macao",
+    "path": "public/data/image-provenance/macao.json",
+    "bytes": 4328,
+    "sha256": "6889b1233dc10288d002bf077a43f7b66fde135b2ce6deb06ee5a409a65de7cb",
+    "records": 2
+   },
+   {
+    "id": "taibei",
+    "path": "public/data/image-provenance/taibei.json",
+    "bytes": 2717,
+    "sha256": "c51a668412cf17de4dadc734b1a99fe71625ac96f074449cead0f9fec2ec2a7a",
+    "records": 5
+   }
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+  "conditions": "800 kbps down, 300 ms RTT, CPU x4, cache disabled; isolated decoded image response on same local server",
+  "results": [
+    {
+      "label": "previous complete-detail WebP",
+      "path": "/artifact-responsive/52420153f1afc0c9-scroll-detail-w16000.webp",
+      "ms": 30091.599999964237,
+      "width": 16000,
+      "height": 770
+    },
+    {
+      "label": "new first high-resolution tile",
+      "path": "/artifact-scroll-tiles/gg-qmsh/00-62f328b443a35294.webp",
+      "ms": 1978.3999999761581,
+      "width": 800,
+      "height": 770
+    },
+    {
+      "label": "new whole-scroll overview placeholder",
+      "path": "/artifact-scroll-tiles/gg-qmsh/overview-0fe3dd22a6d96907.webp",
+      "ms": 475.9000000357628,
+      "width": 2400,
+      "height": 116
+    }
+  ]
+}

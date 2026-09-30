@@ -1,0 +1,216 @@
+{
+  "baseUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "measuredAt": "2026-09-15T15:00:27.778Z",
+  "note": "Museum gallery above-the-fold artifact image traffic with browser cache disabled.",
+  "scenarios": [
+    {
+      "label": "desktop",
+      "url": "https://huaxia-museum-atlas.pages.dev/?province=%E5%8C%97%E4%BA%AC%E5%B8%82&museum=gugong",
+      "viewport": {
+        "width": 1440,
+        "height": 960,
+        "devicePixelRatio": 1
+      },
+      "requestCount": 4,
+      "transferredBytes": 72092,
+      "maximumSingleImageBytes": 24164,
+      "entries": [
+        {
+          "url": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/7027f9da6e7ab26f-card-w400.webp",
+          "transferSize": 20104,
+          "encodedBodySize": 19804,
+          "decodedBodySize": 19804,
+          "startTime": 4674.600000023842,
+          "responseEnd": 4981.5,
+          "duration": 306.89999997615814
+        },
+        {
+          "url": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/0e52e33eb514adae-card-w400.webp",
+          "transferSize": 11088,
+          "encodedBodySize": 10788,
+          "decodedBodySize": 10788,
+          "startTime": 4674.700000047684,
+          "responseEnd": 5296.700000047684,
+          "duration": 622
+        },
+        {
+          "url": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+          "transferSize": 17636,
+          "encodedBodySize": 17336,
+          "decodedBodySize": 17336,
+          "startTime": 4674.700000047684,
+          "responseEnd": 5297,
+          "duration": 622.2999999523163
+        },
+        {
+          "url": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/ceb7d27ef26bc7b5-card-w400.webp",
+          "transferSize": 24464,
+          "encodedBodySize": 24164,
+          "decodedBodySize": 24164,
+          "startTime": 4674.800000011921,
+          "responseEnd": 5296.5,
+          "duration": 621.6999999880791
+        }
+      ],
+      "visibleImages": [
+        {
+          "src": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/7027f9da6e7ab26f-card-w400.webp",
+          "width": 280,
+          "height": 350
+        },
+        {
+          "src": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+          "width": 280,
+          "height": 350
+        },
+        {
+          "src": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/0e52e33eb514adae-card-w400.webp",
+          "width": 280,
+          "height": 350
+        },
+        {
+          "src": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/ceb7d27ef26bc7b5-card-w400.webp",
+          "width": 280,
+          "height": 350
+        }
+      ],
+      "cardImages": [
+        {
+          "index": 0,
+          "originalSrc": "/artifacts-v2/p1/gg-qmsh.png",
+          "currentSrc": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/7027f9da6e7ab26f-card-w400.webp",
+          "top": 254,
+          "bottom": 563,
+          "visible": true,
+          "complete": true,
+          "naturalWidth": 280
+        },
+        {
+          "index": 1,
+          "originalSrc": "/artifacts-v2/p1/gg-qljs.png",
+          "currentSrc": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+          "top": 254,
+          "bottom": 563,
+          "visible": true,
+          "complete": true,
+          "naturalWidth": 280
+        },
+        {
+          "index": 2,
+          "originalSrc": "/artifacts-v2/p1/gg-pft.png",
+          "currentSrc": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/0e52e33eb514adae-card-w400.webp",
+          "top": 254,
+          "bottom": 563,
+          "visible": true,
+          "complete": true,
+          "naturalWidth": 280
+        },
+        {
+          "index": 3,
+          "originalSrc": "/artifacts-v2/p1/gg-gzdc.png",
+          "currentSrc": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/ceb7d27ef26bc7b5-card-w400.webp",
+          "top": 254,
+          "bottom": 563,
+          "visible": true,
+          "complete": true,
+          "naturalWidth": 280
+        }
+      ]
+    },
+    {
+      "label": "mobile",
+      "url": "https://huaxia-museum-atlas.pages.dev/?province=%E5%8C%97%E4%BA%AC%E5%B8%82&museum=gugong",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "devicePixelRatio": 2
+      },
+      "requestCount": 3,
+      "transferredBytes": 47928,
+      "maximumSingleImageBytes": 19804,
+      "entries": [
+        {
+          "url": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/7027f9da6e7ab26f-card-w400.webp",
+          "transferSize": 20104,
+          "encodedBodySize": 19804,
+          "decodedBodySize": 19804,
+          "startTime": 2799.599999964237,
+          "responseEnd": 3566,
+          "duration": 766.4000000357628
+        },
+        {
+          "url": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/0e52e33eb514adae-card-w400.webp",
+          "transferSize": 11088,
+          "encodedBodySize": 10788,
+          "decodedBodySize": 10788,
+          "startTime": 2800,
+          "responseEnd": 3049.099999964237,
+          "duration": 249.0999999642372
+        },
+        {
+          "url": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+          "transferSize": 17636,
+          "encodedBodySize": 17336,
+          "decodedBodySize": 17336,
+          "startTime": 2800,
+          "responseEnd": 3565.5,
+          "duration": 765.5
+        }
+      ],
+      "visibleImages": [
+        {
+          "src": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/7027f9da6e7ab26f-card-w400.webp",
+          "width": 167,
+          "height": 208
+        },
+        {
+          "src": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+          "width": 167,
+          "height": 208
+        }
+      ],
+      "cardImages": [
+        {
+          "index": 0,
+          "originalSrc": "/artifacts-v2/p1/gg-qmsh.png",
+          "currentSrc": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/7027f9da6e7ab26f-card-w400.webp",
+          "top": 257,
+          "bottom": 672,
+          "visible": true,
+          "complete": true,
+          "naturalWidth": 167
+        },
+        {
+          "index": 1,
+          "originalSrc": "/artifacts-v2/p1/gg-qljs.png",
+          "currentSrc": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/ae63f6634ca3549a-card-w400.webp",
+          "top": 776,
+          "bottom": 1191,
+          "visible": true,
+          "complete": true,
+          "naturalWidth": 167
+        },
+        {
+          "index": 2,
+          "originalSrc": "/artifacts-v2/p1/gg-pft.png",
+          "currentSrc": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/0e52e33eb514adae-card-w400.webp",
+          "top": 1295,
+          "bottom": 1710,
+          "visible": false,
+          "complete": true,
+          "naturalWidth": 167
+        },
+        {
+          "index": 3,
+          "originalSrc": "/artifacts-v2/p1/gg-gzdc.png",
+          "currentSrc": "",
+          "top": 2352,
+          "bottom": 2767,
+          "visible": false,
+          "complete": false,
+          "naturalWidth": 0
+        }
+      ]
+    }
+  ]
+}

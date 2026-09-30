@@ -1,0 +1,151 @@
+{
+  "label": "idle-provenance-production",
+  "baseUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "measuredAt": "2026-09-16T02:32:39.682Z",
+  "scenarios": [
+    {
+      "scenario": "desktop-ordinary",
+      "device": "desktop",
+      "artifactId": "gg-gzdc",
+      "weak": false,
+      "idleProvenanceReadyBeforeIntent": true,
+      "initialCardRequests": 4,
+      "intentToClickMs": 267.80000001192093,
+      "clickToDialogMs": 50.09999996423721,
+      "clickToImageDecodedMs": 1256.699999988079,
+      "clickToScrollReadyMs": null,
+      "intentToImageDecodedMs": 1524.5,
+      "detailRequests": [
+        {
+          "url": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/ceb7d27ef26bc7b5-detail-w1122.webp",
+          "startTime": 8909.399999976158,
+          "responseEnd": 10259.099999964237,
+          "duration": 1349.699999988079,
+          "bytes": 170734,
+          "startFromIntentMs": 133,
+          "startFromClickMs": -134.80000001192093
+        }
+      ]
+    },
+    {
+      "scenario": "desktop-scroll",
+      "device": "desktop",
+      "artifactId": "gg-qmsh",
+      "weak": false,
+      "idleProvenanceReadyBeforeIntent": true,
+      "initialCardRequests": 4,
+      "intentToClickMs": 277.2000000476837,
+      "clickToDialogMs": 254.79999995231628,
+      "clickToImageDecodedMs": 726.8999999761581,
+      "clickToScrollReadyMs": 706.5,
+      "intentToImageDecodedMs": 1004.1000000238419,
+      "detailRequests": [
+        {
+          "url": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/7eff9b37c36f3348-scroll-detail-w900.webp",
+          "startTime": 7168.5,
+          "responseEnd": 7955.300000011921,
+          "duration": 786.8000000119209,
+          "bytes": 13714,
+          "startFromIntentMs": 138.60000002384186,
+          "startFromClickMs": -138.60000002384186
+        }
+      ]
+    },
+    {
+      "scenario": "mobile-ordinary",
+      "device": "mobile",
+      "artifactId": "gg-gzdc",
+      "weak": false,
+      "idleProvenanceReadyBeforeIntent": true,
+      "initialCardRequests": 2,
+      "intentToClickMs": 102.59999996423721,
+      "clickToDialogMs": 184,
+      "clickToImageDecodedMs": 972,
+      "clickToScrollReadyMs": null,
+      "intentToImageDecodedMs": 1074.5999999642372,
+      "detailRequests": [
+        {
+          "url": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/ceb7d27ef26bc7b5-detail-w800.webp",
+          "startTime": 7283.100000023842,
+          "responseEnd": 8232.699999988079,
+          "duration": 949.5999999642372,
+          "bytes": 102148,
+          "startFromIntentMs": 15,
+          "startFromClickMs": -87.59999996423721
+        }
+      ]
+    },
+    {
+      "scenario": "mobile-scroll",
+      "device": "mobile",
+      "artifactId": "gg-qmsh",
+      "weak": false,
+      "idleProvenanceReadyBeforeIntent": true,
+      "initialCardRequests": 2,
+      "intentToClickMs": 115.40000003576279,
+      "clickToDialogMs": 232.69999998807907,
+      "clickToImageDecodedMs": 486.19999998807907,
+      "clickToScrollReadyMs": 502.2999999523163,
+      "intentToImageDecodedMs": 601.6000000238419,
+      "detailRequests": [
+        {
+          "url": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/7eff9b37c36f3348-scroll-detail-w900.webp",
+          "startTime": 7041.899999976158,
+          "responseEnd": 7605.899999976158,
+          "duration": 564,
+          "bytes": 13714,
+          "startFromIntentMs": 24.30000001192093,
+          "startFromClickMs": -91.10000002384186
+        }
+      ]
+    },
+    {
+      "scenario": "mobile-ordinary-weak",
+      "device": "mobile",
+      "artifactId": "gg-gzdc",
+      "weak": true,
+      "idleProvenanceReadyBeforeIntent": true,
+      "initialCardRequests": 2,
+      "intentToClickMs": 108.59999996423721,
+      "clickToDialogMs": 576.1000000238419,
+      "clickToImageDecodedMs": 36812.30000001192,
+      "clickToScrollReadyMs": null,
+      "intentToImageDecodedMs": 36920.89999997616,
+      "detailRequests": [
+        {
+          "url": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/ceb7d27ef26bc7b5-detail-w800.webp",
+          "startTime": 62644.799999952316,
+          "responseEnd": 99460.09999996424,
+          "duration": 36815.30000001192,
+          "bytes": 102148,
+          "startFromIntentMs": 45.09999996423721,
+          "startFromClickMs": -63.5
+        }
+      ]
+    },
+    {
+      "scenario": "mobile-scroll-weak",
+      "device": "mobile",
+      "artifactId": "gg-qmsh",
+      "weak": true,
+      "idleProvenanceReadyBeforeIntent": true,
+      "initialCardRequests": 2,
+      "intentToClickMs": 143.69999998807907,
+      "clickToDialogMs": 432.60000002384186,
+      "clickToImageDecodedMs": 14540.800000011921,
+      "clickToScrollReadyMs": 14458.5,
+      "intentToImageDecodedMs": 14684.5,
+      "detailRequests": [
+        {
+          "url": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/7eff9b37c36f3348-scroll-detail-w900.webp",
+          "startTime": 60796.19999998808,
+          "responseEnd": 75335.90000003576,
+          "duration": 14539.700000047684,
+          "bytes": 13714,
+          "startFromIntentMs": 43.89999997615814,
+          "startFromClickMs": -99.80000001192093
+        }
+      ]
+    }
+  ]
+}

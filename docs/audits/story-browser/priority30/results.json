@@ -1,0 +1,26 @@
+{
+  "base": "http://127.0.0.1:4176/",
+  "passed": 20,
+  "checks": [
+    "desktop-1440:hb-cxd direct route, detail, source and width",
+    "desktop-1440:hb-cxd related jump, browser back and reading position",
+    "desktop-1440:hub-zhy direct route, detail, source and width",
+    "desktop-1440:hub-zhy related jump, browser back and reading position",
+    "desktop-1440:gg-jgyg direct route, detail, source and width",
+    "desktop-1440:gg-jgyg related jump, browser back and reading position",
+    "desktop-1440:sxl-lt direct route, detail, source and width",
+    "desktop-1440:sxl-lt related jump, browser back and reading position",
+    "desktop-1440:gg-pft direct route, detail, source and width",
+    "desktop-1440:gg-pft related jump, browser back and reading position",
+    "mobile-390:hb-cxd direct route, detail, source and width",
+    "mobile-390:hb-cxd related jump, browser back and reading position",
+    "mobile-390:hub-zhy direct route, detail, source and width",
+    "mobile-390:hub-zhy related jump, browser back and reading position",
+    "mobile-390:gg-jgyg direct route, detail, source and width",
+    "mobile-390:gg-jgyg related jump, browser back and reading position",
+    "mobile-390:sxl-lt direct route, detail, source and width",
+    "mobile-390:sxl-lt related jump, browser back and reading position",
+    "mobile-390:gg-pft direct route, detail, source and width",
+    "mobile-390:gg-pft related jump, browser back and reading position"
+  ]
+}

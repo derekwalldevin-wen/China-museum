@@ -1,0 +1,22 @@
+[
+  {
+    "device": "1440px desktop",
+    "initialTileRequests": 2,
+    "initialTileBytes": 163100,
+    "lastTileLoaded": true,
+    "disclosurePreserved": true
+  },
+  {
+    "device": "390px mobile",
+    "initialTileRequests": 4,
+    "initialTileBytes": 504350,
+    "lastTileLoaded": true,
+    "disclosurePreserved": true
+  },
+  {
+    "device": "failure recovery",
+    "firstWebpBlocked": true,
+    "sameSourceJpegReady": true,
+    "disclosurePreserved": true
+  }
+]

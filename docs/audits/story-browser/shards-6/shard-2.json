@@ -1,0 +1,190 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "shardCount": 6,
+  "shardIndex": 2,
+  "catalogSize": 93,
+  "ids": [
+    "cs-zml",
+    "gb-cxct",
+    "gb-syz",
+    "gg-qljs",
+    "hain-lj",
+    "hn-lhfh",
+    "hub-zhy",
+    "js-hjm",
+    "ny-cpyb",
+    "ny-xiangyazhi",
+    "sb-qhbf",
+    "sh-zzjp",
+    "sxd-qs",
+    "sz-bz",
+    "tp-kxs",
+    "zj-sncy"
+  ],
+  "startedAt": "2026-09-27T14:57:59.977Z",
+  "completed": true,
+  "checks": [
+    {
+      "id": "cs-zml",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "cs-zml",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "gb-cxct",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "gb-cxct",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "gb-syz",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "gb-syz",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "gg-qljs",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "gg-qljs",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "hain-lj",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "hain-lj",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "hn-lhfh",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "hn-lhfh",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "hub-zhy",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "hub-zhy",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "js-hjm",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "js-hjm",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "ny-cpyb",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "ny-cpyb",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "ny-xiangyazhi",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "ny-xiangyazhi",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "sb-qhbf",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "sb-qhbf",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "sh-zzjp",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "sh-zzjp",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "sxd-qs",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "sxd-qs",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "sz-bz",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "sz-bz",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "tp-kxs",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "tp-kxs",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "zj-sncy",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "zj-sncy",
+      "device": "mobile",
+      "passed": true
+    }
+  ],
+  "failures": [],
+  "finishedAt": "2026-09-27T14:58:47.783Z"
+}

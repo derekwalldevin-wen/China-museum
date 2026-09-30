@@ -1,0 +1,14 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "passed": 8,
+  "checks": [
+    "desktop:dz-qsg direct URL, four chapters, source link, filters and viewport",
+    "desktop:dh-jsl direct URL, four chapters, source link, filters and viewport",
+    "desktop:sx-hmms direct URL, four chapters, source link, filters and viewport",
+    "desktop: related jump and history back restore filters and reading position",
+    "mobile:dz-qsg direct URL, four chapters, source link, filters and viewport",
+    "mobile:dh-jsl direct URL, four chapters, source link, filters and viewport",
+    "mobile:sx-hmms direct URL, four chapters, source link, filters and viewport",
+    "mobile: related jump and history back restore filters and reading position"
+  ]
+}

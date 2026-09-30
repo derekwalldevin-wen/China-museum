@@ -1,0 +1,12 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "passed": 6,
+  "checks": [
+    "desktop: directory loads without any story body",
+    "desktop: selecting one story requests exactly its own body",
+    "desktop: failed story chunk retries without losing URL filters",
+    "mobile: directory loads without any story body",
+    "mobile: selecting one story requests exactly its own body",
+    "mobile: failed story chunk retries without losing URL filters"
+  ]
+}

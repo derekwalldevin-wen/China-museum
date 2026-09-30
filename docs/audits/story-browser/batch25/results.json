@@ -1,0 +1,12 @@
+{
+  "base": "http://127.0.0.1:4175/",
+  "passed": 6,
+  "checks": [
+    "desktop:ah-yqz direct URL, citations, filters and viewport",
+    "desktop:sd-hts direct URL, citations, filters and viewport",
+    "desktop: related jump, history back, filters and reading position",
+    "mobile:ah-yqz direct URL, citations, filters and viewport",
+    "mobile:sd-hts direct URL, citations, filters and viewport",
+    "mobile: related jump, history back, filters and reading position"
+  ]
+}

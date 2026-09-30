@@ -1,0 +1,14 @@
+{
+  "base": "http://127.0.0.1:4176/",
+  "passed": 8,
+  "checks": [
+    "desktop:zj-yzj direct URL, source disclosure and width",
+    "desktop:zj-yzj cross-story comparison, history and reading position",
+    "desktop:zj-aywt direct URL, source disclosure and width",
+    "desktop:zj-aywt cross-story comparison, history and reading position",
+    "mobile:zj-yzj direct URL, source disclosure and width",
+    "mobile:zj-yzj cross-story comparison, history and reading position",
+    "mobile:zj-aywt direct URL, source disclosure and width",
+    "mobile:zj-aywt cross-story comparison, history and reading position"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "baseUrl": "http://127.0.0.1:4173/",
+  "measuredAt": "2026-09-16T07:49:56.140Z",
+  "coldDeadline": {
+    "mode": "static",
+    "deadlineMs": 504.60000002384186,
+    "chunkDurationMs": null,
+    "canvas": false
+  },
+  "warmDynamic": {
+    "shellShownMs": 183.4000000357628,
+    "motionReadyMs": 231.30000001192093,
+    "mapReadyMs": 655.6999999880791,
+    "completeMs": 3034.100000023842,
+    "chunkDurationMs": 16.299999952316284,
+    "remainingMotion": 0
+  }
+}

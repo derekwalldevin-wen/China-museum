@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "testedAt": "2026-09-30T06:26:05.573Z",
+  "passed": 7,
+  "checks": [
+    "mobile initial: exactly 2 visible requests / 27750 B with 2 fixed-size placeholders",
+    "mobile fast scroll: last card loads on range entry; skipped offscreen cards remain optional (4 total requests)",
+    "mobile reverse scroll: loaded cards stay mounted and do not issue duplicate requests",
+    "mobile history: detail back/forward preserves the lower gallery scroll position",
+    "mobile weak network: only 2 initial requests, then lower image recovers after fast scroll with no overflow",
+    "mobile deferred failure: blocked WebP retries the same original only after its card enters range",
+    "compatibility: missing IntersectionObserver loads all images instead of leaving blank cards"
+  ]
+}

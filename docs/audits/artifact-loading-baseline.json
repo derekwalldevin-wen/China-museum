@@ -1,0 +1,19 @@
+{
+  "recordedAt": "2026-09-15",
+  "entry": {"path":"dist/assets/index-Wkxcob5u.js","bytes":351977,"gzipBytes":122352},
+  "sources": {
+    "museumsTsBytes": 94316,
+    "museumsSerializedBytes": 84598,
+    "lightIndexEstimateBytes": 38277,
+    "lazyNormalizedStoryCorpusEstimateBytes": 43029,
+    "imagesJsonBytes": 178378,
+    "storiesJsonBytes": 33430,
+    "storiesBatch2JsonBytes": 34227
+  },
+  "scope": {"museums":59,"artifacts":191},
+  "mapAssets": {
+    "rendererBytes":10746,
+    "standardGeometryBytes":131147,
+    "compactGeometryBytes":85002
+  }
+}

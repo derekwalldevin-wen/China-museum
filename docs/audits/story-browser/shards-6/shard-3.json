@@ -1,0 +1,179 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "shardCount": 6,
+  "shardIndex": 3,
+  "catalogSize": 93,
+  "ids": [
+    "dh-jsl",
+    "gb-gyts",
+    "gb-yygd",
+    "gg-qmsh",
+    "hb-cxd",
+    "hn-wzt",
+    "hub-zp",
+    "js-sjc",
+    "ny-gaozu",
+    "ny-yh",
+    "sd-szb",
+    "sx-hmms",
+    "sxd-zym",
+    "sz-jx",
+    "tp-mgd"
+  ],
+  "startedAt": "2026-09-27T14:58:50.065Z",
+  "completed": true,
+  "checks": [
+    {
+      "id": "dh-jsl",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "dh-jsl",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "gb-gyts",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "gb-gyts",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "gb-yygd",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "gb-yygd",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "gg-qmsh",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "gg-qmsh",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "hb-cxd",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "hb-cxd",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "hn-wzt",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "hn-wzt",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "hub-zp",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "hub-zp",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "js-sjc",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "js-sjc",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "ny-gaozu",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "ny-gaozu",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "ny-yh",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "ny-yh",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "sd-szb",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "sd-szb",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "sx-hmms",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "sx-hmms",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "sxd-zym",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "sxd-zym",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "sz-jx",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "sz-jx",
+      "device": "mobile",
+      "passed": true
+    },
+    {
+      "id": "tp-mgd",
+      "device": "desktop",
+      "passed": true
+    },
+    {
+      "id": "tp-mgd",
+      "device": "mobile",
+      "passed": true
+    }
+  ],
+  "failures": [],
+  "finishedAt": "2026-09-27T14:59:40.353Z"
+}

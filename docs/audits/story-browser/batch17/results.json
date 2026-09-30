@@ -1,0 +1,26 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "passed": 20,
+  "checks": [
+    "desktop:hb-cxd direct URL, four layers, source link, filters, viewport",
+    "desktop:hub-zhy direct URL, four layers, source link, filters, viewport",
+    "desktop:gg-jgyg direct URL, four layers, source link, filters, viewport",
+    "desktop:sxl-lt direct URL, four layers, source link, filters, viewport",
+    "desktop:gg-pft direct URL, four layers, source link, filters, viewport",
+    "desktop:gg-ryzl direct URL, four layers, source link, filters, viewport",
+    "desktop:gg-jgb direct URL, four layers, source link, filters, viewport",
+    "desktop:hub-ywj direct URL, four layers, source link, filters, viewport",
+    "desktop:hub-zp direct URL, four layers, source link, filters, viewport",
+    "desktop: related jump, history back, filters and reading position",
+    "mobile:hb-cxd direct URL, four layers, source link, filters, viewport",
+    "mobile:hub-zhy direct URL, four layers, source link, filters, viewport",
+    "mobile:gg-jgyg direct URL, four layers, source link, filters, viewport",
+    "mobile:sxl-lt direct URL, four layers, source link, filters, viewport",
+    "mobile:gg-pft direct URL, four layers, source link, filters, viewport",
+    "mobile:gg-ryzl direct URL, four layers, source link, filters, viewport",
+    "mobile:gg-jgb direct URL, four layers, source link, filters, viewport",
+    "mobile:hub-ywj direct URL, four layers, source link, filters, viewport",
+    "mobile:hub-zp direct URL, four layers, source link, filters, viewport",
+    "mobile: related jump, history back, filters and reading position"
+  ]
+}

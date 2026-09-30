@@ -1,0 +1,11 @@
+{
+  "baseUrl": "http://127.0.0.1:4177/",
+  "testedAt": "2026-09-30T02:17:56.606Z",
+  "passed": 4,
+  "checks": [
+    "desktop: fj-dhgy 四章、≥3细节、来源面板可点(3条)、有理由比较(fj-jyz)、无溢出",
+    "desktop: ah-wgj 四章、≥3细节、来源面板可点(4条)、有理由比较(ah-czd)、无溢出",
+    "mobile: fj-dhgy 四章、≥3细节、来源面板可点(3条)、有理由比较(fj-jyz)、无溢出",
+    "mobile: ah-wgj 四章、≥3细节、来源面板可点(4条)、有理由比较(ah-czd)、无溢出"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "recordedAt": "2026-09-15T00:00:00.000Z",
+  "source": {
+    "path": "src/data/images.json",
+    "records": 191,
+    "bytes": 178378,
+    "gzipBytes": 19685,
+    "sha256": "dcbb9bfc326fbf382998e7b07b5b19190b79004a99c804863becb157dc57fa21"
+  },
+  "production": {
+    "entry": {
+      "file": "dist/assets/index-DgMEjzfA.js",
+      "bytes": 317376,
+      "gzipBytes": 100983
+    },
+    "artifactCard": {
+      "file": "dist/assets/ArtifactCard-3SzKAo7C.js",
+      "bytes": 18164,
+      "gzipBytes": 5268
+    },
+    "fullImageMetadata": {
+      "file": "dist/assets/ArtifactArt-DdmignWZ.js",
+      "bytes": 143427,
+      "gzipBytes": 22039,
+      "containsAuthorizationStatus": true,
+      "loadedWithFirstMuseumCard": true
+    }
+  },
+  "note": "The complete registry was already deferred from the entry bundle, but the first museum card loaded all 191 provenance records through the shared ArtifactArt chunk."
+}

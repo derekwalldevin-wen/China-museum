@@ -1,0 +1,31 @@
+{
+  "baseUrl": "http://127.0.0.1:4174/",
+  "testedAt": "2026-09-27T01:44:56.769Z",
+  "passed": 24,
+  "checks": [
+    "desktop: hub-qj 直达、四章三细节、逐件延伸资料和无横向溢出",
+    "desktop: hub-qj→sh-sqf 有理由跳转并可历史返回",
+    "desktop: hub-qj→gb-yygd 有理由跳转并可历史返回",
+    "desktop: hun-tbh 直达、四章三细节、逐件延伸资料和无横向溢出",
+    "desktop: hun-tbh→hun-ssd 有理由跳转并可历史返回",
+    "desktop: hun-tbh→sx-qh 有理由跳转并可历史返回",
+    "desktop: hun-ssd 直达、四章三细节、逐件延伸资料和无横向溢出",
+    "desktop: hun-ssd→hun-tbh 有理由跳转并可历史返回",
+    "desktop: hun-ssd→hain-lj 有理由跳转并可历史返回",
+    "desktop: sxd-dlr 直达、四章三细节、逐件延伸资料和无横向溢出",
+    "desktop: sxd-dlr→sxd-qs 有理由跳转并可历史返回",
+    "desktop: sxd-dlr→js-tysn 有理由跳转并可历史返回",
+    "mobile: hub-qj 直达、四章三细节、逐件延伸资料和无横向溢出",
+    "mobile: hub-qj→sh-sqf 有理由跳转并可历史返回",
+    "mobile: hub-qj→gb-yygd 有理由跳转并可历史返回",
+    "mobile: hun-tbh 直达、四章三细节、逐件延伸资料和无横向溢出",
+    "mobile: hun-tbh→hun-ssd 有理由跳转并可历史返回",
+    "mobile: hun-tbh→sx-qh 有理由跳转并可历史返回",
+    "mobile: hun-ssd 直达、四章三细节、逐件延伸资料和无横向溢出",
+    "mobile: hun-ssd→hun-tbh 有理由跳转并可历史返回",
+    "mobile: hun-ssd→hain-lj 有理由跳转并可历史返回",
+    "mobile: sxd-dlr 直达、四章三细节、逐件延伸资料和无横向溢出",
+    "mobile: sxd-dlr→sxd-qs 有理由跳转并可历史返回",
+    "mobile: sxd-dlr→js-tysn 有理由跳转并可历史返回"
+  ]
+}

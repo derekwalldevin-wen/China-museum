@@ -1,0 +1,18 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "passed": 12,
+  "checks": [
+    "desktop:lb-gf direct URL, four chapters, source link, filters and viewport",
+    "desktop:hb-sjfa direct URL, four chapters, source link, filters and viewport",
+    "desktop:dz-lgd direct URL, four chapters, source link, filters and viewport",
+    "desktop:nj-js direct URL, four chapters, source link, filters and viewport",
+    "desktop:zj-sncy direct URL, four chapters, source link, filters and viewport",
+    "desktop: related jump and history back restore filters and reading position",
+    "mobile:lb-gf direct URL, four chapters, source link, filters and viewport",
+    "mobile:hb-sjfa direct URL, four chapters, source link, filters and viewport",
+    "mobile:dz-lgd direct URL, four chapters, source link, filters and viewport",
+    "mobile:nj-js direct URL, four chapters, source link, filters and viewport",
+    "mobile:zj-sncy direct URL, four chapters, source link, filters and viewport",
+    "mobile: related jump and history back restore filters and reading position"
+  ]
+}

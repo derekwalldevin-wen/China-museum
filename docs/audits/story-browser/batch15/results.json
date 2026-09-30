@@ -1,0 +1,16 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "passed": 10,
+  "checks": [
+    "desktop:sh-ltry direct URL, layers, comparison, source and viewport",
+    "desktop:sz-lhw direct URL, layers, comparison, source and viewport",
+    "desktop:sz-bz direct URL, layers, comparison, source and viewport",
+    "desktop:sz-jx direct URL, layers, comparison, source and viewport",
+    "desktop:sz-bz → sz-jx touch/click, history, filter and reading position",
+    "mobile:sh-ltry direct URL, layers, comparison, source and viewport",
+    "mobile:sz-lhw direct URL, layers, comparison, source and viewport",
+    "mobile:sz-bz direct URL, layers, comparison, source and viewport",
+    "mobile:sz-jx direct URL, layers, comparison, source and viewport",
+    "mobile:sz-bz → sz-jx touch/click, history, filter and reading position"
+  ]
+}

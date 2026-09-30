@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "testedAt": "2026-09-16T01:13:52.254Z",
+  "passed": 5,
+  "checks": [
+    "desktop: 展厅卡片只用安全清单，未请求任何完整溯源payload",
+    "desktop: 打开长卷详情只取故宫payload，并恢复来源详情图及pending授权披露",
+    "desktop: AI详情保持“非文物实拍”及细节限制，只加载当前馆payload",
+    "mobile: 直达已核详情只取浙江payload，完整授权/处理披露且无横向溢出",
+    "mobile: 完整溯源失败时保留URL和安全预览，解除阻断后原位重试成功"
+  ]
+}

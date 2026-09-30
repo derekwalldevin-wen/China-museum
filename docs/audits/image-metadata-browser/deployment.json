@@ -1,0 +1,19 @@
+{
+  "deployedAt": "2026-09-15T13:23:00.000Z",
+  "deploymentUrl": "https://1a9aab02.huaxia-museum-atlas.pages.dev/",
+  "productionUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "resources": {
+    "checked": 133,
+    "matched": 133,
+    "provenanceChecked": 59,
+    "provenanceMatched": 59
+  },
+  "entry": {
+    "path": "assets/index-BcGbnie6.js",
+    "sha256": "a94f33df10764222315f4c1883018c251ba8467674c639e238afe3bfeb89cb6c"
+  },
+  "headless": {
+    "local": 95,
+    "production": 89
+  }
+}

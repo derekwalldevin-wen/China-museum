@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-09-15",
+  "productionUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "deploymentUrl": "https://a2f8d64b.huaxia-museum-atlas.pages.dev/",
+  "bundle": "index-DAN9xKwG.js",
+  "bundleFoundOnProduction": true,
+  "images": [
+    {"role":"card","status":200,"bytes":66593,"sha256":"8d4c83a516743a84ad04df5afa60aa281afe8eff56a346fc4c9bb5705619f2a2","matchesBuild":true},
+    {"role":"detail","status":200,"bytes":460926,"sha256":"b5dd26e6a32c72d6c082869fb0e7d160822604cce12291697ee5dfba8f158c28","matchesBuild":true}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "baseUrl": "http://127.0.0.1:4173/",
+  "testedAt": "2026-09-17T00:58:01.549Z",
+  "passed": 7,
+  "checks": [
+    "mobile idle: still exactly 2 card images and zero detail images, with one current-museum provenance payload",
+    "desktop intent: 120ms hover dwell prevents sweep prefetch, then starts first audited scroll tile before click and opens decoded reader",
+    "mobile cancel: touch intent may warm one detail, but touch cancel opens no dialog, writes no artifact URL and adds no further card request",
+    "rapid navigation: a second artifact replaces the first without stale image or URL state",
+    "weak mobile: stable scroll frame appears immediately, then becomes decoded and interactive without layout or horizontal overflow",
+    "history: back restores gallery position and forward restores the decoded detail",
+    "failure: blocked prefetched WebP retries the same selected original and preserves AI disclosure"
+  ]
+}

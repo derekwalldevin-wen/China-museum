@@ -1,0 +1,32 @@
+{
+  "testedAt": "2026-09-22T13:43:05.062Z",
+  "base": "http://127.0.0.1:4173/",
+  "checks": [
+    {
+      "name": "normal-390-initial",
+      "requests": 2,
+      "bytes": 27750
+    },
+    {
+      "name": "normal-390-new-card-history",
+      "passed": true
+    },
+    {
+      "name": "weak-390-initial",
+      "requests": 2,
+      "bytes": 27750
+    },
+    {
+      "name": "weak-390-new-card-history",
+      "passed": true
+    },
+    {
+      "name": "webp-fails-same-jpeg",
+      "passed": true
+    },
+    {
+      "name": "all-formats-fail-safe-illustration",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "baseUrl": "http://127.0.0.1:4178/",
+  "testedAt": "2026-09-30T02:04:32.955Z",
+  "passed": 6,
+  "checks": [
+    "desktop: lb-yzl 四章、≥3细节、来源面板可点(2条)、有理由比较(sd-lgdy)、无溢出",
+    "desktop: sd-lgdy 四章、≥3细节、来源面板可点(2条)、有理由比较(lb-yzl)、无溢出",
+    "desktop: gx-xlt 四章、≥3细节、来源面板可点(2条)、有理由比较(gx-yfd)、无溢出",
+    "mobile: lb-yzl 四章、≥3细节、来源面板可点(2条)、有理由比较(sd-lgdy)、无溢出",
+    "mobile: sd-lgdy 四章、≥3细节、来源面板可点(2条)、有理由比较(lb-yzl)、无溢出",
+    "mobile: gx-xlt 四章、≥3细节、来源面板可点(2条)、有理由比较(gx-yfd)、无溢出"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "baseUrl": "http://127.0.0.1:4173/",
+  "testedAt": "2026-09-16T02:08:55.930Z",
+  "passed": 7,
+  "checks": [
+    "ordinary network: after two decoded cards, one museum provenance payload warms at idle; card requests stay 2 and detail requests stay 0",
+    "Save-Data: idle stays network-silent; touch intent loads one provenance and one audited detail without opening after cancel",
+    "2G: idle stays network-silent; touch intent loads one provenance and one audited detail without opening after cancel",
+    "low battery: idle stays network-silent; touch intent loads one provenance and one audited detail without opening after cancel",
+    "switch museum: pending idle work for the old museum is cancelled; at most the new museum payload is fetched",
+    "failure retry: rejected idle cache entry is removed and touch intent successfully retries metadata then detail",
+    "history/cache: back restores gallery scroll and multiple artifacts in one museum reuse exactly one provenance request"
+  ]
+}

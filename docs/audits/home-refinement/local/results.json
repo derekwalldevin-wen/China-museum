@@ -1,0 +1,269 @@
+{
+  "base": "http://127.0.0.1:4177/",
+  "testedAt": "2026-09-30T05:57:37.329Z",
+  "results": [
+    {
+      "name": "desktop",
+      "layout": {
+        "viewport": {
+          "width": 1440,
+          "height": 960
+        },
+        "overflow": 0,
+        "header": {
+          "left": 0,
+          "right": 1440,
+          "top": 0,
+          "bottom": 124,
+          "width": 1440,
+          "height": 124
+        },
+        "prologue": {
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "bottom": 0,
+          "width": 0,
+          "height": 0
+        },
+        "paper": {
+          "left": 83.59375,
+          "right": 1356.390625,
+          "top": 144.796875,
+          "bottom": 890.390625,
+          "width": 1272.796875,
+          "height": 745.59375
+        },
+        "story": {
+          "left": 32,
+          "right": 332,
+          "top": 630,
+          "bottom": 896,
+          "width": 300,
+          "height": 266
+        },
+        "storyButton": {
+          "left": 53,
+          "right": 311,
+          "top": 812.5,
+          "bottom": 856.5,
+          "width": 258,
+          "height": 44
+        },
+        "footer": {
+          "left": 0,
+          "right": 1440,
+          "top": 920.5,
+          "bottom": 960,
+          "width": 1440,
+          "height": 39.5
+        },
+        "disclosure": {
+          "left": 1178.78125,
+          "right": 1286.390625,
+          "top": 855,
+          "bottom": 874,
+          "width": 107.609375,
+          "height": 19
+        },
+        "storyColor": "rgb(37, 41, 32)",
+        "storyBackground": "radial-gradient(circle at 100% 0%, rgba(169, 52, 36, 0.075), rgba(0, 0, 0, 0) 38%), linear-gradient(125deg, rgba(235, 224, 197, 0.99), rgba(208, 190, 154, 0.98))",
+        "credit": {
+          "left": 1332.59375,
+          "right": 1420,
+          "top": 938.25,
+          "bottom": 953.25,
+          "width": 87.40625,
+          "height": 15,
+          "text": "作者：德里克文",
+          "visible": "1"
+        }
+      }
+    },
+    {
+      "name": "mobile",
+      "layout": {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "overflow": 0,
+        "header": {
+          "left": 0,
+          "right": 390,
+          "top": 0,
+          "bottom": 158.5,
+          "width": 390,
+          "height": 158.5
+        },
+        "prologue": {
+          "left": 24,
+          "right": 160.890625,
+          "top": 190,
+          "bottom": 264.796875,
+          "width": 136.890625,
+          "height": 74.796875
+        },
+        "paper": {
+          "left": 13,
+          "right": 486.1875,
+          "top": 279.5625,
+          "bottom": 566.84375,
+          "width": 473.1875,
+          "height": 287.28125
+        },
+        "story": {
+          "left": 12,
+          "right": 378,
+          "top": 578.8125,
+          "bottom": 750,
+          "width": 366,
+          "height": 171.1875
+        },
+        "storyButton": {
+          "left": 28,
+          "right": 362,
+          "top": 693,
+          "bottom": 737,
+          "width": 334,
+          "height": 44
+        },
+        "footer": {
+          "left": 0,
+          "right": 390,
+          "top": 807.5,
+          "bottom": 844,
+          "width": 390,
+          "height": 36.5
+        },
+        "disclosure": {
+          "left": 79.234375,
+          "right": 186.84375,
+          "top": 543.546875,
+          "bottom": 562.546875,
+          "width": 107.609375,
+          "height": 19
+        },
+        "storyColor": "rgb(37, 41, 32)",
+        "storyBackground": "linear-gradient(125deg, rgba(235, 224, 197, 0.99), rgba(208, 190, 154, 0.98))",
+        "credit": {
+          "left": 294.21875,
+          "right": 370,
+          "top": 824.5,
+          "bottom": 838,
+          "width": 75.78125,
+          "height": 13.5,
+          "text": "作者：德里克文",
+          "visible": "1"
+        }
+      }
+    },
+    {
+      "name": "story-note-navigation",
+      "storyId": "gg-qmsh",
+      "opened": true
+    },
+    {
+      "name": "mobile-short",
+      "layout": {
+        "viewport": {
+          "width": 390,
+          "height": 667
+        },
+        "overflow": 0,
+        "header": {
+          "left": 0,
+          "right": 390,
+          "top": 0,
+          "bottom": 158.5,
+          "width": 390,
+          "height": 158.5
+        },
+        "prologue": {
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "bottom": 0,
+          "width": 0,
+          "height": 0
+        },
+        "paper": {
+          "left": 13,
+          "right": 486.1875,
+          "top": 191.0625,
+          "bottom": 478.34375,
+          "width": 473.1875,
+          "height": 287.28125
+        },
+        "story": {
+          "left": 12,
+          "right": 378,
+          "top": 483,
+          "bottom": 615,
+          "width": 366,
+          "height": 132
+        },
+        "storyButton": {
+          "left": 28,
+          "right": 362,
+          "top": 558,
+          "bottom": 602,
+          "width": 334,
+          "height": 44
+        },
+        "footer": {
+          "left": 0,
+          "right": 390,
+          "top": 630.5,
+          "bottom": 667,
+          "width": 390,
+          "height": 36.5
+        },
+        "disclosure": {
+          "left": 79.234375,
+          "right": 186.84375,
+          "top": 455.046875,
+          "bottom": 474.046875,
+          "width": 107.609375,
+          "height": 19
+        },
+        "storyColor": "rgb(37, 41, 32)",
+        "storyBackground": "linear-gradient(125deg, rgba(235, 224, 197, 0.99), rgba(208, 190, 154, 0.98))",
+        "credit": {
+          "left": 294.21875,
+          "right": 370,
+          "top": 647.5,
+          "bottom": 661,
+          "width": 75.78125,
+          "height": 13.5,
+          "text": "作者：德里克文",
+          "visible": "1"
+        }
+      }
+    },
+    {
+      "name": "artwork-failure",
+      "mapInteractive": true,
+      "disclosureHidden": true
+    },
+    {
+      "name": "simulated-low-end-6x-cpu-100KiBs-400ms-rtt",
+      "elapsedWallMs": 30085,
+      "checkpoints": {
+        "navigationWallMs": 6189,
+        "mapWallMs": 13062,
+        "artWallMs": 28569
+      },
+      "timings": {
+        "domContentLoadedMs": 4804,
+        "loadMs": 4821,
+        "artResources": [],
+        "artCurrentSrc": "http://127.0.0.1:4177/art/shanhe-handscroll-mobile.jpg",
+        "artNaturalWidth": 850,
+        "provinceCount": 34,
+        "storyVisible": true,
+        "introMode": "exited"
+      }
+    }
+  ]
+}

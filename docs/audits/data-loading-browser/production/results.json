@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "testedAt": "2026-09-15T15:38:51.410Z",
+  "passed": 4,
+  "checks": [
+    "desktop: 首屏未请求59馆完整payload或全文检索语料",
+    "desktop: 故事正文旧检索命中保持，并只载入目标国博payload",
+    "mobile: 分享URL直达详情只载当前馆，筛选保留且不下载地图几何",
+    "mobile: 同省切馆按需增加一个payload，无横向溢出"
+  ]
+}

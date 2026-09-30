@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-15",
+  "deploymentUrl": "https://16e44592.huaxia-museum-atlas.pages.dev",
+  "productionUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "mainHtmlReferencesCurrentIndex": true,
+  "verifiedAssets": [
+    {"path":"/assets/index-CEbVcXjj.js","status":200,"matchesLocalSha256":true,"sha256":"67f135171df3902be53a0749f84e9806df6a5d99055f169ab560b9fb6c0c56d7"},
+    {"path":"/assets/StoryExperience-CcJAqfRe.js","status":200,"matchesLocalSha256":true,"sha256":"6fe488e5ee7657242c035cac1936e1f30636ba9ac8ad60bc518564e6da7f6196"},
+    {"path":"/assets/StoryExperience-8SsGKM3_.css","status":200,"matchesLocalSha256":true,"sha256":"8a26ec38b4b5a3774273dde263915121053433d7b16281cbf18f31f8822e48a0"}
+  ],
+  "scope": "Hash comparison covers these three assets only; browser tests are recorded separately. Story assets are dynamically imported and therefore are not expected as direct tags in index.html."
+}

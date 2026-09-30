@@ -1,0 +1,39 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "catalogSize": 93,
+  "viewportChecks": 186,
+  "shardCount": 6,
+  "summaries": [
+    {
+      "shardIndex": 0,
+      "artifacts": 16,
+      "checks": 32
+    },
+    {
+      "shardIndex": 1,
+      "artifacts": 16,
+      "checks": 32
+    },
+    {
+      "shardIndex": 2,
+      "artifacts": 16,
+      "checks": 32
+    },
+    {
+      "shardIndex": 3,
+      "artifacts": 15,
+      "checks": 30
+    },
+    {
+      "shardIndex": 4,
+      "artifacts": 15,
+      "checks": 30
+    },
+    {
+      "shardIndex": 5,
+      "artifacts": 15,
+      "checks": 30
+    }
+  ],
+  "verifiedAt": "2026-09-27T15:00:47.018Z"
+}

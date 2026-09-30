@@ -1,0 +1,14 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "passed": 8,
+  "checks": [
+    "desktop:sb-qhbf direct URL, four chapters, source link, filters and viewport",
+    "desktop:tb-xjhl direct URL, four chapters, source link, filters and viewport",
+    "desktop:tb-tbd direct URL, four chapters, source link, filters and viewport",
+    "desktop: related jump and history back restore filters and reading position",
+    "mobile:sb-qhbf direct URL, four chapters, source link, filters and viewport",
+    "mobile:tb-xjhl direct URL, four chapters, source link, filters and viewport",
+    "mobile:tb-tbd direct URL, four chapters, source link, filters and viewport",
+    "mobile: related jump and history back restore filters and reading position"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "base": "http://127.0.0.1:4174/",
+  "passed": 6,
+  "checks": [
+    "desktop:qs-tcm direct URL, source, filters and viewport",
+    "desktop:qs-gyz direct URL, source, filters and viewport",
+    "desktop: related jump, history back, filters and reading position",
+    "mobile:qs-tcm direct URL, source, filters and viewport",
+    "mobile:qs-gyz direct URL, source, filters and viewport",
+    "mobile: related jump, history back, filters and reading position"
+  ]
+}

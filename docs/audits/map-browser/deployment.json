@@ -1,0 +1,18 @@
+{
+  "deployedAt": "2026-09-15T12:00:24.1636621Z",
+  "deploymentUrl": "https://aa0297d9.huaxia-museum-atlas.pages.dev/",
+  "productionUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "assetCount": 13,
+  "matchedLocalSha256": 13,
+  "keyAssets": [
+    {"path":"/assets/ScrollMapScene-Dk5Johni.js","bytes":10746,"sha256":"7154ec098f942a50ded415ec86ab33f03078c87347b7a8a9879ab95b339fb6ae","matchesLocalSha256":true},
+    {"path":"/assets/china-provinces.standard-D9IBfMEX.js","bytes":131147,"sha256":"4a684305e717c504977efb108f84cfb5cb7860b68e0c37e23e8438f3cbec9c6c","matchesLocalSha256":true},
+    {"path":"/assets/china-provinces.compact-CSyKPZRl.js","bytes":85002,"sha256":"934aab27dddae60e0e787e3d4c3f2a3fe7716a1fb873f312678f899e6bc99299","matchesLocalSha256":true},
+    {"path":"/assets/index-Wkxcob5u.js","bytes":351977,"sha256":"ab9301dc93a4997efb817184215bbf094b0f10c7193e06ac13a70269ac44e0c6","matchesLocalSha256":true}
+  ],
+  "verification": {
+    "map": 7,
+    "collectionAndDetailRegression": 25,
+    "stories": 48
+  }
+}
