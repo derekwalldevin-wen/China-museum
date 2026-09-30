@@ -1,0 +1,424 @@
+{
+  "capturedAt": "2026-09-23",
+  "replacedIds": [
+    "gg-jgyg",
+    "hlj-syj",
+    "nb-wgj",
+    "jdz-qhmb",
+    "sxl-lt",
+    "mo-klk"
+  ],
+  "unaffectedRecords": 195,
+  "unaffectedRecordsSha256": "1714616921e1f75988ba2a7ee9e0b7ee1383849e64e80e246df596b0e6fda859",
+  "previousUnchangedRecordsSha256": "b4e2bbe7ff012bdd5f83eaa83c6995740844d7996ea0460004f0d767ac2336b6",
+  "referenceRefresh": "2026-09-23: corrected the official catalog URL and added a link-check date for gg-ryzl; illustration pixels, selection and AI disclosure are unchanged.",
+  "heldRecords": {
+    "gg-jgyg": {
+      "src": "/artifacts/gg-jgyg.jpg",
+      "credit": "金甌永固杯.png",
+      "variants": {
+        "card": {
+          "src": "/artifacts-v2/p2-source/gg-jgyg.png",
+          "kind": "ai",
+          "fit": "cover",
+          "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+          "provenance": {
+            "type": "ai",
+            "generator": "OpenAI image generation",
+            "promptVersion": "artifact-v2-p2-source-2026-08-27",
+            "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+            "generatedAt": "2026-08-27",
+            "references": [
+              {
+                "type": "local-archive",
+                "value": "/artifacts/gg-jgyg.jpg",
+                "credit": "金甌永固杯.png"
+              }
+            ]
+          },
+          "review": {
+            "visual": "approved",
+            "historical": "pending",
+            "reviewedAt": "2026-08-27",
+            "reviewedBy": "Codex visual QA",
+            "note": "杯体、双耳、三象首足、金胎与珠宝层级通过；为避免伪铭文，卡片口沿采用无字素蓝带，真实铭文仅以详情来源图为准。"
+          }
+        },
+        "detail": {
+          "src": "/artifacts/gg-jgyg.jpg",
+          "kind": "source",
+          "fit": "contain",
+          "credit": "金甌永固杯.png",
+          "provenance": {
+            "type": "source",
+            "authorizationStatus": "pending",
+            "assetMatchStatus": "mismatch",
+            "assetSha256": "c89791eb306436f3c03ffbaf70fed29c5cee7ae9b1d3224fc5008d18d27ec2b0",
+            "evidenceNote": "来源页图像标注台北故宫故雜005490，并非本站北京故宫记录。",
+            "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E7%94%8C%E6%B0%B8%E5%9B%BA%E6%9D%AF.png",
+            "sourceTitle": "金甌永固杯.png",
+            "author": "国立故宫博物院",
+            "institution": "国立故宫博物院（台北）",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "verifiedAt": "2026-09-15",
+            "linkCheckedAt": "2026-09-15"
+          },
+          "review": {
+            "visual": "approved",
+            "historical": "rejected",
+            "reviewedAt": "2026-09-15",
+            "reviewedBy": "Codex provenance round 3",
+            "note": "来源页图像标注台北故宫故雜005490，并非本站北京故宫记录。"
+          }
+        }
+      },
+      "sourceReview": {
+        "reviewedAt": "2026-09-15",
+        "note": "北京故宫数字库已核对到故00011674；未取得开放许可，不能用台北故杂005490图片代替。",
+        "authorityUrl": "https://digicol.dpm.org.cn/cultural/detail?id=d3c6021697c94071a79f405c9e79aa82&page=1&source=0"
+      },
+      "imageHold": {
+        "reason": "来源页图像标注台北故宫故雜005490，并非本站北京故宫记录。",
+        "reviewedAt": "2026-09-15"
+      }
+    },
+    "hlj-syj": {
+      "src": "/artifacts/hlj-syj.jpg",
+      "credit": "File:双鱼大铜镜 复制品 黑龙江.jpg",
+      "variants": {
+        "card": {
+          "src": "/artifacts-v2/p2-source/hlj-syj.png",
+          "kind": "ai",
+          "fit": "cover",
+          "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+          "provenance": {
+            "type": "ai",
+            "generator": "OpenAI image generation",
+            "promptVersion": "artifact-v2-p2-source-2026-08-27",
+            "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+            "generatedAt": "2026-08-27",
+            "references": [
+              {
+                "type": "local-archive",
+                "value": "/artifacts/hlj-syj.jpg",
+                "credit": "File:双鱼大铜镜 复制品 黑龙江.jpg"
+              }
+            ]
+          },
+          "review": {
+            "visual": "approved",
+            "historical": "pending",
+            "reviewedAt": "2026-08-27",
+            "reviewedBy": "Codex visual QA",
+            "note": "圆镜、中央钮、双鱼首尾环绕关系与暗色铜质通过；波纹和边饰细节仍以原始详情图为准。"
+          }
+        },
+        "detail": {
+          "src": "/artifacts/hlj-syj.jpg",
+          "kind": "source",
+          "fit": "contain",
+          "credit": "File:双鱼大铜镜 复制品 黑龙江.jpg",
+          "provenance": {
+            "type": "source",
+            "authorizationStatus": "pending",
+            "assetMatchStatus": "pending",
+            "assetSha256": "8987b40931944d8b94c635f3fde1c1360c984522b0942efe6abf4291c61bff16",
+            "evidenceNote": "分类页出现复制品线索；文件说明页未能读取，不能认定为原件影像。",
+            "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。"
+          },
+          "review": {
+            "visual": "approved",
+            "historical": "pending",
+            "reviewedAt": "2026-08-27",
+            "reviewedBy": "Codex source QA",
+            "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+          }
+        }
+      },
+      "sourceReview": {
+        "reviewedAt": "2026-09-15",
+        "note": "找到两馆展览中的黑龙江双鱼纹大铜镜线索，页面超时；不能据同名把不同尺寸、出土地的双鱼镜代入。"
+      },
+      "imageHold": {
+        "reason": "分类页出现复制品线索；文件说明页未能读取，不能认定为原件影像。",
+        "reviewedAt": "2026-09-15"
+      }
+    },
+    "nb-wgj": {
+      "src": "/artifacts/nb-wgj.jpg",
+      "credit": "File:Wedding sedan chair in Zhejiang Museum.JPG",
+      "variants": {
+        "card": {
+          "src": "/artifacts-v2/p2-source/nb-wgj.png",
+          "kind": "ai",
+          "fit": "cover",
+          "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+          "provenance": {
+            "type": "ai",
+            "generator": "OpenAI image generation",
+            "promptVersion": "artifact-v2-p2-source-2026-08-27",
+            "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+            "generatedAt": "2026-08-27",
+            "references": [
+              {
+                "type": "local-archive",
+                "value": "/artifacts/nb-wgj.jpg",
+                "credit": "File:Wedding sedan chair in Zhejiang Museum.JPG"
+              }
+            ]
+          },
+          "review": {
+            "visual": "approved",
+            "historical": "pending",
+            "reviewedAt": "2026-08-27",
+            "reviewedBy": "Codex visual QA",
+            "note": "万工轿完整轿体、密集雕刻层级、红金材质、垂饰及前部轿杠关系通过；未添加人物或仪仗场景。"
+          }
+        },
+        "detail": {
+          "src": "/artifacts/nb-wgj.jpg",
+          "kind": "source",
+          "fit": "contain",
+          "credit": "File:Wedding sedan chair in Zhejiang Museum.JPG",
+          "provenance": {
+            "type": "source",
+            "authorizationStatus": "pending",
+            "assetMatchStatus": "mismatch",
+            "assetSha256": "82ccbaa58f31f42b73b4a8e3568c32fe494c1b29af8abf8f2597a01702907282",
+            "evidenceNote": "来源页明确馆藏为浙江省博物馆，与本站宁波博物馆记录不符。",
+            "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wedding_sedan_chair_in_Zhejiang_Museum.JPG",
+            "sourceTitle": "Wedding sedan chair in Zhejiang Museum.JPG",
+            "author": "LukeLOU",
+            "institution": "浙江省博物馆",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "verifiedAt": "2026-09-15",
+            "linkCheckedAt": "2026-09-15"
+          },
+          "review": {
+            "visual": "approved",
+            "historical": "rejected",
+            "reviewedAt": "2026-09-15",
+            "reviewedBy": "Codex provenance round 3",
+            "note": "来源页明确馆藏为浙江省博物馆，与本站宁波博物馆记录不符。"
+          }
+        }
+      },
+      "sourceReview": {
+        "reviewedAt": "2026-09-15",
+        "note": "已核读宁波博物院万工轿资料，但未找到图像再利用许可；继续隔离旧浙江省博图与依赖图。",
+        "authorityUrl": "https://www.nbmuseum.cn/art/2020/9/1/art_20385_1225.html"
+      },
+      "imageHold": {
+        "reason": "来源页明确馆藏为浙江省博物馆，与本站宁波博物馆记录不符。",
+        "reviewedAt": "2026-09-15"
+      }
+    },
+    "jdz-qhmb": {
+      "src": "/artifacts/jdz-qhmb.jpg",
+      "credit": "File:青花孔雀牡丹梅瓶08705.jpg",
+      "variants": {
+        "card": {
+          "src": "/artifacts-v2/p2-source/jdz-qhmb.png",
+          "kind": "ai",
+          "fit": "cover",
+          "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+          "provenance": {
+            "type": "ai",
+            "generator": "OpenAI image generation",
+            "promptVersion": "artifact-v2-p2-source-2026-08-27",
+            "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+            "generatedAt": "2026-08-27",
+            "references": [
+              {
+                "type": "local-archive",
+                "value": "/artifacts/jdz-qhmb.jpg",
+                "credit": "File:青花孔雀牡丹梅瓶08705.jpg"
+              }
+            ]
+          },
+          "review": {
+            "visual": "approved",
+            "historical": "pending",
+            "reviewedAt": "2026-08-27",
+            "reviewedBy": "Codex visual QA",
+            "note": "梅瓶口颈、丰肩、收腹轮廓及凤鸟、牡丹与分区纹饰层级通过；具体笔触与釉色仍以原始详情图为准。"
+          }
+        },
+        "detail": {
+          "src": "/artifacts/jdz-qhmb.jpg",
+          "kind": "source",
+          "fit": "contain",
+          "credit": "File:青花孔雀牡丹梅瓶08705.jpg",
+          "provenance": {
+            "type": "source",
+            "authorizationStatus": "pending",
+            "assetMatchStatus": "pending",
+            "assetSha256": "670fa8e5f67e80dab941c61363c195c2ffbf6feac7f80a835ad7822687616849",
+            "evidenceNote": "来源线索落入北京保利2018春拍分类，不能确认是景德镇馆藏的缠枝牡丹梅瓶。",
+            "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。"
+          },
+          "review": {
+            "visual": "approved",
+            "historical": "pending",
+            "reviewedAt": "2026-08-27",
+            "reviewedBy": "Codex source QA",
+            "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+          }
+        }
+      },
+      "sourceReview": {
+        "reviewedAt": "2026-09-15",
+        "note": "市政府馆藏报道明确元青花缠枝牡丹纹梅瓶，但未找到图片再利用许可，不接入报道图片。",
+        "authorityUrl": "https://www.jdz.gov.cn/zwzx/tpxw/t1095082.shtml"
+      },
+      "imageHold": {
+        "reason": "来源线索落入北京保利2018春拍分类，不能确认是景德镇馆藏的缠枝牡丹梅瓶。",
+        "reviewedAt": "2026-09-15"
+      }
+    },
+    "sxl-lt": {
+      "src": "/artifacts/sxl-lt.jpg",
+      "credit": "File:20251026 Sancai-glazed Pottery Musician on Camelback.jpg",
+      "variants": {
+        "card": {
+          "src": "/artifacts-v2/p2-source/sxl-lt.png",
+          "kind": "ai",
+          "fit": "cover",
+          "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+          "provenance": {
+            "type": "ai",
+            "generator": "OpenAI image generation",
+            "promptVersion": "artifact-v2-p2-source-2026-08-27",
+            "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+            "generatedAt": "2026-08-27",
+            "references": [
+              {
+                "type": "local-archive",
+                "value": "/artifacts/sxl-lt.jpg",
+                "credit": "File:20251026 Sancai-glazed Pottery Musician on Camelback.jpg"
+              }
+            ]
+          },
+          "review": {
+            "visual": "approved",
+            "historical": "pending",
+            "reviewedAt": "2026-08-27",
+            "reviewedBy": "Codex visual QA",
+            "note": "骆驼完整四足、昂首、鞍毯与五名可见人物数量通过；人物动作细节仍以原始详情图为准。"
+          }
+        },
+        "detail": {
+          "src": "/artifacts/sxl-lt.jpg",
+          "kind": "source",
+          "fit": "contain",
+          "credit": "File:20251026 Sancai-glazed Pottery Musician on Camelback.jpg",
+          "provenance": {
+            "type": "source",
+            "authorizationStatus": "pending",
+            "assetMatchStatus": "mismatch",
+            "assetSha256": "b363d71896788e9c9604ba318acef44444e887f9305b750e08a727567532864d",
+            "evidenceNote": "来源页明确为中国国家博物馆鲜于廉墓出土骆驼载乐俑，与本站陕西历史博物馆记录不符。",
+            "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:20251026_Sancai-glazed_Pottery_Musician_on_Camelback.jpg",
+            "sourceTitle": "20251026 Sancai-glazed Pottery Musician on Camelback.jpg",
+            "author": "Windmemories",
+            "institution": "中国国家博物馆",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "verifiedAt": "2026-09-15",
+            "linkCheckedAt": "2026-09-15"
+          },
+          "review": {
+            "visual": "approved",
+            "historical": "rejected",
+            "reviewedAt": "2026-09-15",
+            "reviewedBy": "Codex provenance round 3",
+            "note": "来源页明确为中国国家博物馆鲜于廉墓出土骆驼载乐俑，与本站陕西历史博物馆记录不符。"
+          }
+        }
+      },
+      "sourceReview": {
+        "reviewedAt": "2026-09-15",
+        "note": "找到陕西历史博物馆Gary Todd照片，逐文件CC0声明已核读；从摄影者Flickr下载超时，继续隔离。",
+        "authorityUrl": "https://commons.wikimedia.org/wiki/File:Tang_Sancai_Camel_%26_Musicians_(47489638351).jpg"
+      },
+      "imageHold": {
+        "reason": "来源页明确为中国国家博物馆鲜于廉墓出土骆驼载乐俑，与本站陕西历史博物馆记录不符。",
+        "reviewedAt": "2026-09-15"
+      }
+    },
+    "mo-klk": {
+      "src": "/artifacts/mo-klk.jpg",
+      "credit": "2015.04.12.00001a.jpg",
+      "variants": {
+        "card": {
+          "src": "/artifacts-v2/p2-source/mo-klk.png",
+          "kind": "ai",
+          "fit": "cover",
+          "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+          "provenance": {
+            "type": "ai",
+            "generator": "OpenAI image generation",
+            "promptVersion": "artifact-v2-p2-source-2026-08-27",
+            "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+            "generatedAt": "2026-08-27",
+            "references": [
+              {
+                "type": "local-archive",
+                "value": "/artifacts/mo-klk.jpg",
+                "credit": "2015.04.12.00001a.jpg"
+              }
+            ]
+          },
+          "review": {
+            "visual": "approved",
+            "historical": "pending",
+            "reviewedAt": "2026-08-27",
+            "reviewedBy": "Codex visual QA",
+            "note": "青花盘完整器形、中心花鸟与放射式开光层级通过；各开光笔触细节仍以原始详情图为准。"
+          }
+        },
+        "detail": {
+          "src": "/artifacts/mo-klk.jpg",
+          "kind": "source",
+          "fit": "contain",
+          "credit": "2015.04.12.00001a.jpg",
+          "provenance": {
+            "type": "source",
+            "authorizationStatus": "pending",
+            "assetMatchStatus": "pending",
+            "assetSha256": "2a29823fcc03bc32ac307fd536dc5c06527dbfd0e0fe2444e8b20f951107a6fa",
+            "evidenceNote": "文件说明只识别为克拉克瓷盘，未提供澳门博物馆收藏依据；元数据含 eBay 处理说明，需要核查上传者权利与实物身份。",
+            "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015.04.12.00001a.jpg",
+            "sourceTitle": "2015.04.12.00001a.jpg",
+            "author": "Hillarjr",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "verifiedAt": "2026-09-15",
+            "linkCheckedAt": "2026-09-15"
+          },
+          "review": {
+            "visual": "approved",
+            "historical": "pending",
+            "reviewedAt": "2026-08-27",
+            "reviewedBy": "Codex source QA",
+            "note": "保留原始来源图作为详情与史实参考；来源页、作者/机构与许可字段仍待补充核验。"
+          }
+        }
+      },
+      "sourceReview": {
+        "reviewedAt": "2026-09-15",
+        "note": "官网检索指向MM5197，页面本次返回空内容；图像和授权尚未完成核读，继续待核。"
+      },
+      "imageHold": {
+        "reason": "文件说明只识别为克拉克瓷盘，未提供澳门博物馆收藏依据；元数据含 eBay 处理说明，需要核查上传者权利与实物身份。",
+        "reviewedAt": "2026-09-15"
+      }
+    }
+  }
+}

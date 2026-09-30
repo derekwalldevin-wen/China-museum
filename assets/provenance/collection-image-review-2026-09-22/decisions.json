@@ -1,0 +1,16 @@
+{
+  "reviewedAt": "2026-09-22",
+  "scope": "本批10件新增藏品；馆方照片仅用于比对，不转载；下载成功不等于审核通过",
+  "decisions": [
+    {"id":"gg-jgb","status":"pending","reason":"Commons候选有CC BY-SA 4.0许可，但同类鸡缸杯不止一件，缺少器底款识或藏品编号等精确对应证据，不据器型或文件名认定为本条藏品。"},
+    {"id":"gg-ryzl","status":"pending","reason":"尚未找到精确匹配且具有明确可复用许可的影像。本轮馆方页面连接超时，不据历史页面或文件名确认图片授权。"},
+    {"id":"gb-gyts","status":"approved","downloadId":"gb-gyts-front","author":"Augustokremo","institution":"中国国家博物馆","reason":"与馆方图核对：白鹳衔鱼、右侧石斧、器耳及收腹轮廓一致；选用正面08764，背面08766不用于展示。Commons原件与公布SHA-1一致，摄影者标明CC BY-SA 4.0。"},
+    {"id":"gb-yygd","status":"approved","downloadId":"gb-yygd","author":"Gary Todd","institution":"中国国家博物馆","reason":"与馆方图核对：雁衔鱼灯罩、灯盘开口、腹部红白彩点与鳞纹、把手结构一致；拍摄方向不同。馆藏机构及山西出土信息相符。Commons摄影原件标明CC0。"},
+    {"id":"gb-cxct","status":"approved","downloadId":"gb-cxct","author":"Editor at Large","institution":"中国国家博物馆","reason":"与馆方图核对：船形轮廓、双系耳、黑色网格带与彩绘剥落位置一致；Commons展览信息支持馆藏对应，摄影原件标明CC BY-SA 2.5。","priorModifications":"Commons上传历史记载此前已旋转、裁切和清理；本站不再裁切，不进行修复或AI补绘。"},
+    {"id":"sh-zzjp","status":"approved","downloadId":"sh-zzjp","author":"Alexey Yakovlev","institution":"上海博物馆","reason":"与馆方图核对：双耳、沿口角兽、盘内立鸟及鱼鸟布局、蛙龟造型和蓝绿色锈斑一致。Commons摄影原件标明CC0；其年代、尺寸和铭文说明存在错误，事实仍采用馆方春秋早期、口径45厘米、高18厘米、铭文32字，不采纳Commons说明文字。"},
+    {"id":"sh-ltry","status":"pending","reason":"候选为莲塘乳鸭图的二维复制影像，只有PD-Art公共领域声明，未提供摄影者的独立开放许可；尚未完成该声明对本站使用场景的适用性核验，继续待图。这不等于判定该影像侵权。"},
+    {"id":"nb-htb","status":"pending","reason":"宁波博物馆官方页面可核对器物，但未找到明确开放影像许可；不把馆方公开展示等同于可转载。"},
+    {"id":"hn-ywtj","status":"approved","downloadId":"hn-ywtj","author":"Gary Todd","institution":"河南博物院","reason":"与馆方图核对：长方形中部素面、四周透空云纹、重复伏兽和边沿支撑布局一致；馆藏机构相符，Commons摄影原件标明CC0。"},
+    {"id":"sxl-ptxn","status":"pending","reason":"陕西历史博物馆官方藏品记录及图像可核对，但无明确可复用许可；未用其他银香囊或复制品替代该件。"}
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "src": "/artifacts/zj-yzj.jpg",
+  "credit": "Early Warring States Jian 越王者旨於睗剑 上海博物馆.jpg",
+  "variants": {
+    "card": {
+      "src": "/artifacts-v2/p2-source/zj-yzj.png",
+      "kind": "ai",
+      "fit": "cover",
+      "credit": "AI 生成示意 · 基于真实来源图统一展陈",
+      "provenance": {
+        "type": "ai",
+        "generator": "OpenAI image generation",
+        "promptVersion": "artifact-v2-p2-source-2026-08-27",
+        "promptManifest": "assets/artifact-image-prompts/p2-source-2026-08-27.json",
+        "generatedAt": "2026-08-27",
+        "references": [
+          {
+            "type": "local-archive",
+            "value": "/artifacts/zj-yzj.jpg",
+            "credit": "Early Warring States Jian 越王者旨於睗剑 上海博物馆.jpg"
+          }
+        ]
+      },
+      "review": {
+        "visual": "approved",
+        "historical": "pending",
+        "reviewedAt": "2026-08-27",
+        "reviewedBy": "Codex visual QA",
+        "note": "两件独立剑具的数量、平行陈列、盘形首与一深一绿铜锈差异通过；未补造鸟虫书铭文。"
+      }
+    },
+    "detail": {
+      "src": "/artifacts/zj-yzj.jpg",
+      "kind": "source",
+      "fit": "contain",
+      "credit": "Early Warring States Jian 越王者旨於睗剑 上海博物馆.jpg",
+      "provenance": {
+        "type": "source",
+        "authorizationStatus": "pending",
+        "assetMatchStatus": "mismatch",
+        "assetSha256": "c5bb0951f43df04bad5c6d6dd367489bc0d7eaf04d72c8aa8834023aa2ffa18c",
+        "evidenceNote": "来源页明确为上海博物馆的两把剑，与本站浙江省博物馆记录不符。",
+        "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Early_Warring_States_Jian_%E8%B6%8A%E7%8E%8B%E8%80%85%E6%97%A8%E6%96%BC%E7%9D%97%E5%89%91_%E4%B8%8A%E6%B5%B7%E5%8D%9A%E7%89%A9%E9%A6%86.jpg",
+        "sourceTitle": "Early Warring States Jian 越王者旨於睗剑 上海博物馆.jpg",
+        "author": "Gary Todd",
+        "institution": "上海博物馆",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "verifiedAt": "2026-09-15",
+        "linkCheckedAt": "2026-09-15"
+      },
+      "review": {
+        "visual": "approved",
+        "historical": "rejected",
+        "reviewedAt": "2026-09-15",
+        "reviewedBy": "Codex provenance round 3",
+        "note": "来源页明确为上海博物馆的两把剑，与本站浙江省博物馆记录不符。"
+      }
+    }
+  },
+  "sourceReview": {
+    "reviewedAt": "2026-09-15",
+    "note": "来源页明确为上海博物馆的两把剑，与本站浙江省博物馆记录不符。"
+  },
+  "imageHold": {
+    "reason": "来源页明确为上海博物馆的两把剑，与本站浙江省博物馆记录不符。",
+    "reviewedAt": "2026-09-15"
+  }
+}

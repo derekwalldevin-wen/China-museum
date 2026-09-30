@@ -1,0 +1,4413 @@
+{
+  "version": 1,
+  "artifacts": {
+    "gg-qmsh": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/user-qingming/gg-qmsh-hongqiao-card.jpg",
+            "kind": "source"
+          },
+          "fallback": {
+            "src": "/artifact-sources/user-qingming/gg-qmsh-reading.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifact-sources/user-qingming/gg-qmsh-reading.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "gg-qljs": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/gg-qljs.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/gg-qljs.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/gg-qljs.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "gg-pft": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/gg-pft.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/gg-pft.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/gg-pft.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "gg-jgyg": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/gg-jgyg.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/gg-jgyg.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gg-gzdc": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/gg-gzdc.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/gg-gzdc.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/gg-gzdc.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/gg-gzdc.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hlj-tzl": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/hlj-tzl.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hlj-tzl.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hlj-tzl.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hn-jhg": {
+      "hold": false,
+      "shape": "bone",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/hn-jhg.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hn-jhg.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hn-jhg.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hn-fhxz": {
+      "hold": false,
+      "shape": "zun",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/hn-fhxz.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hn-fhxz.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hn-fhxz.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hn-lhfh": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/hn-lhfh.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hn-lhfh.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hn-lhfh.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hn-wzt": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/hn-wzt.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hn-wzt.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/hn-wzt.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hn-wzt.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "gb-hmwd": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/gb-hmwd.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/gb-hmwd.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gb-hmwd.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "gb-syz": {
+      "hold": false,
+      "shape": "zun",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/gb-syz.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/gb-syz.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gb-syz.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "gb-jgs": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/gb-jgs.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/gb-jgs.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gb-jgs.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "gb-jlfw": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/gb-jlfw.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/gb-jlfw.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gb-jlfw.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hlj-gys": {
+      "hold": false,
+      "shape": "bone",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/hlj-gys.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hlj-gys.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/hlj-gys.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hlj-gys.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "jdz-qhmb": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/jdz-qhmb.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/jdz-qhmb.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "jz-yzj": {
+      "hold": false,
+      "shape": "sword",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/jz-yzj.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/jz-yzj.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/jz-yzj.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hun-tbh": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/hun-tbh.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hun-tbh.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/hun-tbh.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hun-ssd": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/hun-ssd.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hun-ssd.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hun-ssd.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sxd-zym": {
+      "hold": false,
+      "shape": "mask",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/sxd-zym.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sxd-zym.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sxd-zym.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sxd-jz": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/sxd-jz.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sxd-jz.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/sxd-jz.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sxd-jz.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "js-tysn": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/js-tysn.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/js-tysn.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/js-tysn.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/js-tysn.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "js-hjm": {
+      "hold": false,
+      "shape": "mask",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/js-hjm.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/js-hjm.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/js-hjm.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/js-hjm.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "js-sjc": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/js-sjc.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/js-sjc.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/js-sjc.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/js-sjc.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "nm-jgs": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/nm-jgs.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/nm-jgs.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/nm-jgs.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "zj-yzj": {
+      "hold": false,
+      "shape": "sword",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/verified/zj-yzj-card-cc0.jpg",
+            "kind": "source"
+          },
+          "fallback": {
+            "src": "/artifact-sources/verified/zj-yzj-detail-cc0.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/verified/zj-yzj-detail-cc0.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "kf-khc": {
+      "hold": false,
+      "shape": "buddha",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/kf-khc.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/kf-khc.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/kf-khc.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "cq-wyq": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/cq-wyq.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/cq-wyq.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/cq-wyq.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "dz-qsg": {
+      "hold": false,
+      "shape": "buddha",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/dz-qsg.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/dz-qsg.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/dz-qsg.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "tb-tbd": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/tb-tbd.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/tb-tbd.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/tb-tbd.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/tb-tbd.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "tb-yhc": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/tb-yhc.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/tb-yhc.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/tb-yhc.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/tb-yhc.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hb-cxd": {
+      "hold": false,
+      "shape": "lamp",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/hb-cxd.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/hb-cxd.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hb-jly": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/hb-jly.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hb-jly.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hb-jly.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "nb-wgj": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/nb-wgj.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/nb-wgj.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sb-jd": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/sb-jd.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sb-jd.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/sb-jd.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sb-jd.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sb-bjl": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/sb-bjl.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sb-bjl.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/sb-bjl.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sb-bjl.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sz-bz": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/sz-bz.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sz-bz.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sz-bz.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hub-zhy": {
+      "hold": false,
+      "shape": "bell",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/hub-zhy.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hub-zhy.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/hub-zhy.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hub-zhy.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hub-ywj": {
+      "hold": false,
+      "shape": "sword",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/hub-ywj.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hub-ywj.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/hub-ywj.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hub-ywj.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sxl-hzx": {
+      "hold": false,
+      "shape": "seal",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/sxl-hzx.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sxl-hzx.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sxl-hzx.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sxl-yjb": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/sxl-yjb.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sxl-yjb.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sxl-yjb.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sb-qhbf": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/sb-qhbf.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sb-qhbf.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sb-qhbf.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "tb-xjhl": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/tb-xjhl.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/tb-xjhl.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/tb-xjhl.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hb-sjfa": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/hb-sjfa.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hb-sjfa.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/hb-sjfa.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hb-sjfa.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hlj-syj": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/hlj-syj.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/hlj-syj.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sh-dkd": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/sh-dkd.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sh-dkd.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sh-dkd.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sh-syt": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/sh-syt.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sh-syt.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/sh-syt.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sh-sqf": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/sh-sqf.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-sources/official/sh-sqf.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/official/sh-sqf.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "qzx-lxsf": {
+      "hold": false,
+      "shape": "buddha",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/qzx-lxsf.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/qzx-lxsf.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/qzx-lxsf.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/qzx-lxsf.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "qzx-zyj": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/qzx-zyj.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/qzx-zyj.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/qzx-zyj.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sxd-qs": {
+      "hold": false,
+      "shape": "tree",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/sxd-qs.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sxd-qs.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sxd-qs.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sxd-dlr": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/sxd-dlr.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sxd-dlr.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sxd-dlr.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sxd-hjm": {
+      "hold": false,
+      "shape": "mask",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/sxd-hjm.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/sxd-hjm.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sxd-hjm.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hk-hrz": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/hk-hrz.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hk-hrz.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/hk-hrz.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/hk-hrz.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hk-jgb": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/hk-jgb.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-sources/official/hk-jgb.png",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/official/hk-jgb.png",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "mo-klk": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/mo-klk.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/mo-klk.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "yn-jcn": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/yn-jcn.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/yn-jcn.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/yn-jcn.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sxl-lt": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/sxl-lt.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/sxl-lt.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "yx-jg": {
+      "hold": false,
+      "shape": "bone",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/yx-jg.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/yx-jg.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/yx-jg.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/yx-jg.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "zj-fcst": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p2-source/zj-fcst.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/zj-fcst.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/zj-fcst.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "lb-yzl": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/p1/lb-yzl.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/lb-yzl.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/p1/lb-yzl.png",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifacts/lb-yzl.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "gb-hsyl": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/gb-hsyl.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gb-hsyl.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "dz-jp": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/dz-jp.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/dz-jp.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "dz-yzp": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/dz-yzp.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/dz-yzp.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "dz-lgd": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/dz-lgd.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/dz-lgd.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sx-nz": {
+      "hold": false,
+      "shape": "zun",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sx-nz.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sx-nz.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sx-hmms": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sx-hmms.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sx-hmms.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sx-qh": {
+      "hold": false,
+      "shape": "lacquer",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sx-qh.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sx-qh.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "dt-lbl": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/dt-lbl.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/dt-lbl.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "dt-ytz": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/dt-ytz.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/dt-ytz.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "nm-jyx": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/nm-jyx.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/nm-jyx.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "nm-lsy": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/nm-lsy.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/nm-lsy.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "lb-zfsg": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/lb-zfsg.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/lb-zfsg.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "lb-gf": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/lb-gf.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/lb-gf.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sy-ljy": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sy-ljy.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sy-ljy.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sy-yyd": {
+      "hold": false,
+      "shape": "sword",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sy-yyd.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sy-yyd.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sy-wyc": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sy-wyc.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sy-wyc.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "jl-efj": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/jl-efj.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/jl-efj.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "jl-wjg": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/jl-wjg.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/jl-wjg.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "jl-ljm": {
+      "hold": false,
+      "shape": "mask",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/jl-ljm.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/jl-ljm.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "nj-js": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/nj-js.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/nj-js.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "nj-mb": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/nj-mb.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/nj-mb.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "nj-zlqx": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/nj-zlqx.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/nj-zlqx.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "nj-frs": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/nj-frs.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/nj-frs.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-lhw": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sz-lhw.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sz-lhw.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-jx": {
+      "hold": false,
+      "shape": "lacquer",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sz-jx.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sz-jx.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "yz-mb": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/yz-mb.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/yz-mb.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "yz-tj": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/yz-tj.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/yz-tj.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "yz-zbq": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/yz-zbq.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/yz-zbq.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "zj-sncy": {
+      "hold": false,
+      "shape": "bone",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/zj-sncy.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/zj-sncy.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "zj-aywt": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/zj-aywt.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/zj-aywt.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "nb-yrjd": {
+      "hold": false,
+      "shape": "axe",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/nb-yrjd.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/nb-yrjd.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "nb-hyz": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/nb-hyz.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/nb-hyz.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ah-czd": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/ah-czd.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/ah-czd.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ah-wgj": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/ah-wgj.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/ah-wgj.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ah-yqz": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/ah-yqz.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/ah-yqz.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "fj-kql": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/fj-kql.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/fj-kql.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "fj-jyz": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/fj-jyz.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/fj-jyz.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "fj-dhgy": {
+      "hold": false,
+      "shape": "buddha",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/fj-dhgy.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/fj-dhgy.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "qz-hzc": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/qz-hzc.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/qz-hzc.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "qz-mbs": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/qz-mbs.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/qz-mbs.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "qz-jc": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/qz-jc.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/qz-jc.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "jx-qth": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/jx-qth.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/jx-qth.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "jx-smsr": {
+      "hold": false,
+      "shape": "mask",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/jx-smsr.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/jx-smsr.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "jx-glc": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/jx-glc.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/jx-glc.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "jdz-blz": {
+      "hold": false,
+      "shape": "zun",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/jdz-blz.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/jdz-blz.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "jdz-cslh": {
+      "hold": false,
+      "shape": "buddha",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/jdz-cslh.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/jdz-cslh.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sd-acy": {
+      "hold": false,
+      "shape": "axe",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sd-acy.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sd-acy.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sd-lgdy": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sd-lgdy.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sd-lgdy.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sd-hts": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sd-hts.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sd-hts.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sd-szb": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sd-szb.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sd-szb.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "kz-sg": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/kz-sg.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/kz-sg.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "kz-myc": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/kz-myc.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/kz-myc.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "kz-kzsj": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/kz-kzsj.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/kz-kzsj.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "qzx-yzb": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/qzx-yzb.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/qzx-yzb.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ly-byb": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/ly-byb.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/ly-byb.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ly-hym": {
+      "hold": false,
+      "shape": "horse",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/ly-hym.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/ly-hym.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ly-sbx": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/ly-sbx.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/ly-sbx.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "kf-tmj": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/kf-tmj.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/kf-tmj.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "kf-dsb": {
+      "hold": false,
+      "shape": "bell",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/kf-dsb.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/kf-dsb.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "yx-sxd": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/yx-sxd.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/yx-sxd.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "yx-yz": {
+      "hold": false,
+      "shape": "zun",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/yx-yz.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/yx-yz.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hub-zp": {
+      "hold": false,
+      "shape": "zun",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/hub-zp.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hub-zp.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hub-qj": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/hub-qj.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hub-qj.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hub-sat": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/hub-sat.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hub-sat.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "jz-hnjg": {
+      "hold": false,
+      "shape": "lacquer",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/jz-hnjg.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/jz-hnjg.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "jz-lfh": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/jz-lfh.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/jz-lfh.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hun-dhd": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/hun-dhd.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hun-dhd.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hun-mfl": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/hun-mfl.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hun-mfl.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cs-zml": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/cs-zml.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/cs-zml.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cs-dhj": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/cs-dhj.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/cs-dhj.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gd-qjy": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/gd-qjy.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gd-qjy.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gd-dsk": {
+      "hold": false,
+      "shape": "lacquer",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/gd-dsk.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gd-dsk.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gd-mlt": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/gd-mlt.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/gd-mlt.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ny-sly": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/ny-sly.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/ny-sly.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ny-wdx": {
+      "hold": false,
+      "shape": "seal",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/ny-wdx.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/ny-wdx.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ny-jyb": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/ny-jyb.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/ny-jyb.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gx-xlt": {
+      "hold": false,
+      "shape": "drum",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/gx-xlt.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gx-xlt.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gx-yfd": {
+      "hold": false,
+      "shape": "lamp",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/gx-yfd.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gx-yfd.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gx-qht": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/gx-qht.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gx-qht.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hain-hgj": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/hain-hgj.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hain-hgj.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hain-lj": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/hain-lj.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hain-lj.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hain-hhl": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/hain-hhl.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/hain-hhl.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cq-nxz": {
+      "hold": false,
+      "shape": "zun",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/cq-nxz.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/cq-nxz.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cq-hty": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/cq-hty.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/cq-hty.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "dz-zlj": {
+      "hold": false,
+      "shape": "buddha",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/dz-zlj.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/dz-zlj.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "dz-mnt": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/dz-mnt.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/dz-mnt.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sc-xsel": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sc-xsel.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sc-xsel.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sc-ssj": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sc-ssj.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sc-ssj.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sc-hxz": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sc-hxz.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sc-hxz.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gz-tcm": {
+      "hold": false,
+      "shape": "chariot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/gz-tcm.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gz-tcm.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gz-myg": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/gz-myg.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gz-myg.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gz-yjg": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/gz-yjg.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gz-yjg.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "yn-nha": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/yn-nha.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/yn-nha.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "yn-dwy": {
+      "hold": false,
+      "shape": "seal",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/yn-dwy.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/yn-dwy.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "xz-stg": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/xz-stg.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/xz-stg.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "xz-ljf": {
+      "hold": false,
+      "shape": "buddha",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/xz-ljf.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/xz-ljf.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "xz-byj": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/xz-byj.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/xz-byj.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sxl-xmb": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sxl-xmb.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sxl-xmb.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sxl-wmh": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/sxl-wmh.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/sxl-wmh.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "qs-by": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/qs-by.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/qs-by.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "qs-tcm": {
+      "hold": false,
+      "shape": "chariot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/qs-tcm.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/qs-tcm.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "qs-gyz": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/qs-gyz.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/qs-gyz.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "xa-scm": {
+      "hold": false,
+      "shape": "horse",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/xa-scm.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/xa-scm.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "xa-dqz": {
+      "hold": false,
+      "shape": "buddha",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/xa-dqz.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/xa-dqz.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "xa-snt": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/xa-snt.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/xa-snt.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "bj-hz": {
+      "hold": false,
+      "shape": "zun",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/bj-hz.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/bj-hz.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "bj-lp": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/bj-lp.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/bj-lp.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "bj-hg": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/bj-hg.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/bj-hg.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gs-tbm": {
+      "hold": false,
+      "shape": "horse",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/gs-tbm.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gs-tbm.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gs-rts": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/gs-rts.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gs-rts.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gs-yxt": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/gs-yxt.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/gs-yxt.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "dh-jsl": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/dh-jsl.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/dh-jsl.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "dh-swk": {
+      "hold": false,
+      "shape": "buddha",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/dh-swk.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/dh-swk.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "dh-ft": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/dh-ft.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/dh-ft.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "qh-wdw": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/qh-wdw.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/qh-wdw.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "qh-gyq": {
+      "hold": false,
+      "shape": "seal",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/qh-gyq.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/qh-gyq.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "qh-tk": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/qh-tk.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/qh-tk.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "nx-ljt": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/nx-ljt.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/nx-ljt.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "nx-jxb": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/nx-jxb.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/nx-jxb.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "nx-hxw": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/nx-hxw.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/nx-hxw.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "xj-wxc": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/xj-wxc.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/xj-wxc.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "xj-fxnv": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/xj-fxnv.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/xj-fxnv.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "xj-thy": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/xj-thy.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/xj-thy.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hk-lsf": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/hk-lsf.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/hk-lsf.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "mo-wxh": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/mo-wxh.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/mo-wxh.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "tp-cyb": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/tp-cyb.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/tp-cyb.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "tp-rxs": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/tp-rxs.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/tp-rxs.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "tp-mgd": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/tp-mgd.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/tp-mgd.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "tp-rsp": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/tp-rsp.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts/tp-rsp.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "tp-kxs": {
+      "hold": false,
+      "shape": "scroll",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts/tp-kxs.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "scroll-detail",
+          "primary": {
+            "src": "/artifacts/tp-kxs.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gg-jgb": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/gg-jgb.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/gg-jgb.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gg-ryzl": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/gg-ryzl.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/gg-ryzl.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-gyts": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/collection-20260922/gb-gyts.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "gb-yygd": {
+      "hold": false,
+      "shape": "lamp",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/collection-20260922/gb-yygd.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "gb-cxct": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/collection-20260922/gb-cxct.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sh-zzjp": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/collection-20260922/sh-zzjp.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sh-ltry": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/sh-ltry.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/sh-ltry.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "nb-htb": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/nb-htb.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/nb-htb.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hn-ywtj": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/collection-20260922/hn-ywtj.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "sxl-ptxn": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/sxl-ptxn.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-pending-20260923/sxl-ptxn.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ny-yh": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-new-20260927/ny-yh.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-new-20260927/ny-yh.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ny-cpyb": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-new-20260927/ny-cpyb.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-new-20260927/ny-cpyb.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ny-hujie": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-new-20260927/ny-hujie.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-new-20260927/ny-hujie.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ny-gaozu": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-new-20260927/ny-gaozu.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-new-20260927/ny-gaozu.png",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "ny-xiangyazhi": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png",
+            "kind": "ai"
+          }
+        }
+      }
+    }
+  }
+}

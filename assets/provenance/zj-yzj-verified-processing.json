@@ -1,0 +1,46 @@
+{
+  "id": "zj-yzj",
+  "verifiedAt": "2026-09-15",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yuyue_People-_Warring_States_Bronze_Sword_of_Zhu_Ji_Yu_Shi,_King_of_the_Yue_%E8%B6%8A%E7%8E%8B%E8%80%85%E6%97%A8%E6%96%BC%E7%9D%97%E5%89%91_%E6%B5%99%E6%B1%9F%E5%8D%9A%E7%89%A9%E9%A6%86.jpg",
+  "author": "Gary Todd",
+  "institution": "浙江省博物馆",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "licenseEvidence": "文件Licensing段CC0 1.0；FlickreviewR 2于2020-12-02复核原摄影者发布许可。",
+  "original": {
+    "path": "assets/source-originals/zj-yzj-original.jpg",
+    "downloadUrl": "https://live.staticflickr.com/7723/17095340942_16c2e09b60_o.jpg",
+    "downloadedAt": "2026-09-15",
+    "bytes": 5431673,
+    "width": 5184,
+    "height": 3456,
+    "sha1": "66fa9c9b291a476e615e88d72eb90fddec3c475a",
+    "sha256": "1c5c2e0ec384ffd154af4325f8dbe2c6e4935227aa20ea8504bfad46e5b720ee"
+  },
+  "processing": {
+    "script": "scripts/prepare-zhejiang-sword.ps1",
+    "engine": "Windows System.Drawing",
+    "operation": "full-frame proportional resize; bicubic; JPEG quality 90",
+    "crop": false,
+    "aiGenerated": false,
+    "processedAt": "2026-09-15"
+  },
+  "outputs": [
+    {
+      "role": "card",
+      "src": "/artifact-sources/verified/zj-yzj-card-cc0.jpg",
+      "width": 900,
+      "height": 600,
+      "bytes": 66593,
+      "sha256": "8d4c83a516743a84ad04df5afa60aa281afe8eff56a346fc4c9bb5705619f2a2"
+    },
+    {
+      "role": "detail",
+      "src": "/artifact-sources/verified/zj-yzj-detail-cc0.jpg",
+      "width": 2400,
+      "height": 1600,
+      "bytes": 460926,
+      "sha256": "b5dd26e6a32c72d6c082869fb0e7d160822604cce12291697ee5dfba8f158c28"
+    }
+  ]
+}

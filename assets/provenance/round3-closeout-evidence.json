@@ -1,0 +1,65 @@
+{
+  "reviewedAt": "2026-09-15",
+  "policy": "用户明确允许跳过受阻项；不以官网公开展示推断图片授权。",
+  "items": [
+    {
+      "id": "gg-qmsh",
+      "status": "skipped-download-blocked",
+      "note": "已知高清原件本次仍连接超时；按用户指示跳过，保持低清提示与pending。"
+    },
+    {
+      "id": "gg-qljs",
+      "status": "skipped-download-blocked",
+      "note": "已知高清原件本次仍连接超时；按用户指示跳过。"
+    },
+    {
+      "id": "zj-yzj",
+      "status": "replaced-verified",
+      "note": "原件哈希与逐文件许可页一致；CC0，替换卡片和详情共两张展示图。"
+    },
+    {
+      "id": "sxl-lt",
+      "status": "skipped-download-blocked",
+      "authorityUrl": "https://commons.wikimedia.org/wiki/File:Tang_Sancai_Camel_%26_Musicians_(47489638351).jpg",
+      "referenceRead": true,
+      "note": "找到陕西历史博物馆Gary Todd照片，逐文件CC0声明已核读；从摄影者Flickr下载超时，继续隔离。"
+    },
+    {
+      "id": "gg-jgyg",
+      "status": "pending-license",
+      "authorityUrl": "https://digicol.dpm.org.cn/cultural/detail?id=d3c6021697c94071a79f405c9e79aa82&page=1&source=0",
+      "referenceRead": true,
+      "accession": "故00011674",
+      "note": "北京故宫数字库已核对到故00011674；未取得开放许可，不能用台北故杂005490图片代替。"
+    },
+    {
+      "id": "nb-wgj",
+      "status": "pending-license",
+      "authorityUrl": "https://www.nbmuseum.cn/art/2020/9/1/art_20385_1225.html",
+      "referenceRead": true,
+      "note": "已核读宁波博物院万工轿资料，但未找到图像再利用许可；继续隔离旧浙江省博图与依赖图。"
+    },
+    {
+      "id": "jdz-qhmb",
+      "status": "pending-license",
+      "authorityUrl": "https://www.jdz.gov.cn/zwzx/tpxw/t1095082.shtml",
+      "referenceRead": true,
+      "note": "市政府馆藏报道明确元青花缠枝牡丹纹梅瓶，但未找到图片再利用许可，不接入报道图片。"
+    },
+    {
+      "id": "mo-klk",
+      "status": "pending-license-and-reference",
+      "candidateUrl": "https://www.macaumuseum.gov.mo/collections/81777?AspxAutoDetectCookieSupport=1",
+      "referenceRead": false,
+      "accessionCandidate": "MM5197",
+      "note": "官网检索指向MM5197，页面本次返回空内容；图像和授权尚未完成核读，继续待核。"
+    },
+    {
+      "id": "hlj-syj",
+      "status": "pending-specific-object-and-license",
+      "candidateUrl": "https://www.3gmuseum.cn/web/article/1534877008868118528/web/content_1534877008868118528.html",
+      "referenceRead": false,
+      "note": "找到两馆展览中的黑龙江双鱼纹大铜镜线索，页面超时；不能据同名把不同尺寸、出土地的双鱼镜代入。"
+    }
+  ]
+}

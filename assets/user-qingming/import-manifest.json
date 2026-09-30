@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "artifactId": "gg-qmsh",
+  "importedAt": "2026-09-16",
+  "origin": "User supplied local files; no source URL or license documentation supplied",
+  "authorizationStatus": "pending",
+  "assetMatchStatus": "pending",
+  "originalsPreserved": true,
+  "sources": [
+    {
+      "filename": "北宋_张择端_清明上河图（故博本）_7.jpg",
+      "width": 50000,
+      "height": 7595,
+      "bytes": 79556163,
+      "sha256": "5d525337edb0b138c6d135c719ac78cf1838d1b15db81f1b787f8a6203cad98d",
+      "metadata": {},
+      "selectedCrop": [
+        0,
+        0,
+        50000,
+        7595
+      ]
+    },
+    {
+      "filename": "北宋_张择端_清明上河图（故博本）_8.jpg",
+      "width": 38778,
+      "height": 7595,
+      "bytes": 61493214,
+      "sha256": "15f2cd5c3b6182e4b4f57fe6be08f1900c523033fd663043d7179f81688fd98f",
+      "metadata": {},
+      "selectedCrop": [
+        0,
+        0,
+        38778,
+        7595
+      ]
+    },
+    {
+      "filename": "北宋_张择端_清明上河图（故博本）_9.jpg",
+      "width": 50000,
+      "height": 7595,
+      "bytes": 76894151,
+      "sha256": "471373b5b87ea18f231e790c5af28262177be03322e1bf330aa0c15b2c5751e5",
+      "metadata": {},
+      "selectedCrop": [
+        0,
+        0,
+        50000,
+        7595
+      ]
+    },
+    {
+      "filename": "北宋_张择端_清明上河图（故博本）_10.jpg",
+      "width": 43276,
+      "height": 7595,
+      "bytes": 60789036,
+      "sha256": "8cf4056e25ec4d92858caf8bb8f8b49b547731877b1be88b4ee78960fe6b779e",
+      "metadata": {},
+      "selectedCrop": [
+        0,
+        0,
+        19000,
+        7595
+      ]
+    }
+  ],
+  "coverage": "Painting image from files 7-10 with small mounting margins; not the complete mounted scroll or inscriptions. Files 3 and 6 were not supplied.",
+  "seamReview": "7/8, 8/9 and 9/10 visually reviewed with boundary previews; no gap filling, mirroring, overlap blending or invented details.",
+  "detail": {
+    "src": "/artifact-sources/user-qingming/gg-qmsh-reading.jpg",
+    "width": 16000,
+    "height": 770,
+    "bytes": 3990673,
+    "sha256": "52420153f1afc0c982a173354ed60cf56f8ca3685fe395956a349589e813b7c6",
+    "operations": [
+      "JPEG decoder 1/8 reduction",
+      "crop final mounting after x=19000 in file 10",
+      "proportional Lanczos downscale",
+      "edge concatenation in 7,8,9,10 order",
+      "JPEG quality 92; no color adjustment"
+    ],
+    "upscaled": false,
+    "aiGenerated": false,
+    "retouched": false
+  },
+  "detailParts": [
+    {
+      "sourceSha256": "5d525337edb0b138c6d135c719ac78cf1838d1b15db81f1b787f8a6203cad98d",
+      "sourceCrop": [
+        0,
+        0,
+        50000,
+        7595
+      ],
+      "outputX": 0,
+      "outputWidth": 5070,
+      "outputHeight": 770
+    },
+    {
+      "sourceSha256": "15f2cd5c3b6182e4b4f57fe6be08f1900c523033fd663043d7179f81688fd98f",
+      "sourceCrop": [
+        0,
+        0,
+        38778,
+        7595
+      ],
+      "outputX": 5070,
+      "outputWidth": 3933,
+      "outputHeight": 770
+    },
+    {
+      "sourceSha256": "471373b5b87ea18f231e790c5af28262177be03322e1bf330aa0c15b2c5751e5",
+      "sourceCrop": [
+        0,
+        0,
+        50000,
+        7595
+      ],
+      "outputX": 9003,
+      "outputWidth": 5070,
+      "outputHeight": 770
+    },
+    {
+      "sourceSha256": "8cf4056e25ec4d92858caf8bb8f8b49b547731877b1be88b4ee78960fe6b779e",
+      "sourceCrop": [
+        0,
+        0,
+        19000,
+        7595
+      ],
+      "outputX": 14073,
+      "outputWidth": 1927,
+      "outputHeight": 770
+    }
+  ],
+  "card": {
+    "src": "/artifact-sources/user-qingming/gg-qmsh-hongqiao-card.jpg",
+    "width": 960,
+    "height": 737,
+    "bytes": 236179,
+    "sha256": "c73cf96aa9955e619579fb785a6f18fbf60ef4aca793463731da76944ccbe4bb",
+    "operations": [
+      "JPEG decoder 1/8 reduction",
+      "Hongqiao crop from file 8",
+      "proportional Lanczos downscale to width 960",
+      "JPEG quality 92; no color adjustment"
+    ],
+    "upscaled": false,
+    "aiGenerated": false,
+    "retouched": false,
+    "sourceSha256": "15f2cd5c3b6182e4b4f57fe6be08f1900c523033fd663043d7179f81688fd98f",
+    "sourceCrop": [
+      27000,
+      160,
+      36500,
+      7440
+    ]
+  }
+}
