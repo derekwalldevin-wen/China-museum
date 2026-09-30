@@ -71,70 +71,88 @@
     ]
   },
   "gg-qljs": {
-    "src": "/artifacts/gg-qljs.jpg",
-    "credit": "王希孟千里江山图卷.png",
+    "src": "/artifact-sources/verified/gg-qljs-detail-pd.jpg",
+    "credit": "王希孟《千里江山图》卷（故宫博物院藏）· Wikimedia Commons · Public domain",
     "variants": {
       "card": {
-        "src": "/artifacts-v2/p1/gg-qljs.png",
-        "kind": "ai",
+        "src": "/artifact-sources/verified/gg-qljs-card-pd.jpg",
+        "kind": "source",
         "fit": "cover",
-        "credit": "AI 生成示意 · 基于参考图统一展陈",
+        "credit": "王希孟《千里江山图》卷局部（故宫博物院藏）· Wikimedia Commons · Public domain",
         "provenance": {
-          "type": "ai",
-          "generator": "既有 AI 候选资产（生成器待核）",
-          "promptVersion": "artifact-v2-p1-2026-08-24",
-          "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
-          "generatedAt": "unknown",
-          "references": [
-            {
-              "type": "local-archive",
-              "value": "/artifacts/gg-qljs.jpg",
-              "credit": "王希孟千里江山图卷.png"
-            }
-          ]
+          "type": "source",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._(Complete,_51,3x1191,5_cm)._1113._Palace_museum,_Beijing.jpg",
+          "sourceTitle": "Wang Ximeng. A Thousand Li of Rivers and Mountains. (Complete, 51,3x1191,5 cm). 1113. Palace museum, Beijing.jpg",
+          "author": "王希孟",
+          "institution": "故宫博物院",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "verifiedAt": "2026-09-30",
+          "linkCheckedAt": "2026-09-30",
+          "authorizationStatus": "verified",
+          "assetMatchStatus": "verified",
+          "assetSha256": "f48850ed6bcdc52c3daf636d1bfc82c5e132a6fd4de347998662ec7e262186f5",
+          "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._%28Complete%2C_51%2C3x1191%2C5_cm%29._1113._Palace_museum%2C_Beijing.jpg",
+          "originalSha256": "8642d4f3d5f7edaa022200dfe2cdea56b1183c78c6cd4abbf47620daf7fda8f4",
+          "modifications": "从 39974×1600 公有领域原件裁取中段山峰与水面局部 2000×1440，等比缩放为 1000×720，JPEG 质量 92；未补绘、未调色、无 AI 生成。",
+          "evidenceNote": "Commons API imageinfo 核读：该文件 39974×1600、14.04MB、image/jpeg，LicenseShortName 为 Public domain、Restrictions 为 none；原件经本机代理下载后 sha256 与记录一致，两枚派生素材 sha256 与文件逐字节相符，画面确为王希孟青绿山水全卷且无水印。verified 表示本项目证据核验通过，并非馆方背书。"
         },
         "review": {
           "visual": "approved",
-          "historical": "pending",
-          "reviewedAt": "2026-08-25",
-          "reviewedBy": "Codex visual QA",
-          "note": "采用克制的传统手卷候选；详情保留真实全卷。"
+          "historical": "approved",
+          "reviewedAt": "2026-09-30",
+          "reviewedBy": "DeepSeek source review",
+          "note": "改用公有领域高清全卷的原作局部作为卡片，取消原先的 AI 示意图。"
         }
       },
       "detail": {
-        "src": "/artifacts/gg-qljs.jpg",
+        "src": "/artifact-sources/verified/gg-qljs-detail-pd.jpg",
         "kind": "source",
         "fit": "contain",
-        "credit": "王希孟千里江山图卷.png",
+        "credit": "王希孟《千里江山图》卷（故宫博物院藏）· Wikimedia Commons · Public domain",
         "provenance": {
           "type": "source",
-          "authorizationStatus": "pending",
-          "assetMatchStatus": "pending",
-          "assetSha256": "ffa4af8f0fc545266a7432f65cf59e8a760edc0832f4bb770d0c392a7c6c5801",
-          "evidenceNote": "已读取逐文件说明与许可证区域；本地缩图与原始文件尚缺完整绑定证据，授权继续待核。",
-          "modifications": "历史缩略图；原始裁切、压缩与下载链待复核。本次未改动图像像素。",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%8E%8B%E5%B8%8C%E5%AD%9F%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%E5%8D%B7.png",
-          "sourceTitle": "王希孟千里江山图卷.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._(Complete,_51,3x1191,5_cm)._1113._Palace_museum,_Beijing.jpg",
+          "sourceTitle": "Wang Ximeng. A Thousand Li of Rivers and Mountains. (Complete, 51,3x1191,5 cm). 1113. Palace museum, Beijing.jpg",
           "author": "王希孟",
           "institution": "故宫博物院",
-          "license": "PD-scan",
+          "license": "Public domain",
           "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "verifiedAt": "2026-09-15",
-          "linkCheckedAt": "2026-09-15",
-          "fullResolutionSourceUrl": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._(Complete,_51,3x1191,5_cm)._1113._Palace_museum,_Beijing.jpg"
+          "verifiedAt": "2026-09-30",
+          "linkCheckedAt": "2026-09-30",
+          "authorizationStatus": "verified",
+          "assetMatchStatus": "verified",
+          "assetSha256": "53ce65584b7a8ebb9a2f2641eaabbcbdccb8bb8bf0cd7c82a3cf9d3c977472a2",
+          "originalSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._%28Complete%2C_51%2C3x1191%2C5_cm%29._1113._Palace_museum%2C_Beijing.jpg",
+          "originalSha256": "8642d4f3d5f7edaa022200dfe2cdea56b1183c78c6cd4abbf47620daf7fda8f4",
+          "fullResolutionSourceUrl": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._(Complete,_51,3x1191,5_cm)._1113._Palace_museum,_Beijing.jpg",
+          "modifications": "从 39974×1600 公有领域原件等比缩放为 16000×640，JPEG 质量 90 渐进式；保留 16000 像素宽以与站内《清明上河图》同一量级，并低于响应式管线 WebP 的 16383 像素上限；未裁切、未补绘、未调色。",
+          "evidenceNote": "Commons API imageinfo 核读：该文件 39974×1600、14.04MB、image/jpeg，LicenseShortName 为 Public domain、Restrictions 为 none；原件经本机代理下载后 sha256 与记录一致，本素材 sha256 与文件逐字节相符，替换了原先 900×36 的历史缩图。verified 表示本项目证据核验通过，并非馆方背书。"
         },
         "review": {
           "visual": "approved",
-          "historical": "pending",
-          "reviewedAt": "2026-08-25",
-          "reviewedBy": "Codex source QA",
-          "note": "真实来源图用于保存全卷或全文信息；来源页与许可字段仍待补充。"
+          "historical": "approved",
+          "reviewedAt": "2026-09-30",
+          "reviewedBy": "DeepSeek source review",
+          "note": "替换 900×36 的历史缩图，恢复为可供放大阅读的全卷高清。"
         }
       }
     },
+    "retiredAssets": [
+      {
+        "src": "/artifacts-v2/p1/gg-qljs.png",
+        "reason": "已由公有领域原作局部替换 AI 示意卡片",
+        "retiredAt": "2026-09-30"
+      },
+      {
+        "src": "/artifacts/gg-qljs.jpg",
+        "reason": "已由公有领域 16000×640 全卷高清替换 900×36 历史缩图",
+        "retiredAt": "2026-09-30"
+      }
+    ],
     "sourceReview": {
-      "reviewedAt": "2026-09-15",
-      "note": "已知高清原件本次仍连接超时；按用户指示跳过。"
+      "reviewedAt": "2026-09-30",
+      "note": "本轮经本机代理取得 Commons 公有领域原件（39974×1600）并核读 imageinfo：Public domain、Restrictions 为 none。原先记录的“高清原件连接超时”已解决。"
     }
   },
   "gg-pft": {

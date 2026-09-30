@@ -1,6 +1,6 @@
 {
-  "baseUrl": "http://127.0.0.1:4173/",
-  "testedAt": "2026-09-16T02:10:55.454Z",
+  "baseUrl": "http://127.0.0.1:4177/",
+  "testedAt": "2026-09-30T08:50:54.223Z",
   "passed": 5,
   "checks": [
     "desktop: 展厅卡片只用安全清单，未请求任何完整溯源payload",

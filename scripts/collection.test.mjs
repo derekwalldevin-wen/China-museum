@@ -117,15 +117,32 @@ test('every scroll artifact has a valid detail asset before entering the scroll 
   }
 });
 
+test('the Qingming-style long scroll replaced its 900x36 thumbnail with a high-resolution source', () => {
+  const responsive = JSON.parse(readFileSync(new URL('../assets/responsive-images/manifest.json', import.meta.url), 'utf8'));
+  const detail = resolveVariant(imageMap['gg-qljs'], 'detail');
+  const source = responsive.sources[detail.src];
+  assert.ok(source, 'gg-qljs detail source must be registered for responsive delivery');
+  assert.ok(source.width >= 8000, `gg-qljs detail source should be high resolution, got ${source.width}px`);
+  // ArtifactScrollReader warns when a long image's source height is under 300px.
+  assert.ok(source.height >= 300, `gg-qljs detail source must clear the low-resolution warning, got ${source.height}px`);
+  assert.equal(resolveVariant(imageMap['gg-qljs'], 'card').kind, 'source');
+  for (const retired of ['/artifacts/gg-qljs.jpg', '/artifacts-v2/p1/gg-qljs.png']) {
+    assert.ok(imageMap['gg-qljs'].retiredAssets.some(asset => asset.src === retired), `${retired} must stay retired`);
+  }
+});
+
 test('round 3 covers exactly the 58 targets and binds evidence to current file hashes', () => {
   const register = JSON.parse(readFileSync(new URL('../docs/audits/round3-register.json', import.meta.url), 'utf8'));
   const replaced = ['nb-wgj', 'sxl-lt', 'gg-jgyg', 'hlj-syj', 'jdz-qhmb', 'mo-klk'];
+  // gg-qljs kept its round-3 register row, but that row now describes a retired source:
+  // on 2026-09-30 the 900x36 thumbnail was replaced by a public-domain 16000px scan.
+  const supersededLater = ['gg-qljs'];
   const newBatch = JSON.parse(readFileSync(new URL('../assets/provenance/collection-image-review-2026-09-22/decisions.json', import.meta.url), 'utf8')).decisions.map(row => row.id);
   const expected = allArtifacts.filter(a => !newBatch.includes(a.id) && (replaced.includes(a.id) || a.shape === 'scroll' || resolveVariant(imageMap[a.id], 'detail').kind === 'source')).map(a => a.id).sort();
   assert.deepEqual(register.rows.map(r => r.id).sort(), expected);
   assert.equal(register.summary.targets, 58);
   for (const row of register.rows) {
-    if (replaced.includes(row.id)) assert.ok(imageMap[row.id].retiredAssets.some(asset => asset.src === row.src), `${row.id}: register must describe a retired source`);
+    if (replaced.includes(row.id) || supersededLater.includes(row.id)) assert.ok(imageMap[row.id].retiredAssets.some(asset => asset.src === row.src), `${row.id}: register must describe a retired source`);
     else assert.equal(resolveVariant(imageMap[row.id], 'detail').src, row.src, `${row.id}: register must describe the active detail`);
     const hash = createHash('sha256').update(readFileSync(productionPath(row.src))).digest('hex');
     assert.equal(row.assetSha256, hash, row.id);

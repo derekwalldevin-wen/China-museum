@@ -32,18 +32,18 @@
         "card": {
           "profile": "card",
           "primary": {
-            "src": "/artifacts-v2/p1/gg-qljs.png",
-            "kind": "ai"
+            "src": "/artifact-sources/verified/gg-qljs-card-pd.jpg",
+            "kind": "source"
           },
           "fallback": {
-            "src": "/artifacts/gg-qljs.jpg",
+            "src": "/artifact-sources/verified/gg-qljs-detail-pd.jpg",
             "kind": "source"
           }
         },
         "detail": {
           "profile": "scroll-detail",
           "primary": {
-            "src": "/artifacts/gg-qljs.jpg",
+            "src": "/artifact-sources/verified/gg-qljs-detail-pd.jpg",
             "kind": "source"
           }
         }

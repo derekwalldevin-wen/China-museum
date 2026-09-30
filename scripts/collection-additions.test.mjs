@@ -101,7 +101,11 @@ test('the other 195 image records stay unchanged while six quarantined records a
   const baseline = JSON.parse(readFileSync(new URL('../assets/provenance/ai-completion-2026-09-23/before-six.json', import.meta.url), 'utf8'));
   // This historical snapshot covers the pre-expansion 201 records only.
   const laterAdditions = new Set(['ny-yh', 'ny-cpyb', 'ny-hujie', 'ny-gaozu', 'ny-xiangyazhi']);
-  const unaffected = Object.fromEntries(Object.entries(images).filter(([id]) => !baseline.replacedIds.includes(id) && !laterAdditions.has(id)));
+  // gg-qljs was deliberately refreshed on 2026-09-30: a public-domain 16000px scroll
+  // scan replaced both the 900x36 thumbnail and the AI card. It is excluded from the
+  // frozen snapshot rather than rewriting the historical baseline file.
+  const refreshedLater = new Set(['gg-qljs']);
+  const unaffected = Object.fromEntries(Object.entries(images).filter(([id]) => !baseline.replacedIds.includes(id) && !laterAdditions.has(id) && !refreshedLater.has(id)));
   const auditedAuthorityRefresh = unaffected['gg-ryzl'].sourceReview;
   assert.equal(auditedAuthorityRefresh.authorityUrl, 'https://ggzl.dpm.org.cn/pages/exhibit_works/details?id=9404');
   assert.equal(auditedAuthorityRefresh.reviewedAt, '2026-09-23');
@@ -115,7 +119,7 @@ test('the other 195 image records stay unchanged while six quarantined records a
     note: '尚未找到精确匹配且具有明确可复用许可的影像。本轮馆方页面连接超时，不据历史页面或文件名确认图片授权。',
     },
   };
-  assert.equal(Object.keys(unaffected).length, baseline.unaffectedRecords);
+  assert.equal(Object.keys(unaffected).length, baseline.unaffectedRecords - refreshedLater.size);
   assert.equal(hash(unaffected), baseline.unaffectedRecordsSha256);
   for (const id of baseline.replacedIds) {
     assert.ok(baseline.heldRecords[id].imageHold, id);

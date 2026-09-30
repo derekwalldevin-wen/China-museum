@@ -160,7 +160,15 @@ try {
             await page.wait(`document.querySelector('.story-figure')?.textContent.includes('不含完整题跋')`, 'user scan disclosure');
             assert.doesNotMatch(await page.evaluate(`document.querySelector('.story-figure').textContent`), /低清历史缩图|AI 复原示意 · 非文物实拍/);
           } else {
-            await page.wait(`document.querySelector('.story-figure')?.textContent.includes('低清历史缩图')`, 'low-resolution scroll disclosure');
+            // 2026-09-30: the 900x36 thumbnail was replaced by a public-domain 16000x640
+            // scan, so the reader must no longer warn about a low-resolution scroll. The
+            // rendered candidate is viewport-sized by design (390px on mobile), so the
+            // absolute resolution guarantee lives in collection.test.mjs instead.
+            const figure = await page.evaluate(`document.querySelector('.story-figure')?.textContent ?? ''`);
+            assert.doesNotMatch(figure, /低清历史缩图/, 'gg-qljs should no longer warn about a low-resolution scroll');
+            const delivery = await page.evaluate(`(() => { const img = document.querySelector('.story-figure img'); return img ? { width: img.naturalWidth, src: img.currentSrc } : null; })()`);
+            assert.ok(delivery && delivery.width > 0, 'gg-qljs story figure image must load');
+            assert.match(delivery.src, /\/artifact-responsive\//, 'gg-qljs figure must be delivered through the responsive pipeline');
           }
         }
         const sourceCheck = {

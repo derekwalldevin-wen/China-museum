@@ -9,8 +9,8 @@
     "mo-klk"
   ],
   "unaffectedRecords": 195,
-  "unaffectedRecordsSha256": "1714616921e1f75988ba2a7ee9e0b7ee1383849e64e80e246df596b0e6fda859",
-  "previousUnchangedRecordsSha256": "b4e2bbe7ff012bdd5f83eaa83c6995740844d7996ea0460004f0d767ac2336b6",
+  "unaffectedRecordsSha256": "63c778fd2f7e6dc74765fd8e0e4dd77c73a8835645cc63a3c5f668ec4d990958",
+  "previousUnchangedRecordsSha256": "1714616921e1f75988ba2a7ee9e0b7ee1383849e64e80e246df596b0e6fda859",
   "referenceRefresh": "2026-09-23: corrected the official catalog URL and added a link-check date for gg-ryzl; illustration pixels, selection and AI disclosure are unchanged.",
   "heldRecords": {
     "gg-jgyg": {
@@ -420,5 +420,15 @@
         "reviewedAt": "2026-09-15"
       }
     }
-  }
+  },
+  "refreshedAt": "2026-09-30",
+  "refreshedRecords": [
+    {
+      "id": "gg-qljs",
+      "refreshedAt": "2026-09-30",
+      "reason": "公有领域 16000×640 全卷扫件替换 900×36 历史缩图；AI 示意卡片改为原作局部",
+      "previousSha256": "1714616921e1f75988ba2a7ee9e0b7ee1383849e64e80e246df596b0e6fda859",
+      "note": "该记录自本次核对起不再计入“其余记录未变”的冻结快照；原始 195 条的历史哈希仍保留在 previousUnchangedRecordsSha256。"
+    }
+  ]
 }

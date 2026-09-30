@@ -57,7 +57,10 @@ await withPage({ width: 1440, height: 960, deviceScaleFactor: 1, mobile: false }
 
   await page.evaluate(`[...document.querySelectorAll('button')].find(button => button.textContent.includes('清明上河图')).click()`);
   await page.wait(`document.querySelector('#artifact-dialog-title')?.textContent.includes('清明上河图')`, 'Qingming detail');
-  await page.wait(`document.querySelector('[aria-label*="长卷阅卷台"] img')?.currentSrc.includes('/artifact-responsive/')`, 'Qingming responsive scroll');
+  // The scroll reader renders the Qingming scroll from long-scroll tiles
+  // (public/artifact-scroll-tiles), not from the single responsive WebP; the responsive
+  // WebP path in the same dialog is covered by the gallery assertions above.
+  await page.wait(`document.querySelector('[aria-label*="长卷阅卷台"] img')?.currentSrc.includes('/artifact-scroll-tiles/')`, 'Qingming tiled scroll reader');
   assert.equal(await page.evaluate(`document.body.textContent.includes('AI 复原示意 · 非文物实拍')`), false);
   assert.equal(await page.evaluate(`document.body.textContent.includes('来源图 · 非 AI 复原')`), true);
   checks.push('desktop: Qingming detail keeps source-image disclosure and scroll reader while using same-pixel WebP');

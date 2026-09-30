@@ -1,9 +1,9 @@
 {
   "baseUrl": "http://127.0.0.1:4177/",
-  "testedAt": "2026-09-30T05:56:55.766Z",
+  "testedAt": "2026-09-30T08:50:19.117Z",
   "passed": 7,
   "checks": [
-    "mobile initial: exactly 2 visible requests / 27750 B with 2 fixed-size placeholders",
+    "mobile initial: exactly 2 visible requests / 20010 B with 2 fixed-size placeholders",
     "mobile fast scroll: last card loads on range entry; skipped offscreen cards remain optional (4 total requests)",
     "mobile reverse scroll: loaded cards stay mounted and do not issue duplicate requests",
     "mobile history: detail back/forward preserves the lower gallery scroll position",

@@ -91,10 +91,12 @@ test('AI, held, restricted and verified authorization boundaries remain unchange
   const variants = Object.values(payloads).flatMap(info => Object.values(info.variants ?? {}));
   assert.equal(Object.values(payloads).filter(info => info.imageHold).length, 0);
   assert.equal(variants.filter(variant => variant?.provenance?.authorizationStatus === 'restricted').length, 1);
-  assert.equal(variants.filter(variant => variant?.provenance?.authorizationStatus === 'verified').length, 12);
+  // 12 -> 14 on 2026-09-30: gg-qljs moved from an AI card plus a pending detail to two
+  // verified public-domain source variants (Wikimedia Commons PD scan).
+  assert.equal(variants.filter(variant => variant?.provenance?.authorizationStatus === 'verified').length, 14);
   assert.equal(resolveArtifactImageInfo(payloads['gg-jgyg'], 'detail').kind, 'ai');
   assert.equal(resolveArtifactImageInfo(payloads['zj-yzj'], 'detail').provenance.authorizationStatus, 'verified');
-  assert.equal(resolveArtifactImageInfo(payloads['gg-qljs'], 'card').kind, 'ai');
+  assert.equal(resolveArtifactImageInfo(payloads['gg-qljs'], 'card').kind, 'source');
 });
 
 test('user Qingming derivatives preserve four original hashes and do not inherit the old Commons license', async () => {

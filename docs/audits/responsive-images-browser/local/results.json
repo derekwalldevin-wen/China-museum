@@ -1,9 +1,9 @@
 {
-  "baseUrl": "http://127.0.0.1:4173/",
-  "testedAt": "2026-09-16T02:18:35.956Z",
+  "baseUrl": "http://127.0.0.1:4179/",
+  "testedAt": "2026-09-30T08:59:57.789Z",
   "passed": 5,
   "checks": [
-    "desktop: 4 responsive requests, 72092 B total, 24164 B max",
+    "desktop: 7 responsive requests, 104898 B total, 30582 B max",
     "desktop: Qingming detail keeps source-image disclosure and scroll reader while using same-pixel WebP",
     "mobile weak-network: responsive cards settle under 3G latency and 4x CPU throttling without overflow",
     "mobile: WebP transport failure retries the same selected JPEG/PNG before semantic fallback",

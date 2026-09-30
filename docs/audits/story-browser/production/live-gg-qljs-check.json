@@ -1,0 +1,29 @@
+{
+  "base": "https://huaxia-museum-atlas.pages.dev/",
+  "testedAt": "2026-09-30T09:27:00.381Z",
+  "results": [
+    {
+      "name": "desktop",
+      "text": "SCROLL READING DESK长卷阅览 · 顺卷徐行←→图像仅辅助阅读；来源、清晰度与授权请见下方说明。正在展卷…图源 故宫博物院 · Public domain · 来源与授权已核书图像展示 · 长幅载入后可横向阅卷0%来源图 · 非 AI 复原查看来源页 ↗王希孟《千里江山图》卷（故宫博物院藏）· Wikimedia Commons · Public domain影像标题：Wang Ximeng. A Thousand Li of Rivers and Mountains. (Complete, 51,3x1191,5 cm). 1113. Palace museum, Beijing.jpg作者 / 图像提供者：王希孟来源页所述机构：故宫博物院授权状态：Public domain来源页许可：Public domain（原件与展示图证据已核） ↗图像处理：从 39974×160",
+      "naturalWidth": 1440,
+      "naturalHeight": 57,
+      "currentSrc": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/53ce65584b7a8ebb-scroll-detail-w16000.webp",
+      "heroSrc": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/53ce65584b7a8ebb-scroll-detail-w16000.webp",
+      "overflow": 0
+    },
+    {
+      "name": "mobile",
+      "text": "SCROLL READING DESK长卷阅览 · 顺卷徐行←→图像仅辅助阅读；来源、清晰度与授权请见下方说明。图源 故宫博物院 · Public domain · 来源与授权已核书按住拖动 · 触摸横滑 · 滚轮阅卷0%来源图 · 非 AI 复原查看来源页 ↗王希孟《千里江山图》卷（故宫博物院藏）· Wikimedia Commons · Public domain影像标题：Wang Ximeng. A Thousand Li of Rivers and Mountains. (Complete, 51,3x1191,5 cm). 1113. Palace museum, Beijing.jpg作者 / 图像提供者：王希孟来源页所述机构：故宫博物院授权状态：Public domain来源页许可：Public domain（原件与展示图证据已核） ↗图像处理：从 39974×1600 公有",
+      "naturalWidth": 390,
+      "naturalHeight": 15,
+      "currentSrc": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/53ce65584b7a8ebb-scroll-detail-w16000.webp",
+      "heroSrc": "https://huaxia-museum-atlas.pages.dev/artifact-responsive/53ce65584b7a8ebb-scroll-detail-w16000.webp",
+      "overflow": 0
+    },
+    {
+      "name": "bundle",
+      "entry": "https://huaxia-museum-atlas.pages.dev/assets/index-cZmwf9SS.js",
+      "referencesRetiredAiCard": false
+    }
+  ]
+}
