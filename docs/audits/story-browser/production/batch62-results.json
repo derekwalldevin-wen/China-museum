@@ -1,0 +1,13 @@
+{
+  "baseUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "testedAt": "2026-09-30T16:09:00.515Z",
+  "passed": 6,
+  "checks": [
+    "desktop: nm-jyx 四章、≥3细节、来源面板可点(1条)、有理由比较(gg-ryzl)、无溢出",
+    "desktop: nm-lsy 四章、≥3细节、来源面板可点(1条)、有理由比较(nm-jyx)、无溢出",
+    "desktop: jdz-qhmb 四章、≥3细节、来源面板可点(1条)、有理由比较(jx-glc)、无溢出",
+    "mobile: nm-jyx 四章、≥3细节、来源面板可点(1条)、有理由比较(gg-ryzl)、无溢出",
+    "mobile: nm-lsy 四章、≥3细节、来源面板可点(1条)、有理由比较(nm-jyx)、无溢出",
+    "mobile: jdz-qhmb 四章、≥3细节、来源面板可点(1条)、有理由比较(jx-glc)、无溢出"
+  ]
+}

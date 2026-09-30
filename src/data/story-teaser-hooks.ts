@@ -194,4 +194,7 @@ export const storyTeaserHooks: Record<string, string> = {
   'sy-yyd': '一把没有开刃的剑，为什么是御用之物？',
   'qz-jc': '“军持”在普通人家里是做什么用的？',
   'gx-qht': '一只铜筒上，为什么画着一段升仙故事？',
+  'nm-jyx': '一只香炉，为什么会刻上工匠的名字？',
+  'nm-lsy': '鸳鸯壶上的三彩，为什么不像唐三彩那样“流”？',
+  'jdz-qhmb': '“梅瓶”真的是用来插梅花的吗？',
 };

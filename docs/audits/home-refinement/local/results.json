@@ -1,6 +1,6 @@
 {
-  "base": "http://127.0.0.1:4240/",
-  "testedAt": "2026-09-30T15:55:01.340Z",
+  "base": "http://127.0.0.1:4250/",
+  "testedAt": "2026-09-30T16:07:00.644Z",
   "results": [
     {
       "name": "desktop",
@@ -248,17 +248,17 @@
     },
     {
       "name": "simulated-low-end-6x-cpu-100KiBs-400ms-rtt",
-      "elapsedWallMs": 32178,
+      "elapsedWallMs": 13708,
       "checkpoints": {
-        "navigationWallMs": 7362,
-        "mapWallMs": 15643,
-        "artWallMs": 30491
+        "navigationWallMs": 5064,
+        "mapWallMs": 11436,
+        "artWallMs": 12191
       },
       "timings": {
-        "domContentLoadedMs": 4957,
-        "loadMs": 5008,
+        "domContentLoadedMs": 4461,
+        "loadMs": 4463,
         "artResources": [],
-        "artCurrentSrc": "http://127.0.0.1:4240/art/shanhe-handscroll-mobile.jpg",
+        "artCurrentSrc": "http://127.0.0.1:4250/art/shanhe-handscroll-mobile.jpg",
         "artNaturalWidth": 850,
         "provinceCount": 34,
         "storyVisible": true,

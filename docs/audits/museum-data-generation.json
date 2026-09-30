@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-09-30T15:46:40.788Z",
+ "generatedAt": "2026-09-30T16:00:18.118Z",
  "source": {
   "path": "src/data/museums.ts",
-  "bytes": 104407,
-  "sha256": "7f9de2dd8353df13f0caf2071f65475effc567902788985fa7231d69261c0cf2",
+  "bytes": 104331,
+  "sha256": "388dd0244f0913f286fc8ca5dbe20ef19a4bf922ee2b65800f57039509aa5267",
   "museums": 59,
   "artifacts": 206
  },
@@ -14,14 +14,14 @@
  },
  "searchCorpus": {
   "path": "src/data/artifact-search.json",
-  "bytes": 51266,
-  "sha256": "cad295dc89779c03cf03028bef23b5757709d0a1acc7011565a822996e543886",
+  "bytes": 51191,
+  "sha256": "1394a53f8addba7df7bc96700121ac2771f784998e8b48cef14205cd4969e689",
   "entries": 206
  },
  "payloads": {
   "directory": "src/data/museum-payloads",
   "count": 59,
-  "totalBytes": 104912,
+  "totalBytes": 104836,
   "files": [
    {
     "id": "gugong",
@@ -82,8 +82,8 @@
    {
     "id": "neimenggu",
     "path": "src/data/museum-payloads/neimenggu.json",
-    "bytes": 1649,
-    "sha256": "5d566de48ee52b090613f92969566387d9bcad01e07af16f6d8afca15ecc979f",
+    "bytes": 1555,
+    "sha256": "460b30cf19332bf4d60951b6ca84219759df697a1da5f7305d85abe7d7d360d9",
     "artifacts": 3
    },
    {
@@ -187,8 +187,8 @@
    {
     "id": "jingdezhen",
     "path": "src/data/museum-payloads/jingdezhen.json",
-    "bytes": 1468,
-    "sha256": "68c3740dacc5e4e3fe04cc5432c19f221d30bc80b91037e192404e73538370dc",
+    "bytes": 1486,
+    "sha256": "c93e6660c0d9b4a8c6a22900a17a6ec34cf413503f57d185f68c8ff3beebee09",
     "artifacts": 3
    },
    {
