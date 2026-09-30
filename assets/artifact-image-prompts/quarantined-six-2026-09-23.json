@@ -1,0 +1,58 @@
+{
+  "version": "quarantined-six-2026-09-23",
+  "generatedAt": "2026-09-23",
+  "generator": "OpenAI built-in imagegen",
+  "useCase": "stylized-concept",
+  "assetType": "museum artifact card and detail illustration",
+  "sharedConstraints": "Vertical 4:5; independent reconstruction from authoritative text; no use of the rejected image as a subject reference; no text, logos, watermark, readable characters or invented inscriptions; visibly interpretive and never represented as an artifact photograph.",
+  "items": [
+    {
+      "id": "gg-jgyg",
+      "name": "金瓯永固杯",
+      "output": "/artifacts-v2/ai-pending-20260923/gg-jgyg.png",
+      "authorityUrl": "https://digicol.dpm.org.cn/cultural/detail?id=d3c6021697c94071a79f405c9e79aa82&page=1&source=0",
+      "prompt": "Create an original artistic reconstruction of the Qing imperial Jin'ou Yonggu cup from authoritative text: a ceremonial gold cup with rounded body, two dragon handles, three elephant-head feet, and restrained inset pearls and colored gemstones. Do not show its base or invent readable inscriptions. Use a refined Chinese ink and mineral-pigment museum illustration with softly rendered gold, complete object centered in a three-quarter view against a warm near-black background.",
+      "sha256": "26e06e717e2c21f5a9c586e83c4120b879a8d412a1aa2beef1fb20ab3b38b626"
+    },
+    {
+      "id": "nb-wgj",
+      "name": "清末民初万工轿",
+      "output": "/artifacts-v2/ai-pending-20260923/nb-wgj.png",
+      "authorityUrl": "https://www.nbmuseum.cn/art/2020/9/1/art_20385_1225.html",
+      "prompt": "Create an original museum illustration of a late Qing to early Republican Ningbo ten-thousand-work wedding sedan chair: an elaborate enclosed red lacquered wooden bridal sedan, tall pavilion roof and layered eaves, dense but orderly gilded openwork carving with small architectural scenes and figures. Do not claim an exact figure count and show no bride. Use Chinese ink, lacquer and mineral-pigment illustration, complete sedan in a three-quarter view against a warm black museum background.",
+      "sha256": "8bd32aa0b6d46fb82b398ea2a0f144e15e165bef01a168d29e7db5113dc6660c"
+    },
+    {
+      "id": "jdz-qhmb",
+      "name": "元青花缠枝牡丹纹梅瓶",
+      "output": "/artifacts-v2/ai-pending-20260923/jdz-qhmb.png",
+      "authorityUrl": "https://www.jdz.gov.cn/zwzx/tpxw/t1095082.shtml",
+      "prompt": "Create an original museum illustration of a Yuan blue-and-white meiping with a small mouth, short neck, broad rounded shoulders tapering to a narrow foot, layered cobalt decoration and a main band of scrolling peonies. Deep cobalt may show restrained iron-dark speckling. Use refined Chinese ink and mineral-pigment ceramic illustration, complete vase centered in a three-quarter view. No reign mark or invented inscription.",
+      "sha256": "764447dee61c5835d1802c3cfbe3dd0e9440cd7c5f07fa9079a3a02cd41ef479"
+    },
+    {
+      "id": "sxl-lt",
+      "name": "唐三彩骆驼载乐俑",
+      "output": "/artifacts-v2/ai-pending-20260923/sxl-lt.png",
+      "authorityUrl": "https://www.sxhm.com/collections/detail/509.html",
+      "prompt": "Create an original artistic reconstruction from the Shaanxi History Museum text: one standing sancai camel on a rectangular base, neck raised; a carpeted platform carries exactly eight figures, seven seated male musicians around the edge and one standing female singer in the center. Use restrained amber, green and cream glaze, complete camel and all figures in a three-quarter museum view. No extra figures or modern instruments.",
+      "sha256": "215cb93a1d11a63d0bf9ef7855b6065f5181289729fbf47450b4f5c017199686"
+    },
+    {
+      "id": "mo-klk",
+      "name": "明克拉克瓷青花盘",
+      "output": "/artifacts-v2/ai-pending-20260923/mo-klk.png",
+      "authorityUrl": "https://www.macaumuseum.gov.mo/zh-hans/collections/84072",
+      "prompt": "Create an original museum illustration of Macao Museum MM5197: a Ming blue-and-white Kraak porcelain plate, height 9 cm and diameter 48 cm, with a lobed rim, continuous radiating reserve panels and a central lion-and-flower motif. Secondary panels may contain restrained flowers and auspicious objects. Show the complete plate in a slightly angled near-frontal view. No inscriptions or European coats of arms.",
+      "sha256": "01eb58e27be58645c9a23c6772de4adc485108b046bdb67041e1c79b8d9b8604"
+    },
+    {
+      "id": "hlj-syj",
+      "name": "金代双鱼纹铜镜",
+      "output": "/artifacts-v2/ai-pending-20260923/hlj-syj.png",
+      "authorityUrl": "https://wlt.hlj.gov.cn/wlt/c114162/202508/c00_31863487.shtml",
+      "prompt": "Create an original generic educational reconstruction of a Jin double-fish bronze mirror associated with the Heilongjiang Provincial Museum collection, without claiming exact identity. Show the decorated back of one large round mirror with broad plain rim and central knob; two robust carp swim head-to-tail clockwise amid energetic low-relief waves. Use aged dark bronze with restrained green patina. Do not add stamps, inscriptions or exact dimensions.",
+      "sha256": "7856595d79a8cb76d8dc0ba51db5af6478b283412580a00d93c004a1a1d46284"
+    }
+  ]
+}

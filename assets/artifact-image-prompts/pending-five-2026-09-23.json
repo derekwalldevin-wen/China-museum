@@ -1,0 +1,50 @@
+{
+  "version": "pending-five-2026-09-23",
+  "generatedAt": "2026-09-23",
+  "generator": "OpenAI built-in imagegen",
+  "useCase": "stylized-concept",
+  "assetType": "museum artifact card and detail illustration",
+  "sharedConstraints": "Vertical 4:5; original artistic reconstruction based only on authoritative text; complete object in a warm dark museum setting; no text, logos, watermark, readable characters or invented inscriptions; visibly interpretive and never represented as an artifact photograph.",
+  "items": [
+    {
+      "id": "gg-jgb",
+      "name": "成化款斗彩鸡缸杯",
+      "output": "/artifacts-v2/ai-pending-20260923/gg-jgb.png",
+      "authorityUrl": "https://intl.dpm.org.cn/Ceramicsis/852.html",
+      "prompt": "Create an original, refined museum catalog illustration of a small Ming Chenghua-style doucai chicken cup, based only on the textual description, clearly an artistic reconstruction rather than a photograph. Show a tiny porcelain cup about 3.4 cm high, gently flared rim, shallow rounded body and small foot ring; two loosely painted family groups of hens, chicks, garden rock and sparse flowers around the exterior; underglaze cobalt outlines with restrained red, yellow and green overglaze colors. Do not show the base or any reign mark. Use elegant Chinese mineral-pigment and ink illustration with subtle ceramic volume, slightly painterly edges, complete object centered in a three-quarter view, warm near-black museum backdrop and subtle floor shadow. No readable characters or invented inscriptions.",
+      "sha256": "9adefabf9e1f3e1552b431fe7399043828ae0384386407dd0180eb9acad310f9"
+    },
+    {
+      "id": "gg-ryzl",
+      "name": "汝窑淡天青釉弦纹三足樽式炉",
+      "output": "/artifacts-v2/ai-pending-20260923/gg-ryzl.png",
+      "authorityUrl": "https://ggzl.dpm.org.cn/pages/exhibit_works/details?id=9404",
+      "prompt": "Create an original museum illustration of a Northern Song Ru ware pale sky-blue glazed tripod zun-form incense burner, based only on the textual description and visibly an artistic reconstruction. Show a compact ancient bronze-inspired ceramic vessel with cylindrical zun-like body, slightly projecting rim and lower flange, three short feet, orderly horizontal raised string bands; soft pale sky-blue glaze with delicate fine crackle. Do not show or invent marks on the underside. Use refined Chinese ink and mineral-pigment illustration with subtle glazed ceramic volume, complete vessel centered in a three-quarter museum view, warm-black negative space and restrained amber light. Do not exaggerate the blue color or crackle.",
+      "sha256": "4a5ae37198349e3459347c779192cbc04acb6ef1e9902a0a5cf43666f1784627"
+    },
+    {
+      "id": "sh-ltry",
+      "name": "朱克柔缂丝《莲塘乳鸭图》",
+      "output": "/artifacts-v2/ai-pending-20260923/sh-ltry.png",
+      "authorityUrl": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/E00004147",
+      "prompt": "Create an original, clearly interpretive museum illustration evoking a Southern Song kesi silk tapestry titled Lotus Pond and Ducklings, based only on the textual description, without reproducing an existing digital image or claiming exact composition. Show a mounted silk tapestry panel with an intimate lotus pond scene: one adult duck with several ducklings among lotus leaves, flowers, reeds and a few small water plants; colored silk-thread texture and gently stepped woven color transitions. Use fine Chinese kesi textile illustration, visible woven silk texture, mineral colors softened by age, complete rectangular panel against a near-black warm museum background. No text, seals, signatures or exact-copy detailing.",
+      "sha256": "86d1acefa28056bb95174db5c3ee9547f1dcb651bade4ac20438a476bbff2706"
+    },
+    {
+      "id": "nb-htb",
+      "name": "唐越窑划花卉海棠杯",
+      "output": "/artifacts-v2/ai-pending-20260923/nb-htb.png",
+      "authorityUrl": "https://www.nbmuseum.cn/art/2026/1/21/art_20384_8871.html",
+      "prompt": "Create an original museum illustration of a late Tang Yue ware celadon begonia-shaped cup, based only on the textual description and clearly an artistic reconstruction. Show an elegant low cup with an oval, four-lobed begonia-flower rim and shallow basin, thin refined walls, four freely incised lotus blossoms visible on the inner surface, muted olive-celadon glaze with subtle age variation. Its form may echo Central Asian metalware, but add no foreign motifs. Use refined Chinese ink and mineral-pigment illustration with subtle ceramic volume, complete cup centered at a slightly elevated three-quarter angle, warm-black backdrop and gentle amber light.",
+      "sha256": "eca1bdf3f5bae04011a3c9649c8e4414915ceb81b610e9d1ac03f5539490df26"
+    },
+    {
+      "id": "sxl-ptxn",
+      "name": "葡萄花鸟纹银香囊",
+      "output": "/artifacts-v2/ai-pending-20260923/sxl-ptxn.png",
+      "authorityUrl": "https://www.sxhm.com/collections/detail/9948",
+      "prompt": "Create an original museum illustration of a small Tang dynasty silver pomander with grape, flower and bird decoration, based only on the textual description and clearly an artistic reconstruction. Show a compact spherical silver incense pendant about 4.5 cm in diameter, suspended from a short delicate chain; two hemispherical shells with a visible equatorial seam; restrained openwork or chased grape vines, flowers and small birds across the surface. Do not expose or invent the internal mechanism. Use elegant Chinese ink and mineral-pigment illustration with softly rendered aged silver, one complete pomander centered in a three-quarter view, near-black warm backdrop and restrained amber light.",
+      "sha256": "18cef49d9ae1faeead8d2b4efde819a633e87e071f4ea7c38ef209af719f31e5"
+    }
+  ]
+}

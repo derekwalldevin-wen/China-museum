@@ -1,0 +1,239 @@
+{
+  "version": "artifact-v2-p1-2026-08-24",
+  "useCase": "style-transfer",
+  "assetType": "museum artifact card and detail image",
+  "sharedPrompt": "Transform the artifact from Image 1 into a refined museum-catalog hero image. Image 1 is the authoritative subject reference: preserve the artifact's silhouette, proportions, material, patina, decoration layout, damage, and number of components as closely as visible; do not redesign it. Images 2 and 3 are style references only: use their near-black warm museum backdrop, restrained amber top light, subtle floor shadow, quiet premium atmosphere, and generous negative space. Produce a vertical 4:5 composition suitable for a Chinese museum atlas card. Keep the complete subject inside a safe central area with clear separation from the background and leave the lower-right corner visually quiet for a UI seal. Photorealistic museum display, high material fidelity, no people, no hands, no modern display labels, no text, no logos, no watermark, no decorative fantasy additions. Do not invent inscriptions or readable characters. Historical accuracy is more important than spectacle.",
+  "styleReferences": [
+    "assets/artifacts-v2-candidates/batch-00-styleproof/gb-hmwd.png",
+    "assets/artifacts-v2-candidates/batch-00-styleproof/gg-gzdc.png"
+  ],
+  "items": [
+    {
+      "id": "gg-gzdc",
+      "name": "各种釉彩大瓶",
+      "mode": "reuse-candidate",
+      "category": "single-object",
+      "reference": "public/artifacts/gg-gzdc.jpg",
+      "candidate": "assets/artifacts-v2-candidates/batch-00-styleproof/gg-gzdc.png",
+      "output": "public/artifacts-v2/p1/gg-gzdc.png",
+      "subjectPrompt": "Use the existing approved candidate; preserve the tall multi-glaze vase, colored panels, neck, shoulders, body and foot without embellishment."
+    },
+    {
+      "id": "gg-pft",
+      "name": "《平复帖》",
+      "mode": "precise-object-edit",
+      "category": "scroll-document",
+      "reference": "public/artifacts/gg-pft.jpg",
+      "output": "public/artifacts-v2/p1/gg-pft.png",
+      "subjectPrompt": "Present the ancient handwritten paper handscroll partially opened on a dark museum support, with one rolled end visible. Preserve the paper tone, existing calligraphy texture and seals from the reference; never invent or rewrite characters. The card should communicate a rare fragile manuscript, not a framed modern print."
+    },
+    {
+      "id": "gg-qljs",
+      "name": "《千里江山图》卷",
+      "mode": "reuse-candidate",
+      "category": "scroll-document",
+      "reference": "public/artifacts/gg-qljs.jpg",
+      "candidate": "assets/artifacts-v2-candidates/batch-00-styleproof/gg-qljs-v2.png",
+      "output": "public/artifacts-v2/p1/gg-qljs.png",
+      "subjectPrompt": "Use the historically restrained v2 candidate with a conventional partially opened handscroll; do not use the S-shaped fantasy display version."
+    },
+    {
+      "id": "gg-qmsh",
+      "name": "《清明上河图》卷",
+      "mode": "generate",
+      "category": "scroll-document",
+      "reference": "public/artifacts/gg-qmsh.jpg",
+      "output": "public/artifacts-v2/p1/gg-qmsh.png",
+      "subjectPrompt": "Present a conventional Chinese handscroll partially opened on a dark conservation table, revealing a representative urban-river passage from the reference. Preserve the warm aged silk/paper tone and dense fine-line painting character; do not invent readable writing or turn the scroll into a free-floating ribbon."
+    },
+    {
+      "id": "hb-sjfa",
+      "name": "错金银四龙四凤铜方案座",
+      "mode": "generate",
+      "category": "complex-object",
+      "reference": "public/artifacts/hb-sjfa.jpg",
+      "output": "public/artifacts-v2/p1/hb-sjfa.png",
+      "subjectPrompt": "Preserve the complex square bronze table stand as one complete structure, including its base, intertwined dragon-and-phoenix supports, projecting elements, green patina and gold/silver inlay. Use a slightly elevated three-quarter view so the structural logic remains legible."
+    },
+    {
+      "id": "hk-hrz",
+      "name": "北宋定窑白釉孩儿枕",
+      "mode": "generate",
+      "category": "single-object",
+      "reference": "public/artifacts/hk-hrz.jpg",
+      "output": "public/artifacts-v2/p1/hk-hrz.png",
+      "subjectPrompt": "Preserve the reclining child-shaped white-glazed ceramic pillow, pose, facial proportions, folded arms and softly worn ivory glaze. Show a low three-quarter museum view; do not make the child lifelike flesh or add clothing colors."
+    },
+    {
+      "id": "hk-jgb",
+      "name": "明永乐青花龙穿花纹扁瓶",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifact-sources/official/hk-jgb.png",
+      "output": "public/artifacts-v2/p1/hk-jgb.png",
+      "subjectPrompt": "Use the official Hong Kong Palace Museum reference as the artifact itself. Preserve the flattened globular body, narrow straight neck, flared rim, exact cobalt-blue dragon-among-flower pattern distribution and porcelain surface. Change only the surrounding presentation and lighting; do not redesign the silhouette or invent decoration."
+    },
+    {
+      "id": "hlj-gys",
+      "name": "新石器时代桂叶形石矛",
+      "mode": "generate",
+      "category": "single-object",
+      "reference": "public/artifacts/hlj-gys.jpg",
+      "output": "public/artifacts-v2/p1/hlj-gys.png",
+      "subjectPrompt": "Preserve the thin laurel-leaf stone point, tapered tip, central ridge, chipped edges and gray stone texture. Display the single artifact upright on a nearly invisible conservation mount; no handle, no reconstructed shaft, no fantasy weapon styling."
+    },
+    {
+      "id": "hn-wzt",
+      "name": "唐武则天金简",
+      "mode": "generate",
+      "category": "single-object",
+      "reference": "public/artifacts/hn-wzt.jpg",
+      "output": "public/artifacts-v2/p1/hn-wzt.png",
+      "subjectPrompt": "Preserve the long narrow rectangular gold slip, its aged surface, incised vertical inscription zones and exact proportions. Show it upright with gentle raking light that reveals engraving; do not invent legible Chinese characters or turn it into a modern gold bar."
+    },
+    {
+      "id": "hub-ywj",
+      "name": "春秋越王勾践剑",
+      "mode": "generate",
+      "category": "single-object",
+      "reference": "public/artifacts/hub-ywj.jpg",
+      "output": "public/artifacts-v2/p1/hub-ywj.png",
+      "subjectPrompt": "Preserve the complete bronze sword, blade proportions, central ridge, dark geometric surface pattern, guard, hilt and pommel. Display it diagonally from lower-left to upper-right on a discreet museum support so the whole weapon remains visible; no sheath, no hand, no battle scene."
+    },
+    {
+      "id": "hub-zhy",
+      "name": "战国曾侯乙编钟",
+      "mode": "generate",
+      "category": "group-installation",
+      "reference": "public/artifacts/hub-zhy.jpg",
+      "output": "public/artifacts-v2/p1/hub-zhy.png",
+      "subjectPrompt": "Preserve the photographed three-tier L-shaped frame, its single corner turn, graduated bell rows, large lower bells, smaller upper bells, lacquered beams and limited load-bearing figure posts. Remove only visitors and ceiling clutter; do not add frames, pavilions, roofs, bell walls or fantasy architecture."
+    },
+    {
+      "id": "hun-tbh",
+      "name": "西汉马王堆T形帛画",
+      "mode": "precise-object-edit",
+      "category": "scroll-document",
+      "reference": "public/artifacts/hun-tbh.jpg",
+      "output": "public/artifacts-v2/p1/hun-tbh.png",
+      "subjectPrompt": "Preserve the T-shaped silk funerary banner as a vertically suspended fragile textile, including the broad top, narrowing body, aged silk, dark red-black palette and layered painted registers. Keep the complete silhouette visible; no frame, no modern white backdrop, no invented figures or text."
+    },
+    {
+      "id": "js-hjm",
+      "name": "商周黄金面具",
+      "mode": "generate",
+      "category": "single-object",
+      "reference": "public/artifacts/js-hjm.jpg",
+      "output": "public/artifacts-v2/p1/js-hjm.png",
+      "subjectPrompt": "Preserve the fragmented ancient gold mask, broad brows, angular eyes, nose, mouth, thin hammered sheet, dents and incomplete edges. Present it frontally on a discreet dark mount; avoid a human head, glowing eyes, polished modern gold or fantasy facial additions."
+    },
+    {
+      "id": "js-sjc",
+      "name": "新石器时代十节玉琮",
+      "mode": "generate",
+      "category": "single-object",
+      "reference": "public/artifacts/js-sjc.jpg",
+      "output": "public/artifacts-v2/p1/js-sjc.png",
+      "subjectPrompt": "Preserve the tall pale-green ten-section jade cong, square-tube volume, stacked registers, corner ridges, mottled inclusions and worn surface. Use only a slight three-quarter view to reveal the circular top bore; do not make it a flat slab, solid pillar or invented modern sculpture."
+    },
+    {
+      "id": "js-tysn",
+      "name": "商周太阳神鸟金饰",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/js-tysn.jpg",
+      "output": "public/artifacts-v2/p1/js-tysn.png",
+      "subjectPrompt": "Preserve the thin circular gold foil ornament with four stylized birds circling the central sun motif, including its cut-work silhouette and aged hammered surface. Present frontally with gentle grazing light; do not turn it into a glowing modern emblem."
+    },
+    {
+      "id": "lb-yzl",
+      "name": "红山文化玉猪龙",
+      "mode": "generate",
+      "category": "single-object",
+      "reference": "public/artifacts/lb-yzl.jpg",
+      "output": "public/artifacts-v2/p1/lb-yzl.png",
+      "subjectPrompt": "Preserve the reference object's compact C-shaped silhouette, top projection, blunt open notch, central and upper perforations, shallow circular incisions, gray-green stone and ambiguous abstract features. Do not add animal anatomy or turn it into a realistic bird, owl, dragon or mascot."
+    },
+    {
+      "id": "qzx-lxsf",
+      "name": "北齐贴金彩绘佛造像",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/qzx-lxsf.jpg",
+      "output": "public/artifacts-v2/p1/qzx-lxsf.png",
+      "subjectPrompt": "Preserve the Northern Qi Buddhist stone figure's pose, halo or backing where visible, surviving gilding, mineral pigments, facial expression, drapery and damaged areas. Present as an archaeological sculpture under museum light; do not restore missing parts or idealize the face."
+    },
+    {
+      "id": "qzx-zyj",
+      "name": "明赵秉忠状元卷",
+      "mode": "generate",
+      "category": "scroll-document",
+      "reference": "public/artifacts/qzx-zyj.jpg",
+      "output": "public/artifacts-v2/p1/qzx-zyj.png",
+      "subjectPrompt": "Preserve the photographed examination paper as one coherent long sheet on a dark archival mount, including the dense vertical manuscript rhythm, folds and existing right-side title area. Do not transcribe, replace, enlarge or add characters, seals, titles, captions or bindings."
+    },
+    {
+      "id": "sb-bjl",
+      "name": "伯矩鬲",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/sb-bjl.jpg",
+      "output": "public/artifacts-v2/p1/sb-bjl.png",
+      "subjectPrompt": "Preserve the photographed compact lidded li form, three short legs, rounded body, upright side handles, lid profile, patina and actual seven bovine-head decoration relationship. Keep cattle heads as integrated relief and small ornaments; do not enlarge horns or create monster anatomy."
+    },
+    {
+      "id": "sb-jd",
+      "name": "堇鼎",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/sb-jd.jpg",
+      "output": "public/artifacts-v2/p1/sb-jd.png",
+      "subjectPrompt": "Preserve the Western Zhou bronze ding's rounded rectangular body, two upright handles, legs, relief bands and excavation patina. Present front three-quarter and fully visible; remove the distracting gallery surroundings but do not over-polish or invent taotie patterns."
+    },
+    {
+      "id": "sh-syt",
+      "name": "王羲之《上虞帖》唐摹本",
+      "mode": "generate",
+      "category": "scroll-document",
+      "reference": "public/artifacts/sh-syt.jpg",
+      "output": "public/artifacts-v2/p1/sh-syt.png",
+      "subjectPrompt": "Present the calligraphy handscroll partially opened with one rolled end, preserving the dark aged paper, calligraphy texture, mounting borders and seals visible in the reference. No invented or rewritten characters, no bright modern paper, no floating ribbon."
+    },
+    {
+      "id": "sxd-jz",
+      "name": "商代金杖",
+      "mode": "generate",
+      "category": "single-object",
+      "reference": "public/artifacts/sxd-jz.jpg",
+      "output": "public/artifacts-v2/p1/sxd-jz.png",
+      "subjectPrompt": "Preserve the single long slender gold-sheet-covered staff, uneven rolled skin, narrow core, worn edges, dents, folds and faint incised bands. Display it diagonally under grazing light; do not smooth it into a modern rod or invent a handle, gems, writing or bold patterns."
+    },
+    {
+      "id": "tb-tbd",
+      "name": "西周太保鼎",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/tb-tbd.jpg",
+      "output": "public/artifacts-v2/p1/tb-tbd.png",
+      "subjectPrompt": "Preserve the photographed rectangular bronze body, open top, two tall upright ears, four cylindrical legs, broad relief bands, patina and restrained side projections. Remove only acrylic support and reflections; do not add a lid, extra legs, horns or dense fantasy motifs."
+    },
+    {
+      "id": "tb-yhc",
+      "name": "乾隆款珐琅彩芍药雉鸡图玉壶春瓶",
+      "mode": "generate",
+      "category": "single-object",
+      "reference": "public/artifacts/tb-yhc.jpg",
+      "output": "public/artifacts-v2/p1/tb-yhc.png",
+      "subjectPrompt": "Preserve the Yuhuchun vase's pear-shaped profile, narrow neck, flared mouth, white porcelain and pheasant-among-peonies enamel painting. Center upright with delicate palace-enamel color and porcelain sheen; do not add birds, flowers, inscriptions or gilded mounts."
+    },
+    {
+      "id": "yx-jg",
+      "name": "刻辞卜骨（甲骨）",
+      "mode": "generate",
+      "category": "complex-object",
+      "reference": "public/artifacts/yx-jg.jpg",
+      "output": "public/artifacts-v2/p1/yx-jg.png",
+      "subjectPrompt": "Preserve the two oracle-bone fragments, their exact uneven silhouettes, warm bone color, cracks and incised inscription texture. Arrange the same two fragments together on a dark conservation surface with scale relationship intact; do not invent readable characters, join the fragments, or add a complete animal bone."
+    }
+  ]
+}

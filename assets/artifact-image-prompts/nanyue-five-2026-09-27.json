@@ -1,0 +1,55 @@
+{
+  "version": "nanyue-five-2026-09-27",
+  "generatedAt": "2026-09-27",
+  "generator": "OpenAI built-in imagegen",
+  "useCase": "stylized-concept",
+  "assetType": "museum artifact card and detail AI illustration",
+  "sharedBoundary": "Based on museum text, not copied from museum imagery. Artistic approximation only; generated surface pattern, patina, joins and micro-details must not be presented as observed evidence. No readable historical inscriptions. Not an artifact photograph or an authorization claim.",
+  "items": [
+    {
+      "id": "ny-yh",
+      "name": "银盒",
+      "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/dcjp?nid=70",
+      "output": "/artifacts-v2/ai-new-20260927/ny-yh.png",
+      "sha256": "0b9f22c551a898a04a2803944ec664d34da66bf2ae9817a34d0fabb742faaa0e",
+      "prompt": "Use case: stylized-concept. Asset type: 华夏博物志 museum artifact card and detail AI illustration. Create one original interpretive illustration of the Western Han Nanyue silver box described by Nanyue King Museum: a squat spherical two-part silver lidded box, diameter greater than height, paired convex petal-like lobes around lid and body, thin gilded bands at the joint, three tiny raised nubs on lid, low gilded bronze ring foot. Full object centered in a three-quarter view on a warm near-black textured backdrop. Refined Chinese ink and mineral-pigment museum art with restrained silver and gold, matching a sophisticated scroll atlas. Do not copy any museum photograph. Do not invent a legible inscription, provenance mark, repair, contents, or additional ornaments; no text, logo, people, or watermark. It must visibly read as an artistic reconstruction, not a documentary artifact photograph.",
+      "visualReview": "Overall box shape, paired lobes and three nubs are legible. Surface wear and exact lobes remain invented."
+    },
+    {
+      "id": "ny-cpyb",
+      "name": "铜印花板模",
+      "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=54",
+      "output": "/artifacts-v2/ai-new-20260927/ny-cpyb.png",
+      "sha256": "0fc5c41d286f7277f10fdc50e691cf8c9c20fbc7fa3ce62f978d69280c2c351b",
+      "prompt": "Use case: stylized-concept. Asset type: 华夏博物志 museum artifact AI illustration. An original interpretive illustration of the Western Han Nanyue bronze textile printing plate set described by Nanyue King Museum: exactly two small flat bronze printing matrices of different sizes displayed side by side, one roughly 3.4 cm long and the other roughly 5.7 cm long, with shallow raised pattern surfaces suggesting textile pattern registration and printing. No specific reconstructed motif is claimed because the official text does not describe it. Refined Chinese ink and mineral-pigment illustration, warm near-black textured backdrop, object-centered, elegant museum display. Not a photograph, no fabric, no people, no readable marks, no text, no watermark; do not invent a machine or printing process scene.",
+      "visualReview": "Two differently sized boards are clear. AI-invented surface pattern must never be cited as evidence of the original textile motif."
+    },
+    {
+      "id": "ny-hujie",
+      "name": "错金铭文铜虎节",
+      "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/?nid=49",
+      "output": "/artifacts-v2/ai-new-20260927/ny-hujie.png",
+      "sha256": "82d68fa084d07a07310c9ac4052562011faf741783fbcd7b7214ac267db035b2",
+      "prompt": "Use case: stylized-concept. Asset type: 华夏博物志 museum artifact AI illustration. Create an original interpretive image of the Western Han Nanyue bronze tiger token described by Nanyue King Museum: a thin flat cast crouching tiger-shaped bronze plaque or token, approximately 19 cm long and 11.6 cm high, poised body and curling tail, restrained short curved gold-leaf stripe patches on both faces; show one face only in three-quarter view. Suggest the existence of an inscription by an unlettered recessed band but render absolutely no legible Chinese characters or fake inscription. Refined Chinese ink and mineral-pigment museum art, aged bronze and gold on warm near-black background. No photography, no official image copying, no people, no text, no watermark. Do not imply whether it was made in Chu or Nanyue.",
+      "visualReview": "Flat tiger silhouette and gold stripes are readable, but shape, wear and gold layout remain interpretive; inscription intentionally unreadable."
+    },
+    {
+      "id": "ny-gaozu",
+      "name": "铜承盘高足玉杯",
+      "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/?nid=55",
+      "output": "/artifacts-v2/ai-new-20260927/ny-gaozu.png",
+      "sha256": "a08f464c1704cd3ee0b4ad1521aa34032ffbc1cd9d7769bdc52b65ecb11e1085",
+      "prompt": "Use case: stylized-concept. Asset type: 华夏博物志 museum artifact AI illustration. Create an original interpretive illustration, not a documentary reproduction, of the Western Han Nanyue bronze tray and high-foot jade cup described by Nanyue King Museum: a slim cylindrical green jade cup on a jade pedestal, held by an elaborate three-dragon metal support with gold-colored heads and silver-colored bodies, above a shallow round bronze tray with three small feet. Show the assembled five-material design concept clearly, but avoid inventing exact engraving patterns or legible marks. Refined Chinese ink and mineral-pigment art, complete object in three-quarter view against a warm near-black textured backdrop. No people, no text, no watermark, not a photograph.",
+      "visualReview": "Cup, stand and tray are distinct, but dragon forms, joins, gilding and jade patterns are not a reliable reconstruction of this exact object."
+    },
+    {
+      "id": "ny-xiangyazhi",
+      "name": "金釦象牙卮",
+      "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=71",
+      "output": "/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png",
+      "sha256": "4322deb9cd8c156e71ef67c88102a4fbd835c160e1f401b579680fd8b49ec78d",
+      "prompt": "Use case: stylized-concept. Asset type: 华夏博物志 museum artifact AI illustration. Create one original interpretive museum illustration of the Western Han Nanyue gold-rimmed ivory zhi vessel as described by Nanyue King Museum: short cylindrical ivory container with matching ivory disc lid, fine gold rim bands, three small gold loop fittings on lid and a gold three-hoofed foot base, delicate restrained red and blue linear decoration on the ivory exterior. The recorded surviving height is 5.8 cm, so keep it visually compact. Do not invent identifiable animal species, readable inscriptions, contents, or exact historical motif. Refined Chinese ink and mineral-pigment illustration on warm near-black textured backdrop, complete vessel centered in three-quarter view, visibly artistic not a museum photograph. No people, no text, no watermark.",
+      "visualReview": "Material stack and three loops are recognizable. AI-invented red-blue linework, condition and missing parts are not documentary."
+    }
+  ]
+}

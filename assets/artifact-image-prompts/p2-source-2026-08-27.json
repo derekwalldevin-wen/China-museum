@@ -1,0 +1,341 @@
+{
+  "version": "artifact-v2-p2-source-2026-08-27",
+  "useCase": "precise-object-edit",
+  "assetType": "museum artifact card image",
+  "batchGoal": "Replace the 36 remaining mixed-style source card images with unified AI presentation images while retaining every original source image as the detail and historical reference.",
+  "sharedPrompt": "Use case: precise-object-edit. Asset type: vertical 4:5 museum artifact card image. Image 1 is the authoritative subject reference. Preserve the photographed artifact's silhouette, proportions, material, patina, decoration layout, damage, number of components and viewing identity as closely as visible. Change only the surrounding presentation: remove gallery clutter, visitors, labels, glass glare, support furniture and distracting walls; place the artifact in a near-black warm museum setting with restrained amber top light, a subtle floor or conservation-support shadow and generous negative space. Keep the complete subject inside a safe central area and keep the lower-right corner visually quiet for a UI seal. Photorealistic catalog presentation, not fantasy reconstruction. No people, hands, readable text, logos, watermark, invented inscriptions, added components or historical scenery. Historical fidelity is more important than spectacle.",
+  "styleReferences": [
+    "public/artifacts-v2/p1/gb-gzdc.png",
+    "public/artifacts-v2/p1/hub-ywj.png"
+  ],
+  "items": [
+    {
+      "id": "cq-wyq",
+      "name": "东汉乌杨石阙",
+      "mode": "precise-object-edit",
+      "category": "architectural-stone",
+      "reference": "public/artifacts/cq-wyq.jpg",
+      "output": "public/artifacts-v2/p2-source/cq-wyq.png",
+      "subjectPrompt": "Preserve the tall carved stone que pillar and its stacked architectural crown, weathered gray-beige stone, relief edges and current surviving structure. Isolate the complete monument in a dark spacious gallery; do not rebuild missing paired towers or invent inscriptions."
+    },
+    {
+      "id": "dz-qsg",
+      "name": "南宋宝顶山千手观音",
+      "mode": "precise-object-edit",
+      "category": "architectural-sculpture",
+      "reference": "public/artifacts/dz-qsg.jpg",
+      "output": "public/artifacts-v2/p2-source/dz-qsg.png",
+      "subjectPrompt": "Preserve the central seated Guanyin and the dense fan-shaped field of surviving gilded arms as rock-cut temple sculpture. Use a frontal crop that communicates monumental scale; do not detach it into a freestanding statue, regularize the arms or restore missing paint."
+    },
+    {
+      "id": "gb-hmwd",
+      "name": "后母戊鼎",
+      "mode": "reuse-candidate",
+      "category": "single-object",
+      "reference": "public/artifacts/gb-hmwd.jpg",
+      "candidate": "assets/artifacts-v2-candidates/batch-00-styleproof/gb-hmwd.png",
+      "output": "public/artifacts-v2/p2-source/gb-hmwd.png",
+      "subjectPrompt": "Reuse the approved candidate preserving the massive rectangular bronze body, two upright handles, four legs, relief bands and green patina."
+    },
+    {
+      "id": "gb-jgs",
+      "name": "击鼓说唱俑",
+      "mode": "reuse-candidate",
+      "category": "single-sculpture",
+      "reference": "public/artifacts/gb-jgs.jpg",
+      "candidate": "assets/artifacts-v2-candidates/batch-00-styleproof/gb-jgs.png",
+      "output": "public/artifacts-v2/p2-source/gb-jgs.png",
+      "subjectPrompt": "Reuse the approved candidate preserving the lively seated earthenware storyteller, raised arm, drum, open expression, body proportions and worn clay surface."
+    },
+    {
+      "id": "gb-jlfw",
+      "name": "孝端皇后九龙九凤冠",
+      "mode": "precise-object-edit",
+      "category": "complex-object",
+      "reference": "public/artifacts/gb-jlfw.jpg",
+      "output": "public/artifacts-v2/p2-source/gb-jlfw.png",
+      "subjectPrompt": "Preserve the complete imperial crown's domed dark base, layered gold dragons and phoenixes, blue kingfisher-feather color, red-blue gemstones and hanging pearl strands. Present frontally on a discreet conservation mount; never change the count or hierarchy of ornaments."
+    },
+    {
+      "id": "gb-syz",
+      "name": "四羊方尊",
+      "mode": "precise-object-edit",
+      "category": "complex-object",
+      "reference": "public/artifacts/gb-syz.jpg",
+      "output": "public/artifacts-v2/p2-source/gb-syz.png",
+      "subjectPrompt": "Preserve the square bronze zun, flared mouth, four ram heads integrated at the shoulders, corner horns, relief pattern zones and excavation patina. Show a slightly elevated three-quarter view with all structural parts legible; no living animals or enlarged horns."
+    },
+    {
+      "id": "gg-jgyg",
+      "name": "金瓯永固杯",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/gg-jgyg.jpg",
+      "output": "public/artifacts-v2/p2-source/gg-jgyg.png",
+      "subjectPrompt": "Preserve the small gold tripod cup, twin handles, jewel and pearl decoration, floral relief and exact proportions. Remove only the modern pedestal and neutralize reflections; do not enlarge it into a goblet or invent legible characters."
+    },
+    {
+      "id": "hb-cxd",
+      "name": "长信宫灯",
+      "mode": "precise-object-edit",
+      "category": "single-sculpture",
+      "reference": "public/artifact-sources/official/hb-cxd.png",
+      "output": "public/artifacts-v2/p2-source/hb-cxd.png",
+      "subjectPrompt": "Preserve the kneeling gilt-bronze palace maid holding the lamp, her sleeve forming the smoke channel, seated pose, garment folds, detachable lamp assembly and aged gilding. Present at a clear three-quarter angle; do not turn the figure into living skin or add flame."
+    },
+    {
+      "id": "hb-jly",
+      "name": "刘胜金缕玉衣",
+      "mode": "reuse-candidate",
+      "category": "group-installation",
+      "reference": "public/artifacts/hb-jly.jpg",
+      "candidate": "assets/artifacts-v2-candidates/batch-00-styleproof/hb-jly.png",
+      "output": "public/artifacts-v2/p2-source/hb-jly.png",
+      "subjectPrompt": "Reuse the approved candidate preserving the complete laid-out human-shaped jade suit, rectangular jade plaques, gold-wire grid, head, torso, arms and legs."
+    },
+    {
+      "id": "hlj-syj",
+      "name": "金代双鱼纹铜镜",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/hlj-syj.jpg",
+      "output": "public/artifacts-v2/p2-source/hlj-syj.png",
+      "subjectPrompt": "Preserve the circular dark bronze mirror, central knob and twin-fish relief composition with worn patina. Display the decorated back frontally on an invisible support with raking light; do not add a reflective glass face or invent border motifs."
+    },
+    {
+      "id": "hlj-tzl",
+      "name": "金代铜坐龙",
+      "mode": "precise-object-edit",
+      "category": "single-sculpture",
+      "reference": "public/artifacts/hlj-tzl.jpg",
+      "output": "public/artifacts-v2/p2-source/hlj-tzl.png",
+      "subjectPrompt": "Preserve the compact seated bronze dragon, raised head, curled body, wings or fins, tail, incised details and dark green patina. Keep the exact archaic sculptural anatomy from the reference; no glowing eyes, fire or fantasy enlargement."
+    },
+    {
+      "id": "hn-fhxz",
+      "name": "商代妇好鸮尊",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/hn-fhxz.jpg",
+      "output": "public/artifacts-v2/p2-source/hn-fhxz.png",
+      "subjectPrompt": "Preserve the owl-shaped bronze wine vessel, upright ears, hooked beak, round eyes, wing relief, stout legs, tail support, lid and turquoise-green patina. Present front three-quarter; do not turn it into a realistic bird or add feathers."
+    },
+    {
+      "id": "hn-jhg",
+      "name": "贾湖骨笛",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/hn-jhg.jpg",
+      "output": "public/artifacts-v2/p2-source/hn-jhg.png",
+      "subjectPrompt": "Preserve the slender ancient bone flute, natural bone curvature, drilled finger holes, cracks, porous aged surface and incomplete end. Display diagonally on a nearly invisible mount; no reconstructed bird, hands, musical notes or extra holes."
+    },
+    {
+      "id": "hn-lhfh",
+      "name": "春秋莲鹤方壶",
+      "mode": "precise-object-edit",
+      "category": "complex-object",
+      "reference": "public/artifacts/hn-lhfh.jpg",
+      "output": "public/artifacts-v2/p2-source/hn-lhfh.png",
+      "subjectPrompt": "Preserve the tall rectangular bronze hu, openwork lotus crown, central standing crane, dragon-shaped handles, layered relief, foot and green patina. Show the full vessel without visitors or signs; do not simplify the crown or enlarge the crane."
+    },
+    {
+      "id": "hun-ssd",
+      "name": "西汉素纱襌衣",
+      "mode": "reuse-candidate",
+      "category": "textile",
+      "reference": "public/artifacts/hun-ssd.jpg",
+      "candidate": "assets/artifacts-v2-candidates/batch-00-styleproof/hun-ssd.png",
+      "output": "public/artifacts-v2/p2-source/hun-ssd.png",
+      "subjectPrompt": "Reuse the approved candidate preserving the complete translucent T-shaped silk robe, red-brown edging, overlapping front, wide sleeves and fragile gauze texture."
+    },
+    {
+      "id": "jdz-qhmb",
+      "name": "元青花缠枝牡丹纹梅瓶",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/jdz-qhmb.jpg",
+      "output": "public/artifacts-v2/p2-source/jdz-qhmb.png",
+      "subjectPrompt": "Preserve the porcelain meiping's small mouth, short neck, full shoulders, tapering body and cobalt-blue peony scroll bands. Change only the exhibition background and glare; do not redesign the floral pattern or alter blue-white color balance."
+    },
+    {
+      "id": "jz-yzj",
+      "name": "战国越王州句剑",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/jz-yzj.jpg",
+      "output": "public/artifacts-v2/p2-source/jz-yzj.png",
+      "subjectPrompt": "Preserve the complete bronze sword, long blade, central ridge, guard, hilt, pommel and dark aged surface. Display one sword diagonally with the whole silhouette visible; no duplicate blade, sheath, hand or invented readable inscription."
+    },
+    {
+      "id": "kf-khc",
+      "name": "北魏孔惠超石造像",
+      "mode": "precise-object-edit",
+      "category": "single-sculpture",
+      "reference": "public/artifacts/kf-khc.jpg",
+      "output": "public/artifacts-v2/p2-source/kf-khc.png",
+      "subjectPrompt": "Preserve the narrow stone votive stele, central standing Buddhist figure, two smaller standing attendants, pointed halo or backing, carved base, weathering and losses. Present frontally with grazing light; do not restore missing features, idealize the face or invent legible inscriptions."
+    },
+    {
+      "id": "mo-klk",
+      "name": "明克拉克瓷青花盘",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/mo-klk.jpg",
+      "output": "public/artifacts-v2/p2-source/mo-klk.png",
+      "subjectPrompt": "Preserve the round blue-and-white porcelain dish, scalloped panel organization, central motif, cobalt brushwork, rim and glaze wear. Display almost frontally with slight depth; do not redraw the panels, turn it into a bowl or invent symbols."
+    },
+    {
+      "id": "nb-wgj",
+      "name": "清末民初万工轿",
+      "mode": "precise-object-edit",
+      "category": "complex-installation",
+      "reference": "public/artifacts/nb-wgj.jpg",
+      "output": "public/artifacts-v2/p2-source/nb-wgj.png",
+      "subjectPrompt": "Preserve the complete monumental red-and-gold bridal sedan chair, tiered architectural canopy, carved figures, panels, tassels and base. Isolate it in a spacious dark gallery while retaining its real complexity; no people, procession or invented palace structure."
+    },
+    {
+      "id": "nm-jgs",
+      "name": "战国匈奴鹰形金冠",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/nm-jgs.jpg",
+      "output": "public/artifacts-v2/p2-source/nm-jgs.png",
+      "subjectPrompt": "Preserve the gold crown's hemispherical cap, central standing eagle, horned animal relief band and aged gold surface. Remove only the blue cushion and case reflections; do not make it wearable on a head or add feathers and gemstones."
+    },
+    {
+      "id": "sb-qhbf",
+      "name": "元青花凤首扁壶",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/sb-qhbf.jpg",
+      "output": "public/artifacts-v2/p2-source/sb-qhbf.png",
+      "subjectPrompt": "Preserve the flattened blue-and-white ewer, phoenix-head spout, curved handle, neck, foot and cobalt floral decoration. Use a matching three-quarter view to show thickness; do not turn it into a round vase or redesign the bird head."
+    },
+    {
+      "id": "sh-dkd",
+      "name": "大克鼎",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/sh-dkd.jpg",
+      "output": "public/artifacts-v2/p2-source/sh-dkd.png",
+      "subjectPrompt": "Preserve the massive round Western Zhou bronze ding, two upright handles, three legs, broad belly, relief band and dark green patina. Remove the gallery surround and keep the vessel imposing but fully inside frame; no invented taotie details."
+    },
+    {
+      "id": "sh-sqf",
+      "name": "战国商鞅方升",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifact-sources/official/sh-sqf.jpg",
+      "output": "public/artifacts-v2/p2-source/sh-sqf.png",
+      "subjectPrompt": "Preserve the low rectangular bronze measuring vessel, single short hollow rectangular side handle, shallow open body, worn green-brown-red surface and existing inscription fields. Show a low three-quarter view revealing volume; do not add or rewrite characters."
+    },
+    {
+      "id": "sxd-dlr",
+      "name": "商代青铜大立人",
+      "mode": "precise-object-edit",
+      "category": "single-sculpture",
+      "reference": "public/artifacts/sxd-dlr.jpg",
+      "output": "public/artifacts-v2/p2-source/sxd-dlr.png",
+      "subjectPrompt": "Preserve the very tall bronze standing figure, crown, mask-like face, oversized clasped hands, patterned robe, bare feet and pedestal. Present the complete figure front three-quarter with a sense of scale; do not place an object in the hands or humanize the face."
+    },
+    {
+      "id": "sxd-hjm",
+      "name": "商代黄金面具",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/sxd-hjm.jpg",
+      "output": "public/artifacts-v2/p2-source/sxd-hjm.png",
+      "subjectPrompt": "Preserve the hammered gold mask fitted over the bronze head form, broad angular eyes, ears, nose, mouth, dents and surviving edge relationship. Present frontally on a dark conservation mount; no living head, glowing eyes or polished modern gold."
+    },
+    {
+      "id": "sxd-qs",
+      "name": "商代青铜神树",
+      "mode": "precise-object-edit",
+      "category": "complex-installation",
+      "reference": "public/artifacts/sxd-qs.jpg",
+      "output": "public/artifacts-v2/p2-source/sxd-qs.png",
+      "subjectPrompt": "Preserve the complete multi-tier bronze sacred tree, trunk, branching arms, birds, hanging ornaments, coiling dragon and circular base. Use a tall full-object view under controlled gallery light; do not add foliage, fruit, extra tiers or fantasy landscape."
+    },
+    {
+      "id": "sxd-zym",
+      "name": "商代青铜纵目面具",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/sxd-zym.jpg",
+      "output": "public/artifacts-v2/p2-source/sxd-zym.png",
+      "subjectPrompt": "Preserve the monumental bronze mask's rectangular face, strongly projecting cylindrical eyes, large ears, brows, nose, mouth and green patina. Display frontally with a slight angle revealing eye projection; no head, body, glowing eyes or monster embellishment."
+    },
+    {
+      "id": "sxl-hzx",
+      "name": "西汉“皇后之玺”玉印",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/sxl-hzx.jpg",
+      "output": "public/artifacts-v2/p2-source/sxl-hzx.png",
+      "subjectPrompt": "Preserve the small pale jade seal, crouching tiger knob, square base, soft translucence, inclusions and worn carving. Use a close three-quarter catalog view while keeping scale believable; do not invent a readable seal face or enlarge it into sculpture."
+    },
+    {
+      "id": "sxl-lt",
+      "name": "唐三彩骆驼载乐俑",
+      "mode": "precise-object-edit",
+      "category": "group-sculpture",
+      "reference": "public/artifacts/sxl-lt.jpg",
+      "output": "public/artifacts-v2/p2-source/sxl-lt.png",
+      "subjectPrompt": "Preserve the complete glazed camel with raised head and the compact group of musicians mounted on its back, including green-amber-cream glaze and earthenware wear. Show the whole sculpture; do not add riders, instruments or caravan scenery."
+    },
+    {
+      "id": "sxl-yjb",
+      "name": "唐鸳鸯莲瓣纹金碗",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/sxl-yjb.jpg",
+      "output": "public/artifacts-v2/p2-source/sxl-yjb.png",
+      "subjectPrompt": "Preserve the low gold bowl, flared rim, ring foot, hammered lotus-petal panels, paired-bird motifs and aged matte gold. Use a slightly elevated three-quarter view; do not over-polish, deepen relief or add gems."
+    },
+    {
+      "id": "sz-bz",
+      "name": "北宋真珠舍利宝幢",
+      "mode": "precise-object-edit",
+      "category": "complex-installation",
+      "reference": "public/artifacts/sz-bz.jpg",
+      "output": "public/artifacts-v2/p2-source/sz-bz.png",
+      "subjectPrompt": "Preserve the complete tall reliquary monument with its tiered miniature architecture, central pillar, carved and jeweled details, figures, canopy and base. Remove the glass-case room but retain real asymmetry and age; do not turn it into a pagoda building or add tiers."
+    },
+    {
+      "id": "tb-xjhl",
+      "name": "范宽《雪景寒林图》",
+      "mode": "precise-object-edit",
+      "category": "scroll-painting",
+      "reference": "public/artifacts/tb-xjhl.jpg",
+      "output": "public/artifacts-v2/p2-source/tb-xjhl.png",
+      "subjectPrompt": "Preserve the vertical hanging scroll's monumental snow mountains, dark winter forest, pale silk tone, borders and tall composition. Present the complete hanging scroll against a dark archival wall with restrained light; do not repaint landscape details, add seals or invent writing."
+    },
+    {
+      "id": "yn-jcn",
+      "name": "宋大理国银鎏金镶珠金翅鸟",
+      "mode": "precise-object-edit",
+      "category": "single-sculpture",
+      "reference": "public/artifacts/yn-jcn.jpg",
+      "output": "public/artifacts-v2/p2-source/yn-jcn.png",
+      "subjectPrompt": "Preserve the silver-gilt winged Garuda figure, upright wings, curled tail, bird head, pearl settings, darkened silver and gilded details. Show the small object at three-quarter angle on an invisible mount; no flames, clouds or fantasy creature body."
+    },
+    {
+      "id": "zj-fcst",
+      "name": "黄公望《富春山居图·剩山图》",
+      "mode": "precise-object-edit",
+      "category": "scroll-painting",
+      "reference": "public/artifacts/zj-fcst.jpg",
+      "output": "public/artifacts-v2/p2-source/zj-fcst.png",
+      "subjectPrompt": "Preserve the short surviving handscroll section, aged paper, layered ink mountains, riverbank, existing mounting and real fragment proportions. Present it partially opened on a dark conservation table; do not extend the lost painting, add calligraphy or form an S-shaped fantasy ribbon."
+    },
+    {
+      "id": "zj-yzj",
+      "name": "战国越王者旨於睗剑",
+      "mode": "precise-object-edit",
+      "category": "single-object",
+      "reference": "public/artifacts/zj-yzj.jpg",
+      "output": "public/artifacts-v2/p2-source/zj-yzj.png",
+      "subjectPrompt": "Preserve the complete bronze sword and its separately displayed scabbard or companion component exactly as photographed, including blade, guard, hilt, dark patina and relative scale. Arrange both diagonally without overlap; do not add a warrior or invent readable bird-script characters."
+    }
+  ]
+}
