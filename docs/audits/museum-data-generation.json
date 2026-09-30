@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-09-30T08:45:00.239Z",
+ "generatedAt": "2026-09-30T13:18:35.319Z",
  "source": {
   "path": "src/data/museums.ts",
-  "bytes": 104839,
-  "sha256": "0b84110acc652b00934583d823f627b3c410ec8de6379a740b898a41875479f8",
+  "bytes": 104501,
+  "sha256": "1571aa1d18f826604531e7ef77f04cd092e035806da50249c7601d0d1669974e",
   "museums": 59,
   "artifacts": 206
  },
@@ -14,14 +14,14 @@
  },
  "searchCorpus": {
   "path": "src/data/artifact-search.json",
-  "bytes": 51739,
-  "sha256": "58a960ce0f723f45c4673a174a7686291a0b2003947defea4dffc6fd8f5767e0",
+  "bytes": 51401,
+  "sha256": "4d6617a01e829b4db40c50a40c60684e9bfa3853ff5186dd097a18d90bdcbefb",
   "entries": 206
  },
  "payloads": {
   "directory": "src/data/museum-payloads",
   "count": 59,
-  "totalBytes": 105344,
+  "totalBytes": 105006,
   "files": [
    {
     "id": "gugong",
@@ -187,8 +187,8 @@
    {
     "id": "jingdezhen",
     "path": "src/data/museum-payloads/jingdezhen.json",
-    "bytes": 1477,
-    "sha256": "1ff3a4f0a80f5032be1805b18d052d525e0ce445b3925ce385d2c97017f55839",
+    "bytes": 1468,
+    "sha256": "4e28fb387ba2c2c5a8a9bdff7a8a4cd323d8603c5991461202b44c991d3d6f67",
     "artifacts": 3
    },
    {
@@ -229,8 +229,8 @@
    {
     "id": "kaifeng",
     "path": "src/data/museum-payloads/kaifeng.json",
-    "bytes": 1675,
-    "sha256": "a3762802176da97a5d2aaf2b174c6d3ffcd9d793680bca8384082b4ca7253840",
+    "bytes": 1579,
+    "sha256": "ac1ed4c7531594d0d9b3a5ebdae9bef3b92553e5408ef284a4ab7c7f77e77c7c",
     "artifacts": 3
    },
    {
@@ -250,8 +250,8 @@
    {
     "id": "jingzhou",
     "path": "src/data/museum-payloads/jingzhou.json",
-    "bytes": 1569,
-    "sha256": "4b9f1e72f9fb12bd772630df3b87d3a3ac195e0104e158fc47c5f938b9b858ee",
+    "bytes": 1493,
+    "sha256": "6b149aa38251b2c9e361f998dedfadb99de31e8439f9a2235d84f41cb2893204",
     "artifacts": 3
    },
    {
@@ -299,8 +299,8 @@
    {
     "id": "sanxia",
     "path": "src/data/museum-payloads/sanxia.json",
-    "bytes": 1656,
-    "sha256": "0638bb484c3988ff86ac9c9b15170cb6ba7dd8aab4d577bc522a14a914746feb",
+    "bytes": 1490,
+    "sha256": "e93aa7f353c5066a3037f8fada3272ec1ea50cc43740b2596deef3abc2e0a012",
     "artifacts": 3
    },
    {
@@ -425,8 +425,8 @@
    {
     "id": "macao",
     "path": "src/data/museum-payloads/macao.json",
-    "bytes": 1059,
-    "sha256": "3d90a5b6c1be18c19bb4164b2ebe2ecbd85a587f0c20e649a4299615776fb0c2",
+    "bytes": 1068,
+    "sha256": "bb5b92dce193be6e0412edd93bd5a3a85793486132d7073ccc35d2286e425b2d",
     "artifacts": 2
    },
    {

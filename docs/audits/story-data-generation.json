@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T08:45:00.406Z",
+ "generatedAt": "2026-09-30T13:18:35.809Z",
  "inputs": [
   {
    "path": "src/data/stories.json",
@@ -265,19 +265,29 @@
    "path": "src/data/stories-batch56.json",
    "bytes": 21111,
    "sha256": "55ba6e4229b4e0384fd8da5ed30c8bc4c90f671b769439092371084f619f74df"
+  },
+  {
+   "path": "src/data/stories-batch57.json",
+   "bytes": 23787,
+   "sha256": "47f028cfcf27c169593138977271b7bc3940e21efc1c7c6e5696af7ccb1db11d"
+  },
+  {
+   "path": "src/data/stories-batch58.json",
+   "bytes": 19254,
+   "sha256": "f8608c104ad967f1e4649d1171f5299c92dd0d46764ae1a5ff041eee555e9770"
   }
  ],
  "catalog": {
   "path": "src/data/story-catalog.json",
-  "bytes": 18598,
-  "sha256": "251325d9861e1d40cc1c02ede93b84ad7a91fac97692751ab43bde54e983c955",
-  "stories": 179,
+  "bytes": 19084,
+  "sha256": "ca23cf6b42ff11338689f19dc1e433e90143d397743a1daf81b29308a5ea9681",
+  "stories": 185,
   "trails": 6
  },
  "payloads": {
   "directory": "src/data/story-payloads",
-  "count": 179,
-  "totalBytes": 1283857,
+  "count": 185,
+  "totalBytes": 1328831,
   "maxBytes": 16325,
   "files": [
    {
@@ -1531,6 +1541,48 @@
     "path": "src/data/story-payloads/yx-jg.json",
     "bytes": 8384,
     "sha256": "d1628d722203845c7afe5911621870d95ff9fb40845861fcd73be551855037e8",
+    "sources": 1
+   },
+   {
+    "id": "mo-klk",
+    "path": "src/data/story-payloads/mo-klk.json",
+    "bytes": 7027,
+    "sha256": "47ec72964305bb3ea9a1881cab4ab04f6a29160e562854ba5b29c4cf275c8fc5",
+    "sources": 1
+   },
+   {
+    "id": "jz-hnjg",
+    "path": "src/data/story-payloads/jz-hnjg.json",
+    "bytes": 7885,
+    "sha256": "1b0d1df78e1530cb9b1b4901d8ea004421e545c56c3ccc2fa84aff8bc18d264b",
+    "sources": 1
+   },
+   {
+    "id": "kf-khc",
+    "path": "src/data/story-payloads/kf-khc.json",
+    "bytes": 9841,
+    "sha256": "c1dd92af44f8c9673e58a5afb9b3d3c790f36030a635527bb831baa1ff9ea4f4",
+    "sources": 1
+   },
+   {
+    "id": "cq-nxz",
+    "path": "src/data/story-payloads/cq-nxz.json",
+    "bytes": 6620,
+    "sha256": "d67c1dbd6fdd1827b425f5db8c791d6fe15d864cc6725811696872f340f79be0",
+    "sources": 1
+   },
+   {
+    "id": "cq-hty",
+    "path": "src/data/story-payloads/cq-hty.json",
+    "bytes": 6446,
+    "sha256": "c7a5f0a83aa55979da5c60133afc1458e4b486e064f8c6e2785bd1e7082211c2",
+    "sources": 1
+   },
+   {
+    "id": "jdz-cslh",
+    "path": "src/data/story-payloads/jdz-cslh.json",
+    "bytes": 7155,
+    "sha256": "1795666f07a79893fe1504723219bd0dd9cf80a14d28f8ad00758aab52088cce",
     "sources": 1
    }
   ]
