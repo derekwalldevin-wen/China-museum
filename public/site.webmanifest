@@ -1,0 +1,12 @@
+{
+  "name": "华夏博物志 · 中国博物馆手卷舆图",
+  "short_name": "华夏博物志",
+  "description": "以二维中国画手卷展开全国博物馆与馆藏文物。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080a09",
+  "theme_color": "#080a09",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
