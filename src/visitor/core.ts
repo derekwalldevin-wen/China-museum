@@ -46,6 +46,8 @@ export interface VisitorRecord {
   city: string;
   visitedAt?: string;
   note?: string;
+  /** Shown publicly next to an approved submission; optional for purely local records. */
+  contributor?: string;
   photos: VisitorPhotoMeta[];
   consent: { ownWork: true; allowPublicAfterReview: true; agreedAt: string };
 }
@@ -91,6 +93,7 @@ export function validateVisitorRecord(record: VisitorRecord, options: { requireP
   if (record.city && record.city.trim().length > 30) errors.push('城市名称过长');
   if (record.visitedAt && !MONTH.test(record.visitedAt)) errors.push('参观时间请用 YYYY-MM 格式');
   if (record.note && record.note.length > 500) errors.push('文字说明请控制在 500 字以内');
+  if (record.contributor && record.contributor.length > 40) errors.push('投稿人署名过长');
   if (!ISO.test(record.createdAt ?? '')) errors.push('createdAt 不是 ISO 时间');
   if (!ISO.test(record.updatedAt ?? '')) errors.push('updatedAt 不是 ISO 时间');
   if (record.consent?.ownWork !== true) errors.push('请确认照片为本人拍摄');

@@ -15,6 +15,7 @@ export default defineConfig({
       input: {
         index: path.resolve(__dirname, 'index.html'),
         visitor: path.resolve(__dirname, 'visitor-records/index.html'),
+        review: path.resolve(__dirname, 'visitor-records/review/index.html'),
       },
     },
   },

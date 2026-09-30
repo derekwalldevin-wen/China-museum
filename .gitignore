@@ -33,3 +33,6 @@ contest/tools/imageio_ffmpeg/binaries/
 *.njsproj
 *.sln
 *.sw?
+
+# Local Pages secrets for wrangler pages dev (.dev.vars)
+.dev.vars

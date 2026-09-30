@@ -1,0 +1,16 @@
+name = "huaxia-museum-atlas"
+compatibility_date = "2026-09-01"
+pages_build_output_dir = "dist"
+
+# Visitor submissions (phase B). Photos go to R2 when the binding exists; until R2 is
+# enabled on the account the API stores them in the D1 blob column instead.
+[[d1_databases]]
+binding = "DB"
+database_name = "huaxia-visitor-records"
+database_id = "410e8fb7-9f03-443f-a71c-41185c15f7ae"
+
+# Enable this block once R2 is switched on for the account and the bucket exists:
+#   npx wrangler r2 bucket create huaxia-visitor-photos
+# [[r2_buckets]]
+# binding = "PHOTOS"
+# bucket_name = "huaxia-visitor-photos"

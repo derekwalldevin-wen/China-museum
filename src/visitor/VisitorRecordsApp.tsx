@@ -21,7 +21,7 @@ import { clearLocalRecords, deleteLocalRecord, estimateUsage, listLocalRecords, 
 import publishedData from '../data/visitor-records.json';
 import './visitor.css';
 
-const published = publishedData as unknown as { version: number; reviewedAt?: string | null; records: PublishedRecord[] };
+const publishedStatic = publishedData as unknown as { version: number; reviewedAt?: string | null; records: PublishedRecord[] };
 
 interface FormState {
   museumName: string;
@@ -29,11 +29,26 @@ interface FormState {
   city: string;
   visitedAt: string;
   note: string;
+  contributor: string;
 }
 
-const emptyForm: FormState = { museumName: '', province: '北京市', city: '', visitedAt: '', note: '' };
+const emptyForm: FormState = { museumName: '', province: '北京市', city: '', visitedAt: '', note: '', contributor: '' };
 
 interface DraftPhoto { meta: VisitorPhotoMeta; blobs: PhotoBlobs; previewUrl: string }
+interface SubmitState { id: string; status: 'pending' | 'approved' | 'rejected'; at: string }
+const SUBMIT_KEY = 'huaxia-visitor-submissions';
+
+function readSubmitState(): Record<string, SubmitState> {
+  try { return JSON.parse(localStorage.getItem(SUBMIT_KEY) ?? '{}') as Record<string, SubmitState>; } catch { return {}; }
+}
+function writeSubmitState(state: Record<string, SubmitState>): void {
+  try { localStorage.setItem(SUBMIT_KEY, JSON.stringify(state)); } catch { /* private mode: keep in memory only */ }
+}
+const STATUS_LABEL: Record<SubmitState['status'], string> = {
+  pending: '已提交 · 等待站长审核',
+  approved: '已通过审核 · 已在“已发布”栏目展示',
+  rejected: '未通过审核',
+};
 
 export default function VisitorRecordsApp() {
   const [records, setRecords] = useState<LocalRecord[]>([]);
@@ -46,6 +61,8 @@ export default function VisitorRecordsApp() {
   const [busy, setBusy] = useState<string>('');
   const [usage, setUsage] = useState<{ usage: number; quota: number } | null>(null);
   const [previewUrls, setPreviewUrls] = useState<Record<string, string>>({});
+  const [submissions, setSubmissions] = useState<Record<string, SubmitState>>(() => readSubmitState());
+  const [published, setPublished] = useState<PublishedRecord[]>(publishedStatic.records);
   const fileInput = useRef<HTMLInputElement>(null);
   const importInput = useRef<HTMLInputElement>(null);
 
@@ -73,6 +90,20 @@ export default function VisitorRecordsApp() {
   }, []);
 
   useEffect(() => { void refresh(); }, [refresh]);
+
+  // Approved submissions come from the API; the static JSON stays as the offline fallback.
+  useEffect(() => {
+    let cancelled = false;
+    void (async () => {
+      try {
+        const response = await fetch('/api/visitor/published', { headers: { accept: 'application/json' }, cache: 'no-cache' });
+        if (!response.ok) return;
+        const data = await response.json() as { records?: PublishedRecord[] };
+        if (!cancelled && Array.isArray(data.records)) setPublished([...publishedStatic.records, ...data.records]);
+      } catch { /* offline: keep the static list */ }
+    })();
+    return () => { cancelled = true; };
+  }, []);
   useEffect(() => () => { for (const url of Object.values(previewUrls)) URL.revokeObjectURL(url); }, [previewUrls]);
 
   async function addFiles(files: FileList | null) {
@@ -113,6 +144,7 @@ export default function VisitorRecordsApp() {
       city: form.city.trim(),
       visitedAt: form.visitedAt || undefined,
       note: form.note.trim() || undefined,
+      contributor: form.contributor.trim() || undefined,
       photos: photos.map(entry => entry.meta),
       consent: { ownWork: ownWork as true, allowPublicAfterReview: allowPublic as true, agreedAt: now },
     };
@@ -151,8 +183,44 @@ export default function VisitorRecordsApp() {
     } finally { setBusy(''); }
   }
 
-  async function importPackage(file: File | undefined) {
-    if (!file) return;
+  async function submitToSite(entry: LocalRecord) {
+    const contributor = entry.record.contributor?.trim();
+    if (!contributor) { setErrors(['请先填写投稿人署名，再提交到网站。']); return; }
+    setErrors([]);
+    setNotice('');
+    setBusy('正在提交到网站…');
+    try {
+      const form = new FormData();
+      form.set('museumName', entry.record.museumName);
+      form.set('province', entry.record.province);
+      form.set('city', entry.record.city);
+      form.set('visitedAt', entry.record.visitedAt ?? '');
+      form.set('note', entry.record.note ?? '');
+      form.set('contributor', contributor);
+      form.set('consent', 'true');
+      for (const meta of entry.record.photos) {
+        const blobs = entry.photos[meta.id];
+        if (!blobs) continue;
+        form.append('photos', new File([blobs.full], `${meta.id}.jpg`, { type: 'image/jpeg' }));
+        form.set(`width:${meta.id}.jpg`, String(meta.width));
+        form.set(`height:${meta.id}.jpg`, String(meta.height));
+      }
+      const response = await fetch('/api/visitor/submit', { method: 'POST', body: form });
+      const payload = await response.json() as { id?: string; status?: SubmitState['status']; error?: string; errors?: string[] };
+      if (!response.ok || !payload.id) {
+        setErrors([payload.error ?? '提交失败', ...(payload.errors ?? [])]);
+        return;
+      }
+      const next = { ...submissions, [entry.record.id]: { id: payload.id, status: payload.status ?? 'pending', at: new Date().toISOString() } };
+      setSubmissions(next);
+      writeSubmitState(next);
+      setNotice('已提交，等待站长审核。审核通过后才会出现在“已发布”栏目；审核期间你仍可在本机保留副本。');
+    } catch (error) {
+      setErrors([`提交失败：${error instanceof Error ? error.message : String(error)}（记录仍保存在本机）`]);
+    } finally { setBusy(''); }
+  }
+
+  async function importPackage(file: File | undefined) {    if (!file) return;
     setBusy('正在读取记录包…');
     setErrors([]);
     try {
@@ -208,6 +276,9 @@ export default function VisitorRecordsApp() {
             </label>
             <label>参观时间（可只填年月）
               <input type="month" value={form.visitedAt} onChange={event => setForm({ ...form, visitedAt: event.target.value })} />
+            </label>
+            <label>投稿人署名（公开展示时使用）
+              <input value={form.contributor} maxLength={40} placeholder="例：小明" onChange={event => setForm({ ...form, contributor: event.target.value })} />
             </label>
           </div>
           <label className="vr-block">文字说明（可选，500 字以内）
@@ -277,6 +348,12 @@ export default function VisitorRecordsApp() {
                         </li>
                       ))}
                     </ul>
+                    <div className="vr-actions">
+                      <button type="button" disabled={Boolean(busy) || Boolean(submissions[entry.record.id])} onClick={() => void submitToSite(entry)}>提交到网站审核</button>
+                      {submissions[entry.record.id]
+                        ? <span className="vr-meta">{STATUS_LABEL[submissions[entry.record.id].status]} · 编号 {submissions[entry.record.id].id.slice(0, 8)}</span>
+                        : <span className="vr-meta">{entry.record.contributor ? `署名：${entry.record.contributor}` : '提交前请填写投稿人署名'}</span>}
+                    </div>
                   </li>
                 ))}
               </ul>
@@ -286,11 +363,11 @@ export default function VisitorRecordsApp() {
         <section className="vr-card" aria-labelledby="vr-published" data-visitor-published>
           <h2 id="vr-published">3 · 已发布的访客记录</h2>
           <p className="vr-meta">审核通过后由站长收录；每条都标注「{VISITOR_LABEL}」。</p>
-          {published.records.length === 0
-            ? <p className="vr-empty">目前还没有已发布的访客记录。你导出的记录包可以交给站长，审核通过后会出现在这里。</p>
+          {published.length === 0
+            ? <p className="vr-empty">目前还没有已发布的访客记录。你导出的记录包可以交给站长，也可以直接“提交到网站审核”。</p>
             : (
               <ul className="vr-published">
-                {published.records.map(record => (
+                {published.map(record => (
                   <li key={record.id}>
                     <div className="vr-tag">{VISITOR_LABEL}</div>
                     <strong>{record.museumName}</strong>

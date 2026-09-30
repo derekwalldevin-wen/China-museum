@@ -210,19 +210,28 @@ test('visitor submissions never enter the curated layers', () => {
   }
 });
 
-test('the visitor tool stays local: no upload calls, no atlas data imports', () => {
+test('the visitor tool only talks to its own submission API and stays off the atlas data', () => {
   for (const file of VISITOR_SOURCE_FILES) {
     const code = readFileSync(new URL(file, import.meta.url), 'utf8');
-    assert.doesNotMatch(code, /\bfetch\s*\(/, `${file} must not call fetch`);
-    assert.doesNotMatch(code, /XMLHttpRequest|sendBeacon|WebSocket/, `${file} must not upload`);
+    assert.doesNotMatch(code, /XMLHttpRequest|sendBeacon|WebSocket/, `${file} must not use legacy upload channels`);
     assert.doesNotMatch(code, /navigator\.geolocation/, `${file} must not read location`);
     assert.doesNotMatch(code, /from '\.\.\/data\/museum-index\.json'/, `${file} must not import atlas data`);
     assert.doesNotMatch(code, /from '\.\.\/data\/images\.json'/, `${file} must not import the curated image registry`);
+    // Phase B allows submission, but only to this site's own visitor endpoints.
+    for (const match of code.matchAll(/fetch\(\s*[`'"]([^`'"]+)[`'"]/g)) {
+      assert.match(match[1], /^\/api\/visitor\//, `${file}: unexpected fetch target ${match[1]}`);
+    }
   }
-  // Photos are re-encoded, which is what strips EXIF/GPS before anything is stored.
+  // Photos are re-encoded, which is what strips EXIF/GPS before anything is stored or sent.
   const image = readFileSync(new URL('../src/visitor/image.ts', import.meta.url), 'utf8');
   assert.match(image, /exifStripped: true/);
   assert.match(image, /toBlob|convertToBlob/);
+  // The review desk must never ship the token in a URL or into the bundle.
+  const review = readFileSync(new URL('../src/visitor/ReviewApp.tsx', import.meta.url), 'utf8');
+  assert.doesNotMatch(review, /[?&]token=/, 'admin token must travel in a header, not a query string');
+  for (const file of ['../src/visitor/server.ts', '../src/visitor/ReviewApp.tsx', '../src/visitor/review/main.tsx']) {
+    assert.ok(readFileSync(new URL(file, import.meta.url), 'utf8').length > 0, file);
+  }
 });
 
 test('the built site ships the visitor page separately from the atlas bundle', () => {
