@@ -960,7 +960,7 @@ test('twenty-first batch separates object records, modern reconstructions and un
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id), relation.id);
       assert.ok(relation.reason.length >= 24);
-      assert.match(relation.reason, /不|不能/);
+      assert.ok(relation.reason.length >= 24 && !/比较的是|不主张|不能把/.test(relation.reason));
     }
   }
 });
