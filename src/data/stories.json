@@ -3,216 +3,1815 @@
   "reviewedAt": "2026-09-27",
   "reviewPolicy": "依据所列公开资料编辑核读，非馆方审定；文字证据不等于图片许可。检索返回的官网正文不等于用户端链接连通性保证。",
   "sources": [
-    {"id":"cx","title":"何以中国 · 长信宫灯展品说明","institution":"故宫博物院（展品藏于河北博物院）","url":"https://ggzl.dpm.org.cn/pages/exhibit_works/details?id=10933","checkedAt":"2026-09-15","retrieval":"search-text","kind":"museum","supports":"窦绾墓、六部分结构、袖管、可移动灯罩、9处65字铭文"},
-    {"id":"cx-guest","title":"长信宫灯国宝特展说明","institution":"河南博物院（展品藏于河北博物院）","url":"https://www.chnmus.net/sitesources/hnsbwy/page_pc/bwzl/zxgd/","checkedAt":"2026-09-26","retrieval":"search-text","kind":"museum-feature","supports":"1968年窦绾墓出土、高48厘米、六部分分铸可拆、两片弧形灯罩及9处65字；是借展解说，不含单件保护修复档案"},
-    {"id":"cx-lamp-research-2024","title":"从灯具看中国古代物质文化中的工与巧——以汉魏南北朝时期灯具为中心","institution":"《故宫博物院院刊》2024年第6期","url":"https://img.dpm.org.cn/Uploads/File/2024/06/14/u666baab6e3dcc.pdf","checkedAt":"2026-09-29","retrieval":"search-text","kind":"formal-research","supports":"论文将长信宫灯列作汉代釭灯例证，讨论同类灯具导烟、脂膏燃料与灯腹贮水的一般结构；不能据此证明长信宫灯本体留存水迹、具体燃料或净化效率"},
-    {"id":"cx-replica-2023","title":"照长夜 乐未央——中华第一灯展览预告","institution":"常德市丁玲纪念馆（常德市文化旅游广电体育局发布）","url":"https://cdswlgtj.changde.gov.cn/zhdt/zxdt/content_988648","checkedAt":"2026-09-27","retrieval":"full-text","kind":"government-museum","supports":"2023年常德展览使用上世纪七八十年代制作的一比一长信宫灯复制件，原件藏河北博物院；说明当代传播与原件有别，不提供原灯修复工单"},
-    {"id":"fh","title":"自治区博物馆羽纹铜凤灯重聚亮相","institution":"广西云·广西日报（记者采访及馆方提供资料）","url":"https://v.gxnews.com.cn/a/21784134","checkedAt":"2026-09-15","retrieval":"search-text","kind":"reported-interview","supports":"1971年合浦望牛岭1号墓出土一对、凤鸟造型、足尾支撑、錾刻羽纹"},
-    {"id":"fh2","title":"博物馆里不为人知的古代智慧","institution":"南国早报（含广西文化和旅游厅提供结构图）","url":"https://www.ngzb.com.cn/news/2024/05/15/bowu-guanli-buweirenzhi-gudai-zhihui.html","checkedAt":"2026-09-15","retrieval":"search-text","kind":"reported-interview","supports":"铜凤灯背部灯盘、两段套接颈管、中空腹腔与灯罩结构"},
-    {"id":"fh-discovery","title":"合浦“双灯合璧”展：文物的明星 文化的使者","institution":"广西云·广西日报（自治区博物馆考古、修复与展陈资料采访）","url":"https://gxxwfb.gxnews.com.cn/article.v2019.php?id=21796764","checkedAt":"2026-09-25","retrieval":"search-text","kind":"reported-interview","supports":"1970年施工发现木炭层并上报、1971年获批发掘、两个月发掘中发现成对铜灯、出土时带泥锈蚀后送馆修复，以及后续展览与当代视觉传播；报道不是原始发掘或修复报告"},
-    {"id":"cup","title":"金瓯永固杯馆藏说明","institution":"故宫博物院","url":"https://www.dpm.org.cn/collection/tinware/234538.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum","supports":"故00011674、高12.5厘米口径8厘米、金质、双龙耳与象首足、宝相花珠宝、两侧款识；本页无单件造办处档号或逐次修复记录"},
-    {"id":"cup2","title":"故宫青少版 · 金瓯永固杯","institution":"故宫博物院","url":"https://young.dpm.org.cn/info/242","checkedAt":"2026-09-15","retrieval":"search-text","kind":"museum","supports":"清宫元旦开笔仪式、养心殿、烛台、屠苏酒、吉语；元旦指农历正月初一"},
-    {"id":"cup-ritual-study","title":"清宫年节陈设中的如意与工艺盆景","institution":"故宫博物院器物部研究文章","url":"https://www.dpm.org.cn/Uploads/File/2019/11/30/u5de21d36501c2.pdf","checkedAt":"2026-09-24","retrieval":"search-text","kind":"museum-research","supports":"结合清宫陈设档讨论金瓯杯与元旦试笔仪式；指出其并非专为每年仪式盛屠苏酒，仪式后也曾继续作为陈设器摆放"},
-    {"id":"cup-workshop-archive","title":"《金瓯永固》杯：清宫造办处档案与制作记录","institution":"故宫博物院器物研究","url":"https://www.dpm.org.cn/Uploads/pdf/1602/T00080_00.pdf","checkedAt":"2026-09-25","retrieval":"search-text","kind":"museum-research","supports":"研究文章依据清宫造办处活计档讨论金瓯永固杯的样式呈览、奉旨制作与后续照样制作；档案涉及多件同名器物，不将某一工序或工匠未经辨析地归到故00011674号藏品"},
-    {"id":"cup-ritual-record","title":"金瓯永固杯与嘉庆御题《元旦试笔》夹注","institution":"故宫博物院专题（引嘉庆十二年御题诗）","url":"https://www.dpm.org.cn/topic/zhongguo_commonhome.html","checkedAt":"2026-09-26","retrieval":"search-text","kind":"museum-research","supports":"专题引嘉庆十二年《元旦试笔》夹注，记养心殿元旦子刻设金瓯盛屠苏、点玉烛、先朱毫后墨书吉语；该记载支持仪式，不逐次鉴定故00011674杯的使用"},
-    {"id":"cup-exhibitions","title":"乾隆款金嵌珠石金瓯永固杯数字馆藏与展览史","institution":"故宫博物院数字文物库","url":"https://digicol.dpm.org.cn/cultural/detail?id=d3c6021697c94071a79f405c9e79aa82&page=1&source=0","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum","supports":"故00011674号的2022—2023年景仁宫、2022—2023年澳门艺术博物馆、2025—2026年午门展览记录；展览记录不等于逐件修复档案"},
-    {"id":"cup-case","title":"宫廷传统囊匣制作技艺","institution":"故宫博物院","url":"https://www.dpm.org.cn/topic/party_building/good/detail/255710.html","checkedAt":"2026-09-27","retrieval":"search-text","kind":"museum-feature","supports":"馆方称囊匣技师王金生曾为金瓯永固杯等文物配置囊匣；页面未给此同名杯登记号、材料、制作日期或修复记录，不可直接认定故00011674号的单件工单"},
-    {"id":"cup-taipei-comparison","title":"金甌永固杯馆藏记录（台北藏旧杯）","institution":"国立故宫博物院（台北）","url":"https://digitalarchive.npm.gov.tw/Collection/Detail/67131?dep=U","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum","supports":"台北藏故雜005490N000000000高约14厘米、馆方称1739年制及1797年下令重制，并说新杯在北京；是另一件同名杯，不等于北京故00011674号的逐件制造档案或影像授权"},
-    {"id":"cup-sui-paintings","title":"乾隆朝养心殿明窗贴落画探析——以岁朝图、万国来朝图为中心","institution":"李湜，《故宫博物院院刊》2023年第1期","url":"https://www.dpm.org.cn/Uploads/File/2023/01/16/u63c4c9751178e.pdf","checkedAt":"2026-09-28","retrieval":"search-text","kind":"formal-research","supports":"故宫刊物原论文辨析乾隆朝岁朝图中的金瓯杯与玉烛台，并指出同名杯存世不止一件；画面支持仪式图像研究，不证明画中杯等同故00011674号，也不是当年仪式照片"},
-    {"id":"bell","title":"曾侯乙编钟","institution":"湖北省博物馆","url":"https://www.hbww.org.cn/zgzb/p/4695.html","checkedAt":"2026-09-26","retrieval":"full-text","kind":"museum","supports":"1978年随州、65件三层八组、钟架长7.48米高2.65米、双音、五个半八度、3755字"},
-    {"id":"bell-excavation-timeline","title":"湖北省文物考古研究院大事记：1978","institution":"湖北省文物考古研究院","url":"https://hbww.org.cn/yjy_dsj/p/9676.html","checkedAt":"2026-09-26","retrieval":"full-text","kind":"government-archaeology","supports":"1978年5月上旬至9月湖北省博物馆发掘随县擂鼓墩曾侯乙墓；这是墓葬发掘时段，不是编钟逐件起取日志"},
-    {"id":"bell-chambers","title":"国君之礼 旷世之美——曾侯乙墓出土漆器述略","institution":"湖北省博物馆研究文章","url":"https://www.hbww.org.cn/hhfz70n/p/9135.html","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum-research","supports":"墓葬中室有编钟编磬与鼓、瑟、笙等，东室另有鼓琴瑟笙；作者对中室重大礼仪用乐、东室寝宫用乐作研究解释，非一次演奏现场记录"},
-    {"id":"drum","title":"击鼓说唱俑","institution":"中国国家博物馆","url":"https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247253.shtml","checkedAt":"2026-09-15","retrieval":"search-text","kind":"museum","supports":"抱鼓举槌、夸张表情动作、俳优表演、汉代社会背景"},
-    {"id":"drum-discovery","title":"如果国宝会说话·国博馆藏文物目录","institution":"中国国家博物馆","url":"https://www.chnmuseum.cn/Portals/0/web/zt/20180101rggbhsh/index_mobile.html","checkedAt":"2026-09-25","retrieval":"search-text","kind":"museum-feature","supports":"击鼓说唱陶俑为明器，1957年四川成都天回山出土，高56厘米；目录信息不提供具体墓号及完整发掘经过"},
-    {"id":"camel","title":"唐三彩载乐骆驼俑","institution":"陕西历史博物馆","url":"https://www.sxhm.com/collections/detail/509.html","checkedAt":"2026-09-26","retrieval":"full-text","kind":"museum","supports":"一驼八人、七男乐手汉服胡乐器、一女歌者、艺术化驼背舞台；馆方以巡回乐团作解释，不能当作实际行程证据"},
-    {"id":"sancai-process","title":"三彩方柜馆藏说明","institution":"中国国家博物馆","url":"https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252219.shtml","checkedAt":"2026-09-25","retrieval":"search-text","kind":"museum","supports":"以另一件唐三彩说明铅釉陶、先素烧后施彩釉再烧及多种金属氧化物呈色；仅支持同类工艺背景，不是载乐骆驼俑检测报告"},
-    {"id":"qm","title":"张择端清明上河图卷","institution":"故宫博物院","url":"https://www.dpm.org.cn/collection/paint/228226.html","checkedAt":"2026-09-25","retrieval":"search-text","kind":"museum","supports":"北宋张择端、绢本淡设色、横528厘米、汴京汴河、市郊虹桥城内三段；兼工带写、界画建筑舟船、鸟瞰全景与手卷分段平视的观看方式"},
-    {"id":"qm2","title":"张择端《清明上河图卷》鉴藏印辨析","institution":"故宫博物院","url":"https://www.dpm.org.cn/study_detail/100178.html","checkedAt":"2026-09-15","retrieval":"search-text","kind":"museum-research","supports":"题跋鉴藏印作为递藏与鉴定的辅助证据，部分印记尚不可辨"},
-    {"id":"qm-restoration","title":"《清明上河图》装裱记","institution":"故宫博物院研究馆员文章","url":"https://www.dpm.org.cn/study_detail/100190.html","checkedAt":"2026-09-25","retrieval":"search-text","kind":"museum-research","supports":"1953年重回故宫时的破损记录及1973年重新修裱；补绢与接笔均先留影、制小样并经研究，文章列出约47处换补与38处接笔"},
-    {"id":"qm-copies","title":"《清明上河图》的传承","institution":"故宫博物院学术研究","url":"https://www.dpm.org.cn/study_detail/100193.html","checkedAt":"2026-09-25","retrieval":"search-text","kind":"museum-research","supports":"明清以来摹本与20世纪复制传播；后世版本与原作既有共同母题也有桥材、船只和航线等差异，不能把摹本当作原作细节"},
-    {"id":"qm-research","title":"关于《清明上河图》研究中的几个问题的浅见","institution":"故宫博物院学术研究","url":"https://www.dpm.org.cn/study_detail/100185.html","checkedAt":"2026-09-25","retrieval":"search-text","kind":"museum-research","supports":"对张择端生平及“失位家居”等后出说法的证据提出审慎意见；研究争论不改变画卷本体可核信息"},
-    {"id":"qm-debates","title":"风俗画的定义与《清明上河图》的启示","institution":"故宫博物院学术研究","url":"https://www.dpm.org.cn/study_detail/100187.html","checkedAt":"2026-09-25","retrieval":"search-text","kind":"museum-research","supports":"归纳作品真伪、汴京或非汴京、清明题意、成画年代、画中季节与具体城市位置等仍有争论的问题；研究议题不等于已有定论"},
-    {"id":"ql","title":"王希孟千里江山图卷","institution":"故宫博物院","url":"https://www.dpm.org.cn/collection/paint/228354.html","checkedAt":"2026-09-15","retrieval":"search-text","kind":"museum","supports":"北宋、1191.5厘米、石青石绿、多点视角、六部分以桥水衔接、蔡京跋与生平不确定性"},
-    {"id":"ql2","title":"千里江山——历代青绿山水画特展","institution":"故宫博物院","url":"https://www.dpm.org.cn/subject_rivsmounts/qljs/245996.html","checkedAt":"2026-09-15","retrieval":"search-text","kind":"museum","supports":"约11.9米、山水与村落人物、实景和想象融合"},
-    {"id":"ql-author-research","title":"王希孟（故宫名画记）","institution":"故宫博物院","url":"https://minghuaji.dpm.org.cn/author/detail?id=8","checkedAt":"2026-09-24","retrieval":"search-text","kind":"museum-research","supports":"史籍未见王希孟生平记载；蔡京题跋提供其年龄、画学经历等线索，具体生平仍须区分题跋所载与后人推论"},
-    {"id":"ql-scholar-study","title":"细究王希孟及其《千里江山图》","institution":"故宫博物院","url":"https://www.dpm.org.cn/Uploads/File/2018/06/01/u5b10aca349099.pdf","checkedAt":"2026-09-24","retrieval":"search-text","kind":"museum-research","supports":"研究者对卷后题跋、北宋宫廷绘画语境和长卷构图的分析；其中有关画家成长地、创作委托及政治语境属于研究推论，不作确定史实"},
-    {"id":"pf","title":"陆机草隶书平复帖卷","institution":"故宫博物院","url":"https://www.dpm.org.cn/collection/handwriting/234553.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum","supports":"新00044430、西晋陆机、9行86字、启功释文、草隶麻纸、张氏夫妇1956年捐献；馆方定义尾纸兼有增大卷轴轴心、保护画心和容纳题跋的作用"},
-    {"id":"pf-material-study","title":"书画鉴定中目鉴方法的内容构成","institution":"杨帆，《故宫学刊》2012年研究文章","url":"https://www.dpm.org.cn/Uploads/File/2020/02/13/u5e45253ca7e26.pdf","checkedAt":"2026-09-27","retrieval":"full-text","kind":"formal-research","supports":"论文第13页以《平复帖》墨色较灰暗为例，提出年代与当时制墨水平可能相关，同时强调材料、印章、装潢均是鉴定辅助证据；是研究解释，不是原帖的成分检测报告"},
-    {"id":"pf-authorship-context","title":"章草书《出师颂》辨析","institution":"故宫博物院学术研究","url":"https://www.dpm.org.cn/study_detail/98474.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum-research","supports":"文章以另一件《出师颂》讨论早期书法断代，并提及学界有人据《平复帖》内容质疑陆机作者归属；这是研究分歧的存在证据，不是《平复帖》已经改定作者的证明"},
-    {"id":"pf-donation","title":"纪念张伯驹先生诞辰115周年——张伯驹潘素书画展","institution":"故宫博物院","url":"https://www.dpm.org.cn/show/226190.html","checkedAt":"2026-09-25","retrieval":"search-text","kind":"museum-feature","supports":"张伯驹、潘素夫妇1956年将《平复帖》等八件书法无偿捐献国家；用于公共收藏史，不替代作品本体鉴定"},
-    {"id":"pf-1956-accession","title":"故宫院史编年：1956年的文物入藏","institution":"故宫博物院","url":"https://www.dpm.org.cn/classify_detail/157812.html","checkedAt":"2026-09-26","retrieval":"full-text","kind":"museum-archive","supports":"故宫当年接收文物局拨交的《平复帖》等珍贵书画14件，其中包括张伯驹捐献的8件；区分捐献国家与故宫接收的行政过程"},
-    {"id":"pf-conservation-study","title":"《平复帖》1947年修复记录的研究引用","institution":"《西泠艺丛》论文（引述故宫博物院文保档案WB-00178）","url":"https://www.xlys.org.cn/wenku/www/202507/15092740iuze.pdf","checkedAt":"2026-09-25","retrieval":"search-text","kind":"formal-research","supports":"论文据故宫文保档案WB-00178记述1947年《平复帖》采用仿宋宣和式单裱、浙江棉纸单层托裱；此为论文转引档案，当前没有直接公开该档案全文"},
-    {"id":"camel-discovery","title":"第三批禁止出境展览文物目录（唐三彩骆驼载乐俑）","institution":"国家文物局名录（北京市文物局转载）","url":"https://wwj.beijing.gov.cn/bjww/362760/362767/556574/556644/bwgjcjzl/557087/index.html","checkedAt":"2026-09-28","retrieval":"full-text","kind":"government-list","supports":"名录第21项明确陕西历史博物馆藏唐三彩骆驼载乐俑出自1959年西安中堡村唐墓；第17项另列中国国家博物馆藏1957年鲜于庭诲墓同题材件（名录该处写作鲜于庭海），不能混为一件"},
-    {"id":"camel-1960-excavation-transcript","title":"西安西郊中堡村唐墓清理简报（《考古》1960年第3期网络转录）","institution":"陕西省文物管理委员会原报告；考古快递网络转录","url":"https://www.sohu.com/a/504628037_121188364","checkedAt":"2026-09-29","retrieval":"full-text","kind":"excavation-report-transcript","supports":"仅网络转录全文可读：1959年6月下旬发现、墓顶受损、墓道未发掘、淤泥使部分器物移位；载乐俑七乐手围坐与中央歌舞俑，另有同墓载物骆驼。非原刊扫描，OCR疑字、图版及单件精确原位待核"},
-    {"id":"camel-guobo","title":"《思接千载》新书试读：三彩釉陶骆驼载乐俑","institution":"中国国家博物馆","url":"https://www.chnmuseum.cn/zx/gbxw/202505/t20250527_271783.shtml","checkedAt":"2026-09-28","retrieval":"full-text","kind":"museum-feature","supports":"国博明确其同题材藏品发现于1957年鲜于庭诲墓；文章含叙事化作坊场景，不得移作陕西馆藏件的制作实录"},
-    {"id":"camel-wan-study","title":"流动的色彩——陕西历史博物馆馆藏唐三彩赏析","institution":"万晓（陕西历史博物馆副研究员），《文物天地》2015年第2期（全文转载）","url":"https://www.trueart.com/news/536186.html","checkedAt":"2026-09-27","retrieval":"full-text","kind":"formal-research","supports":"明确中堡村1959年有载乐与载物两件三彩骆驼；载乐件白驼身、褐红局部、椭圆毡垫、菱形织毯与八名人物；同类釉陶工艺概论不是本件检测工单"},
-    {"id":"su","title":"省博物院藏古代书画精品展预告","institution":"吉林省文化和旅游厅（省博物院展览资料）","url":"https://whhlyt.jl.gov.cn/ggfw/hdyg/201908/t20190814_6031978.html","checkedAt":"2026-09-15","retrieval":"search-text","kind":"government-museum","supports":"吉林馆藏、1094年赴惠州途中遇雨书写二赋、684字；不证明旧文1950年代入藏"},
-    {"id":"drum-context","title":"击鼓说唱俑·国博精品文物传播","institution":"中国国家博物馆","url":"https://www.chnmuseum.cn/portals/0/web/zt/202112jgscy/","checkedAt":"2026-09-23","retrieval":"search-text","kind":"museum-feature","supports":"汉代俳优表演与画像石、陶楼材料；国博专题引《史记》《盐铁论》并讨论四川地区同类俑"},
-    {"id":"drum-modern","title":"击鼓说唱俑“活”了：原创文物活化舞台剧","institution":"中国国家博物馆","url":"https://www.chnmuseum.cn/zx/gbxw/202305/t20230528_258568.shtml","checkedAt":"2026-09-23","retrieval":"search-text","kind":"contemporary-interpretation","supports":"2023年国博与中国传媒大学合作创作《盛世欢歌》；当代舞台阐释与馆藏形象的区别"},
-    {"id":"bell-research","title":"物华天宝 千古绝响——湖北出土音乐文物研究综述","institution":"湖北省博物馆","url":"https://www.hbww.org.cn/hhfz70n/p/9134.html","checkedAt":"2026-09-23","retrieval":"search-text","kind":"museum-research","supports":"曾侯乙墓音乐遗存的多学科研究史、出土乐器与铭文、钟文化属性讨论及研究分歧"},
-    {"id":"bell-digital","title":"曾侯乙编钟声学样本库构建与数智活化研究项目论证","institution":"湖北省博物馆","url":"https://www.hbww.org.cn/xwdt/p/11413.html","checkedAt":"2026-09-23","retrieval":"search-text","kind":"museum-research-news","supports":"2026年项目论证及2026—2028研究计划；高精度采样、数字音频研究与后续规划，不代表项目成果已完成"},
-    {"id":"bell-memory-register","title":"曾侯乙编钟世界记忆国际名录申报材料","institution":"湖北省博物馆（国家档案局公开申报材料）","url":"https://www.saac.gov.cn/mowcn/cn/c100512/202506/382e5c53ec654d16aeb7eedeaaf7389f/files/7561dbe91fe343c2947eaf533bb6696e.pdf","checkedAt":"2026-09-27","retrieval":"search-text","kind":"museum-archive","supports":"申报材料记曾侯乙编钟馆藏登记号5.188，并称全套65件乐器及钟架、附件已经3D扫描；仅支持数字记录的存在，不等于扫描档案开放许可或原钟已修复"},
-    {"id":"bell-1986-recording","title":"曾侯乙编钟世界记忆国际名录申报材料中的原钟录音记录","institution":"湖北省博物馆（国家档案局公开申报材料）","url":"https://www.saac.gov.cn/mowcn/cn/c100512/202506/382e5c53ec654d16aeb7eedeaaf7389f/files/7561dbe91fe343c2947eaf533bb6696e.pdf","checkedAt":"2026-09-29","retrieval":"search-text","kind":"museum-archive","supports":"申报材料的可检索文字列1986年3月以原钟录制《千古绝响——曾侯乙编钟之声》；仅指特定历史录音项目，不能将今天复制钟演奏当原件录音，文件版权和可听版本未核"},
-    {"id":"bell-archive-exhibit","title":"中国记忆——曾侯乙编钟出土45周年文献展","institution":"湖北省博物馆","url":"https://m-www.hbww.org.cn/p/9487.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum-feature","supports":"155件套档案文献回顾发掘测音复制；1978年7月1日随县汇报展、8月1日首场音乐会、10月1日湖北馆正式对外展、1979年9月20日原钟首次赴京；现代展陈传播和复制不能代替原始发掘报告或逐件修复日志"},
-    {"id":"bell-1978-field-documents","title":"曾侯乙编钟出土45周年文献展：早期来函和测量记录","institution":"湖北省博物馆转发湖北日报展览报道","url":"https://hbww.org.cn/mtgz/p/9454.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum-feature","supports":"展出的1978年3月6日王少泉致谭维四发现墓葬来函，以及1978年5月冯光生编钟现场测量记录；图片说明证明档案存在，不等于已核读来函和测量记录全文"},
-    {"id":"bell-replica-research","title":"湖北省博物馆文物保护七十年记：曾侯乙编钟复制研究","institution":"湖北省博物馆（摘自《文物天地》纪念专辑）","url":"https://www.hbww.org.cn/hhfz70n/p/9140.html","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum-research","supports":"1979年湖北省博物馆牵头成立编钟复制研究组，联合多单位检测原钟冶铸、合金、金相、几何结构、发声机制与频率，1982年复制成功；90年代中后期曾侯乙墓墓坑治水保护；不是原件修复记录，也非原钟逐件修复工单"},
-    {"id":"bell-orchestra","title":"湖北省博物馆编钟乐团简介","institution":"湖北省博物馆","url":"https://www.hbww.org.cn/bzyt/p/9068.html","checkedAt":"2026-09-26","retrieval":"search-text","kind":"museum-feature","supports":"编钟乐团以曾侯乙编钟复制件演奏为核心；支持区分当代舞台声音与原钟保存，不证明战国乐曲原貌"},
-    {"id":"bell-orchestra-timeline","title":"编钟乐团大事记","institution":"湖北省博物馆","url":"https://m-www.hbww.org.cn/bzyt/p/9067.html","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum-archive","supports":"馆方大事记把复制成功记为1983年1月、1984年9月专家测试验收，并记1987年演奏组成立；是复制与传播阶段，不是六十五件原钟修复日志"},
-    {"id":"jade-system","title":"金缕玉柙馆藏说明","institution":"中国国家博物馆","url":"https://www.chnmuseum.cn/zp/zpml/kgfjp/202010/t20201013_247855.shtml","checkedAt":"2026-09-23","retrieval":"search-text","kind":"museum","supports":"另一件金缕玉柙的构成与汉代玉衣制度演变；作为类型比较，不与刘胜玉衣的片数等数据混同"},
-    {"id":"shiji-huaji","title":"《史记·滑稽列传》","institution":"中国哲学书电子化计划（文本底本信息见页面）","url":"https://ctext.org/shiji/hua-ji-lie-zhuan/zhs","checkedAt":"2026-09-23","retrieval":"search-text","kind":"primary-source","supports":"春秋战国以来淳于髡、优孟等以谈笑讽谏的传记叙事；不能直接证明四川说唱俑的身份或表演台词"},
-    {"id":"yantielun-sb","title":"《盐铁论·散不足》","institution":"中国哲学书电子化计划（页面列出四库全书等底本）","url":"https://ctext.org/yan-tie-lun/san-bu-zu/zhs","checkedAt":"2026-09-23","retrieval":"search-text","kind":"primary-source","supports":"汉代关于社会消费、礼俗与娱乐的论辩文本；用于理解时代议题，不是特定陶俑的现场记录"},
-    {"id":"dongjing-menghua","title":"《钦定四库全书》本《东京梦华录》","institution":"中国哲学书电子化计划（页面标注宋孟元老撰及四库本）","url":"https://ctext.org/library.pl?if=gb&res=104274","checkedAt":"2026-09-23","retrieval":"search-text","kind":"primary-source","supports":"关于北宋宣和年间东京城市生活的追忆性文本；可与画卷所见城市细节对读，不证明画中某一场景的具体身份"},
-    {"id":"mancheng-report","title":"《满城汉墓发掘报告》（上、下册）书目与内容提要","institution":"河北省文物考古研究院","url":"https://www.hbswwkg.com/2021-05/26/content_8502420.html","checkedAt":"2026-09-23","retrieval":"search-text","kind":"excavation-report","supports":"报告由中国社会科学院考古研究所、河北省文物管理处编，记录刘胜墓与窦绾墓发掘情况、墓葬形制和出土器物；本链接是报告书目介绍，并非报告全文"},
-    {"id":"mancheng-excavation","title":"满城汉墓考古发掘与发现经过","institution":"河北省文物考古研究院","url":"https://www.hbswwkg.com/2021-05/11/content_8500807.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"government-archaeology","supports":"1968年中国科学院考古研究所与河北省文物管理部门发掘满城两座墓葬，窦绾墓位于刘胜墓北约120米且出土长信宫灯；仅提供墓葬发掘背景，不详述长信宫灯单件提取或修复"},
-    {"id":"longxin-display-history","title":"长信宫灯2026年中国美术馆限时借展与回馆记录","institution":"河北省文物局","url":"https://wenwu.hebei.gov.cn/system/2026/04/24/030381741.shtml","checkedAt":"2026-09-28","retrieval":"search-text","kind":"government-museum","supports":"河北省文物局记长信宫灯2026年4月在北京限时展出，并称4月29日回河北博物院满城汉墓展厅；是原件当代展陈与回馆信息，不等于完整保护修复档案"},
-    {"id":"camel-2025-care","title":"三秦华章展撤陈、养护与布展记录","institution":"陕西历史博物馆","url":"https://www.sxhm.com/info/news/detail/18496.html","checkedAt":"2026-09-26","retrieval":"search-text","kind":"museum-feature","supports":"2025年馆方设备改造期间由藏品保管、保护修复等部门共同完成撤陈、养护和布展，三彩载乐骆驼俑进入新展；未公开该件单独的修复材料和操作日志"},
-    {"id":"camel-education-2024","title":"博物馆里寻丝路：陕历博暑期‘丝路寻宝记’公益教育活动","institution":"陕西历史博物馆社会教育部","url":"https://www.sxhm.com/info/news/detail/16258.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum-education","supports":"2024年7月31日至8月2日，馆方在展厅引导青少年观察三彩载乐骆驼俑，并安排课程回顾和手工互动；这是当代教育实践，不是唐代乐舞或本件修复工单"},
-    {"id":"longxin-digital-2026","title":"长信宫灯‘出差’北京：河北博物院复制件与数字互动","institution":"河北省文物局（据河北博物院展示报道）","url":"https://wenwu.hebei.gov.cn/system/2026/04/24/030381741.shtml","checkedAt":"2026-09-29","retrieval":"search-text","kind":"government-museum","supports":"2026年4月原件赴京期间，河北馆内陈列复制件，并用数字互动展示虚拟发掘、点亮和器物旋转；虚拟体验是现代传播，不等于1968年逐件发掘记录或原件修复"},
-    {"id":"mancheng-douwan-seal","title":"窦绾铜印（汉世雄风展）","institution":"中国国家博物馆（藏品藏于河北博物院）","url":"https://www.chnmuseum.cn/Portals/0/web/exhibition/exhibitions/201812han/34.html","checkedAt":"2026-09-25","retrieval":"search-text","kind":"museum-feature","supports":"墓中两方铜印分别见窦绾姓名与窦君须字样；史书没有中山靖王妻子的记载；窦氏与窦太后家族关系属于发掘者分析和可能性推断"},
-    {"id":"zeng-report","title":"《曾侯乙墓》上册书目记录","institution":"日本国立国会图书馆（馆藏书目）","url":"https://ndlsearch.ndl.go.jp/books/R100000002-Ia0000019599","checkedAt":"2026-09-23","retrieval":"search-text","kind":"excavation-report","supports":"确认湖北省博物馆编、文物出版社1989年出版、687页及战国墓发掘报告书目属性；此书目页不是报告全文"},
-    {"id":"pf-identity-debate","title":"《平复帖》种种：彦先身份与作者讨论","institution":"故宫博物院《紫禁城》刊载研究札记","url":"https://www.dpm.org.cn/Uploads/File/pdf/af/34/82/af3482625bcdb7bed533d403b7ffe766.pdf","checkedAt":"2026-09-26","retrieval":"search-text","kind":"museum-research","supports":"介绍顾荣、贺循、全彦先等释读分歧及据彦先反推作者的争论；是研究意见，不推翻馆藏登记中的陆机归属"},
-    {"id":"pf-rest-display","title":"张伯驹捐献书画精品展与平复帖休眠期","institution":"故宫博物院","url":"https://www.dpm.org.cn/show/246487.html","checkedAt":"2026-09-26","retrieval":"search-text","kind":"museum-feature","supports":"2018年展览因保护休眠期以复制品替代《平复帖》原作；展讯记84字，与馆藏页86字口径不同，不能把复制展示或字数差异写作原件已更改"},
-    {"id":"pf-2022-catalogue","title":"晋陆机《平复帖》卷专题图录说明","institution":"故宫博物院《紫禁城》2022年第11期","url":"https://www.dpm.org.cn/Uploads/File/2022/12/05/u638dad1534ab5.pdf","checkedAt":"2026-09-27","retrieval":"search-text","kind":"museum-research","supports":"专题说明卷前宋徽宗瘦金书题签及保存宣和装形式；是传世与装潢研究线索，不等于西晋原始装裱或本件逐次修复档案"},
-    {"id":"pf-photo-reproduction","title":"故宫博物院照相复制古书画技术发展始末","institution":"故宫博物院《紫禁城》","url":"https://www.dpm.org.cn/Uploads/File/2023/01/03/u63b3a1cd318e5.pdf","checkedAt":"2026-09-27","retrieval":"search-text","kind":"museum-research","supports":"可检索正文将《平复帖》列为1960年11月至1963年12月间故宫以照相复制法完成的作品之一；只证明复制项目，不给出本帖单独完成日期或原件修裱记录"},
-    {"id":"pf-shoukang-lecture","title":"万岁千秋奉寿康——崇庆皇太后与寿康宫（故宫讲坛）","institution":"故宫博物院宫廷部研究馆员林姝","url":"https://www.dpm.org.cn/gugongforum/detail/236357.html","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum-research","supports":"故宫讲坛提纲称《平复帖》为崇庆皇太后遗念，后赏赐皇孙永瑆；是馆方研究解说，非赏赐原档全文"},
-    {"id":"pf-donation-exhibit-replica","title":"故宫捐献专题展展品列表","institution":"故宫博物院展览资料","url":"https://ggzl.dpm.org.cn/app/api/app/exhibitionListPc/690","checkedAt":"2026-09-27","retrieval":"full-text","kind":"museum-feature","supports":"展品清单明确标作陆机草隶书平复帖卷（复制品）；与2018年休眠期复制展示同属当代传播，不能称原件出展"},
-    {"id":"huaguang-excavation","title":"海南西沙群岛华光礁Ⅰ号南宋沉船遗址发掘记录","institution":"海南省博物馆","url":"https://www.hainanmuseum.org/hnbwgcms/info/616","checkedAt":"2026-09-23","retrieval":"search-text","kind":"excavation-report","supports":"馆方记录1998年试掘及2007—2008年正式发掘、船体测绘拆解和保护过程；出土与窑口判断以页面原文为准，属馆方研究动态而非完整发掘报告"}
+    {
+      "id": "cx",
+      "title": "何以中国 · 长信宫灯展品说明",
+      "institution": "故宫博物院（展品藏于河北博物院）",
+      "url": "https://ggzl.dpm.org.cn/pages/exhibit_works/details?id=10933",
+      "checkedAt": "2026-09-15",
+      "retrieval": "search-text",
+      "kind": "museum",
+      "supports": "窦绾墓、六部分结构、袖管、可移动灯罩、9处65字铭文"
+    },
+    {
+      "id": "cx-guest",
+      "title": "长信宫灯国宝特展说明",
+      "institution": "河南博物院（展品藏于河北博物院）",
+      "url": "https://www.chnmus.net/sitesources/hnsbwy/page_pc/bwzl/zxgd/",
+      "checkedAt": "2026-09-26",
+      "retrieval": "search-text",
+      "kind": "museum-feature",
+      "supports": "1968年窦绾墓出土、高48厘米、六部分分铸可拆、两片弧形灯罩及9处65字；是借展解说，不含单件保护修复档案"
+    },
+    {
+      "id": "cx-lamp-research-2024",
+      "title": "从灯具看中国古代物质文化中的工与巧——以汉魏南北朝时期灯具为中心",
+      "institution": "《故宫博物院院刊》2024年第6期",
+      "url": "https://img.dpm.org.cn/Uploads/File/2024/06/14/u666baab6e3dcc.pdf",
+      "checkedAt": "2026-09-29",
+      "retrieval": "search-text",
+      "kind": "formal-research",
+      "supports": "论文将长信宫灯列作汉代釭灯例证，讨论同类灯具导烟、脂膏燃料与灯腹贮水的一般结构；不能据此证明长信宫灯本体留存水迹、具体燃料或净化效率"
+    },
+    {
+      "id": "cx-replica-2023",
+      "title": "照长夜 乐未央——中华第一灯展览预告",
+      "institution": "常德市丁玲纪念馆（常德市文化旅游广电体育局发布）",
+      "url": "https://cdswlgtj.changde.gov.cn/zhdt/zxdt/content_988648",
+      "checkedAt": "2026-09-27",
+      "retrieval": "full-text",
+      "kind": "government-museum",
+      "supports": "2023年常德展览使用上世纪七八十年代制作的一比一长信宫灯复制件，原件藏河北博物院；说明当代传播与原件有别，不提供原灯修复工单"
+    },
+    {
+      "id": "fh",
+      "title": "自治区博物馆羽纹铜凤灯重聚亮相",
+      "institution": "广西云·广西日报（记者采访及馆方提供资料）",
+      "url": "https://v.gxnews.com.cn/a/21784134",
+      "checkedAt": "2026-09-15",
+      "retrieval": "search-text",
+      "kind": "reported-interview",
+      "supports": "1971年合浦望牛岭1号墓出土一对、凤鸟造型、足尾支撑、錾刻羽纹"
+    },
+    {
+      "id": "fh2",
+      "title": "博物馆里不为人知的古代智慧",
+      "institution": "南国早报（含广西文化和旅游厅提供结构图）",
+      "url": "https://www.ngzb.com.cn/news/2024/05/15/bowu-guanli-buweirenzhi-gudai-zhihui.html",
+      "checkedAt": "2026-09-15",
+      "retrieval": "search-text",
+      "kind": "reported-interview",
+      "supports": "铜凤灯背部灯盘、两段套接颈管、中空腹腔与灯罩结构"
+    },
+    {
+      "id": "fh-discovery",
+      "title": "合浦“双灯合璧”展：文物的明星 文化的使者",
+      "institution": "广西云·广西日报（自治区博物馆考古、修复与展陈资料采访）",
+      "url": "https://gxxwfb.gxnews.com.cn/article.v2019.php?id=21796764",
+      "checkedAt": "2026-09-25",
+      "retrieval": "search-text",
+      "kind": "reported-interview",
+      "supports": "1970年施工发现木炭层并上报、1971年获批发掘、两个月发掘中发现成对铜灯、出土时带泥锈蚀后送馆修复，以及后续展览与当代视觉传播；报道不是原始发掘或修复报告"
+    },
+    {
+      "id": "cup",
+      "title": "金瓯永固杯馆藏说明",
+      "institution": "故宫博物院",
+      "url": "https://www.dpm.org.cn/collection/tinware/234538.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum",
+      "supports": "故00011674、高12.5厘米口径8厘米、金质、双龙耳与象首足、宝相花珠宝、两侧款识；本页无单件造办处档号或逐次修复记录"
+    },
+    {
+      "id": "cup2",
+      "title": "故宫青少版 · 金瓯永固杯",
+      "institution": "故宫博物院",
+      "url": "https://young.dpm.org.cn/info/242",
+      "checkedAt": "2026-09-15",
+      "retrieval": "search-text",
+      "kind": "museum",
+      "supports": "清宫元旦开笔仪式、养心殿、烛台、屠苏酒、吉语；元旦指农历正月初一"
+    },
+    {
+      "id": "cup-ritual-study",
+      "title": "清宫年节陈设中的如意与工艺盆景",
+      "institution": "故宫博物院器物部研究文章",
+      "url": "https://www.dpm.org.cn/Uploads/File/2019/11/30/u5de21d36501c2.pdf",
+      "checkedAt": "2026-09-24",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "结合清宫陈设档讨论金瓯杯与元旦试笔仪式；指出其并非专为每年仪式盛屠苏酒，仪式后也曾继续作为陈设器摆放"
+    },
+    {
+      "id": "cup-workshop-archive",
+      "title": "《金瓯永固》杯：清宫造办处档案与制作记录",
+      "institution": "故宫博物院器物研究",
+      "url": "https://www.dpm.org.cn/Uploads/pdf/1602/T00080_00.pdf",
+      "checkedAt": "2026-09-25",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "研究文章依据清宫造办处活计档讨论金瓯永固杯的样式呈览、奉旨制作与后续照样制作；档案涉及多件同名器物，不将某一工序或工匠未经辨析地归到故00011674号藏品"
+    },
+    {
+      "id": "cup-ritual-record",
+      "title": "金瓯永固杯与嘉庆御题《元旦试笔》夹注",
+      "institution": "故宫博物院专题（引嘉庆十二年御题诗）",
+      "url": "https://www.dpm.org.cn/topic/zhongguo_commonhome.html",
+      "checkedAt": "2026-09-26",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "专题引嘉庆十二年《元旦试笔》夹注，记养心殿元旦子刻设金瓯盛屠苏、点玉烛、先朱毫后墨书吉语；该记载支持仪式，不逐次鉴定故00011674杯的使用"
+    },
+    {
+      "id": "cup-exhibitions",
+      "title": "乾隆款金嵌珠石金瓯永固杯数字馆藏与展览史",
+      "institution": "故宫博物院数字文物库",
+      "url": "https://digicol.dpm.org.cn/cultural/detail?id=d3c6021697c94071a79f405c9e79aa82&page=1&source=0",
+      "checkedAt": "2026-09-27",
+      "retrieval": "full-text",
+      "kind": "museum",
+      "supports": "故00011674号的2022—2023年景仁宫、2022—2023年澳门艺术博物馆、2025—2026年午门展览记录；展览记录不等于逐件修复档案"
+    },
+    {
+      "id": "cup-case",
+      "title": "宫廷传统囊匣制作技艺",
+      "institution": "故宫博物院",
+      "url": "https://www.dpm.org.cn/topic/party_building/good/detail/255710.html",
+      "checkedAt": "2026-09-27",
+      "retrieval": "search-text",
+      "kind": "museum-feature",
+      "supports": "馆方称囊匣技师王金生曾为金瓯永固杯等文物配置囊匣；页面未给此同名杯登记号、材料、制作日期或修复记录，不可直接认定故00011674号的单件工单"
+    },
+    {
+      "id": "cup-taipei-comparison",
+      "title": "金甌永固杯馆藏记录（台北藏旧杯）",
+      "institution": "国立故宫博物院（台北）",
+      "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/67131?dep=U",
+      "checkedAt": "2026-09-27",
+      "retrieval": "full-text",
+      "kind": "museum",
+      "supports": "台北藏故雜005490N000000000高约14厘米、馆方称1739年制及1797年下令重制，并说新杯在北京；是另一件同名杯，不等于北京故00011674号的逐件制造档案或影像授权"
+    },
+    {
+      "id": "cup-sui-paintings",
+      "title": "乾隆朝养心殿明窗贴落画探析——以岁朝图、万国来朝图为中心",
+      "institution": "李湜，《故宫博物院院刊》2023年第1期",
+      "url": "https://www.dpm.org.cn/Uploads/File/2023/01/16/u63c4c9751178e.pdf",
+      "checkedAt": "2026-09-28",
+      "retrieval": "search-text",
+      "kind": "formal-research",
+      "supports": "故宫刊物原论文辨析乾隆朝岁朝图中的金瓯杯与玉烛台，并指出同名杯存世不止一件；画面支持仪式图像研究，不证明画中杯等同故00011674号，也不是当年仪式照片"
+    },
+    {
+      "id": "bell",
+      "title": "曾侯乙编钟",
+      "institution": "湖北省博物馆",
+      "url": "https://www.hbww.org.cn/zgzb/p/4695.html",
+      "checkedAt": "2026-09-26",
+      "retrieval": "full-text",
+      "kind": "museum",
+      "supports": "1978年随州、65件三层八组、钟架长7.48米高2.65米、双音、五个半八度、3755字"
+    },
+    {
+      "id": "bell-excavation-timeline",
+      "title": "湖北省文物考古研究院大事记：1978",
+      "institution": "湖北省文物考古研究院",
+      "url": "https://hbww.org.cn/yjy_dsj/p/9676.html",
+      "checkedAt": "2026-09-26",
+      "retrieval": "full-text",
+      "kind": "government-archaeology",
+      "supports": "1978年5月上旬至9月湖北省博物馆发掘随县擂鼓墩曾侯乙墓；这是墓葬发掘时段，不是编钟逐件起取日志"
+    },
+    {
+      "id": "bell-chambers",
+      "title": "国君之礼 旷世之美——曾侯乙墓出土漆器述略",
+      "institution": "湖北省博物馆研究文章",
+      "url": "https://www.hbww.org.cn/hhfz70n/p/9135.html",
+      "checkedAt": "2026-09-27",
+      "retrieval": "full-text",
+      "kind": "museum-research",
+      "supports": "墓葬中室有编钟编磬与鼓、瑟、笙等，东室另有鼓琴瑟笙；作者对中室重大礼仪用乐、东室寝宫用乐作研究解释，非一次演奏现场记录"
+    },
+    {
+      "id": "drum",
+      "title": "击鼓说唱俑",
+      "institution": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247253.shtml",
+      "checkedAt": "2026-09-15",
+      "retrieval": "search-text",
+      "kind": "museum",
+      "supports": "抱鼓举槌、夸张表情动作、俳优表演、汉代社会背景"
+    },
+    {
+      "id": "drum-discovery",
+      "title": "如果国宝会说话·国博馆藏文物目录",
+      "institution": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/Portals/0/web/zt/20180101rggbhsh/index_mobile.html",
+      "checkedAt": "2026-09-25",
+      "retrieval": "search-text",
+      "kind": "museum-feature",
+      "supports": "击鼓说唱陶俑为明器，1957年四川成都天回山出土，高56厘米；目录信息不提供具体墓号及完整发掘经过"
+    },
+    {
+      "id": "camel",
+      "title": "唐三彩载乐骆驼俑",
+      "institution": "陕西历史博物馆",
+      "url": "https://www.sxhm.com/collections/detail/509.html",
+      "checkedAt": "2026-09-26",
+      "retrieval": "full-text",
+      "kind": "museum",
+      "supports": "一驼八人、七男乐手汉服胡乐器、一女歌者、艺术化驼背舞台；馆方以巡回乐团作解释，不能当作实际行程证据"
+    },
+    {
+      "id": "sancai-process",
+      "title": "三彩方柜馆藏说明",
+      "institution": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252219.shtml",
+      "checkedAt": "2026-09-25",
+      "retrieval": "search-text",
+      "kind": "museum",
+      "supports": "以另一件唐三彩说明铅釉陶、先素烧后施彩釉再烧及多种金属氧化物呈色；仅支持同类工艺背景，不是载乐骆驼俑检测报告"
+    },
+    {
+      "id": "qm",
+      "title": "张择端清明上河图卷",
+      "institution": "故宫博物院",
+      "url": "https://www.dpm.org.cn/collection/paint/228226.html",
+      "checkedAt": "2026-09-25",
+      "retrieval": "search-text",
+      "kind": "museum",
+      "supports": "北宋张择端、绢本淡设色、横528厘米、汴京汴河、市郊虹桥城内三段；兼工带写、界画建筑舟船、鸟瞰全景与手卷分段平视的观看方式"
+    },
+    {
+      "id": "qm2",
+      "title": "张择端《清明上河图卷》鉴藏印辨析",
+      "institution": "故宫博物院",
+      "url": "https://www.dpm.org.cn/study_detail/100178.html",
+      "checkedAt": "2026-09-15",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "题跋鉴藏印作为递藏与鉴定的辅助证据，部分印记尚不可辨"
+    },
+    {
+      "id": "qm-restoration",
+      "title": "《清明上河图》装裱记",
+      "institution": "故宫博物院研究馆员文章",
+      "url": "https://www.dpm.org.cn/study_detail/100190.html",
+      "checkedAt": "2026-09-25",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "1953年重回故宫时的破损记录及1973年重新修裱；补绢与接笔均先留影、制小样并经研究，文章列出约47处换补与38处接笔"
+    },
+    {
+      "id": "qm-copies",
+      "title": "《清明上河图》的传承",
+      "institution": "故宫博物院学术研究",
+      "url": "https://www.dpm.org.cn/study_detail/100193.html",
+      "checkedAt": "2026-09-25",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "明清以来摹本与20世纪复制传播；后世版本与原作既有共同母题也有桥材、船只和航线等差异，不能把摹本当作原作细节"
+    },
+    {
+      "id": "qm-research",
+      "title": "关于《清明上河图》研究中的几个问题的浅见",
+      "institution": "故宫博物院学术研究",
+      "url": "https://www.dpm.org.cn/study_detail/100185.html",
+      "checkedAt": "2026-09-25",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "对张择端生平及“失位家居”等后出说法的证据提出审慎意见；研究争论不改变画卷本体可核信息"
+    },
+    {
+      "id": "qm-debates",
+      "title": "风俗画的定义与《清明上河图》的启示",
+      "institution": "故宫博物院学术研究",
+      "url": "https://www.dpm.org.cn/study_detail/100187.html",
+      "checkedAt": "2026-09-25",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "归纳作品真伪、汴京或非汴京、清明题意、成画年代、画中季节与具体城市位置等仍有争论的问题；研究议题不等于已有定论"
+    },
+    {
+      "id": "ql",
+      "title": "王希孟千里江山图卷",
+      "institution": "故宫博物院",
+      "url": "https://www.dpm.org.cn/collection/paint/228354.html",
+      "checkedAt": "2026-09-15",
+      "retrieval": "search-text",
+      "kind": "museum",
+      "supports": "北宋、1191.5厘米、石青石绿、多点视角、六部分以桥水衔接、蔡京跋与生平不确定性"
+    },
+    {
+      "id": "ql2",
+      "title": "千里江山——历代青绿山水画特展",
+      "institution": "故宫博物院",
+      "url": "https://www.dpm.org.cn/subject_rivsmounts/qljs/245996.html",
+      "checkedAt": "2026-09-15",
+      "retrieval": "search-text",
+      "kind": "museum",
+      "supports": "约11.9米、山水与村落人物、实景和想象融合"
+    },
+    {
+      "id": "ql-author-research",
+      "title": "王希孟（故宫名画记）",
+      "institution": "故宫博物院",
+      "url": "https://minghuaji.dpm.org.cn/author/detail?id=8",
+      "checkedAt": "2026-09-24",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "史籍未见王希孟生平记载；蔡京题跋提供其年龄、画学经历等线索，具体生平仍须区分题跋所载与后人推论"
+    },
+    {
+      "id": "ql-scholar-study",
+      "title": "细究王希孟及其《千里江山图》",
+      "institution": "故宫博物院",
+      "url": "https://www.dpm.org.cn/Uploads/File/2018/06/01/u5b10aca349099.pdf",
+      "checkedAt": "2026-09-24",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "研究者对卷后题跋、北宋宫廷绘画语境和长卷构图的分析；其中有关画家成长地、创作委托及政治语境属于研究推论，不作确定史实"
+    },
+    {
+      "id": "pf",
+      "title": "陆机草隶书平复帖卷",
+      "institution": "故宫博物院",
+      "url": "https://www.dpm.org.cn/collection/handwriting/234553.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum",
+      "supports": "新00044430、西晋陆机、9行86字、启功释文、草隶麻纸、张氏夫妇1956年捐献；馆方定义尾纸兼有增大卷轴轴心、保护画心和容纳题跋的作用"
+    },
+    {
+      "id": "pf-material-study",
+      "title": "书画鉴定中目鉴方法的内容构成",
+      "institution": "杨帆，《故宫学刊》2012年研究文章",
+      "url": "https://www.dpm.org.cn/Uploads/File/2020/02/13/u5e45253ca7e26.pdf",
+      "checkedAt": "2026-09-27",
+      "retrieval": "full-text",
+      "kind": "formal-research",
+      "supports": "论文第13页以《平复帖》墨色较灰暗为例，提出年代与当时制墨水平可能相关，同时强调材料、印章、装潢均是鉴定辅助证据；是研究解释，不是原帖的成分检测报告"
+    },
+    {
+      "id": "pf-authorship-context",
+      "title": "章草书《出师颂》辨析",
+      "institution": "故宫博物院学术研究",
+      "url": "https://www.dpm.org.cn/study_detail/98474.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum-research",
+      "supports": "文章以另一件《出师颂》讨论早期书法断代，并提及学界有人据《平复帖》内容质疑陆机作者归属；这是研究分歧的存在证据，不是《平复帖》已经改定作者的证明"
+    },
+    {
+      "id": "pf-donation",
+      "title": "纪念张伯驹先生诞辰115周年——张伯驹潘素书画展",
+      "institution": "故宫博物院",
+      "url": "https://www.dpm.org.cn/show/226190.html",
+      "checkedAt": "2026-09-25",
+      "retrieval": "search-text",
+      "kind": "museum-feature",
+      "supports": "张伯驹、潘素夫妇1956年将《平复帖》等八件书法无偿捐献国家；用于公共收藏史，不替代作品本体鉴定"
+    },
+    {
+      "id": "pf-1956-accession",
+      "title": "故宫院史编年：1956年的文物入藏",
+      "institution": "故宫博物院",
+      "url": "https://www.dpm.org.cn/classify_detail/157812.html",
+      "checkedAt": "2026-09-26",
+      "retrieval": "full-text",
+      "kind": "museum-archive",
+      "supports": "故宫当年接收文物局拨交的《平复帖》等珍贵书画14件，其中包括张伯驹捐献的8件；区分捐献国家与故宫接收的行政过程"
+    },
+    {
+      "id": "pf-conservation-study",
+      "title": "《平复帖》1947年修复记录的研究引用",
+      "institution": "《西泠艺丛》论文（引述故宫博物院文保档案WB-00178）",
+      "url": "https://www.xlys.org.cn/wenku/www/202507/15092740iuze.pdf",
+      "checkedAt": "2026-09-25",
+      "retrieval": "search-text",
+      "kind": "formal-research",
+      "supports": "论文据故宫文保档案WB-00178记述1947年《平复帖》采用仿宋宣和式单裱、浙江棉纸单层托裱；此为论文转引档案，当前没有直接公开该档案全文"
+    },
+    {
+      "id": "camel-discovery",
+      "title": "第三批禁止出境展览文物目录（唐三彩骆驼载乐俑）",
+      "institution": "国家文物局名录（北京市文物局转载）",
+      "url": "https://wwj.beijing.gov.cn/bjww/362760/362767/556574/556644/bwgjcjzl/557087/index.html",
+      "checkedAt": "2026-09-28",
+      "retrieval": "full-text",
+      "kind": "government-list",
+      "supports": "名录第21项明确陕西历史博物馆藏唐三彩骆驼载乐俑出自1959年西安中堡村唐墓；第17项另列中国国家博物馆藏1957年鲜于庭诲墓同题材件（名录该处写作鲜于庭海），不能混为一件"
+    },
+    {
+      "id": "camel-1960-excavation-transcript",
+      "title": "西安西郊中堡村唐墓清理简报（《考古》1960年第3期网络转录）",
+      "institution": "陕西省文物管理委员会原报告；考古快递网络转录",
+      "url": "https://www.sohu.com/a/504628037_121188364",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "excavation-report-transcript",
+      "supports": "仅网络转录全文可读：1959年6月下旬发现、墓顶受损、墓道未发掘、淤泥使部分器物移位；载乐俑七乐手围坐与中央歌舞俑，另有同墓载物骆驼。非原刊扫描，OCR疑字、图版及单件精确原位待核"
+    },
+    {
+      "id": "camel-guobo",
+      "title": "《思接千载》新书试读：三彩釉陶骆驼载乐俑",
+      "institution": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/zx/gbxw/202505/t20250527_271783.shtml",
+      "checkedAt": "2026-09-28",
+      "retrieval": "full-text",
+      "kind": "museum-feature",
+      "supports": "国博明确其同题材藏品发现于1957年鲜于庭诲墓；文章含叙事化作坊场景，不得移作陕西馆藏件的制作实录"
+    },
+    {
+      "id": "camel-wan-study",
+      "title": "流动的色彩——陕西历史博物馆馆藏唐三彩赏析",
+      "institution": "万晓（陕西历史博物馆副研究员），《文物天地》2015年第2期（全文转载）",
+      "url": "https://www.trueart.com/news/536186.html",
+      "checkedAt": "2026-09-27",
+      "retrieval": "full-text",
+      "kind": "formal-research",
+      "supports": "明确中堡村1959年有载乐与载物两件三彩骆驼；载乐件白驼身、褐红局部、椭圆毡垫、菱形织毯与八名人物；同类釉陶工艺概论不是本件检测工单"
+    },
+    {
+      "id": "su",
+      "title": "省博物院藏古代书画精品展预告",
+      "institution": "吉林省文化和旅游厅（省博物院展览资料）",
+      "url": "https://whhlyt.jl.gov.cn/ggfw/hdyg/201908/t20190814_6031978.html",
+      "checkedAt": "2026-09-15",
+      "retrieval": "search-text",
+      "kind": "government-museum",
+      "supports": "吉林馆藏、1094年赴惠州途中遇雨书写二赋、684字；不证明旧文1950年代入藏"
+    },
+    {
+      "id": "drum-context",
+      "title": "击鼓说唱俑·国博精品文物传播",
+      "institution": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/portals/0/web/zt/202112jgscy/",
+      "checkedAt": "2026-09-23",
+      "retrieval": "search-text",
+      "kind": "museum-feature",
+      "supports": "汉代俳优表演与画像石、陶楼材料；国博专题引《史记》《盐铁论》并讨论四川地区同类俑"
+    },
+    {
+      "id": "drum-modern",
+      "title": "击鼓说唱俑“活”了：原创文物活化舞台剧",
+      "institution": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/zx/gbxw/202305/t20230528_258568.shtml",
+      "checkedAt": "2026-09-23",
+      "retrieval": "search-text",
+      "kind": "contemporary-interpretation",
+      "supports": "2023年国博与中国传媒大学合作创作《盛世欢歌》；当代舞台阐释与馆藏形象的区别"
+    },
+    {
+      "id": "bell-research",
+      "title": "物华天宝 千古绝响——湖北出土音乐文物研究综述",
+      "institution": "湖北省博物馆",
+      "url": "https://www.hbww.org.cn/hhfz70n/p/9134.html",
+      "checkedAt": "2026-09-23",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "曾侯乙墓音乐遗存的多学科研究史、出土乐器与铭文、钟文化属性讨论及研究分歧"
+    },
+    {
+      "id": "bell-digital",
+      "title": "曾侯乙编钟声学样本库构建与数智活化研究项目论证",
+      "institution": "湖北省博物馆",
+      "url": "https://www.hbww.org.cn/xwdt/p/11413.html",
+      "checkedAt": "2026-09-23",
+      "retrieval": "search-text",
+      "kind": "museum-research-news",
+      "supports": "2026年项目论证及2026—2028研究计划；高精度采样、数字音频研究与后续规划，不代表项目成果已完成"
+    },
+    {
+      "id": "bell-memory-register",
+      "title": "曾侯乙编钟世界记忆国际名录申报材料",
+      "institution": "湖北省博物馆（国家档案局公开申报材料）",
+      "url": "https://www.saac.gov.cn/mowcn/cn/c100512/202506/382e5c53ec654d16aeb7eedeaaf7389f/files/7561dbe91fe343c2947eaf533bb6696e.pdf",
+      "checkedAt": "2026-09-27",
+      "retrieval": "search-text",
+      "kind": "museum-archive",
+      "supports": "申报材料记曾侯乙编钟馆藏登记号5.188，并称全套65件乐器及钟架、附件已经3D扫描；仅支持数字记录的存在，不等于扫描档案开放许可或原钟已修复"
+    },
+    {
+      "id": "bell-1986-recording",
+      "title": "曾侯乙编钟世界记忆国际名录申报材料中的原钟录音记录",
+      "institution": "湖北省博物馆（国家档案局公开申报材料）",
+      "url": "https://www.saac.gov.cn/mowcn/cn/c100512/202506/382e5c53ec654d16aeb7eedeaaf7389f/files/7561dbe91fe343c2947eaf533bb6696e.pdf",
+      "checkedAt": "2026-09-29",
+      "retrieval": "search-text",
+      "kind": "museum-archive",
+      "supports": "申报材料的可检索文字列1986年3月以原钟录制《千古绝响——曾侯乙编钟之声》；仅指特定历史录音项目，不能将今天复制钟演奏当原件录音，文件版权和可听版本未核"
+    },
+    {
+      "id": "bell-archive-exhibit",
+      "title": "中国记忆——曾侯乙编钟出土45周年文献展",
+      "institution": "湖北省博物馆",
+      "url": "https://m-www.hbww.org.cn/p/9487.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum-feature",
+      "supports": "155件套档案文献回顾发掘测音复制；1978年7月1日随县汇报展、8月1日首场音乐会、10月1日湖北馆正式对外展、1979年9月20日原钟首次赴京；现代展陈传播和复制不能代替原始发掘报告或逐件修复日志"
+    },
+    {
+      "id": "bell-1978-field-documents",
+      "title": "曾侯乙编钟出土45周年文献展：早期来函和测量记录",
+      "institution": "湖北省博物馆转发湖北日报展览报道",
+      "url": "https://hbww.org.cn/mtgz/p/9454.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum-feature",
+      "supports": "展出的1978年3月6日王少泉致谭维四发现墓葬来函，以及1978年5月冯光生编钟现场测量记录；图片说明证明档案存在，不等于已核读来函和测量记录全文"
+    },
+    {
+      "id": "bell-replica-research",
+      "title": "湖北省博物馆文物保护七十年记：曾侯乙编钟复制研究",
+      "institution": "湖北省博物馆（摘自《文物天地》纪念专辑）",
+      "url": "https://www.hbww.org.cn/hhfz70n/p/9140.html",
+      "checkedAt": "2026-09-27",
+      "retrieval": "full-text",
+      "kind": "museum-research",
+      "supports": "1979年湖北省博物馆牵头成立编钟复制研究组，联合多单位检测原钟冶铸、合金、金相、几何结构、发声机制与频率，1982年复制成功；90年代中后期曾侯乙墓墓坑治水保护；不是原件修复记录，也非原钟逐件修复工单"
+    },
+    {
+      "id": "bell-orchestra",
+      "title": "湖北省博物馆编钟乐团简介",
+      "institution": "湖北省博物馆",
+      "url": "https://www.hbww.org.cn/bzyt/p/9068.html",
+      "checkedAt": "2026-09-26",
+      "retrieval": "search-text",
+      "kind": "museum-feature",
+      "supports": "编钟乐团以曾侯乙编钟复制件演奏为核心；支持区分当代舞台声音与原钟保存，不证明战国乐曲原貌"
+    },
+    {
+      "id": "bell-orchestra-timeline",
+      "title": "编钟乐团大事记",
+      "institution": "湖北省博物馆",
+      "url": "https://m-www.hbww.org.cn/bzyt/p/9067.html",
+      "checkedAt": "2026-09-27",
+      "retrieval": "full-text",
+      "kind": "museum-archive",
+      "supports": "馆方大事记把复制成功记为1983年1月、1984年9月专家测试验收，并记1987年演奏组成立；是复制与传播阶段，不是六十五件原钟修复日志"
+    },
+    {
+      "id": "jade-system",
+      "title": "金缕玉柙馆藏说明",
+      "institution": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202010/t20201013_247855.shtml",
+      "checkedAt": "2026-09-23",
+      "retrieval": "search-text",
+      "kind": "museum",
+      "supports": "另一件金缕玉柙的构成与汉代玉衣制度演变；作为类型比较，不与刘胜玉衣的片数等数据混同"
+    },
+    {
+      "id": "shiji-huaji",
+      "title": "《史记·滑稽列传》",
+      "institution": "中国哲学书电子化计划（文本底本信息见页面）",
+      "url": "https://ctext.org/shiji/hua-ji-lie-zhuan/zhs",
+      "checkedAt": "2026-09-23",
+      "retrieval": "search-text",
+      "kind": "primary-source",
+      "supports": "春秋战国以来淳于髡、优孟等以谈笑讽谏的传记叙事；不能直接证明四川说唱俑的身份或表演台词"
+    },
+    {
+      "id": "yantielun-sb",
+      "title": "《盐铁论·散不足》",
+      "institution": "中国哲学书电子化计划（页面列出四库全书等底本）",
+      "url": "https://ctext.org/yan-tie-lun/san-bu-zu/zhs",
+      "checkedAt": "2026-09-23",
+      "retrieval": "search-text",
+      "kind": "primary-source",
+      "supports": "汉代关于社会消费、礼俗与娱乐的论辩文本；用于理解时代议题，不是特定陶俑的现场记录"
+    },
+    {
+      "id": "dongjing-menghua",
+      "title": "《钦定四库全书》本《东京梦华录》",
+      "institution": "中国哲学书电子化计划（页面标注宋孟元老撰及四库本）",
+      "url": "https://ctext.org/library.pl?if=gb&res=104274",
+      "checkedAt": "2026-09-23",
+      "retrieval": "search-text",
+      "kind": "primary-source",
+      "supports": "关于北宋宣和年间东京城市生活的追忆性文本；可与画卷所见城市细节对读，不证明画中某一场景的具体身份"
+    },
+    {
+      "id": "mancheng-report",
+      "title": "《满城汉墓发掘报告》（上、下册）书目与内容提要",
+      "institution": "河北省文物考古研究院",
+      "url": "https://www.hbswwkg.com/2021-05/26/content_8502420.html",
+      "checkedAt": "2026-09-23",
+      "retrieval": "search-text",
+      "kind": "excavation-report",
+      "supports": "报告由中国社会科学院考古研究所、河北省文物管理处编，记录刘胜墓与窦绾墓发掘情况、墓葬形制和出土器物；本链接是报告书目介绍，并非报告全文"
+    },
+    {
+      "id": "mancheng-excavation",
+      "title": "满城汉墓考古发掘与发现经过",
+      "institution": "河北省文物考古研究院",
+      "url": "https://www.hbswwkg.com/2021-05/11/content_8500807.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "government-archaeology",
+      "supports": "1968年中国科学院考古研究所与河北省文物管理部门发掘满城两座墓葬，窦绾墓位于刘胜墓北约120米且出土长信宫灯；仅提供墓葬发掘背景，不详述长信宫灯单件提取或修复"
+    },
+    {
+      "id": "longxin-display-history",
+      "title": "长信宫灯2026年中国美术馆限时借展与回馆记录",
+      "institution": "河北省文物局",
+      "url": "https://wenwu.hebei.gov.cn/system/2026/04/24/030381741.shtml",
+      "checkedAt": "2026-09-28",
+      "retrieval": "search-text",
+      "kind": "government-museum",
+      "supports": "河北省文物局记长信宫灯2026年4月在北京限时展出，并称4月29日回河北博物院满城汉墓展厅；是原件当代展陈与回馆信息，不等于完整保护修复档案"
+    },
+    {
+      "id": "camel-2025-care",
+      "title": "三秦华章展撤陈、养护与布展记录",
+      "institution": "陕西历史博物馆",
+      "url": "https://www.sxhm.com/info/news/detail/18496.html",
+      "checkedAt": "2026-09-26",
+      "retrieval": "search-text",
+      "kind": "museum-feature",
+      "supports": "2025年馆方设备改造期间由藏品保管、保护修复等部门共同完成撤陈、养护和布展，三彩载乐骆驼俑进入新展；未公开该件单独的修复材料和操作日志"
+    },
+    {
+      "id": "camel-education-2024",
+      "title": "博物馆里寻丝路：陕历博暑期‘丝路寻宝记’公益教育活动",
+      "institution": "陕西历史博物馆社会教育部",
+      "url": "https://www.sxhm.com/info/news/detail/16258.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum-education",
+      "supports": "2024年7月31日至8月2日，馆方在展厅引导青少年观察三彩载乐骆驼俑，并安排课程回顾和手工互动；这是当代教育实践，不是唐代乐舞或本件修复工单"
+    },
+    {
+      "id": "longxin-digital-2026",
+      "title": "长信宫灯‘出差’北京：河北博物院复制件与数字互动",
+      "institution": "河北省文物局（据河北博物院展示报道）",
+      "url": "https://wenwu.hebei.gov.cn/system/2026/04/24/030381741.shtml",
+      "checkedAt": "2026-09-29",
+      "retrieval": "search-text",
+      "kind": "government-museum",
+      "supports": "2026年4月原件赴京期间，河北馆内陈列复制件，并用数字互动展示虚拟发掘、点亮和器物旋转；虚拟体验是现代传播，不等于1968年逐件发掘记录或原件修复"
+    },
+    {
+      "id": "mancheng-douwan-seal",
+      "title": "窦绾铜印（汉世雄风展）",
+      "institution": "中国国家博物馆（藏品藏于河北博物院）",
+      "url": "https://www.chnmuseum.cn/Portals/0/web/exhibition/exhibitions/201812han/34.html",
+      "checkedAt": "2026-09-25",
+      "retrieval": "search-text",
+      "kind": "museum-feature",
+      "supports": "墓中两方铜印分别见窦绾姓名与窦君须字样；史书没有中山靖王妻子的记载；窦氏与窦太后家族关系属于发掘者分析和可能性推断"
+    },
+    {
+      "id": "zeng-report",
+      "title": "《曾侯乙墓》上册书目记录",
+      "institution": "日本国立国会图书馆（馆藏书目）",
+      "url": "https://ndlsearch.ndl.go.jp/books/R100000002-Ia0000019599",
+      "checkedAt": "2026-09-23",
+      "retrieval": "search-text",
+      "kind": "excavation-report",
+      "supports": "确认湖北省博物馆编、文物出版社1989年出版、687页及战国墓发掘报告书目属性；此书目页不是报告全文"
+    },
+    {
+      "id": "pf-identity-debate",
+      "title": "《平复帖》种种：彦先身份与作者讨论",
+      "institution": "故宫博物院《紫禁城》刊载研究札记",
+      "url": "https://www.dpm.org.cn/Uploads/File/pdf/af/34/82/af3482625bcdb7bed533d403b7ffe766.pdf",
+      "checkedAt": "2026-09-26",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "介绍顾荣、贺循、全彦先等释读分歧及据彦先反推作者的争论；是研究意见，不推翻馆藏登记中的陆机归属"
+    },
+    {
+      "id": "pf-rest-display",
+      "title": "张伯驹捐献书画精品展与平复帖休眠期",
+      "institution": "故宫博物院",
+      "url": "https://www.dpm.org.cn/show/246487.html",
+      "checkedAt": "2026-09-26",
+      "retrieval": "search-text",
+      "kind": "museum-feature",
+      "supports": "2018年展览因保护休眠期以复制品替代《平复帖》原作；展讯记84字，与馆藏页86字口径不同，不能把复制展示或字数差异写作原件已更改"
+    },
+    {
+      "id": "pf-2022-catalogue",
+      "title": "晋陆机《平复帖》卷专题图录说明",
+      "institution": "故宫博物院《紫禁城》2022年第11期",
+      "url": "https://www.dpm.org.cn/Uploads/File/2022/12/05/u638dad1534ab5.pdf",
+      "checkedAt": "2026-09-27",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "专题说明卷前宋徽宗瘦金书题签及保存宣和装形式；是传世与装潢研究线索，不等于西晋原始装裱或本件逐次修复档案"
+    },
+    {
+      "id": "pf-photo-reproduction",
+      "title": "故宫博物院照相复制古书画技术发展始末",
+      "institution": "故宫博物院《紫禁城》",
+      "url": "https://www.dpm.org.cn/Uploads/File/2023/01/03/u63b3a1cd318e5.pdf",
+      "checkedAt": "2026-09-27",
+      "retrieval": "search-text",
+      "kind": "museum-research",
+      "supports": "可检索正文将《平复帖》列为1960年11月至1963年12月间故宫以照相复制法完成的作品之一；只证明复制项目，不给出本帖单独完成日期或原件修裱记录"
+    },
+    {
+      "id": "pf-shoukang-lecture",
+      "title": "万岁千秋奉寿康——崇庆皇太后与寿康宫（故宫讲坛）",
+      "institution": "故宫博物院宫廷部研究馆员林姝",
+      "url": "https://www.dpm.org.cn/gugongforum/detail/236357.html",
+      "checkedAt": "2026-09-27",
+      "retrieval": "full-text",
+      "kind": "museum-research",
+      "supports": "故宫讲坛提纲称《平复帖》为崇庆皇太后遗念，后赏赐皇孙永瑆；是馆方研究解说，非赏赐原档全文"
+    },
+    {
+      "id": "pf-donation-exhibit-replica",
+      "title": "故宫捐献专题展展品列表",
+      "institution": "故宫博物院展览资料",
+      "url": "https://ggzl.dpm.org.cn/app/api/app/exhibitionListPc/690",
+      "checkedAt": "2026-09-27",
+      "retrieval": "full-text",
+      "kind": "museum-feature",
+      "supports": "展品清单明确标作陆机草隶书平复帖卷（复制品）；与2018年休眠期复制展示同属当代传播，不能称原件出展"
+    },
+    {
+      "id": "huaguang-excavation",
+      "title": "海南西沙群岛华光礁Ⅰ号南宋沉船遗址发掘记录",
+      "institution": "海南省博物馆",
+      "url": "https://www.hainanmuseum.org/hnbwgcms/info/616",
+      "checkedAt": "2026-09-23",
+      "retrieval": "search-text",
+      "kind": "excavation-report",
+      "supports": "馆方记录1998年试掘及2007—2008年正式发掘、船体测绘拆解和保护过程；出土与窑口判断以页面原文为准，属馆方研究动态而非完整发掘报告"
+    }
   ],
   "trails": [
-    {"id":"light","title":"灯火与心愿","seal":"灯","question":"一件器物，怎样照顾生活，也寄托愿望？","intro":"从汉代灯具的结构出发，走到清宫新年的案头。比较用途与寓意，不把不同时代的器物当作一条直接传承链。","minutes":8,"ids":["hb-cxd","gx-yfd","gg-jgyg"],"takeaway":"认识用途、结构与象征的区别；能解释一处结构怎样服务于使用。"},
-    {"id":"music","title":"千年音乐现场","seal":"乐","question":"声音消失之后，文物还能告诉我们什么？","intro":"从可测音、有铭文的编钟，走向成都墓葬中的单人说唱陶俑，再看唐代三彩群像如何把歌者与乐手组织在驼背平台上。比较声音结构、身体动作和艺术构图，不把陶俑当录音，也不把跨时代并读说成表演传统的直接传承。","minutes":8,"ids":["hub-zhy","gb-jgs","sxl-lt"],"takeaway":"能指出乐器、明器与群像各自保留的证据；区分古代材料、现代测音研究和当代想象。"},
-    {"id":"ink","title":"纸绢上的人生","seal":"卷","question":"一张纸、一幅绢，如何留下一个人的世界？","intro":"从一封西晋友人问候信出发，再读北宋城市记忆、青绿山水与苏轼行旅书写。每一站都问：作品直接留下了什么，后人又如何解释？这是一条主题比较，不是作者之间的交游链。","minutes":10,"ids":["gg-pft","gg-qmsh","gg-qljs","jl-efj"],"takeaway":"比较书信、城市画、山水画与赋的表达方式；能区分作品本身、题跋、后世研究与追忆性文献。"}
+    {
+      "id": "light",
+      "title": "灯火与心愿",
+      "seal": "灯",
+      "question": "一件器物，怎样照顾生活，也寄托愿望？",
+      "intro": "从汉代灯具的结构出发，走到清宫新年的案头。比较用途与寓意，不把不同时代的器物当作一条直接传承链。",
+      "minutes": 8,
+      "ids": [
+        "hb-cxd",
+        "gx-yfd",
+        "gg-jgyg"
+      ],
+      "takeaway": "认识用途、结构与象征的区别；能解释一处结构怎样服务于使用。"
+    },
+    {
+      "id": "music",
+      "title": "千年音乐现场",
+      "seal": "乐",
+      "question": "声音消失之后，文物还能告诉我们什么？",
+      "intro": "从可测音、有铭文的编钟，走向成都墓葬中的单人说唱陶俑，再看唐代三彩群像如何把歌者与乐手组织在驼背平台上。比较声音结构、身体动作和艺术构图，不把陶俑当录音，也不把跨时代并读说成表演传统的直接传承。",
+      "minutes": 8,
+      "ids": [
+        "hub-zhy",
+        "gb-jgs",
+        "sxl-lt"
+      ],
+      "takeaway": "能指出乐器、明器与群像各自保留的证据；区分古代材料、现代测音研究和当代想象。"
+    },
+    {
+      "id": "ink",
+      "title": "纸绢上的人生",
+      "seal": "卷",
+      "question": "一张纸、一幅绢，如何留下一个人的世界？",
+      "intro": "从一封西晋友人问候信出发，再读北宋城市记忆、青绿山水与苏轼行旅书写。每一站都问：作品直接留下了什么，后人又如何解释？这是一条主题比较，不是作者之间的交游链。",
+      "minutes": 10,
+      "ids": [
+        "gg-pft",
+        "gg-qmsh",
+        "gg-qljs",
+        "jl-efj"
+      ],
+      "takeaway": "比较书信、城市画、山水画与赋的表达方式；能区分作品本身、题跋、后世研究与追忆性文献。"
+    }
   ],
   "stories": [
     {
-      "id":"hb-cxd","hook":"这位持灯的人，为什么把袖口伸向灯火？","summary":"长信宫灯是出土于满城窦绾墓的西汉鎏金铜灯。人物的衣袖兼作烟道，灯罩可调节光线；器上的铭文还留下了重量、容量和所属者等信息。它让我们从造型走进古人的照明设计。","summaryRefs":["cx"],
-      "sections":[
-        {"title":"从墓主人而不是宫女传说开始","text":"1968年，中国科学院考古研究所与河北文物管理部门发掘满城陵山两座墓。河北省文物考古研究院指出窦绾墓在刘胜墓北约120米，宫灯来自窦绾墓；两墓虽相邻，却不能把出土品混成同一墓室。国博展览介绍窦绾墓内两方铜印分别有“窦绾”和“窦君须”字样，墓主人姓名因此有器物证据；史书却没有给她留下完整传记。铜灯做成跪坐持灯的宫女，不等于这个形象就是窦绾本人，更无法由墓中发现倒推出她生前把灯放在何处、多久点燃一次。对亲子读者来说，先问“谁的墓、谁的形象、我们凭什么知道”，比编出一位宫女的独白更能接近历史。","refs":["cx","mancheng-excavation","mancheng-douwan-seal"]},
-        {"title":"六个部件怎样同时处理光与烟","text":"河南博物院借展解说把灯分为头部、身躯、右臂、灯座、灯盘和灯罩六部分，说明它们分别铸成并可拆卸。故宫的展品说明还写她左手握灯座、右手扶灯罩；两片弧形铜板组成灯罩，其中一片可以推移，以改变照射方向和开口大小。高举的右臂与袖口形成烟道，把燃灯产生的烟灰引入中空的人像。结构和鎏金人物并非各做各的：姿态决定通路，通路也决定造型。《故宫博物院院刊》把它放入汉代釭灯的讨论，并解释同类灯具如何以导烟管和灯腹处理脂膏燃烧的烟炱；论文谈到同类灯腹可贮水，是类型研究，不是本灯留存水迹或燃料残留的逐件检测。可拆卸是清理灯体的结构条件，却不等于已知汉代由谁拆洗、每次怎样维护。资料没有本灯的空气质量实验，不能把“减少烟尘外散的设计”升级成今天意义上的零排放或空气净化器。","refs":["cx","cx-guest","cx-lamp-research-2024"]},
-        {"title":"九处铭文不等于一部完整身世","text":"灯身九处共六十五字，记下重量、容量和所属者等管理信息；“长信尚浴”也解释了今天的称名。这些字是器物上的古代证据，却不自动给出从每一个主人到下一个主人的完整转移日期。古代可能存在转赐、移用，具体链条仍需铭文释读与文献互证。观看时可分别画出两条线：可观察的结构线，和可以从文字追问的归属线。把后者画满空白格，反而会掩盖历史留下的缺口。","refs":["cx","cx-guest"]},
-        {"title":"从满城发掘到当代展览","text":"河北省文物考古研究院记述1968年满城两座墓葬南北并列、凿山为陵，窦绾墓在刘胜墓北约120米；这是宫灯的考古位置，不是灯在汉代宫室中摆放的位置。报告书目可指向正式发掘报告，但本站未读到长信宫灯逐件起取、清理或修复日志。展览有原件与复制件两条线：常德市丁玲纪念馆2023年预告明确注明，所展宫灯是上世纪七八十年代制作的一比一复制件，原件藏河北博物院；河北省文物局则记录原件2026年4月在中国美术馆限时展出，并称4月29日回到河北博物院满城汉墓展厅。前者是复制件展示，后者是原件的近期展陈与回馆记录；都不能由此推断运输包装、环境控制或修复工艺。参观时先看展签上的“原件”“复制件”，再问各自承担什么保护与传播任务。河南博物院借展解说可以说明今日怎样解释可拆与导烟，却不能反推出汉代清洁频率，也不是原灯修复工单；具体修复时间和技术仍待核。沿游线转向羽纹铜凤灯，可分别描出宫女袖管和凤鸟颈管的烟路，再比较两件灯怎样利用造型包住功能，而不主张两地工匠有直接联系。","refs":["mancheng-excavation","mancheng-report","cx-replica-2023","longxin-display-history","cx-guest"]}
+      "id": "hb-cxd",
+      "hook": "这位持灯的人，为什么把袖口伸向灯火？",
+      "summary": "长信宫灯是出土于满城窦绾墓的西汉鎏金铜灯。人物的衣袖兼作烟道，灯罩可调节光线；器上的铭文还留下了重量、容量和所属者等信息。它让我们从造型走进古人的照明设计。",
+      "summaryRefs": [
+        "cx"
       ],
-      "details":[{"title":"可拆的右臂","text":"右臂兼作导烟通道，六部分可拆卸便于清洁；这是馆方说明的器物结构，不是已证实的古人清洁频次。类型论文谈灯腹贮水，不能据此认定本灯留下水迹，也不凭AI图推断内部尺寸。","refs":["cx-guest","cx-lamp-research-2024"]},{"title":"两片弧形灯罩","text":"其中一片可推移以改变照射方向与强弱；不是电灯式调光，也未证实零排放。","refs":["cx-guest"]},{"title":"灯铭、墓印与今天的展签","text":"灯铭提供古代归属线索，窦绾铜印帮助辨认墓主人；常德2023年展签则明确标出一比一复制件。三种证据各回答不同的身份问题。","refs":["cx","mancheng-douwan-seal","cx-replica-2023"]},{"title":"出土位置不是摆灯位置","text":"1968年满城发掘确定了窦绾墓的考古语境；墓中随葬位置不能反推她生前在哪间屋里使用这盏灯。逐件起取及修复步骤仍须原报告与文保档案。","refs":["mancheng-excavation","mancheng-report"]},{"title":"数字发掘是今天的导览","text":"2026年原件赴京时，河北博物院馆内以复制件及可旋转、虚拟发掘和点亮的数字体验继续讲述宫灯。可用它认识结构，却不能把屏幕动画当成1968年现场记录，也不能从动画反推原件修复。","refs":["longxin-digital-2026","mancheng-excavation"]}],
-      "reflection":{"question":"如果只保留人物外形，去掉可移动灯罩，会失去什么？","answer":"会少掉调节照射范围与亮度的办法。外形负责呈现，结构负责使用；讲清两者怎样结合，比只说“很先进”更具体。","refs":["cx"]},
-      "uncertainty":"未见长信宫灯逐件起取和修复日志，也不知道窦绾生前放灯、点灯或清洗的实际频率；铭文之间的完整递藏链亦未闭合。不采用“体内必有储水过滤”或零排放的确定叙述。","correction":"把宫女形象与窦绾墓主人分开，把可拆烟道、灯罩与九处铭文的事实同所有权推测分层；图片溯源状态不变。",
-      "related":[{"id":"gx-yfd","reason":"先画两条烟路：宫灯由袖口通往中空人物，凤灯由颈管通往鸟腹；再比较两件的支撑与调光。两者解决相似照明难题，但出土地与形制不同，尚不能证明工坊传授。","type":"curatorial-comparison"},{"id":"hb-jly","reason":"沿陵山地图找到相距约120米的两墓：窦绾墓的灯和刘胜墓的玉衣为何不能拼作同一墓室的生活场景？比较出土位置、墓主身份及器物用途，练习让考古语境约束想象。","type":"curatorial-comparison"},{"id":"gg-jgyg","reason":"把汉灯的可拆部件、导烟路径与清宫金杯的款识、元旦文字记载并排：一个重点问结构怎样照明，一个重点问器物怎样承载礼仪。相隔时代不等于存在直接工艺传承。","type":"curatorial-comparison"},{"id":"dz-lgd","reason":"比较满城窦绾墓宫灯与定州刘畅墓玉璧：两件都有汉代王侯墓的发现语境，但墓中位置、材料及用途证据各异，不能把相似墓葬身份当同一套仪式的证明。","type":"curatorial-comparison"}]
+      "sections": [
+        {
+          "title": "从墓主人而不是宫女传说开始",
+          "text": "1968年，中国科学院考古研究所与河北文物管理部门发掘满城陵山两座墓。河北省文物考古研究院指出窦绾墓在刘胜墓北约120米，宫灯来自窦绾墓；两墓虽相邻，却不能把出土品混成同一墓室。国博展览介绍窦绾墓内两方铜印分别有“窦绾”和“窦君须”字样，墓主人姓名因此有器物证据；史书却没有给她留下完整传记。铜灯做成跪坐持灯的宫女，不等于这个形象就是窦绾本人，更无法由墓中发现倒推出她生前把灯放在何处、多久点燃一次。对亲子读者来说，先问“谁的墓、谁的形象、我们凭什么知道”，比编出一位宫女的独白更能接近历史。",
+          "refs": [
+            "cx",
+            "mancheng-excavation",
+            "mancheng-douwan-seal"
+          ]
+        },
+        {
+          "title": "六个部件怎样同时处理光与烟",
+          "text": "河南博物院借展解说把灯分为头部、身躯、右臂、灯座、灯盘和灯罩六部分，说明它们分别铸成并可拆卸。故宫的展品说明还写她左手握灯座、右手扶灯罩；两片弧形铜板组成灯罩，其中一片可以推移，以改变照射方向和开口大小。高举的右臂与袖口形成烟道，把燃灯产生的烟灰引入中空的人像。结构和鎏金人物并非各做各的：姿态决定通路，通路也决定造型。《故宫博物院院刊》把它放入汉代釭灯的讨论，并解释同类灯具如何以导烟管和灯腹处理脂膏燃烧的烟炱；论文谈到同类灯腹可贮水，是类型研究，不是本灯留存水迹或燃料残留的逐件检测。可拆卸是清理灯体的结构条件，却不等于已知汉代由谁拆洗、每次怎样维护。资料没有本灯的空气质量实验，不能把“减少烟尘外散的设计”升级成今天意义上的零排放或空气净化器。",
+          "refs": [
+            "cx",
+            "cx-guest",
+            "cx-lamp-research-2024"
+          ]
+        },
+        {
+          "title": "九处铭文不等于一部完整身世",
+          "text": "灯身九处共六十五字，记下重量、容量和所属者等管理信息；“长信尚浴”也解释了今天的称名。这些字是器物上的古代证据，却不自动给出从每一个主人到下一个主人的完整转移日期。古代可能存在转赐、移用，具体链条仍需铭文释读与文献互证。观看时可分别画出两条线：可观察的结构线，和可以从文字追问的归属线。把后者画满空白格，反而会掩盖历史留下的缺口。",
+          "refs": [
+            "cx",
+            "cx-guest"
+          ]
+        },
+        {
+          "title": "从满城发掘到当代展览",
+          "text": "河北省文物考古研究院记述1968年满城两座墓葬南北并列、凿山为陵，窦绾墓在刘胜墓北约120米；这是宫灯的考古位置，不是灯在汉代宫室中摆放的位置。报告书目可指向正式发掘报告，但本站未读到长信宫灯逐件起取、清理或修复日志。展览有原件与复制件两条线：常德市丁玲纪念馆2023年预告明确注明，所展宫灯是上世纪七八十年代制作的一比一复制件，原件藏河北博物院；河北省文物局则记录原件2026年4月在中国美术馆限时展出，并称4月29日回到河北博物院满城汉墓展厅。前者是复制件展示，后者是原件的近期展陈与回馆记录；都不能由此推断运输包装、环境控制或修复工艺。参观时先看展签上的“原件”“复制件”，再问各自承担什么保护与传播任务。河南博物院借展解说可以说明今日怎样解释可拆与导烟，却不能反推出汉代清洁频率，也不是原灯修复工单；具体修复时间和技术仍待核。沿游线转向羽纹铜凤灯，可分别描出宫女袖管和凤鸟颈管的烟路，再比较两件灯怎样利用造型包住功能，而不主张两地工匠有直接联系。",
+          "refs": [
+            "mancheng-excavation",
+            "mancheng-report",
+            "cx-replica-2023",
+            "longxin-display-history",
+            "cx-guest"
+          ]
+        }
+      ],
+      "details": [
+        {
+          "title": "可拆的右臂",
+          "text": "右臂兼作导烟通道，六部分可拆卸便于清洁；这是馆方说明的器物结构，不是已证实的古人清洁频次。类型论文谈灯腹贮水，不能据此认定本灯留下水迹，也不凭AI图推断内部尺寸。",
+          "refs": [
+            "cx-guest",
+            "cx-lamp-research-2024"
+          ]
+        },
+        {
+          "title": "两片弧形灯罩",
+          "text": "其中一片可推移以改变照射方向与强弱；不是电灯式调光，也未证实零排放。",
+          "refs": [
+            "cx-guest"
+          ]
+        },
+        {
+          "title": "灯铭、墓印与今天的展签",
+          "text": "灯铭提供古代归属线索，窦绾铜印帮助辨认墓主人；常德2023年展签则明确标出一比一复制件。三种证据各回答不同的身份问题。",
+          "refs": [
+            "cx",
+            "mancheng-douwan-seal",
+            "cx-replica-2023"
+          ]
+        },
+        {
+          "title": "出土位置不是摆灯位置",
+          "text": "1968年满城发掘确定了窦绾墓的考古语境；墓中随葬位置不能反推她生前在哪间屋里使用这盏灯。逐件起取及修复步骤仍须原报告与文保档案。",
+          "refs": [
+            "mancheng-excavation",
+            "mancheng-report"
+          ]
+        },
+        {
+          "title": "数字发掘是今天的导览",
+          "text": "2026年原件赴京时，河北博物院馆内以复制件及可旋转、虚拟发掘和点亮的数字体验继续讲述宫灯。可用它认识结构，却不能把屏幕动画当成1968年现场记录，也不能从动画反推原件修复。",
+          "refs": [
+            "longxin-digital-2026",
+            "mancheng-excavation"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "如果只保留人物外形，去掉可移动灯罩，会失去什么？",
+        "answer": "会少掉调节照射范围与亮度的办法。外形负责呈现，结构负责使用；讲清两者怎样结合，比只说“很先进”更具体。",
+        "refs": [
+          "cx"
+        ]
+      },
+      "uncertainty": "未见长信宫灯逐件起取和修复日志，也不知道窦绾生前放灯、点灯或清洗的实际频率；铭文之间的完整递藏链亦未闭合。不采用“体内必有储水过滤”或零排放的确定叙述。",
+      "correction": "把宫女形象与窦绾墓主人分开，把可拆烟道、灯罩与九处铭文的事实同所有权推测分层；图片溯源状态不变。",
+      "related": [
+        {
+          "id": "gx-yfd",
+          "reason": "先画两条烟路：宫灯由袖口通往中空人物，凤灯由颈管通往鸟腹；再比较两件的支撑与调光。两者解决相似照明难题，但出土地与形制不同，尚不能证明工坊传授。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "hb-jly",
+          "reason": "沿陵山地图找到相距约120米的两墓：窦绾墓的灯和刘胜墓的玉衣为何不能拼作同一墓室的生活场景？比较出土位置、墓主身份及器物用途，练习让考古语境约束想象。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "gg-jgyg",
+          "reason": "把汉灯的可拆部件、导烟路径与清宫金杯的款识、元旦文字记载并排：一个重点问结构怎样照明，一个重点问器物怎样承载礼仪。相隔时代不等于存在直接工艺传承。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "dz-lgd",
+          "reason": "比较满城窦绾墓宫灯与定州刘畅墓玉璧：两件都有汉代王侯墓的发现语境，但墓中位置、材料及用途证据各异，不能把相似墓葬身份当同一套仪式的证明。",
+          "type": "curatorial-comparison"
+        }
+      ]
     },
     {
-      "id":"gx-yfd","hook":"一只铜凤鸟，靠什么稳稳地站住？","summary":"这类西汉羽纹铜凤灯于1971年在广西合浦望牛岭1号墓成对出土，现藏广西壮族自治区博物馆。凤鸟回首，双足与下垂尾羽共同支撑器身；灯盘、灯罩和中空颈部把造型与照明功能联系起来。","summaryRefs":["fh","fh2","fh-discovery"],
-      "sections":[
-        {"title":"一次施工，怎样变成一场考古发掘","text":"广西日报对馆方人员的采访记录：1970年7月，合浦望牛岭修建防空洞时挖出异常木炭层，施工人员上报后，自治区博物馆派队调查；1971年获批正式发掘，约两个月后，一对带泥、局部锈蚀的铜灯与其他随葬品重见天日。这里能确认的是“偶然发现—上报调查—批准发掘”的过程；报道不是原始发掘报告，墓内精确位置与逐件编号仍不能补写。","refs":["fh-discovery"]},
-        {"title":"铸出身体，再在表面刻出羽毛","text":"馆方采访把铜灯的制作概括为分铸与錾刻：凤鸟各部分需要先形成铜质结构，再在表面刻出细密羽纹。双足与垂地尾羽形成三点支撑，背部承托灯盘，造型和受力并非两套互不相干的设计。不过，公开报道没有提供铸造接合处检测、合金成分或工坊记录，因此“由谁制作、分几次浇铸”仍属未知。","refs":["fh","fh-discovery"]},
-        {"title":"导烟结构是事实，净化效果要谨慎表达","text":"结构报道介绍，灯罩、两段套接颈管与中空腹腔相连，腹内可贮水。由此可以理解烟尘被引向腹腔的设计意图；但现有资料没有给出复原燃烧实验、颗粒物数据或“完全无烟”的检测结果。把它与长信宫灯并读，适合比较两件器物怎样安排光、烟与承托，不足以证明两地工坊之间存在直接技术传播。","refs":["fh2","fh-discovery"]},
-        {"title":"从修复后的铜灯，到今天的城市符号","text":"报道说两灯出土时带泥并有锈蚀，随后送往自治区博物馆修复，也提到故宫方面曾参与后续修复；但没有公布材料、步骤与处理日期，所以本站只记录“经过修复”，不虚构技术细节。半个世纪后，它又进入巡展、馆徽、城市设施和木偶剧：这些是现代保护、展陈与再创作的历史，不是汉代用途的证据。原物、文创形象与本站AI示意图必须继续分别标识。","refs":["fh-discovery"]}
+      "id": "gx-yfd",
+      "hook": "一只铜凤鸟，靠什么稳稳地站住？",
+      "summary": "这类西汉羽纹铜凤灯于1971年在广西合浦望牛岭1号墓成对出土，现藏广西壮族自治区博物馆。凤鸟回首，双足与下垂尾羽共同支撑器身；灯盘、灯罩和中空颈部把造型与照明功能联系起来。",
+      "summaryRefs": [
+        "fh",
+        "fh2",
+        "fh-discovery"
       ],
-      "details":[{"title":"足与尾","text":"双足加垂地尾羽构成支撑，观察重点是结构关系，不是AI图里的精确比例。","refs":["fh"]},{"title":"凤鸟回首","text":"回转的头颈与灯罩、灯盘的位置相联系。","refs":["fh2"]},{"title":"羽毛纹","text":"报道指出铜器表面采用錾刻羽纹；錾刻是用工具在表面刻凿，不是贴上真羽毛。","refs":["fh"]}],
-      "reflection":{"question":"这只鸟的尾巴只有装饰作用吗？","answer":"不是。尾羽下垂及地，与双足一起支撑灯身。可以画三个点来解释这个关系，不必临摹未经核实的图像细节。","refs":["fh"]},
-      "uncertainty":"本条形制、发现与修复史依据馆方供稿及采访报道，尚未取得原始发掘报告、修复档案与成对两灯的逐件馆藏编号；不指定其中哪一件，不宣称零排放，也不把现代形象传播反推为汉代意义。","correction":"补入施工发现、上报发掘、分铸錾刻、出土锈蚀与修复传播的证据层次；删除世界最早、完全净化及直接工艺传播等无充分证据结论。",
-      "related":[{"id":"hb-cxd","reason":"比较两条导烟路径：长信宫灯借人物衣袖收烟，铜凤灯由灯罩、颈管通向腹腔；再看人物身体与凤鸟足尾如何各自承担结构。相似功能不证明同一工坊或直接传播。","type":"curatorial-comparison"},{"id":"hain-hgj","reason":"从陆地墓葬里带泥锈蚀的青铜灯，转到海水浸泡的木船与陶瓷组合：比较“发现—记录—修复”怎样因材质和遗址环境而改变，而不是把两地连成未经证明的贸易路线。","type":"curatorial-comparison"}]
+      "sections": [
+        {
+          "title": "一次施工，怎样变成一场考古发掘",
+          "text": "广西日报对馆方人员的采访记录：1970年7月，合浦望牛岭修建防空洞时挖出异常木炭层，施工人员上报后，自治区博物馆派队调查；1971年获批正式发掘，约两个月后，一对带泥、局部锈蚀的铜灯与其他随葬品重见天日。这里能确认的是“偶然发现—上报调查—批准发掘”的过程；报道不是原始发掘报告，墓内精确位置与逐件编号仍不能补写。",
+          "refs": [
+            "fh-discovery"
+          ]
+        },
+        {
+          "title": "铸出身体，再在表面刻出羽毛",
+          "text": "馆方采访把铜灯的制作概括为分铸与錾刻：凤鸟各部分需要先形成铜质结构，再在表面刻出细密羽纹。双足与垂地尾羽形成三点支撑，背部承托灯盘，造型和受力并非两套互不相干的设计。不过，公开报道没有提供铸造接合处检测、合金成分或工坊记录，因此“由谁制作、分几次浇铸”仍属未知。",
+          "refs": [
+            "fh",
+            "fh-discovery"
+          ]
+        },
+        {
+          "title": "导烟结构是事实，净化效果要谨慎表达",
+          "text": "结构报道介绍，灯罩、两段套接颈管与中空腹腔相连，腹内可贮水。由此可以理解烟尘被引向腹腔的设计意图；但现有资料没有给出复原燃烧实验、颗粒物数据或“完全无烟”的检测结果。把它与长信宫灯并读，适合比较两件器物怎样安排光、烟与承托，不足以证明两地工坊之间存在直接技术传播。",
+          "refs": [
+            "fh2",
+            "fh-discovery"
+          ]
+        },
+        {
+          "title": "从修复后的铜灯，到今天的城市符号",
+          "text": "报道说两灯出土时带泥并有锈蚀，随后送往自治区博物馆修复，也提到故宫方面曾参与后续修复；但没有公布材料、步骤与处理日期，所以本站只记录“经过修复”，不虚构技术细节。半个世纪后，它又进入巡展、馆徽、城市设施和木偶剧：这些是现代保护、展陈与再创作的历史，不是汉代用途的证据。原物、文创形象与本站AI示意图必须继续分别标识。",
+          "refs": [
+            "fh-discovery"
+          ]
+        }
+      ],
+      "details": [
+        {
+          "title": "足与尾",
+          "text": "双足加垂地尾羽构成支撑，观察重点是结构关系，不是AI图里的精确比例。",
+          "refs": [
+            "fh"
+          ]
+        },
+        {
+          "title": "凤鸟回首",
+          "text": "回转的头颈与灯罩、灯盘的位置相联系。",
+          "refs": [
+            "fh2"
+          ]
+        },
+        {
+          "title": "羽毛纹",
+          "text": "报道指出铜器表面采用錾刻羽纹；錾刻是用工具在表面刻凿，不是贴上真羽毛。",
+          "refs": [
+            "fh"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "这只鸟的尾巴只有装饰作用吗？",
+        "answer": "不是。尾羽下垂及地，与双足一起支撑灯身。可以画三个点来解释这个关系，不必临摹未经核实的图像细节。",
+        "refs": [
+          "fh"
+        ]
+      },
+      "uncertainty": "本条形制、发现与修复史依据馆方供稿及采访报道，尚未取得原始发掘报告、修复档案与成对两灯的逐件馆藏编号；不指定其中哪一件，不宣称零排放，也不把现代形象传播反推为汉代意义。",
+      "correction": "补入施工发现、上报发掘、分铸錾刻、出土锈蚀与修复传播的证据层次；删除世界最早、完全净化及直接工艺传播等无充分证据结论。",
+      "related": [
+        {
+          "id": "hb-cxd",
+          "reason": "比较两条导烟路径：长信宫灯借人物衣袖收烟，铜凤灯由灯罩、颈管通向腹腔；再看人物身体与凤鸟足尾如何各自承担结构。相似功能不证明同一工坊或直接传播。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "hain-hgj",
+          "reason": "从陆地墓葬里带泥锈蚀的青铜灯，转到海水浸泡的木船与陶瓷组合：比较“发现—记录—修复”怎样因材质和遗址环境而改变，而不是把两地连成未经证明的贸易路线。",
+          "type": "curatorial-comparison"
+        }
+      ]
     },
     {
-      "id":"gg-jgyg","hook":"皇帝的新年第一笔，为什么要和一只杯子放在一起？","summary":"金瓯永固杯是清宫器物，金质杯身镶嵌珠宝，饰龙耳、象首式三足。故宫资料将它与农历新年的开笔仪式联系起来：器名寄托国土完整、国家安定的愿望，不能把它只当作贵重的饮酒容器。","summaryRefs":["cup","cup2"],
-      "sections":[
-        {"title":"杯沿上的四字愿望","text":"故宫登记号故00011674的金杯高12.5厘米、口径8厘米，一侧篆书“金瓯永固”，另一侧有“乾隆年制”款。馆藏页还具体记下口沿回纹、杯外宝相花、嵌在花蕊及象首足上的珠宝；这些是可追到本件的制作与装饰事实。故宫撰稿人指出乾隆朝造办处制作过多式酒杯，龙耳并不罕见，以象鼻为足的做法却较少：让读者比较“常见的耳”和“少见的足”，比只说通体奢华更接近造型研究。博物馆把“金瓯”解释为国家疆土与政权安定的象征；这是名字和宫廷语境的解释，不是黄金本身能保证天下永固。先找两侧的字，再找龙耳与象首足，读者可以问：一件器物怎样借材料、文字和动物形象把祝愿变得可见？本站隔离中的旧图不能用来逐颗数宝石。","refs":["cup"]},
-        {"title":"新年子刻，杯子在案头做什么","text":"故宫专题引嘉庆十二年御题《元旦试笔》夹注：每年农历正月初一子刻，养心殿案上设金瓯，注入屠苏，点玉烛，先用朱毫、再用墨笔写吉语。这是对清宫仪式的历史记载，也提醒我们当时的“元旦”不是公历一月一日。故宫研究者李湜在《故宫博物院院刊》论文中从三幅乾隆朝岁朝题材宫廷画里辨认出金瓯杯与玉烛台，还指出存世同名杯不止一件；画中二物多被安排在皇帝身旁，帮助我们理解礼仪如何被视觉化。诗的夹注是文字记载，宫廷画是经过经营的图像，研究论文则是今日的解释：它们可以一起回答“杯与烛为何同框”，却不能逐年证明故00011674号杯每次都在场，更不是清代某一晚的照片。","refs":["cup-ritual-record","cup2","cup-sui-paintings"]},
-        {"title":"先呈样，再制作：谁能对应这只杯","text":"故宫器物研究引用清宫造办处活计档，记下画样呈览、奉旨制作、修改及后续照样制作；档案是宫廷制作制度的原始记载，馆方研究是今天对档案的整理和解释。眼前故00011674号杯的龙形双耳、象首式三足、錾刻宝相花和嵌珠石可由馆藏页核对，档案却涉及多件同名杯。若没有逐件款识、尺寸及档号的完整对照，就不能把每条指令都归给这一只杯，更不能据总流程编出它的錾花者姓名、焊接次序或珠石来源。读者可以把‘成品能看见什么’和‘工房记录了什么’写在两栏，看看缺的正是哪一步对应证据。","refs":["cup","cup-workshop-archive"]},
-        {"title":"从旧杯、开笔礼到今日收藏","text":"故宫研究结合陈设档指出，金瓯杯并非专为每年元旦盛屠苏酒而制，仪式后也有继续陈设的情况；“礼器”与“陈设器”因此不是只能二选一的身份。台北国立故宫另藏登记号故雜005490N000000000的同名杯，高约14厘米；该馆说明它作于1739年，后来因伤损于1797年下令重制，并称新杯现存北京。北京故宫本页故00011674号杯高12.5厘米。两馆叙述可帮助理解旧杯与再制杯的研究问题，却没有在两张公开馆藏页提供可互核的造办处档号、尺寸差异解释和逐件技术档案；本站不凭同名及相似外形把台北藏杯图片或每条旧杯经历贴到北京这件。北京数字文物库把故00011674号与景仁宫、澳门及午门的三次近年展览关联，这是带登记号的展出史；故宫囊匣专题称技师王金生曾为“金瓯永固杯”等文物配制囊匣，但未写登记号、材料或日期。展览、囊匣线索都不是本件修复工单。沿“灯火与心愿”去看长信宫灯，可比较金杯的象征性使用与铜灯的照明结构，而不是说汉灯发展成清杯。","refs":["cup","cup-ritual-study","cup-taipei-comparison","cup-exhibitions","cup-case"]}
+      "id": "gg-jgyg",
+      "hook": "皇帝的新年第一笔，为什么要和一只杯子放在一起？",
+      "summary": "金瓯永固杯是清宫器物，金质杯身镶嵌珠宝，饰龙耳、象首式三足。故宫资料将它与农历新年的开笔仪式联系起来：器名寄托国土完整、国家安定的愿望，属于年节开笔用的礼器。",
+      "summaryRefs": [
+        "cup",
+        "cup2"
       ],
-      "details":[{"title":"两侧款识与另一只杯","text":"北京故00011674号一面“金瓯永固”、一面“乾隆年制”；台北另藏高约14厘米的同名杯。比较时须核登记号，不能借另一只杯的图或尺寸描述本件。","refs":["cup","cup-taipei-comparison"]},{"title":"龙耳与象足","text":"两侧龙形耳、三只象首式足是故宫该件的馆藏描述；馆页还记口沿回纹、外壁宝相花，适合依次找“文字—耳足—表面纹饰”。不借同名杯图替代，也不按隔离旧图逐颗数珠石。","refs":["cup"]},{"title":"案头次序","text":"嘉庆御题夹注写先朱毫后墨书吉语；它记录礼仪，不是此杯逐年在场名单。","refs":["cup-ritual-record"]},{"title":"展出史与修复史","text":"故宫数字文物库用故00011674号连接近年展览，这是本件的公共展示记录；囊匣专题未给单件登记号，两者都不能代替本杯逐次保护修复工单。","refs":["cup-exhibitions","cup-case"]},{"title":"同名杯是复数","text":"故宫《院刊》研究称存世同名杯有四件；北京与台北逐件页面的尺寸并不相同。档案里的旧杯受损与再制过程不能只凭‘金瓯永固’四字自动归到北京故00011674号。","refs":["cup-sui-paintings","cup","cup-taipei-comparison"]}],
-      "reflection":{"question":"嘉庆诗夹注记下元旦案上有金瓯，能证明故宫这一件杯每年都被使用吗？","answer":"不能。它证明礼仪中设金瓯盛屠苏；同名杯有多件，还要有逐件档案才能确认某件杯的使用记录。","refs":["cup-ritual-record","cup-workshop-archive"]},
-      "uncertainty":"同名杯不止一件；台北馆藏1739年旧杯与北京故00011674号的精确档号对应及尺寸差异待核。造办处指令、元旦礼仪以及未附登记号的囊匣专题不能直接归到北京该杯的每次制作、使用或修复。旧图继续隔离，逐件保护档案未见。","correction":"把器物款识、嘉庆御题所记礼仪、造办处流程、台北另一件旧杯、带登记号的北京杯展览史及未带登记号的囊匣线索分开；不再把器物创制与仪式起源简单归于同一年。",
-      "related":[{"id":"hub-zhy","reason":"先分别找证据：北京金杯的吉语和嘉庆御题属于不同层次，编钟的标音乐律铭文写在器物与构件上；比较文字怎样记录愿望与音高，不把清宫仪式与曾国礼乐说成直接传承。","type":"curatorial-comparison"},{"id":"hb-cxd","reason":"金杯的仪式有文字与岁朝画可对读，宫灯的照明靠可拆灯罩与袖管来解释；比较‘仪式图像’和‘器物结构’能各自证明什么，不假装汉灯与清杯曾同室使用。","type":"curatorial-comparison"},{"id":"nj-js","reason":"比较清宫金瓯永固杯有登记号的元旦展陈线索与西汉金兽的窖藏和‘黄六’刻字：同是金器，文字能证明的对象和用途不同，不暗示工艺或礼仪直接传承。","type":"curatorial-comparison"}]
+      "sections": [
+        {
+          "title": "杯沿上的四字愿望",
+          "text": "故宫登记号故00011674的金杯高12.5厘米、口径8厘米，一侧篆书“金瓯永固”，另一侧有“乾隆年制”款。馆藏页还具体记下口沿回纹、杯外宝相花、嵌在花蕊及象首足上的珠宝；这些是可追到本件的制作与装饰事实。故宫撰稿人指出乾隆朝造办处制作过多式酒杯，龙耳并不罕见，以象鼻为足的做法却较少：让读者比较“常见的耳”和“少见的足”，比只说通体奢华更接近造型研究。博物馆把“金瓯”解释为国家疆土与政权安定的象征；这是名字和宫廷语境的解释，不是黄金本身能保证天下永固。先找两侧的字，再找龙耳与象首足，读者可以问：一件器物怎样借材料、文字和动物形象把祝愿变得可见？本站隔离中的旧图不能用来逐颗数宝石。",
+          "refs": [
+            "cup"
+          ]
+        },
+        {
+          "title": "新年子刻，杯子在案头做什么",
+          "text": "故宫专题引嘉庆十二年御题《元旦试笔》夹注：每年农历正月初一子刻，养心殿案上设金瓯，注入屠苏，点玉烛，先用朱毫、再用墨笔写吉语。这是对清宫仪式的历史记载，也提醒我们当时的“元旦”不是公历一月一日。故宫研究者李湜在《故宫博物院院刊》论文中从三幅乾隆朝岁朝题材宫廷画里辨认出金瓯杯与玉烛台，还指出存世同名杯不止一件；画中二物多被安排在皇帝身旁，帮助我们理解礼仪如何被视觉化。诗的夹注是文字记载，宫廷画是经过经营的图像，研究论文则是今日的解释：它们可以一起回答“杯与烛为何同框”，却不能逐年证明故00011674号杯每次都在场，更不是清代某一晚的照片。",
+          "refs": [
+            "cup-ritual-record",
+            "cup2",
+            "cup-sui-paintings"
+          ]
+        },
+        {
+          "title": "先呈样，再制作：谁能对应这只杯",
+          "text": "故宫器物研究引用清宫造办处活计档，记下画样呈览、奉旨制作、修改及后续照样制作；档案是宫廷制作制度的原始记载，馆方研究是今天对档案的整理和解释。眼前故00011674号杯的龙形双耳、象首式三足、錾刻宝相花和嵌珠石可由馆藏页核对，档案却涉及多件同名杯。若没有逐件款识、尺寸及档号的完整对照，就不能把每条指令都归给这一只杯，更不能据总流程编出它的錾花者姓名、焊接次序或珠石来源。读者可以把‘成品能看见什么’和‘工房记录了什么’写在两栏，看看缺的正是哪一步对应证据。",
+          "refs": [
+            "cup",
+            "cup-workshop-archive"
+          ]
+        },
+        {
+          "title": "从旧杯、开笔礼到今日收藏",
+          "text": "故宫研究结合陈设档指出，金瓯杯并非专为每年元旦盛屠苏酒而制，仪式后也有继续陈设的情况；“礼器”与“陈设器”因此不是只能二选一的身份。台北国立故宫另藏登记号故雜005490N000000000的同名杯，高约14厘米；该馆说明它作于1739年，后来因伤损于1797年下令重制，并称新杯现存北京。北京故宫本页故00011674号杯高12.5厘米。两馆叙述可帮助理解旧杯与再制杯的研究问题，却没有在两张公开馆藏页提供可互核的造办处档号、尺寸差异解释和逐件技术档案；本站不凭同名及相似外形把台北藏杯图片或每条旧杯经历贴到北京这件。北京数字文物库把故00011674号与景仁宫、澳门及午门的三次近年展览关联，这是带登记号的展出史；故宫囊匣专题称技师王金生曾为“金瓯永固杯”等文物配制囊匣，但未写登记号、材料或日期。展览、囊匣线索都不是本件修复工单。沿“灯火与心愿”去看长信宫灯，可比较金杯的象征性使用与铜灯的照明结构，而不是说汉灯发展成清杯。",
+          "refs": [
+            "cup",
+            "cup-ritual-study",
+            "cup-taipei-comparison",
+            "cup-exhibitions",
+            "cup-case"
+          ]
+        }
+      ],
+      "details": [
+        {
+          "title": "两侧款识与另一只杯",
+          "text": "北京故00011674号一面“金瓯永固”、一面“乾隆年制”；台北另藏高约14厘米的同名杯。比较时须核登记号，不能借另一只杯的图或尺寸描述本件。",
+          "refs": [
+            "cup",
+            "cup-taipei-comparison"
+          ]
+        },
+        {
+          "title": "龙耳与象足",
+          "text": "两侧龙形耳、三只象首式足是故宫该件的馆藏描述；馆页还记口沿回纹、外壁宝相花，适合依次找“文字—耳足—表面纹饰”。不借同名杯图替代，也不按隔离旧图逐颗数珠石。",
+          "refs": [
+            "cup"
+          ]
+        },
+        {
+          "title": "案头次序",
+          "text": "嘉庆御题夹注写先朱毫后墨书吉语；它记录礼仪，不是此杯逐年在场名单。",
+          "refs": [
+            "cup-ritual-record"
+          ]
+        },
+        {
+          "title": "展出史与修复史",
+          "text": "故宫数字文物库用故00011674号连接近年展览，这是本件的公共展示记录；囊匣专题未给单件登记号，两者都不能代替本杯逐次保护修复工单。",
+          "refs": [
+            "cup-exhibitions",
+            "cup-case"
+          ]
+        },
+        {
+          "title": "同名杯是复数",
+          "text": "故宫《院刊》研究称存世同名杯有四件；北京与台北逐件页面的尺寸并不相同。档案里的旧杯受损与再制过程不能只凭‘金瓯永固’四字自动归到北京故00011674号。",
+          "refs": [
+            "cup-sui-paintings",
+            "cup",
+            "cup-taipei-comparison"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "嘉庆诗夹注记下元旦案上有金瓯，能证明故宫这一件杯每年都被使用吗？",
+        "answer": "不能。它证明礼仪中设金瓯盛屠苏；同名杯有多件，还要有逐件档案才能确认某件杯的使用记录。",
+        "refs": [
+          "cup-ritual-record",
+          "cup-workshop-archive"
+        ]
+      },
+      "uncertainty": "同名杯不止一件；台北馆藏1739年旧杯与北京故00011674号的精确档号对应及尺寸差异待核。造办处指令、元旦礼仪以及未附登记号的囊匣专题不能直接归到北京该杯的每次制作、使用或修复。旧图继续隔离，逐件保护档案未见。",
+      "correction": "把器物款识、嘉庆御题所记礼仪、造办处流程、台北另一件旧杯、带登记号的北京杯展览史及未带登记号的囊匣线索分开；不再把器物创制与仪式起源简单归于同一年。",
+      "related": [
+        {
+          "id": "hub-zhy",
+          "reason": "一只清宫金杯写的是吉语，一套曾国编钟写的是音高——同样刻着字，一个记愿望，一个记声音。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "hb-cxd",
+          "reason": "金杯旁边的岁朝画记下年节仪式，汉宫灯靠可拆的灯罩与袖管解释怎么点灯：一边靠图像，一边靠结构。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "nj-js",
+          "reason": "同是金器，金瓯永固杯有登记号可循，西汉金兽出自窖藏、身上刻着“黄六”——名字留下多少，全看运气。",
+          "type": "curatorial-comparison"
+        }
+      ]
     },
     {
-      "id":"hub-zhy","hook":"一口钟，为什么可以发出不止一个音？","summary":"曾侯乙编钟于1978年出土于湖北随州，是战国早期的成套青铜乐器。全套65件，三层八组排列；馆方介绍其双音特性及五个半八度的音域。钟和相关构件的铭文还留下编号、标音和乐律知识。","summaryRefs":["bell"],
-      "sections":[
-        {"title":"六十五件，为什么要按组看","text":"湖北省博物馆展出的档案照片说明，1978年3月6日王少泉致谭维四的信已汇报随县擂鼓墩发现墓葬；同一展览还有冯光生1978年5月的编钟现场测量记录。这是从发现消息走向现场测量的研究史线索，本站只核到展览的图片说明，没有读到信件和测量本全文，不能替它们编写发现当天或逐钟起取经过。湖北省文物考古研究院把该墓发掘记在1978年5月上旬至9月；这是一座墓的发掘时段，不是六十五件钟逐件起取日期。湖北省博物馆记载：上层三组十九件钮钟，中下层五组四十五件甬钟，另有一件楚惠王赠送的镈钟，共六十五件，悬于长7.48米、高2.65米的曲尺形铜木钟架。还要退后一步看墓室：湖北省博物馆研究文章记中室不仅有编钟，还伴有编磬、鼓、瑟、笙等；东室另有琴、瑟、笙和鼓。作者据此解释中室可能是重大礼仪用乐空间，东室是寝宫用乐空间；这是对出土组合的研究判断，不是一场演奏的现场录像。读者可先数钟架层组，再问“同墓其他乐器在哪里”；照片或AI示意图不能替代出土排列图，也不能推断当时每一次站位。镈钟赠送信息来自馆方对器物和铭文的释读，不是亲见当年的赠礼仪式。","refs":["bell-1978-field-documents","bell","bell-excavation-timeline","bell-chambers","bell-research"]},
-        {"title":"两种声音从何而来","text":"馆藏说明称每件钟可发相隔三度的双音，整套跨五个半八度，中心音区十二个半音齐备。这里的双音不是一口钟自动同时唱两声，而是在同件钟的不同敲击位置获得两个音高；湖北省博物馆的研究综述还指出，钟体鼓部正面、侧面标有对应不同音高的铭文。读者可以先把‘钟上写了什么’与‘测音仪器听到什么’分开，再想两种证据怎样互相校验。具体的发声机制仍须结合形制、测音与材料研究；1979年起的馆际复制研究测量原钟的合金、金相、几何结构、发声机制和频率，再制作复制件。我们可以欣赏古人把铸造与听觉组织起来的能力，却不能把今天舞台上的复制钟声音当成未经变化的战国原声。","refs":["bell","bell-research","bell-replica-research","bell-orchestra"]},
-        {"title":"铭文让音乐变成可研究的问题","text":"馆方统计钟、钟架和钩共有三千七百五十五字，内容涉及编号、记事、标音与乐律理论。它们把可见的钟组和可测的音高连在一起，使研究者能追问一套乐器如何命名音、排列音，而非只说“古人音乐很厉害”。湖北省博物馆的研究综述还讨论这套音乐文化的属性，呈现周、楚及融合等不同解释；解释仍须放回曾国墓葬与铭文语境，不把一套编钟简单贴成某一单一来源。走向击鼓说唱俑时，比较的正是文字与声音证据是否仍然存在。","refs":["bell","bell-research"]},
-        {"title":"从墓坑治水、原钟检测到复制演奏","text":"湖北省博物馆文保回顾称1979年牵头多单位复制研究、1982年复制成功；编钟乐团大事记记1983年1月复制成功、1984年9月通过专家测试验收；45周年文献展又以1984年概括复制成功。三种馆方口径可能对应试制、整套完成或验收等不同阶段，但没有逐项档案就不替它们归并为一个无争议日期。同一文保回顾还记20世纪90年代中后期，曾侯乙墓墓坑原址保护通过治理水患，为后续木椁保护工程创造条件；保护墓坑与木椁，是保存出土语境，不是修复六十五件编钟。文献展展示155件（套）发掘、测音与复制档案，乐团大事记则记1987年演奏组成立。今天馆方乐团以复制件为演奏核心：原钟、检测数据、复制钟与当代曲目必须分别说明，不能把复制成功说成原件被修复，更不能把现代改编称为曾侯乙亲闻的原曲。国家档案局公开的馆方申报材料写全套六十五件乐器、钟架及附件已做3D扫描，并列馆藏登记号5.188；申报方还称原钟及铭文保存良好、现置于恒温恒湿展厅，同时指出湿度过高会带来锈蚀、铭文受损和音色变化的风险。这是当代预防性保护的申报陈述，不是每件钟的实测长期曲线，更不是逐件修复日志；数字记录也不自动赋予本站使用许可。正式《曾侯乙墓》书目只能证明报告存在，未读其全文；2026年声学样本库仍处论证阶段，不写成已完成成果。","refs":["bell-replica-research","bell-orchestra-timeline","bell-archive-exhibit","bell-orchestra","bell-memory-register","bell-digital","zeng-report"]}
+      "id": "hub-zhy",
+      "hook": "一口钟，为什么可以发出不止一个音？",
+      "summary": "曾侯乙编钟于1978年出土于湖北随州，是战国早期的成套青铜乐器。全套65件，三层八组排列；馆方介绍其双音特性及五个半八度的音域。钟和相关构件的铭文还留下编号、标音和乐律知识。",
+      "summaryRefs": [
+        "bell"
       ],
-      "details":[{"title":"十九、四十五与一","text":"十九件钮钟、四十五件甬钟加一件镈钟构成六十五件；中室还有编磬等乐器，单看钟架不是整座墓的音乐全貌。","refs":["bell","bell-chambers"]},{"title":"双音与测音","text":"同一件钟敲击不同位置可得两个音高，不是同时自动发出两音；现代复制研究做过形制和频率检测。钟上音名、今天实测与舞台复制件的声音是三种不同证据，不可当作古代录音。","refs":["bell","bell-research","bell-replica-research"]},{"title":"三千七百五十五字","text":"字在钟、架与钩上，涉及编号、标音和乐律；不把铭文都说成某一人的传记。","refs":["bell"]},{"title":"数字记录不是原钟修复","text":"馆方申报材料记全套六十五件、钟架及附件已有3D扫描，2026年声学样本库仍是研究计划。扫描记录、拟建声音资料、复制件演奏与原钟修复是四件不同的事。","refs":["bell-memory-register","bell-digital"]},{"title":"从随县汇报到原件赴京","text":"馆方档案展记1978年7月1日随县首次出土文物汇报展、8月1日首场编钟音乐会、10月1日湖北馆首次正式对外展；1979年9月20日原钟首次赴京。音乐会的具体用钟配置未由这页逐件说明，不能把展览日期等同于六十五件原钟的修复或演奏日志。","refs":["bell-archive-exhibit"]},{"title":"原钟录音与复制钟演奏","text":"国家档案局公开的馆方申报材料检索文字列1986年3月曾以原钟录制《千古绝响——曾侯乙编钟之声》。这是一次现代录音的历史记录；今天舞台上的复制钟演奏、战国曲目和该录音三者仍要分开。本站未核可播放版本和录音授权。","refs":["bell-1986-recording","bell-orchestra"]}],
-      "reflection":{"question":"在馆里听到编钟乐团演奏，能说一定是六十五件原钟正在发声吗？","answer":"不能。馆方说明乐团以复制件演奏为核心；原钟的检测、复制件的表演和当代曲目应分别标明。","refs":["bell-orchestra","bell-replica-research"]},
-      "uncertainty":"未核读《曾侯乙墓》报告全文和原钟逐件修复日志；馆方对复制成果出现1982、1983与1984年不同阶段用语，除大事记明载1984年验收外，其余对应关系仍待核。周楚音乐文化属性仍有研究讨论；不沿用“只奏响三次”，也不把复制演出标成原件录音。","correction":"补入鼓部不同敲击位置与铭文、1983年复制及1984年验收的馆方记录；保留1982年口径差异，把复制、现代演奏及未来声学项目同原件保护分开。",
-      "related":[{"id":"gb-jgs","reason":"先问‘声音从哪里来’：编钟有可测钟体和标音文字，说唱俑只有表演姿态；比较证据能否回答音高、歌词与人物身份，不能让俑像替我们奏出古声。","type":"curatorial-comparison"},{"id":"sxl-lt","reason":"曾侯乙墓中室的编钟要与同室乐器一起看，唐代载乐俑则把八个人物组织在驼背平台上；比较考古组合、艺术构图与可测音高各能回答什么，不能把两件说成同一乐队的前后传承。","type":"curatorial-comparison"},{"id":"hb-sjfa","reason":"比较曾侯乙编钟的成组铸造、标音与中山王墓方案座的多构件承托：两者的实物结构都可研究，年代和地域不同，不能凭复杂程度断定工匠相互传授。","type":"curatorial-comparison"}]
+      "sections": [
+        {
+          "title": "六十五件，为什么要按组看",
+          "text": "湖北省博物馆展出的档案照片说明，1978年3月6日王少泉致谭维四的信已汇报随县擂鼓墩发现墓葬；同一展览还有冯光生1978年5月的编钟现场测量记录。这是从发现消息走向现场测量的研究史线索，本站只核到展览的图片说明，没有读到信件和测量本全文，不能替它们编写发现当天或逐钟起取经过。湖北省文物考古研究院把该墓发掘记在1978年5月上旬至9月；这是一座墓的发掘时段，不是六十五件钟逐件起取日期。湖北省博物馆记载：上层三组十九件钮钟，中下层五组四十五件甬钟，另有一件楚惠王赠送的镈钟，共六十五件，悬于长7.48米、高2.65米的曲尺形铜木钟架。还要退后一步看墓室：湖北省博物馆研究文章记中室不仅有编钟，还伴有编磬、鼓、瑟、笙等；东室另有琴、瑟、笙和鼓。作者据此解释中室可能是重大礼仪用乐空间，东室是寝宫用乐空间；这是对出土组合的研究判断，不是一场演奏的现场录像。读者可先数钟架层组，再问“同墓其他乐器在哪里”；照片或AI示意图不能替代出土排列图，也不能推断当时每一次站位。镈钟赠送信息来自馆方对器物和铭文的释读，不是亲见当年的赠礼仪式。",
+          "refs": [
+            "bell-1978-field-documents",
+            "bell",
+            "bell-excavation-timeline",
+            "bell-chambers",
+            "bell-research"
+          ]
+        },
+        {
+          "title": "两种声音从何而来",
+          "text": "馆藏说明称每件钟可发相隔三度的双音，整套跨五个半八度，中心音区十二个半音齐备。这里的双音不是一口钟自动同时唱两声，而是在同件钟的不同敲击位置获得两个音高；湖北省博物馆的研究综述还指出，钟体鼓部正面、侧面标有对应不同音高的铭文。读者可以先把‘钟上写了什么’与‘测音仪器听到什么’分开，再想两种证据怎样互相校验。具体的发声机制仍须结合形制、测音与材料研究；1979年起的馆际复制研究测量原钟的合金、金相、几何结构、发声机制和频率，再制作复制件。我们可以欣赏古人把铸造与听觉组织起来的能力，却不能把今天舞台上的复制钟声音当成未经变化的战国原声。",
+          "refs": [
+            "bell",
+            "bell-research",
+            "bell-replica-research",
+            "bell-orchestra"
+          ]
+        },
+        {
+          "title": "铭文让音乐变成可研究的问题",
+          "text": "馆方统计钟、钟架和钩共有三千七百五十五字，内容涉及编号、记事、标音与乐律理论。它们把可见的钟组和可测的音高连在一起，使研究者能追问一套乐器如何命名音、排列音，而非只说“古人音乐很厉害”。湖北省博物馆的研究综述还讨论这套音乐文化的属性，呈现周、楚及融合等不同解释；解释仍须放回曾国墓葬与铭文语境，不把一套编钟简单贴成某一单一来源。走向击鼓说唱俑时，比较的正是文字与声音证据是否仍然存在。",
+          "refs": [
+            "bell",
+            "bell-research"
+          ]
+        },
+        {
+          "title": "从墓坑治水、原钟检测到复制演奏",
+          "text": "湖北省博物馆文保回顾称1979年牵头多单位复制研究、1982年复制成功；编钟乐团大事记记1983年1月复制成功、1984年9月通过专家测试验收；45周年文献展又以1984年概括复制成功。三种馆方口径可能对应试制、整套完成或验收等不同阶段，但没有逐项档案就不替它们归并为一个无争议日期。同一文保回顾还记20世纪90年代中后期，曾侯乙墓墓坑原址保护通过治理水患，为后续木椁保护工程创造条件；保护墓坑与木椁，是保存出土语境，不是修复六十五件编钟。文献展展示155件（套）发掘、测音与复制档案，乐团大事记则记1987年演奏组成立。今天馆方乐团以复制件为演奏核心：原钟、检测数据、复制钟与当代曲目必须分别说明，不能把复制成功说成原件被修复，更不能把现代改编称为曾侯乙亲闻的原曲。国家档案局公开的馆方申报材料写全套六十五件乐器、钟架及附件已做3D扫描，并列馆藏登记号5.188；申报方还称原钟及铭文保存良好、现置于恒温恒湿展厅，同时指出湿度过高会带来锈蚀、铭文受损和音色变化的风险。这是当代预防性保护的申报陈述，不是每件钟的实测长期曲线，更不是逐件修复日志；数字记录也不自动赋予本站使用许可。正式《曾侯乙墓》书目只能证明报告存在，未读其全文；2026年声学样本库仍处论证阶段，不写成已完成成果。",
+          "refs": [
+            "bell-replica-research",
+            "bell-orchestra-timeline",
+            "bell-archive-exhibit",
+            "bell-orchestra",
+            "bell-memory-register",
+            "bell-digital",
+            "zeng-report"
+          ]
+        }
+      ],
+      "details": [
+        {
+          "title": "十九、四十五与一",
+          "text": "十九件钮钟、四十五件甬钟加一件镈钟构成六十五件；中室还有编磬等乐器，单看钟架不是整座墓的音乐全貌。",
+          "refs": [
+            "bell",
+            "bell-chambers"
+          ]
+        },
+        {
+          "title": "双音与测音",
+          "text": "同一件钟敲击不同位置可得两个音高，不是同时自动发出两音；现代复制研究做过形制和频率检测。钟上音名、今天实测与舞台复制件的声音是三种不同证据，不可当作古代录音。",
+          "refs": [
+            "bell",
+            "bell-research",
+            "bell-replica-research"
+          ]
+        },
+        {
+          "title": "三千七百五十五字",
+          "text": "字在钟、架与钩上，涉及编号、标音和乐律；不把铭文都说成某一人的传记。",
+          "refs": [
+            "bell"
+          ]
+        },
+        {
+          "title": "数字记录不是原钟修复",
+          "text": "馆方申报材料记全套六十五件、钟架及附件已有3D扫描，2026年声学样本库仍是研究计划。扫描记录、拟建声音资料、复制件演奏与原钟修复是四件不同的事。",
+          "refs": [
+            "bell-memory-register",
+            "bell-digital"
+          ]
+        },
+        {
+          "title": "从随县汇报到原件赴京",
+          "text": "馆方档案展记1978年7月1日随县首次出土文物汇报展、8月1日首场编钟音乐会、10月1日湖北馆首次正式对外展；1979年9月20日原钟首次赴京。音乐会的具体用钟配置未由这页逐件说明，不能把展览日期等同于六十五件原钟的修复或演奏日志。",
+          "refs": [
+            "bell-archive-exhibit"
+          ]
+        },
+        {
+          "title": "原钟录音与复制钟演奏",
+          "text": "国家档案局公开的馆方申报材料检索文字列1986年3月曾以原钟录制《千古绝响——曾侯乙编钟之声》。这是一次现代录音的历史记录；今天舞台上的复制钟演奏、战国曲目和该录音三者仍要分开。本站未核可播放版本和录音授权。",
+          "refs": [
+            "bell-1986-recording",
+            "bell-orchestra"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "在馆里听到编钟乐团演奏，能说一定是六十五件原钟正在发声吗？",
+        "answer": "不能。馆方说明乐团以复制件演奏为核心；原钟的检测、复制件的表演和当代曲目应分别标明。",
+        "refs": [
+          "bell-orchestra",
+          "bell-replica-research"
+        ]
+      },
+      "uncertainty": "未核读《曾侯乙墓》报告全文和原钟逐件修复日志；馆方对复制成果出现1982、1983与1984年不同阶段用语，除大事记明载1984年验收外，其余对应关系仍待核。周楚音乐文化属性仍有研究讨论；不沿用“只奏响三次”，也不把复制演出标成原件录音。",
+      "correction": "补入鼓部不同敲击位置与铭文、1983年复制及1984年验收的馆方记录；保留1982年口径差异，把复制、现代演奏及未来声学项目同原件保护分开。",
+      "related": [
+        {
+          "id": "gb-jgs",
+          "reason": "编钟能测出音高，说唱俑只能摆出姿势：一个回答声音，一个回答表演。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "sxl-lt",
+          "reason": "曾侯乙中室的编钟得和同室乐器一起听，唐三彩骆驼上的八个人被安排在同一块平台上：一个是墓葬组合，一个是艺术构图。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "hb-sjfa",
+          "reason": "曾侯乙编钟靠成组铸造与标音，中山王墓方案座靠多构件承托：两件都能上手研究，年代与地域却隔得很远。",
+          "type": "curatorial-comparison"
+        }
+      ]
     },
     {
-      "id":"gb-jgs","hook":"没有声音，为什么仍能感觉他正在逗人发笑？","summary":"中国国家博物馆藏东汉击鼓说唱俑，以抱鼓、举槌和夸张的表情动作表现俳优。它帮助我们认识汉代的表演形象与社会生活，但不能据此还原一场具体演出的台词，或认定所有现代曲艺都由它直接演变。","summaryRefs":["drum"],
-      "sections":[
-        {"title":"先读动作，不急着背名称","text":"试着不用“生动”这个词来形容他：一只手臂抱鼓，另一只手举起鼓槌，嘴张开，表情夸张。国博的说明把这件东汉陶俑与俳优的说唱形象联系起来。你并没有听见他的声音，却可以从动作理解“正在表演”的意思，这是造型的表达能力。","refs":["drum"]},
-        {"title":"笑声背后还有社会背景","text":"俳优是一类古代表演者。馆方资料介绍了诙谐、调侃的表演方式，也提到皇室贵族和富豪蓄养俳优的社会现象。因此，不能看到一张笑脸就断定艺人的生活始终快乐。艺术呈现给我们的，是被塑造的一种形象，而不是完整的人生档案。","refs":["drum"]},
-        {"title":"出土地提供背景，却没有留下台词","text":"国博专题目录记录，这件高五十六厘米的陶俑1957年出土于四川成都天回山，性质为明器。出土地点和文物类别把它放回汉墓语境，却没有告诉我们俑中人具体说了什么、唱了哪一首，也没有给出完整墓号和发掘过程。和家人替他写一句开场白可以成为今天的创作，但必须标明是想象；陶俑不是一位真实艺人的姓名档案。","refs":["drum","drum-discovery"]},
-        {"title":"从古籍里的俳优，到今天的舞台","text":"先读两种不同材料：《史记·滑稽列传》写淳于髡、优孟等以谈笑讽谏的人物，《盐铁论·散不足》则属于汉代政论中的社会风俗议题；国博专题还把俳优形象与画像石、陶楼等材料并读。这些文本能帮助理解表演者与社会生活的背景，却不是这尊陶俑的剧本，也不能证明俑中人物就是某位史传人物。今天，国博与中国传媒大学曾以它为切入口创作舞台剧《盛世欢歌》。那是当代再创作，展示今天如何讲述表演史，不能反向当成汉代演出的复原录像。","refs":["shiji-huaji","yantielun-sb","drum-context","drum-modern"]}
+      "id": "gb-jgs",
+      "hook": "没有声音，为什么仍能感觉他正在逗人发笑？",
+      "summary": "中国国家博物馆藏东汉击鼓说唱俑，以抱鼓、举槌和夸张的表情动作表现俳优。它帮助我们认识汉代的表演形象与社会生活，但不能据此还原一场具体演出的台词，或认定所有现代曲艺都由它直接演变。",
+      "summaryRefs": [
+        "drum"
       ],
-      "details":[{"title":"鼓与槌","text":"两只手臂围绕表演道具安排，形成明确的动作关系。","refs":["drum"]},{"title":"夸张神态","text":"张口与表情帮助塑造幽默感；不据此推定真实艺人的性格。","refs":["drum"]},{"title":"俳优","text":"先理解古代身份与表演环境，不直接等同今天的某一职业。","refs":["drum"]}],
-      "reflection":{"question":"如果给他编一段台词，可以标成“汉代真实台词”吗？","answer":"不可以。陶俑没有提供这段文字。可以标成“我的想象”，并把观察到的形象与自己创作的情节分开。","refs":["drum"]},
-      "uncertainty":"不据笑容推断艺人的命运，不把现代舞台剧中的故事写成该陶俑对应人物的生平。","correction":"移除“中国曲艺史的形象起点”等单线起源暗示，加入艺术形象与历史事实的边界。",
-      "related":[{"id":"sxl-lt","reason":"编钟的音域与铭文让人研究声音系统，陕西馆这组驼背乐舞俑则让人观察群像、乐器姿态和舞台式构图；比较“声音如何留下证据”与“视觉如何组织表演”，不要把陶俑当录音，也不推断两种表演传统直接相承。","type":"curatorial-comparison"}]
+      "sections": [
+        {
+          "title": "先读动作，不急着背名称",
+          "text": "试着不用“生动”这个词来形容他：一只手臂抱鼓，另一只手举起鼓槌，嘴张开，表情夸张。国博的说明把这件东汉陶俑与俳优的说唱形象联系起来。你并没有听见他的声音，却可以从动作理解“正在表演”的意思，这是造型的表达能力。",
+          "refs": [
+            "drum"
+          ]
+        },
+        {
+          "title": "笑声背后还有社会背景",
+          "text": "俳优是一类古代表演者。馆方资料介绍了诙谐、调侃的表演方式，也提到皇室贵族和富豪蓄养俳优的社会现象。因此，不能看到一张笑脸就断定艺人的生活始终快乐。艺术呈现给我们的，是被塑造的一种形象，而不是完整的人生档案。",
+          "refs": [
+            "drum"
+          ]
+        },
+        {
+          "title": "出土地提供背景，却没有留下台词",
+          "text": "国博专题目录记录，这件高五十六厘米的陶俑1957年出土于四川成都天回山，性质为明器。出土地点和文物类别把它放回汉墓语境，却没有告诉我们俑中人具体说了什么、唱了哪一首，也没有给出完整墓号和发掘过程。和家人替他写一句开场白可以成为今天的创作，但必须标明是想象；陶俑不是一位真实艺人的姓名档案。",
+          "refs": [
+            "drum",
+            "drum-discovery"
+          ]
+        },
+        {
+          "title": "从古籍里的俳优，到今天的舞台",
+          "text": "先读两种不同材料：《史记·滑稽列传》写淳于髡、优孟等以谈笑讽谏的人物，《盐铁论·散不足》则属于汉代政论中的社会风俗议题；国博专题还把俳优形象与画像石、陶楼等材料并读。这些文本能帮助理解表演者与社会生活的背景，却不是这尊陶俑的剧本，也不能证明俑中人物就是某位史传人物。今天，国博与中国传媒大学曾以它为切入口创作舞台剧《盛世欢歌》。那是当代再创作，展示今天如何讲述表演史，不能反向当成汉代演出的复原录像。",
+          "refs": [
+            "shiji-huaji",
+            "yantielun-sb",
+            "drum-context",
+            "drum-modern"
+          ]
+        }
+      ],
+      "details": [
+        {
+          "title": "鼓与槌",
+          "text": "两只手臂围绕表演道具安排，形成明确的动作关系。",
+          "refs": [
+            "drum"
+          ]
+        },
+        {
+          "title": "夸张神态",
+          "text": "张口与表情帮助塑造幽默感；不据此推定真实艺人的性格。",
+          "refs": [
+            "drum"
+          ]
+        },
+        {
+          "title": "俳优",
+          "text": "先理解古代身份与表演环境，不直接等同今天的某一职业。",
+          "refs": [
+            "drum"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "如果给他编一段台词，可以标成“汉代真实台词”吗？",
+        "answer": "不可以。陶俑没有提供这段文字。可以标成“我的想象”，并把观察到的形象与自己创作的情节分开。",
+        "refs": [
+          "drum"
+        ]
+      },
+      "uncertainty": "不据笑容推断艺人的命运，不把现代舞台剧中的故事写成该陶俑对应人物的生平。",
+      "correction": "移除“中国曲艺史的形象起点”等单线起源暗示，加入艺术形象与历史事实的边界。",
+      "related": [
+        {
+          "id": "sxl-lt",
+          "reason": "编钟的音域与铭文让人研究声音系统，陕西馆这组驼背乐舞俑则让人观察群像、乐器姿态和舞台式构图；比较“声音如何留下证据”与“视觉如何组织表演”，不要把陶俑当录音，也不推断两种表演传统直接相承。",
+          "type": "curatorial-comparison"
+        }
+      ]
     },
     {
-      "id":"sxl-lt","hook":"骆驼背上，真的能放下一座舞台吗？","summary":"陕西历史博物馆这件唐三彩载乐骆驼俑，由一驼与八个人俑构成。馆方描述七名男乐手围坐，中间一名女子歌唱，并指出把舞台放到驼背上是浪漫的艺术处理。它不是实际巡演的现场照片。","summaryRefs":["camel"],
-      "sections":[
-        {"title":"先认准中堡村的这一件","text":"同题材骆驼载乐俑至少有两件容易混淆。国家文物局公布的第三批禁止出境展览文物名录，把陕西历史博物馆这件列为1959年西安中堡村唐墓出土；同一名录另列中国国家博物馆所藏1957年鲜于庭诲墓同题材件，名录该处写作“鲜于庭海”，国博馆方文章写作“鲜于庭诲”。《考古》1960年的中堡村清理简报网络转录进一步把发现时间记在1959年6月下旬：墓顶已有局部损坏，墓道因施工紧迫未发掘，淤泥冲动使部分器物离开原位，墓室南部记有一对马俑和一对骆驼俑。这告诉我们为什么不能把今天展厅中的载乐组合直接摆回一个想象中的精确墓位；转录并非原刊扫描，字词与图版尚待原刊核对。国博文章还构想了唐代作坊场景，那是今天的故事化写法，不能搬成陕西馆这件的制作实录。两件的墓葬、馆藏与图片都不能互换。陕历博目录说本页这组俑为一驼八人：七名男乐手围坐驼背平台，一名女子站在中间歌唱。旧图因馆藏错配已隔离，不能让错图代替眼前这件文物的身份。","refs":["camel","camel-discovery","camel-1960-excavation-transcript","camel-guobo"]},
-        {"title":"陶塑、釉色与还原工序的边界","text":"骆驼长颈昂起，立于长方形底座，背上的驮架与彩色毛毯托起人物群像；这些是陕西历史博物馆对成品的描述。陕历博副研究员万晓的正式文章进一步描述：这件载乐俑以白色驼体为主，颈、唇、眼与局部驼毛涂褐红色，椭圆毡垫上有架案，菱形织毯用赭黄、蓝、白釉组织纹理。请把这些当作研究者对器物的观察，不要把本站隔离旧图中的颜色当实物依据。同一文章介绍唐三彩通常先素烧、后施铅釉再烧；国博另一件三彩器也给出同类流程。这是类型背景，不是中堡村本件的胎釉检测或接合工单；窑温、哪些颜色后补、每个俑怎样固定都仍未知。","refs":["camel","camel-wan-study","sancai-process"]},
-        {"title":"把乐手当线索，不把塑像当录音","text":"陕历博逐件页写七名男乐手身着汉服、面朝外盘腿坐在平台边沿，手持馆方称为‘胡人所使’的不同乐器；女歌者立于中央。‘面朝外’和‘站在中间’让观众能辨认陶塑如何安排观看焦点，却不能凭这组形象认定每个人的族属、所奏曲名或墓主人是否看过这样的演出。馆方把群像讲成‘流动演出团’，是便于公众进入作品的解释和传播语汇，不是墓中发现的演出合同；‘驼背真能坐八人’也不是陶塑应当回答的工程题。沿音乐游线与曾侯乙编钟对读，可比较可测音的青铜实物和不会发声的陶塑分别能回答什么问题。","refs":["camel"]},
-        {"title":"从考古发现到今日养护与展示","text":"正式名录将1959年中堡村出土的陕西馆藏件与1957年国博同题材件分列为两项，给今天的身份核对留下一把尺。陕历博逐件页把这件骆驼俑列入2018年改造后的‘陕西古代文明’长期陈列第三展厅。2025年10月19日该基本陈列因全馆设备更新暂停开放，馆方10月21日另开‘三秦华章’展，并明确把这件载乐俑列入350余件组展品；藏品保管、保护修复和展陈等部门共同完成这一批文物的遴选、撤陈、养护与布展。这能拼出两个公开展陈节点与一次展览调整，却不能写成此俑每一步运输、清洁、粘接或补釉的逐件履历。国博对另一件三彩器介绍的先素烧、施釉、复烧流程只作同类工艺背景，不是中堡村这件的胎釉检测记录；具体窑温、釉料配方、补配材料和修复史仍待逐件档案。","refs":["camel","camel-discovery","camel-2025-care","sancai-process"]}
+      "id": "sxl-lt",
+      "hook": "骆驼背上，真的能放下一座舞台吗？",
+      "summary": "陕西历史博物馆这件唐三彩载乐骆驼俑，由一驼与八个人俑构成。馆方描述七名男乐手围坐，中间一名女子歌唱，并指出把舞台放到驼背上是浪漫的艺术处理。它不是实际巡演的现场照片。",
+      "summaryRefs": [
+        "camel"
       ],
-      "details":[{"title":"一驼与八人","text":"七男乐手围坐、一名女歌者站立，数目来自陕历博藏品文字，不从隔离旧图清点。","refs":["camel"]},{"title":"驼背平台与菱形织毯","text":"驮架、毡垫、赭黄蓝白釉织毯与人物形成艺术化舞台，不是工程设计图或实际巡演照片。","refs":["camel","camel-wan-study"]},{"title":"乐手位置与听不到的曲子","text":"《考古》1960年清理简报的网络转录将七名乐手按前、右、左、后的位置描述，并把中央一人写作歌舞俑；陕历博逐件页也确认七人围坐、一人站中间。转录有明显OCR疑字，乐器逐名和出土原位还待原刊图版校勘；更不能从陶塑听出曲目。","refs":["camel-1960-excavation-transcript","camel"]},{"title":"同题材不等于同一件","text":"陕历博藏载乐俑记为1959年西安中堡村唐墓出土；国博还有1957年鲜于庭诲墓出土的同题材件。发现地、馆藏和图片不能互换。","refs":["camel","camel-discovery"]},{"title":"今天的丝路课堂","text":"陕历博记2024年暑期课程引导孩子在展厅找这件载乐俑，再做讨论和手工。课堂让人提问唐代交流，却不能把现代课程内容或手作当作唐代乐队路线、曲目或本件修复记录。","refs":["camel-education-2024","camel"]}],
-      "reflection":{"question":"艺术作品表现了多人在驼背演奏，是否证明他们真的这样巡回旅行？","answer":"不能仅凭这一件艺术形象下结论。还需要其他文献和考古材料。它首先证明艺术家选择了这样的表达方式。","refs":["camel"]},
-      "uncertainty":"中堡村《考古》1960年清理简报核到网络转录全文而非原刊扫描，转录存在OCR疑字；原刊图版、单件精确位置、窑温与釉料检测及逐次修复日志未核。2025年部门级养护报道没有逐件措施。旧图继续隔离，不凭衣着判定个人族属，也不把中堡村另一件载物骆驼或1957年国博同题材件混入。","correction":"明确1959年陕历博载乐件、同村载物件与1957年国博藏品的身份差异；补出土墓室受损及淤泥扰动的转录证据而不假造单件原位，把‘巡回乐团’标为馆方解释，把制作常识与2025年部门级养护记录都限制在证据可及范围。",
-      "related":[{"id":"gg-qmsh","reason":"三彩群像让七人面朝外、一人居中，长卷则让桥河、街市随展开次序出现；比较立体群像和手卷如何引导视线。两者都经过艺术组织，不是现场摄影，也不证明彼此影响。","type":"curatorial-comparison"},{"id":"hub-zhy","reason":"先问两种音乐证据能否回答同一个问题：驼背群像留下乐手朝向与乐器造型，但墓室有淤泥扰动；曾侯乙编钟有成套钟体、标音文字与现代测音。比较曲名、音高和原位各有多少把握，不把唐乐说成曾国音乐的直接后代。","type":"curatorial-comparison"},{"id":"lb-gf","reason":"比较唐三彩驼背群像与宋摹唐代游春图：两者都以盛唐人物组织画面，但一件来自墓葬陶塑、一件是后世摹画，不能把图像相近说成同一场真实活动。","type":"curatorial-comparison"}]
+      "sections": [
+        {
+          "title": "先认准中堡村的这一件",
+          "text": "同题材骆驼载乐俑至少有两件容易混淆。国家文物局公布的第三批禁止出境展览文物名录，把陕西历史博物馆这件列为1959年西安中堡村唐墓出土；同一名录另列中国国家博物馆所藏1957年鲜于庭诲墓同题材件，名录该处写作“鲜于庭海”，国博馆方文章写作“鲜于庭诲”。《考古》1960年的中堡村清理简报网络转录进一步把发现时间记在1959年6月下旬：墓顶已有局部损坏，墓道因施工紧迫未发掘，淤泥冲动使部分器物离开原位，墓室南部记有一对马俑和一对骆驼俑。这告诉我们为什么不能把今天展厅中的载乐组合直接摆回一个想象中的精确墓位；转录并非原刊扫描，字词与图版尚待原刊核对。国博文章还构想了唐代作坊场景，那是今天的故事化写法，不能搬成陕西馆这件的制作实录。两件的墓葬、馆藏与图片都不能互换。陕历博目录说本页这组俑为一驼八人：七名男乐手围坐驼背平台，一名女子站在中间歌唱。旧图因馆藏错配已隔离，不能让错图代替眼前这件文物的身份。",
+          "refs": [
+            "camel",
+            "camel-discovery",
+            "camel-1960-excavation-transcript",
+            "camel-guobo"
+          ]
+        },
+        {
+          "title": "陶塑、釉色与还原工序的边界",
+          "text": "骆驼长颈昂起，立于长方形底座，背上的驮架与彩色毛毯托起人物群像；这些是陕西历史博物馆对成品的描述。陕历博副研究员万晓的正式文章进一步描述：这件载乐俑以白色驼体为主，颈、唇、眼与局部驼毛涂褐红色，椭圆毡垫上有架案，菱形织毯用赭黄、蓝、白釉组织纹理。请把这些当作研究者对器物的观察，不要把本站隔离旧图中的颜色当实物依据。同一文章介绍唐三彩通常先素烧、后施铅釉再烧；国博另一件三彩器也给出同类流程。这是类型背景，不是中堡村本件的胎釉检测或接合工单；窑温、哪些颜色后补、每个俑怎样固定都仍未知。",
+          "refs": [
+            "camel",
+            "camel-wan-study",
+            "sancai-process"
+          ]
+        },
+        {
+          "title": "把乐手当线索，不把塑像当录音",
+          "text": "陕历博逐件页写七名男乐手身着汉服、面朝外盘腿坐在平台边沿，手持馆方称为‘胡人所使’的不同乐器；女歌者立于中央。‘面朝外’和‘站在中间’让观众能辨认陶塑如何安排观看焦点，却不能凭这组形象认定每个人的族属、所奏曲名或墓主人是否看过这样的演出。馆方把群像讲成‘流动演出团’，是便于公众进入作品的解释和传播语汇，不是墓中发现的演出合同；‘驼背真能坐八人’也不是陶塑应当回答的工程题。沿音乐游线与曾侯乙编钟对读，可比较可测音的青铜实物和不会发声的陶塑分别能回答什么问题。",
+          "refs": [
+            "camel"
+          ]
+        },
+        {
+          "title": "从考古发现到今日养护与展示",
+          "text": "正式名录将1959年中堡村出土的陕西馆藏件与1957年国博同题材件分列为两项，给今天的身份核对留下一把尺。陕历博逐件页把这件骆驼俑列入2018年改造后的‘陕西古代文明’长期陈列第三展厅。2025年10月19日该基本陈列因全馆设备更新暂停开放，馆方10月21日另开‘三秦华章’展，并明确把这件载乐俑列入350余件组展品；藏品保管、保护修复和展陈等部门共同完成这一批文物的遴选、撤陈、养护与布展。这能拼出两个公开展陈节点与一次展览调整，却不能写成此俑每一步运输、清洁、粘接或补釉的逐件履历。国博对另一件三彩器介绍的先素烧、施釉、复烧流程只作同类工艺背景，不是中堡村这件的胎釉检测记录；具体窑温、釉料配方、补配材料和修复史仍待逐件档案。",
+          "refs": [
+            "camel",
+            "camel-discovery",
+            "camel-2025-care",
+            "sancai-process"
+          ]
+        }
+      ],
+      "details": [
+        {
+          "title": "一驼与八人",
+          "text": "七男乐手围坐、一名女歌者站立，数目来自陕历博藏品文字，不从隔离旧图清点。",
+          "refs": [
+            "camel"
+          ]
+        },
+        {
+          "title": "驼背平台与菱形织毯",
+          "text": "驮架、毡垫、赭黄蓝白釉织毯与人物形成艺术化舞台，不是工程设计图或实际巡演照片。",
+          "refs": [
+            "camel",
+            "camel-wan-study"
+          ]
+        },
+        {
+          "title": "乐手位置与听不到的曲子",
+          "text": "《考古》1960年清理简报的网络转录将七名乐手按前、右、左、后的位置描述，并把中央一人写作歌舞俑；陕历博逐件页也确认七人围坐、一人站中间。转录有明显OCR疑字，乐器逐名和出土原位还待原刊图版校勘；更不能从陶塑听出曲目。",
+          "refs": [
+            "camel-1960-excavation-transcript",
+            "camel"
+          ]
+        },
+        {
+          "title": "同题材不等于同一件",
+          "text": "陕历博藏载乐俑记为1959年西安中堡村唐墓出土；国博还有1957年鲜于庭诲墓出土的同题材件。发现地、馆藏和图片不能互换。",
+          "refs": [
+            "camel",
+            "camel-discovery"
+          ]
+        },
+        {
+          "title": "今天的丝路课堂",
+          "text": "陕历博记2024年暑期课程引导孩子在展厅找这件载乐俑，再做讨论和手工。课堂让人提问唐代交流，却不能把现代课程内容或手作当作唐代乐队路线、曲目或本件修复记录。",
+          "refs": [
+            "camel-education-2024",
+            "camel"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "艺术作品表现了多人在驼背演奏，是否证明他们真的这样巡回旅行？",
+        "answer": "不能仅凭这一件艺术形象下结论。还需要其他文献和考古材料。它首先证明艺术家选择了这样的表达方式。",
+        "refs": [
+          "camel"
+        ]
+      },
+      "uncertainty": "中堡村《考古》1960年清理简报核到网络转录全文而非原刊扫描，转录存在OCR疑字；原刊图版、单件精确位置、窑温与釉料检测及逐次修复日志未核。2025年部门级养护报道没有逐件措施。旧图继续隔离，不凭衣着判定个人族属，也不把中堡村另一件载物骆驼或1957年国博同题材件混入。",
+      "correction": "明确1959年陕历博载乐件、同村载物件与1957年国博藏品的身份差异；补出土墓室受损及淤泥扰动的转录证据而不假造单件原位，把‘巡回乐团’标为馆方解释，把制作常识与2025年部门级养护记录都限制在证据可及范围。",
+      "related": [
+        {
+          "id": "gg-qmsh",
+          "reason": "三彩群像让七人朝外、一人居中，长卷让桥河街市随展开次第出现：一个立体，一个手卷，都在安排你看的顺序。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "hub-zhy",
+          "reason": "驼背上的乐手留下朝向与乐器形状，曾侯乙编钟留下成套钟体、标音与测音数据——两边能回答的问题并不相同。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "lb-gf",
+          "reason": "盛唐的人物，一边在墓里烧成陶塑，一边被后人摹进画卷：同样热闹，来路不同。",
+          "type": "curatorial-comparison"
+        }
+      ]
     },
     {
-      "id":"gg-pft","hook":"一封关心朋友的短信，为什么会被保存这么久？","summary":"《平复帖》是西晋陆机的草隶书手札。故宫馆藏说明记为9行86字，涉及友人的病况、举止与消息。它既是重要书法遗存，也是了解古人日常关切的一扇窗；张伯驹、潘素夫妇于1956年将其捐献国家。","summaryRefs":["pf"],
-      "sections":[
-        {"title":"病中的“彦先”，是谁","text":"《平复帖》开头关心“彦先”的疾病，后文还谈吴子杨、夏伯荣等人的举止与音讯。故宫展览解说指出“恐难平复”四字是今天帖名的来由；帖名可以帮助我们记住这份关心，却不等于陆机在信纸上写下作品标题。故宫藏品页依据启功释文把“彦先”解释为贺循；刊于故宫的研究札记则提醒，顾荣、贺循等人同用“彦先”之字，身份和由此推及的作者问题仍有讨论。可以把“信中有人病了”当文本线索，把“他一定就是贺循”当一种研究释读，而非信纸自报全名。亲子读者不妨问：一封短札怎样留下关心，又怎样留下不能确定的人名？","refs":["pf","pf-rest-display","pf-identity-debate"]},
-        {"title":"九行字为什么仍需谨慎释读","text":"故宫馆藏页记草隶九行八十六字，指出它以秃笔写在麻纸上，并采用启功释文。书体、纸张与现存笔画是研究书法和文字变迁的材料；我们却没有陆机关于纸料配方、造纸地、制笔或书写准备的工作笔记。《故宫学刊》研究用《平复帖》较灰暗的墨色讨论书画目鉴，作者认为年代久远和当时制墨水平都可能相关，并提醒材料、印章、装潢只是鉴定的辅助证据。这是研究者的比较判断，不是该帖墨锭成分的实验报告，更不能由屏幕图像自行测出配方。2018年故宫专题展的简介又采用九行八十四字的口径，提示字数统计与释读并非所有出版物一致。本页保留馆藏页的八十六字，同时在资料层标明差异，不凭AI图认字，也不把一种现代释文伪装成原纸上每个字都清晰无疑。","refs":["pf","pf-material-study","pf-rest-display"]},
-        {"title":"尾纸题跋如何让传世过程可追问","text":"这不是考古出土品，没有某年某墓的‘发现现场’。故宫馆藏页依据董其昌、溥伟、傅增湘、赵椿年等尾纸题跋及旧著录梳理递藏，从宋内府到明清收藏，再到张伯驹购得。故宫讲坛研究人员还把其中一段放回寿康宫：此帖曾作为崇庆皇太后的遗念赏赐皇孙永瑆；馆藏页也记乾隆内府后转归成亲王永瑆。讲坛是今天对宫廷收藏的研究解说，不是公开的赏赐原档；寿康宫是传藏线索，不能把它想象成陆机书信的写作地点。题跋是后世加在作品周边的证据，不是陆机写信时就有的内容；各段递藏也未必能逐日排成无缺年表。1956年张伯驹、潘素夫妇将《平复帖》等八件法书无偿捐献国家；故宫院史编年另记当年接收文物局拨交的十四件珍贵书画，其中包括这八件。捐献与入藏是不同环节。","refs":["pf","pf-shoukang-lecture","pf-donation","pf-1956-accession"]},
-        {"title":"装潢线索、修裱转引与休眠展陈","text":"故宫2022年专题图录说明卷前有宋徽宗瘦金书题签，并保存宣和装形式；题签、装潢与西晋原信纸属于不同层次，不能把卷首题签当陆机亲写。《西泠艺丛》论文转引故宫文保档案WB-00178，称1947年修复采用仿宋宣和式单裱、浙江棉纸单层托裱；本站只核到论文检索片段，未读档案原件或论文全文，也未核宣和装形式与1947年处理之间每一层材料的先后关系，不应把术语写成已验证的完整工单。故宫正式刊物的可检索正文又将《平复帖》列入1960年11月至1963年12月间的照相复制作品；这是复制传播的时间区间，不是本帖确切复制日，更不是原帖修复日期。2018年故宫在张伯驹捐献书画展中因原件处于保护休眠期，改用复制品展出；故宫较新的捐献主题展列表同样明确在《平复帖》展签后写“复制品”。展出复制件是保护与传播的选择，不代表原帖遗失或内容被改写；今天的数字观看也不能替代纸张状态检查。故宫1956年接收记录可核公共入藏，具体每一次保护处理仍待逐件档案。","refs":["pf-2022-catalogue","pf-conservation-study","pf-photo-reproduction","pf-rest-display","pf-donation-exhibit-replica","pf-1956-accession"]}
+      "id": "gg-pft",
+      "hook": "一封关心朋友的短信，为什么会被保存这么久？",
+      "summary": "《平复帖》是西晋陆机的草隶书手札。故宫馆藏说明记为9行86字，涉及友人的病况、举止与消息。它既是重要书法遗存，也是了解古人日常关切的一扇窗；张伯驹、潘素夫妇于1956年将其捐献国家。",
+      "summaryRefs": [
+        "pf"
       ],
-      "details":[{"title":"彦先是谁","text":"馆藏页随启功释文指向贺循；故宫研究还讨论顾荣、全彦先等识别。‘彦先’不是纸上写明的全名，身份与作者讨论也不能靠猜一个字来终结。","refs":["pf","pf-identity-debate"]},{"title":"84与86字","text":"本页采用故宫馆藏页86字，2018年故宫展讯用84字；口径不同应并列说明，不擅自抹去。","refs":["pf","pf-rest-display"]},{"title":"复制品展出","text":"2018年因原件保护休眠期展示复制品；复制品不应标作原帖，也不是原件修复记录。","refs":["pf-rest-display"]},{"title":"尾纸不是西晋信纸","text":"故宫逐件页说明，尾纸位于后隔水之后，既增大手卷轴心以保护画心，也容纳后人题跋；宋徽宗题签和宣和装潢又属后世传藏层。1947年单裱细节仅见研究转引，原档未核，不能拼成完整修裱履历。","refs":["pf","pf-2022-catalogue","pf-conservation-study"]},{"title":"三种‘保存’不是一回事","text":"1947年单裱只见研究转引档案，1960—1963年照相复制只知项目时段，2018年复制品出展则有故宫展讯；修裱、拍摄与以复制件代展是三个不同动作，均不能由本站AI图判读纸张现状。","refs":["pf-conservation-study","pf-photo-reproduction","pf-rest-display"]},{"title":"作者讨论不是改定结论","text":"故宫一篇讨论另一件章草《出师颂》的文章，提及有人据《平复帖》文字与陆机时代背景的关系质疑传统归属。这证明学界有争论，并不提供《平复帖》改定作者的决定性证据；本站仍依故宫登记标作陆机，提醒读者把馆藏定名和研究异说分开。","refs":["pf","pf-authorship-context","pf-identity-debate"]}],
-      "reflection":{"question":"两份故宫资料分别记84字和86字，应该把其中一份悄悄删掉吗？","answer":"不应。先标明出处和计数口径，再看可靠释文；资料不完全一致本身就是继续研究的线索。","refs":["pf","pf-rest-display"]},
-      "uncertainty":"‘彦先’身份与陆机归属在研究中存在讨论，本页沿用故宫馆藏登记而不宣称争论结束；馆藏页86字与2018展讯84字不同。墨色比较只是目鉴研究，不是材料成分检测。1947年修复细节仅见论文检索片段转引档案，未见论文及档案全文；不照AI图认字。","correction":"不再把贺循身份写成信纸直接明示；将84与86字口径并列，把墨色判断标为研究解释，区分1956年捐献与故宫接收、1947年文献转引及2018年复制展示。",
-      "related":[{"id":"sh-syt","reason":"《平复帖》是故宫登记的西晋传世纸本，卷首宋代题签属后加装潢；《丧乱帖》现存为唐人摹写。比较原信、题签和摹本各自保存了什么，不只按作者名气给材料排真假。","type":"curatorial-comparison"},{"id":"jl-efj","reason":"《平复帖》是关切友人的短札，《洞庭春色赋》卷则合写二赋；先分别找书写年代、文本写作年代和今天保存的纸面，再比较不同文本如何记录人生，不把内容误作完整生平。","type":"curatorial-comparison"},{"id":"sh-dkd","reason":"把《平复帖》的题跋、1956年公共入藏，与大克鼎的出土年代重估及潘达于1951年捐赠对照：比较传世书札和出土青铜器的发现方式、递藏证据与保护需求，不假定收藏者相识。","type":"curatorial-comparison"},{"id":"lb-gf","reason":"比较西晋传世书札的后加题签和宋摹唐代绘画的多层摹本：两者都要求区分作者时代、现存材料与后世展示，不因此推断两件作品的传藏有交集。","type":"curatorial-comparison"}]
+      "sections": [
+        {
+          "title": "病中的“彦先”，是谁",
+          "text": "《平复帖》开头关心“彦先”的疾病，后文还谈吴子杨、夏伯荣等人的举止与音讯。故宫展览解说指出“恐难平复”四字是今天帖名的来由；帖名可以帮助我们记住这份关心，却不等于陆机在信纸上写下作品标题。故宫藏品页依据启功释文把“彦先”解释为贺循；刊于故宫的研究札记则提醒，顾荣、贺循等人同用“彦先”之字，身份和由此推及的作者问题仍有讨论。可以把“信中有人病了”当文本线索，把“他一定就是贺循”当一种研究释读，而非信纸自报全名。亲子读者不妨问：一封短札怎样留下关心，又怎样留下不能确定的人名？",
+          "refs": [
+            "pf",
+            "pf-rest-display",
+            "pf-identity-debate"
+          ]
+        },
+        {
+          "title": "九行字为什么仍需谨慎释读",
+          "text": "故宫馆藏页记草隶九行八十六字，指出它以秃笔写在麻纸上，并采用启功释文。书体、纸张与现存笔画是研究书法和文字变迁的材料；我们却没有陆机关于纸料配方、造纸地、制笔或书写准备的工作笔记。《故宫学刊》研究用《平复帖》较灰暗的墨色讨论书画目鉴，作者认为年代久远和当时制墨水平都可能相关，并提醒材料、印章、装潢只是鉴定的辅助证据。这是研究者的比较判断，不是该帖墨锭成分的实验报告，更不能由屏幕图像自行测出配方。2018年故宫专题展的简介又采用九行八十四字的口径，提示字数统计与释读并非所有出版物一致。本页保留馆藏页的八十六字，同时在资料层标明差异，不凭AI图认字，也不把一种现代释文伪装成原纸上每个字都清晰无疑。",
+          "refs": [
+            "pf",
+            "pf-material-study",
+            "pf-rest-display"
+          ]
+        },
+        {
+          "title": "尾纸题跋如何让传世过程可追问",
+          "text": "这不是考古出土品，没有某年某墓的‘发现现场’。故宫馆藏页依据董其昌、溥伟、傅增湘、赵椿年等尾纸题跋及旧著录梳理递藏，从宋内府到明清收藏，再到张伯驹购得。故宫讲坛研究人员还把其中一段放回寿康宫：此帖曾作为崇庆皇太后的遗念赏赐皇孙永瑆；馆藏页也记乾隆内府后转归成亲王永瑆。讲坛是今天对宫廷收藏的研究解说，不是公开的赏赐原档；寿康宫是传藏线索，不能把它想象成陆机书信的写作地点。题跋是后世加在作品周边的证据，不是陆机写信时就有的内容；各段递藏也未必能逐日排成无缺年表。1956年张伯驹、潘素夫妇将《平复帖》等八件法书无偿捐献国家；故宫院史编年另记当年接收文物局拨交的十四件珍贵书画，其中包括这八件。捐献与入藏是不同环节。",
+          "refs": [
+            "pf",
+            "pf-shoukang-lecture",
+            "pf-donation",
+            "pf-1956-accession"
+          ]
+        },
+        {
+          "title": "装潢线索、修裱转引与休眠展陈",
+          "text": "故宫2022年专题图录说明卷前有宋徽宗瘦金书题签，并保存宣和装形式；题签、装潢与西晋原信纸属于不同层次，不能把卷首题签当陆机亲写。《西泠艺丛》论文转引故宫文保档案WB-00178，称1947年修复采用仿宋宣和式单裱、浙江棉纸单层托裱；本站只核到论文检索片段，未读档案原件或论文全文，也未核宣和装形式与1947年处理之间每一层材料的先后关系，不应把术语写成已验证的完整工单。故宫正式刊物的可检索正文又将《平复帖》列入1960年11月至1963年12月间的照相复制作品；这是复制传播的时间区间，不是本帖确切复制日，更不是原帖修复日期。2018年故宫在张伯驹捐献书画展中因原件处于保护休眠期，改用复制品展出；故宫较新的捐献主题展列表同样明确在《平复帖》展签后写“复制品”。展出复制件是保护与传播的选择，不代表原帖遗失或内容被改写；今天的数字观看也不能替代纸张状态检查。故宫1956年接收记录可核公共入藏，具体每一次保护处理仍待逐件档案。",
+          "refs": [
+            "pf-2022-catalogue",
+            "pf-conservation-study",
+            "pf-photo-reproduction",
+            "pf-rest-display",
+            "pf-donation-exhibit-replica",
+            "pf-1956-accession"
+          ]
+        }
+      ],
+      "details": [
+        {
+          "title": "彦先是谁",
+          "text": "馆藏页随启功释文指向贺循；故宫研究还讨论顾荣、全彦先等识别。‘彦先’不是纸上写明的全名，身份与作者讨论也不能靠猜一个字来终结。",
+          "refs": [
+            "pf",
+            "pf-identity-debate"
+          ]
+        },
+        {
+          "title": "84与86字",
+          "text": "本页采用故宫馆藏页86字，2018年故宫展讯用84字；口径不同应并列说明，不擅自抹去。",
+          "refs": [
+            "pf",
+            "pf-rest-display"
+          ]
+        },
+        {
+          "title": "复制品展出",
+          "text": "2018年因原件保护休眠期展示复制品；复制品不应标作原帖，也不是原件修复记录。",
+          "refs": [
+            "pf-rest-display"
+          ]
+        },
+        {
+          "title": "尾纸不是西晋信纸",
+          "text": "故宫逐件页说明，尾纸位于后隔水之后，既增大手卷轴心以保护画心，也容纳后人题跋；宋徽宗题签和宣和装潢又属后世传藏层。1947年单裱细节仅见研究转引，原档未核，不能拼成完整修裱履历。",
+          "refs": [
+            "pf",
+            "pf-2022-catalogue",
+            "pf-conservation-study"
+          ]
+        },
+        {
+          "title": "三种‘保存’不是一回事",
+          "text": "1947年单裱只见研究转引档案，1960—1963年照相复制只知项目时段，2018年复制品出展则有故宫展讯；修裱、拍摄与以复制件代展是三个不同动作，均不能由本站AI图判读纸张现状。",
+          "refs": [
+            "pf-conservation-study",
+            "pf-photo-reproduction",
+            "pf-rest-display"
+          ]
+        },
+        {
+          "title": "作者讨论不是改定结论",
+          "text": "故宫一篇讨论另一件章草《出师颂》的文章，提及有人据《平复帖》文字与陆机时代背景的关系质疑传统归属。这证明学界有争论，并不提供《平复帖》改定作者的决定性证据；本站仍依故宫登记标作陆机，提醒读者把馆藏定名和研究异说分开。",
+          "refs": [
+            "pf",
+            "pf-authorship-context",
+            "pf-identity-debate"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "两份故宫资料分别记84字和86字，应该把其中一份悄悄删掉吗？",
+        "answer": "不应。先标明出处和计数口径，再看可靠释文；资料不完全一致本身就是继续研究的线索。",
+        "refs": [
+          "pf",
+          "pf-rest-display"
+        ]
+      },
+      "uncertainty": "‘彦先’身份与陆机归属在研究中存在讨论，本页沿用故宫馆藏登记而不宣称争论结束；馆藏页86字与2018展讯84字不同。墨色比较只是目鉴研究，不是材料成分检测。1947年修复细节仅见论文检索片段转引档案，未见论文及档案全文；不照AI图认字。",
+      "correction": "不再把贺循身份写成信纸直接明示；将84与86字口径并列，把墨色判断标为研究解释，区分1956年捐献与故宫接收、1947年文献转引及2018年复制展示。",
+      "related": [
+        {
+          "id": "sh-syt",
+          "reason": "《平复帖》是故宫登记的西晋传世纸本，卷首宋代题签属后加装潢；《丧乱帖》现存为唐人摹写。比较原信、题签和摹本各自保存了什么，不只按作者名气给材料排真假。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "jl-efj",
+          "reason": "《平复帖》是关切友人的短札，《洞庭春色赋》卷则合写二赋；先分别找书写年代、文本写作年代和今天保存的纸面，再比较不同文本如何记录人生，不把内容误作完整生平。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "sh-dkd",
+          "reason": "把《平复帖》的题跋、1956年公共入藏，与大克鼎的出土年代重估及潘达于1951年捐赠对照：比较传世书札和出土青铜器的发现方式、递藏证据与保护需求，不假定收藏者相识。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "lb-gf",
+          "reason": "比较西晋传世书札的后加题签和宋摹唐代绘画的多层摹本：两者都要求区分作者时代、现存材料与后世展示，不因此推断两件作品的传藏有交集。",
+          "type": "curatorial-comparison"
+        }
+      ]
     },
     {
-      "id":"gg-qmsh","hook":"如果你是画里的行人，会先去桥边，还是城门？","summary":"张择端《清明上河图》是北宋绢本淡设色长卷，横528厘米。画面从市郊进入汴河交通节点，再走向城内生活。它提供观察城市与人物活动的丰富线索，但不是一张现代测绘地图或某日生活的完整录像。","summaryRefs":["qm"],
-      "sections":[
-        {"title":"像行人一样进入画卷","text":"不必一开始就数清画里所有人物。故宫将这幅北宋长卷的内容分为市郊、以桥和河流为中心的中段，以及城内生活。可以先在心里选一个行走方向，看作者怎样逐步展开场景。你改变观看的位置，新的关系便会陆续出现。","refs":["qm"]},
-        {"title":"界画、细笔与长卷的观看节奏","text":"故宫把这件作品描述为绢本淡设色、兼工带写：桥梁、舟船和屋宇使用细致的界画笔法，树石水岸则见较为放开的用笔；全卷采用鸟瞰式全景组织，同时随着手卷展开，各段又能以近似平视的方式细看。可以据此观察画家如何调度不同技法和观看距离，但馆藏说明没有留下张择端逐步起稿、敷色的工作记录，所以不把今天的观察顺序写成实际作画工序。画面有写实的细节，不等于一幅按比例测绘的城市地图。","refs":["qm"]},
-        {"title":"1973年的修裱，也进入了作品历史","text":"故宫研究记录，画卷1953年重回故宫时已有破损，1973年重新修裱。修复者先用照片记录，补画接笔先制小样并经研究；文章还列出约四十七处换补、三十八处接笔。一次错误补画的“毛驴”也因缺乏依据被去除并留为空白。保护不是把旧画变成“像新的一样”，而是在证据、材料与可辨识边界之间作审慎决定。","refs":["qm-restoration"]},
-        {"title":"标题、城市与年代，哪些仍在讨论","text":"故宫研究文章把几个长期问题列得很清楚：所绘是否汴京、题名“清明”指向何种含义、画面季节如何判断、作品何时完成，以及不同传本的真伪关系。另有研究提醒，张择端“失位家居”等传记说法依赖较晚且传抄复杂的材料，不能轻率推成定论。另一方面，明清摹本及现代复制品让这一画题广泛传播，但桥材、船只和航线等细节与故宫藏本并不完全相同。把《东京梦华录》、摹本和原作并读，是提出问题的方法，不是拼成一段无争议的现场录像。","refs":["qm2","qm-research","qm-debates","qm-copies","dongjing-menghua"]}
+      "id": "gg-qmsh",
+      "hook": "如果你是画里的行人，会先去桥边，还是城门？",
+      "summary": "张择端《清明上河图》是北宋绢本淡设色长卷，横528厘米。画面从市郊进入汴河交通节点，再走向城内生活。它提供观察城市与人物活动的丰富线索，但不是一张现代测绘地图或某日生活的完整录像。",
+      "summaryRefs": [
+        "qm"
       ],
-      "details":[{"title":"长卷的三段","text":"市郊、桥河、城内，帮助组织一次有方向的阅读。","refs":["qm"]},{"title":"交通节点","text":"从桥与船的关系想城市活动，不据缩图推断精确尺寸。","refs":["qm"]},{"title":"鉴藏印","text":"后人留下的印记与原始画面不是同一层信息。","refs":["qm2"]}],
-      "reflection":{"question":"画中有很多真实生活细节，就能直接把它当作地图吗？","answer":"不能。它是经过组织的绘画。可以用来提出历史问题，但判断具体位置和比例，还需要其他资料相互印证。","refs":["qm"]},
-      "uncertainty":"人物精确数量、画题含义、作者生平和部分鉴藏印仍有研究分歧；修裱文章记录的是故宫研究者对1973年工作的回顾，不等于所有画面缺失都能复原。高清原件接入与图像授权仍按独立溯源记录处理。","correction":"在可核画面结构之外，补入1953年状态、1973年修裱、后世摹本差异与作者生平争议；把器物事实、研究推论和现代复制传播分层。",
-      "related":[{"id":"gg-qljs","reason":"同看北宋长卷：比较《清明上河图》用桥、河与人群推进城市叙事，《千里江山图》用山水段落和桥路连接游观空间；两卷并读是构图比较，不暗示作者交往或直接传承。","type":"curatorial-comparison"},{"id":"gg-pft","reason":"从需要逐步展开的城市长卷，转读只有九行的《平复帖》：比较长篇图像与私人书信如何留下不完整线索，以及题跋、修裱和捐赠史怎样改变后人的阅读入口。","type":"curatorial-comparison"}]
+      "sections": [
+        {
+          "title": "像行人一样进入画卷",
+          "text": "不必一开始就数清画里所有人物。故宫将这幅北宋长卷的内容分为市郊、以桥和河流为中心的中段，以及城内生活。可以先在心里选一个行走方向，看作者怎样逐步展开场景。你改变观看的位置，新的关系便会陆续出现。",
+          "refs": [
+            "qm"
+          ]
+        },
+        {
+          "title": "界画、细笔与长卷的观看节奏",
+          "text": "故宫把这件作品描述为绢本淡设色、兼工带写：桥梁、舟船和屋宇使用细致的界画笔法，树石水岸则见较为放开的用笔；全卷采用鸟瞰式全景组织，同时随着手卷展开，各段又能以近似平视的方式细看。可以据此观察画家如何调度不同技法和观看距离，但馆藏说明没有留下张择端逐步起稿、敷色的工作记录，所以不把今天的观察顺序写成实际作画工序。画面有写实的细节，不等于一幅按比例测绘的城市地图。",
+          "refs": [
+            "qm"
+          ]
+        },
+        {
+          "title": "1973年的修裱，也进入了作品历史",
+          "text": "故宫研究记录，画卷1953年重回故宫时已有破损，1973年重新修裱。修复者先用照片记录，补画接笔先制小样并经研究；文章还列出约四十七处换补、三十八处接笔。一次错误补画的“毛驴”也因缺乏依据被去除并留为空白。保护不是把旧画变成“像新的一样”，而是在证据、材料与可辨识边界之间作审慎决定。",
+          "refs": [
+            "qm-restoration"
+          ]
+        },
+        {
+          "title": "标题、城市与年代，哪些仍在讨论",
+          "text": "故宫研究文章把几个长期问题列得很清楚：所绘是否汴京、题名“清明”指向何种含义、画面季节如何判断、作品何时完成，以及不同传本的真伪关系。另有研究提醒，张择端“失位家居”等传记说法依赖较晚且传抄复杂的材料，不能轻率推成定论。另一方面，明清摹本及现代复制品让这一画题广泛传播，但桥材、船只和航线等细节与故宫藏本并不完全相同。把《东京梦华录》、摹本和原作并读，是提出问题的方法，不是拼成一段无争议的现场录像。",
+          "refs": [
+            "qm2",
+            "qm-research",
+            "qm-debates",
+            "qm-copies",
+            "dongjing-menghua"
+          ]
+        }
+      ],
+      "details": [
+        {
+          "title": "长卷的三段",
+          "text": "市郊、桥河、城内，帮助组织一次有方向的阅读。",
+          "refs": [
+            "qm"
+          ]
+        },
+        {
+          "title": "交通节点",
+          "text": "从桥与船的关系想城市活动，不据缩图推断精确尺寸。",
+          "refs": [
+            "qm"
+          ]
+        },
+        {
+          "title": "鉴藏印",
+          "text": "后人留下的印记与原始画面不是同一层信息。",
+          "refs": [
+            "qm2"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "画中有很多真实生活细节，就能直接把它当作地图吗？",
+        "answer": "不能。它是经过组织的绘画。可以用来提出历史问题，但判断具体位置和比例，还需要其他资料相互印证。",
+        "refs": [
+          "qm"
+        ]
+      },
+      "uncertainty": "人物精确数量、画题含义、作者生平和部分鉴藏印仍有研究分歧；修裱文章记录的是故宫研究者对1973年工作的回顾，不等于所有画面缺失都能复原。高清原件接入与图像授权仍按独立溯源记录处理。",
+      "correction": "在可核画面结构之外，补入1953年状态、1973年修裱、后世摹本差异与作者生平争议；把器物事实、研究推论和现代复制传播分层。",
+      "related": [
+        {
+          "id": "gg-qljs",
+          "reason": "同看北宋长卷：比较《清明上河图》用桥、河与人群推进城市叙事，《千里江山图》用山水段落和桥路连接游观空间；两卷并读是构图比较，不暗示作者交往或直接传承。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "gg-pft",
+          "reason": "从需要逐步展开的城市长卷，转读只有九行的《平复帖》：比较长篇图像与私人书信如何留下不完整线索，以及题跋、修裱和捐赠史怎样改变后人的阅读入口。",
+          "type": "curatorial-comparison"
+        }
+      ]
     },
     {
-      "id":"gg-qljs","hook":"这么长的山水，画家怎样让它成为一个世界？","summary":"王希孟《千里江山图》是北宋青绿山水长卷，长约11.9米。石青、石绿构成重要色彩，桥梁与水流连接不同山体段落。卷后蔡京题跋提供了作者年龄等线索；关于王希孟的许多生平细节仍不能确定。","summaryRefs":["ql","ql2"],
-      "sections":[
-        {"title":"先看山水怎样接起来","text":"如果要画一幅长到不能一眼看完的画，你会怎样安排？《千里江山图》把山体、水域、桥梁与生活场景组织到约十一点九米的绢卷中。故宫说明强调，各部分既可以分别观看，又借桥与流水连接。先找连接处，就能从“很多山”读出一个连续的世界。","refs":["ql","ql2"]},
-        {"title":"青绿并不是随意涂的颜色","text":"石青、石绿是这类绘画重要的矿物颜料。画家不仅使用蓝与绿，还通过轻重层次和其他颜色的衬托组织景物。本站不把今天看到的数字色彩当作原作当年的精确颜色，也不再说它九百年从未褪色。欣赏色彩与判断保存状态，是两件不同的事。","refs":["ql"]},
-        {"title":"把题跋读成线索，不读成完整传记","text":"蔡京题跋说希孟十八岁、曾在画学为生徒并受徽宗指授。故宫名画记提醒，史籍没有留下他的生平记载；题跋因此格外重要，却仍只是一段文字。研究者还会把它放回宫廷教育、画学制度和作品风格中讨论，但关于籍贯、人生结局与创作缘由的推测，不能和题跋原文画等号。读到“少年天才”的故事时，不妨标出哪一句是原文、哪一句是解释、哪一句仍是未知。","refs":["ql","ql-author-research"]},
-        {"title":"读青绿山水：看见颜料，也看见观看方式","text":"青绿山水不只是在绢上铺满蓝绿。观察山体层叠、桥水穿插、村落与人物大小变化，可以发现画家怎样引导眼睛在长卷上移动；石青、石绿则为这种空间安排提供鲜明色彩。今天屏幕上的色差、复制品和修复状态都可能影响观感，因此不能仅凭数字图像断言矿物颜料的精确配方或原作从未褪色。故宫研究文章还把画卷放进北宋宫廷绘画与长卷构图传统中讨论；其中对创作委托、画家成长地的解释属于学术推论，不是画面直接告诉我们的事实。","refs":["ql","ql2","ql-scholar-study"]}
+      "id": "gg-qljs",
+      "hook": "这么长的山水，画家怎样让它成为一个世界？",
+      "summary": "王希孟《千里江山图》是北宋青绿山水长卷，长约11.9米。石青、石绿构成重要色彩，桥梁与水流连接不同山体段落。卷后蔡京题跋提供了作者年龄等线索；关于王希孟的许多生平细节仍不能确定。",
+      "summaryRefs": [
+        "ql",
+        "ql2"
       ],
-      "details":[{"title":"桥与水","text":"把相邻山水段落连起来，是理解构图的一条线索。","refs":["ql"]},{"title":"矿物颜料","text":"石青与石绿提供认识青绿山水的入口，不把屏幕色值当检测结果。","refs":["ql"]},{"title":"蔡京题跋","text":"是作者信息的重要文字线索，与画面本身分别阅读。","refs":["ql"]}],
-      "reflection":{"question":"知道画家十八岁时的记载，是否就能写出他此后完整的人生？","answer":"不能。一条年龄记载只支持它所记录的内容。其他经历需要各自的证据，未知不应该被“传奇”填满。","refs":["ql"]},
-      "uncertainty":"作者生平及部分画史解释仍有讨论；全卷高清原件受阻，未生成替代原卷。","correction":"删除九百年不褪色的绝对化说法，说明年龄依据及生平未知。",
-      "related":[{"id":"jl-efj","reason":"从以颜色展开的山水，转向以文字承载的经历，看看另一位宋人的纸上世界。","type":"curatorial-comparison"}]
+      "sections": [
+        {
+          "title": "先看山水怎样接起来",
+          "text": "如果要画一幅长到不能一眼看完的画，你会怎样安排？《千里江山图》把山体、水域、桥梁与生活场景组织到约十一点九米的绢卷中。故宫说明强调，各部分既可以分别观看，又借桥与流水连接。先找连接处，就能从“很多山”读出一个连续的世界。",
+          "refs": [
+            "ql",
+            "ql2"
+          ]
+        },
+        {
+          "title": "青绿并不是随意涂的颜色",
+          "text": "石青、石绿是这类绘画重要的矿物颜料。画家不仅使用蓝与绿，还通过轻重层次和其他颜色的衬托组织景物。本站不把今天看到的数字色彩当作原作当年的精确颜色，也不再说它九百年从未褪色。欣赏色彩与判断保存状态，是两件不同的事。",
+          "refs": [
+            "ql"
+          ]
+        },
+        {
+          "title": "把题跋读成线索，不读成完整传记",
+          "text": "蔡京题跋说希孟十八岁、曾在画学为生徒并受徽宗指授。故宫名画记提醒，史籍没有留下他的生平记载；题跋因此格外重要，却仍只是一段文字。研究者还会把它放回宫廷教育、画学制度和作品风格中讨论，但关于籍贯、人生结局与创作缘由的推测，不能和题跋原文画等号。读到“少年天才”的故事时，不妨标出哪一句是原文、哪一句是解释、哪一句仍是未知。",
+          "refs": [
+            "ql",
+            "ql-author-research"
+          ]
+        },
+        {
+          "title": "读青绿山水：看见颜料，也看见观看方式",
+          "text": "青绿山水不只是在绢上铺满蓝绿。观察山体层叠、桥水穿插、村落与人物大小变化，可以发现画家怎样引导眼睛在长卷上移动；石青、石绿则为这种空间安排提供鲜明色彩。今天屏幕上的色差、复制品和修复状态都可能影响观感，因此不能仅凭数字图像断言矿物颜料的精确配方或原作从未褪色。故宫研究文章还把画卷放进北宋宫廷绘画与长卷构图传统中讨论；其中对创作委托、画家成长地的解释属于学术推论，不是画面直接告诉我们的事实。",
+          "refs": [
+            "ql",
+            "ql2",
+            "ql-scholar-study"
+          ]
+        }
+      ],
+      "details": [
+        {
+          "title": "桥与水",
+          "text": "把相邻山水段落连起来，是理解构图的一条线索。",
+          "refs": [
+            "ql"
+          ]
+        },
+        {
+          "title": "矿物颜料",
+          "text": "石青与石绿提供认识青绿山水的入口，不把屏幕色值当检测结果。",
+          "refs": [
+            "ql"
+          ]
+        },
+        {
+          "title": "蔡京题跋",
+          "text": "是作者信息的重要文字线索，与画面本身分别阅读。",
+          "refs": [
+            "ql"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "知道画家十八岁时的记载，是否就能写出他此后完整的人生？",
+        "answer": "不能。一条年龄记载只支持它所记录的内容。其他经历需要各自的证据，未知不应该被“传奇”填满。",
+        "refs": [
+          "ql"
+        ]
+      },
+      "uncertainty": "作者生平及部分画史解释仍有讨论；全卷高清原件受阻，未生成替代原卷。",
+      "correction": "删除九百年不褪色的绝对化说法，说明年龄依据及生平未知。",
+      "related": [
+        {
+          "id": "jl-efj",
+          "reason": "从以颜色展开的山水，转向以文字承载的经历，看看另一位宋人的纸上世界。",
+          "type": "curatorial-comparison"
+        }
+      ]
     },
     {
-      "id":"jl-efj","hook":"旅途中被大雨留住，苏轼在纸上留下了什么？","summary":"吉林省博物院藏苏轼《洞庭春色赋·中山松醪赋》卷。省博展览资料记载，此卷书于1094年，苏轼赴惠州途中遇雨停留而书写二赋，全卷684字。它让作品、书写时刻与个人经历交织在一起。","summaryRefs":["su"],
-      "sections":[
-        {"title":"作品也有写下来的时刻","text":"我们常用一个名字概括一位古人，却容易忘记他也经历具体的路程与停留。吉林省博物院的展览资料介绍，一〇九四年，苏轼前往惠州途中遇雨，滞留襄邑而书二赋。理解这一背景，能让书法不再只是墙上一段需要辨认的字。","refs":["su"]},
-        {"title":"别把文章和书迹混为一谈","text":"本卷合写两篇赋，馆方展览资料记全卷六百八十四字。阅读时可以分开问：文字表达了什么？这次书写发生在什么情境？我们不因作品写于旅途中，就断言其中所有文字都是当场第一次构思；文章的创作和墨迹的书写，需要分别寻找证据。","refs":["su"]},
-        {"title":"把自己的问题带到下一次看展","text":"从陆机的手札走到苏轼的书卷，纸上的文字既可以关切友人，也可以承载另一种写作与经历。你不必立刻认全每个字，可以先说清作者、作品和书写背景各指什么。这样的区分会成为阅读其他书画的工具，比只记住“名家真迹”四个字更有用。","refs":["su","pf"]},
-        {"title":"把文章、书写和旅行拆成三条时间线","text":"苏轼赴惠州途中书写二赋，为作品提供了一个可进入的人生时刻；但书写日期并不自动等于文章最初创作日期，旅行叙事也不能代替墨迹本身的鉴定。读这件长卷，可以分别追问文字原意、书写情境和后来的保存经历。再跳回陆机《平复帖》，会看到两种截然不同的文本关系：一封对友人的短札与两篇赋的合卷书写。相关联的是阅读问题，不是两位作者彼此相识。","refs":["su","pf"]}
+      "id": "jl-efj",
+      "hook": "旅途中被大雨留住，苏轼在纸上留下了什么？",
+      "summary": "吉林省博物院藏苏轼《洞庭春色赋·中山松醪赋》卷。省博展览资料记载，此卷书于1094年，苏轼赴惠州途中遇雨停留而书写二赋，全卷684字。它让作品、书写时刻与个人经历交织在一起。",
+      "summaryRefs": [
+        "su"
       ],
-      "details":[{"title":"两篇赋、一件书迹","text":"文章数量与馆藏作品数量不能混同。","refs":["su"]},{"title":"1094年","text":"这里指资料记载的本卷书写时刻，不推断两篇文章同时初创。","refs":["su"]},{"title":"684字","text":"采用省博展览资料口径；阅读原文需可靠释文，不依赖本站示意图。","refs":["su"]}],
-      "reflection":{"question":"“这件书迹写于1094年”能证明两篇文章都在那一天首次创作吗？","answer":"不能。誊写或再次书写也会形成书迹。作品内容的创作时间与眼前这件墨迹的写作时间，需要分别考证。","refs":["su"]},
-      "uncertainty":"本轮未核实旧摘要中的具体入藏年代，因此不再保留；不展开未经证据支持的雨夜心理独白。","correction":"删除未核1950年代入藏及绝对化美誉，区分文章创作与墨迹书写。",
-      "related":[{"id":"gg-pft","reason":"回到私人手札，比较两种文字作品的用途与所处情境。","type":"curatorial-comparison"}]
+      "sections": [
+        {
+          "title": "作品也有写下来的时刻",
+          "text": "我们常用一个名字概括一位古人，却容易忘记他也经历具体的路程与停留。吉林省博物院的展览资料介绍，一〇九四年，苏轼前往惠州途中遇雨，滞留襄邑而书二赋。理解这一背景，能让书法不再只是墙上一段需要辨认的字。",
+          "refs": [
+            "su"
+          ]
+        },
+        {
+          "title": "别把文章和书迹混为一谈",
+          "text": "本卷合写两篇赋，馆方展览资料记全卷六百八十四字。阅读时可以分开问：文字表达了什么？这次书写发生在什么情境？我们不因作品写于旅途中，就断言其中所有文字都是当场第一次构思；文章的创作和墨迹的书写，需要分别寻找证据。",
+          "refs": [
+            "su"
+          ]
+        },
+        {
+          "title": "把自己的问题带到下一次看展",
+          "text": "从陆机的手札走到苏轼的书卷，纸上的文字既可以关切友人，也可以承载另一种写作与经历。你不必立刻认全每个字，可以先说清作者、作品和书写背景各指什么。这样的区分会成为阅读其他书画的工具，比只记住“名家真迹”四个字更有用。",
+          "refs": [
+            "su",
+            "pf"
+          ]
+        },
+        {
+          "title": "把文章、书写和旅行拆成三条时间线",
+          "text": "苏轼赴惠州途中书写二赋，为作品提供了一个可进入的人生时刻；但书写日期并不自动等于文章最初创作日期，旅行叙事也不能代替墨迹本身的鉴定。读这件长卷，可以分别追问文字原意、书写情境和后来的保存经历。再跳回陆机《平复帖》，会看到两种截然不同的文本关系：一封对友人的短札与两篇赋的合卷书写。相关联的是阅读问题，不是两位作者彼此相识。",
+          "refs": [
+            "su",
+            "pf"
+          ]
+        }
+      ],
+      "details": [
+        {
+          "title": "两篇赋、一件书迹",
+          "text": "文章数量与馆藏作品数量不能混同。",
+          "refs": [
+            "su"
+          ]
+        },
+        {
+          "title": "1094年",
+          "text": "这里指资料记载的本卷书写时刻，不推断两篇文章同时初创。",
+          "refs": [
+            "su"
+          ]
+        },
+        {
+          "title": "684字",
+          "text": "采用省博展览资料口径；阅读原文需可靠释文，不依赖本站示意图。",
+          "refs": [
+            "su"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "“这件书迹写于1094年”能证明两篇文章都在那一天首次创作吗？",
+        "answer": "不能。誊写或再次书写也会形成书迹。作品内容的创作时间与眼前这件墨迹的写作时间，需要分别考证。",
+        "refs": [
+          "su"
+        ]
+      },
+      "uncertainty": "本轮未核实旧摘要中的具体入藏年代，因此不再保留；不展开未经证据支持的雨夜心理独白。",
+      "correction": "删除未核1950年代入藏及绝对化美誉，区分文章创作与墨迹书写。",
+      "related": [
+        {
+          "id": "gg-pft",
+          "reason": "回到私人手札，比较两种文字作品的用途与所处情境。",
+          "type": "curatorial-comparison"
+        }
+      ]
     }
   ]
 }

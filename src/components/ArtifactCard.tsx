@@ -300,7 +300,7 @@ export function ArtifactImageDisclosure({ info, image }: { info: ArtifactImageIn
       {provenance?.processingManifest?.startsWith('/data/image-processing/') && <a href={provenance.processingManifest} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center text-[#d43a28] underline">查看原文件哈希与图像处理记录 ↗</a>}
       {info?.sourceReview?.authorityUrl && <a href={info.sourceReview.authorityUrl} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center text-[#d43a28] underline">查看馆方藏品资料（非图片授权） ↗</a>}
       {provenance?.linkCheckedAt && <div className="mt-1 text-[#efe6cf]/40">来源页核读：{provenance.linkCheckedAt}</div>}
-      {provenance?.fullResolutionSourceUrl && <a href={provenance.fullResolutionSourceUrl} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center text-[#d43a28] underline">查看高清全卷候选（尚未接入本站） ↗</a>}
+      {provenance?.fullResolutionSourceUrl && <a href={provenance.fullResolutionSourceUrl} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center text-[#d43a28] underline">查看高清全卷候选（尚未接入） ↗</a>}
     </div>
   );
 }

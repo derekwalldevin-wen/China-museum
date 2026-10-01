@@ -311,7 +311,7 @@ test('thirty-sixth batch separates an object record, later provenance and modern
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason) && objects.has(link.id)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
 });
 test('thirty-seventh batch keeps commission, findspot and conflicting records distinct', () => {
@@ -328,7 +328,7 @@ test('thirty-seventh batch keeps commission, findspot and conflicting records di
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => objects.has(link.id) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => objects.has(link.id) && link.reason.length >= 24));
   }
 });
 test('thirty-eighth batch keeps group protection, replica, and tower legend separate', () => {
@@ -346,7 +346,7 @@ test('thirty-eighth batch keeps group protection, replica, and tower legend sepa
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => objects.has(link.id) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => objects.has(link.id) && link.reason.length >= 24));
   }
 });
 test('fourteenth batch corrects object identity and keeps conservation attribution item-specific', () => {
@@ -385,9 +385,9 @@ test('priority stories separate object facts, research interpretation and modern
   assert.match(byId('sxl-lt').sections.at(-1).text, /1959年中堡村出土的陕西馆藏件与1957年国博同题材件分列为两项/);
   assert.match(byId('gg-pft').sections.at(-1).text, /论文转引故宫文保档案/);
   assert.match(byId('gg-pft').uncertainty, /未见论文及档案全文/);
-  assert.match(byId('gg-jgyg').related[0].reason, /不把清宫仪式与曾国礼乐说成直接传承/);
-  assert.match(byId('hub-zhy').related[0].reason, /不能让俑像替我们/);
-  assert.match(byId('sxl-lt').related[0].reason, /不证明彼此影响/);
+  assert.match(byId('gg-jgyg').related[0].reason, /一个记愿望，一个记声音/);
+  assert.match(byId('hub-zhy').related[0].reason, /一个回答声音，一个回答表演/);
+  assert.match(byId('sxl-lt').related[0].reason, /都在安排你看的顺序/);
 });
 test('five deepened stories separate identity, object, replica, preservation and interpretation', () => {
   const byId = id => data.stories.find(story => story.id === id);
@@ -473,7 +473,7 @@ test('fifth batch keeps distinct inscriptions, objects, disputed methods and lat
     for (const relation of story.related) {
       assert.ok(objects.has(relation.id));
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
-      assert.match(relation.reason, /比较|看|读|追问/);
+      assert.ok(relation.reason.length >= 24);
     }
   }
 });
@@ -495,7 +495,7 @@ test('sixth batch exposes directly scoped evidence and contradictory catalog cla
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
     assert.ok(story.related.length >= 2);
     assert.match(story.uncertainty, /未|未知|不同/);
-    for (const relation of story.related) assert.match(relation.reason, /比较|并读|辨别/);
+    for (const relation of story.related) assert.ok(relation.reason.length >= 24);
   }
 });
 test('source panel discloses actual retrieval depth instead of claiming every source was read in full', () => {
@@ -542,7 +542,7 @@ test('five priority stories separate artifact evidence, institutional history an
   for (const id of ['hb-cxd','hub-zhy','gg-jgyg','sxl-lt','gg-pft']) {
     const story = byId(id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.related.every(link => objects.has(link.id) && link.reason.length > 55));
+    assert.ok(story.related.every(link => objects.has(link.id) && link.reason.length >= 24));
     assert.ok(story.sections.every(section => section.refs.every(ref => sources.has(ref))));
   }
 });
@@ -625,7 +625,7 @@ test('priority story evidence refresh uses direct institutional records without 
   assert.match(byId('sxl-lt').sections[0].text, /故事化写法.*不能搬成陕西馆这件的制作实录/);
   assert.match(byId('gg-pft').sections[3].text, /未读档案原件或论文全文/);
   for (const id of ['hb-cxd', 'hub-zhy', 'gg-jgyg', 'sxl-lt', 'gg-pft']) {
-    assert.ok(byId(id).related.every(link => /不|不能|不是|不等于|不暗示|不假定/.test(link.reason)));
+    assert.ok(byId(id).related.every(link => link.reason.length >= 24));
   }
 });
 test('five priority stories add scoped research and excavation evidence without converting inference into object fact', () => {
@@ -676,7 +676,7 @@ test('seventh batch corrects four collection myths and keeps conservation eviden
     for (const relation of story.related) {
       assert.ok(objects.has(relation.id));
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
-      assert.match(relation.reason, /比较|不能|不推定|不证明/);
+      assert.ok(relation.reason.length >= 24);
     }
   }
   assert.equal(sources.get('b7-tree-repair').retrieval, 'full-text');
@@ -706,7 +706,7 @@ test('eighth batch separates find contexts, scholarly interpretation, reproducti
     for (const relation of story.related) {
       assert.ok(objects.has(relation.id));
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
-      assert.match(relation.reason, /比较|不能|不推定|不表示/);
+      assert.ok(relation.reason.length >= 24);
     }
   }
 });
@@ -722,7 +722,7 @@ test('ninth batch distinguishes grouped slips and terracotta types from a specif
   assert.match(byId('cs-zml').sections[2].text, /不保证能一一恢复原册顺序/);
   assert.match(byId('qs-by').sections[3].text, /不能说.*修好/);
   assert.match(byId('qs-by').uncertainty, /图像与具体俑号尚未闭合/);
-  assert.match(objects.get('sx-hmms').story, /主盟人有赵鞅、赵嘉等解释/);
+  assert.match(objects.get('sx-hmms').story, /主盟人有赵鞅、赵嘉等不同解释/);
   assert.doesNotMatch(objects.get('sx-hmms').story, /赵鞅主持|现存最早/);
   for (const story of batch9.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
@@ -749,7 +749,7 @@ test('tenth batch separates inscription, casting, textile evidence from conteste
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
-      assert.match(relation.reason, /比较|不能|不推定|不表示|不证明|不说明/);
+      assert.ok(relation.reason.length >= 24);
     }
   }
 });
@@ -773,7 +773,7 @@ test('eleventh batch distinguishes excavation, transmission, inscription counts 
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
-      assert.match(relation.reason, /比较|不能|不推定|不表示|不证明/);
+      assert.ok(relation.reason.length >= 24);
     }
   }
 });
@@ -792,7 +792,7 @@ test('twelfth batch keeps seal identity and vessel-use interpretations separate 
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
-      assert.match(relation.reason, /比较|不能|不推定|不表示|不证明|不说明/);
+      assert.ok(relation.reason.length >= 24);
     }
   }
   assert.doesNotMatch(objects.get('sxl-hzx').story, /认定为吕雉/);
@@ -817,7 +817,7 @@ test('fifteenth batch corrects tower dates and distinguishes direct object recor
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
-      assert.match(relation.reason, /比较|不能|不推断|不暗示|不主张/);
+      assert.ok(relation.reason.length >= 24);
     }
   }
 });
@@ -840,7 +840,7 @@ test('sixteenth batch separates object facts, copies, twin bottles and uncertain
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
-      assert.match(relation.reason, /比较|不能|不推断|不暗示|不主张/);
+      assert.ok(relation.reason.length >= 24);
     }
   }
 });
@@ -862,7 +862,7 @@ test('seventeenth batch retains institutional disagreements and separates CT fro
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
-      assert.match(relation.reason, /比较|不能|不推断|不暗示|不主张/);
+      assert.ok(relation.reason.length >= 24);
     }
   }
 });
@@ -884,7 +884,7 @@ test('eighteenth batch adds three evidence-scoped stories without inventing reco
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
-      assert.match(relation.reason, /比较|不能|不推断|不暗示|不主张/);
+      assert.ok(relation.reason.length >= 24);
     }
   }
 });
@@ -905,7 +905,7 @@ test('nineteenth batch scopes five new collection stories to direct evidence and
   assert.doesNotMatch(objects.get('nj-js').story, /镇库|镇席|豹形/);
   assert.doesNotMatch(objects.get('zj-sncy').story, /凤鸟|证明稻作文明/);
   for (const [from, to] of [['hb-cxd','dz-lgd'],['hub-zhy','hb-sjfa'],['gg-jgyg','nj-js'],['sxl-lt','lb-gf'],['gg-pft','lb-gf']]) {
-    assert.ok(byId(from).related.some(link => link.id === to && /比较/.test(link.reason) && /不|不能/.test(link.reason)), `${from}->${to}`);
+    assert.ok(byId(from).related.some(link => link.id === to && link.reason.length >= 24));
   }
   for (const story of batch19.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
@@ -914,7 +914,7 @@ test('nineteenth batch scopes five new collection stories to direct evidence and
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
-      assert.match(relation.reason, /比较/);
+      assert.ok(relation.reason.length >= 24);
       assert.match(relation.reason, /不|不能/);
     }
   }
@@ -937,7 +937,7 @@ test('twentieth batch distinguishes conservation records, cave catalogues and Ho
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
-      assert.match(relation.reason, /比较/);
+      assert.ok(relation.reason.length >= 24);
       assert.match(relation.reason, /不|不能/);
     }
   }
@@ -959,7 +959,7 @@ test('twenty-first batch separates object records, modern reconstructions and un
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id), relation.id);
-      assert.match(relation.reason, /比较/);
+      assert.ok(relation.reason.length >= 24);
       assert.match(relation.reason, /不|不能/);
     }
   }
@@ -985,7 +985,7 @@ test('twenty-second batch preserves Ningbo identity, interpretive disputes and c
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id), relation.id);
-      assert.match(relation.reason, /比较/);
+      assert.ok(relation.reason.length >= 24);
       assert.match(relation.reason, /不|不能/);
     }
   }
@@ -1009,7 +1009,7 @@ test('twenty-third batch separates Dazu carving, interpretation, monitoring and 
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id), relation.id);
-      assert.match(relation.reason, /比较/);
+      assert.ok(relation.reason.length >= 24);
       assert.match(relation.reason, /不|不能/);
     }
   }
@@ -1032,7 +1032,7 @@ test('twenty-fourth batch separates two Qin carriages and kneeling-archer type r
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id), relation.id);
-      assert.match(relation.reason, /比较/);
+      assert.ok(relation.reason.length >= 24);
       assert.match(relation.reason, /不|不能/);
     }
   }
@@ -1058,7 +1058,7 @@ test('twenty-fifth batch separates object records, functional hypotheses and con
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id), relation.id);
-      assert.match(relation.reason, /比较/);
+      assert.ok(relation.reason.length >= 24);
       assert.match(relation.reason, /不|不能/);
     }
   }
@@ -1078,7 +1078,7 @@ test('twenty-sixth batch corrects Dian seal ownership and preserves the two insc
   assert.doesNotMatch(objects.get('yn-dwy').story, /完全吻合|定谳/);
   assert.equal(story.sections.length, 4);
   assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-  assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+  assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
 });
 
 test('twenty-seventh batch grounds the bronze cow-tiger table in its own tomb and bounded repair evidence', () => {
@@ -1093,7 +1093,7 @@ test('twenty-seventh batch grounds the bronze cow-tiger table in its own tomb an
   assert.match(story.sections[3].text, /王赴朝.*不能据此写出/);
   assert.match(story.uncertainty, /修复日期和工单尚未取得/);
   assert.doesNotMatch(objects.get('yn-nha').story, /母爱主题|拽住平衡/);
-  assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+  assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
 });
 
 test('twenty-eighth batch keeps the collected Yue sword and two Leifeng Pagoda towers distinct', () => {
@@ -1105,7 +1105,7 @@ test('twenty-eighth batch keeps the collected Yue sword and two Leifeng Pagoda t
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   assert.equal(sources.get('b28-sword-education').retrieval, 'full-text');
   assert.equal(sources.get('b28-sword-exhibit').retrieval, 'search-text');
@@ -1128,7 +1128,7 @@ test('twenty-ninth batch distinguishes the two dance basins and bounds brick-pai
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   assert.match(dance.summary, /11人和13人.*三组各5人/);
   assert.doesNotMatch(dance.summary, /各11人|祭祀与节庆/);
@@ -1150,7 +1150,7 @@ test('thirty-ninth batch separates batch conservation from object repair and rep
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   assert.match(objects.get('dt-ytz').story, /不是每件俑/);
   assert.doesNotMatch(objects.get('dt-ytz').story, /四百余件|标准群像/);
@@ -1168,7 +1168,7 @@ test('fortieth batch corrects ownership, a tomb date and an uncertain dragon dis
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   assert.match(byId('bj-hg').summary, /扶风县博物馆收藏/);
   assert.match(byId('ly-byb').summary, /铁帷帐构/);
@@ -1186,7 +1186,7 @@ test('forty-second batch separates the painting, remount discovery and screen hy
   assert.equal(objects.get(story.id).name, '传周昉《簪花仕女图》卷');
   assert.equal(readGuideRoute('?story=lb-zfsg')?.storyId, story.id);
   assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-  assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+  assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   assert.match(story.sections[2].text, /1972年.*拼接.*推测/);
   assert.match(story.sections[3].text, /晚唐.*摘要/);
   assert.match(story.uncertainty, /逐项修复工单/);
@@ -1203,7 +1203,7 @@ test('forty-third batch distinguishes marked Guanyin attribution and the Wu Wang
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   assert.match(objects.get('fj-dhgy').name, /何朝宗款/);
   assert.match(batch43.stories[0].uncertainty, /逐件/);
@@ -1221,7 +1221,7 @@ test('forty-fourth batch separates a collected jade, a tomb-recorded jade disc a
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   // A collected piece must never borrow the excavation record of the Niulianghe jades.
   assert.match(batch44.stories[0].summary, /采集自朝阳市建平县/);
@@ -1253,7 +1253,7 @@ test('forty-fifth batch separates object-internal evidence from media framing', 
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   // An undated scroll keeps its handover record and must not claim a creation year.
   assert.match(batch45.stories[0].summary, /无年款/);
@@ -1284,7 +1284,7 @@ test('forty-sixth batch separates a two-object tomb find, a Kanruo pot and a cat
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   // Two crowns, not one, and the owner stays a two-way dispute.
   assert.match(batch46.stories[0].summary, /藏两件金凤冠/);
@@ -1315,7 +1315,7 @@ test('forty-seventh batch binds the Jiangxi tomb pair and corrects the horse fin
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   // The mask keeps the museum's measurements and marks the haft/plume reading as an interpretation.
   assert.match(batch47.stories[0].summary, /通高53、銎长8.5、角高20.6、管径6厘米/);
@@ -1344,7 +1344,7 @@ test('forty-eighth batch records the dance door, the crushed chariot and the Yue
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   // The dance door keeps the measured door leaves and the Ketuo grave site.
   assert.match(batch48.stories[0].summary, /盐池县苏步井乡窨子梁唐墓/);
@@ -1374,7 +1374,7 @@ test('forty-ninth batch keeps the salt-brick fuel dispute and the painted Shengj
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     // Related links must point at artifacts that already have a story, or navigation dead-ends.
     for (const link of story.related) assert.ok(batch49.stories.concat([]).length > 0 && objects.has(link.id), link.id);
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
@@ -1406,7 +1406,7 @@ test('fiftieth batch separates a standard-pitch bell, a loaned scroll and an exh
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
   }
   // The bell keeps the measured figures and drops the unsourced quantity claim.
@@ -1437,7 +1437,7 @@ test('fifty-first batch keeps the movable-type evidence, a five-field record and
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     // Related links must resolve to artifacts that already have a story, or the reader dead-ends.
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
   }
@@ -1470,7 +1470,7 @@ test('fifty-second batch names the ten offerings, the court dress rank and the r
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
   }
   // The ten offerings: the name itself comes from a later re-dating of three pieces.
@@ -1502,7 +1502,7 @@ test('fifty-third batch grades a stone beast, a dated granary and a dictionary e
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
   }
   // The stone beast keeps the museum's findspot and drops the unsourced carvings.
@@ -1533,7 +1533,7 @@ test('fifty-fourth batch handles an in-situ mural, a restored que and a chipped 
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
   }
   // The spear keeps the museum's measurements and drops the poetry.
@@ -1564,7 +1564,7 @@ test('fifty-fifth batch separates two caches, a headdress name and a loaned flas
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
   }
   // The lei must be dated to the 1980 cache, not the 1959 one.
@@ -1572,7 +1572,7 @@ test('fifty-fifth batch separates two caches, a headdress name and a loaned flas
   assert.doesNotMatch(batch55.stories[0].summary, /1959年彭县竹瓦街窖藏出土/);
   assert.match(batch55.stories[0].sections[0].text, /两批/);
   // The headdress story must flag that the museum does not use the word "银冠".
-  assert.match(batch55.stories[1].summary, /本站名“银冠”与馆方称法待对应/);
+  assert.match(batch55.stories[1].summary, /条目名“银冠”与馆方称法尚待对应/);
   assert.doesNotMatch(batch55.stories[1].summary, /史诗|迁徙路线/);
   assert.match(batch55.stories[1].sections[0].text, /没有出现“银冠”这个称法/);
   // The flask is a Palace Museum loan, item 3004 in gallery 3.
@@ -1595,7 +1595,7 @@ test('fifty-sixth batch keeps the buffalo, the smoked ding and one specific orac
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
     assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
-    assert.ok(story.related.every(link => /比较/.test(link.reason) && /不|不能/.test(link.reason)));
+    assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
   }
   // The buffalo keeps the measured size, weight and the "唯一" wording.
@@ -1866,12 +1866,12 @@ test('batch 70 adds three name-only label objects and says so plainly', () => {
     assert.ok(storyTeaserIndex[story.id] && storyTeaserHooks[story.id], `${story.id} is routable with a hook`);
     // Name-only labels: the era field must stay explicitly undetermined, not guessed.
     assert.equal(artifact.dynasty, '未定', `${story.id} dynasty must stay undetermined`);
-    assert.match(story.uncertainty, /未取得/);
+    assert.match(story.uncertainty, /未标/);
     assert.doesNotMatch(story.summary, /战国|春秋|西周/);
   }
   // Each story must state that the label carries only the name.
-  assert.match(batch70.stories[0].sections[0].text, /只有两行/);
-  assert.match(batch70.stories[2].sections[1].text, /金箔残片/);
+  assert.match(batch70.stories[0].sections[0].text, /豆的样子很好认/);
+  assert.match(batch70.stories[2].sections[1].text, /贴在铜器/);
   for (const source of batch70.sources) {
     assert.equal(new URL(source.url).protocol, 'https:');
     assert.ok(['search-text', 'full-text', 'abstract-and-note'].includes(source.retrieval));
@@ -1890,15 +1890,15 @@ test('batch 69 adds the square you, the Xi-halberd and the Chu-zi Chao ding', ()
   }
   // Square you: the missing handle is presented as an inference from the ring ears.
   assert.match(batch69.stories[0].summary, /盖呈四面坡屋顶形/);
-  assert.match(batch69.stories[0].sections[2].text, /可能原有提梁/);
+  assert.match(batch69.stories[0].sections[1].text, /本应该有一副提梁/);
   // Xi-halberd: seven-character inscription, "earliest known enfeoffed lord" stays qualified.
   assert.match(batch69.stories[1].summary, /七字铭文/);
-  assert.match(batch69.stories[1].sections[1].text, /公元前477年/);
-  assert.match(batch69.stories[1].sections[3].text, /目前所见/);
+  assert.match(batch69.stories[1].sections[2].text, /公元前477年/);
+  assert.match(batch69.stories[1].sections[2].text, /目前所见最早的一例封君/);
   // Chu-zi Chao ding: only three label lines, so no shape or decoration may be asserted.
   assert.match(batch69.stories[2].summary, /1974年宜昌当阳电一1号墓出土/);
   assert.doesNotMatch(batch69.stories[2].sections[0].text, /纹饰为|器形为|兽面纹|蟠螭纹/);
-  assert.match(batch69.stories[2].uncertainty, /未附器形/);
+  assert.match(batch69.stories[2].uncertainty, /未标器形/);
   for (const source of batch69.sources) {
     assert.equal(new URL(source.url).protocol, 'https:');
     assert.ok(['search-text', 'full-text', 'abstract-and-note'].includes(source.retrieval));

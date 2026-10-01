@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-01T09:14:13.275Z",
+ "generatedAt": "2026-10-01T09:43:16.391Z",
  "source": {
   "path": "src/data/museums.ts",
-  "bytes": 110114,
-  "sha256": "409842cb31892d34ed7da28fdae6ea8375dc762e2f846d27fea93ff0f45ae110",
+  "bytes": 109848,
+  "sha256": "d11fe1ea3d0c04b1b9632cb82f4fd308e07ded48366cd5bb00ec48d58e1bc2ad",
   "museums": 59,
   "artifacts": 223
  },
@@ -14,20 +14,20 @@
  },
  "searchCorpus": {
   "path": "src/data/artifact-search.json",
-  "bytes": 54654,
-  "sha256": "b3488b52c98a25da8b60fde7d925878587f4b78044a923c5b83a74a4f83566a4",
+  "bytes": 54405,
+  "sha256": "7a262285ac8ef8fe7eeb74a99146e8c86ab6066148475281c3ece3114b6b0b30",
   "entries": 223
  },
  "payloads": {
   "directory": "src/data/museum-payloads",
   "count": 59,
-  "totalBytes": 111180,
+  "totalBytes": 110914,
   "files": [
    {
     "id": "gugong",
     "path": "src/data/museum-payloads/gugong.json",
-    "bytes": 3459,
-    "sha256": "20fea91c0c46eb320da57d9e4e0b89c8fcced61c39f8873057e2b299fe2d0038",
+    "bytes": 3447,
+    "sha256": "dd8c3f213bb7751ad160ebb634a5bbdaeb2146bbc1f2f448e42ec7536538b47a",
     "artifacts": 7
    },
    {
@@ -47,8 +47,8 @@
    {
     "id": "tianbo",
     "path": "src/data/museum-payloads/tianbo.json",
-    "bytes": 1620,
-    "sha256": "2bd5b8809789767d7a32317c543e998615a7b6ea779c90346a30f160f68579e9",
+    "bytes": 1626,
+    "sha256": "87707bbf89ce9e5cc57ebbbab37e0b25fc63fa3911250cccd365e1ed30ac5166",
     "artifacts": 3
    },
    {
@@ -69,7 +69,7 @@
     "id": "shanxi",
     "path": "src/data/museum-payloads/shanxi.json",
     "bytes": 1631,
-    "sha256": "2c0454a5a58fc80660283d716b8541ea8ac649b32005d8e8d51aac4286c0ebc0",
+    "sha256": "df4df55752caa5730a63e3a614368fcc29d13bd95f722ec3a6637e9a151df58d",
     "artifacts": 3
    },
    {
@@ -159,8 +159,8 @@
    {
     "id": "anhui",
     "path": "src/data/museum-payloads/anhui.json",
-    "bytes": 1621,
-    "sha256": "22b14880da8b2d2a6f1f6ff998f3c17af84f97dd59243fabdb11a82fac55c38c",
+    "bytes": 1606,
+    "sha256": "7d7575571c6fd2b8204f2df2793e2731b99d79918f51fc22866ff16b5683cdfe",
     "artifacts": 3
    },
    {
@@ -194,8 +194,8 @@
    {
     "id": "shandong",
     "path": "src/data/museum-payloads/shandong.json",
-    "bytes": 2046,
-    "sha256": "d381ce7f8dd5f902ec7723c2b86c3186c955c5ea68eeb37a81c7e66c497a2928",
+    "bytes": 2043,
+    "sha256": "a50656b343a6e03e837ba3530a53def84abd63c9da91aaa9dc54e7fe870df0ff",
     "artifacts": 4
    },
    {
@@ -215,15 +215,15 @@
    {
     "id": "henan",
     "path": "src/data/museum-payloads/henan.json",
-    "bytes": 2501,
-    "sha256": "f672b27cd6bfdcf2665b3ebcca461a1a3b04fec99f9da2287f0f8d277427bd8c",
+    "bytes": 2525,
+    "sha256": "5d51180d5e27308e068f68d6d8a6aa99537e569ecb72975b081a7d040b3b5266",
     "artifacts": 5
    },
    {
     "id": "luoyang",
     "path": "src/data/museum-payloads/luoyang.json",
-    "bytes": 1403,
-    "sha256": "556bad0b8ece11a7e19bfb4b79df2ed4b4984c751d1d5cf71dd52ca99b385b9c",
+    "bytes": 1397,
+    "sha256": "7a4a22686cdad1cb19105a8bae4e15126e240d67b1d4f3ff5c0ad8d93e950418",
     "artifacts": 3
    },
    {
@@ -236,15 +236,15 @@
    {
     "id": "yinxu",
     "path": "src/data/museum-payloads/yinxu.json",
-    "bytes": 1399,
-    "sha256": "824185291e2d186610c2e3c37aa6f0589363dde5688ad004adb296d809e78367",
+    "bytes": 1390,
+    "sha256": "fcb7706a125364f516974b17045757ab02aa1e89aca6afabe870bff2909d2fb5",
     "artifacts": 3
    },
    {
     "id": "hubei",
     "path": "src/data/museum-payloads/hubei.json",
-    "bytes": 8867,
-    "sha256": "cb15003d7e1b5ae7c1226798e5755b371c62f321531dd2febdfdf60e829f5e45",
+    "bytes": 8670,
+    "sha256": "31c191a8c68cbc1eb70e1fb01a83cf054be28e8e3e72c6758ca43b4ba5abb87d",
     "artifacts": 22
    },
    {
@@ -257,8 +257,8 @@
    {
     "id": "hunan",
     "path": "src/data/museum-payloads/hunan.json",
-    "bytes": 2085,
-    "sha256": "ff117112462bb2c1a46a13c453e45360f4d4089a32f73cd8fb976c71e4184219",
+    "bytes": 2076,
+    "sha256": "3b67e2ec7d1ade48c220899b2847544fc1b7fb993b74e0f47f4734917898153f",
     "artifacts": 4
    },
    {
@@ -292,8 +292,8 @@
    {
     "id": "hainan",
     "path": "src/data/museum-payloads/hainan.json",
-    "bytes": 1537,
-    "sha256": "29bfb72f9d98deba798e361552cf6fb32d1bf0e7e9d5a12e4c6d2f723335ee0d",
+    "bytes": 1528,
+    "sha256": "e8a4525948780ab50707665fe888e130991686fac25b3bb1ef9e646fa559b8f8",
     "artifacts": 3
    },
    {
@@ -334,8 +334,8 @@
    {
     "id": "guizhou",
     "path": "src/data/museum-payloads/guizhou.json",
-    "bytes": 1392,
-    "sha256": "a993c9c55c33d497cbc22a2ecd5fcde01ed94a459bf45bc2869e94e907672e02",
+    "bytes": 1395,
+    "sha256": "8d5509a04297c2df60a9e2a0c2efee737afb176912bcbe11245fb11437d9219f",
     "artifacts": 3
    },
    {
@@ -355,15 +355,15 @@
    {
     "id": "shanxili",
     "path": "src/data/museum-payloads/shanxili.json",
-    "bytes": 2775,
-    "sha256": "6a3cd7332a23b9f2c35d350f2bcc27da67087cff3380fe84766bda14ef8ba299",
+    "bytes": 2769,
+    "sha256": "8b182eb83699226d59648cdf23b2bac0b956ef83810656112e1d486b9c4f8b03",
     "artifacts": 6
    },
    {
     "id": "qinshihuang",
     "path": "src/data/museum-payloads/qinshihuang.json",
-    "bytes": 1507,
-    "sha256": "1c1431f72b1b821476f4f0ccf8854ae01e77344fa660442bf597235bd58e8547",
+    "bytes": 1495,
+    "sha256": "3eabd21a58de89166bc3fe14eef4eba5c2f003810411496f07ba272a1d9cdc1b",
     "artifacts": 3
    },
    {
@@ -390,8 +390,8 @@
    {
     "id": "dunhuang",
     "path": "src/data/museum-payloads/dunhuang.json",
-    "bytes": 1676,
-    "sha256": "1f8ed99f64407b0948c2ac3d25a86c05bc168a52e6f2a94d2c98c8096739ba7d",
+    "bytes": 1655,
+    "sha256": "92f4eb03f6aa6e9d049b7ebd324b008cfd1548545f543b2e3c5e472c3ebf30ab",
     "artifacts": 3
    },
    {

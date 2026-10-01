@@ -32,7 +32,7 @@ try {
       assert.deepEqual(geometry.small, [], `${id} touch targets`);
       const chapters = await page.evaluate(`[...document.querySelectorAll('.story-chapters > section')].map(section => section.innerText).join('\\n')`);
       assert.doesNotMatch(chapters, /\*\*/, `${id} rendered markdown markers`);
-      if (id === 'hub-fcb') assert.match(chapters, /可能原有提梁/);
+      if (id === 'hub-fcb') assert.match(chapters, /本应该有一副提梁/);
       if (id === 'hub-jjj') assert.match(chapters, /析君/);
       if (id === 'hub-czd') assert.match(chapters, /当阳/);
       // The field photo must be the image actually served (wait for the decode: ~0.5 MB each).
