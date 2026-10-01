@@ -68,7 +68,8 @@ const batch65 = JSON.parse(readFileSync(new URL('../src/data/stories-batch65.jso
 const batch66 = JSON.parse(readFileSync(new URL('../src/data/stories-batch66.json', import.meta.url), 'utf8'));
 const batch67 = JSON.parse(readFileSync(new URL('../src/data/stories-batch67.json', import.meta.url), 'utf8'));
 const batch68 = JSON.parse(readFileSync(new URL('../src/data/stories-batch68.json', import.meta.url), 'utf8'));
-for (const batch of [batch2, batch3, batch4, batch5, batch6, batch7, batch8, batch9, batch10, batch11, batch12, batch13, batch14, batch15, batch16, batch17, batch18, batch19, batch20, batch21, batch22, batch23, batch24, batch25, batch26, batch27, batch28, batch29, batch31, batch32, batch34, batch35, batch36, batch37, batch38, batch39, batch40, batch42, batch43, batch44, batch45, batch46, batch47, batch48, batch49, batch50, batch51, batch52, batch53, batch54, batch55, batch56, batch57, batch58, batch59, batch60, batch61, batch62, batch63, batch64, batch65, batch66, batch67, batch68]) { data.sources.push(...batch.sources); data.trails.push(...batch.trails); data.stories.push(...batch.stories); }
+const batch69 = JSON.parse(readFileSync(new URL('../src/data/stories-batch69.json', import.meta.url), 'utf8'));
+for (const batch of [batch2, batch3, batch4, batch5, batch6, batch7, batch8, batch9, batch10, batch11, batch12, batch13, batch14, batch15, batch16, batch17, batch18, batch19, batch20, batch21, batch22, batch23, batch24, batch25, batch26, batch27, batch28, batch29, batch31, batch32, batch34, batch35, batch36, batch37, batch38, batch39, batch40, batch42, batch43, batch44, batch45, batch46, batch47, batch48, batch49, batch50, batch51, batch52, batch53, batch54, batch55, batch56, batch57, batch58, batch59, batch60, batch61, batch62, batch63, batch64, batch65, batch66, batch67, batch68, batch69]) { data.sources.push(...batch.sources); data.trails.push(...batch.trails); data.stories.push(...batch.stories); }
 data.stories = [...new Map(data.stories.map(story => [story.id, story])).values()];
 const source = readFileSync(new URL('../src/data/story-routes.ts', import.meta.url), 'utf8');
 const js = ts.transpileModule(source, { compilerOptions: { module: ts.ModuleKind.ESNext, target: ts.ScriptTarget.ES2022 } }).outputText;
@@ -80,13 +81,13 @@ const objects = new Map(museums.flatMap(m => m.artifacts.map(a => [a.id, a])));
 const sources = new Map(data.sources.map(s => [s.id, s]));
 
 test('140 real collection IDs, six curated trails and discoverable standalone stories', () => {
-  assert.equal(data.stories.length, 212); assert.equal(data.trails.length, 6);
+  assert.equal(data.stories.length, 215); assert.equal(data.trails.length, 6);
   const ids = data.stories.map(s => s.id);
-  assert.equal(new Set(ids).size, 212);
+  assert.equal(new Set(ids).size, 215);
   const stops = data.trails.flatMap(t => t.ids);
   assert.equal(stops.length, 20); assert.equal(new Set(stops).size, 20);
   assert.ok(stops.every(id => ids.includes(id)));
-  assert.deepEqual(ids.filter(id => !stops.includes(id)).sort(), [...batch3.stories, ...batch4.stories, ...batch5.stories, ...batch6.stories, ...batch7.stories, ...batch8.stories, ...batch9.stories, ...batch10.stories, ...batch11.stories, ...batch12.stories, ...batch13.stories, ...batch14.stories, ...batch15.stories, ...batch16.stories, ...batch18.stories, ...batch19.stories, ...batch20.stories, ...batch21.stories, ...batch22.stories, ...batch23.stories, ...batch24.stories, ...batch25.stories, ...batch26.stories, ...batch27.stories, ...batch28.stories, ...batch29.stories, ...batch31.stories, ...batch32.stories, ...batch34.stories, ...batch35.stories, ...batch36.stories, ...batch37.stories, ...batch38.stories, ...batch39.stories, ...batch40.stories, ...batch42.stories, ...batch43.stories, ...batch44.stories, ...batch45.stories, ...batch46.stories, ...batch47.stories, ...batch48.stories, ...batch49.stories, ...batch50.stories, ...batch51.stories, ...batch52.stories, ...batch53.stories, ...batch54.stories, ...batch55.stories, ...batch56.stories, ...batch57.stories, ...batch58.stories, ...batch59.stories, ...batch60.stories, ...batch61.stories, ...batch62.stories, ...batch63.stories, ...batch64.stories, ...batch65.stories, ...batch66.stories, ...batch67.stories, ...batch68.stories].map(s => s.id).sort());
+  assert.deepEqual(ids.filter(id => !stops.includes(id)).sort(), [...batch3.stories, ...batch4.stories, ...batch5.stories, ...batch6.stories, ...batch7.stories, ...batch8.stories, ...batch9.stories, ...batch10.stories, ...batch11.stories, ...batch12.stories, ...batch13.stories, ...batch14.stories, ...batch15.stories, ...batch16.stories, ...batch18.stories, ...batch19.stories, ...batch20.stories, ...batch21.stories, ...batch22.stories, ...batch23.stories, ...batch24.stories, ...batch25.stories, ...batch26.stories, ...batch27.stories, ...batch28.stories, ...batch29.stories, ...batch31.stories, ...batch32.stories, ...batch34.stories, ...batch35.stories, ...batch36.stories, ...batch37.stories, ...batch38.stories, ...batch39.stories, ...batch40.stories, ...batch42.stories, ...batch43.stories, ...batch44.stories, ...batch45.stories, ...batch46.stories, ...batch47.stories, ...batch48.stories, ...batch49.stories, ...batch50.stories, ...batch51.stories, ...batch52.stories, ...batch53.stories, ...batch54.stories, ...batch55.stories, ...batch56.stories, ...batch57.stories, ...batch58.stories, ...batch59.stories, ...batch60.stories, ...batch61.stories, ...batch62.stories, ...batch63.stories, ...batch64.stories, ...batch65.stories, ...batch66.stories, ...batch67.stories, ...batch68.stories, ...batch69.stories].map(s => s.id).sort());
   for (const trail of data.trails) {
     assert.ok(trail.ids.length >= 3 && trail.ids.length <= 4);
     assert.ok(trail.intro && trail.takeaway && trail.question);
@@ -133,7 +134,7 @@ test('story prose renders as plain text: no markdown emphasis markers leak into 
 });
 
 test('evidence distinguishes museum material from reported interviews and image rights', () => {
-  assert.equal(data.sources.length, 512); assert.equal(sources.size, 512);
+  assert.equal(data.sources.length, 515); assert.equal(sources.size, 515);
   for (const source of data.sources) {
     assert.equal(new URL(source.url).protocol, 'https:');
     assert.match(source.checkedAt, /^\d{4}-\d{2}-\d{2}$/);
@@ -1845,13 +1846,40 @@ test('batch 65 adds two artifacts photographed on site at the Hubei Provincial M
 
 test('the home beacon rotates over field-visit stories instead of repeating one artifact', async () => {
   const app = readFileSync(new URL('../src/App.tsx', import.meta.url), 'utf8');
-  assert.match(app, /FIELD_IDS = 'hub-zhy hub-zzs hub-ymh hub-hjd hub-hjs hub-hjy hub-zbh hub-zbl hub-hyy hub-qqw hub-nnd hub-xd'/);
+  assert.match(app, /FIELD_IDS = 'hub-zhy hub-zzs hub-ymh hub-hjd hub-hjs hub-hjy hub-zbh hub-zbl hub-hyy hub-qqw hub-nnd hub-xd hub-fcb hub-jjj hub-czd'/);
   assert.match(app, /data-beacon-story=/);
   // The beacon ids must all be real, routable stories with a museum behind them.
-  for (const id of ['hub-zhy', 'hub-zzs', 'hub-ymh', 'hub-hjd', 'hub-hjs', 'hub-hjy', 'hub-zbh', 'hub-zbl', 'hub-hyy', 'hub-qqw', 'hub-nnd', 'hub-xd']) {
+  for (const id of ['hub-zhy', 'hub-zzs', 'hub-ymh', 'hub-hjd', 'hub-hjs', 'hub-hjy', 'hub-zbh', 'hub-zbl', 'hub-hyy', 'hub-qqw', 'hub-nnd', 'hub-xd', 'hub-fcb', 'hub-jjj', 'hub-czd']) {
     assert.ok(objects.has(id), `${id} is an atlas artifact`);
     assert.ok(storyTeaserIndex[id], `${id} is a routable story`);
   }
+});
+
+test('batch 69 adds the square you, the Xi-halberd and the Chu-zi Chao ding', () => {
+  assert.deepEqual(batch69.stories.map(story => story.id), ['hub-fcb', 'hub-jjj', 'hub-czd']);
+  assert.equal(batch69.sources.length, 3);
+  for (const story of batch69.stories) {
+    const artifact = objects.get(story.id);
+    assert.ok(artifact, `${story.id} exists in the atlas`);
+    assert.equal(artifact.story, story.summary, `${story.id} card and story summaries match`);
+    assert.ok(storyTeaserIndex[story.id] && storyTeaserHooks[story.id], `${story.id} is routable with a hook`);
+  }
+  // Square you: the missing handle is presented as an inference from the ring ears.
+  assert.match(batch69.stories[0].summary, /盖呈四面坡屋顶形/);
+  assert.match(batch69.stories[0].sections[2].text, /可能原有提梁/);
+  // Xi-halberd: seven-character inscription, "earliest known enfeoffed lord" stays qualified.
+  assert.match(batch69.stories[1].summary, /七字铭文/);
+  assert.match(batch69.stories[1].sections[1].text, /公元前477年/);
+  assert.match(batch69.stories[1].sections[3].text, /目前所见/);
+  // Chu-zi Chao ding: only three label lines, so no shape or decoration may be asserted.
+  assert.match(batch69.stories[2].summary, /1974年宜昌当阳电一1号墓出土/);
+  assert.doesNotMatch(batch69.stories[2].sections[0].text, /纹饰为|器形为|兽面纹|蟠螭纹/);
+  assert.match(batch69.stories[2].uncertainty, /未附器形/);
+  for (const source of batch69.sources) {
+    assert.equal(new URL(source.url).protocol, 'https:');
+    assert.ok(['search-text', 'full-text', 'abstract-and-note'].includes(source.retrieval));
+  }
+  assert.equal(sources.get('b69-hub-jjj-label').kind, 'field-photograph');
 });
 
 test('batch 68 adds the Sujialong ding group, the buffalo-knob ding and the jade-pommel scraper', () => {

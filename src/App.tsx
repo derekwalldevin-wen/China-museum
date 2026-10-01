@@ -30,22 +30,14 @@ const CollectionResults = lazy(loadCollectionResults);
 // 静态首页审美确认后，再以同一画面重做连续开场。
 const ENABLE_INK_INTRO = true;
 
-// 卷首荐读：优先推作者实地到访过并已写好故事的文物，按日期轮换。
-// 现场看过的器物比每天重复同一件更有意义；《清明上河图》退为兜底，
-// 只在轮换目标缺失时出现（见下方 beaconPick 的兜底分支）。
-const FIELD_IDS = 'hub-zhy hub-zzs hub-ymh hub-hjd hub-hjs hub-hjy hub-zbh hub-zbl hub-hyy hub-qqw hub-nnd hub-xd'.split(' ');
-const beaconDayIndex = Math.floor(Date.now() / 86_400_000) % FIELD_IDS.length;
-const beaconStoryId = FIELD_IDS[beaconDayIndex];
-const beaconMuseum = museums.find(museum => museum.artifacts.some(item => item.id === beaconStoryId));
-const beaconArtifact = beaconMuseum?.artifacts.find(item => item.id === beaconStoryId);
-const beaconName = beaconArtifact?.name ?? '清明上河图';
-const beaconPick = {
-  id: beaconArtifact ? beaconStoryId : 'gg-qmsh',
-  eyebrow: beaconArtifact ? `实地荐读 · ${beaconMuseum?.name}` : '卷首荐读 · 北宋汴京',
-  title: beaconArtifact ? '现场看过它' : '沿一幅长卷，走进一座城',
-  blurb: beaconArtifact ? '照片来自展厅。' : '从《清明上河图》出发。',
-  cta: `从《${beaconName}》启程`,
-};
+// 卷首荐读：只推作者实地到访过、并已写好故事的文物，按日期轮换。
+// 目标 id 全在 FIELD_IDS 内且由 stories.test 断言在册，因此不需要兜底分支；
+// 标题与说明写成静态 JSX 文案，省下首屏预算。
+const FIELD_IDS = 'hub-zhy hub-zzs hub-ymh hub-hjd hub-hjs hub-hjy hub-zbh hub-zbl hub-hyy hub-qqw hub-nnd hub-xd hub-fcb hub-jjj hub-czd'.split(' ');
+const beaconId = FIELD_IDS[Math.floor(Date.now() / 86_400_000) % FIELD_IDS.length];
+const beaconMuseum = museums.find(museum => museum.artifacts.some(item => item.id === beaconId));
+const beaconName = beaconMuseum?.artifacts.find(item => item.id === beaconId)?.name ?? '';
+const beaconPick = { id: beaconId, eyebrow: `实地荐读 · ${beaconMuseum?.name ?? ''}`, cta: `从《${beaconName}》启程` };
 
 function warm(loader: () => Promise<unknown>) {
   void loader().catch(() => { /* The visible error boundary owns recovery. */ });
@@ -511,8 +503,8 @@ export default function App() {
       {!provinceName && ready && !collectionOpen && (
         <aside className="atlas-curator-note atlas-story-beacon absolute z-10 md:left-8 md:bottom-16 md:max-w-[300px]" data-beacon-story={beaconPick.id}>
           <div className="atlas-story-eyebrow"><span /> {beaconPick.eyebrow}</div>
-          <h2>{beaconPick.title}</h2>
-          <p>{beaconPick.blurb}</p>
+          <h2>现场看过它</h2>
+          <p>照片来自展厅。</p>
           <button type="button"
             onPointerEnter={() => warm(loadStoryExperience)} onFocus={() => warm(loadStoryExperience)}
             onClick={() => navigateGuide({ trailId: defaultTrailId(beaconPick.id), storyId: beaconPick.id })}>

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-01T08:15:23.398858+00:00",
+  "generatedAt": "2026-10-01T08:37:55.203786+00:00",
   "policy": {
     "format": "WebP",
     "originalFallback": true,
@@ -14435,6 +14435,297 @@
           "primaryKind": "source"
         }
       }
+    },
+    "hub-fcb": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "primary": {
+            "originalSrc": "/artifact-sources/user-hubei/hub-fcb-card.jpg",
+            "originalWidth": 675,
+            "originalHeight": 900,
+            "format": "image/webp",
+            "candidates": [
+              {
+                "src": "/artifact-responsive/91e5c8bc247ddc2c-card-w240.webp",
+                "width": 240,
+                "height": 320
+              },
+              {
+                "src": "/artifact-responsive/91e5c8bc247ddc2c-card-w400.webp",
+                "width": 400,
+                "height": 533
+              },
+              {
+                "src": "/artifact-responsive/91e5c8bc247ddc2c-card-w640.webp",
+                "width": 640,
+                "height": 853
+              },
+              {
+                "src": "/artifact-responsive/91e5c8bc247ddc2c-card-w675.webp",
+                "width": 675,
+                "height": 900
+              }
+            ]
+          },
+          "primaryKind": "source",
+          "fallback": {
+            "originalSrc": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+            "originalWidth": 1536,
+            "originalHeight": 2048,
+            "format": "image/webp",
+            "candidates": [
+              {
+                "src": "/artifact-responsive/b5121858dfd69b1d-card-w240.webp",
+                "width": 240,
+                "height": 320
+              },
+              {
+                "src": "/artifact-responsive/b5121858dfd69b1d-card-w400.webp",
+                "width": 400,
+                "height": 533
+              },
+              {
+                "src": "/artifact-responsive/b5121858dfd69b1d-card-w640.webp",
+                "width": 640,
+                "height": 853
+              },
+              {
+                "src": "/artifact-responsive/b5121858dfd69b1d-card-w960.webp",
+                "width": 960,
+                "height": 1280
+              }
+            ]
+          },
+          "fallbackKind": "source"
+        },
+        "detail": {
+          "primary": {
+            "originalSrc": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+            "originalWidth": 1536,
+            "originalHeight": 2048,
+            "format": "image/webp",
+            "candidates": [
+              {
+                "src": "/artifact-responsive/b5121858dfd69b1d-detail-w480.webp",
+                "width": 480,
+                "height": 640
+              },
+              {
+                "src": "/artifact-responsive/b5121858dfd69b1d-detail-w800.webp",
+                "width": 800,
+                "height": 1067
+              },
+              {
+                "src": "/artifact-responsive/b5121858dfd69b1d-detail-w1200.webp",
+                "width": 1200,
+                "height": 1600
+              },
+              {
+                "src": "/artifact-responsive/b5121858dfd69b1d-detail-w1536.webp",
+                "width": 1536,
+                "height": 2048
+              }
+            ]
+          },
+          "primaryKind": "source"
+        }
+      }
+    },
+    "hub-jjj": {
+      "hold": false,
+      "shape": "axe",
+      "roles": {
+        "card": {
+          "primary": {
+            "originalSrc": "/artifact-sources/user-hubei/hub-jjj-card.jpg",
+            "originalWidth": 675,
+            "originalHeight": 900,
+            "format": "image/webp",
+            "candidates": [
+              {
+                "src": "/artifact-responsive/e8d8096b5eac026a-card-w240.webp",
+                "width": 240,
+                "height": 320
+              },
+              {
+                "src": "/artifact-responsive/e8d8096b5eac026a-card-w400.webp",
+                "width": 400,
+                "height": 533
+              },
+              {
+                "src": "/artifact-responsive/e8d8096b5eac026a-card-w640.webp",
+                "width": 640,
+                "height": 853
+              },
+              {
+                "src": "/artifact-responsive/e8d8096b5eac026a-card-w675.webp",
+                "width": 675,
+                "height": 900
+              }
+            ]
+          },
+          "primaryKind": "source",
+          "fallback": {
+            "originalSrc": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+            "originalWidth": 1536,
+            "originalHeight": 2048,
+            "format": "image/webp",
+            "candidates": [
+              {
+                "src": "/artifact-responsive/3df79620efa47621-card-w240.webp",
+                "width": 240,
+                "height": 320
+              },
+              {
+                "src": "/artifact-responsive/3df79620efa47621-card-w400.webp",
+                "width": 400,
+                "height": 533
+              },
+              {
+                "src": "/artifact-responsive/3df79620efa47621-card-w640.webp",
+                "width": 640,
+                "height": 853
+              },
+              {
+                "src": "/artifact-responsive/3df79620efa47621-card-w960.webp",
+                "width": 960,
+                "height": 1280
+              }
+            ]
+          },
+          "fallbackKind": "source"
+        },
+        "detail": {
+          "primary": {
+            "originalSrc": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+            "originalWidth": 1536,
+            "originalHeight": 2048,
+            "format": "image/webp",
+            "candidates": [
+              {
+                "src": "/artifact-responsive/3df79620efa47621-detail-w480.webp",
+                "width": 480,
+                "height": 640
+              },
+              {
+                "src": "/artifact-responsive/3df79620efa47621-detail-w800.webp",
+                "width": 800,
+                "height": 1067
+              },
+              {
+                "src": "/artifact-responsive/3df79620efa47621-detail-w1200.webp",
+                "width": 1200,
+                "height": 1600
+              },
+              {
+                "src": "/artifact-responsive/3df79620efa47621-detail-w1536.webp",
+                "width": 1536,
+                "height": 2048
+              }
+            ]
+          },
+          "primaryKind": "source"
+        }
+      }
+    },
+    "hub-czd": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "primary": {
+            "originalSrc": "/artifact-sources/user-hubei/hub-czd-card.jpg",
+            "originalWidth": 675,
+            "originalHeight": 900,
+            "format": "image/webp",
+            "candidates": [
+              {
+                "src": "/artifact-responsive/429384df658ea72a-card-w240.webp",
+                "width": 240,
+                "height": 320
+              },
+              {
+                "src": "/artifact-responsive/429384df658ea72a-card-w400.webp",
+                "width": 400,
+                "height": 533
+              },
+              {
+                "src": "/artifact-responsive/429384df658ea72a-card-w640.webp",
+                "width": 640,
+                "height": 853
+              },
+              {
+                "src": "/artifact-responsive/429384df658ea72a-card-w675.webp",
+                "width": 675,
+                "height": 900
+              }
+            ]
+          },
+          "primaryKind": "source",
+          "fallback": {
+            "originalSrc": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+            "originalWidth": 1536,
+            "originalHeight": 2048,
+            "format": "image/webp",
+            "candidates": [
+              {
+                "src": "/artifact-responsive/4582d67fd347c612-card-w240.webp",
+                "width": 240,
+                "height": 320
+              },
+              {
+                "src": "/artifact-responsive/4582d67fd347c612-card-w400.webp",
+                "width": 400,
+                "height": 533
+              },
+              {
+                "src": "/artifact-responsive/4582d67fd347c612-card-w640.webp",
+                "width": 640,
+                "height": 853
+              },
+              {
+                "src": "/artifact-responsive/4582d67fd347c612-card-w960.webp",
+                "width": 960,
+                "height": 1280
+              }
+            ]
+          },
+          "fallbackKind": "source"
+        },
+        "detail": {
+          "primary": {
+            "originalSrc": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+            "originalWidth": 1536,
+            "originalHeight": 2048,
+            "format": "image/webp",
+            "candidates": [
+              {
+                "src": "/artifact-responsive/4582d67fd347c612-detail-w480.webp",
+                "width": 480,
+                "height": 640
+              },
+              {
+                "src": "/artifact-responsive/4582d67fd347c612-detail-w800.webp",
+                "width": 800,
+                "height": 1067
+              },
+              {
+                "src": "/artifact-responsive/4582d67fd347c612-detail-w1200.webp",
+                "width": 1200,
+                "height": 1600
+              },
+              {
+                "src": "/artifact-responsive/4582d67fd347c612-detail-w1536.webp",
+                "width": 1536,
+                "height": 2048
+              }
+            ]
+          },
+          "primaryKind": "source"
+        }
+      }
     }
   },
   "sources": {
@@ -16690,6 +16981,54 @@
       "src": "/artifact-sources/user-hubei/hub-xd-detail.jpg",
       "sha256": "71bee16e33e9327fadf59909f555748c87e61aff2424cb12b97d2e28f538c7a2",
       "bytes": 208235,
+      "width": 1536,
+      "height": 2048,
+      "format": "JPEG"
+    },
+    "/artifact-sources/user-hubei/hub-fcb-card.jpg": {
+      "src": "/artifact-sources/user-hubei/hub-fcb-card.jpg",
+      "sha256": "91e5c8bc247ddc2c56bb8ab6c6070f9be813567778000417c1db91e8f0259712",
+      "bytes": 89887,
+      "width": 675,
+      "height": 900,
+      "format": "JPEG"
+    },
+    "/artifact-sources/user-hubei/hub-fcb-detail.jpg": {
+      "src": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+      "sha256": "b5121858dfd69b1d10624fd25ed25d5a8970bb383983f4e90bdc507f70a8c7be",
+      "bytes": 507594,
+      "width": 1536,
+      "height": 2048,
+      "format": "JPEG"
+    },
+    "/artifact-sources/user-hubei/hub-jjj-card.jpg": {
+      "src": "/artifact-sources/user-hubei/hub-jjj-card.jpg",
+      "sha256": "e8d8096b5eac026aa9843cd8e318461a8949abda6844721ea2d88ab9b748019b",
+      "bytes": 87491,
+      "width": 675,
+      "height": 900,
+      "format": "JPEG"
+    },
+    "/artifact-sources/user-hubei/hub-jjj-detail.jpg": {
+      "src": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+      "sha256": "3df79620efa47621feff8123f45adb01ddc302d17bff0ca45bbe3d719e190b23",
+      "bytes": 405657,
+      "width": 1536,
+      "height": 2048,
+      "format": "JPEG"
+    },
+    "/artifact-sources/user-hubei/hub-czd-card.jpg": {
+      "src": "/artifact-sources/user-hubei/hub-czd-card.jpg",
+      "sha256": "429384df658ea72aa708228f2365aedeb1853d57860e8579d928f44822b1648e",
+      "bytes": 73929,
+      "width": 675,
+      "height": 900,
+      "format": "JPEG"
+    },
+    "/artifact-sources/user-hubei/hub-czd-detail.jpg": {
+      "src": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+      "sha256": "4582d67fd347c612422f6f0c5ff69772ee3d6439d5fc6202ae4663d5b32f1412",
+      "bytes": 385044,
       "width": 1536,
       "height": 2048,
       "format": "JPEG"
@@ -24649,6 +24988,244 @@
       "aiGenerated": false
     },
     {
+      "src": "/artifact-responsive/3df79620efa47621-card-w240.webp",
+      "width": 240,
+      "height": 320,
+      "bytes": 8130,
+      "sha256": "0b90a6e7052adf9a8cb35ceea5e5ee5195dd228336f8754aa2190d5cdd833ad6",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+      "inputSha256": "3df79620efa47621feff8123f45adb01ddc302d17bff0ca45bbe3d719e190b23",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/3df79620efa47621-card-w400.webp",
+      "width": 400,
+      "height": 533,
+      "bytes": 17644,
+      "sha256": "32f4dd29e75f38fd00c686fd8c29d85e914d35b4238aee55504a5520f4a7916f",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+      "inputSha256": "3df79620efa47621feff8123f45adb01ddc302d17bff0ca45bbe3d719e190b23",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/3df79620efa47621-card-w640.webp",
+      "width": 640,
+      "height": 853,
+      "bytes": 37456,
+      "sha256": "01b6c76c1c88a7b98797b6c2785f2fbc9699ce1ffca6601f8d7c625d7fc94e4c",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+      "inputSha256": "3df79620efa47621feff8123f45adb01ddc302d17bff0ca45bbe3d719e190b23",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/3df79620efa47621-card-w960.webp",
+      "width": 960,
+      "height": 1280,
+      "bytes": 71394,
+      "sha256": "3d01b572c6cda281ccd4fe8874c1d9b89e85f0bc5082da54cab22dac6ae874be",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+      "inputSha256": "3df79620efa47621feff8123f45adb01ddc302d17bff0ca45bbe3d719e190b23",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/3df79620efa47621-detail-w1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 132026,
+      "sha256": "99faf72cbc7f8be44f68565b2b28b414add240d1886d12aff66ca984a4c3d7f4",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+      "inputSha256": "3df79620efa47621feff8123f45adb01ddc302d17bff0ca45bbe3d719e190b23",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/3df79620efa47621-detail-w1536.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 199482,
+      "sha256": "7f47bca765d1ffc5ef59f74b7a574a199d125aec9a44faffb69a852a12403aa2",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+      "inputSha256": "3df79620efa47621feff8123f45adb01ddc302d17bff0ca45bbe3d719e190b23",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/3df79620efa47621-detail-w480.webp",
+      "width": 480,
+      "height": 640,
+      "bytes": 31308,
+      "sha256": "f918e8d9a34b9cb8a2f5e564ccab02b0e7841c412016710b4b535d1235fb1615",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+      "inputSha256": "3df79620efa47621feff8123f45adb01ddc302d17bff0ca45bbe3d719e190b23",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/3df79620efa47621-detail-w800.webp",
+      "width": 800,
+      "height": 1067,
+      "bytes": 70566,
+      "sha256": "caef5d33e8322b151b3740d1eaa83cb56f0ee706b2a2536ce1ee262e2d0bf105",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+      "inputSha256": "3df79620efa47621feff8123f45adb01ddc302d17bff0ca45bbe3d719e190b23",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/429384df658ea72a-card-w240.webp",
+      "width": 240,
+      "height": 320,
+      "bytes": 5800,
+      "sha256": "5a14c1968291b1834b1f4e39b97f0980389814e3e378807eb0a56f5936859761",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-czd-card.jpg",
+      "inputSha256": "429384df658ea72aa708228f2365aedeb1853d57860e8579d928f44822b1648e",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/429384df658ea72a-card-w400.webp",
+      "width": 400,
+      "height": 533,
+      "bytes": 13874,
+      "sha256": "1033084006a999d6ca73a1f3fb371de669463ab698d5bf983821e867e843f978",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-czd-card.jpg",
+      "inputSha256": "429384df658ea72aa708228f2365aedeb1853d57860e8579d928f44822b1648e",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/429384df658ea72a-card-w640.webp",
+      "width": 640,
+      "height": 853,
+      "bytes": 32450,
+      "sha256": "0afbb690670954cc3c56897fc8f8477f18a3c9441d101e12b32580230994dd6a",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-czd-card.jpg",
+      "inputSha256": "429384df658ea72aa708228f2365aedeb1853d57860e8579d928f44822b1648e",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/429384df658ea72a-card-w675.webp",
+      "width": 675,
+      "height": 900,
+      "bytes": 37308,
+      "sha256": "a1a3ef56d161aab9f56fc21e82bb38b70eee3a7da296b51e9437022babb47d45",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-czd-card.jpg",
+      "inputSha256": "429384df658ea72aa708228f2365aedeb1853d57860e8579d928f44822b1648e",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
       "src": "/artifact-responsive/4322deb9cd8c156e-card-w240.webp",
       "width": 240,
       "height": 240,
@@ -25134,6 +25711,165 @@
       "operations": [
         "EXIF orientation normalization",
         "WebP encoding"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/4582d67fd347c612-card-w240.webp",
+      "width": 240,
+      "height": 320,
+      "bytes": 5860,
+      "sha256": "ab91c66dd235f299f7b9beb3aac1f4b651729decb93057934f437e389d4a0b60",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+      "inputSha256": "4582d67fd347c612422f6f0c5ff69772ee3d6439d5fc6202ae4663d5b32f1412",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/4582d67fd347c612-card-w400.webp",
+      "width": 400,
+      "height": 533,
+      "bytes": 13864,
+      "sha256": "d0d493b2dd5061f5ba05d25e44e1544649f53da0e71d8dc1812b0b90f59b5324",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+      "inputSha256": "4582d67fd347c612422f6f0c5ff69772ee3d6439d5fc6202ae4663d5b32f1412",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/4582d67fd347c612-card-w640.webp",
+      "width": 640,
+      "height": 853,
+      "bytes": 33194,
+      "sha256": "d6b1db55e2974dd81d53b68e4542fb33c61902d296ae830666760f3af064c2bf",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+      "inputSha256": "4582d67fd347c612422f6f0c5ff69772ee3d6439d5fc6202ae4663d5b32f1412",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/4582d67fd347c612-card-w960.webp",
+      "width": 960,
+      "height": 1280,
+      "bytes": 67582,
+      "sha256": "48c99138e6fc49181f367202ff4dd9b5cd512f31866105e3696f85570b075ced",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+      "inputSha256": "4582d67fd347c612422f6f0c5ff69772ee3d6439d5fc6202ae4663d5b32f1412",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/4582d67fd347c612-detail-w1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 137176,
+      "sha256": "751d45424516a8d49afdf9c662c9941a8851967190578d87dabc2ca042c1b723",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+      "inputSha256": "4582d67fd347c612422f6f0c5ff69772ee3d6439d5fc6202ae4663d5b32f1412",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/4582d67fd347c612-detail-w1536.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 214504,
+      "sha256": "40af70da17eb7f98be1428a4a01300e941f7d09d922fcea3f36d562004cc274d",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+      "inputSha256": "4582d67fd347c612422f6f0c5ff69772ee3d6439d5fc6202ae4663d5b32f1412",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/4582d67fd347c612-detail-w480.webp",
+      "width": 480,
+      "height": 640,
+      "bytes": 26674,
+      "sha256": "8f296908263bc99564ae24e728e8bbf66a35ffd31c639938d9a310183af44cfe",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+      "inputSha256": "4582d67fd347c612422f6f0c5ff69772ee3d6439d5fc6202ae4663d5b32f1412",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/4582d67fd347c612-detail-w800.webp",
+      "width": 800,
+      "height": 1067,
+      "bytes": 66982,
+      "sha256": "6e1d1a0c89369e0fa33057e87e2b2eec9a87e93914f38a294179dfef9cf70d88",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+      "inputSha256": "4582d67fd347c612422f6f0c5ff69772ee3d6439d5fc6202ae4663d5b32f1412",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
       ],
       "cropped": false,
       "upscaled": false,
@@ -33740,6 +34476,85 @@
       "aiGenerated": false
     },
     {
+      "src": "/artifact-responsive/91e5c8bc247ddc2c-card-w240.webp",
+      "width": 240,
+      "height": 320,
+      "bytes": 5878,
+      "sha256": "e1091cc177abf5fec1144085a523bf406bd1dbd3279549663f5e9f748fe9540e",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-fcb-card.jpg",
+      "inputSha256": "91e5c8bc247ddc2c56bb8ab6c6070f9be813567778000417c1db91e8f0259712",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/91e5c8bc247ddc2c-card-w400.webp",
+      "width": 400,
+      "height": 533,
+      "bytes": 14710,
+      "sha256": "908edf5604382197c061691fe61336e4d03fbfc56612678b920e2593f320235e",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-fcb-card.jpg",
+      "inputSha256": "91e5c8bc247ddc2c56bb8ab6c6070f9be813567778000417c1db91e8f0259712",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/91e5c8bc247ddc2c-card-w640.webp",
+      "width": 640,
+      "height": 853,
+      "bytes": 35902,
+      "sha256": "ab01c20c2db8a6cff6ca4d73e540dbfb0f4049d5de0243948afbbc9def511dca",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-fcb-card.jpg",
+      "inputSha256": "91e5c8bc247ddc2c56bb8ab6c6070f9be813567778000417c1db91e8f0259712",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/91e5c8bc247ddc2c-card-w675.webp",
+      "width": 675,
+      "height": 900,
+      "bytes": 42730,
+      "sha256": "7342b20545051af203f52f0c9ff094062cf35b3ef991602238f9c5844aadaf30",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-fcb-card.jpg",
+      "inputSha256": "91e5c8bc247ddc2c56bb8ab6c6070f9be813567778000417c1db91e8f0259712",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
       "src": "/artifact-responsive/922aadeb6c973a8b-card-w240.webp",
       "width": 240,
       "height": 360,
@@ -37849,6 +38664,165 @@
       "format": "WEBP",
       "inputSrc": "/artifacts-v2/p1/js-hjm.png",
       "inputSha256": "b4f1c27e50f4c1713d2e91cefadef28202906ba81712ce91085347ae6d022154",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/b5121858dfd69b1d-card-w240.webp",
+      "width": 240,
+      "height": 320,
+      "bytes": 5898,
+      "sha256": "361dd1756f0a2d4c9113212da744d6757d7dec90e16a6bdad262827eae6e4084",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+      "inputSha256": "b5121858dfd69b1d10624fd25ed25d5a8970bb383983f4e90bdc507f70a8c7be",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/b5121858dfd69b1d-card-w400.webp",
+      "width": 400,
+      "height": 533,
+      "bytes": 14524,
+      "sha256": "b83fd0c44b2f833b0ec96487c67b6e63cc18404ad9bd00790d57b0aa62d73476",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+      "inputSha256": "b5121858dfd69b1d10624fd25ed25d5a8970bb383983f4e90bdc507f70a8c7be",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/b5121858dfd69b1d-card-w640.webp",
+      "width": 640,
+      "height": 853,
+      "bytes": 36630,
+      "sha256": "82dabbcd9a5a62352dc65cd560a779edb7187673404f70fc7f3a430ee0ca5951",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+      "inputSha256": "b5121858dfd69b1d10624fd25ed25d5a8970bb383983f4e90bdc507f70a8c7be",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/b5121858dfd69b1d-card-w960.webp",
+      "width": 960,
+      "height": 1280,
+      "bytes": 86912,
+      "sha256": "857fed689f648690d6df02e77a9132e274fcb1ea3e1fd3dd07cc0d43d5673f12",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+      "inputSha256": "b5121858dfd69b1d10624fd25ed25d5a8970bb383983f4e90bdc507f70a8c7be",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/b5121858dfd69b1d-detail-w1200.webp",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 191150,
+      "sha256": "d3f0d2b6d274bdd60acdfccf32513753ba2c18dcbe4f42d651cd98b81dd294f1",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+      "inputSha256": "b5121858dfd69b1d10624fd25ed25d5a8970bb383983f4e90bdc507f70a8c7be",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/b5121858dfd69b1d-detail-w1536.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 309408,
+      "sha256": "bb4e1af11c27d97576b2339bff1f66dd48021af99d342210f768eb3d2e152bb9",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+      "inputSha256": "b5121858dfd69b1d10624fd25ed25d5a8970bb383983f4e90bdc507f70a8c7be",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/b5121858dfd69b1d-detail-w480.webp",
+      "width": 480,
+      "height": 640,
+      "bytes": 30540,
+      "sha256": "c1e72f32d6b5aed8a9c5dbd6b752a15fe30a3a5069faac1693d78fa35a671d3a",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+      "inputSha256": "b5121858dfd69b1d10624fd25ed25d5a8970bb383983f4e90bdc507f70a8c7be",
+      "profile": "detail",
+      "quality": 88,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/b5121858dfd69b1d-detail-w800.webp",
+      "width": 800,
+      "height": 1067,
+      "bytes": 89508,
+      "sha256": "32530795ce1513a706d4a94d576f11729e53ff98d20039f85fe04c24b75b16ab",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+      "inputSha256": "b5121858dfd69b1d10624fd25ed25d5a8970bb383983f4e90bdc507f70a8c7be",
       "profile": "detail",
       "quality": 88,
       "operations": [
@@ -43700,6 +44674,85 @@
       "aiGenerated": false
     },
     {
+      "src": "/artifact-responsive/e8d8096b5eac026a-card-w240.webp",
+      "width": 240,
+      "height": 320,
+      "bytes": 8188,
+      "sha256": "8f1f80f6abe31621d18fb727da68f3a191dab362c0598a2e25dfdd2ad523d683",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-jjj-card.jpg",
+      "inputSha256": "e8d8096b5eac026aa9843cd8e318461a8949abda6844721ea2d88ab9b748019b",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/e8d8096b5eac026a-card-w400.webp",
+      "width": 400,
+      "height": 533,
+      "bytes": 17784,
+      "sha256": "d53b33e4a3d247655db6b20a37bfa0c22881073d301f18d2957b64d3c9e76901",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-jjj-card.jpg",
+      "inputSha256": "e8d8096b5eac026aa9843cd8e318461a8949abda6844721ea2d88ab9b748019b",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/e8d8096b5eac026a-card-w640.webp",
+      "width": 640,
+      "height": 853,
+      "bytes": 36808,
+      "sha256": "16b5b040d1d12e1a4e798079e6ce1528c7313116e20a3806540d475e1557717f",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-jjj-card.jpg",
+      "inputSha256": "e8d8096b5eac026aa9843cd8e318461a8949abda6844721ea2d88ab9b748019b",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding",
+        "Lanczos proportional downscale"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
+      "src": "/artifact-responsive/e8d8096b5eac026a-card-w675.webp",
+      "width": 675,
+      "height": 900,
+      "bytes": 41266,
+      "sha256": "eec4ad17d8b98f6eb3dab004e5a3e2c7a6670904cbe12abff340b4540529789b",
+      "format": "WEBP",
+      "inputSrc": "/artifact-sources/user-hubei/hub-jjj-card.jpg",
+      "inputSha256": "e8d8096b5eac026aa9843cd8e318461a8949abda6844721ea2d88ab9b748019b",
+      "profile": "card",
+      "quality": 82,
+      "operations": [
+        "EXIF orientation normalization",
+        "WebP encoding"
+      ],
+      "cropped": false,
+      "upscaled": false,
+      "aiGenerated": false
+    },
+    {
       "src": "/artifact-responsive/ea364afc4dfa7371-card-w240.webp",
       "width": 240,
       "height": 360,
@@ -46673,13 +47726,13 @@
     }
   ],
   "summary": {
-    "artifactRecords": 217,
-    "eligibleArtifacts": 217,
+    "artifactRecords": 220,
+    "eligibleArtifacts": 220,
     "heldArtifacts": 0,
-    "sourceAssets": 282,
-    "sourceBytes": 170851034,
-    "derivatives": 1520,
-    "derivativeBytes": 80214620,
+    "sourceAssets": 288,
+    "sourceBytes": 172400636,
+    "derivatives": 1556,
+    "derivativeBytes": 82405730,
     "largestSourceBytes": 3990673,
     "largestDerivativeBytes": 2951844,
     "illustrationOnlyArtifacts": 0

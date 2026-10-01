@@ -4668,6 +4668,78 @@
           }
         }
       }
+    },
+    "hub-fcb": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-fcb-card.jpg",
+            "kind": "source"
+          },
+          "fallback": {
+            "src": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hub-jjj": {
+      "hold": false,
+      "shape": "axe",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-jjj-card.jpg",
+            "kind": "source"
+          },
+          "fallback": {
+            "src": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hub-czd": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-czd-card.jpg",
+            "kind": "source"
+          },
+          "fallback": {
+            "src": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+            "kind": "source"
+          }
+        }
+      }
     }
   }
 }

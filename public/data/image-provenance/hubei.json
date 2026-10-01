@@ -15,7 +15,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "5d65b279c1f723761791dff641a2bad29b32473b4a5caa4ea6f09757e23f5a09",
       "originalSha256": "44276f1eec0f7312e90d624cd88e1db3ef7b1a4d8012f88193a1a7fbb2e27aea",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 900 像素并重编码 JPEG（quality 88，progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_153945.jpg",
       "author": "德里克文",
@@ -27,7 +27,7 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     },
     "detail": {
@@ -41,7 +41,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "aa18ac07eeab5ed2a116c333b220563dd78d40e37be0fed219d62e055578be6e",
       "originalSha256": "44276f1eec0f7312e90d624cd88e1db3ef7b1a4d8012f88193a1a7fbb2e27aea",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（quality 90，progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_153945.jpg",
       "author": "德里克文",
@@ -53,7 +53,7 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     }
    },
@@ -71,7 +71,7 @@
    ],
    "sourceReview": {
     "reviewedAt": "2026-10-01",
-    "note": "作者 2025-03-07 现场拍摄；照片已剥离 EXIF/GPS。授权 pending（未取得馆方许可），器物事实另见 stories-batch65 的来源条目。"
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
    }
   },
   "hub-zzs": {
@@ -89,7 +89,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "eb2f8d129813ee0edec87570b55b0a0f510742ffd17ff873d773f05066f6ad95",
       "originalSha256": "69c9ddb45757c6457154f3d23339668e4db3e0c08fe0043df0ced1e2b1f15e94",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 900 像素并重编码 JPEG（quality 88，progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150010.jpg",
       "author": "德里克文",
@@ -101,7 +101,7 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     },
     "detail": {
@@ -115,7 +115,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "3dee348c5762da65a33b7bb04e0aa2a7bc0d9d4e9fddc02b77952926cc972875",
       "originalSha256": "69c9ddb45757c6457154f3d23339668e4db3e0c08fe0043df0ced1e2b1f15e94",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（quality 90，progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150010.jpg",
       "author": "德里克文",
@@ -127,13 +127,13 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     }
    },
    "sourceReview": {
     "reviewedAt": "2026-10-01",
-    "note": "作者 2025-03-07 现场拍摄；照片已剥离 EXIF/GPS。授权 pending（未取得馆方许可），器物事实另见 stories-batch65 的来源条目。"
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
    }
   },
   "hub-ymh": {
@@ -151,7 +151,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "b22a8bd80716006d0f52f3e83112ef3af34bdbecae10475e793e72150bed68c4",
       "originalSha256": "92cc8a0d756a4beafb6980b4d4d327e6be35bb4d2fb44a0f14a6a8307c856fa3",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 900 像素并重编码 JPEG（quality 88，progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_152958.jpg",
       "author": "德里克文",
@@ -163,7 +163,7 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     },
     "detail": {
@@ -177,7 +177,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "06e457e6d8e0b907f09e19e8956b9a509e15e3cc881ef09efea2f477a7bdc228",
       "originalSha256": "92cc8a0d756a4beafb6980b4d4d327e6be35bb4d2fb44a0f14a6a8307c856fa3",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（quality 90，progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_152958.jpg",
       "author": "德里克文",
@@ -189,13 +189,13 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     }
    },
    "sourceReview": {
     "reviewedAt": "2026-10-01",
-    "note": "作者 2025-03-07 现场拍摄；照片已剥离 EXIF/GPS。授权 pending（未取得馆方许可），器物事实另见 stories-batch65 的来源条目。"
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
    }
   },
   "hub-hjd": {
@@ -213,7 +213,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "fc5056facf9b0622c4b847f93ab449f5fe7c3a305d488a07d310ff12b8dbe0db",
       "originalSha256": "bc9da26d8a4547097b0f9236c3d7b1cece4d6fef2a6aaea47c43922832f43dd3",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150430.jpg",
       "author": "德里克文",
@@ -225,7 +225,7 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     },
     "detail": {
@@ -239,7 +239,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "18542fdc7b6006add0fe1ead6f38279d58501482ef34871747f7ca55d3aa5dea",
       "originalSha256": "bc9da26d8a4547097b0f9236c3d7b1cece4d6fef2a6aaea47c43922832f43dd3",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150430.jpg",
       "author": "德里克文",
@@ -251,13 +251,13 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     }
    },
    "sourceReview": {
     "reviewedAt": "2026-10-01",
-    "note": "作者 2025-03-07 现场拍摄；另有同批展签证据图 /artifact-sources/user-hubei/labels/hub-hjd-label.jpg。授权 pending。"
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
    }
   },
   "hub-hjs": {
@@ -275,7 +275,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "a0b7a24a09560b445acc15e27c7ef77a04e1ba8c06fb1766ea769a16d641380c",
       "originalSha256": "d7a70f134658d9c5f4b16b1af0ab8f6a285de9ebad8368594b50a93e625b72e2",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150515.jpg",
       "author": "德里克文",
@@ -287,7 +287,7 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     },
     "detail": {
@@ -301,7 +301,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "b040c7482d93967e9c47645a980ae92b564cab9b748080f115bdca4840dc2f36",
       "originalSha256": "d7a70f134658d9c5f4b16b1af0ab8f6a285de9ebad8368594b50a93e625b72e2",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150515.jpg",
       "author": "德里克文",
@@ -313,13 +313,13 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     }
    },
    "sourceReview": {
     "reviewedAt": "2026-10-01",
-    "note": "作者 2025-03-07 现场拍摄；另有同批展签证据图 /artifact-sources/user-hubei/labels/hub-hjs-label.jpg。授权 pending。"
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
    }
   },
   "hub-hjy": {
@@ -337,7 +337,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "dbff5910fa1793e7a334cb591e39b4b289d1bb19d90012df79fbf65b4d575e1a",
       "originalSha256": "012353879e50a60057ca513f986c5713d7eaa937b21e447d0186706c12f80bf5",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150037.jpg",
       "author": "德里克文",
@@ -349,7 +349,7 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     },
     "detail": {
@@ -363,7 +363,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "46c2d978df02806ddbd84ee9911a23dda998b4e05372b2bf26ccc35cbdc18b29",
       "originalSha256": "012353879e50a60057ca513f986c5713d7eaa937b21e447d0186706c12f80bf5",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150037.jpg",
       "author": "德里克文",
@@ -375,13 +375,13 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     }
    },
    "sourceReview": {
     "reviewedAt": "2026-10-01",
-    "note": "作者 2025-03-07 现场拍摄；另有同批展签证据图 /artifact-sources/user-hubei/labels/hub-hjy-label.jpg。授权 pending。"
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
    }
   },
   "hub-zbh": {
@@ -399,7 +399,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "0fb30dc2ab4ccdb8f0c02cc37e51b781f71404f615e8cd63cd0083e9059d60da",
       "originalSha256": "df44148d0ef19b8d047843f0d8978cb9160d63702313aeedbc02c644ae8783d9",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150318.jpg",
       "author": "德里克文",
@@ -411,7 +411,7 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     },
     "detail": {
@@ -425,7 +425,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "8b7f0238bd6ab79851cce1e4d1844a73c430085dbb1673ccbb35e5eb0d922eba",
       "originalSha256": "df44148d0ef19b8d047843f0d8978cb9160d63702313aeedbc02c644ae8783d9",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150318.jpg",
       "author": "德里克文",
@@ -437,13 +437,13 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     }
    },
    "sourceReview": {
     "reviewedAt": "2026-10-01",
-    "note": "作者 2025-03-07 现场拍摄；另有同批展签证据图 /artifact-sources/user-hubei/labels/hub-zbh-label.jpg。授权 pending。"
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
    }
   },
   "hub-zbl": {
@@ -461,7 +461,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "cd73d4c44bcd98b20293078da9ffa3cabbfc08fb9c32e9172bcb43926b17a8d2",
       "originalSha256": "7db3f0c863beaf9c48c77be93e6b2a6870d21e73982b38f0e7e987c205c21515",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150333.jpg",
       "author": "德里克文",
@@ -473,7 +473,7 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     },
     "detail": {
@@ -487,7 +487,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "f74d7d3af45e1903307697ad95c28f0cf6130a5025b34f4824d8962e3d42c4dd",
       "originalSha256": "7db3f0c863beaf9c48c77be93e6b2a6870d21e73982b38f0e7e987c205c21515",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150333.jpg",
       "author": "德里克文",
@@ -499,13 +499,13 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     }
    },
    "sourceReview": {
     "reviewedAt": "2026-10-01",
-    "note": "作者 2025-03-07 现场拍摄；另有同批展签证据图 /artifact-sources/user-hubei/labels/hub-zbl-label.jpg。授权 pending。"
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
    }
   },
   "hub-hyy": {
@@ -523,7 +523,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "b2b5037eff6035c54b5ede2b8da24491bc5b02aa7643ac8b42942463e39f0636",
       "originalSha256": "b433b900ea2b2f0c6cd068adc21966e65d551f83ec685d8fd6dd35d0353753fa",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_151537.jpg",
       "author": "德里克文",
@@ -535,7 +535,7 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     },
     "detail": {
@@ -549,7 +549,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "258a329c80f149c25c181d44f1e0ad2880c03e17f58aeed8e26f7ab96c21b12b",
       "originalSha256": "b433b900ea2b2f0c6cd068adc21966e65d551f83ec685d8fd6dd35d0353753fa",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_151537.jpg",
       "author": "德里克文",
@@ -561,13 +561,13 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     }
    },
    "sourceReview": {
     "reviewedAt": "2026-10-01",
-    "note": "作者 2025-03-07 现场拍摄；另有同批展签证据图 /artifact-sources/user-hubei/labels/hub-hyy-label.jpg。授权 pending。"
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
    }
   },
   "hub-qqw": {
@@ -585,7 +585,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "15504ae256a72633f57e3caeab07e272644142d2e1b9a49f9949a9286b1e5e1e",
       "originalSha256": "c377dc32c4a7b52ec1b5b172050af4d2590a3dfec86de4f0059b19aa57c478c1",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150135.jpg",
       "author": "德里克文",
@@ -597,7 +597,7 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     },
     "detail": {
@@ -611,7 +611,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "beb7405a929eb55f1988c9ab91f6bd3ac0ec700e01d7487e8febba2e5cf8ea67",
       "originalSha256": "c377dc32c4a7b52ec1b5b172050af4d2590a3dfec86de4f0059b19aa57c478c1",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_150135.jpg",
       "author": "德里克文",
@@ -623,13 +623,13 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     }
    },
    "sourceReview": {
     "reviewedAt": "2026-10-01",
-    "note": "作者 2025-03-07 现场拍摄；另有同批展签证据图 /artifact-sources/user-hubei/labels/hub-qqw-label.jpg。授权 pending。"
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
    }
   },
   "hub-nnd": {
@@ -647,7 +647,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "33d2364497817c4c7dba74f67af1780cea347340239961a83163672e3cae9dbe",
       "originalSha256": "83e224dd441f39a778914ab7a1bd8a94dfefef6b06bcb84aa1821e463e25de63",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_151643.jpg",
       "author": "德里克文",
@@ -659,7 +659,7 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     },
     "detail": {
@@ -673,7 +673,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "ce7774174ed51f7d7e737ff0b9f21bc83322ffe67c9094c6130f1409d2bfdf27",
       "originalSha256": "83e224dd441f39a778914ab7a1bd8a94dfefef6b06bcb84aa1821e463e25de63",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_151643.jpg",
       "author": "德里克文",
@@ -685,13 +685,13 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     }
    },
    "sourceReview": {
     "reviewedAt": "2026-10-01",
-    "note": "作者 2025-03-07 现场拍摄；另有同批展签证据图 /artifact-sources/user-hubei/labels/hub-nnd-label.jpg。授权 pending。"
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
    }
   },
   "hub-xd": {
@@ -709,7 +709,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "8dbf27edb7c4adde7dd29cab3145e722dad1949b9dd47d8fdd708a7cfd2744b2",
       "originalSha256": "0442498cb559be326ecbf378283e7f0077249144d50cd7f9dda350c96a75faec",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_153203.jpg",
       "author": "德里克文",
@@ -721,7 +721,7 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     },
     "detail": {
@@ -735,7 +735,7 @@
       "assetMatchStatus": "verified",
       "assetSha256": "71bee16e33e9327fadf59909f555748c87e61aff2424cb12b97d2e28f538c7a2",
       "originalSha256": "0442498cb559be326ecbf378283e7f0077249144d50cd7f9dda350c96a75faec",
-      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆「曾世家」特展展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切主体、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
       "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
       "sourceTitle": "IMG_20250307_153203.jpg",
       "author": "德里克文",
@@ -747,13 +747,199 @@
       "historical": "pending",
       "reviewedAt": "2026-10-01",
       "reviewedBy": "DeepSeek field-photo review",
-      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌（见 labels/ 同名证据图）为准。"
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
      }
     }
    },
    "sourceReview": {
     "reviewedAt": "2026-10-01",
-    "note": "作者 2025-03-07 现场拍摄；另有同批展签证据图 /artifact-sources/user-hubei/labels/hub-xd-label.jpg。授权 pending。"
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
+   }
+  },
+  "hub-fcb": {
+   "src": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+   "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/user-hubei/hub-fcb-card.jpg",
+     "kind": "source",
+     "fit": "cover",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "91e5c8bc247ddc2c56bb8ab6c6070f9be813567778000417c1db91e8f0259712",
+      "originalSha256": "ad788bdf31284311968bee0bcf22ab6d88d5f2c1fb7c569e6ab945f26c7aba7a",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
+      "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_150027.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "b5121858dfd69b1d10624fd25ed25d5a8970bb383983f4e90bdc507f70a8c7be",
+      "originalSha256": "ad788bdf31284311968bee0bcf22ab6d88d5f2c1fb7c569e6ab945f26c7aba7a",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
+      "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_150027.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-01",
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
+   }
+  },
+  "hub-jjj": {
+   "src": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+   "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/user-hubei/hub-jjj-card.jpg",
+     "kind": "source",
+     "fit": "cover",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "e8d8096b5eac026aa9843cd8e318461a8949abda6844721ea2d88ab9b748019b",
+      "originalSha256": "7c023fe649d9c609d6b6cce18296d37f622060084fe82d6f2f2c8b4e636d68e8",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
+      "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_154051.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "3df79620efa47621feff8123f45adb01ddc302d17bff0ca45bbe3d719e190b23",
+      "originalSha256": "7c023fe649d9c609d6b6cce18296d37f622060084fe82d6f2f2c8b4e636d68e8",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
+      "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_154051.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-01",
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
+   }
+  },
+  "hub-czd": {
+   "src": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+   "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/user-hubei/hub-czd-card.jpg",
+     "kind": "source",
+     "fit": "cover",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "429384df658ea72aa708228f2365aedeb1853d57860e8579d928f44822b1648e",
+      "originalSha256": "98b868e732b363c20bee30aa78d2bcd7875b148ac24abc3b3ef825b911a4a040",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
+      "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_153722.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "4582d67fd347c612422f6f0c5ff69772ee3d6439d5fc6202ae4663d5b32f1412",
+      "originalSha256": "98b868e732b363c20bee30aa78d2bcd7875b148ac24abc3b3ef825b911a4a040",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
+      "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_153722.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-01",
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
    }
   },
   "hub-ywj": {
@@ -1186,6 +1372,96 @@
      },
      {
       "src": "/artifact-responsive/71bee16e33e9327f-detail-w1536.webp",
+      "width": 1536,
+      "height": 2048
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hub-fcb": {
+   "src": "/artifact-sources/user-hubei/hub-fcb-detail.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b5121858dfd69b1d-detail-w480.webp",
+      "width": 480,
+      "height": 640
+     },
+     {
+      "src": "/artifact-responsive/b5121858dfd69b1d-detail-w800.webp",
+      "width": 800,
+      "height": 1067
+     },
+     {
+      "src": "/artifact-responsive/b5121858dfd69b1d-detail-w1200.webp",
+      "width": 1200,
+      "height": 1600
+     },
+     {
+      "src": "/artifact-responsive/b5121858dfd69b1d-detail-w1536.webp",
+      "width": 1536,
+      "height": 2048
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hub-jjj": {
+   "src": "/artifact-sources/user-hubei/hub-jjj-detail.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/3df79620efa47621-detail-w480.webp",
+      "width": 480,
+      "height": 640
+     },
+     {
+      "src": "/artifact-responsive/3df79620efa47621-detail-w800.webp",
+      "width": 800,
+      "height": 1067
+     },
+     {
+      "src": "/artifact-responsive/3df79620efa47621-detail-w1200.webp",
+      "width": 1200,
+      "height": 1600
+     },
+     {
+      "src": "/artifact-responsive/3df79620efa47621-detail-w1536.webp",
+      "width": 1536,
+      "height": 2048
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hub-czd": {
+   "src": "/artifact-sources/user-hubei/hub-czd-detail.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/4582d67fd347c612-detail-w480.webp",
+      "width": 480,
+      "height": 640
+     },
+     {
+      "src": "/artifact-responsive/4582d67fd347c612-detail-w800.webp",
+      "width": 800,
+      "height": 1067
+     },
+     {
+      "src": "/artifact-responsive/4582d67fd347c612-detail-w1200.webp",
+      "width": 1200,
+      "height": 1600
+     },
+     {
+      "src": "/artifact-responsive/4582d67fd347c612-detail-w1536.webp",
       "width": 1536,
       "height": 2048
      }

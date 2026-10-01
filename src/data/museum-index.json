@@ -1398,6 +1398,30 @@
     "shape": "misc"
    },
    {
+    "id": "hub-fcb",
+    "name": "垂鳞纹铜方卣",
+    "dynasty": "春秋",
+    "era": "先秦",
+    "category": "青铜器",
+    "shape": "pot"
+   },
+   {
+    "id": "hub-jjj",
+    "name": "析君铜戟",
+    "dynasty": "战国",
+    "era": "先秦",
+    "category": "青铜器",
+    "shape": "axe"
+   },
+   {
+    "id": "hub-czd",
+    "name": "楚子趠鼎",
+    "dynasty": "春秋",
+    "era": "先秦",
+    "category": "青铜器",
+    "shape": "ding"
+   },
+   {
     "id": "hub-ywj",
     "name": "春秋越王勾践剑",
     "dynasty": "春秋",

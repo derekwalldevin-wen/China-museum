@@ -212,4 +212,7 @@ export const storyTeaserHooks: Record<string, string> = {
   'hub-qqw': '一套“九鼎八簋”，为什么会少一只簋？',
   'hub-nnd': '鼎盖上为什么要安一只牛？',
   'hub-xd': '削刀上的玉环，为什么会两面雕云纹？',
+  'hub-fcb': '一只方卣，为什么说它“本该有提梁”？',
+  'hub-jjj': '一句七字铭文，为什么能引出“最早的封君”？',
+  'hub-czd': '一件只有三行展签的鼎，能讲什么？',
 };

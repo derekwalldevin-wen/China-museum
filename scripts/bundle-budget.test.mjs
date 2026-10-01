@@ -58,7 +58,7 @@ test('full museum descriptions and search prose stay out of the first screen', (
   assert.equal(payloadChunks.length, 59);
   assert.ok(payloadChunks.reduce((sum, file) => sum + statSync(new URL(file, assetsUrl)).size, 0) <= 105_000);
   // Collection expansion grows only this deferred search JSON, not the initial JS.
-  assert.ok(statSync(new URL(artifactSearch, assetsUrl)).size <= 54_000);
+  assert.ok(statSync(new URL(artifactSearch, assetsUrl)).size <= 56_000);
   assert.doesNotMatch(initialText, /张择端《清明上河图》是北宋/);
   assert.doesNotMatch(initialText, /authorizationStatus/);
   assert.doesNotMatch(html, /artifact-search|gugong-|guobo-/);
@@ -68,18 +68,18 @@ test('full museum descriptions and search prose stay out of the first screen', (
 
 test('responsive card delivery stays deferred and complete provenance stays in 59 static payloads', () => {
   // Five more artifacts add safe delivery URLs only to this deferred card list.
-  assert.ok(imageGeneration.cardManifest.bytes <= 180_000, `card manifest is ${imageGeneration.cardManifest.bytes} B`);
+  assert.ok(imageGeneration.cardManifest.bytes <= 182_000, `card manifest is ${imageGeneration.cardManifest.bytes} B`);
   const provenanceDirectory = new URL('../dist/data/image-provenance/', import.meta.url);
   const provenanceFiles = readdirSync(provenanceDirectory).filter(file => file.endsWith('.json')).sort();
   assert.equal(provenanceFiles.length, 59);
   assert.deepEqual(provenanceFiles, imageGeneration.provenancePayloads.files.map(item => `${item.id}.json`).sort());
   // Full AI evidence remains in per-museum payloads, not the first-screen JavaScript.
-  assert.ok(provenanceFiles.reduce((sum, file) => sum + statSync(new URL(file, provenanceDirectory)).size, 0) <= 372_000);
+  assert.ok(provenanceFiles.reduce((sum, file) => sum + statSync(new URL(file, provenanceDirectory)).size, 0) <= 378_000);
   const responsive = one(/^ResponsiveArtifactImage-[\w-]+\.js$/);
   // 2026-10-01: two field-photographed Hubei artifacts (and hub-zhy switching to a real photo)
   // added their responsive delivery URLs to this deferred gallery chunk; the ceiling moved
   // The ceiling tracks the atlas size: 122 kB at 206 artifacts, 126 kB at 208, 134 kB at 214.
-  assert.ok(statSync(new URL(responsive, assetsUrl)).size <= 136_000, `${responsive} exceeds 134kB`);
+  assert.ok(statSync(new URL(responsive, assetsUrl)).size <= 140_000, `${responsive} exceeds 134kB`);
   assert.doesNotMatch(mainText, /artifact-responsive/);
   assert.doesNotMatch(allJavaScript, /1c5c2e0ec384ffd154af4325f8dbe2c6e4935227aa20ea8504bfad46e5b720ee/);
   assert.doesNotMatch(allJavaScript, /摄影者原始发布文件与Commons公布SHA-1完全一致/);
@@ -97,7 +97,7 @@ test('full story prose is deferred but lightweight routing stays initial', () =>
   assert.ok(statSync(new URL(story, assetsUrl)).size <= guideBudget, `${story} should only carry the reader and story catalog (budget ${guideBudget})`);
   const pft = one(/^gg-pft-[\w-]+\.js$/);
   assert.match(readFileSync(new URL(pft, assetsUrl), 'utf8'), /《平复帖》开头关心“彦先”的疾病/);
-  assert.equal(storyGeneration.payloads.count, 212);
+  assert.equal(storyGeneration.payloads.count, 215);
   for (const { id } of storyGeneration.payloads.files) one(new RegExp(`^${id}-[\\w-]+\\.js$`));
   assert.match(mainText, /gg-qmsh/);
 });
@@ -121,7 +121,7 @@ test('the narrative web-motion opening stays deferred and lightweight', () => {
 test('shared artifact rendering chunk carries delivery URLs but no complete provenance registry', () => {
   const art = one(/^ResponsiveArtifactImage-.*\.js$/);
   const text = readFileSync(new URL(art, assetsUrl), 'utf8');
-  assert.ok(statSync(new URL(art, assetsUrl)).size <= 136_000, `${art} exceeds the deferred rendering budget`);
+  assert.ok(statSync(new URL(art, assetsUrl)).size <= 140_000, `${art} exceeds the deferred rendering budget`);
   assert.doesNotMatch(text, /authorizationStatus|processingManifest|assetSha256/);
 });
 
