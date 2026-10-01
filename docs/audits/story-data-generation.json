@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-01T11:00:28.469Z",
+ "generatedAt": "2026-10-01T11:12:55.812Z",
  "inputs": [
   {
    "path": "src/data/stories.json",
@@ -253,8 +253,8 @@
   },
   {
    "path": "src/data/stories-batch54.json",
-   "bytes": 21491,
-   "sha256": "51f3813995c8525bcd2b81d94fc448a6e70f438c7c3c3052956acb34614cb836"
+   "bytes": 19599,
+   "sha256": "848b5cdb92a32b60765847cec4ccb7f7ab882086bcd8420ed815fb92958a69cd"
   },
   {
    "path": "src/data/stories-batch55.json",
@@ -268,8 +268,8 @@
   },
   {
    "path": "src/data/stories-batch57.json",
-   "bytes": 23787,
-   "sha256": "47f028cfcf27c169593138977271b7bc3940e21efc1c7c6e5696af7ccb1db11d"
+   "bytes": 22651,
+   "sha256": "24da3ca99c87ba129fb411de7755ec3cf0d584c0a8c0430f86ef2336e55d363b"
   },
   {
    "path": "src/data/stories-batch58.json",
@@ -347,7 +347,7 @@
  "payloads": {
   "directory": "src/data/story-payloads",
   "count": 218,
-  "totalBytes": 1555471,
+  "totalBytes": 1548472,
   "maxBytes": 16097,
   "files": [
    {
@@ -1543,22 +1543,22 @@
    {
     "id": "hlj-gys",
     "path": "src/data/story-payloads/hlj-gys.json",
-    "bytes": 7864,
-    "sha256": "a316a770265683215fd60874c7cefe31ea93e5eb0fe6511185d964a50a551e08",
+    "bytes": 6252,
+    "sha256": "d109b9968252c02176bf29683695134b3ae7f44ef756b2aee0eb3dae3e579221",
     "sources": 1
    },
    {
     "id": "cq-wyq",
     "path": "src/data/story-payloads/cq-wyq.json",
-    "bytes": 6768,
-    "sha256": "58bfa223081ad2b51647cc499825a4ea28b8df1ef79279dfb12bf4428c621245",
+    "bytes": 5921,
+    "sha256": "1b6617b6748f9f1972f4ba96fe942f75df75dc5faf0343481a8e2a5cda169ad8",
     "sources": 1
    },
    {
     "id": "dh-ft",
     "path": "src/data/story-payloads/dh-ft.json",
-    "bytes": 7830,
-    "sha256": "7cf6e78b24405528eb0765bf4b248e4f17e7f96fcb0501c2720019caae8e42e6",
+    "bytes": 5808,
+    "sha256": "28bd180302ec7eaf24f54fca1aea3b1b24d52ebb95e0fb405adeeed73b84863d",
     "sources": 1
    },
    {
@@ -1606,22 +1606,22 @@
    {
     "id": "mo-klk",
     "path": "src/data/story-payloads/mo-klk.json",
-    "bytes": 7027,
-    "sha256": "47ec72964305bb3ea9a1881cab4ab04f6a29160e562854ba5b29c4cf275c8fc5",
-    "sources": 1
+    "bytes": 6753,
+    "sha256": "ad5390ea1c8a3d961e2b5bad1aa5eaccd1c9063a91b86c96af09ee28fc31111c",
+    "sources": 2
    },
    {
     "id": "jz-hnjg",
     "path": "src/data/story-payloads/jz-hnjg.json",
-    "bytes": 7885,
-    "sha256": "1b0d1df78e1530cb9b1b4901d8ea004421e545c56c3ccc2fa84aff8bc18d264b",
+    "bytes": 6982,
+    "sha256": "6332b07186b9b5ac644a967c2dd2496ec88ef0fcd9e7d97d6951a833274a3b19",
     "sources": 1
    },
    {
     "id": "kf-khc",
     "path": "src/data/story-payloads/kf-khc.json",
-    "bytes": 9841,
-    "sha256": "c1dd92af44f8c9673e58a5afb9b3d3c790f36030a635527bb831baa1ff9ea4f4",
+    "bytes": 8500,
+    "sha256": "8573c93bbecf196d1c2f162132519eea426d081887cbb79e305b12d2e2c5c422",
     "sources": 1
    },
    {

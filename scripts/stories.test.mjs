@@ -1539,7 +1539,7 @@ test('fifty-fourth batch handles an in-situ mural, a restored que and a chipped 
   // The spear keeps the museum's measurements and drops the poetry.
   assert.match(batch54.stories[0].summary, /通长25、宽5\.8厘米/);
   assert.doesNotMatch(batch54.stories[0].summary, /薄如蝉翼|石器工业/);
-  assert.match(batch54.stories[0].sections[1].text, /刮削器/);
+  assert.match(batch54.stories[0].sections[2].text, /刮削器/);
   // The que keeps the measured heights, weight and the two superlatives.
   assert.match(batch54.stories[1].summary, /主阙通高5\.4米、子阙高2\.6米/);
   assert.doesNotMatch(batch54.stories[1].summary, /铺首衔环|狩猎/);
@@ -1547,8 +1547,8 @@ test('fifty-fourth batch handles an in-situ mural, a restored que and a chipped 
   // The mural entry must state that it is a category entry, not a movable object.
   assert.match(batch54.stories[2].summary, /类别式条目/);
   assert.doesNotMatch(batch54.stories[2].summary, /四千五百余身|乾闼婆/);
-  assert.match(batch54.stories[2].sections[0].text, /不是可以装箱外借的藏品/);
-  assert.match(batch54.stories[2].sections[3].text, /1924 年被美国人华尔纳盗走/);
+  assert.match(batch54.stories[2].sections[0].text, /不能装箱外借/);
+  assert.match(batch54.stories[2].sections[3].text, /1924\s*年被美国人华尔纳盗走/);
   assert.equal(sources.get('b54-dh-320').kind, 'museum');
   for (const source of batch54.sources) {
     assert.equal(new URL(source.url).protocol, 'https:');
