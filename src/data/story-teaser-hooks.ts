@@ -206,4 +206,7 @@ export const storyTeaserHooks: Record<string, string> = {
   'hub-hjd': '一对鼎，为什么被分葬在两座墓里？',
   'hub-hjs': '一只“肆壶”，为什么说原型是木器？',
   'hub-hjy': '一只鼎的铭文，为什么写着两个国家？',
+  'hub-zbh': '同一座墓里的两件壶，为什么做成完全一样？',
+  'hub-zbl': '一只鬲的腹部，为什么要立三道“月牙”？',
+  'hub-hyy': '一口钟的铭文，为什么要去对《左传》？',
 };

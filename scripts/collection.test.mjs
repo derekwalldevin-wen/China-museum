@@ -70,8 +70,8 @@ test('invalid shared filter values are ignored safely', () => {
 });
 
 test('all 208 artifacts have explicit image or illustration-only status', () => {
-  assert.equal(allArtifacts.length, 211);
-  assert.equal(Object.keys(imageMap).length, 211);
+  assert.equal(allArtifacts.length, 214);
+  assert.equal(Object.keys(imageMap).length, 214);
   assert.deepEqual(Object.keys(imageMap).sort(), allArtifacts.map(({ id }) => id).sort());
   for (const artifact of allArtifacts) {
     const mapping = imageMap[artifact.id];
@@ -92,7 +92,7 @@ test('all 208 artifacts have explicit image or illustration-only status', () => 
 
 test('AI and source roles remain explicitly distinguishable', () => {
   const roles = allArtifacts.filter(({ id }) => !imageMap[id].illustrationOnly).flatMap(({ id }) => ['card', 'detail'].map((role) => resolveVariant(imageMap[id], role)));
-  assert.equal(roles.length, 422);
+  assert.equal(roles.length, 428);
   assert.ok(roles.every(({ kind, provenance }) => !provenance || kind === provenance.type));
   for (const variant of roles.filter(({ kind }) => kind === 'source')) {
     const provenance = variant.provenance;
@@ -141,7 +141,7 @@ test('round 3 covers exactly the 58 targets and binds evidence to current file h
   // 2026-10-01: the author's own field photographs (Hubei Provincial Museum) entered the site
   // as source images. They are not part of the round-3 register, so they are excluded here
   // rather than rewriting that historical snapshot.
-  const fieldVisitLater = new Set(['hub-zhy', 'hub-zzs', 'hub-ymh', 'hub-hjd', 'hub-hjs', 'hub-hjy']);
+  const fieldVisitLater = new Set(['hub-zhy', 'hub-zzs', 'hub-ymh', 'hub-hjd', 'hub-hjs', 'hub-hjy', 'hub-zbh', 'hub-zbl', 'hub-hyy']);
   const expected = allArtifacts.filter(a => !newBatch.includes(a.id) && !fieldVisitLater.has(a.id) && (replaced.includes(a.id) || a.shape === 'scroll' || resolveVariant(imageMap[a.id], 'detail').kind === 'source')).map(a => a.id).sort();
   assert.deepEqual(register.rows.map(r => r.id).sort(), expected);
   assert.equal(register.summary.targets, 58);
