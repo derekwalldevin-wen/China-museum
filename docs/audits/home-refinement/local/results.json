@@ -1,6 +1,6 @@
 {
-  "base": "http://127.0.0.1:4270/",
-  "testedAt": "2026-10-01T02:01:40.363Z",
+  "base": "https://huaxia-museum-atlas.pages.dev/",
+  "testedAt": "2026-10-01T07:11:58.882Z",
   "results": [
     {
       "name": "desktop",
@@ -36,18 +36,18 @@
         },
         "story": {
           "left": 32,
-          "right": 332,
-          "top": 630,
+          "right": 287.921875,
+          "top": 690,
           "bottom": 896,
-          "width": 300,
-          "height": 266
+          "width": 255.921875,
+          "height": 206
         },
         "storyButton": {
           "left": 53,
-          "right": 311,
+          "right": 266.921875,
           "top": 812.5,
           "bottom": 856.5,
-          "width": 258,
+          "width": 213.921875,
           "height": 44
         },
         "footer": {
@@ -115,10 +115,10 @@
         "story": {
           "left": 12,
           "right": 378,
-          "top": 578.8125,
+          "top": 597.40625,
           "bottom": 750,
           "width": 366,
-          "height": 171.1875
+          "height": 152.59375
         },
         "storyButton": {
           "left": 28,
@@ -160,7 +160,7 @@
     },
     {
       "name": "story-note-navigation",
-      "storyId": "gg-qmsh",
+      "storyId": "hub-zhy",
       "opened": true
     },
     {
@@ -248,17 +248,17 @@
     },
     {
       "name": "simulated-low-end-6x-cpu-100KiBs-400ms-rtt",
-      "elapsedWallMs": 14487,
+      "elapsedWallMs": 24125,
       "checkpoints": {
-        "navigationWallMs": 5541,
-        "mapWallMs": 12950,
-        "artWallMs": 12953
+        "navigationWallMs": 11593,
+        "mapWallMs": 21544,
+        "artWallMs": 22582
       },
       "timings": {
-        "domContentLoadedMs": 4536,
-        "loadMs": 4538,
+        "domContentLoadedMs": 6861,
+        "loadMs": 6979,
         "artResources": [],
-        "artCurrentSrc": "http://127.0.0.1:4270/art/shanhe-handscroll-mobile.jpg",
+        "artCurrentSrc": "https://huaxia-museum-atlas.pages.dev/art/shanhe-handscroll-mobile.jpg",
         "artNaturalWidth": 850,
         "provinceCount": 34,
         "storyVisible": true,

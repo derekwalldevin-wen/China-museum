@@ -59,9 +59,10 @@ async function captureLayout({ width, height, mobile, name }) {
     await writeFile(new URL(`after-${name}.png`, output), Buffer.from(image.data, 'base64'));
     results.push({ name, layout });
     if (name === 'mobile') {
+      const beaconStory = await page.evaluate(`document.querySelector('.atlas-story-beacon')?.dataset.beaconStory ?? ''`);
       await page.evaluate(`document.querySelector('.atlas-story-beacon button').click()`);
-      await page.wait(`new URLSearchParams(location.search).get('story')==='gg-qmsh' && !!document.querySelector('[data-story-id="gg-qmsh"]')`, 'story note opens Qingming route', 30000);
-      results.push({ name:'story-note-navigation', storyId:'gg-qmsh', opened:true });
+      await page.wait(`new URLSearchParams(location.search).get('story')===${JSON.stringify(beaconStory)} && !!document.querySelector('[data-story-id=' + JSON.stringify(${JSON.stringify(beaconStory)}) + ']')`, 'story note opens its beacon route', 30000);
+      results.push({ name:'story-note-navigation', storyId:beaconStory, opened:true });
     }
   } finally { await page.close(); }
 }

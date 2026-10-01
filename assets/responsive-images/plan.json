@@ -924,22 +924,18 @@
         "card": {
           "profile": "card",
           "primary": {
-            "src": "/artifacts-v2/p1/hub-zhy.png",
-            "kind": "ai"
+            "src": "/artifact-sources/user-hubei/hub-zhy-card.jpg",
+            "kind": "source"
           },
           "fallback": {
-            "src": "/artifacts/hub-zhy.jpg",
+            "src": "/artifact-sources/user-hubei/hub-zhy-detail.jpg",
             "kind": "source"
           }
         },
         "detail": {
           "profile": "detail",
           "primary": {
-            "src": "/artifacts-v2/p1/hub-zhy.png",
-            "kind": "ai"
-          },
-          "fallback": {
-            "src": "/artifacts/hub-zhy.jpg",
+            "src": "/artifact-sources/user-hubei/hub-zhy-detail.jpg",
             "kind": "source"
           }
         }
@@ -4405,6 +4401,54 @@
           "primary": {
             "src": "/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png",
             "kind": "ai"
+          }
+        }
+      }
+    },
+    "hub-zzs": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-zzs-card.jpg",
+            "kind": "source"
+          },
+          "fallback": {
+            "src": "/artifact-sources/user-hubei/hub-zzs-detail.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-zzs-detail.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hub-ymh": {
+      "hold": false,
+      "shape": "lacquer",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-ymh-card.jpg",
+            "kind": "source"
+          },
+          "fallback": {
+            "src": "/artifact-sources/user-hubei/hub-ymh-detail.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-ymh-detail.jpg",
+            "kind": "source"
           }
         }
       }

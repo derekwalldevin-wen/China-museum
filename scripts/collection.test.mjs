@@ -69,9 +69,9 @@ test('invalid shared filter values are ignored safely', () => {
   assert.deepEqual(filter, { era: null, category: '书画', province: null });
 });
 
-test('all 206 artifacts have explicit image or illustration-only status', () => {
-  assert.equal(allArtifacts.length, 206);
-  assert.equal(Object.keys(imageMap).length, 206);
+test('all 208 artifacts have explicit image or illustration-only status', () => {
+  assert.equal(allArtifacts.length, 208);
+  assert.equal(Object.keys(imageMap).length, 208);
   assert.deepEqual(Object.keys(imageMap).sort(), allArtifacts.map(({ id }) => id).sort());
   for (const artifact of allArtifacts) {
     const mapping = imageMap[artifact.id];
@@ -92,7 +92,7 @@ test('all 206 artifacts have explicit image or illustration-only status', () => 
 
 test('AI and source roles remain explicitly distinguishable', () => {
   const roles = allArtifacts.filter(({ id }) => !imageMap[id].illustrationOnly).flatMap(({ id }) => ['card', 'detail'].map((role) => resolveVariant(imageMap[id], role)));
-  assert.equal(roles.length, 412);
+  assert.equal(roles.length, 416);
   assert.ok(roles.every(({ kind, provenance }) => !provenance || kind === provenance.type));
   for (const variant of roles.filter(({ kind }) => kind === 'source')) {
     const provenance = variant.provenance;
@@ -138,7 +138,11 @@ test('round 3 covers exactly the 58 targets and binds evidence to current file h
   // on 2026-09-30 the 900x36 thumbnail was replaced by a public-domain 16000px scan.
   const supersededLater = ['gg-qljs'];
   const newBatch = JSON.parse(readFileSync(new URL('../assets/provenance/collection-image-review-2026-09-22/decisions.json', import.meta.url), 'utf8')).decisions.map(row => row.id);
-  const expected = allArtifacts.filter(a => !newBatch.includes(a.id) && (replaced.includes(a.id) || a.shape === 'scroll' || resolveVariant(imageMap[a.id], 'detail').kind === 'source')).map(a => a.id).sort();
+  // 2026-10-01: the author's own field photographs (Hubei Provincial Museum) entered the site
+  // as source images. They are not part of the round-3 register, so they are excluded here
+  // rather than rewriting that historical snapshot.
+  const fieldVisitLater = new Set(['hub-zhy', 'hub-zzs', 'hub-ymh']);
+  const expected = allArtifacts.filter(a => !newBatch.includes(a.id) && !fieldVisitLater.has(a.id) && (replaced.includes(a.id) || a.shape === 'scroll' || resolveVariant(imageMap[a.id], 'detail').kind === 'source')).map(a => a.id).sort();
   assert.deepEqual(register.rows.map(r => r.id).sort(), expected);
   assert.equal(register.summary.targets, 58);
   for (const row of register.rows) {

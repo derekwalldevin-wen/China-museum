@@ -1,63 +1,201 @@
 {
  "records": {
   "hub-zhy": {
-   "src": "/artifacts/hub-zhy.jpg",
-   "credit": "20230208 Chime bells of Marquis Yi of Zeng.jpg",
+   "src": "/artifact-sources/user-hubei/hub-zhy-detail.jpg",
+   "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
    "variants": {
     "card": {
-     "src": "/artifacts-v2/p1/hub-zhy.png",
-     "kind": "ai",
+     "src": "/artifact-sources/user-hubei/hub-zhy-card.jpg",
+     "kind": "source",
      "fit": "cover",
-     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
      "provenance": {
-      "type": "ai",
-      "generator": "OpenAI image generation",
-      "promptVersion": "artifact-v2-p1-2026-08-24",
-      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
-      "generatedAt": "2026-08-24/2026-08-25",
-      "references": [
-       {
-        "type": "local-archive",
-        "value": "/artifacts/hub-zhy.jpg",
-        "credit": "20230208 Chime bells of Marquis Yi of Zeng.jpg"
-       }
-      ]
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "5d65b279c1f723761791dff641a2bad29b32473b4a5caa4ea6f09757e23f5a09",
+      "originalSha256": "44276f1eec0f7312e90d624cd88e1db3ef7b1a4d8012f88193a1a7fbb2e27aea",
+      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "modifications": "长边等比缩放至 900 像素并重编码 JPEG（quality 88，progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_153945.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
      },
      "review": {
       "visual": "approved",
       "historical": "pending",
-      "reviewedAt": "2026-08-25",
-      "reviewedBy": "Codex visual QA",
-      "note": "三层 L 形钟架和钟列逻辑通过；钟数与构件细节需逐项复核。"
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
      }
     },
     "detail": {
-     "src": "/artifacts-v2/p1/hub-zhy.png",
-     "kind": "ai",
+     "src": "/artifact-sources/user-hubei/hub-zhy-detail.jpg",
+     "kind": "source",
      "fit": "contain",
-     "credit": "AI 生成示意 · 基于参考图统一展陈",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
      "provenance": {
-      "type": "ai",
-      "generator": "OpenAI image generation",
-      "promptVersion": "artifact-v2-p1-2026-08-24",
-      "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
-      "generatedAt": "2026-08-24/2026-08-25",
-      "references": [
-       {
-        "type": "local-archive",
-        "value": "/artifacts/hub-zhy.jpg",
-        "credit": "20230208 Chime bells of Marquis Yi of Zeng.jpg"
-       }
-      ]
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "aa18ac07eeab5ed2a116c333b220563dd78d40e37be0fed219d62e055578be6e",
+      "originalSha256": "44276f1eec0f7312e90d624cd88e1db3ef7b1a4d8012f88193a1a7fbb2e27aea",
+      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（quality 90，progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_153945.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
      },
      "review": {
       "visual": "approved",
       "historical": "pending",
-      "reviewedAt": "2026-08-25",
-      "reviewedBy": "Codex visual QA",
-      "note": "三层 L 形钟架和钟列逻辑通过；钟数与构件细节需逐项复核。"
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
      }
     }
+   },
+   "retiredAssets": [
+    {
+     "src": "/artifacts-v2/p1/hub-zhy.png",
+     "reason": "已由作者实地拍摄照片替换（card）",
+     "retiredAt": "2026-10-01"
+    },
+    {
+     "src": "/artifacts-v2/p1/hub-zhy.png",
+     "reason": "已由作者实地拍摄照片替换（detail）",
+     "retiredAt": "2026-10-01"
+    }
+   ],
+   "sourceReview": {
+    "reviewedAt": "2026-10-01",
+    "note": "作者 2025-03-07 现场拍摄；照片已剥离 EXIF/GPS。授权 pending（未取得馆方许可），器物事实另见 stories-batch65 的来源条目。"
+   }
+  },
+  "hub-zzs": {
+   "src": "/artifact-sources/user-hubei/hub-zzs-detail.jpg",
+   "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/user-hubei/hub-zzs-card.jpg",
+     "kind": "source",
+     "fit": "cover",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "eb2f8d129813ee0edec87570b55b0a0f510742ffd17ff873d773f05066f6ad95",
+      "originalSha256": "69c9ddb45757c6457154f3d23339668e4db3e0c08fe0043df0ced1e2b1f15e94",
+      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "modifications": "长边等比缩放至 900 像素并重编码 JPEG（quality 88，progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_150010.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/user-hubei/hub-zzs-detail.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "3dee348c5762da65a33b7bb04e0aa2a7bc0d9d4e9fddc02b77952926cc972875",
+      "originalSha256": "69c9ddb45757c6457154f3d23339668e4db3e0c08fe0043df0ced1e2b1f15e94",
+      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（quality 90，progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_150010.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-01",
+    "note": "作者 2025-03-07 现场拍摄；照片已剥离 EXIF/GPS。授权 pending（未取得馆方许可），器物事实另见 stories-batch65 的来源条目。"
+   }
+  },
+  "hub-ymh": {
+   "src": "/artifact-sources/user-hubei/hub-ymh-detail.jpg",
+   "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/user-hubei/hub-ymh-card.jpg",
+     "kind": "source",
+     "fit": "cover",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "b22a8bd80716006d0f52f3e83112ef3af34bdbecae10475e793e72150bed68c4",
+      "originalSha256": "92cc8a0d756a4beafb6980b4d4d327e6be35bb4d2fb44a0f14a6a8307c856fa3",
+      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "modifications": "长边等比缩放至 900 像素并重编码 JPEG（quality 88，progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_152958.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/user-hubei/hub-ymh-detail.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "06e457e6d8e0b907f09e19e8956b9a509e15e3cc881ef09efea2f477a7bdc228",
+      "originalSha256": "92cc8a0d756a4beafb6980b4d4d327e6be35bb4d2fb44a0f14a6a8307c856fa3",
+      "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+      "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（quality 90，progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_152958.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-01",
+    "note": "作者 2025-03-07 现场拍摄；照片已剥离 EXIF/GPS。授权 pending（未取得馆方许可），器物事实另见 stories-batch65 的来源条目。"
    }
   },
   "hub-ywj": {
@@ -138,53 +276,94 @@
  },
  "delivery": {
   "hub-zhy": {
-   "src": "/artifacts-v2/p1/hub-zhy.png",
-   "kind": "ai",
+   "src": "/artifact-sources/user-hubei/hub-zhy-detail.jpg",
+   "kind": "source",
    "responsive": {
     "format": "image/webp",
     "candidates": [
      {
-      "src": "/artifact-responsive/f55af4e78a03852b-detail-w480.webp",
+      "src": "/artifact-responsive/aa18ac07eeab5ed2-detail-w480.webp",
       "width": 480,
-      "height": 600
+      "height": 640
      },
      {
-      "src": "/artifact-responsive/f55af4e78a03852b-detail-w800.webp",
+      "src": "/artifact-responsive/aa18ac07eeab5ed2-detail-w800.webp",
       "width": 800,
-      "height": 1000
+      "height": 1067
      },
      {
-      "src": "/artifact-responsive/f55af4e78a03852b-detail-w1122.webp",
-      "width": 1122,
-      "height": 1402
+      "src": "/artifact-responsive/aa18ac07eeab5ed2-detail-w1200.webp",
+      "width": 1200,
+      "height": 1600
+     },
+     {
+      "src": "/artifact-responsive/aa18ac07eeab5ed2-detail-w1536.webp",
+      "width": 1536,
+      "height": 2048
      }
     ]
    },
-   "fit": "contain",
-   "fallback": {
-    "src": "/artifacts/hub-zhy.jpg",
-    "kind": "source",
-    "responsive": {
-     "format": "image/webp",
-     "candidates": [
-      {
-       "src": "/artifact-responsive/28c774d5b358bc61-detail-w480.webp",
-       "width": 480,
-       "height": 320
-      },
-      {
-       "src": "/artifact-responsive/28c774d5b358bc61-detail-w800.webp",
-       "width": 800,
-       "height": 533
-      },
-      {
-       "src": "/artifact-responsive/28c774d5b358bc61-detail-w900.webp",
-       "width": 900,
-       "height": 600
-      }
-     ]
-    }
-   }
+   "fit": "contain"
+  },
+  "hub-zzs": {
+   "src": "/artifact-sources/user-hubei/hub-zzs-detail.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/3dee348c5762da65-detail-w480.webp",
+      "width": 480,
+      "height": 640
+     },
+     {
+      "src": "/artifact-responsive/3dee348c5762da65-detail-w800.webp",
+      "width": 800,
+      "height": 1067
+     },
+     {
+      "src": "/artifact-responsive/3dee348c5762da65-detail-w1200.webp",
+      "width": 1200,
+      "height": 1600
+     },
+     {
+      "src": "/artifact-responsive/3dee348c5762da65-detail-w1536.webp",
+      "width": 1536,
+      "height": 2048
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hub-ymh": {
+   "src": "/artifact-sources/user-hubei/hub-ymh-detail.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/06e457e6d8e0b907-detail-w480.webp",
+      "width": 480,
+      "height": 640
+     },
+     {
+      "src": "/artifact-responsive/06e457e6d8e0b907-detail-w800.webp",
+      "width": 800,
+      "height": 1067
+     },
+     {
+      "src": "/artifact-responsive/06e457e6d8e0b907-detail-w1200.webp",
+      "width": 1200,
+      "height": 1600
+     },
+     {
+      "src": "/artifact-responsive/06e457e6d8e0b907-detail-w1536.webp",
+      "width": 1536,
+      "height": 2048
+     }
+    ]
+   },
+   "fit": "contain"
   },
   "hub-ywj": {
    "src": "/artifacts-v2/p1/hub-ywj.png",

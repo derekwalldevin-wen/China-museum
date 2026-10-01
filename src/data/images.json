@@ -2431,63 +2431,77 @@
     }
   },
   "hub-zhy": {
-    "src": "/artifacts/hub-zhy.jpg",
-    "credit": "20230208 Chime bells of Marquis Yi of Zeng.jpg",
+    "src": "/artifact-sources/user-hubei/hub-zhy-detail.jpg",
+    "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
     "variants": {
       "card": {
-        "src": "/artifacts-v2/p1/hub-zhy.png",
-        "kind": "ai",
+        "src": "/artifact-sources/user-hubei/hub-zhy-card.jpg",
+        "kind": "source",
         "fit": "cover",
-        "credit": "AI 生成示意 · 基于参考图统一展陈",
+        "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
         "provenance": {
-          "type": "ai",
-          "generator": "OpenAI image generation",
-          "promptVersion": "artifact-v2-p1-2026-08-24",
-          "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
-          "generatedAt": "2026-08-24/2026-08-25",
-          "references": [
-            {
-              "type": "local-archive",
-              "value": "/artifacts/hub-zhy.jpg",
-              "credit": "20230208 Chime bells of Marquis Yi of Zeng.jpg"
-            }
-          ]
+          "type": "source",
+          "authorizationStatus": "pending",
+          "assetMatchStatus": "verified",
+          "assetSha256": "5d65b279c1f723761791dff641a2bad29b32473b4a5caa4ea6f09757e23f5a09",
+          "originalSha256": "44276f1eec0f7312e90d624cd88e1db3ef7b1a4d8012f88193a1a7fbb2e27aea",
+          "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+          "modifications": "长边等比缩放至 900 像素并重编码 JPEG（quality 88，progressive）；未裁切主体、未调色。",
+          "sourceTitle": "IMG_20250307_153945.jpg",
+          "author": "德里克文",
+          "institution": "湖北省博物馆",
+          "shotAt": "2025-03-07"
         },
         "review": {
           "visual": "approved",
           "historical": "pending",
-          "reviewedAt": "2026-08-25",
-          "reviewedBy": "Codex visual QA",
-          "note": "三层 L 形钟架和钟列逻辑通过；钟数与构件细节需逐项复核。"
+          "reviewedAt": "2026-10-01",
+          "reviewedBy": "DeepSeek field-photo review",
+          "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
         }
       },
       "detail": {
-        "src": "/artifacts-v2/p1/hub-zhy.png",
-        "kind": "ai",
+        "src": "/artifact-sources/user-hubei/hub-zhy-detail.jpg",
+        "kind": "source",
         "fit": "contain",
-        "credit": "AI 生成示意 · 基于参考图统一展陈",
+        "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
         "provenance": {
-          "type": "ai",
-          "generator": "OpenAI image generation",
-          "promptVersion": "artifact-v2-p1-2026-08-24",
-          "promptManifest": "assets/artifact-image-prompts/p1-2026-08-24.json",
-          "generatedAt": "2026-08-24/2026-08-25",
-          "references": [
-            {
-              "type": "local-archive",
-              "value": "/artifacts/hub-zhy.jpg",
-              "credit": "20230208 Chime bells of Marquis Yi of Zeng.jpg"
-            }
-          ]
+          "type": "source",
+          "authorizationStatus": "pending",
+          "assetMatchStatus": "verified",
+          "assetSha256": "aa18ac07eeab5ed2a116c333b220563dd78d40e37be0fed219d62e055578be6e",
+          "originalSha256": "44276f1eec0f7312e90d624cd88e1db3ef7b1a4d8012f88193a1a7fbb2e27aea",
+          "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+          "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（quality 90，progressive）；未裁切主体、未调色。",
+          "sourceTitle": "IMG_20250307_153945.jpg",
+          "author": "德里克文",
+          "institution": "湖北省博物馆",
+          "shotAt": "2025-03-07"
         },
         "review": {
           "visual": "approved",
           "historical": "pending",
-          "reviewedAt": "2026-08-25",
-          "reviewedBy": "Codex visual QA",
-          "note": "三层 L 形钟架和钟列逻辑通过；钟数与构件细节需逐项复核。"
+          "reviewedAt": "2026-10-01",
+          "reviewedBy": "DeepSeek field-photo review",
+          "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
         }
       }
+    },
+    "retiredAssets": [
+      {
+        "src": "/artifacts-v2/p1/hub-zhy.png",
+        "reason": "已由作者实地拍摄照片替换（card）",
+        "retiredAt": "2026-10-01"
+      },
+      {
+        "src": "/artifacts-v2/p1/hub-zhy.png",
+        "reason": "已由作者实地拍摄照片替换（detail）",
+        "retiredAt": "2026-10-01"
+      }
+    ],
+    "sourceReview": {
+      "reviewedAt": "2026-10-01",
+      "note": "作者 2025-03-07 现场拍摄；照片已剥离 EXIF/GPS。授权 pending（未取得馆方许可），器物事实另见 stories-batch65 的来源条目。"
     }
   },
   "hub-ywj": {
@@ -4842,10 +4856,9 @@
       }
     },
     "sourceReview": {
-      "reviewedAt": "2026-09-22",
+      "reviewedAt": "2026-09-23",
       "authorityUrl": "https://ggzl.dpm.org.cn/pages/exhibit_works/details?id=9404",
       "institution": "故宫博物院",
-      "reviewedAt": "2026-09-23",
       "linkCheckedAt": "2026-09-23",
       "note": "故宫数字展品页确认藏品名、北宋汝窑、三足兽形足、七道弦纹与淡天青釉；该文字记录不授权页面影像。未找到明确可复用的精确匹配照片，AI示意保留，釉色和开片仍待原件影像核验。"
     }
@@ -5438,49 +5451,453 @@
     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍；纹样与表面状态不保真",
     "ai": true,
     "variants": {
-      "card": {"src":"/artifacts-v2/ai-new-20260927/ny-yh.png","kind":"ai","fit":"contain","credit":"AI 复原示意 · 非文物实拍","provenance":{"type":"ai","generator":"OpenAI built-in imagegen","promptVersion":"nanyue-five-2026-09-27","promptManifest":"assets/artifact-image-prompts/nanyue-five-2026-09-27.json","generatedAt":"2026-09-27","references":[{"type":"museum-record","value":"https://www.nywmuseum.org.cn/Collection/Details/dcjp?nid=70","credit":"仅据馆方文字限定大致形制；未转载馆方图片"}]},"review":{"visual":"approved","historical":"pending","reviewedAt":"2026-09-27","reviewedBy":"Codex visual QA","note":"原件纹样、铭文与表面状态不可据AI图核对。"}},
-      "detail": {"src":"/artifacts-v2/ai-new-20260927/ny-yh.png","kind":"ai","fit":"contain","credit":"AI 复原示意 · 非文物实拍；纹样与表面状态不保真","provenance":{"type":"ai","generator":"OpenAI built-in imagegen","promptVersion":"nanyue-five-2026-09-27","promptManifest":"assets/artifact-image-prompts/nanyue-five-2026-09-27.json","generatedAt":"2026-09-27","references":[{"type":"museum-record","value":"https://www.nywmuseum.org.cn/Collection/Details/dcjp?nid=70","credit":"仅据馆方文字限定大致形制；未转载馆方图片"}]},"review":{"visual":"approved","historical":"pending","reviewedAt":"2026-09-27","reviewedBy":"Codex visual QA","note":"原件纹样、铭文与表面状态不可据AI图核对。"}}
+      "card": {
+        "src": "/artifacts-v2/ai-new-20260927/ny-yh.png",
+        "kind": "ai",
+        "fit": "contain",
+        "credit": "AI 复原示意 · 非文物实拍",
+        "provenance": {
+          "type": "ai",
+          "generator": "OpenAI built-in imagegen",
+          "promptVersion": "nanyue-five-2026-09-27",
+          "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+          "generatedAt": "2026-09-27",
+          "references": [
+            {
+              "type": "museum-record",
+              "value": "https://www.nywmuseum.org.cn/Collection/Details/dcjp?nid=70",
+              "credit": "仅据馆方文字限定大致形制；未转载馆方图片"
+            }
+          ]
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-09-27",
+          "reviewedBy": "Codex visual QA",
+          "note": "原件纹样、铭文与表面状态不可据AI图核对。"
+        }
+      },
+      "detail": {
+        "src": "/artifacts-v2/ai-new-20260927/ny-yh.png",
+        "kind": "ai",
+        "fit": "contain",
+        "credit": "AI 复原示意 · 非文物实拍；纹样与表面状态不保真",
+        "provenance": {
+          "type": "ai",
+          "generator": "OpenAI built-in imagegen",
+          "promptVersion": "nanyue-five-2026-09-27",
+          "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+          "generatedAt": "2026-09-27",
+          "references": [
+            {
+              "type": "museum-record",
+              "value": "https://www.nywmuseum.org.cn/Collection/Details/dcjp?nid=70",
+              "credit": "仅据馆方文字限定大致形制；未转载馆方图片"
+            }
+          ]
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-09-27",
+          "reviewedBy": "Codex visual QA",
+          "note": "原件纹样、铭文与表面状态不可据AI图核对。"
+        }
+      }
     },
-    "sourceReview": {"reviewedAt":"2026-09-27","authorityUrl":"https://www.nywmuseum.org.cn/Collection/Details/dcjp?nid=70","note":"馆方逐件文字可核身份和大致形制；官网图片未核得本站可用授权，故仅使用独立生成示意图。"}
+    "sourceReview": {
+      "reviewedAt": "2026-09-27",
+      "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/dcjp?nid=70",
+      "note": "馆方逐件文字可核身份和大致形制；官网图片未核得本站可用授权，故仅使用独立生成示意图。"
+    }
   },
   "ny-cpyb": {
     "src": "/artifacts-v2/ai-new-20260927/ny-cpyb.png",
     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍；板面纹样不保真",
     "ai": true,
     "variants": {
-      "card": {"src":"/artifacts-v2/ai-new-20260927/ny-cpyb.png","kind":"ai","fit":"contain","credit":"AI 复原示意 · 非文物实拍","provenance":{"type":"ai","generator":"OpenAI built-in imagegen","promptVersion":"nanyue-five-2026-09-27","promptManifest":"assets/artifact-image-prompts/nanyue-five-2026-09-27.json","generatedAt":"2026-09-27","references":[{"type":"museum-record","value":"https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=54","credit":"仅据馆方文字限定两板尺寸关系；板面花纹为AI想象"}]},"review":{"visual":"approved","historical":"pending","reviewedAt":"2026-09-27","reviewedBy":"Codex visual QA","note":"具体凸纹为AI想象，不能当同出织物的实际印纹。"}},
-      "detail": {"src":"/artifacts-v2/ai-new-20260927/ny-cpyb.png","kind":"ai","fit":"contain","credit":"AI 复原示意 · 非文物实拍；板面纹样不保真","provenance":{"type":"ai","generator":"OpenAI built-in imagegen","promptVersion":"nanyue-five-2026-09-27","promptManifest":"assets/artifact-image-prompts/nanyue-five-2026-09-27.json","generatedAt":"2026-09-27","references":[{"type":"museum-record","value":"https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=54","credit":"仅据馆方文字限定两板尺寸关系；板面花纹为AI想象"}]},"review":{"visual":"approved","historical":"pending","reviewedAt":"2026-09-27","reviewedBy":"Codex visual QA","note":"具体凸纹为AI想象，不能当同出织物的实际印纹。"}}
+      "card": {
+        "src": "/artifacts-v2/ai-new-20260927/ny-cpyb.png",
+        "kind": "ai",
+        "fit": "contain",
+        "credit": "AI 复原示意 · 非文物实拍",
+        "provenance": {
+          "type": "ai",
+          "generator": "OpenAI built-in imagegen",
+          "promptVersion": "nanyue-five-2026-09-27",
+          "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+          "generatedAt": "2026-09-27",
+          "references": [
+            {
+              "type": "museum-record",
+              "value": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=54",
+              "credit": "仅据馆方文字限定两板尺寸关系；板面花纹为AI想象"
+            }
+          ]
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-09-27",
+          "reviewedBy": "Codex visual QA",
+          "note": "具体凸纹为AI想象，不能当同出织物的实际印纹。"
+        }
+      },
+      "detail": {
+        "src": "/artifacts-v2/ai-new-20260927/ny-cpyb.png",
+        "kind": "ai",
+        "fit": "contain",
+        "credit": "AI 复原示意 · 非文物实拍；板面纹样不保真",
+        "provenance": {
+          "type": "ai",
+          "generator": "OpenAI built-in imagegen",
+          "promptVersion": "nanyue-five-2026-09-27",
+          "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+          "generatedAt": "2026-09-27",
+          "references": [
+            {
+              "type": "museum-record",
+              "value": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=54",
+              "credit": "仅据馆方文字限定两板尺寸关系；板面花纹为AI想象"
+            }
+          ]
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-09-27",
+          "reviewedBy": "Codex visual QA",
+          "note": "具体凸纹为AI想象，不能当同出织物的实际印纹。"
+        }
+      }
     },
-    "sourceReview": {"reviewedAt":"2026-09-27","authorityUrl":"https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=54","note":"馆方逐件文字支持两件板模及同纹织物对比；未核得官网图片本站可用授权，AI板纹非原件纹样。"}
+    "sourceReview": {
+      "reviewedAt": "2026-09-27",
+      "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=54",
+      "note": "馆方逐件文字支持两件板模及同纹织物对比；未核得官网图片本站可用授权，AI板纹非原件纹样。"
+    }
   },
   "ny-hujie": {
     "src": "/artifacts-v2/ai-new-20260927/ny-hujie.png",
     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍；铭文不作真实复刻",
     "ai": true,
     "variants": {
-      "card": {"src":"/artifacts-v2/ai-new-20260927/ny-hujie.png","kind":"ai","fit":"contain","credit":"AI 复原示意 · 非文物实拍","provenance":{"type":"ai","generator":"OpenAI built-in imagegen","promptVersion":"nanyue-five-2026-09-27","promptManifest":"assets/artifact-image-prompts/nanyue-five-2026-09-27.json","generatedAt":"2026-09-27","references":[{"type":"museum-record","value":"https://www.nywmuseum.org.cn/Collection/Details/?nid=49","credit":"仅据馆方文字限定扁平虎形与金斑；不复刻铭文"}]},"review":{"visual":"approved","historical":"pending","reviewedAt":"2026-09-27","reviewedBy":"Codex visual QA","note":"虎形、金箔分布及保存状态仍为艺术概括；图上不得读铭。"}},
-      "detail": {"src":"/artifacts-v2/ai-new-20260927/ny-hujie.png","kind":"ai","fit":"contain","credit":"AI 复原示意 · 非文物实拍；铭文不作真实复刻","provenance":{"type":"ai","generator":"OpenAI built-in imagegen","promptVersion":"nanyue-five-2026-09-27","promptManifest":"assets/artifact-image-prompts/nanyue-five-2026-09-27.json","generatedAt":"2026-09-27","references":[{"type":"museum-record","value":"https://www.nywmuseum.org.cn/Collection/Details/?nid=49","credit":"仅据馆方文字限定扁平虎形与金斑；不复刻铭文"}]},"review":{"visual":"approved","historical":"pending","reviewedAt":"2026-09-27","reviewedBy":"Codex visual QA","note":"虎形、金箔分布及保存状态仍为艺术概括；图上不得读铭。"}}
+      "card": {
+        "src": "/artifacts-v2/ai-new-20260927/ny-hujie.png",
+        "kind": "ai",
+        "fit": "contain",
+        "credit": "AI 复原示意 · 非文物实拍",
+        "provenance": {
+          "type": "ai",
+          "generator": "OpenAI built-in imagegen",
+          "promptVersion": "nanyue-five-2026-09-27",
+          "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+          "generatedAt": "2026-09-27",
+          "references": [
+            {
+              "type": "museum-record",
+              "value": "https://www.nywmuseum.org.cn/Collection/Details/?nid=49",
+              "credit": "仅据馆方文字限定扁平虎形与金斑；不复刻铭文"
+            }
+          ]
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-09-27",
+          "reviewedBy": "Codex visual QA",
+          "note": "虎形、金箔分布及保存状态仍为艺术概括；图上不得读铭。"
+        }
+      },
+      "detail": {
+        "src": "/artifacts-v2/ai-new-20260927/ny-hujie.png",
+        "kind": "ai",
+        "fit": "contain",
+        "credit": "AI 复原示意 · 非文物实拍；铭文不作真实复刻",
+        "provenance": {
+          "type": "ai",
+          "generator": "OpenAI built-in imagegen",
+          "promptVersion": "nanyue-five-2026-09-27",
+          "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+          "generatedAt": "2026-09-27",
+          "references": [
+            {
+              "type": "museum-record",
+              "value": "https://www.nywmuseum.org.cn/Collection/Details/?nid=49",
+              "credit": "仅据馆方文字限定扁平虎形与金斑；不复刻铭文"
+            }
+          ]
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-09-27",
+          "reviewedBy": "Codex visual QA",
+          "note": "虎形、金箔分布及保存状态仍为艺术概括；图上不得读铭。"
+        }
+      }
     },
-    "sourceReview": {"reviewedAt":"2026-09-27","authorityUrl":"https://www.nywmuseum.org.cn/Collection/Details/?nid=49","note":"馆方逐件文字支持铭文和两种产地解释；未核得官网图片本站可用授权，AI图不显示可读铭文。"}
+    "sourceReview": {
+      "reviewedAt": "2026-09-27",
+      "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/?nid=49",
+      "note": "馆方逐件文字支持铭文和两种产地解释；未核得官网图片本站可用授权，AI图不显示可读铭文。"
+    }
   },
   "ny-gaozu": {
     "src": "/artifacts-v2/ai-new-20260927/ny-gaozu.png",
     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍；连接细节不保真",
     "ai": true,
     "variants": {
-      "card": {"src":"/artifacts-v2/ai-new-20260927/ny-gaozu.png","kind":"ai","fit":"contain","credit":"AI 复原示意 · 非文物实拍","provenance":{"type":"ai","generator":"OpenAI built-in imagegen","promptVersion":"nanyue-five-2026-09-27","promptManifest":"assets/artifact-image-prompts/nanyue-five-2026-09-27.json","generatedAt":"2026-09-27","references":[{"type":"museum-record","value":"https://www.nywmuseum.org.cn/Collection/Details/?nid=55","credit":"仅据馆方检索可见文字限定杯、托架、承盘三层；不复刻连接细节"}]},"review":{"visual":"approved","historical":"pending","reviewedAt":"2026-09-27","reviewedBy":"Codex visual QA","note":"龙托架与玉杯接合、金银细节均为艺术想象，不可作构造图。"}},
-      "detail": {"src":"/artifacts-v2/ai-new-20260927/ny-gaozu.png","kind":"ai","fit":"contain","credit":"AI 复原示意 · 非文物实拍；连接细节不保真","provenance":{"type":"ai","generator":"OpenAI built-in imagegen","promptVersion":"nanyue-five-2026-09-27","promptManifest":"assets/artifact-image-prompts/nanyue-five-2026-09-27.json","generatedAt":"2026-09-27","references":[{"type":"museum-record","value":"https://www.nywmuseum.org.cn/Collection/Details/?nid=55","credit":"仅据馆方检索可见文字限定杯、托架、承盘三层；不复刻连接细节"}]},"review":{"visual":"approved","historical":"pending","reviewedAt":"2026-09-27","reviewedBy":"Codex visual QA","note":"龙托架与玉杯接合、金银细节均为艺术想象，不可作构造图。"}}
+      "card": {
+        "src": "/artifacts-v2/ai-new-20260927/ny-gaozu.png",
+        "kind": "ai",
+        "fit": "contain",
+        "credit": "AI 复原示意 · 非文物实拍",
+        "provenance": {
+          "type": "ai",
+          "generator": "OpenAI built-in imagegen",
+          "promptVersion": "nanyue-five-2026-09-27",
+          "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+          "generatedAt": "2026-09-27",
+          "references": [
+            {
+              "type": "museum-record",
+              "value": "https://www.nywmuseum.org.cn/Collection/Details/?nid=55",
+              "credit": "仅据馆方检索可见文字限定杯、托架、承盘三层；不复刻连接细节"
+            }
+          ]
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-09-27",
+          "reviewedBy": "Codex visual QA",
+          "note": "龙托架与玉杯接合、金银细节均为艺术想象，不可作构造图。"
+        }
+      },
+      "detail": {
+        "src": "/artifacts-v2/ai-new-20260927/ny-gaozu.png",
+        "kind": "ai",
+        "fit": "contain",
+        "credit": "AI 复原示意 · 非文物实拍；连接细节不保真",
+        "provenance": {
+          "type": "ai",
+          "generator": "OpenAI built-in imagegen",
+          "promptVersion": "nanyue-five-2026-09-27",
+          "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+          "generatedAt": "2026-09-27",
+          "references": [
+            {
+              "type": "museum-record",
+              "value": "https://www.nywmuseum.org.cn/Collection/Details/?nid=55",
+              "credit": "仅据馆方检索可见文字限定杯、托架、承盘三层；不复刻连接细节"
+            }
+          ]
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-09-27",
+          "reviewedBy": "Codex visual QA",
+          "note": "龙托架与玉杯接合、金银细节均为艺术想象，不可作构造图。"
+        }
+      }
     },
-    "sourceReview": {"reviewedAt":"2026-09-27","authorityUrl":"https://www.nywmuseum.org.cn/Collection/Details/?nid=55","note":"馆方逐件记录仅核到搜索可见文字；未核得官网图片本站可用授权，连接工艺和本件修复待核。"}
+    "sourceReview": {
+      "reviewedAt": "2026-09-27",
+      "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/?nid=55",
+      "note": "馆方逐件记录仅核到搜索可见文字；未核得官网图片本站可用授权，连接工艺和本件修复待核。"
+    }
   },
   "ny-xiangyazhi": {
     "src": "/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png",
     "credit": "AI 复原示意 · 据馆方文字资料生成，非文物实拍；针刻纹样不保真",
     "ai": true,
     "variants": {
-      "card": {"src":"/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png","kind":"ai","fit":"contain","credit":"AI 复原示意 · 非文物实拍","provenance":{"type":"ai","generator":"OpenAI built-in imagegen","promptVersion":"nanyue-five-2026-09-27","promptManifest":"assets/artifact-image-prompts/nanyue-five-2026-09-27.json","generatedAt":"2026-09-27","references":[{"type":"museum-record","value":"https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=71","credit":"仅据馆方检索可见文字限定象牙筒、金釦、三环与朱蓝线饰；纹样不保真"}]},"review":{"visual":"approved","historical":"pending","reviewedAt":"2026-09-27","reviewedBy":"Codex visual QA","note":"朱蓝图样、缺损和具体牙料来源均不能从AI图确认。"}},
-      "detail": {"src":"/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png","kind":"ai","fit":"contain","credit":"AI 复原示意 · 非文物实拍；针刻纹样不保真","provenance":{"type":"ai","generator":"OpenAI built-in imagegen","promptVersion":"nanyue-five-2026-09-27","promptManifest":"assets/artifact-image-prompts/nanyue-five-2026-09-27.json","generatedAt":"2026-09-27","references":[{"type":"museum-record","value":"https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=71","credit":"仅据馆方检索可见文字限定象牙筒、金釦、三环与朱蓝线饰；纹样不保真"}]},"review":{"visual":"approved","historical":"pending","reviewedAt":"2026-09-27","reviewedBy":"Codex visual QA","note":"朱蓝图样、缺损和具体牙料来源均不能从AI图确认。"}}
+      "card": {
+        "src": "/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png",
+        "kind": "ai",
+        "fit": "contain",
+        "credit": "AI 复原示意 · 非文物实拍",
+        "provenance": {
+          "type": "ai",
+          "generator": "OpenAI built-in imagegen",
+          "promptVersion": "nanyue-five-2026-09-27",
+          "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+          "generatedAt": "2026-09-27",
+          "references": [
+            {
+              "type": "museum-record",
+              "value": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=71",
+              "credit": "仅据馆方检索可见文字限定象牙筒、金釦、三环与朱蓝线饰；纹样不保真"
+            }
+          ]
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-09-27",
+          "reviewedBy": "Codex visual QA",
+          "note": "朱蓝图样、缺损和具体牙料来源均不能从AI图确认。"
+        }
+      },
+      "detail": {
+        "src": "/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png",
+        "kind": "ai",
+        "fit": "contain",
+        "credit": "AI 复原示意 · 非文物实拍；针刻纹样不保真",
+        "provenance": {
+          "type": "ai",
+          "generator": "OpenAI built-in imagegen",
+          "promptVersion": "nanyue-five-2026-09-27",
+          "promptManifest": "assets/artifact-image-prompts/nanyue-five-2026-09-27.json",
+          "generatedAt": "2026-09-27",
+          "references": [
+            {
+              "type": "museum-record",
+              "value": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=71",
+              "credit": "仅据馆方检索可见文字限定象牙筒、金釦、三环与朱蓝线饰；纹样不保真"
+            }
+          ]
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-09-27",
+          "reviewedBy": "Codex visual QA",
+          "note": "朱蓝图样、缺损和具体牙料来源均不能从AI图确认。"
+        }
+      }
     },
-    "sourceReview": {"reviewedAt":"2026-09-27","authorityUrl":"https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=71","note":"馆方逐件记录仅核到搜索可见文字；官网图片未核得本站可用授权，不能将墓中另一支非洲象牙的鉴定结果套给本卮。"}
+    "sourceReview": {
+      "reviewedAt": "2026-09-27",
+      "authorityUrl": "https://www.nywmuseum.org.cn/Collection/Details/zyzb?nid=71",
+      "note": "馆方逐件记录仅核到搜索可见文字；官网图片未核得本站可用授权，不能将墓中另一支非洲象牙的鉴定结果套给本卮。"
+    }
+  },
+  "hub-zzs": {
+    "src": "/artifact-sources/user-hubei/hub-zzs-detail.jpg",
+    "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+    "variants": {
+      "card": {
+        "src": "/artifact-sources/user-hubei/hub-zzs-card.jpg",
+        "kind": "source",
+        "fit": "cover",
+        "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+        "provenance": {
+          "type": "source",
+          "authorizationStatus": "pending",
+          "assetMatchStatus": "verified",
+          "assetSha256": "eb2f8d129813ee0edec87570b55b0a0f510742ffd17ff873d773f05066f6ad95",
+          "originalSha256": "69c9ddb45757c6457154f3d23339668e4db3e0c08fe0043df0ced1e2b1f15e94",
+          "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+          "modifications": "长边等比缩放至 900 像素并重编码 JPEG（quality 88，progressive）；未裁切主体、未调色。",
+          "sourceTitle": "IMG_20250307_150010.jpg",
+          "author": "德里克文",
+          "institution": "湖北省博物馆",
+          "shotAt": "2025-03-07"
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-10-01",
+          "reviewedBy": "DeepSeek field-photo review",
+          "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+        }
+      },
+      "detail": {
+        "src": "/artifact-sources/user-hubei/hub-zzs-detail.jpg",
+        "kind": "source",
+        "fit": "contain",
+        "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+        "provenance": {
+          "type": "source",
+          "authorizationStatus": "pending",
+          "assetMatchStatus": "verified",
+          "assetSha256": "3dee348c5762da65a33b7bb04e0aa2a7bc0d9d4e9fddc02b77952926cc972875",
+          "originalSha256": "69c9ddb45757c6457154f3d23339668e4db3e0c08fe0043df0ced1e2b1f15e94",
+          "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+          "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（quality 90，progressive）；未裁切主体、未调色。",
+          "sourceTitle": "IMG_20250307_150010.jpg",
+          "author": "德里克文",
+          "institution": "湖北省博物馆",
+          "shotAt": "2025-03-07"
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-10-01",
+          "reviewedBy": "DeepSeek field-photo review",
+          "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+        }
+      }
+    },
+    "sourceReview": {
+      "reviewedAt": "2026-10-01",
+      "note": "作者 2025-03-07 现场拍摄；照片已剥离 EXIF/GPS。授权 pending（未取得馆方许可），器物事实另见 stories-batch65 的来源条目。"
+    }
+  },
+  "hub-ymh": {
+    "src": "/artifact-sources/user-hubei/hub-ymh-detail.jpg",
+    "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+    "variants": {
+      "card": {
+        "src": "/artifact-sources/user-hubei/hub-ymh-card.jpg",
+        "kind": "source",
+        "fit": "cover",
+        "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+        "provenance": {
+          "type": "source",
+          "authorizationStatus": "pending",
+          "assetMatchStatus": "verified",
+          "assetSha256": "b22a8bd80716006d0f52f3e83112ef3af34bdbecae10475e793e72150bed68c4",
+          "originalSha256": "92cc8a0d756a4beafb6980b4d4d327e6be35bb4d2fb44a0f14a6a8307c856fa3",
+          "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+          "modifications": "长边等比缩放至 900 像素并重编码 JPEG（quality 88，progressive）；未裁切主体、未调色。",
+          "sourceTitle": "IMG_20250307_152958.jpg",
+          "author": "德里克文",
+          "institution": "湖北省博物馆",
+          "shotAt": "2025-03-07"
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-10-01",
+          "reviewedBy": "DeepSeek field-photo review",
+          "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+        }
+      },
+      "detail": {
+        "src": "/artifact-sources/user-hubei/hub-ymh-detail.jpg",
+        "kind": "source",
+        "fit": "contain",
+        "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+        "provenance": {
+          "type": "source",
+          "authorizationStatus": "pending",
+          "assetMatchStatus": "verified",
+          "assetSha256": "06e457e6d8e0b907f09e19e8956b9a509e15e3cc881ef09efea2f477a7bdc228",
+          "originalSha256": "92cc8a0d756a4beafb6980b4d4d327e6be35bb4d2fb44a0f14a6a8307c856fa3",
+          "evidenceNote": "用户（本站作者）2025-03-07 在湖北省博物馆展厅现场拍摄。已在本机重编码剥离 EXIF/GPS，仅等比缩放与 JPEG 重编码，未裁切、未调色、未使用 AI 生成或补绘。未取得馆方或展览方书面授权，授权状态保持 pending；如馆方提出异议将撤下。",
+          "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（quality 90，progressive）；未裁切主体、未调色。",
+          "sourceTitle": "IMG_20250307_152958.jpg",
+          "author": "德里克文",
+          "institution": "湖北省博物馆",
+          "shotAt": "2025-03-07"
+        },
+        "review": {
+          "visual": "approved",
+          "historical": "pending",
+          "reviewedAt": "2026-10-01",
+          "reviewedBy": "DeepSeek field-photo review",
+          "note": "作者现场拍摄；器物身份以展厅说明牌与本页证据条目为准。"
+        }
+      }
+    },
+    "sourceReview": {
+      "reviewedAt": "2026-10-01",
+      "note": "作者 2025-03-07 现场拍摄；照片已剥离 EXIF/GPS。授权 pending（未取得馆方许可），器物事实另见 stories-batch65 的来源条目。"
+    }
   }
 }

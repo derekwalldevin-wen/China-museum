@@ -31,7 +31,7 @@ function stripResponsive(image) {
 test('generated image data is bound to the untouched authority registry', async () => {
   const source = await readFile(new URL('../src/data/images.json', import.meta.url));
   assert.equal(createHash('sha256').update(source).digest('hex'), generation.source.sha256);
-  assert.equal(generation.source.records, 206);
+  assert.equal(generation.source.records, 208);
   assert.equal(Object.keys(images).length, artifactLocations.size);
 });
 

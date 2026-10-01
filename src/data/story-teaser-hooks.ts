@@ -201,4 +201,6 @@ export const storyTeaserHooks: Record<string, string> = {
   'xz-ljf': '一尊明代的佛像，为什么是西藏本地风格？',
   'xa-snt': '唐代女子的“同款妆容”，能在俑上读到几步？',
   'hlj-syj': '为什么“双鱼”会成为金代铜镜的招牌纹样？',
+  'hub-zzs': '一只方壶的铭文，为什么请郭沫若来释读？',
+  'hub-ymh': '一只漆盒的头，为什么能转三百六十度？',
 };

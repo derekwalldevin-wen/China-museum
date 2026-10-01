@@ -13,11 +13,11 @@ const outputBySrc = new Map(manifest.outputs.map(output => [output.src, output])
 const shapeById = new Map(museums.flatMap(museum => museum.artifacts.map(artifact => [artifact.id, artifact.shape])));
 const sha256 = value => createHash('sha256').update(value).digest('hex');
 
-test('responsive evidence covers 206 records while held and text-only artifacts stay excluded', () => {
+test('responsive evidence covers 208 records while held and text-only artifacts stay excluded', () => {
   assert.deepEqual(Object.keys(manifest.artifacts), Object.keys(images));
-  assert.equal(manifest.summary.artifactRecords, 206);
+  assert.equal(manifest.summary.artifactRecords, 208);
   assert.equal(manifest.summary.illustrationOnlyArtifacts ?? 0, 0);
-  assert.equal(manifest.summary.eligibleArtifacts, 206);
+  assert.equal(manifest.summary.eligibleArtifacts, 208);
   assert.equal(manifest.summary.heldArtifacts, 0);
   for (const [id, info] of Object.entries(images)) {
     const artifact = manifest.artifacts[id];

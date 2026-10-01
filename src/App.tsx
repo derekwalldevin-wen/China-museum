@@ -30,6 +30,23 @@ const CollectionResults = lazy(loadCollectionResults);
 // 静态首页审美确认后，再以同一画面重做连续开场。
 const ENABLE_INK_INTRO = true;
 
+// 卷首荐读：优先推作者实地到访过并已写好故事的文物，按日期轮换。
+// 现场看过的器物比每天重复同一件更有意义；《清明上河图》退为兜底，
+// 只在轮换目标缺失时出现（见下方 beaconPick 的兜底分支）。
+const FIELD_IDS = 'hub-zhy hub-zzs hub-ymh'.split(' ');
+const beaconDayIndex = Math.floor(Date.now() / 86_400_000) % FIELD_IDS.length;
+const beaconStoryId = FIELD_IDS[beaconDayIndex];
+const beaconMuseum = museums.find(museum => museum.artifacts.some(item => item.id === beaconStoryId));
+const beaconArtifact = beaconMuseum?.artifacts.find(item => item.id === beaconStoryId);
+const beaconName = beaconArtifact?.name ?? '清明上河图';
+const beaconPick = {
+  id: beaconArtifact ? beaconStoryId : 'gg-qmsh',
+  eyebrow: beaconArtifact ? `实地荐读 · ${beaconMuseum?.name}` : '卷首荐读 · 北宋汴京',
+  title: beaconArtifact ? '现场看过它' : '沿一幅长卷，走进一座城',
+  blurb: beaconArtifact ? '照片来自展厅。' : '从《清明上河图》出发。',
+  cta: `从《${beaconName}》启程`,
+};
+
 function warm(loader: () => Promise<unknown>) {
   void loader().catch(() => { /* The visible error boundary owns recovery. */ });
 }
@@ -492,14 +509,14 @@ export default function App() {
 
       {/* ── 故事引路笺 ── */}
       {!provinceName && ready && !collectionOpen && (
-        <aside className="atlas-curator-note atlas-story-beacon absolute z-10 md:left-8 md:bottom-16 md:max-w-[300px]">
-          <div className="atlas-story-eyebrow"><span /> 卷首荐读 · 北宋汴京</div>
-          <h2>沿一幅长卷，走进一座城</h2>
-          <p>从《清明上河图》出发，看街市、舟桥与普通人的生活如何留在绢素之间。</p>
+        <aside className="atlas-curator-note atlas-story-beacon absolute z-10 md:left-8 md:bottom-16 md:max-w-[300px]" data-beacon-story={beaconPick.id}>
+          <div className="atlas-story-eyebrow"><span /> {beaconPick.eyebrow}</div>
+          <h2>{beaconPick.title}</h2>
+          <p>{beaconPick.blurb}</p>
           <button type="button"
             onPointerEnter={() => warm(loadStoryExperience)} onFocus={() => warm(loadStoryExperience)}
-            onClick={() => navigateGuide({ trailId: defaultTrailId('gg-qmsh'), storyId: 'gg-qmsh' })}>
-            <span>从《清明上河图》启程</span><b aria-hidden="true">↗</b>
+            onClick={() => navigateGuide({ trailId: defaultTrailId(beaconPick.id), storyId: beaconPick.id })}>
+            <span>{beaconPick.cta}</span><b aria-hidden="true">↗</b>
           </button>
           <div className="atlas-story-hint">也可轻触卷中省界或朱印，按地域寻馆</div>
         </aside>

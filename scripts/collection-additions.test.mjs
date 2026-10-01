@@ -105,7 +105,11 @@ test('the other 195 image records stay unchanged while six quarantined records a
   // scan replaced both the 900x36 thumbnail and the AI card. It is excluded from the
   // frozen snapshot rather than rewriting the historical baseline file.
   const refreshedLater = new Set(['gg-qljs']);
-  const unaffected = Object.fromEntries(Object.entries(images).filter(([id]) => !baseline.replacedIds.includes(id) && !laterAdditions.has(id) && !refreshedLater.has(id)));
+  // 2026-10-01: three records changed for the field photographs from the author's Hubei visit —
+  // two new artifacts (hub-zzs, hub-ymh) and hub-zhy switched from an AI card to the real photo.
+  // They are excluded from this frozen snapshot instead of rewriting the baseline file.
+  const fieldVisitLater = new Set(['hub-zhy', 'hub-zzs', 'hub-ymh']);
+  const unaffected = Object.fromEntries(Object.entries(images).filter(([id]) => !baseline.replacedIds.includes(id) && !laterAdditions.has(id) && !refreshedLater.has(id) && !fieldVisitLater.has(id)));
   const auditedAuthorityRefresh = unaffected['gg-ryzl'].sourceReview;
   assert.equal(auditedAuthorityRefresh.authorityUrl, 'https://ggzl.dpm.org.cn/pages/exhibit_works/details?id=9404');
   assert.equal(auditedAuthorityRefresh.reviewedAt, '2026-09-23');
@@ -119,8 +123,15 @@ test('the other 195 image records stay unchanged while six quarantined records a
     note: '尚未找到精确匹配且具有明确可复用许可的影像。本轮馆方页面连接超时，不据历史页面或文件名确认图片授权。',
     },
   };
-  assert.equal(Object.keys(unaffected).length, baseline.unaffectedRecords - refreshedLater.size);
-  assert.equal(hash(unaffected), baseline.unaffectedRecordsSha256);
+  // 195 baseline records − 1 (gg-qljs refreshed) − 1 (hub-zhy switched to the field photo)
+  // = 193. hub-zzs and hub-ymh are brand-new artifacts that never appeared in the baseline,
+  // so they are filtered out by fieldVisitLater without changing the historical count.
+  assert.equal(Object.keys(unaffected).length, 193);
+  // The historical baseline hash covered 194 records. After also excluding hub-zhy (which
+  // switched from an AI card to the author's field photograph on 2026-10-01), the 193 records
+  // that must remain byte-identical hash to the value below. Any accidental edit to those
+  // records still breaks this assertion, which is the point of the frozen snapshot.
+  assert.equal(hash(unaffected), 'b8a128c9d309fd934d1462a1ed2330ef8239f9b7dbc31c7c2e09e6a8cef89a92');
   for (const id of baseline.replacedIds) {
     assert.ok(baseline.heldRecords[id].imageHold, id);
     assert.equal(images[id].imageHold, undefined, id);
