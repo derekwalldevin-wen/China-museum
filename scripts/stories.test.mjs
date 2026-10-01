@@ -782,7 +782,7 @@ test('twelfth batch keeps seal identity and vessel-use interpretations separate 
   assert.equal(batch12.stories.length, 5);
   assert.equal(batch12.sources.length, 8);
   assert.match(byId('sxl-xmb').sections[2].text, /产地仍有学术争议/);
-  assert.match(byId('sxl-wmh').sections[2].text, /不是本壶曾被带入/);
+  assert.match(byId('sxl-wmh').sections[2].text, /诗不是这只壶的出入簿/);
   assert.match(byId('sxl-hzx').summary, /推测很可能/);
   assert.match(byId('ny-wdx').sections[1].text, /印台部位含金量98%/);
   assert.match(byId('ny-jyb').correction, /一饮而尽/);
