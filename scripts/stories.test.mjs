@@ -239,7 +239,7 @@ test('evidence distinguishes museum material from reported interviews and image 
   assert.ok(data.stories.find(story => story.id === 'hain-hgj').sections[3].refs.includes('huaguang-nmc-research'));
   assert.ok(data.stories.find(story => story.id === 'hain-hgj').sections.at(-1).refs.includes('huaguang-conservation'));
   assert.ok(data.stories.find(story => story.id === 'dz-yzp').sections[0].refs.includes('b2-han-tombs'));
-  assert.match(data.trails.find(trail => trail.id === 'ink').intro, /不是作者之间的交游链/);
+  assert.match(data.trails.find(trail => trail.id === 'ink').intro, /每一站都问，作品自己留下了什么/);
 });
 
 test('thirty-second batch binds actual K5:3 conservation and keeps interpretations bounded', () => {
@@ -441,14 +441,14 @@ test('bronze batch separates dated evidence, estimates, repair reports and resea
   const byId = id => data.stories.find(story => story.id === id);
   assert.equal(batch4.stories.length, 4);
   assert.equal(batch4.sources.length, 9);
-  assert.match(byId('gb-hmwd').sections[1].text, /后世技术推算/);
+  assert.match(byId('gb-hmwd').sections[1].text, /后世的技术推算/);
   assert.match(byId('gb-hmwd').uncertainty, /原始现场档案/);
   assert.match(byId('gb-syz').sections[2].text, /二十余块/);
   assert.match(byId('gb-syz').uncertainty, /修复工作日志/);
   assert.match(byId('sh-dkd').sections[2].text, /清光绪中期/);
   assert.doesNotMatch(byId('sh-dkd').summary, /^1890年/);
   assert.match(byId('sx-nz').sections[0].text, /没有直接写“燮父”/);
-  assert.match(byId('sx-nz').uncertainty, /未核读M114完整发掘报告/);
+  assert.match(byId('sx-nz').uncertainty, /114号墓的完整发掘报告.*没有核读/);
   assert.equal(sources.get('b4-jin-interview').kind, 'reported-interview');
   for (const story of batch4.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
@@ -464,7 +464,7 @@ test('fifth batch keeps distinct inscriptions, objects, disputed methods and lat
   assert.match(byId('hn-fhxz').uncertainty, /原补比例/);
   assert.doesNotMatch(byId('hn-fhxz').summary, /第一位女将军/);
   assert.match(byId('hn-ywtj').sections[2].text, /反对意见/);
-  assert.match(byId('hun-mfl').sections[2].text, /不是在拍卖场上竞得/);
+  assert.match(byId('hun-mfl').sections[2].text, /洽购团队赶在预定拍卖之前/);
   assert.match(byId('zj-fcst').sections[2].text, /后世流传故事/);
   assert.match(byId('zj-fcst').sections[3].text, /没有物理粘回/);
   for (const story of batch5.stories) {

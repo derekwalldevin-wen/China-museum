@@ -6,19 +6,19 @@ import { test } from 'node:test';
 import { BANNED, scoreFile, storyFileNames } from './prose-report.mjs';
 
 // Files already rewritten to the new voice: they must contain zero banned markers.
-const REWRITTEN = ['stories.json', 'stories-batch2.json', 'stories-batch3.json', 'stories-batch8.json', 'stories-batch9.json', 'stories-batch10.json', 'stories-batch11.json', 'stories-batch12.json', 'stories-batch13.json', 'stories-batch14.json', 'stories-batch15.json', 'stories-batch16.json', 'stories-batch17.json', 'stories-batch18.json', 'stories-batch19.json', 'stories-batch20.json', 'stories-batch21.json', 'stories-batch22.json', 'stories-batch24.json', 'stories-batch26.json', 'stories-batch27.json', 'stories-batch28.json', 'stories-batch38.json', 'stories-batch48.json', 'stories-batch50.json', 'stories-batch51.json', 'stories-batch52.json', 'stories-batch53.json', 'stories-batch54.json', 'stories-batch55.json', 'stories-batch56.json', 'stories-batch57.json', 'stories-batch58.json', 'stories-batch59.json', 'stories-batch60.json', 'stories-batch61.json', 'stories-batch62.json', 'stories-batch63.json', 'stories-batch64.json', 'stories-batch65.json', 'stories-batch66.json', 'stories-batch67.json', 'stories-batch68.json', 'stories-batch69.json', 'stories-batch70.json'];
+const REWRITTEN = ['stories.json', 'stories-batch2.json', 'stories-batch3.json', 'stories-batch4.json', 'stories-batch5.json', 'stories-batch6.json', 'stories-batch7.json', 'stories-batch8.json', 'stories-batch9.json', 'stories-batch10.json', 'stories-batch11.json', 'stories-batch12.json', 'stories-batch13.json', 'stories-batch14.json', 'stories-batch15.json', 'stories-batch16.json', 'stories-batch17.json', 'stories-batch18.json', 'stories-batch19.json', 'stories-batch20.json', 'stories-batch21.json', 'stories-batch22.json', 'stories-batch24.json', 'stories-batch26.json', 'stories-batch27.json', 'stories-batch28.json', 'stories-batch38.json', 'stories-batch48.json', 'stories-batch50.json', 'stories-batch51.json', 'stories-batch52.json', 'stories-batch53.json', 'stories-batch54.json', 'stories-batch55.json', 'stories-batch56.json', 'stories-batch57.json', 'stories-batch58.json', 'stories-batch59.json', 'stories-batch60.json', 'stories-batch61.json', 'stories-batch62.json', 'stories-batch63.json', 'stories-batch64.json', 'stories-batch65.json', 'stories-batch66.json', 'stories-batch67.json', 'stories-batch68.json', 'stories-batch69.json', 'stories-batch70.json'];
 
 // Global ceilings: only ever lowered. Snapshot taken before the rewrite pass began.
 const CEILINGS = {
-  '不是…而是…': 6,
-  '不能…当作/说成': 11,
-  '本页/本站/本文': 70,
+  '不是…而是…': 5,
+  '不能…当作/说成': 10,
+  '本页/本站/本文': 62,
   '编辑口气': 3,
-  '模板过渡句': 6,
+  '模板过渡句': 4,
   '比较的是…不主张': 5,
   '考据腔': 0,
   '方括号标签': 178,
-  '说教距离': 34,
+  '说教距离': 25,
 };
 
 const totals = new Map(BANNED.map(([label]) => [label, 0]));
@@ -77,7 +77,7 @@ test('museums.ts and the app shell keep the same voice rules', () => {
     for (const [label, rx] of BANNED) {
       if (label === '方括号标签') continue;
       const hits = (text.match(new RegExp(rx.source, 'g')) ?? []).length;
-      const allow = file === 'src/data/museums.ts' ? 12 : 2;
+      const allow = 0; // museums.ts blurbs, the app shell and the visitor copy were all cleaned this tranche
       assert.ok(hits <= allow, `${file}: ${label} appears ${hits} times (allow ${allow})`);
     }
   }
