@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-01T10:32:34.224Z",
+ "generatedAt": "2026-10-01T10:47:31.225Z",
  "inputs": [
   {
    "path": "src/data/stories.json",
@@ -238,8 +238,8 @@
   },
   {
    "path": "src/data/stories-batch51.json",
-   "bytes": 20531,
-   "sha256": "a2b9a50cea71be129cfa32dc885f15296c3107628bff8370ec7e14d430315b3d"
+   "bytes": 19191,
+   "sha256": "7d03591a0b3976d738e6dba558749c0522a37de0d8bd9c8aa65efe93b3a5a975"
   },
   {
    "path": "src/data/stories-batch52.json",
@@ -248,8 +248,8 @@
   },
   {
    "path": "src/data/stories-batch53.json",
-   "bytes": 22641,
-   "sha256": "54cf7af6bdf0551a94b2f1097214c837d6793ea9533711c4e11b471cd457169d"
+   "bytes": 20915,
+   "sha256": "a6a08cb2a2b876f9087e3ad00dd1624feeb751819882ccafaa90d51ef60d4196"
   },
   {
    "path": "src/data/stories-batch54.json",
@@ -347,7 +347,7 @@
  "payloads": {
   "directory": "src/data/story-payloads",
   "count": 218,
-  "totalBytes": 1568827,
+  "totalBytes": 1560650,
   "maxBytes": 16097,
   "files": [
    {
@@ -1480,22 +1480,22 @@
    {
     "id": "nx-jxb",
     "path": "src/data/story-payloads/nx-jxb.json",
-    "bytes": 7641,
-    "sha256": "85bac89f1e113ba4db1221d13f45f5fa8245888fb0c60caecfa61449d0d59de6",
+    "bytes": 6472,
+    "sha256": "a2bab0d22a9cb1fee7a19af8eef298b095789e4543521ce1b7c362c72e1986d2",
     "sources": 1
    },
    {
     "id": "gd-qjy",
     "path": "src/data/story-payloads/gd-qjy.json",
-    "bytes": 6344,
-    "sha256": "982a5c83a51cf45e3529831b7b8dd1dd0f504a3f4404a11b047083ddacbdb0cd",
+    "bytes": 5089,
+    "sha256": "eed68847c4a9a952c5e2cde36676afcb29c7dd5409516c6686414dbf8cac76dc",
     "sources": 1
    },
    {
     "id": "hk-hrz",
     "path": "src/data/story-payloads/hk-hrz.json",
-    "bytes": 7521,
-    "sha256": "b66725a649c3c3eadce4701317e598e178b2f682e376fa8ed6806d92ca0c1ff9",
+    "bytes": 6016,
+    "sha256": "c17a778c405bdc1ba2ff5a3a5736825f7914ea9a669c22cd8124fee580172ad8",
     "sources": 1
    },
    {
@@ -1522,22 +1522,22 @@
    {
     "id": "ly-sbx",
     "path": "src/data/story-payloads/ly-sbx.json",
-    "bytes": 7994,
-    "sha256": "28eba520390e4cc9b7dbe569f9c9baaced75c45499bf3c3cbec3c0350e4573aa",
+    "bytes": 6346,
+    "sha256": "56eca990a379357860950ba9d35afa1833c099bcd5b31866403c7e06403a881f",
     "sources": 2
    },
    {
     "id": "jx-glc",
     "path": "src/data/story-payloads/jx-glc.json",
-    "bytes": 8594,
-    "sha256": "eacde201a777cc158bd6eb950df34bf8379256061c25b21171ad0aa0f68eb19e",
+    "bytes": 7174,
+    "sha256": "d84fb374a662ceb81ec0ec092b66f50e95e5cb91937a53cc54ff13fc6b22c02e",
     "sources": 1
    },
    {
     "id": "dt-lbl",
     "path": "src/data/story-payloads/dt-lbl.json",
-    "bytes": 7103,
-    "sha256": "4c408da466e261f17f0d1f0785019eb1f2a5a942a6ac198a74d07f5578d3115d",
+    "bytes": 5745,
+    "sha256": "069093c6f88b0663187dda722741df7b31936e7e96f1c5f7c5f91a2242dfc403",
     "sources": 1
    },
    {
@@ -1578,8 +1578,8 @@
    {
     "id": "hk-jgb",
     "path": "src/data/story-payloads/hk-jgb.json",
-    "bytes": 8881,
-    "sha256": "65a35114813956920cabf64cb5db0d1c3f32f71efb02c9b00bcfc3fd3778a50d",
+    "bytes": 9059,
+    "sha256": "299e6a45d5220db8f93c62e38ffbffe7c03383a1f144c365d750eae545c31534",
     "sources": 2
    },
    {

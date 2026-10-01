@@ -1512,11 +1512,11 @@ test('fifty-third batch grades a stone beast, a dated granary and a dictionary e
   // The granary keeps its date, surname and four glazes; the kiln-temperature claim is gone.
   assert.match(batch53.stories[1].summary, /后至元四年（1338年）/);
   assert.doesNotMatch(batch53.stories[1].summary, /温度一高一低|两进/);
-  assert.match(batch53.stories[1].sections[2].text, /凌氏/);
+  assert.match(batch53.stories[1].sections[1].text, /凌氏/);
   // The glass bowl flags that the dictionary says light green while the site says blue.
   assert.match(batch53.stories[2].summary, /淡绿色/);
   assert.doesNotMatch(batch53.stories[2].summary, /钠钙|北魏蓝/);
-  assert.match(batch53.stories[2].sections[2].text, /两条并录/);
+  assert.match(batch53.stories[2].sections[1].text, /两种说法目前并录/);
   assert.equal(sources.get('b53-dt-cidian').kind, 'academic-reference');
   assert.match(sources.get('b53-dt-cidian').supports, /三次文献|辞典条目/);
   for (const source of batch53.sources) {
