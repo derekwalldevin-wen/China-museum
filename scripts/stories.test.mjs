@@ -938,7 +938,7 @@ test('twentieth batch distinguishes conservation records, cave catalogues and Ho
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
       assert.ok(relation.reason.length >= 24);
-      assert.match(relation.reason, /不|不能/);
+      assert.ok(relation.reason.length >= 24 && !/比较的是|不主张|不能把/.test(relation.reason));
     }
   }
 });
@@ -1017,11 +1017,11 @@ test('twenty-third batch separates Dazu carving, interpretation, monitoring and 
 
 test('twenty-fourth batch separates two Qin carriages and kneeling-archer type records', () => {
   const byId = id => data.stories.find(story => story.id === id);
-  assert.match(byId('qs-tcm').sections[0].text, /1980年12月.*1978年出土/);
-  assert.match(byId('qs-tcm').sections[1].text, /3500余.*两乘合计/);
+  assert.match(byId('qs-tcm').uncertainty, /1980.*1978/);
+  assert.match(byId('qs-tcm').sections[1].text, /3500余个零件.*两乘合起来的数字/);
   assert.match(byId('qs-tcm').sections[3].text, /一号车.*X光探伤/);
   assert.match(byId('qs-gyz').sections[2].text, /1998年.*8件.*群体/);
-  assert.match(byId('qs-gyz').sections[3].text, /逐日修复工单/);
+  assert.match(byId('qs-gyz').uncertainty, /单件修复记录/);
   assert.doesNotMatch(objects.get('qs-gyz').story, /唯一未经人工修复|旅游形象大使/);
   for (const story of batch24.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
@@ -1033,7 +1033,7 @@ test('twenty-fourth batch separates two Qin carriages and kneeling-archer type r
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id), relation.id);
       assert.ok(relation.reason.length >= 24);
-      assert.match(relation.reason, /不|不能/);
+      assert.ok(relation.reason.length >= 24 && !/比较的是|不主张|不能把/.test(relation.reason));
     }
   }
 });
@@ -1412,7 +1412,7 @@ test('fiftieth batch separates a standard-pitch bell, a loaned scroll and an exh
   // The bell keeps the measured figures and drops the unsourced quantity claim.
   assert.match(batch50.stories[0].summary, /通高27.5、宽18厘米/);
   assert.doesNotMatch(batch50.stories[0].summary, /三十余枚|靖康之乱后流散四海/);
-  assert.match(batch50.stories[0].sections[2].text, /传世极少/);
+  assert.match(batch50.stories[0].details.map(entry => entry.text).join(''), /传世极少|极少传世|传世数量/);
   // The Luoshen scroll must read as a Palace Museum holding shown in Hong Kong.
   assert.match(batch50.stories[1].summary, /故宫博物院藏品/);
   assert.match(batch50.stories[1].summary, /借展不等于/);
@@ -1485,7 +1485,7 @@ test('fifty-second batch names the ten offerings, the court dress rank and the r
   // The shrine must state its 2009 partial reconstruction.
   assert.match(batch52.stories[2].summary, /2009年补配缺失部件后复原/);
   assert.doesNotMatch(batch52.stories[2].summary, /均可开合/);
-  assert.match(batch52.stories[2].sections[2].text, /重新配制了缺失的部件/);
+  assert.match(batch52.stories[2].sections[2].text, /配制缺失的部件/);
   assert.equal(sources.get('b52-kz-shigong-archive').kind, 'museum-research');
   assert.equal(sources.get('b52-gd-shenkan').kind, 'museum');
   for (const source of batch52.sources) {

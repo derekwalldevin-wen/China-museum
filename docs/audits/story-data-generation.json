@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-01T11:27:40.725Z",
+ "generatedAt": "2026-10-01T11:42:32.674Z",
  "inputs": [
   {
    "path": "src/data/stories.json",
@@ -98,8 +98,8 @@
   },
   {
    "path": "src/data/stories-batch20.json",
-   "bytes": 21443,
-   "sha256": "5cd843884087e78dfb7073cea0e5e3256622f8dbcadd18c39aa81968823f3f5c"
+   "bytes": 20652,
+   "sha256": "57c9702f7fbaf90a44869d5aad8b7c4a00617227a898779afd1bc6ba6e5e684c"
   },
   {
    "path": "src/data/stories-batch21.json",
@@ -118,8 +118,8 @@
   },
   {
    "path": "src/data/stories-batch24.json",
-   "bytes": 14218,
-   "sha256": "983ea5ab51a9ef9887ecd1135d99dff086c6e4c62cbf2be811f9cfff81a708f5"
+   "bytes": 15065,
+   "sha256": "867b788be574f589855f5bd4231364798f232583e120f20d2a049246c27c7dbf"
   },
   {
    "path": "src/data/stories-batch25.json",
@@ -233,8 +233,8 @@
   },
   {
    "path": "src/data/stories-batch50.json",
-   "bytes": 20788,
-   "sha256": "77fef30ae05a0fe40a1fe7a9f885870402929e6b58691d5d91c0ed36f960bcc7"
+   "bytes": 19161,
+   "sha256": "b8e702d0a0fe7c4397b7387ef25276ba3209378c8606de2c5bd44bff5e1cec9a"
   },
   {
    "path": "src/data/stories-batch51.json",
@@ -243,8 +243,8 @@
   },
   {
    "path": "src/data/stories-batch52.json",
-   "bytes": 25212,
-   "sha256": "21d202f3684a743d183e0ca9235f5a400bcdd0e74053d4cebbb8abd583881f93"
+   "bytes": 24925,
+   "sha256": "a6cc6047be4540f23ee3804a359dea0f60d9a72b8d54d7da361ff49a7cb3677c"
   },
   {
    "path": "src/data/stories-batch53.json",
@@ -347,7 +347,7 @@
  "payloads": {
   "directory": "src/data/story-payloads",
   "count": 218,
-  "totalBytes": 1541828,
+  "totalBytes": 1528867,
   "maxBytes": 16097,
   "files": [
    {
@@ -983,22 +983,22 @@
    {
     "id": "dz-qsg",
     "path": "src/data/story-payloads/dz-qsg.json",
-    "bytes": 7211,
-    "sha256": "dc71df5a09f9dfd00d86917be7af9c9693e65123ae7eaf5efb7b384fae730e2e",
+    "bytes": 5786,
+    "sha256": "426e482488a80ed65ab6b99f85058ada008c5173f6c1cd39772ee586a2d016d0",
     "sources": 2
    },
    {
     "id": "dh-jsl",
     "path": "src/data/story-payloads/dh-jsl.json",
-    "bytes": 7681,
-    "sha256": "c63bb0776bbcfde83efdbe9c6a1bc80e5e45a05ac232330b59252b9b28e71103",
+    "bytes": 6307,
+    "sha256": "7d3880eefd88f4d3b870fff47d3f0d3005a4b3abe913a4ad1a0fd3b369e5966d",
     "sources": 3
    },
    {
     "id": "sx-hmms",
     "path": "src/data/story-payloads/sx-hmms.json",
-    "bytes": 8201,
-    "sha256": "6850dd1585aea791fad927f1c7372efab7860bf589087486af840fd2857f93b5",
+    "bytes": 6784,
+    "sha256": "c3efc6e506c8347c13d5814c5e56bd14b450bd8e85423a2c61d011b31eed0229",
     "sources": 3
    },
    {
@@ -1067,15 +1067,15 @@
    {
     "id": "qs-tcm",
     "path": "src/data/story-payloads/qs-tcm.json",
-    "bytes": 8070,
-    "sha256": "c930b531ad14a97352ddb805f05ee42395a15201951fc653090fe1537c957e7b",
+    "bytes": 7352,
+    "sha256": "addbfd4927037d929ed1db266082b29c6c21ddc05ed159d8e705a23f878caa7c",
     "sources": 5
    },
    {
     "id": "qs-gyz",
     "path": "src/data/story-payloads/qs-gyz.json",
-    "bytes": 7348,
-    "sha256": "141ed9d31e668c0bdc09c7245913ce92efffef294a23c43a9f23849d34709092",
+    "bytes": 6543,
+    "sha256": "b137947b8789f00bff51f94b49036c34846c79bd6b058a735f269c4bd5cc5a1d",
     "sources": 3
    },
    {
@@ -1459,22 +1459,22 @@
    {
     "id": "kf-dsb",
     "path": "src/data/story-payloads/kf-dsb.json",
-    "bytes": 7129,
-    "sha256": "a6eb48db0480106b6654e404922815c0be895e05f12cb7aa8dea057faaf19372",
+    "bytes": 5871,
+    "sha256": "f5f8024912a5bb541f949b2b5229afcbf79884d99eb9505982dfa8d2704ad488",
     "sources": 1
    },
    {
     "id": "hk-lsf",
     "path": "src/data/story-payloads/hk-lsf.json",
-    "bytes": 7486,
-    "sha256": "4a71f032a2772159e39c222e44060b785b7f5983e048f4c3ed3bb4ed6db2e9fb",
+    "bytes": 5854,
+    "sha256": "d4da39e2a72663aa293c33ea811b1e51d63671ac32ca725317587fd719301803",
     "sources": 1
    },
    {
     "id": "jl-wjg",
     "path": "src/data/story-payloads/jl-wjg.json",
-    "bytes": 7147,
-    "sha256": "8e037f7f40f3f13dcba29623730cbe61f1323e7f0ab8c42ccf717d7dbf580b79",
+    "bytes": 5821,
+    "sha256": "7d8087dfdd2dcaad5e94283c4f5c453d9766c56fcfa1cc68fb49983931a456e0",
     "sources": 1
    },
    {
@@ -1501,22 +1501,22 @@
    {
     "id": "kz-sg",
     "path": "src/data/story-payloads/kz-sg.json",
-    "bytes": 10368,
-    "sha256": "af61f889f54de18b2a8c2846c5a58dae5357d1d55e2215522d58d0c0e15de204",
+    "bytes": 9555,
+    "sha256": "64e8b0fc4c7b165b6e67cf41f010bb748c71d2efe7d158956d410ab568fa95fb",
     "sources": 2
    },
    {
     "id": "kz-myc",
     "path": "src/data/story-payloads/kz-myc.json",
-    "bytes": 7877,
-    "sha256": "d437bd4dc87b388c0e6975e28421a3c652c3e7561c1d7d035866ceb7fe53f4a5",
+    "bytes": 6650,
+    "sha256": "2573cfe301a0e83d18168a53ba474c7cf45c39530629058c094fc9229181a4b1",
     "sources": 1
    },
    {
     "id": "gd-dsk",
     "path": "src/data/story-payloads/gd-dsk.json",
-    "bytes": 8046,
-    "sha256": "4204122dea4488b5c7ca125463e510372eedb402bd26c18500588461f121e4a6",
+    "bytes": 7080,
+    "sha256": "a12ab9cd2df5c8f675ee4cf0e43a08e5427a5cf97e0085cf2858719625e3ebc5",
     "sources": 1
    },
    {
