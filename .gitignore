@@ -36,3 +36,6 @@ contest/tools/imageio_ffmpeg/binaries/
 
 # Local Pages secrets for wrangler pages dev (.dev.vars)
 .dev.vars
+
+# 用户投放的照片（本地处理，不入库）
+inbox/
