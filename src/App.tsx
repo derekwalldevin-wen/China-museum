@@ -33,7 +33,7 @@ const ENABLE_INK_INTRO = true;
 // 卷首荐读：只推作者实地到访过、并已写好故事的文物，按日期轮换。
 // 目标 id 全在 FIELD_IDS 内且由 stories.test 断言在册，因此不需要兜底分支；
 // 标题与说明写成静态 JSX 文案，省下首屏预算。
-const FIELD_IDS = 'hub-zhy hub-zzs hub-ymh hub-hjd hub-hjs hub-hjy hub-zbh hub-zbl hub-hyy hub-qqw hub-nnd hub-xd hub-fcb hub-jjj hub-czd'.split(' ');
+const FIELD_IDS = 'hub-zhy hub-zzs hub-ymh hub-hjd hub-hjs hub-hjy hub-zbh hub-zbl hub-hyy hub-qqw hub-nnd hub-xd hub-fcb hub-jjj hub-czd hub-lgd hub-yzc hub-jb'.split(' ');
 const beaconId = FIELD_IDS[Math.floor(Date.now() / 86_400_000) % FIELD_IDS.length];
 const beaconMuseum = museums.find(museum => museum.artifacts.some(item => item.id === beaconId));
 const beaconName = beaconMuseum?.artifacts.find(item => item.id === beaconId)?.name ?? '';

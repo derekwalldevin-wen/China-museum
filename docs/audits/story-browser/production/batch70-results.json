@@ -1,0 +1,13 @@
+{
+  "baseUrl": "https://huaxia-museum-atlas.pages.dev/",
+  "testedAt": "2026-10-01T09:26:31.443Z",
+  "passed": 6,
+  "checks": [
+    "desktop: hub-lgd 四章、≥3细节、来源面板可点(1条)、有理由比较(hub-ymh)、无溢出、现场照片已加载",
+    "desktop: hub-yzc 四章、≥3细节、来源面板可点(1条)、有理由比较(js-sjc)、无溢出、现场照片已加载",
+    "desktop: hub-jb 四章、≥3细节、来源面板可点(1条)、有理由比较(ny-hujie)、无溢出、现场照片已加载",
+    "mobile: hub-lgd 四章、≥3细节、来源面板可点(1条)、有理由比较(hub-ymh)、无溢出、现场照片已加载",
+    "mobile: hub-yzc 四章、≥3细节、来源面板可点(1条)、有理由比较(js-sjc)、无溢出、现场照片已加载",
+    "mobile: hub-jb 四章、≥3细节、来源面板可点(1条)、有理由比较(ny-hujie)、无溢出、现场照片已加载"
+  ]
+}

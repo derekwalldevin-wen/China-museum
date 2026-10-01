@@ -4740,6 +4740,78 @@
           }
         }
       }
+    },
+    "hub-lgd": {
+      "hold": false,
+      "shape": "lacquer",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-lgd-card.jpg",
+            "kind": "source"
+          },
+          "fallback": {
+            "src": "/artifact-sources/user-hubei/hub-lgd-detail.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-lgd-detail.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hub-yzc": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-yzc-card.jpg",
+            "kind": "source"
+          },
+          "fallback": {
+            "src": "/artifact-sources/user-hubei/hub-yzc-detail.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-yzc-detail.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hub-jb": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-jb-card.jpg",
+            "kind": "source"
+          },
+          "fallback": {
+            "src": "/artifact-sources/user-hubei/hub-jb-detail.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-jb-detail.jpg",
+            "kind": "source"
+          }
+        }
+      }
     }
   }
 }

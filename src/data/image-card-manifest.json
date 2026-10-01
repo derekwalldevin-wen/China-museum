@@ -8355,5 +8355,191 @@
    }
   },
   "hold": false
+ },
+ "hub-lgd": {
+  "image": {
+   "src": "/artifact-sources/user-hubei/hub-lgd-card.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/88a00d9b2d09d99a-card-w240.webp",
+      "width": 240,
+      "height": 320
+     },
+     {
+      "src": "/artifact-responsive/88a00d9b2d09d99a-card-w400.webp",
+      "width": 400,
+      "height": 533
+     },
+     {
+      "src": "/artifact-responsive/88a00d9b2d09d99a-card-w640.webp",
+      "width": 640,
+      "height": 853
+     },
+     {
+      "src": "/artifact-responsive/88a00d9b2d09d99a-card-w675.webp",
+      "width": 675,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifact-sources/user-hubei/hub-lgd-detail.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/90c192ac48a9054c-card-w240.webp",
+       "width": 240,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/90c192ac48a9054c-card-w400.webp",
+       "width": 400,
+       "height": 533
+      },
+      {
+       "src": "/artifact-responsive/90c192ac48a9054c-card-w640.webp",
+       "width": 640,
+       "height": 853
+      },
+      {
+       "src": "/artifact-responsive/90c192ac48a9054c-card-w960.webp",
+       "width": 960,
+       "height": 1280
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hub-yzc": {
+  "image": {
+   "src": "/artifact-sources/user-hubei/hub-yzc-card.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/68d0dc44148a64e5-card-w240.webp",
+      "width": 240,
+      "height": 320
+     },
+     {
+      "src": "/artifact-responsive/68d0dc44148a64e5-card-w400.webp",
+      "width": 400,
+      "height": 533
+     },
+     {
+      "src": "/artifact-responsive/68d0dc44148a64e5-card-w640.webp",
+      "width": 640,
+      "height": 853
+     },
+     {
+      "src": "/artifact-responsive/68d0dc44148a64e5-card-w675.webp",
+      "width": 675,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifact-sources/user-hubei/hub-yzc-detail.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/0ae53bf040d16bfe-card-w240.webp",
+       "width": 240,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/0ae53bf040d16bfe-card-w400.webp",
+       "width": 400,
+       "height": 533
+      },
+      {
+       "src": "/artifact-responsive/0ae53bf040d16bfe-card-w640.webp",
+       "width": 640,
+       "height": 853
+      },
+      {
+       "src": "/artifact-responsive/0ae53bf040d16bfe-card-w960.webp",
+       "width": 960,
+       "height": 1280
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
+ },
+ "hub-jb": {
+  "image": {
+   "src": "/artifact-sources/user-hubei/hub-jb-card.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1cea123bb28d818e-card-w240.webp",
+      "width": 240,
+      "height": 320
+     },
+     {
+      "src": "/artifact-responsive/1cea123bb28d818e-card-w400.webp",
+      "width": 400,
+      "height": 533
+     },
+     {
+      "src": "/artifact-responsive/1cea123bb28d818e-card-w640.webp",
+      "width": 640,
+      "height": 853
+     },
+     {
+      "src": "/artifact-responsive/1cea123bb28d818e-card-w675.webp",
+      "width": 675,
+      "height": 900
+     }
+    ]
+   },
+   "fit": "cover",
+   "fallback": {
+    "src": "/artifact-sources/user-hubei/hub-jb-detail.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/3c2f26576b3192dc-card-w240.webp",
+       "width": 240,
+       "height": 320
+      },
+      {
+       "src": "/artifact-responsive/3c2f26576b3192dc-card-w400.webp",
+       "width": 400,
+       "height": 533
+      },
+      {
+       "src": "/artifact-responsive/3c2f26576b3192dc-card-w640.webp",
+       "width": 640,
+       "height": 853
+      },
+      {
+       "src": "/artifact-responsive/3c2f26576b3192dc-card-w960.webp",
+       "width": 960,
+       "height": 1280
+      }
+     ]
+    }
+   }
+  },
+  "hold": false
  }
 }

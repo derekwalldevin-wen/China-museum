@@ -215,4 +215,7 @@ export const storyTeaserHooks: Record<string, string> = {
   'hub-fcb': '一只方卣，为什么说它“本该有提梁”？',
   'hub-jjj': '一句七字铭文，为什么能引出“最早的封君”？',
   'hub-czd': '一件只有三行展签的鼎，能讲什么？',
+  'hub-lgd': '展签只写了器名，这件漆豆还能读出什么？',
+  'hub-yzc': '一件“素面”的玉琮，凭什么单独立一条？',
+  'hub-jb': '展柜里的“金箔”，为什么是一片一片的？',
 };

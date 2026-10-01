@@ -145,6 +145,33 @@
    "story": "湖北省博物馆藏楚子趠鼎，1974年宜昌当阳电一1号墓出土，春秋。器名、时代与出土地依展厅说明牌；“趠”字照录展签。"
   },
   {
+   "id": "hub-lgd",
+   "name": "彩漆木雕龙纹盖豆",
+   "dynasty": "未定",
+   "era": "先秦",
+   "category": "漆器",
+   "shape": "lacquer",
+   "story": "湖北省博物馆藏彩漆木雕龙纹盖豆。展签只给器名与英文名（Painted lacquer lidded dou-bowl carved with dragons），未标时代与出土地；现场照片显示为一件带盖的漆器豆。"
+  },
+  {
+   "id": "hub-yzc",
+   "name": "素面玉琮",
+   "dynasty": "未定",
+   "era": "先秦",
+   "category": "玉器",
+   "shape": "jade",
+   "story": "湖北省博物馆藏素面玉琮。展签只给器名与英文名（Jade cong-tube），未标时代与出土地；现场照片显示为一件小型、色近乳白的筒形玉器。"
+  },
+  {
+   "id": "hub-jb",
+   "name": "金箔",
+   "dynasty": "未定",
+   "era": "先秦",
+   "category": "金银器",
+   "shape": "gold",
+   "story": "湖北省博物馆藏金箔。展签只给器名与英文名（Gold foil），未标时代与出土地；现场照片显示展柜内为多件金箔残片，含一件圆形带孔大片与若干不规则小片。"
+  },
+  {
    "id": "hub-ywj",
    "name": "春秋越王勾践剑",
    "dynasty": "春秋",

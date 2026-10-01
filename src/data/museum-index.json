@@ -1422,6 +1422,30 @@
     "shape": "ding"
    },
    {
+    "id": "hub-lgd",
+    "name": "彩漆木雕龙纹盖豆",
+    "dynasty": "未定",
+    "era": "先秦",
+    "category": "漆器",
+    "shape": "lacquer"
+   },
+   {
+    "id": "hub-yzc",
+    "name": "素面玉琮",
+    "dynasty": "未定",
+    "era": "先秦",
+    "category": "玉器",
+    "shape": "jade"
+   },
+   {
+    "id": "hub-jb",
+    "name": "金箔",
+    "dynasty": "未定",
+    "era": "先秦",
+    "category": "金银器",
+    "shape": "gold"
+   },
+   {
     "id": "hub-ywj",
     "name": "春秋越王勾践剑",
     "dynasty": "春秋",

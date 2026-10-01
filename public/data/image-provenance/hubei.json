@@ -942,6 +942,192 @@
     "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
    }
   },
+  "hub-lgd": {
+   "src": "/artifact-sources/user-hubei/hub-lgd-detail.jpg",
+   "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/user-hubei/hub-lgd-card.jpg",
+     "kind": "source",
+     "fit": "cover",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "88a00d9b2d09d99afc22e4e4c7c7f62c8fd32b0ee947ee151d33d7875f056f00",
+      "originalSha256": "3cb89f82604d55cfcb0c1f83906813ab1ef46d7c8063bbf19cca027ce8a20309",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
+      "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_152946.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/user-hubei/hub-lgd-detail.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "90c192ac48a9054ccac7e88229d39e6fc4c0c5757b3c1f037e62a4810510a290",
+      "originalSha256": "3cb89f82604d55cfcb0c1f83906813ab1ef46d7c8063bbf19cca027ce8a20309",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
+      "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_152946.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-01",
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
+   }
+  },
+  "hub-yzc": {
+   "src": "/artifact-sources/user-hubei/hub-yzc-detail.jpg",
+   "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/user-hubei/hub-yzc-card.jpg",
+     "kind": "source",
+     "fit": "cover",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "68d0dc44148a64e5b1f037f0d31f8cdc898745c22516609164d3994011874a4e",
+      "originalSha256": "0ef4df5d4bd058080fcea85452fb789c037818e59291cd2976a71c290ed73399",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
+      "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_153135.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/user-hubei/hub-yzc-detail.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "0ae53bf040d16bfeeca6cfb48806818b45d88fec05be0b9057435266a6b4d484",
+      "originalSha256": "0ef4df5d4bd058080fcea85452fb789c037818e59291cd2976a71c290ed73399",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
+      "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_153135.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-01",
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
+   }
+  },
+  "hub-jb": {
+   "src": "/artifact-sources/user-hubei/hub-jb-detail.jpg",
+   "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+   "variants": {
+    "card": {
+     "src": "/artifact-sources/user-hubei/hub-jb-card.jpg",
+     "kind": "source",
+     "fit": "cover",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "1cea123bb28d818e3d88620c9994425d5d05fb4cfeebbc58c66432a13f38a9b7",
+      "originalSha256": "e028d793de53c780b19b6d86ac4b90c6917badd1bdd78752cae3d5dea1cb7a1a",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
+      "modifications": "长边等比缩放至 900 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_152830.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-sources/user-hubei/hub-jb-detail.jpg",
+     "kind": "source",
+     "fit": "contain",
+     "credit": "德里克文 摄于湖北省博物馆（现场拍摄） · 未取得馆方授权",
+     "provenance": {
+      "type": "source",
+      "authorizationStatus": "pending",
+      "assetMatchStatus": "verified",
+      "assetSha256": "3c2f26576b3192dc7cc63d2f502e2d8556be0a65f6ced7d34fd0eec7cc43ed22",
+      "originalSha256": "e028d793de53c780b19b6d86ac4b90c6917badd1bdd78752cae3d5dea1cb7a1a",
+      "evidenceNote": "作者2025-03-07现场拍摄；已重编码剥离EXIF/GPS，仅等比缩放与JPEG重编码，未裁切、未调色、未用AI。未取得馆方授权，状态pending；如馆方异议将撤下。",
+      "modifications": "长边等比缩放至 2048 像素并重编码 JPEG（progressive）；未裁切主体、未调色。",
+      "sourceTitle": "IMG_20250307_152830.jpg",
+      "author": "德里克文",
+      "institution": "湖北省博物馆",
+      "shotAt": "2025-03-07"
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-01",
+      "reviewedBy": "DeepSeek field-photo review",
+      "note": "作者现场拍摄；器物名称与铭文以展厅说明牌为准（见同目录 labels/ 证据图）。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-01",
+    "note": "作者2025-03-07现场拍摄；同批展签证据图见 labels/ 同名文件；授权pending。"
+   }
+  },
   "hub-ywj": {
    "src": "/artifacts/hub-ywj.jpg",
    "credit": "20230208 Bronze sword used by King Goujian of Yue 01.jpg",
@@ -1462,6 +1648,96 @@
      },
      {
       "src": "/artifact-responsive/4582d67fd347c612-detail-w1536.webp",
+      "width": 1536,
+      "height": 2048
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hub-lgd": {
+   "src": "/artifact-sources/user-hubei/hub-lgd-detail.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/90c192ac48a9054c-detail-w480.webp",
+      "width": 480,
+      "height": 640
+     },
+     {
+      "src": "/artifact-responsive/90c192ac48a9054c-detail-w800.webp",
+      "width": 800,
+      "height": 1067
+     },
+     {
+      "src": "/artifact-responsive/90c192ac48a9054c-detail-w1200.webp",
+      "width": 1200,
+      "height": 1600
+     },
+     {
+      "src": "/artifact-responsive/90c192ac48a9054c-detail-w1536.webp",
+      "width": 1536,
+      "height": 2048
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hub-yzc": {
+   "src": "/artifact-sources/user-hubei/hub-yzc-detail.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0ae53bf040d16bfe-detail-w480.webp",
+      "width": 480,
+      "height": 640
+     },
+     {
+      "src": "/artifact-responsive/0ae53bf040d16bfe-detail-w800.webp",
+      "width": 800,
+      "height": 1067
+     },
+     {
+      "src": "/artifact-responsive/0ae53bf040d16bfe-detail-w1200.webp",
+      "width": 1200,
+      "height": 1600
+     },
+     {
+      "src": "/artifact-responsive/0ae53bf040d16bfe-detail-w1536.webp",
+      "width": 1536,
+      "height": 2048
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hub-jb": {
+   "src": "/artifact-sources/user-hubei/hub-jb-detail.jpg",
+   "kind": "source",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/3c2f26576b3192dc-detail-w480.webp",
+      "width": 480,
+      "height": 640
+     },
+     {
+      "src": "/artifact-responsive/3c2f26576b3192dc-detail-w800.webp",
+      "width": 800,
+      "height": 1067
+     },
+     {
+      "src": "/artifact-responsive/3c2f26576b3192dc-detail-w1200.webp",
+      "width": 1200,
+      "height": 1600
+     },
+     {
+      "src": "/artifact-responsive/3c2f26576b3192dc-detail-w1536.webp",
       "width": 1536,
       "height": 2048
      }
