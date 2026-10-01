@@ -32,9 +32,9 @@ try {
       assert.deepEqual(geometry.small, [], `${id} touch targets`);
       const chapters = await page.evaluate(`[...document.querySelectorAll('.story-chapters > section')].map(section => section.innerText).join('\\n')`);
       assert.doesNotMatch(chapters, /\*\*/, `${id} rendered markdown markers`);
-      if (id === 'hub-qqw') assert.match(chapters, /实际出土少一簋/);
+      if (id === 'hub-qqw') assert.match(chapters, /实际只出土了七只簋/);
       if (id === 'hub-nnd') assert.match(chapters, /曾侯丙/);
-      if (id === 'hub-xd') assert.match(chapters, /玉环两面雕刻云纹/);
+      if (id === 'hub-xd') assert.match(chapters, /玉环两面都雕着云纹/);
       // The field photo must be the image actually served (wait for the decode: ~0.5 MB each).
       await page.wait(`(() => { const el=document.querySelector('.story-experience img'); return !el || el.complete; })()`, `${id} story image settled`, 20000).catch(() => {});
       const shown = await page.evaluate(`(() => { const el=document.querySelector('.story-experience img'); return el ? {src: el.currentSrc || el.src, natural: el.naturalWidth} : null; })()`);

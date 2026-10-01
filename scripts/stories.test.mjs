@@ -1917,7 +1917,7 @@ test('batch 68 adds the Sujialong ding group, the buffalo-knob ding and the jade
   }
   // Sujialong group: nine ding, two with inscriptions, and the missing gui is recorded.
   assert.match(batch68.stories[0].summary, /九鼎器型与纹饰基本相同/);
-  assert.match(batch68.stories[0].sections[2].text, /实际出土少一簋/);
+  assert.match(batch68.stories[0].sections[2].text, /实际只出土了七只簋/);
   // Buffalo-knob ding: only one label sentence; the tomb owner comes from the cited report.
   assert.match(batch68.stories[1].summary, /盖顶饰牛形钮/);
   assert.match(batch68.stories[1].sections[1].text, /曾侯丙/);
@@ -1926,7 +1926,7 @@ test('batch 68 adds the Sujialong ding group, the buffalo-knob ding and the jade
   // Jade-pommel scraper: the label does NOT name the tomb, and the story must not assert one.
   assert.match(batch68.stories[2].summary, /东室共出土4件削刀/);
   assert.doesNotMatch(batch68.stories[2].summary, /曾侯乙墓/);
-  assert.match(batch68.stories[2].sections[3].text, /没有写明这是哪一座墓/);
+  assert.match(batch68.stories[2].uncertainty, /没写明它出自哪一座墓的东室/);
   for (const source of batch68.sources) {
     assert.equal(new URL(source.url).protocol, 'https:');
     assert.ok(['search-text', 'full-text', 'abstract-and-note'].includes(source.retrieval));
@@ -1944,15 +1944,15 @@ test('batch 67 adds the Guojiamiao paired bronzes and the Marquis Yu yong-bell',
     assert.ok(storyTeaserIndex[story.id] && storyTeaserHooks[story.id], `${story.id} is routable with a hook`);
   }
   // Paired hu: two identical vessels, label wording preserved.
-  assert.match(batch67.stories[0].summary, /两件形制、大小、纹饰相同/);
+  assert.match(batch67.stories[0].summary, /两件铜壶形制、大小、纹饰相同/);
   assert.match(batch67.stories[0].summary, /曾子伯旁晨自作行器，其永祜福/);
   // Li-cauldron: the label writes 曾子旁晨 without 伯, and the story must not merge the names.
   assert.match(batch67.stories[1].summary, /曾子旁晨行器/);
   assert.doesNotMatch(batch67.stories[1].summary, /曾子伯旁晨/);
-  assert.match(batch67.stories[1].sections[1].text, /三道月牙形扉棱/);
+  assert.match(batch67.stories[1].sections[1].text, /月牙形扉棱/);
   // Yong-bell: eight bells, this one is No.2, and the inscription is read against Zuo Zhuan.
   assert.match(batch67.stories[2].summary, /现存八件，本件为2号/);
-  assert.match(batch67.stories[2].sections[0].text, /吴师入郢/);
+  assert.match(batch67.stories[2].sections[2].text, /吴师入郢/);
   assert.match(batch67.stories[2].sections[1].text, /王逝命南公營宅沃土/);
   for (const source of batch67.sources) {
     assert.equal(new URL(source.url).protocol, 'https:');
