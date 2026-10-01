@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-01T10:47:31.225Z",
+ "generatedAt": "2026-10-01T11:00:28.469Z",
  "inputs": [
   {
    "path": "src/data/stories.json",
@@ -258,8 +258,8 @@
   },
   {
    "path": "src/data/stories-batch55.json",
-   "bytes": 23808,
-   "sha256": "e211ecc7ce66260c465fef813d443ee283129b1d6373b1d36f1f3181e112a8c6"
+   "bytes": 21214,
+   "sha256": "7bbabc15e047d0bb45849e90f8ce47b131cc90987ef133c07548b554e5ccc7fe"
   },
   {
    "path": "src/data/stories-batch56.json",
@@ -347,7 +347,7 @@
  "payloads": {
   "directory": "src/data/story-payloads",
   "count": 218,
-  "totalBytes": 1560650,
+  "totalBytes": 1555471,
   "maxBytes": 16097,
   "files": [
    {
@@ -1564,22 +1564,22 @@
    {
     "id": "sc-xsel",
     "path": "src/data/story-payloads/sc-xsel.json",
-    "bytes": 8557,
-    "sha256": "e21030ee8772c66f32bc035b60f49cf6e9a59f3dab2e8ab1ad326f179fc10751",
+    "bytes": 7202,
+    "sha256": "0610cf4a92a0e10cd398a1ba7efbd1d0d7011860d78def031c0c6b5c8ec321c7",
     "sources": 1
    },
    {
     "id": "gz-myg",
     "path": "src/data/story-payloads/gz-myg.json",
-    "bytes": 8713,
-    "sha256": "30788825ed2c8a9ccadec2d0911966a1e4d4f1b7638b1542965cab694f89d38e",
+    "bytes": 6974,
+    "sha256": "c0db337193d47392a4b92b227557eae8ef6c9b8228bfbecafc78c910e05cd3b9",
     "sources": 1
    },
    {
     "id": "hk-jgb",
     "path": "src/data/story-payloads/hk-jgb.json",
-    "bytes": 9059,
-    "sha256": "299e6a45d5220db8f93c62e38ffbffe7c03383a1f144c365d750eae545c31534",
+    "bytes": 6974,
+    "sha256": "ae1d3c12d321517046b30688b6e72a91d616e4804807ae01af219153ef0937f4",
     "sources": 2
    },
    {

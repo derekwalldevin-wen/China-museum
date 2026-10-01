@@ -6,18 +6,18 @@ import { test } from 'node:test';
 import { BANNED, scoreFile, storyFileNames } from './prose-report.mjs';
 
 // Files already rewritten to the new voice: they must contain zero banned markers.
-const REWRITTEN = ['stories-batch51.json', 'stories-batch53.json', 'stories-batch56.json', 'stories-batch64.json', 'stories-batch65.json', 'stories-batch66.json', 'stories-batch67.json', 'stories-batch68.json', 'stories-batch69.json', 'stories-batch70.json'];
+const REWRITTEN = ['stories-batch51.json', 'stories-batch53.json', 'stories-batch55.json', 'stories-batch56.json', 'stories-batch64.json', 'stories-batch65.json', 'stories-batch66.json', 'stories-batch67.json', 'stories-batch68.json', 'stories-batch69.json', 'stories-batch70.json'];
 
 // Global ceilings: only ever lowered. Snapshot taken before the rewrite pass began.
 const CEILINGS = {
-  '不是…而是…': 39,
+  '不是…而是…': 38,
   '不能…当作/说成': 18,
-  '本页/本站/本文': 277,
-  '编辑口气': 16,
+  '本页/本站/本文': 266,
+  '编辑口气': 15,
   '模板过渡句': 20,
-  '比较的是…不主张': 63,
+  '比较的是…不主张': 58,
   '考据腔': 5,
-  '方括号标签': 591,
+  '方括号标签': 579,
   '说教距离': 107,
 };
 
