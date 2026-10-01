@@ -1326,6 +1326,30 @@
     "shape": "lacquer"
    },
    {
+    "id": "hub-hjd",
+    "name": "曾侯谏铜鼎",
+    "dynasty": "西周",
+    "era": "先秦",
+    "category": "青铜器",
+    "shape": "ding"
+   },
+   {
+    "id": "hub-hjs",
+    "name": "曾侯谏作媿铜肆壶",
+    "dynasty": "西周",
+    "era": "先秦",
+    "category": "青铜器",
+    "shape": "pot"
+   },
+   {
+    "id": "hub-hjy",
+    "name": "黄季嬴铜鼎",
+    "dynasty": "春秋",
+    "era": "先秦",
+    "category": "青铜器",
+    "shape": "ding"
+   },
+   {
     "id": "hub-ywj",
     "name": "春秋越王勾践剑",
     "dynasty": "春秋",

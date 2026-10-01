@@ -108,7 +108,7 @@ test('the other 195 image records stay unchanged while six quarantined records a
   // 2026-10-01: three records changed for the field photographs from the author's Hubei visit —
   // two new artifacts (hub-zzs, hub-ymh) and hub-zhy switched from an AI card to the real photo.
   // They are excluded from this frozen snapshot instead of rewriting the baseline file.
-  const fieldVisitLater = new Set(['hub-zhy', 'hub-zzs', 'hub-ymh']);
+  const fieldVisitLater = new Set(['hub-zhy', 'hub-zzs', 'hub-ymh', 'hub-hjd', 'hub-hjs', 'hub-hjy']);
   const unaffected = Object.fromEntries(Object.entries(images).filter(([id]) => !baseline.replacedIds.includes(id) && !laterAdditions.has(id) && !refreshedLater.has(id) && !fieldVisitLater.has(id)));
   const auditedAuthorityRefresh = unaffected['gg-ryzl'].sourceReview;
   assert.equal(auditedAuthorityRefresh.authorityUrl, 'https://ggzl.dpm.org.cn/pages/exhibit_works/details?id=9404');

@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-10-01T07:02:55.533Z",
+ "generatedAt": "2026-10-01T07:29:45.166Z",
  "source": {
   "path": "src/data/museums.ts",
-  "bytes": 105054,
-  "sha256": "b8c16a9c476ecadaa072dda575b093d1ee13b255373825a1e543788b8f374ed8",
+  "bytes": 106148,
+  "sha256": "913badb4cb613a49da661b188396a52a9bdc9c02053ecb6b7937ee5fadcd06c6",
   "museums": 59,
-  "artifacts": 208
+  "artifacts": 211
  },
  "index": {
   "path": "src/data/museum-index.json",
-  "bytes": 52389,
-  "sha256": "e7668528da6ca1b9ed8f883086f8aed7a4d9f5db5978129b6b9c244343166f52"
+  "bytes": 52871,
+  "sha256": "eb87a1bea3b358e313daec99952cb8e5dd12c43115e4fa38c0390b2012772109"
  },
  "searchCorpus": {
   "path": "src/data/artifact-search.json",
-  "bytes": 51629,
-  "sha256": "334d4b5cad8a87d407041024bb3323f92885c78c4886bad036c0d3a0b3df8c75",
-  "entries": 208
+  "bytes": 52310,
+  "sha256": "c4a76dc2b3b3b7acc85d4ffd43cac0859b25f4be703d0fb4a1214b28f8e2a489",
+  "entries": 211
  },
  "payloads": {
   "directory": "src/data/museum-payloads",
   "count": 59,
-  "totalBytes": 105625,
+  "totalBytes": 106818,
   "files": [
    {
     "id": "gugong",
@@ -243,9 +243,9 @@
    {
     "id": "hubei",
     "path": "src/data/museum-payloads/hubei.json",
-    "bytes": 3312,
-    "sha256": "9168319e4e269f5b673ae2df98ff9a59124cbefb10c22ca9a6f8196cf498daa0",
-    "artifacts": 7
+    "bytes": 4505,
+    "sha256": "361c644879175e64ecd291bc40ebd06a7c75e485800811e3173be791345c3eb7",
+    "artifacts": 10
    },
    {
     "id": "jingzhou",

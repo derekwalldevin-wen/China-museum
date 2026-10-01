@@ -33,7 +33,7 @@ const ENABLE_INK_INTRO = true;
 // 卷首荐读：优先推作者实地到访过并已写好故事的文物，按日期轮换。
 // 现场看过的器物比每天重复同一件更有意义；《清明上河图》退为兜底，
 // 只在轮换目标缺失时出现（见下方 beaconPick 的兜底分支）。
-const FIELD_IDS = 'hub-zhy hub-zzs hub-ymh'.split(' ');
+const FIELD_IDS = 'hub-zhy hub-zzs hub-ymh hub-hjd hub-hjs hub-hjy'.split(' ');
 const beaconDayIndex = Math.floor(Date.now() / 86_400_000) % FIELD_IDS.length;
 const beaconStoryId = FIELD_IDS[beaconDayIndex];
 const beaconMuseum = museums.find(museum => museum.artifacts.some(item => item.id === beaconStoryId));

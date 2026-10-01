@@ -203,4 +203,7 @@ export const storyTeaserHooks: Record<string, string> = {
   'hlj-syj': '为什么“双鱼”会成为金代铜镜的招牌纹样？',
   'hub-zzs': '一只方壶的铭文，为什么请郭沫若来释读？',
   'hub-ymh': '一只漆盒的头，为什么能转三百六十度？',
+  'hub-hjd': '一对鼎，为什么被分葬在两座墓里？',
+  'hub-hjs': '一只“肆壶”，为什么说原型是木器？',
+  'hub-hjy': '一只鼎的铭文，为什么写着两个国家？',
 };

@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-10-01T07:02:55.602Z",
+ "generatedAt": "2026-10-01T07:29:45.289Z",
  "source": {
   "path": "src/data/images.json",
-  "bytes": 245584,
-  "sha256": "f2b077a44c8ae215d6045c12a64d96998af154d8fb59ad9cee536ba6e4891cd3",
-  "records": 208
+  "bytes": 256204,
+  "sha256": "da3d5c3ac57d8692d52a0a233eac374f764e1b9e6b031fd01033ae83e1dc98cb",
+  "records": 211
  },
  "responsiveSource": {
   "path": "assets/responsive-images/manifest.json",
-  "bytes": 1383072,
-  "sha256": "16dd841ba9a3fa0e936d69492161c5140d8e7a3fe4c8297700a444760045cf33",
-  "outputs": 1412
+  "bytes": 1418200,
+  "sha256": "43a53cc66e179e4805b2ac1f0b0cac29ca91cc4f73a96b62977edb1e6c1750b2",
+  "outputs": 1448
  },
  "cardManifest": {
   "path": "src/data/image-card-manifest.json",
-  "bytes": 163172,
-  "sha256": "f6a04baa6a613d05240c7c7086d05813f1110f6dc2f88cddf3e442439758b987",
-  "records": 208
+  "bytes": 167462,
+  "sha256": "1f848e05085a3c2fcc31723e29a6d5c9b27380b87c981d92a1eb80c36887fca1",
+  "records": 211
  },
  "provenancePayloads": {
   "directory": "public/data/image-provenance",
   "count": 59,
-  "totalBytes": 330613,
+  "totalBytes": 342784,
   "files": [
    {
     "id": "gugong",
@@ -243,9 +243,9 @@
    {
     "id": "hubei",
     "path": "public/data/image-provenance/hubei.json",
-    "bytes": 16953,
-    "sha256": "1eebdcd405061ccf3ff1948d3828822d7cc901daa3b6da7886f57695db6f7326",
-    "records": 7
+    "bytes": 29124,
+    "sha256": "968833ebbdabbf2793b188fb91161d65563dab87b8d72993a428e3107b0e8f67",
+    "records": 10
    },
    {
     "id": "jingzhou",
