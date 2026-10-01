@@ -1,6 +1,6 @@
 {
   "baseUrl": "https://huaxia-museum-atlas.pages.dev/",
-  "testedAt": "2026-10-01T07:10:57.679Z",
+  "testedAt": "2026-10-01T10:28:02.983Z",
   "passed": 4,
   "checks": [
     "desktop: hub-zzs 四章、≥3细节、来源面板可点(2条)、有理由比较(gg-gzdc)、无溢出、现场照片已加载",

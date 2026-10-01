@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-01T10:00:17.782Z",
+ "generatedAt": "2026-10-01T10:17:19.289Z",
  "source": {
   "path": "src/data/museums.ts",
-  "bytes": 110064,
-  "sha256": "599fa51316761fdc9bab58babdfaef74c73f0aaca0245804dfb2a14481670bcb",
+  "bytes": 110151,
+  "sha256": "161ae4da94ed45302fa8114095b72859ae58ed317031abd9ce5e81ef9485d174",
   "museums": 59,
   "artifacts": 223
  },
@@ -14,14 +14,14 @@
  },
  "searchCorpus": {
   "path": "src/data/artifact-search.json",
-  "bytes": 54597,
-  "sha256": "f130dbe831cde9921d9ecc8c513009225691427bcba1e02cda99b21d2ce47a31",
+  "bytes": 54678,
+  "sha256": "dd2257ffeaad14d62245008cfd77027d774c42064ed6608f3930bb8436998d90",
   "entries": 223
  },
  "payloads": {
   "directory": "src/data/museum-payloads",
   "count": 59,
-  "totalBytes": 111130,
+  "totalBytes": 111217,
   "files": [
    {
     "id": "gugong",
@@ -243,8 +243,8 @@
    {
     "id": "hubei",
     "path": "src/data/museum-payloads/hubei.json",
-    "bytes": 8886,
-    "sha256": "8f680084331e92640fef7ef33548ba63145dbfc86b60f9cec1e5d68406d690f5",
+    "bytes": 8973,
+    "sha256": "27bab6e46bf09facbd99bdd907e47e2eb241c7ea62365ed435aeb1684167d12d",
     "artifacts": 22
    },
    {

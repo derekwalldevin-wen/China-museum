@@ -1831,10 +1831,10 @@ test('batch 65 adds two artifacts photographed on site at the Hubei Provincial M
   // Zeng Zhong You-fu hu: museum-official figures and inscription locations.
   assert.match(batch65.stories[0].summary, /1966年出土于湖北京山苏家垅/);
   assert.match(batch65.stories[0].summary, /通高66厘米、宽23.8厘米/);
-  assert.match(batch65.stories[0].sections[1].text, /器盖内与壶口内/);
+  assert.match(batch65.stories[0].sections[1].text, /器盖内、壶口内/);
   // Duck-shaped lacquer box: the pivoting head and the bell-striking painting.
   assert.match(batch65.stories[1].summary, /羽翼上掀即为盒盖/);
-  assert.match(batch65.stories[1].sections[2].text, /360度灵活转动/);
+  assert.match(batch65.stories[1].sections[2].text, /又能灵活转动/);
   assert.match(batch65.stories[1].sections[3].text, /撞钟/);
   for (const source of batch65.sources) {
     assert.equal(new URL(source.url).protocol, 'https:');
@@ -1977,10 +1977,10 @@ test('batch 66 adds the Yejiashan Zeng bronzes and the Huang Ji Ying ding from f
   assert.match(batch66.stories[0].sections[1].text, /被分置于不同的墓葬之中/);
   // Sihu jar: the wooden-prototype reasoning stays a quotation of the label.
   assert.match(batch66.stories[1].summary, /曾侯谏作媿肆壶/);
-  assert.match(batch66.stories[1].sections[2].text, /原型是木器/);
+  assert.match(batch66.stories[1].sections[2].text, /推断的依据是同时期同区域/);
   // Huang Ji Ying ding: the marriage-gift reading stays marked as a possibility.
   assert.match(batch66.stories[2].summary, /黄季作季嬴宝鼎/);
-  assert.match(batch66.stories[2].sections[2].text, /可能是黄国女子嫁到曾国的陪嫁品/);
+  assert.match(batch66.stories[2].sections[2].text, /可能是黄国女子嫁到曾国时的陪嫁品/);
   assert.doesNotMatch(batch66.stories[2].summary, /证明了两国联姻/);
   for (const source of batch66.sources) {
     assert.equal(new URL(source.url).protocol, 'https:');

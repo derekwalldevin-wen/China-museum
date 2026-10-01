@@ -15,8 +15,14 @@ export const BANNED = [
 
 export const storyFileNames = () => readdirSync('src/data').filter(name => /^stories(-batch\d+)?\.json$/.test(name));
 
+// Score the story prose only: source titles and supports carry their own brackets and wording.
 export function scoreFile(text) {
-  return BANNED.map(([label, rx]) => [label, (text.match(new RegExp(rx.source, 'g')) ?? []).length]);
+  let prose = text;
+  try {
+    const data = JSON.parse(text);
+    if (Array.isArray(data.stories)) prose = JSON.stringify(data.stories);
+  } catch { /* not a batch file: score as-is */ }
+  return BANNED.map(([label, rx]) => [label, (prose.match(new RegExp(rx.source, 'g')) ?? []).length]);
 }
 
 export function loadStories() {
