@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-09-30T16:00:18.118Z",
+ "generatedAt": "2026-10-01T00:39:48.798Z",
  "source": {
   "path": "src/data/museums.ts",
-  "bytes": 104331,
-  "sha256": "388dd0244f0913f286fc8ca5dbe20ef19a4bf922ee2b65800f57039509aa5267",
+  "bytes": 104422,
+  "sha256": "3f49f692728cf9e992d1113619822e0f31a54ae9d2d44b57145befc9289e050c",
   "museums": 59,
   "artifacts": 206
  },
@@ -14,14 +14,14 @@
  },
  "searchCorpus": {
   "path": "src/data/artifact-search.json",
-  "bytes": 51191,
-  "sha256": "1394a53f8addba7df7bc96700121ac2771f784998e8b48cef14205cd4969e689",
+  "bytes": 51273,
+  "sha256": "c4767950a7bf31f5f118516c6530d763dd05f5a7e99a7b737203a8c4e48fbdd1",
   "entries": 206
  },
  "payloads": {
   "directory": "src/data/museum-payloads",
   "count": 59,
-  "totalBytes": 104836,
+  "totalBytes": 104927,
   "files": [
    {
     "id": "gugong",
@@ -348,8 +348,8 @@
    {
     "id": "xizang",
     "path": "src/data/museum-payloads/xizang.json",
-    "bytes": 1380,
-    "sha256": "34c0042d9540b41323fd9fb82689fc00b16e89a0eb64a840d035dea80280301b",
+    "bytes": 1419,
+    "sha256": "a1e6f5908de0617958dbb8547dc4f92f8c7f17a14534aedccf42a19382ecc9d4",
     "artifacts": 3
    },
    {
@@ -411,8 +411,8 @@
    {
     "id": "xinjiang",
     "path": "src/data/museum-payloads/xinjiang.json",
-    "bytes": 1577,
-    "sha256": "d2acaff622b4d99ece86e2b8f3f7c89965bdb01dc1e7b29b1e76779cff0c7601",
+    "bytes": 1629,
+    "sha256": "814eb8a6dc07befbd781ac32f0db9bd785ce697776b426278a6bf805fbf33b3c",
     "artifacts": 3
    },
    {

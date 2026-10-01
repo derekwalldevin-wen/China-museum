@@ -197,4 +197,6 @@ export const storyTeaserHooks: Record<string, string> = {
   'nm-jyx': '一只香炉，为什么会刻上工匠的名字？',
   'nm-lsy': '鸳鸯壶上的三彩，为什么不像唐三彩那样“流”？',
   'jdz-qhmb': '“梅瓶”真的是用来插梅花的吗？',
+  'xj-thy': '三十几块木头，怎么拼成一个发怒的天王？',
+  'xz-ljf': '一尊明代的佛像，为什么是西藏本地风格？',
 };
