@@ -6,19 +6,19 @@ import { test } from 'node:test';
 import { BANNED, scoreFile, storyFileNames } from './prose-report.mjs';
 
 // Files already rewritten to the new voice: they must contain zero banned markers.
-const REWRITTEN = ['stories-batch8.json', 'stories-batch9.json', 'stories-batch10.json', 'stories-batch11.json', 'stories-batch12.json', 'stories-batch13.json', 'stories-batch14.json', 'stories-batch15.json', 'stories-batch19.json', 'stories-batch20.json', 'stories-batch21.json', 'stories-batch22.json', 'stories-batch24.json', 'stories-batch28.json', 'stories-batch38.json', 'stories-batch50.json', 'stories-batch51.json', 'stories-batch52.json', 'stories-batch53.json', 'stories-batch54.json', 'stories-batch55.json', 'stories-batch56.json', 'stories-batch57.json', 'stories-batch58.json', 'stories-batch63.json', 'stories-batch64.json', 'stories-batch65.json', 'stories-batch66.json', 'stories-batch67.json', 'stories-batch68.json', 'stories-batch69.json', 'stories-batch70.json'];
+const REWRITTEN = ['stories-batch8.json', 'stories-batch9.json', 'stories-batch10.json', 'stories-batch11.json', 'stories-batch12.json', 'stories-batch13.json', 'stories-batch14.json', 'stories-batch15.json', 'stories-batch16.json', 'stories-batch19.json', 'stories-batch20.json', 'stories-batch21.json', 'stories-batch22.json', 'stories-batch24.json', 'stories-batch28.json', 'stories-batch38.json', 'stories-batch48.json', 'stories-batch50.json', 'stories-batch51.json', 'stories-batch52.json', 'stories-batch53.json', 'stories-batch54.json', 'stories-batch55.json', 'stories-batch56.json', 'stories-batch57.json', 'stories-batch58.json', 'stories-batch59.json', 'stories-batch60.json', 'stories-batch61.json', 'stories-batch62.json', 'stories-batch63.json', 'stories-batch64.json', 'stories-batch65.json', 'stories-batch66.json', 'stories-batch67.json', 'stories-batch68.json', 'stories-batch69.json', 'stories-batch70.json'];
 
 // Global ceilings: only ever lowered. Snapshot taken before the rewrite pass began.
 const CEILINGS = {
-  '不是…而是…': 18,
-  '不能…当作/说成': 17,
-  '本页/本站/本文': 148,
-  '编辑口气': 7,
+  '不是…而是…': 12,
+  '不能…当作/说成': 16,
+  '本页/本站/本文': 119,
+  '编辑口气': 3,
   '模板过渡句': 10,
-  '比较的是…不主张': 30,
-  '考据腔': 3,
-  '方括号标签': 297,
-  '说教距离': 60,
+  '比较的是…不主张': 5,
+  '考据腔': 2,
+  '方括号标签': 213,
+  '说教距离': 51,
 };
 
 const totals = new Map(BANNED.map(([label]) => [label, 0]));
@@ -48,8 +48,10 @@ test('rewritten stories avoid the meta-editorial register entirely', () => {
     for (const story of data.stories) {
       const text = story.sections.map(section => section.text).join('\n');
       assert.doesNotMatch(text, /本页|本站|本文|读者/, `${story.id} speaks about the page instead of the object`);
-      // Openings must lead with the object, not with the label or the editing process.
-      assert.doesNotMatch(story.sections[0].text.slice(0, 24), /^(这块|这张|本件展签|展签上只有)/, `${story.id} opens with label meta-commentary`);
+      // Openings must lead with the object, not with the label, the archive or the editing process.
+      // "这块石头" is a concrete object opening and is fine; what is banned is starting from the signage,
+      // the record card, or this page.
+      assert.doesNotMatch(story.sections[0].text.slice(0, 24), /^(本件展签|展签上只有|展签只|藏品卡|档案载|这条藏品|本条|本页|本站|本文|读者)/, `${story.id} opens with label meta-commentary`);
     }
   }
 });
