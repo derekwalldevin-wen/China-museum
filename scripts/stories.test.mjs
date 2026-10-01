@@ -373,14 +373,14 @@ test('priority stories separate object facts, research interpretation and modern
   assert.match(byId('gg-qmsh').sections[3].text, /所绘是否汴京/);
   assert.match(byId('gg-gzdc').sections[1].text, /高温部分先烧/);
   assert.match(byId('gg-gzdc').sections[3].text, /1952年建立/);
-  assert.match(byId('gg-gzdc').uncertainty, /不重建完整烧造次数/);
+  assert.match(byId('gg-gzdc').uncertainty, /完整的烧造次数.*都没有/);
   assert.match(byId('hain-hgj').sections[0].text, /1996年/);
   assert.match(byId('hain-hgj').sections[1].text, /511块/);
   assert.match(byId('hain-hgj').sections[3].text, /第一阶段结束/);
   assert.match(byId('dz-yzp').sections[2].text, /研究解释/);
   assert.match(byId('dz-yzp').uncertainty, /现代修复档案/);
   assert.match(byId('hb-cxd').sections.at(-1).text, /具体修复时间和技术仍待核/);
-  assert.match(byId('hub-zhy').sections.at(-1).text, /不能把复制成功说成原件被修复/);
+  assert.match(byId('hub-zhy').sections.at(-1).text, /复制成功说的是复制件做成了，原件的修复是另一回事/);
   assert.match(byId('gg-jgyg').sections[2].text, /不能把每条指令都归给这一只杯/);
   assert.match(byId('sxl-lt').sections.at(-1).text, /1959年中堡村出土的陕西馆藏件与1957年国博同题材件分列为两项/);
   assert.match(byId('gg-pft').sections.at(-1).text, /论文转引故宫文保档案/);
@@ -423,8 +423,8 @@ test('related links always resolve and explain a curated comparison, not invente
 test('new standalone stories preserve findspots, uncertainty and comparison boundaries', () => {
   const byId = id => data.stories.find(story => story.id === id);
   assert.equal(batch3.stories.length, 7);
-  assert.match(byId('gg-jgb').sections[1].text, /工艺类型，不是这只杯的独立烧窑日志/);
-  assert.match(byId('gg-ryzl').uncertainty, /馆方页面间存在异数/);
+  assert.match(byId('gg-jgb').sections[1].text, /这一类工艺的通行说明.*不是这只杯自己的烧窑日志/);
+  assert.match(byId('gg-ryzl').uncertainty, /在馆方两个页面间存在异数/);
   assert.match(byId('gb-gyts').sections[2].text, /1978年/);
   assert.match(byId('gb-cxct').sections[3].text, /1958年/);
   assert.match(byId('gb-yygd').uncertainty, /未给具体墓号/);
@@ -527,7 +527,7 @@ test('AI scroll artwork cannot enter the original scroll reading desk', () => {
 });
 test('five priority stories separate artifact evidence, institutional history and unresolved conservation', () => {
   const byId = id => data.stories.find(story => story.id === id);
-  assert.match(byId('hb-cxd').sections[0].text, /两座墓|北侧窦绾墓/);
+  assert.match(byId('hb-cxd').sections[0].text, /两座墓|北侧窦绾墓|窦绾墓在刘胜墓北约120米/);
   assert.match(byId('hb-cxd').sections[1].text, /不等于已知/);
   assert.ok(byId('hb-cxd').related.some(link => link.id === 'hb-jly' && /两墓/.test(link.reason)));
   assert.equal(sources.get('bell-excavation-timeline').institution, '湖北省文物考古研究院');
@@ -565,7 +565,7 @@ test('five sample-story refinements bind new claims to direct sources and retain
 test('five priority stories distinguish collection identity, site protection and modern display', () => {
   const byId = id => data.stories.find(story => story.id === id);
   const lamp = byId('hb-cxd');
-  assert.match(lamp.sections[3].text, /考古位置.*不是灯在汉代宫室中摆放的位置/);
+  assert.match(lamp.sections[3].text, /宫灯埋在哪里的位置.*不是它在汉代宫室里摆在哪里的位置/);
   assert.ok(lamp.sections[3].refs.includes('mancheng-excavation'));
   const bell = byId('hub-zhy');
   assert.match(bell.sections[3].text, /墓坑原址保护.*治理水患/);
@@ -573,7 +573,7 @@ test('five priority stories distinguish collection identity, site protection and
   assert.ok(bell.sections[3].refs.includes('bell-replica-research'));
   const cup = byId('gg-jgyg');
   assert.match(cup.sections[3].text, /故雜005490N000000000/);
-  assert.match(cup.uncertainty, /精确档号对应及尺寸差异待核/);
+  assert.match(cup.uncertainty, /精确档号对应与尺寸差异都还待核/);
   assert.ok(cup.sections[3].refs.includes('cup-taipei-comparison'));
   assert.equal(sources.get('cup-taipei-comparison').retrieval, 'full-text');
   assert.match(byId('sxl-lt').sections[3].text, /撤陈、养护与布展.*不能写成.*逐件履历/);
@@ -596,16 +596,16 @@ test('five evidence cards distinguish object records, later display and unverifi
 test('five priority evidence cards add scoped display, education and comparison without invented restoration', () => {
   const byId = id => data.stories.find(story => story.id === id);
   const last = id => byId(id).details.at(-1);
-  assert.match(last('hb-cxd').text, /虚拟发掘.*不能把屏幕动画当成1968年现场记录/);
+  assert.match(last('hb-cxd').text, /虚拟发掘.*与1968年的现场记录相差很远/);
   assert.ok(last('hb-cxd').refs.includes('longxin-digital-2026'));
   assert.match(byId('hub-zhy').details.find(detail => detail.title === '从随县汇报到原件赴京').text, /1979年9月20日原钟首次赴京/);
   assert.ok(byId('hub-zhy').details.some(detail => detail.refs.includes('bell-archive-exhibit')));
   assert.match(last('hub-zhy').text, /1986年3月曾以原钟录制/);
   assert.equal(sources.get('bell-archive-exhibit').retrieval, 'full-text');
   assert.match(last('gg-jgyg').text, /同名杯有四件.*不能.*自动归到北京/);
-  assert.match(last('sxl-lt').text, /2024年暑期课程.*不能把现代课程内容.*当作唐代/);
+  assert.match(last('sxl-lt').text, /2024年暑期课程.*属于2024年的课堂/);
   assert.equal(sources.get('camel-education-2024').retrieval, 'full-text');
-  assert.match(byId('gg-pft').details.find(detail => detail.title === '三种‘保存’不是一回事').text, /修裱、拍摄与以复制件代展是三个不同动作/);
+  assert.match(byId('gg-pft').details.find(detail => /三种.*保存/.test(detail.title)).text, /修裱、拍摄与以复制件代展是三个不同动作/);
   assert.match(last('gg-pft').text, /作者讨论不是改定结论|改定作者的决定性证据/);
   assert.match(byId('gg-pft').details[0].text, /顾荣、全彦先/);
   assert.equal(sources.get('pf-conservation-study').retrieval, 'search-text');
@@ -1072,8 +1072,8 @@ test('twenty-sixth batch corrects Dian seal ownership and preserves the two insc
   assert.equal(readGuideRoute('?story=yn-dwy')?.trailId, null);
   assert.equal(sources.get('b26-seal-catalog').institution, '中国国家博物馆');
   assert.equal(sources.get('b26-seal-shiji').retrieval, 'search-text');
-  assert.match(story.sections[0].text, /1956年.*6号墓.*并非当年的逐日现场记录/);
-  assert.match(story.sections[2].text, /仓促制作.*随葬仿造/);
+  assert.match(story.sections[0].text, /1956年.*6号墓.*不是当年的逐日现场记录/);
+  assert.match(story.sections[2].text, /仓促凿成.*随葬仿造/);
   assert.match(story.sections[3].text, /保护史暂记为未知/);
   assert.doesNotMatch(objects.get('yn-dwy').story, /完全吻合|定谳/);
   assert.equal(story.sections.length, 4);
@@ -1090,8 +1090,8 @@ test('twenty-seventh batch grounds the bronze cow-tiger table in its own tomb an
   assert.equal(sources.get('b27-cow-excavation-recollection').retrieval, 'search-text');
   assert.match(story.sections[0].text, /李家山24号墓/);
   assert.match(story.sections[1].text, /分体铸造后再铸接/);
-  assert.match(story.sections[3].text, /王赴朝.*不能据此写出/);
-  assert.match(story.uncertainty, /修复日期和工单尚未取得/);
+  assert.match(story.sections[3].text, /王赴朝.*看不出他是哪一年接手/);
+  assert.match(story.uncertainty, /修复日期与工单均未取得/);
   assert.doesNotMatch(objects.get('yn-nha').story, /母爱主题|拽住平衡/);
   assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
 });

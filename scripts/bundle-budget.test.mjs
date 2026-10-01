@@ -87,8 +87,8 @@ test('responsive card delivery stays deferred and complete provenance stays in 5
 });
 
 test('full story prose is deferred but lightweight routing stays initial', () => {
-  assert.doesNotMatch(mainText, /《平复帖》开头关心“彦先”的疾病/);
-  assert.doesNotMatch(storyText, /《平复帖》开头关心“彦先”的疾病/);
+  assert.doesNotMatch(mainText, /《平复帖》是西晋陆机的草隶书手札/);
+  assert.doesNotMatch(storyText, /《平复帖》是西晋陆机的草隶书手札/);
   // The guide chunk carries the lightweight per-story catalog (id + hook, ~110 B per
   // story), so its ceiling scales with the collection instead of being a fixed number.
   // Measured marginal cost is ~175 B per story; 220 B leaves headroom for a batch while
@@ -96,7 +96,7 @@ test('full story prose is deferred but lightweight routing stays initial', () =>
   const guideBudget = 22_000 + storyGeneration.payloads.count * 220;
   assert.ok(statSync(new URL(story, assetsUrl)).size <= guideBudget, `${story} should only carry the reader and story catalog (budget ${guideBudget})`);
   const pft = one(/^gg-pft-[\w-]+\.js$/);
-  assert.match(readFileSync(new URL(pft, assetsUrl), 'utf8'), /《平复帖》开头关心“彦先”的疾病/);
+  assert.match(readFileSync(new URL(pft, assetsUrl), 'utf8'), /《平复帖》是西晋陆机的草隶书手札/);
   assert.equal(storyGeneration.payloads.count, 218);
   for (const { id } of storyGeneration.payloads.files) one(new RegExp(`^${id}-[\\w-]+\\.js$`));
   assert.match(mainText, /gg-qmsh/);

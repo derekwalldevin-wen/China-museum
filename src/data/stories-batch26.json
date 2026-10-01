@@ -2,25 +2,158 @@
   "version": 1,
   "reviewedAt": "2026-09-29",
   "sources": [
-    {"id":"b26-seal-catalog","title":"“滇王之印”金印","institution":"中国国家博物馆","url":"https://www.chnmuseum.cn/zp/zpml/kgfjp/202110/t20211028_251978.shtml","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum-catalogue","supports":"本件国博藏品身份、金质蛇钮、印钮印身分铸焊接、四字凿文；并列仓促颁赐与随葬仿制两种解释，非二者任一的最终鉴定"},
-    {"id":"b26-seal-excavation-reporting","title":"一枚金印，揭开一个王国神秘面纱","institution":"云南省人大网转载云南广播电视台考古报道","url":"https://www.ynrd.gov.cn/html/2021/bainiandangshi_1111/15713.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"government-republished-excavation-reporting","supports":"1956年第二次石寨山发掘、6号墓金印、孙太初清理泥团的后述回忆及现藏中国国家博物馆；不是1956年原始发掘日志"},
-    {"id":"b26-seal-museum-study","title":"自大的始作俑者","institution":"中国国家博物馆陈成军，《文物里的古代中国》","url":"https://www.chnmuseum.cn/yj/xscg/xslw/201812/t20181224_33097.shtml","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum-research-interpretation","supports":"本件高1.8、边长2.3厘米、晋宁石寨山来源及研究者认为其可能为随葬印；书中的轶事改写与学说不能充当考古原始记录"},
-    {"id":"b26-seal-shiji","title":"《史记·西南夷列传》","institution":"中国哲学书电子化计划（古籍原文）","url":"https://ctext.org/text.pl?if=gb&node=8810&show=parallel","checkedAt":"2026-09-29","retrieval":"search-text","kind":"primary-source","supports":"检索原典可见滇王降汉、置益州郡、赐王印而仍统其民；直开403，不记本件现代出土或印钮制造工序"},
-    {"id":"b26-seal-display","title":"鸮翱中国年，国博里的非遗春节","institution":"中国国家博物馆","url":"https://www.chnmuseum.cn/zx/gbxw/202501/t20250127_271012.shtml","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum-contemporary-program","supports":"馆方明写本件为中国国家博物馆藏，列于古代中国基本陈列，并纳入2025年H5互动；活动不证明印的古代身份或图像开放授权"}
+    {
+      "id": "b26-seal-catalog",
+      "title": "“滇王之印”金印",
+      "institution": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202110/t20211028_251978.shtml",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum-catalogue",
+      "supports": "本件国博藏品身份、金质蛇钮、印钮印身分铸焊接、四字凿文；并列仓促颁赐与随葬仿制两种解释，非二者任一的最终鉴定"
+    },
+    {
+      "id": "b26-seal-excavation-reporting",
+      "title": "一枚金印，揭开一个王国神秘面纱",
+      "institution": "云南省人大网转载云南广播电视台考古报道",
+      "url": "https://www.ynrd.gov.cn/html/2021/bainiandangshi_1111/15713.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "government-republished-excavation-reporting",
+      "supports": "1956年第二次石寨山发掘、6号墓金印、孙太初清理泥团的后述回忆及现藏中国国家博物馆；不是1956年原始发掘日志"
+    },
+    {
+      "id": "b26-seal-museum-study",
+      "title": "自大的始作俑者",
+      "institution": "中国国家博物馆陈成军，《文物里的古代中国》",
+      "url": "https://www.chnmuseum.cn/yj/xscg/xslw/201812/t20181224_33097.shtml",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum-research-interpretation",
+      "supports": "本件高1.8、边长2.3厘米、晋宁石寨山来源及研究者认为其可能为随葬印；书中的轶事改写与学说不能充当考古原始记录"
+    },
+    {
+      "id": "b26-seal-shiji",
+      "title": "《史记·西南夷列传》",
+      "institution": "中国哲学书电子化计划（古籍原文）",
+      "url": "https://ctext.org/text.pl?if=gb&node=8810&show=parallel",
+      "checkedAt": "2026-09-29",
+      "retrieval": "search-text",
+      "kind": "primary-source",
+      "supports": "检索原典可见滇王降汉、置益州郡、赐王印而仍统其民；直开403，不记本件现代出土或印钮制造工序"
+    },
+    {
+      "id": "b26-seal-display",
+      "title": "鸮翱中国年，国博里的非遗春节",
+      "institution": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/zx/gbxw/202501/t20250127_271012.shtml",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum-contemporary-program",
+      "supports": "馆方明写本件为中国国家博物馆藏，列于古代中国基本陈列，并纳入2025年H5互动；活动不证明印的古代身份或图像开放授权"
+    }
   ],
   "trails": [],
   "stories": [
     {
-      "id":"yn-dwy","hook":"金印上只有四个字，为何会改变一段历史的读法？","summary":"中国国家博物馆藏“滇王之印”金印，1956年在云南晋宁石寨山6号墓发现。印身与蛇钮分铸焊接，四字印文为凿成；它与《史记》所记赐印相互印证，但出土印是否当年颁赐原印，馆方并列不同解释。","summaryRefs":["b26-seal-catalog","b26-seal-excavation-reporting","b26-seal-shiji"],
-      "sections":[
-        {"title":"泥团中露出的四个字","text":"【发现过程与材料层级】云南省人大网转载的考古报道记，1956年石寨山第二次发掘在6号墓发现一枚被泥包裹的小金印；文中转述考古学者孙太初清理泥土后辨出“滇王之印”四字的回忆。这能让我们理解发现为何令人激动，也要留意材料层级：2021年的报道转述1956年经历，并非当年的逐日现场记录。中国国家博物馆研究文章将出土地概括为云南晋宁石寨山；两者可以合看地点，不能把后来讲述的心跳、动作细节写成已核发掘日志。最重要的地理区别是：金印在云南出土，今天却由中国国家博物馆收藏，不能把出土地当馆藏地。","refs":["b26-seal-excavation-reporting","b26-seal-museum-study","b26-seal-display"]},
-        {"title":"蛇钮、焊接与凿出的字","text":"【馆藏工艺事实】国博逐件藏品卡记它是金质蛇钮印：蛇形钮和印身分别铸成，再焊接到一起；印面四个篆字以凿刻形成。国博研究文章列高1.8厘米、边长2.3厘米；这么小的面积要刻出可辨文字，观众可以先想一想钮供持握、印面负责留下字形，各自承担什么工作。我们有馆方的结构与加工描述，却没有本批可核的合金成分、焊料配方、刻字工具和制作者姓名；不能由“分铸焊接”反推整个工坊的日程，更不能把今日AI示意图中的每一道痕迹认作原件细节。","refs":["b26-seal-catalog","b26-seal-museum-study"]},
-        {"title":"《史记》能说到哪一步","text":"【原始记载与考古印证】《史记·西南夷列传》记滇王归附后设置益州郡、受赐王印，并继续统领当地人。古籍不是这枚金印的出土报告，也没有绘出蛇钮或四字印面；1956年石寨山6号墓出现刻着“滇王之印”的实物，让文字记载与考古发现得以互相对读。对读不是把每个细节一一锁死：国博藏品卡同时列出两种研究解释，一种把凿文理解为封赐时仓促制作，另一种认为可能是为随葬仿造的印，原有颁赐印继续传用。国博研究文章倾向后一种说法，但本站不把它写成已经证明的唯一答案。","refs":["b26-seal-shiji","b26-seal-catalog","b26-seal-museum-study"]},
-        {"title":"一枚印怎样在今天继续被讲述","text":"【现代展陈与保护未知】国博2025年馆方活动明确标注此金印为“中国国家博物馆藏”，列于“古代中国”基本陈列，还将它带入互动H5。展柜与数字活动说明现代博物馆如何解释文物，不等于金印在古代曾参与这些互动，也不提供本站复用馆方照片的许可。本批没有取得能逐件对应的清理、焊接加固、检测或展柜环境工单，因此保护史暂记为未知；不因看到金印完整展出，就替保护人员编出一次修复。既有图片仍按原AI示意和待核来源标签呈现。","refs":["b26-seal-display","b26-seal-catalog"]}
+      "id": "yn-dwy",
+      "hook": "金印上只有四个字，为何会改变一段历史的读法？",
+      "summary": "中国国家博物馆藏“滇王之印”金印，1956年在云南晋宁石寨山6号墓发现。印身与蛇钮分铸焊接，四字印文为凿成；它与《史记》所记赐印相互印证，但出土印是否当年颁赐原印，馆方并列不同解释。",
+      "summaryRefs": [
+        "b26-seal-catalog",
+        "b26-seal-excavation-reporting",
+        "b26-seal-shiji"
       ],
-      "details":[{"title":"6号墓与国博","text":"出土地点在云南晋宁石寨山，现藏机构为中国国家博物馆，两者不能合并。","refs":["b26-seal-excavation-reporting","b26-seal-display"]},{"title":"两段制作","text":"蛇钮和印身分铸焊接；印文四字凿成。","refs":["b26-seal-catalog"]},{"title":"两种凿文解释","text":"仓促颁赐或随葬仿制，国博藏品卡并列，未在本站定为唯一结论。","refs":["b26-seal-catalog","b26-seal-museum-study"]},{"title":"原典只记赐印","text":"《史记》可支持滇王受赐王印，不会告诉我们1956年出土者是否就是当年颁赐原印。","refs":["b26-seal-shiji","b26-seal-catalog"]}],
-      "reflection":{"question":"如果《史记》写过“赐滇王王印”，又挖出刻着四字的金印，能确定手上这一枚就是当年亲自颁给滇王的吗？","answer":"还不能。文字与实物互相印证有王印制度，但这枚是否为当年颁赐原印，国博仍呈现不同研究解释。","refs":["b26-seal-shiji","b26-seal-catalog"]},
-      "uncertainty":"1956年原始发掘报告正文、这枚印的逐件保护修复工单、合金和焊料分析未取得。‘仓促凿印’与‘随葬仿制’均属研究解释，不能从《史记》单独裁决。本件在云南出土但现藏国博；馆方网页文字与图片没有开放复用授权。","correction":"将旧目录的云南省博物馆误归属改为国博，同时兼容旧分享链接；删除‘与史记完全吻合、由此定谳’的绝对断言，明示国博并列的印文制作争论。","related":[{"id":"gb-hmwd","reason":"比较金印凿出的四字与后母戊鼎铸出的三字：同是文字留在器物上，制作方式与社会用途不同，不能推断同一制度或工坊传承。","type":"curatorial-comparison"},{"id":"sd-szb","reason":"比较滇王金印如何与《史记》对读，以及银雀山竹简如何与传世兵书对读：两者都让实物检验文本，但证据对象、年代和研究问题不同，不能合并成一段直接历史。","type":"curatorial-comparison"}]
+      "sections": [
+        {
+          "title": "1956年，6号墓里一枚裹着泥的小印",
+          "text": "1956年，石寨山第二次发掘。6号墓里出了一枚被泥裹住的小金印，考古学者孙太初把泥清理掉，才认出印面四个字——“滇王之印”。这段经过来自2021年的报道对1956年往事的转述，不是当年的逐日现场记录。还有两件事要分清：印出在云南晋宁石寨山，今天却收藏在中国国家博物馆——出土地与馆藏地是两个地方。",
+          "refs": [
+            "b26-seal-excavation-reporting",
+            "b26-seal-museum-study",
+            "b26-seal-display"
+          ]
+        },
+        {
+          "title": "蛇钮、焊接与凿出的字",
+          "text": "国博的逐件藏品卡写得很具体：这是一枚金质蛇钮印，蛇形的钮与印身分别铸成，再焊接在一起；印面那四个篆字，是用凿刻做出来的。国博研究文章给出尺寸：高1.8厘米、边长2.3厘米。这么小的面积上要留下可辨的字，钮负责让人握住，印面负责留下字形，两件事各有一件东西来承担。",
+          "refs": [
+            "b26-seal-catalog",
+            "b26-seal-museum-study"
+          ]
+        },
+        {
+          "title": "《史记》能说到哪一步",
+          "text": "《史记·西南夷列传》记滇王归附之后，汉朝在那里设置益州郡、赐给他王印，并让他继续统领当地人。古籍不是这枚金印的出土报告，也没有画出蛇钮或那四个字；1956年石寨山6号墓出了刻着“滇王之印”的实物，文字与考古才得以对读。对读不等于每个细节都能锁死：国博藏品卡把两种解释并列——一种认为印文是封赐时仓促凿成的，另一种认为它可能是为随葬仿造的印，原来那枚颁赐印仍在传用。国博研究文章倾向后一种，这里也不把它写成唯一答案。",
+          "refs": [
+            "b26-seal-shiji",
+            "b26-seal-catalog",
+            "b26-seal-museum-study"
+          ]
+        },
+        {
+          "title": "一枚印怎样继续被讲述",
+          "text": "国博2025年的馆方活动明确标注此印为“中国国家博物馆藏”，列在“古代中国”基本陈列里，还把它带进了互动H5。展柜里的陈列和手机上的互动，说的是今天的博物馆怎样解释文物；这枚印在古代并没有参与过这些。至于它出土之后的清理、焊接加固、检测与展柜环境，逐件的档案还没有公开，保护史暂记为未知。",
+          "refs": [
+            "b26-seal-display",
+            "b26-seal-catalog"
+          ]
+        }
+      ],
+      "details": [
+        {
+          "title": "6号墓与国博",
+          "text": "出土地在云南晋宁石寨山，现藏中国国家博物馆。",
+          "refs": [
+            "b26-seal-excavation-reporting",
+            "b26-seal-museum-study"
+          ]
+        },
+        {
+          "title": "两段制作",
+          "text": "蛇钮与印身分铸后焊接；印面四字凿成。",
+          "refs": [
+            "b26-seal-catalog"
+          ]
+        },
+        {
+          "title": "两种凿文解释",
+          "text": "仓促颁赐或随葬仿制，国博藏品卡并列呈现。",
+          "refs": [
+            "b26-seal-catalog",
+            "b26-seal-museum-study"
+          ]
+        },
+        {
+          "title": "原典只记赐印",
+          "text": "《史记》可证滇王受赐王印，不指明1956年这枚是否为原印。",
+          "refs": [
+            "b26-seal-shiji"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "《史记》写过“赐滇王王印”，又挖出刻着四字的金印，就能确定手上这枚是当年颁给滇王的那一枚吗？",
+        "answer": "还不能。文献与实物互相印证的是“当时确有王印”这件事；这枚究竟是颁赐原印还是随葬时另做的，两种解释仍并立。对读能让两边互相提问，不能让一边替另一边签字。",
+        "refs": [
+          "b26-seal-shiji",
+          "b26-seal-catalog"
+        ]
+      },
+      "uncertainty": "1956年原始发掘报告正文、这枚印的逐件保护修复工单、合金与焊料分析未取得；“仓促凿印”与“随葬仿制”都属研究解释。",
+      "correction": "2026年10月修订：把旧目录误写的云南省博物馆改为中国国家博物馆；删去“与《史记》完全吻合”一类绝对断言，改按国博并列的两种解释叙述。",
+      "related": [
+        {
+          "id": "gb-hmwd",
+          "reason": "两件器物上的文字：一枚是凿出来的四个字，一件是铸出来的三个字，做法与用途都不同。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "sd-szb",
+          "reason": "实物与文本对读的两种场合：一枚金印对着《史记》，一批竹简对着传世兵书，问题与年代各不相同。",
+          "type": "curatorial-comparison"
+        }
+      ]
     }
   ]
 }
