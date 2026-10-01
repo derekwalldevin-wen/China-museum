@@ -341,7 +341,7 @@ test('thirty-eighth batch keeps group protection, replica, and tower legend sepa
   assert.match(byId('ah-czd').sections[3].text, /高仿.*不能.*原件图像/);
   assert.doesNotMatch(objects.get('ah-czd').story, /能煮一头牛|仅次于后母戊鼎/);
   assert.match(byId('yn-jcn').sections[2].text, /地方传说/);
-  assert.match(byId('yn-jcn').sections[3].text, /塔体修缮工程不能当作鸟像保护史/);
+  assert.match(byId('yn-jcn').sections[3].text, /塔体的修缮工程.*不等于鸟像本身的保护史/);
   for (const story of batch38.stories) {
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
@@ -895,9 +895,9 @@ test('nineteenth batch scopes five new collection stories to direct evidence and
   assert.equal(sources.get('b19-gold-annual').kind, 'museum-hosted-report');
   assert.match(sources.get('b19-gold-annual').supports, /非原始发掘报告/);
   const byId = id => data.stories.find(story => story.id === id);
-  assert.match(byId('lb-gf').uncertainty, /宋摹具体作者/);
-  assert.match(byId('hb-sjfa').uncertainty, /案面原貌/);
-  assert.match(byId('dz-lgd').uncertainty, /生前功能/);
+  assert.match(byId('lb-gf').uncertainty, /宋摹的具体临摹者/);
+  assert.match(byId('hb-sjfa').uncertainty, /案面的原貌/);
+  assert.match(byId('dz-lgd').uncertainty, /生前的用处/);
   assert.match(byId('nj-js').uncertainty, /实际用途/);
   assert.match(byId('zj-sncy').uncertainty, /出土层位/);
   assert.doesNotMatch(objects.get('lb-gf').story, /宋徽宗摹本/);
