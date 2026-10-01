@@ -27,7 +27,7 @@ test('generated museum data is bound to the untouched authority source', async (
   const source = await readFile(new URL('../src/data/museums.ts', import.meta.url));
   assert.equal(createHash('sha256').update(source).digest('hex'), generation.source.sha256);
   assert.equal(generation.source.museums, 59);
-  assert.equal(generation.source.artifacts, 214);
+  assert.equal(generation.source.artifacts, 217);
 });
 
 test('light index preserves order and every non-story field', () => {
@@ -54,7 +54,7 @@ test('all 59 full museum payloads round-trip exactly and no stale file remains',
 });
 
 test('lazy story search corpus preserves every normalized full description', () => {
-  assert.equal(Object.keys(searchCorpus).length, 214);
+  assert.equal(Object.keys(searchCorpus).length, 217);
   for (const museum of museums) for (const artifact of museum.artifacts) {
     assert.equal(searchCorpus[artifact.id], normalize(artifact.story), artifact.id);
   }
@@ -100,7 +100,7 @@ test('every artifact route resolves to exactly one indexed museum', () => {
     assert.equal(locations.has(artifact.id), false, artifact.id);
     locations.set(artifact.id, museum.id);
   }
-  assert.equal(locations.size, 214);
+  assert.equal(locations.size, 217);
   for (const museum of museums) for (const artifact of museum.artifacts) assert.equal(locations.get(artifact.id), museum.id);
 });
 

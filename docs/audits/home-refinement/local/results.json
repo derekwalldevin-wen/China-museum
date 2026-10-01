@@ -1,6 +1,6 @@
 {
-  "base": "http://127.0.0.1:4300/",
-  "testedAt": "2026-10-01T07:58:20.332Z",
+  "base": "http://127.0.0.1:4311/",
+  "testedAt": "2026-10-01T08:24:55.759Z",
   "results": [
     {
       "name": "desktop",
@@ -36,18 +36,18 @@
         },
         "story": {
           "left": 32,
-          "right": 287.921875,
+          "right": 259.3125,
           "top": 690,
           "bottom": 896,
-          "width": 255.921875,
+          "width": 227.3125,
           "height": 206
         },
         "storyButton": {
           "left": 53,
-          "right": 266.921875,
+          "right": 238.3125,
           "top": 812.5,
           "bottom": 856.5,
-          "width": 213.921875,
+          "width": 185.3125,
           "height": 44
         },
         "footer": {
@@ -160,7 +160,7 @@
     },
     {
       "name": "story-note-navigation",
-      "storyId": "hub-zhy",
+      "storyId": "hub-hjd",
       "opened": true
     },
     {
@@ -248,17 +248,17 @@
     },
     {
       "name": "simulated-low-end-6x-cpu-100KiBs-400ms-rtt",
-      "elapsedWallMs": 19728,
+      "elapsedWallMs": 18990,
       "checkpoints": {
-        "navigationWallMs": 7287,
-        "mapWallMs": 17306,
-        "artWallMs": 18202
+        "navigationWallMs": 9516,
+        "mapWallMs": 17463,
+        "artWallMs": 17481
       },
       "timings": {
-        "domContentLoadedMs": 5887,
-        "loadMs": 5902,
+        "domContentLoadedMs": 5660,
+        "loadMs": 5727,
         "artResources": [],
-        "artCurrentSrc": "http://127.0.0.1:4300/art/shanhe-handscroll-mobile.jpg",
+        "artCurrentSrc": "http://127.0.0.1:4311/art/shanhe-handscroll-mobile.jpg",
         "artNaturalWidth": 850,
         "provinceCount": 34,
         "storyVisible": true,

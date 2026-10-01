@@ -1374,6 +1374,30 @@
     "shape": "bell"
    },
    {
+    "id": "hub-qqw",
+    "name": "窃曲纹铜鼎",
+    "dynasty": "春秋",
+    "era": "先秦",
+    "category": "青铜器",
+    "shape": "ding"
+   },
+   {
+    "id": "hub-nnd",
+    "name": "牛钮铜盖鼎",
+    "dynasty": "战国",
+    "era": "先秦",
+    "category": "青铜器",
+    "shape": "ding"
+   },
+   {
+    "id": "hub-xd",
+    "name": "玉首铜削刀",
+    "dynasty": "战国",
+    "era": "先秦",
+    "category": "杂项",
+    "shape": "misc"
+   },
+   {
     "id": "hub-ywj",
     "name": "春秋越王勾践剑",
     "dynasty": "春秋",

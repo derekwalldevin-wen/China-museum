@@ -209,4 +209,7 @@ export const storyTeaserHooks: Record<string, string> = {
   'hub-zbh': '同一座墓里的两件壶，为什么做成完全一样？',
   'hub-zbl': '一只鬲的腹部，为什么要立三道“月牙”？',
   'hub-hyy': '一口钟的铭文，为什么要去对《左传》？',
+  'hub-qqw': '一套“九鼎八簋”，为什么会少一只簋？',
+  'hub-nnd': '鼎盖上为什么要安一只牛？',
+  'hub-xd': '削刀上的玉环，为什么会两面雕云纹？',
 };

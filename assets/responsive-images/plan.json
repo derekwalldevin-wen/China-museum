@@ -4596,6 +4596,78 @@
           }
         }
       }
+    },
+    "hub-qqw": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-qqw-card.jpg",
+            "kind": "source"
+          },
+          "fallback": {
+            "src": "/artifact-sources/user-hubei/hub-qqw-detail.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-qqw-detail.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hub-nnd": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-nnd-card.jpg",
+            "kind": "source"
+          },
+          "fallback": {
+            "src": "/artifact-sources/user-hubei/hub-nnd-detail.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-nnd-detail.jpg",
+            "kind": "source"
+          }
+        }
+      }
+    },
+    "hub-xd": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-xd-card.jpg",
+            "kind": "source"
+          },
+          "fallback": {
+            "src": "/artifact-sources/user-hubei/hub-xd-detail.jpg",
+            "kind": "source"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-sources/user-hubei/hub-xd-detail.jpg",
+            "kind": "source"
+          }
+        }
+      }
     }
   }
 }
