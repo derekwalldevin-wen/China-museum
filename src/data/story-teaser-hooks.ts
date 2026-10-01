@@ -199,4 +199,6 @@ export const storyTeaserHooks: Record<string, string> = {
   'jdz-qhmb': '“梅瓶”真的是用来插梅花的吗？',
   'xj-thy': '三十几块木头，怎么拼成一个发怒的天王？',
   'xz-ljf': '一尊明代的佛像，为什么是西藏本地风格？',
+  'xa-snt': '唐代女子的“同款妆容”，能在俑上读到几步？',
+  'hlj-syj': '为什么“双鱼”会成为金代铜镜的招牌纹样？',
 };

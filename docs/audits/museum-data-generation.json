@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-01T00:39:48.798Z",
+ "generatedAt": "2026-10-01T01:57:38.191Z",
  "source": {
   "path": "src/data/museums.ts",
-  "bytes": 104422,
-  "sha256": "3f49f692728cf9e992d1113619822e0f31a54ae9d2d44b57145befc9289e050c",
+  "bytes": 104323,
+  "sha256": "7890503e382e40bdd007694566662463e66c2c54e0894844238294b7342259be",
   "museums": 59,
   "artifacts": 206
  },
@@ -14,14 +14,14 @@
  },
  "searchCorpus": {
   "path": "src/data/artifact-search.json",
-  "bytes": 51273,
-  "sha256": "c4767950a7bf31f5f118516c6530d763dd05f5a7e99a7b737203a8c4e48fbdd1",
+  "bytes": 51183,
+  "sha256": "72ba3d22782e621abdc9be74fd8ee4c975a9e01a1eb5a2631137e34f64e6795c",
   "entries": 206
  },
  "payloads": {
   "directory": "src/data/museum-payloads",
   "count": 59,
-  "totalBytes": 104927,
+  "totalBytes": 104828,
   "files": [
    {
     "id": "gugong",
@@ -110,8 +110,8 @@
    {
     "id": "heilongjiang",
     "path": "src/data/museum-payloads/heilongjiang.json",
-    "bytes": 1628,
-    "sha256": "eb322222d5e3cc53910172818af3a697d9511421e13334890497d08cdd6a14bf",
+    "bytes": 1577,
+    "sha256": "451874b039d6afc4cb153b50b48f868f16e9e78f75ae6b7aa9f6a7bbd20176a6",
     "artifacts": 3
    },
    {
@@ -369,8 +369,8 @@
    {
     "id": "xian",
     "path": "src/data/museum-payloads/xian.json",
-    "bytes": 1556,
-    "sha256": "85fb853ffddead86759f917f42dde81e0c396d52e611a8894a647a1522b538b5",
+    "bytes": 1508,
+    "sha256": "a21f1c60f96f32d9b8fda0f4998926186397314bae904091c89ade5929ed24a4",
     "artifacts": 3
    },
    {
