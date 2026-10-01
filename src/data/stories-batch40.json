@@ -2,92 +2,401 @@
   "version": 1,
   "reviewedAt": "2026-09-29",
   "sources": [
-    {"id":"b40-gui-museum-study","title":"“厉王三器”记录周厉王时代的史料（一）","institution":"宝鸡青铜器博物院官方专题","url":"https://www.bjqtm.com/xcjy/dwxc/%E5%8E%89%E7%8E%8B%E4%B8%89%E5%99%A8%E8%AE%B0%E5%BD%95%E5%91%A8%E5%8E%89%E7%8E%8B%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8F%B2%E6%96%99%EF%BC%88%E4%B8%80%EF%BC%89","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum-object-and-inscription-study","supports":"㝬簋1978年5月扶风齐村出土、扶风县博物馆收藏、周厉王十二年、59厘米约60千克、内底12行124字；自述勤勉是铭文的政治表达，不足以直接证明实际政绩"},
-    {"id":"b40-gui-museum-outreach","title":"簋中之王——揭开周厉王的双面传奇","institution":"宝鸡青铜器博物院展教资料","url":"https://www.bjqtm.com/gzzx/gnyw/%E7%B0%8B%EF%BC%88gui%EF%BC%89%E4%B8%AD%E4%B9%8B%E7%8E%8B-%E6%8F%AD%E5%BC%80%E5%91%A8%E5%8E%89%E7%8E%8B%E7%9A%84%E5%8F%8C%E9%9D%A2%E4%BC%A0%E5%A5%87","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum-public-interpretation","supports":"页首分别标收藏为扶风县博物馆、曾在宝鸡馆展出；铭文与史书记载形成阅读角度，但文中现代改革评价不能视为器铭本身或史学定论"},
-    {"id":"b40-gui-government-loan","title":"宝鸡文物再次亮相杭州","institution":"宝鸡市文物局","url":"https://wwj.baoji.gov.cn/col1896/col1884/202312/t20231215_824918.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"government-exhibition-record","supports":"2023杭州金文展把㝬簋列在扶风县博物馆一级文物，而非宝鸡青铜器博物院自有藏品；是现代展借记录，不支持古代用途或逐件修复"},
-    {"id":"b40-cup-tomb","title":"曹魏正始八年墓","institution":"洛阳古墓博物馆逐墓介绍","url":"https://www.gumumuseum.com/relic/197","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum-tomb-record","supports":"1956涧河西岸发现、墓已遭盗扰、白玉杯与铁帷帐构同墓，铁构铭正始八年八月支持247年断代；页称杯高13厘米，不等于墓主身份已知"},
-    {"id":"b40-cup-display","title":"华夏根脉 河洛文化公开课开讲","institution":"洛阳博物馆刊载馆长参与公开课报道","url":"https://www.lymuseum.cn/lbmoment/1723.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum-hosted-public-interpretation","supports":"洛阳馆珍宝馆展示白玉杯，报道称高13厘米、口径5厘米并解释素面和和田玉；‘生前饮酒’与丝路联系是馆方公开课解释，不是杯体铭文或本件材料检测报告"},
-    {"id":"b40-cup-formal-report-bibliography","title":"白玉杯折射出魏晋风尚","institution":"中国社会科学报，文中标出1958简报与1989《考古》原发掘报告书目","url":"https://epaper.csstoday.net/epaper/read.do?eid=35411&idate=12_2018-07-05&iid=5344&m=i&sid=164110","checkedAt":"2026-09-29","retrieval":"full-text","kind":"formal-research-news-and-report-bibliography","supports":"文称杯高11.5厘米、口约5厘米，与两馆13厘米有异；记1958《考古通讯》简报、1989《考古》发掘报告，原报告PDF文字严重乱码且截图失败，本站未核其正文"},
-    {"id":"b40-dragon-province","title":"黑龙江省博物馆介绍","institution":"黑龙江省文化和旅游厅","url":"https://wlt.hlj.gov.cn/wlt/c114195/202011/c00_31051876.shtml","checkedAt":"2026-09-29","retrieval":"full-text","kind":"government-museum-collection-and-care-summary","supports":"省馆馆藏包括金代铜坐龙；馆级恒温恒湿、铜器修复与数据库等制度只是整体能力，不证明本件曾作何具体处理"},
-    {"id":"b40-dragon-gazetteer","title":"黑龙江省博物馆十大镇馆之宝之一：金代铜坐龙","institution":"黑龙江省地方志办公室网站","url":"https://www.hljszw.org.cn/news/2619.html","checkedAt":"2026-09-29","retrieval":"search-text","kind":"government-object-summary-search-text","supports":"检索文字记1956年阿城白城金上京会宁府遗址出土；页面直开失败，发现年与另一公开报道的1965冲突，不能当已核原始登记"},
-    {"id":"b40-dragon-1965","title":"走近阿城：赏金源文化瑰宝铜坐龙风采","institution":"央广网黑龙江地方报道","url":"https://hlj.cnr.cn/hljyw/20210909/t20210909_525595275.shtml","checkedAt":"2026-09-29","retrieval":"search-text","kind":"reported-discovery-year-search-text","supports":"检索文字记1965年阿城区金上京会宁府遗址西端出土，与省志网1956不同；直开失败，未得原始入藏或发现登记"},
-    {"id":"b40-dragon-comparison","title":"河北崇礼太子城遗址出土金代铜坐龙研究","institution":"故宫博物院《故宫博物院院刊》2023年正式论文","url":"https://www.dpm.org.cn/Uploads/File/2023/05/19/u6466dde1b733b.pdf","checkedAt":"2026-09-29","retrieval":"search-text","kind":"formal-archaeological-comparison-search-text","supports":"研究主体是河北太子城另件金代铜坐龙，并把黑龙江金上京铜坐龙列为比较对象；PDF直开失败，不能移植太子城原位、用途结论或修复史到黑龙江本件"}
+    {
+      "id": "b40-gui-museum-study",
+      "title": "“厉王三器”记录周厉王时代的史料（一）",
+      "institution": "宝鸡青铜器博物院官方专题",
+      "url": "https://www.bjqtm.com/xcjy/dwxc/%E5%8E%89%E7%8E%8B%E4%B8%89%E5%99%A8%E8%AE%B0%E5%BD%95%E5%91%A8%E5%8E%89%E7%8E%8B%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8F%B2%E6%96%99%EF%BC%88%E4%B8%80%EF%BC%89",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum-object-and-inscription-study",
+      "supports": "㝬簋1978年5月扶风齐村出土、扶风县博物馆收藏、周厉王十二年、59厘米约60千克、内底12行124字；自述勤勉是铭文的政治表达，不足以直接证明实际政绩"
+    },
+    {
+      "id": "b40-gui-museum-outreach",
+      "title": "簋中之王——揭开周厉王的双面传奇",
+      "institution": "宝鸡青铜器博物院展教资料",
+      "url": "https://www.bjqtm.com/gzzx/gnyw/%E7%B0%8B%EF%BC%88gui%EF%BC%89%E4%B8%AD%E4%B9%8B%E7%8E%8B-%E6%8F%AD%E5%BC%80%E5%91%A8%E5%8E%89%E7%8E%8B%E7%9A%84%E5%8F%8C%E9%9D%A2%E4%BC%A0%E5%A5%87",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum-public-interpretation",
+      "supports": "页首分别标收藏为扶风县博物馆、曾在宝鸡馆展出；铭文与史书记载形成阅读角度，但文中现代改革评价不能视为器铭本身或史学定论"
+    },
+    {
+      "id": "b40-gui-government-loan",
+      "title": "宝鸡文物再次亮相杭州",
+      "institution": "宝鸡市文物局",
+      "url": "https://wwj.baoji.gov.cn/col1896/col1884/202312/t20231215_824918.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "government-exhibition-record",
+      "supports": "2023杭州金文展把㝬簋列在扶风县博物馆一级文物，而非宝鸡青铜器博物院自有藏品；是现代展借记录，不支持古代用途或逐件修复"
+    },
+    {
+      "id": "b40-cup-tomb",
+      "title": "曹魏正始八年墓",
+      "institution": "洛阳古墓博物馆逐墓介绍",
+      "url": "https://www.gumumuseum.com/relic/197",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum-tomb-record",
+      "supports": "1956涧河西岸发现、墓已遭盗扰、白玉杯与铁帷帐构同墓，铁构铭正始八年八月支持247年断代；页称杯高13厘米，不等于墓主身份已知"
+    },
+    {
+      "id": "b40-cup-display",
+      "title": "华夏根脉 河洛文化公开课开讲",
+      "institution": "洛阳博物馆刊载馆长参与公开课报道",
+      "url": "https://www.lymuseum.cn/lbmoment/1723.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum-hosted-public-interpretation",
+      "supports": "洛阳馆珍宝馆展示白玉杯，报道称高13厘米、口径5厘米并解释素面和和田玉；‘生前饮酒’与丝路联系是馆方公开课解释，不是杯体铭文或本件材料检测报告"
+    },
+    {
+      "id": "b40-cup-formal-report-bibliography",
+      "title": "白玉杯折射出魏晋风尚",
+      "institution": "中国社会科学报，文中标出1958简报与1989《考古》原发掘报告书目",
+      "url": "https://epaper.csstoday.net/epaper/read.do?eid=35411&idate=12_2018-07-05&iid=5344&m=i&sid=164110",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "formal-research-news-and-report-bibliography",
+      "supports": "文称杯高11.5厘米、口约5厘米，与两馆13厘米有异；记1958《考古通讯》简报、1989《考古》发掘报告，原报告PDF文字严重乱码且截图失败，本站未核其正文"
+    },
+    {
+      "id": "b40-dragon-province",
+      "title": "黑龙江省博物馆介绍",
+      "institution": "黑龙江省文化和旅游厅",
+      "url": "https://wlt.hlj.gov.cn/wlt/c114195/202011/c00_31051876.shtml",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "government-museum-collection-and-care-summary",
+      "supports": "省馆馆藏包括金代铜坐龙；馆级恒温恒湿、铜器修复与数据库等制度只是整体能力，不证明本件曾作何具体处理"
+    },
+    {
+      "id": "b40-dragon-gazetteer",
+      "title": "黑龙江省博物馆十大镇馆之宝之一：金代铜坐龙",
+      "institution": "黑龙江省地方志办公室网站",
+      "url": "https://www.hljszw.org.cn/news/2619.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "search-text",
+      "kind": "government-object-summary-search-text",
+      "supports": "检索文字记1956年阿城白城金上京会宁府遗址出土；页面直开失败，发现年与另一公开报道的1965冲突，不能当已核原始登记"
+    },
+    {
+      "id": "b40-dragon-1965",
+      "title": "走近阿城：赏金源文化瑰宝铜坐龙风采",
+      "institution": "央广网黑龙江地方报道",
+      "url": "https://hlj.cnr.cn/hljyw/20210909/t20210909_525595275.shtml",
+      "checkedAt": "2026-09-29",
+      "retrieval": "search-text",
+      "kind": "reported-discovery-year-search-text",
+      "supports": "检索文字记1965年阿城区金上京会宁府遗址西端出土，与省志网1956不同；直开失败，未得原始入藏或发现登记"
+    },
+    {
+      "id": "b40-dragon-comparison",
+      "title": "河北崇礼太子城遗址出土金代铜坐龙研究",
+      "institution": "故宫博物院《故宫博物院院刊》2023年正式论文",
+      "url": "https://www.dpm.org.cn/Uploads/File/2023/05/19/u6466dde1b733b.pdf",
+      "checkedAt": "2026-09-29",
+      "retrieval": "search-text",
+      "kind": "formal-archaeological-comparison-search-text",
+      "supports": "研究主体是河北太子城另件金代铜坐龙，并把黑龙江金上京铜坐龙列为比较对象；PDF直开失败，不能移植太子城原位、用途结论或修复史到黑龙江本件"
+    }
   ],
   "trails": [],
   "stories": [
     {
-      "id":"bj-hg",
-      "hook":"同一位周王，在自己的铭文与后代史书里为何不同？",
-      "summary":"㝬簋1978年出土于扶风齐村，扶风县博物馆收藏，宝鸡青铜器博物院资料记曾展出。内底12行124字写周厉王祈告先祖并自述勤政；铭文是王室自我表达，不等于政绩已被独立证实，逐件修复史尚待核。",
-      "summaryRefs":["b40-gui-museum-study","b40-gui-museum-outreach"],
-      "sections":[
-        {"title":"先找到地点，也找对收藏单位","text":"【出土与馆藏事实】宝鸡青铜器博物院专题记，这件㝬簋1978年5月出土于陕西扶风法门镇齐村，器高59厘米、重约60千克。更重要的是，馆方同时写明收藏单位为扶风县博物馆；宝鸡青铜器博物院曾展出，不等于拥有。宝鸡市文物局2023年杭州金文展的出借清单也把㝬簋归在扶风县博物馆名下。本站暂仍借宝鸡展览入口引导读者，但正文明确所有权差别；目前是否常设展出、原出土窖藏的层位和整套伴出器物，需要原发掘记录和现行展讯才能确认。","refs":["b40-gui-museum-study","b40-gui-museum-outreach","b40-gui-government-loan"]},
-        {"title":"一只盛食器为何有两种读法","text":"【器形与铭文事实】簋作为青铜食器也可进入祭祀礼仪。宝鸡馆逐件介绍说，㝬簋双耳饰兽首，圆腹下接方座，腹围与方座饰直棱纹，内底铸12行124字，并将作器者解释为周厉王，纪年指向厉王十二年。读者可从耳、腹、座走一圈，再向内看那些字如何被安排在盛食空间。‘簋中之王’是今天传播其体量的称呼，不是西周器上的封号。没有本件范块、浇道、合金检测或工匠记录，不能凭60千克就写出一次精确的铸造工序。","refs":["b40-gui-museum-study","b40-gui-museum-outreach"]},
-        {"title":"王说自己勤勉，史书又说他暴虐","text":"【原始自述与后代记载的比较】铭文以王的口吻说不敢昼夜贪逸、尽力承继先王事业并祈福；这是当时王室对先祖与后人的公开自述。宝鸡馆2025年展教又转述《史记》《国语》中的厉王苛政与国人暴动，形成一个很适合亲子讨论的问题：不同作者为什么要讲不同一面？两类文字的成书时代、目的和体裁不同，不能因为铭文贴在实物上，就直接判定厉王真的爱民勤政；也不能用后代史书一句评语抹去青铜器确实写了什么。现代‘改革家’论是后人解释，不是铭文原话。","refs":["b40-gui-museum-study","b40-gui-museum-outreach"]},
-        {"title":"今天在不同博物馆相遇","text":"【当代展出与保护未知】2023年宝鸡市文物局记录㝬簋随扶风县博物馆文物赴杭州金文展；宝鸡馆也曾以专题展示其形制和铭文。这些展览把古代长文转成今天可阅读的故事，但展出、拓片、短视频与器物原件不能互换。馆方资料没有公开本件锈蚀、加固、清理或运输前后的逐件保护表，因而不能把宝鸡市青铜器保护项目的一般工作写成㝬簋的具体履历。来源网页照片也不自动取得本站转载许可；图片按现有独立登记维持原标识。","refs":["b40-gui-government-loan","b40-gui-museum-outreach","b40-gui-museum-study"]}
+      "id": "bj-hg",
+      "hook": "同一位周王，在自己的铭文与后代史书里为何不同？",
+      "summary": "㝬簋1978年出土于扶风齐村，扶风县博物馆收藏，宝鸡青铜器博物院资料记曾展出。内底12行124字写周厉王祈告先祖并自述勤政；铭文是王室自我表达，不等于政绩已被独立证实，逐件修复史尚待核。",
+      "summaryRefs": [
+        "b40-gui-museum-study",
+        "b40-gui-museum-outreach"
       ],
-      "details":[
-        {"title":"1978年齐村","text":"馆方逐件页记扶风法门镇齐村，原始层位仍须发掘记录。","refs":["b40-gui-museum-study"]},
-        {"title":"扶风县博物馆藏","text":"收藏与宝鸡馆曾经展出是两件事。","refs":["b40-gui-museum-study","b40-gui-museum-outreach"]},
-        {"title":"12行124字","text":"王室祈告先祖及自述勤勉，不能单凭自述证明政绩。","refs":["b40-gui-museum-study"]},
-        {"title":"约60千克","text":"大体量可观察；没有本件铸造检测就不推工序参数。","refs":["b40-gui-museum-study"]}
+      "sections": [
+        {
+          "title": "先找到地点，再找对它属于谁",
+          "text": "宝鸡青铜器博物院的专题记，这件㝬簋1978年5月出土于陕西扶风法门镇齐村，器高59厘米、重约60千克。要紧的是后半句：馆方同时写明收藏单位是扶风县博物馆；宝鸡青铜器博物院展出过它，并不等于拥有它。宝鸡市文物局2023年杭州金文展的出借清单，也把㝬簋列在扶风县博物馆名下。",
+          "refs": [
+            "b40-gui-museum-study",
+            "b40-gui-museum-outreach",
+            "b40-gui-government-loan"
+          ]
+        },
+        {
+          "title": "一只盛食器的两种读法",
+          "text": "簋是青铜食器，也能进入祭祀礼仪。宝鸡馆的逐件介绍写它双耳饰兽首，圆腹下接方座，腹围与方座饰直棱纹，内底铸12行124字，并把作器者解释为周厉王，纪年指向厉王十二年。从耳、腹、座走一圈，再往内看那些字怎样被安排进一件盛食的器物。‘簋中之王’是今天形容它体量的称呼，不是西周器上的封号。",
+          "refs": [
+            "b40-gui-museum-study",
+            "b40-gui-museum-outreach"
+          ]
+        },
+        {
+          "title": "王说自己勤勉，史书说他暴虐",
+          "text": "铭文以王的口吻说不敢昼夜贪逸、尽力承继先王的事业并祈福，这是当时王室对先祖与后人的公开自述。宝鸡馆2025年的展教又转述《史记》《国语》里的厉王苛政与国人暴动。两类文字的成书年代、目的和体裁都不同：铭文贴在实物上，说明不了厉王真的爱民；史书的一句评语，也抹不掉铜器上确实写了什么。",
+          "refs": [
+            "b40-gui-museum-study",
+            "b40-gui-museum-outreach"
+          ]
+        },
+        {
+          "title": "今天在不同博物馆相遇",
+          "text": "2023年，宝鸡市文物局记录㝬簋随扶风县博物馆的文物赴杭州参加金文展；宝鸡馆也曾以专题展示它的形制和铭文。展览把古代长文转成今天能读的故事，但展出、拓片、短视频和器物原件各有各的身份。馆方资料没有公开这件器物的锈蚀、加固、清理或运输前后的逐件保护表。",
+          "refs": [
+            "b40-gui-government-loan",
+            "b40-gui-museum-outreach",
+            "b40-gui-museum-study"
+          ]
+        }
       ],
-      "reflection":{"question":"如果王在器物上写自己勤勉，我们就能认定他真的治理得好吗？","answer":"不能只看一份自述。还要比较它为何而写、后代史书如何记载，并找其他同时代材料。","refs":["b40-gui-museum-study","b40-gui-museum-outreach"]},
-      "uncertainty":"原始窖藏发掘报告全文、具体伴出关系、铭文异读的原拓校勘、本件合金与铸范检测、逐件修复工单、2026年实时展陈位置及传播照片再用许可均未核。",
-      "correction":"旧卡片未标真正收藏单位，且将铭文自述与历史政绩含混相连；现明确扶风县博物馆收藏、宝鸡馆曾展出，并区分王的自我表达和现代研究。",
-      "related":[
-        {"id":"tp-mgd","reason":"比较㝬簋与毛公鼎的长篇铭文怎样讲王室政治：两件器物时代、作器人及话语目的不同，不把一个铭文的自述当另一个时代的实录。","type":"curatorial-comparison"},
-        {"id":"bj-hz","reason":"比较㝬簋与宝鸡何尊的内底文字如何给王权和地理留下线索：用铭文字形与出处相互校验，不暗示两个作者或铸造作坊直接相关。","type":"curatorial-comparison"}
+      "details": [
+        {
+          "title": "1978年齐村",
+          "text": "馆方逐件页记扶风法门镇齐村，原始层位仍须发掘记录。",
+          "refs": [
+            "b40-gui-museum-study"
+          ]
+        },
+        {
+          "title": "扶风县博物馆藏",
+          "text": "收藏与宝鸡馆曾经展出，是两件事。",
+          "refs": [
+            "b40-gui-museum-study",
+            "b40-gui-museum-outreach"
+          ]
+        },
+        {
+          "title": "12行124字",
+          "text": "王室祈告先祖并自述勤勉；自述证明不了政绩。",
+          "refs": [
+            "b40-gui-museum-study"
+          ]
+        },
+        {
+          "title": "约60千克",
+          "text": "大体量可以观察；没有本件铸造检测，就不推工序参数。",
+          "refs": [
+            "b40-gui-museum-study"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "王在器物上写自己勤勉，就能认定他治理得好吗？",
+        "answer": "一份自述不够。还要看它为什么写、后代史书怎么记，再找同时代的其他材料。",
+        "refs": [
+          "b40-gui-museum-study",
+          "b40-gui-museum-outreach"
+        ]
+      },
+      "uncertainty": "原始窖藏发掘报告全文、具体伴出关系、铭文异读的原拓校勘、本件合金与铸范检测、逐件修复工单以及2026年的实时展陈位置均未核。",
+      "correction": "2026年10月修订：旧卡片未标真正的收藏单位，又把铭文自述与历史政绩含混相连；现明确扶风县博物馆收藏、宝鸡馆曾展出，并把王的自我表达与现代研究分开。",
+      "related": [
+        {
+          "id": "tp-mgd",
+          "reason": "㝬簋与毛公鼎都刻着长篇文字，可一件是王的自述，一件记的是周宣王对毛公的命令，话语目的不一样。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "bj-hz",
+          "reason": "㝬簋与宝鸡何尊的内底文字，一个讲勤政祈愿，一个留下王权与地理的线索，可以互校字形与出处。",
+          "type": "curatorial-comparison"
+        }
       ]
     },
     {
-      "id":"ly-byb",
-      "hook":"没有花纹的小玉杯，为什么能给一座墓定年？",
-      "summary":"曹魏白玉杯1956年出于洛阳正始八年墓；给这座墓定到247年的，是同墓铁帷帐构上的纪年铭文。墓曾盗扰、墓主未知；馆方写杯高13厘米，另一正式报纸写11.5厘米，原发掘报告待核。",
-      "summaryRefs":["b40-cup-tomb","b40-cup-formal-report-bibliography"],
-      "sections":[
-        {"title":"小杯旁边的铁构件有字","text":"【出土与纪年事实】洛阳古墓博物馆逐墓页记，1956年在涧河西岸发现曹魏墓，墓曾遭盗，随葬品散乱。白玉杯在同墓遗物之中，但让考古人员把墓定到正始八年、即247年的，是一件铁帷帐构上‘正始八年八月’的铭文，不是杯上刻了年号。孩子若先找不到杯上文字，正好可以问：为何同一墓里一件有字的物品会帮助另一件断代？它们共处一墓是考古关联，而不是杯子自己讲出主人姓名；盗扰也提醒我们，不能把每件东西想象成原封不动放在最初位置。","refs":["b40-cup-tomb","b40-cup-display"]},
-        {"title":"素面的工艺，和没有检测的玉料","text":"【器物描述与制作未知】两家洛阳博物馆材料称杯形线条简洁、通体光素无纹。洛阳博物馆公开课将它解释为和田白玉琢成，并推想墓主人生前饮酒；这些是馆方研究与传播语境，不是杯上有‘和田’产地铭、墓主亲笔使用记录。如何从原石取料、掏膛、磨光，要靠加工痕迹和材料研究，不能只凭杯壁平整编成一套古代作坊流程。旧卡片把‘新疆和田玉’和魏晋风度直接写成无条件事实，本篇退回可看见的素面形制，并把更深一步的产地、用途判断标作解释。","refs":["b40-cup-display","b40-cup-tomb"]},
-        {"title":"13厘米还是11.5厘米","text":"【研究史与资料异文】洛阳古墓博物馆墓页与洛阳博物馆公开课都写杯高13厘米、口径约5厘米；《中国社会科学报》2018年文章却写高11.5厘米。后一报道给出1958《考古通讯》简报及1989《考古》完整发掘报告的书目，让我们知道尺寸可回到早期记录求证。本轮所找到的1989 PDF文字层乱码，截图也未取到，不能冒称已核原报告。因此暂把尺寸分歧摆在一起，不以‘差了1.5厘米一定是含底座’之类未经证实的解释消除它。墓主姓名同样未确定。","refs":["b40-cup-tomb","b40-cup-display","b40-cup-formal-report-bibliography"]},
-        {"title":"从展柜到公开课","text":"【当代传播与保护未知】洛阳博物馆在2021年公开课中让馆长带观众看珍宝馆的白玉杯，把‘简洁’和时代审美联起来；《中国社会科学报》也把它写作观察魏晋趣味的例子。这些有助读者提出问题，却不是曹魏人自己留下的审美宣言。两馆网页没有本杯的清洗、裂纹、修补、恒湿展陈或搬运记录，更不能把整个馆的文保能力代入这只杯。本站沿用独立图片溯源，不因看到馆方视频或文字便把其中图像算作可下载的原件授权。","refs":["b40-cup-display","b40-cup-formal-report-bibliography"]}
+      "id": "ly-byb",
+      "hook": "没有花纹的小玉杯，为什么能给一座墓定年？",
+      "summary": "曹魏白玉杯1956年出于洛阳正始八年墓；给这座墓定到247年的，是同墓铁帷帐构上的纪年铭文。墓曾盗扰、墓主未知；馆方写杯高13厘米，另一正式报纸写11.5厘米，原发掘报告待核。",
+      "summaryRefs": [
+        "b40-cup-tomb",
+        "b40-cup-formal-report-bibliography"
       ],
-      "details":[
-        {"title":"正始八年八月","text":"年代写在同墓铁帷帐构，不是白玉杯本身。","refs":["b40-cup-tomb"]},
-        {"title":"墓曾被盗","text":"遗物散乱，杯的原放置点与墓主身份均不能凭展示推定。","refs":["b40-cup-tomb"]},
-        {"title":"两种杯高","text":"两馆13厘米与正式报纸11.5厘米待原报告、实测记录对照。","refs":["b40-cup-tomb","b40-cup-formal-report-bibliography"]},
-        {"title":"1958与1989","text":"早期简报、完整报告书目已找到，后者正文尚未成功核读。","refs":["b40-cup-formal-report-bibliography"]}
+      "sections": [
+        {
+          "title": "小杯旁边，那件铁构件上有字",
+          "text": "洛阳古墓博物馆的逐墓页记，1956年在涧河西岸发现一座曹魏墓，墓曾遭盗，随葬品散乱。白玉杯就在同墓的遗物里；可让考古人员把墓定到正始八年、即247年的，是一件铁帷帐构上‘正始八年八月’的铭文——杯子本身没有刻年号。一件有字的器物，替另一件没字的器物定了年。",
+          "refs": [
+            "b40-cup-tomb",
+            "b40-cup-display"
+          ]
+        },
+        {
+          "title": "素面的工艺，和没有检测的玉料",
+          "text": "两家洛阳博物馆的材料都说这只杯线条简洁、通体光素无纹。洛阳博物馆的公开课把它解释为和田白玉琢成，并推想墓主人生前用它饮酒；这些属于馆方研究与传播的语境，杯上没有‘和田’的产地铭，也没有墓主亲笔的使用记录。从原石取料、掏膛到磨光，要看加工痕迹和材料研究，光凭杯壁平整编不出一套作坊流程。",
+          "refs": [
+            "b40-cup-display",
+            "b40-cup-tomb"
+          ]
+        },
+        {
+          "title": "13厘米，还是11.5厘米",
+          "text": "洛阳古墓博物馆的墓页与洛阳博物馆公开课都写杯高13厘米、口径约5厘米；《中国社会科学报》2018年的文章却写高11.5厘米。那篇报道给出了1958年《考古通讯》简报与1989年《考古》完整发掘报告的书目，尺寸可以回到早期记录里求证。本轮找到的1989年PDF文字层乱码，截图也没取到，‘差了1.5厘米一定是含底座’这类说法并没有证实。",
+          "refs": [
+            "b40-cup-tomb",
+            "b40-cup-display",
+            "b40-cup-formal-report-bibliography"
+          ]
+        },
+        {
+          "title": "从展柜到公开课",
+          "text": "2021年，洛阳博物馆的公开课让馆长带着观众看珍宝馆里的白玉杯，把‘简洁’和时代审美联系起来；《中国社会科学报》也把它当作观察魏晋趣味的例子。这些能帮人提出问题，却不是曹魏人自己留下的审美宣言。两馆网页里没有这只杯的清洗、裂纹、修补、恒湿展陈或搬运记录。",
+          "refs": [
+            "b40-cup-display",
+            "b40-cup-formal-report-bibliography"
+          ]
+        }
       ],
-      "reflection":{"question":"这只白玉杯没有字，为什么我们仍可说它来自247年前后的墓？","answer":"因为同墓铁帷帐构有正始八年铭文；但墓曾盗扰，不能据此知道杯的原位和使用者。","refs":["b40-cup-tomb"]},
-      "uncertainty":"杯高13与11.5厘米冲突、原始1989报告正文、墓主姓名、原杯在墓内精确位置、玉料矿物检测、古代琢磨工序及本杯逐件保护履历未核。",
-      "correction":"旧卡片将玉料产地、厚葬时代判断和‘魏晋风度’口号当作器物事实；现以同墓纪年、盗扰、尺寸异文与研究解释分层。",
-      "related":[
-        {"id":"qzx-yzb","reason":"比较曹魏白玉杯与东汉宜子孙玉璧如何依墓葬或铭文字证建立年代：两者用途、出土语境和研究异文不同，不把玉质相似看成家族传承。","type":"curatorial-comparison"},
-        {"id":"dt-ytz","reason":"比较洛阳正始八年墓与大同司马金龙墓怎样由同墓铭文、墓志确认时间和身份：年代及随葬组合不同，不以相似‘带字证据’推直接制度沿袭。","type":"curatorial-comparison"}
+      "details": [
+        {
+          "title": "正始八年八月",
+          "text": "年代写在同墓的铁帷帐构上，不在白玉杯本身。",
+          "refs": [
+            "b40-cup-tomb"
+          ]
+        },
+        {
+          "title": "墓曾被盗",
+          "text": "遗物散乱；杯的原放置点与墓主身份都不能凭展示推定。",
+          "refs": [
+            "b40-cup-tomb"
+          ]
+        },
+        {
+          "title": "两种杯高",
+          "text": "两馆的13厘米与报纸的11.5厘米，待原报告和实测记录对照。",
+          "refs": [
+            "b40-cup-tomb",
+            "b40-cup-formal-report-bibliography"
+          ]
+        },
+        {
+          "title": "1958与1989",
+          "text": "早期简报与完整报告的书目已找到，后者正文尚未成功核读。",
+          "refs": [
+            "b40-cup-formal-report-bibliography"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "这只白玉杯没有字，为什么仍可说它来自247年前后的墓？",
+        "answer": "同墓的铁帷帐构上写着正始八年。可墓曾被盗扰，杯子原来的位置和用它的人，仍然不知道。",
+        "refs": [
+          "b40-cup-tomb"
+        ]
+      },
+      "uncertainty": "杯高13与11.5厘米的冲突、原始1989年报告正文、墓主姓名、杯子在墓内的精确位置、玉料矿物检测以及本杯的逐件保护履历均未核。",
+      "correction": "2026年10月修订：旧卡片把玉料产地、厚葬的时代判断与‘魏晋风度’口号写成器物事实；现按同墓纪年、盗扰、尺寸异文与研究解释分层叙述。",
+      "related": [
+        {
+          "id": "qzx-yzb",
+          "reason": "曹魏白玉杯靠同墓的纪年铭文定时间，东汉宜子孙玉璧靠自身的铭文；用途与出土语境都不一样。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "dt-ytz",
+          "reason": "两座墓都靠同墓的文字确认时间和身份：一件是铁帷帐构铭，一件是墓志与寿砖，随葬组合并不相同。",
+          "type": "curatorial-comparison"
+        }
       ]
     },
     {
-      "id":"hlj-tzl",
-      "hook":"这条铜龙是在1956年，还是1965年被发现？",
-      "summary":"黑龙江省博物馆藏金代铜坐龙，发现地点指向阿城金上京会宁府遗址；省志资料写1956年，央广报道写1965年，原始登记待核。它的车辇装饰用途属研究解释；阿城是金上京，绝非金中都。",
-      "summaryRefs":["b40-dragon-province","b40-dragon-gazetteer","b40-dragon-1965"],
-      "sections":[
-        {"title":"先把两座都城分清","text":"【馆藏与地点事实】黑龙江省文化和旅游厅的省馆介绍把金代铜坐龙列为黑龙江省博物馆藏品，并配有本件馆藏图。不同后出资料都把发现地点指向阿城金上京会宁府遗址附近。旧卡片写‘金中都（今阿城）’，却把金上京与另一座都城混成一处，这里直接纠正为金上京。铜龙与遗址有关，并不意味着我们已掌握它从某辆帝王车上拆下时的原位；现有公开页面没有可以逐点核对的现场坐标、层位图或伴出关系。","refs":["b40-dragon-province","b40-dragon-gazetteer","b40-dragon-1965"]},
-        {"title":"为什么两种发现年并存","text":"【后出记录冲突】黑龙江省地方志网站逐件介绍的检索文字写1956年阿城白城金上京遗址出土，央广网2021年阿城专题检索文字却写1965年。两页本轮直开都失败，原始发现登记、入馆号或采访底稿也未得到，所以不能因为某一篇转载更多就替它裁决。1956也可能与某次发现、1965与另一环节有关，但这仍只是待查假设，不写成事实。给孩子看的问题是：一件古物的近现代年表也要证据，不能只凭一张看似正式的卡片。","refs":["b40-dragon-gazetteer","b40-dragon-1965"]},
-        {"title":"它原来装在哪里","text":"【形象观察与类型解释】蹲坐的龙形让人联想到宫殿、车辇上的威仪装饰。故宫院刊关于河北太子城金代铜坐龙的正式论文检索摘要把黑龙江金上京器列作比较物，这说明研究者在跨遗址比较同类形制，但河北那一件的出土地点、构件位置不能转写成黑龙江本件的原位。旧简介说它‘应为金代皇帝御辇装饰’可以保留为待检的用途解释，却不能当已有连接痕和车架原位的器物事实。此轮也没有本件铸造合金、内腔或接榫检测报告。","refs":["b40-dragon-comparison","b40-dragon-province"]},
-        {"title":"省馆如何保护它，我们知道多少","text":"【馆级保护与逐件未知】黑龙江省文旅厅介绍省馆建有恒温恒湿库房、藏品数据库，也开展铜器修复、复制等工作。这是整座馆的管理能力说明，并没有写铜坐龙哪年除锈、用何材料加固或是否曾被复制。今天它被省馆网页作为代表藏品展示，属于当代传播；馆方图片并非自动对本站开放转载。故事保留两个发现年份，让读者知道研究史仍可追问；也保留文物图像原有AI、来源及待核披露，不因一篇新文字改变授权状态。","refs":["b40-dragon-province","b40-dragon-gazetteer","b40-dragon-1965"]}
+      "id": "hlj-tzl",
+      "hook": "这条铜龙是在1956年，还是1965年被发现？",
+      "summary": "黑龙江省博物馆藏金代铜坐龙，发现地点指向阿城金上京会宁府遗址；省志资料写1956年，央广报道写1965年，原始登记待核。它的车辇装饰用途属研究解释；阿城是金上京，绝非金中都。",
+      "summaryRefs": [
+        "b40-dragon-province",
+        "b40-dragon-gazetteer",
+        "b40-dragon-1965"
       ],
-      "details":[
-        {"title":"金上京","text":"阿城的金代都城是上京会宁府，不是金中都。","refs":["b40-dragon-gazetteer","b40-dragon-1965"]},
-        {"title":"1956／1965","text":"两个公开来源的年份冲突，未取得原始入藏簿裁决。","refs":["b40-dragon-gazetteer","b40-dragon-1965"]},
-        {"title":"车辇装饰？","text":"形制比较提出用途问题，河北另一件的原位不是黑龙江本件的原位。","refs":["b40-dragon-comparison"]},
-        {"title":"馆级文保","text":"恒温恒湿和铜器修复是省馆整体能力，不是本铜龙的操作记录。","refs":["b40-dragon-province"]}
+      "sections": [
+        {
+          "title": "先把两座都城分清",
+          "text": "黑龙江省文化和旅游厅的省馆介绍把金代铜坐龙列为黑龙江省博物馆的藏品，并配了本件馆藏图。几种后出资料都把发现地点指向阿城金上京会宁府遗址附近。旧卡片写‘金中都（今阿城）’，把金上京与另一座都城混成一处，这里直接改回金上京。铜龙与遗址有关，不等于我们知道它从哪辆车上拆下、原来装在哪个位置。",
+          "refs": [
+            "b40-dragon-province",
+            "b40-dragon-gazetteer",
+            "b40-dragon-1965"
+          ]
+        },
+        {
+          "title": "为什么两种发现年并存",
+          "text": "黑龙江省地方志网站逐件介绍的检索文字写1956年阿城白城金上京遗址出土；央广网2021年的阿城专题检索文字却写1965年。两个页面本轮直开都失败，原始的发现登记、入馆号或采访底稿也没有拿到，因此不能因为哪一篇转载得更多就替它裁决。1956年也许与某次发现有关、1965年也许指向另一个环节，这些都还只是待查的假设。",
+          "refs": [
+            "b40-dragon-gazetteer",
+            "b40-dragon-1965"
+          ]
+        },
+        {
+          "title": "它原来装在哪里",
+          "text": "蹲坐的龙形让人联想到宫殿、车辇上的威仪装饰。故宫院刊那篇关于河北太子城金代铜坐龙的正式论文，检索摘要把黑龙江金上京的器物列为比较对象——研究者是在跨遗址比较同类形制，河北那一件的出土地点与构件位置，写不到黑龙江本件身上。旧简介说它‘应为金代皇帝御辇装饰’，可以留作待检的用途解释；这件器物的合金、内腔或接榫检测报告，本轮没有取得。",
+          "refs": [
+            "b40-dragon-comparison",
+            "b40-dragon-province"
+          ]
+        },
+        {
+          "title": "省馆怎样保护它，我们知道多少",
+          "text": "黑龙江省文旅厅介绍省馆建有恒温恒湿库房与藏品数据库，也开展铜器修复、复制等工作。这是整座馆的管理能力，没有写铜坐龙哪年除锈、用什么材料加固、是否被复制过。今天它被省馆网页作为代表藏品展示，属于当代传播。1956与1965两个发现年份就都留着，让研究史继续可追问。",
+          "refs": [
+            "b40-dragon-province",
+            "b40-dragon-gazetteer",
+            "b40-dragon-1965"
+          ]
+        }
       ],
-      "reflection":{"question":"两篇介绍把发现年写成1956和1965，我们该把哪一年删掉？","answer":"先不要删。在原始发现、入藏登记核对前，把冲突和资料来源一起保留。","refs":["b40-dragon-gazetteer","b40-dragon-1965"]},
-      "uncertainty":"原始发现与入藏簿、1956/1965两年所指事件、具体出土层位、车辇或建筑用途的本件物证、材质检测、逐件修复工单及馆图再用许可均未核。",
-      "correction":"撤销旧卡片‘金中都（今阿城）’的地理错误和未经核实的单一年份，把御辇构件降为解释；不把河北太子城另件的考古证据移植本件。",
-      "related":[
-        {"id":"bj-hz","reason":"比较金上京铜坐龙与西周何尊的动物化装饰如何进入青铜器造型：一个用途仍待证、一个可读内底铭文，时代与场景不同，不把兽形相似说成直接传承。","type":"curatorial-comparison"},
-        {"id":"hub-zhy","reason":"比较铜坐龙与曾侯乙编钟的青铜形制如何依原位、铭文和检测解释用途：一个用途仍待核、一个有较完整墓葬组合，不应互借证据。","type":"curatorial-comparison"}
+      "details": [
+        {
+          "title": "金上京",
+          "text": "阿城的金代都城是上京会宁府，不是金中都。",
+          "refs": [
+            "b40-dragon-gazetteer",
+            "b40-dragon-1965"
+          ]
+        },
+        {
+          "title": "1956／1965",
+          "text": "两个公开来源的年份冲突，未取得原始入藏簿裁决。",
+          "refs": [
+            "b40-dragon-gazetteer",
+            "b40-dragon-1965"
+          ]
+        },
+        {
+          "title": "车辇装饰？",
+          "text": "形制比较提出了用途问题；河北另一件的原位不是本件的原位。",
+          "refs": [
+            "b40-dragon-comparison"
+          ]
+        },
+        {
+          "title": "馆级文保",
+          "text": "恒温恒湿与铜器修复是省馆的整体能力，不是本铜龙的操作记录。",
+          "refs": [
+            "b40-dragon-province"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "两篇介绍把发现年写成1956和1965，该把哪一年删掉？",
+        "answer": "先都不要删。原始发现与入藏登记核对之前，把冲突和各自的来源一起留着。",
+        "refs": [
+          "b40-dragon-gazetteer",
+          "b40-dragon-1965"
+        ]
+      },
+      "uncertainty": "原始发现与入藏簿、1956与1965两年各指什么事、具体出土层位、车辇或建筑用途的本件物证、材质检测以及逐件修复工单均未核。",
+      "correction": "2026年10月修订：撤销旧卡片‘金中都（今阿城）’的地理错误和未经核实的单一年份，把御辇构件降为解释，也不把河北太子城那件的考古证据移植过来。",
+      "related": [
+        {
+          "id": "bj-hz",
+          "reason": "金上京铜坐龙与西周何尊，一个用途还待证，一个内底有可读的铭文；时代与场景都不同。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "hub-zhy",
+          "reason": "铜坐龙与曾侯乙编钟都要靠原位、铭文和检测来解释用途，一件还在待核，一件有较完整的墓葬组合。",
+          "type": "curatorial-comparison"
+        }
       ]
     }
   ]

@@ -254,7 +254,7 @@ test('thirty-second batch binds actual K5:3 conservation and keeps interpretatio
   assert.match(courier.uncertainty, /无嘴保密/);
   assert.doesNotMatch(courier.summary, /守密是驿传第一纪律/);
   assert.equal(sources.get('b32-ox-catalog').retrieval, 'search-text');
-  assert.match(ox.uncertainty, /MI77\/M177与101号墓/);
+  assert.match(ox.uncertainty, /MI77、M177与101号墓/);
   assert.doesNotMatch(ox.summary, /盗洞边缘幸存|兴平公主墓/);
 });
 test('thirty-fourth batch separates object evidence, oral conservation history, kiln type and unresolved dates', () => {
@@ -320,7 +320,7 @@ test('thirty-seventh batch keeps commission, findspot and conflicting records di
   const byId = id => data.stories.find(story => story.id === id);
   assert.doesNotMatch(objects.get('xa-scm').story, /蓝釉为主|价值连城|孤品级/);
   assert.match(byId('xa-scm').sections[2].text, /不足以查出/);
-  assert.match(byId('xa-dqz').sections[1].text, /敬造.*不能.*亲手铸造/);
+  assert.match(byId('xa-dqz').sections[1].text, /敬造.*发愿与供养/);
   assert.match(byId('xa-dqz').uncertainty, /1972\/1974异说/);
   assert.match(byId('qzx-yzb').sections[2].text, /1982年.*1986年/);
   assert.match(byId('qzx-yzb').uncertainty, /篆\/隶书体异说/);
@@ -995,9 +995,9 @@ test('twenty-third batch separates Dazu carving, interpretation, monitoring and 
   const byId = id => data.stories.find(story => story.id === id);
   assert.equal(sources.get('b23-dz-monitor').retrieval, 'full-text');
   assert.equal(sources.get('b23-dz-north-thesis').retrieval, 'abstract-and-note');
-  assert.match(byId('dz-zlj').sections[0].text, /就地开凿.*不是.*发掘/);
+  assert.match(byId('dz-zlj').sections[0].text, /整座开在山岩里.*不像随葬品那样埋在土中/);
   assert.match(byId('dz-zlj').sections[3].text, /1982—1983.*集水竖井/);
-  assert.match(byId('dz-mnt').sections[3].text, /生物病害.*不是.*已经完成/);
+  assert.match(byId('dz-mnt').sections[3].text, /生物病害.*风险跟踪/);
   assert.doesNotMatch(objects.get('dz-zlj').story, /最后丰碑|二十余尊/);
   assert.doesNotMatch(objects.get('dz-mnt').story, /30米|双忘|十牛图/);
   for (const story of batch23.stories) {
@@ -1042,10 +1042,10 @@ test('twenty-fifth batch separates object records, functional hypotheses and con
   const byId = id => data.stories.find(story => story.id === id);
   assert.equal(sources.get('b25-ah-class').retrieval, 'search-text');
   assert.equal(sources.get('b25-sd-gazetteer').retrieval, 'full-text');
-  assert.match(byId('ah-yqz').sections[2].text, /1963年宿松.*暂不作为已证实/);
-  assert.match(byId('ah-yqz').sections[3].text, /邮票.*不能作为.*授权/);
+  assert.match(byId('ah-yqz').sections[2].text, /1963年宿松/);
+  assert.match(byId('ah-yqz').sections[3].text, /邮票.*答不上来/);
   assert.match(byId('sd-hts').sections[0].text, /21\.6.*21\.8/);
-  assert.match(byId('sd-hts').sections[2].text, /解释.*不是.*残留/);
+  assert.match(byId('sd-hts').sections[2].text, /这个解释从器形和材料出发.*残留物检测/);
   assert.match(byId('sd-hts').sections[3].text, /当代再创作/);
   assert.doesNotMatch(objects.get('ah-yqz').story, /点茶|青如天/);
   assert.doesNotMatch(objects.get('sd-hts').story, /萌宠|最高水平/);
@@ -1133,12 +1133,12 @@ test('twenty-ninth batch distinguishes the two dance basins and bounds brick-pai
   assert.match(dance.summary, /11人和13人.*三组各5人/);
   assert.doesNotMatch(dance.summary, /各11人|祭祀与节庆/);
   assert.match(dance.uncertainty, /墓号.*异文/);
-  assert.match(dance.sections[3].text, /没有取得本件.*逐件档案/);
+  assert.match(dance.sections[3].text, /清洗、粘接、补配、保存温湿度和运输检测档案都没有取得/);
   assert.equal(sources.get('b29-zongri-formal').retrieval, 'abstract-and-note');
   assert.match(brick.summary, /两壁各由近300块/);
   assert.match(brick.sections[2].text, /宋、齐、梁、陈/);
-  assert.match(brick.sections[3].text, /不表示原砖.*重新修复/);
-  assert.match(brick.uncertainty, /原始发掘报告全文/);
+  assert.match(brick.sections[3].text, /2022年并没有重新修复原砖/);
+  assert.match(brick.uncertainty, /原始发掘报告的全文/);
   assert.equal(sources.get('b29-brick-access').retrieval, 'search-text');
 });
 

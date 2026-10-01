@@ -2,84 +2,411 @@
   "version": 1,
   "reviewedAt": "2026-09-29",
   "sources": [
-    {"id":"b35-crown-gallery","title":"鹰顶金冠饰","institution":"河南博物院‘匈奴与中原文明的碰撞与交融’跨馆展逐件说明，内蒙古博物院藏","url":"https://www.chnmus.net/sitesources/hnsbwy/page_pc/clzl/zlhg/xnyzywmdpzyjr/dybffs/xnww/article4fbec6c8f44c45469f982919ff51659f.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum-exhibition-object-and-find-record","supports":"藏馆、冠带直径16.8厘米、鹰高6.7厘米、重1211.7克，狼咬羊/马羊虎图像、轻动鹰头尾摆动；1972冬阿鲁柴登南3公里发现、1973春调查试掘、两座墓与墓葬破坏。林胡王/白羊王属展签解释；无逐件修复档案或图片授权"},
-    {"id":"b35-crown-report-biblio","title":"《内蒙古阿鲁柴登发现的匈奴遗物》书目信息","institution":"田广金、郭素新，《考古》1980年第4期；宁夏回族自治区文物考古研究所论文引证","url":"https://www.nxkg.org.cn/silukaogu/996.html","checkedAt":"2026-09-29","retrieval":"search-text","kind":"excavation-report-bibliography-only","supports":"确认原始报告题名、作者、刊年期页线索；本轮未读取原报告全文，不支持该冠逐层出土、工艺检测或逐件修复细节"},
-    {"id":"b35-crown-museum-news","title":"博物馆里看北疆：鹰顶金冠饰","institution":"北疆新闻客户端，内蒙古博物院展厅报道","url":"https://www.imline.cn/article/edWeFnunci2sh1cGluZzEyNzA3OQO0O0OO0O0O.html","checkedAt":"2026-09-29","retrieval":"search-text","kind":"reported-museum-display","supports":"检索可见冠饰现于内蒙古博物院展厅及1972阿鲁柴登发现，不提供金冠原件保护工单或图像复用权"},
-    {"id":"b35-fujian-government","title":"我省不断加大文物保护和利用力度","institution":"福建省人民政府门户网站，福建博物院展览报道","url":"https://www.fujian.gov.cn/xwdt/fjyw/202306/t20230626_6192158.htm","checkedAt":"2026-09-29","retrieval":"full-text","kind":"provincial-museum-exhibition-object-record","supports":"福建馆本件出自闽国王后刘华墓室、小口长鼓腹四环耳、同类较大完整器、2023海丝主题展；西亚/中亚器型归属为专家类型考证，未给本件成分或航路检测"},
-    {"id":"b35-fujian-journal","title":"印度喀拉拉邦出土的孔雀蓝釉陶器标本","institution":"故宫博物院考古研究所、印度喀拉拉邦历史研究委员会，《故宫博物院院刊》；崇真艺客转载全文","url":"https://www.trueart.com/news/525941.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"formal-archaeology-paper-republication","supports":"印度帕特南与奎隆港同类标本的出土背景、晚唐五代中印航路及中国扬州广州宁波等地点的分布比较；非刘华墓本瓶直接产地鉴定或具体航线证明"},
-    {"id":"b35-fujian-three","title":"凝注海丝记忆的孔雀蓝","institution":"《福建日报》2026年4月7日","url":"https://fjrb.fjdaily.com/pc/con/202604/07/content_524530.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"reported-collection-distribution","supports":"报道刘华墓三件孔雀蓝瓶分藏福建博物院、国家博物馆和泉州海外交通史博物馆；只作同墓多件身份提醒，非原始发掘报告。文章对单瓶原盛物和具体航路作推测，本故事不沿用"},
-    {"id":"b35-fujian-report-biblio","title":"《五代闽国刘华墓发掘报告》书目转引","institution":"福建省博物馆，《文物》1975年第1期；《经济观察报》观展文转引","url":"https://jg-static.eeo.com.cn/article/info?channelUuid=undefined&id=f1e5c2b1f8e142c18d289f0171f0bcfc","checkedAt":"2026-09-29","retrieval":"search-text","kind":"excavation-report-bibliography-only","supports":"可检索到原始报告题名、期次及陈存洗1984年产地研究书目；本站未读原刊全文，不能据转引补写墓室逐件位置、瓶内残留或工艺检测"},
-    {"id":"b35-shandong-object","title":"文物之光照亮中华文明浩瀚星空：山东博物馆副馆长讲亚醜钺","institution":"山东博物馆副馆长高震，《光明日报》2023年6月14日；人民政协网转载全文","url":"https://mobile.rmzxb.com.cn/tranm/index/url/www.rmzxw.com.cn/c/2023-06-16/3362699.shtml","checkedAt":"2026-09-29","retrieval":"full-text","kind":"museum-deputy-director-object-interview","supports":"山东馆本件长32.7、刃宽34.5厘米、正背亚醜铭、透雕人面；馆方卡通IP、短视频与AR为现代传播，不是古代图像意图或本件修复记录"},
-    {"id":"b35-shandong-weight","title":"山东省博物馆四件镇馆之宝参展","institution":"山东省博物馆馆长鲁文生及保管部副主任蒋群接受媒体采访","url":"https://finance.sina.com.cn/money/collection/cjjj/20080729/22405144878.shtml","checkedAt":"2026-09-29","retrieval":"search-text","kind":"reported-collection-curator-interview","supports":"检索可见山东件重4.6千克、长32.7宽34.5厘米，因页面编码错误未直开全文；不据此推断修复过程"},
-    {"id":"b35-shandong-study","title":"益都苏埠屯亚丑族商代大墓的几点思考","institution":"王恩田，中央研究院历史语言研究所《金玉交辉》论文集2013年；复旦大学出土文献与古文字研究中心全文刊载","url":"https://www.fdgwz.org.cn/Web/Show/2543","checkedAt":"2026-09-29","retrieval":"full-text","kind":"formal-archaeology-interpretation","supports":"据山东馆1972原报告转述北墓道口两把人面钺，其中一件正反合计四枚亚丑族徽；原报告书目可核，但九侯/鬼侯等身份比附为作者争议性推论，不可当墓主事实"},
-    {"id":"b35-shandong-distinction","title":"国博镂空人面纹钺赴辽宁省博物馆展出","institution":"文化和旅游部转载中国国家博物馆2026年展讯","url":"https://www.mct.gov.cn/whzx/zsdw/zggjbwg/202608/t20260807_966801.html","checkedAt":"2026-09-29","retrieval":"full-text","kind":"official-two-object-exhibition-notice","supports":"明确国博镂空人面纹钺与山东博物馆亚醜钺为两个不同馆藏，展讯约定两件并展；不能互借尺寸、铭文或修复史"}
+    {
+      "id": "b35-crown-gallery",
+      "title": "鹰顶金冠饰",
+      "institution": "河南博物院‘匈奴与中原文明的碰撞与交融’跨馆展逐件说明，内蒙古博物院藏",
+      "url": "https://www.chnmus.net/sitesources/hnsbwy/page_pc/clzl/zlhg/xnyzywmdpzyjr/dybffs/xnww/article4fbec6c8f44c45469f982919ff51659f.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum-exhibition-object-and-find-record",
+      "supports": "藏馆、冠带直径16.8厘米、鹰高6.7厘米、重1211.7克，狼咬羊/马羊虎图像、轻动鹰头尾摆动；1972冬阿鲁柴登南3公里发现、1973春调查试掘、两座墓与墓葬破坏。林胡王/白羊王属展签解释；无逐件修复档案或图片授权"
+    },
+    {
+      "id": "b35-crown-report-biblio",
+      "title": "《内蒙古阿鲁柴登发现的匈奴遗物》书目信息",
+      "institution": "田广金、郭素新，《考古》1980年第4期；宁夏回族自治区文物考古研究所论文引证",
+      "url": "https://www.nxkg.org.cn/silukaogu/996.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "search-text",
+      "kind": "excavation-report-bibliography-only",
+      "supports": "确认原始报告题名、作者、刊年期页线索；本轮未读取原报告全文，不支持该冠逐层出土、工艺检测或逐件修复细节"
+    },
+    {
+      "id": "b35-crown-museum-news",
+      "title": "博物馆里看北疆：鹰顶金冠饰",
+      "institution": "北疆新闻客户端，内蒙古博物院展厅报道",
+      "url": "https://www.imline.cn/article/edWeFnunci2sh1cGluZzEyNzA3OQO0O0OO0O0O.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "search-text",
+      "kind": "reported-museum-display",
+      "supports": "检索可见冠饰现于内蒙古博物院展厅及1972阿鲁柴登发现，不提供金冠原件保护工单或图像复用权"
+    },
+    {
+      "id": "b35-fujian-government",
+      "title": "我省不断加大文物保护和利用力度",
+      "institution": "福建省人民政府门户网站，福建博物院展览报道",
+      "url": "https://www.fujian.gov.cn/xwdt/fjyw/202306/t20230626_6192158.htm",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "provincial-museum-exhibition-object-record",
+      "supports": "福建馆本件出自闽国王后刘华墓室、小口长鼓腹四环耳、同类较大完整器、2023海丝主题展；西亚/中亚器型归属为专家类型考证，未给本件成分或航路检测"
+    },
+    {
+      "id": "b35-fujian-journal",
+      "title": "印度喀拉拉邦出土的孔雀蓝釉陶器标本",
+      "institution": "故宫博物院考古研究所、印度喀拉拉邦历史研究委员会，《故宫博物院院刊》；崇真艺客转载全文",
+      "url": "https://www.trueart.com/news/525941.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "formal-archaeology-paper-republication",
+      "supports": "印度帕特南与奎隆港同类标本的出土背景、晚唐五代中印航路及中国扬州广州宁波等地点的分布比较；非刘华墓本瓶直接产地鉴定或具体航线证明"
+    },
+    {
+      "id": "b35-fujian-three",
+      "title": "凝注海丝记忆的孔雀蓝",
+      "institution": "《福建日报》2026年4月7日",
+      "url": "https://fjrb.fjdaily.com/pc/con/202604/07/content_524530.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "reported-collection-distribution",
+      "supports": "报道刘华墓三件孔雀蓝瓶分藏福建博物院、国家博物馆和泉州海外交通史博物馆；只作同墓多件身份提醒，非原始发掘报告。文章对单瓶原盛物和具体航路作推测，本故事不沿用"
+    },
+    {
+      "id": "b35-fujian-report-biblio",
+      "title": "《五代闽国刘华墓发掘报告》书目转引",
+      "institution": "福建省博物馆，《文物》1975年第1期；《经济观察报》观展文转引",
+      "url": "https://jg-static.eeo.com.cn/article/info?channelUuid=undefined&id=f1e5c2b1f8e142c18d289f0171f0bcfc",
+      "checkedAt": "2026-09-29",
+      "retrieval": "search-text",
+      "kind": "excavation-report-bibliography-only",
+      "supports": "可检索到原始报告题名、期次及陈存洗1984年产地研究书目；本站未读原刊全文，不能据转引补写墓室逐件位置、瓶内残留或工艺检测"
+    },
+    {
+      "id": "b35-shandong-object",
+      "title": "文物之光照亮中华文明浩瀚星空：山东博物馆副馆长讲亚醜钺",
+      "institution": "山东博物馆副馆长高震，《光明日报》2023年6月14日；人民政协网转载全文",
+      "url": "https://mobile.rmzxb.com.cn/tranm/index/url/www.rmzxw.com.cn/c/2023-06-16/3362699.shtml",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "museum-deputy-director-object-interview",
+      "supports": "山东馆本件长32.7、刃宽34.5厘米、正背亚醜铭、透雕人面；馆方卡通IP、短视频与AR为现代传播，不是古代图像意图或本件修复记录"
+    },
+    {
+      "id": "b35-shandong-weight",
+      "title": "山东省博物馆四件镇馆之宝参展",
+      "institution": "山东省博物馆馆长鲁文生及保管部副主任蒋群接受媒体采访",
+      "url": "https://finance.sina.com.cn/money/collection/cjjj/20080729/22405144878.shtml",
+      "checkedAt": "2026-09-29",
+      "retrieval": "search-text",
+      "kind": "reported-collection-curator-interview",
+      "supports": "检索可见山东件重4.6千克、长32.7宽34.5厘米，因页面编码错误未直开全文；不据此推断修复过程"
+    },
+    {
+      "id": "b35-shandong-study",
+      "title": "益都苏埠屯亚丑族商代大墓的几点思考",
+      "institution": "王恩田，中央研究院历史语言研究所《金玉交辉》论文集2013年；复旦大学出土文献与古文字研究中心全文刊载",
+      "url": "https://www.fdgwz.org.cn/Web/Show/2543",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "formal-archaeology-interpretation",
+      "supports": "据山东馆1972原报告转述北墓道口两把人面钺，其中一件正反合计四枚亚丑族徽；原报告书目可核，但九侯/鬼侯等身份比附为作者争议性推论，不可当墓主事实"
+    },
+    {
+      "id": "b35-shandong-distinction",
+      "title": "国博镂空人面纹钺赴辽宁省博物馆展出",
+      "institution": "文化和旅游部转载中国国家博物馆2026年展讯",
+      "url": "https://www.mct.gov.cn/whzx/zsdw/zggjbwg/202608/t20260807_966801.html",
+      "checkedAt": "2026-09-29",
+      "retrieval": "full-text",
+      "kind": "official-two-object-exhibition-notice",
+      "supports": "明确国博镂空人面纹钺与山东博物馆亚醜钺为两个不同馆藏，展讯约定两件并展；不能互借尺寸、铭文或修复史"
+    }
   ],
   "trails": [],
   "stories": [
     {
-      "id":"nm-jgs","hook":"金冠上的鹰会动，可它真能告诉我们主人是谁吗？","summary":"内蒙古博物院藏战国鹰顶金冠饰出自鄂尔多斯杭锦旗阿鲁柴登。跨馆展签记冠带直径16.8厘米、鹰高6.7厘米、重1211.7克，并区分1972年发现与1973年考古调查。鹰、狼羊和冠圈马虎图案可辨；具体墓主与逐件修复史仍不能由冠饰直接确定。","summaryRefs":["b35-crown-gallery"],
-      "sections":[
-        {"title":"先发现一批金银器，后寻找墓葬","text":"【展陈所载发现过程】河南博物院的跨馆展签记：1972年冬，杭锦旗生产队队员在阿鲁柴登以南约3公里沙窝中发现一批金银器；1973年春，内蒙古文物工作队才到现场调查并试掘。人骨、兽骨提示遗物来自两座古墓，附近墓葬已遭破坏。故事不能写成一座封闭、毫无扰动的完整王墓，也不能把1972年居民发现与1973年正式考古合成同一天。田广金、郭素新《考古》1980年的原始报告书目可查，本轮未取得全文，因此冠饰在墓内的层位、原配位置和出土状态仍待原文核对。","refs":["b35-crown-gallery","b35-crown-report-biblio"]},
-        {"title":"鹰、狼与羊被放在几层金上","text":"【器物事实与工艺边界】跨馆展签给冠带直径16.8厘米、鹰高6.7厘米和重1211.7克；顶部是一只鹰，脚下半球形厚金片有狼咬羊，冠圈另见马、羊、虎。展签称半球形金片经锤打，轻摇时鹰头和尾能摆动。孩子可以从上至下逐层找动物，再问动的是哪些部位。这一组数据与流传的‘约1.4公斤’有口径差异；没有原始称量表，本站不把两个数字硬说成同一测量。其他金冠常见的焊接、抽丝或镶嵌方法也不能未经本件检测便逐一指定到这顶冠上。","refs":["b35-crown-gallery"]},
-        {"title":"‘胡冠’与‘某位王的冠’不是同一句话","text":"【展签解释与未知】河南博物院将它称作目前国内发现的一套完整‘胡冠’实物；展签又根据地点和动物纹推测，这批遗物可能属于战国时在河南地活动的林胡王或白羊王一支。前者是展览对器类和罕见性的概括，后者是历史归属推断，并非冠上刻了主人姓名。附近有两座受扰墓，更不能在缺少逐件层位与墓志时指定‘这只鹰属于哪位王’。旧卡片把‘唯一匈奴王冠’和‘草原王’当确证，会遮蔽从考古分类到具体个人之间尚缺的证据。","refs":["b35-crown-gallery","b35-crown-report-biblio"]},
-        {"title":"从古墓到展柜，保护史停在哪里","text":"【现代研究与展示】跨馆展陈记录和内蒙古博物院展厅报道说明这套冠饰已入馆、被借展与解释；1972/1973两阶段的发现也让研究者有机会重建地点和时代。但目前可读的公开材料没有它的清洗、加固、活动部件固定、金合金分析或跨馆运输点交的逐件档案。不能因今天展柜里鹰仍可见，就假装知道它从沙土到展柜经历的每一道保护步骤。图片许可与文字证据相互独立，馆方展陈照片不自动成为本站可复用原图；现有AI或待核标识保持原状。","refs":["b35-crown-gallery","b35-crown-museum-news","b35-crown-report-biblio"]}
+      "id": "nm-jgs",
+      "hook": "金冠上的鹰会动，可它真能告诉我们主人是谁吗？",
+      "summary": "内蒙古博物院藏战国鹰顶金冠饰出自鄂尔多斯杭锦旗阿鲁柴登。跨馆展签记冠带直径16.8厘米、鹰高6.7厘米、重1211.7克，并区分1972年发现与1973年考古调查。鹰、狼羊和冠圈马虎图案可辨；具体墓主与逐件修复史仍不能由冠饰直接确定。",
+      "summaryRefs": [
+        "b35-crown-gallery"
       ],
-      "details":[
-        {"title":"1972与1973","text":"先有居民发现，后有文物队调查试掘；附近墓葬已破坏。","refs":["b35-crown-gallery"]},
-        {"title":"1211.7克","text":"这是跨馆展签所报重量；与一些流传的约1.4千克数字未核对称量范围。","refs":["b35-crown-gallery"]},
-        {"title":"会摆动的鹰","text":"展签写轻动时鹰的头尾可摆，不能据此复原古人佩戴的完整动作。","refs":["b35-crown-gallery"]},
-        {"title":"主人没有姓名牌","text":"林胡王或白羊王为地点和纹饰推断，并非明确墓志。","refs":["b35-crown-gallery"]}
+      "sections": [
+        {
+          "title": "先发现一批金银器，后寻找墓葬",
+          "text": "河南博物院的跨馆展签记着：1972年冬，杭锦旗生产队队员在阿鲁柴登以南约3公里的沙窝里发现一批金银器；1973年春，内蒙古文物工作队才到现场调查并试掘。人骨与兽骨提示遗物出自两座古墓，附近的墓葬已遭破坏。一座封闭、毫无扰动的完整王墓，写不出来；1972年居民的发现和1973年考古队的试掘，也不是同一天。田广金、郭素新《考古》1980年的原始报告书目可查，全文这一轮没有到手，冠饰在墓内的层位与原配位置仍待原文核对。",
+          "refs": [
+            "b35-crown-gallery",
+            "b35-crown-report-biblio"
+          ]
+        },
+        {
+          "title": "鹰、狼与羊被放在几层金上",
+          "text": "跨馆展签给的数据是：冠带直径16.8厘米、鹰高6.7厘米，重1211.7克。顶部立着一只鹰，脚下的半球形厚金片上有狼咬羊，冠圈另见马、羊、虎。展签说半球形金片经锤打成形，轻摇时鹰的头与尾能摆动。从上往下逐层找动物，再问动的是哪几个部位，顺序就清楚了。这组数据与流传的“约1.4公斤”口径不一；没有原始称量表，两个数字就都按各自的来源摆着。",
+          "refs": [
+            "b35-crown-gallery"
+          ]
+        },
+        {
+          "title": "“胡冠”与“某位王的冠”不是同一句话",
+          "text": "河南博物院把它称作目前国内发现的一套完整“胡冠”实物；展签又据地点与动物纹推测，这批遗物可能属于战国时在河南地活动的林胡王或白羊王一支。前者是展览对器类与罕见程度的概括，后者是历史归属的推断，冠上并没有刻着主人的名字。附近两座墓都受过扰动，逐件层位与墓志又不可得，这只鹰属于哪位王，还定不下来。",
+          "refs": [
+            "b35-crown-gallery",
+            "b35-crown-report-biblio"
+          ]
+        },
+        {
+          "title": "从古墓到展柜，保护史停在哪里",
+          "text": "跨馆展陈记录与内蒙古博物院展厅报道说明，这套冠饰已经入馆、被借展、被解释；1972与1973两个阶段，也让研究者有机会重建地点和时代。可读的公开材料里没有它的清洗、加固、活动部件固定、金合金分析或跨馆运输点交的逐件档案。金冠今天在展柜里，鹰的头尾仍能摆动，从沙土到展柜的每一道保护步骤却无从一一写出。",
+          "refs": [
+            "b35-crown-gallery",
+            "b35-crown-museum-news",
+            "b35-crown-report-biblio"
+          ]
+        }
       ],
-      "reflection":{"question":"如果鹰冠看起来特别贵重，就能说它一定属于某位单于吗？","answer":"不能。贵重说明身份可能很高，但墓葬受扰且没有冠上姓名或可靠逐件层位；具体主人需要更多直接证据。","refs":["b35-crown-gallery","b35-crown-report-biblio"]},
-      "uncertainty":"1980原始报告全文、两座墓与冠饰的逐件层位、具体墓主、重量异文口径、工艺检测和保护工单均未核；‘完整胡冠’是展陈概括而非某位王的身份凭证。",
-      "correction":"以馆方跨馆展签的1211.7克替代旧简介‘约1.4公斤’的无口径数字，区分居民发现和考古试掘；把‘唯一匈奴王冠’及‘某王所有’降为器类描述和待证解释。",
-      "related":[
-        {"id":"qh-gyq","reason":"比较无主人姓名的战国冠饰与带有八字印文的东汉汉匈奴铜印：两件都牵涉边地身份，却分别是图像推论和可读官号，不可串成同一人的传记。","type":"curatorial-comparison"},
-        {"id":"nx-ljt","reason":"比较实金冠饰和中空青铜鎏金牛的金色从何而来、各自如何随葬；年代与地域不同，不把两种制作技术写成直接传承。","type":"curatorial-comparison"}
+      "details": [
+        {
+          "title": "1972与1973",
+          "text": "先有居民发现，后有文物队调查试掘；附近墓葬已破坏。",
+          "refs": [
+            "b35-crown-gallery"
+          ]
+        },
+        {
+          "title": "1211.7克",
+          "text": "这是跨馆展签所报重量；与流传的约1.4千克未核对称量范围。",
+          "refs": [
+            "b35-crown-gallery"
+          ]
+        },
+        {
+          "title": "会摆动的鹰",
+          "text": "展签写轻动时鹰的头尾可摆，据此复原古人佩戴的完整动作还不行。",
+          "refs": [
+            "b35-crown-gallery"
+          ]
+        },
+        {
+          "title": "主人没有姓名牌",
+          "text": "林胡王或白羊王为地点与纹饰的推断，并非明确墓志。",
+          "refs": [
+            "b35-crown-gallery"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "鹰冠看起来特别贵重，就能说它一定属于某位单于吗？",
+        "answer": "不能。贵重说明墓主身份可能很高，可墓葬受过扰动，冠上又没有姓名，逐件层位也不齐；主人是谁，还要更多直接证据。财富能指方向，指不到人名。",
+        "refs": [
+          "b35-crown-gallery",
+          "b35-crown-report-biblio"
+        ]
+      },
+      "uncertainty": "1980年原始报告全文、两座墓与冠饰的逐件层位、具体墓主、重量异文口径、工艺检测和保护工单都没有核到；“完整胡冠”是展陈概括，不是某位王的身份凭证。",
+      "correction": "2026年10月修订：以馆方跨馆展签的1211.7克替代旧简介“约1.4公斤”的无口径数字，区分居民发现与考古试掘；“唯一匈奴王冠”及“某王所有”降为器类描述与待证解释。",
+      "related": [
+        {
+          "id": "qh-gyq",
+          "reason": "一件冠饰没有主人姓名，一方铜印带着八字印文；都牵涉边地身份，一件靠图像推论，一件有可读官号，串不成同一个人的传记。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "nx-ljt",
+          "reason": "实金冠饰与中空青铜鎏金牛，金色的来路和随葬方式各不相同；年代地域都隔得远，两项技术说不上直接传承。",
+          "type": "curatorial-comparison"
+        }
       ]
     },
     {
-      "id":"fj-kql","hook":"同一座墓出土三只蓝瓶，我们看到的究竟是哪一只？","summary":"福建博物院藏五代孔雀蓝釉陶瓶出自闽国王后刘华墓，瓶有小口、长鼓腹、颈肩四环耳。馆方展览将其归入西亚、中亚关联器型；同墓三瓶后来分藏不同机构，本件的确切窑口、航线和逐件修复记录仍待核。","summaryRefs":["b35-fujian-government","b35-fujian-three"],
-      "sections":[
-        {"title":"先认清：这是福建馆那一只","text":"【馆藏与出土事实】福建省政府对福建博物院2023年‘福航天下’展览的报道，明确把展出的孔雀蓝釉陶瓶说成该馆收藏、出自五代闽国王后刘华墓室。它小口、长鼓腹，颈肩间有四个环耳，形似竖立的橄榄。福建日报后来的报道提到同墓共有三只孔雀蓝釉瓶，分别在福建博物院、国家博物馆和泉州海外交通史博物馆。因此‘刘华墓蓝瓶’不是只有一只；我们只把福建馆本件的描述写进此卡，不能把另外两馆的尺寸、缺损或展览照片挪来。原始《五代闽国刘华墓发掘报告》书目已确认，全文尚未读得，墓室具体摆放位置须待查。","refs":["b35-fujian-government","b35-fujian-three","b35-fujian-report-biblio"]},
-        {"title":"蓝色从哪里来？先别替它指定窑口","text":"【器物观察与研究解释】福建馆展陈文章把本瓶列为目前已见波斯孔雀蓝釉类器物中较大的完整器，并说专家据器型将这一类联系到古代西亚、中亚。颜色、四耳与橄榄形腹部可以让读者感受造型差异；‘波斯’是类型和来源研究名称，不等于这只瓶附着了写明烧造窑址的标签。本轮未见本件胎釉元素、矿物或同位素检测，也没有能区分‘输入成品’与‘本地仿制’的直接技术报告。旧卡片将两种互斥可能写成既定事实，现只陈述研究方向和未知。","refs":["b35-fujian-government","b35-fujian-journal"]},
-        {"title":"相似陶片能画出一条船的路线吗","text":"【比较考古，不是单瓶航海日志】故宫考古研究所与印度喀拉拉邦历史研究委员会的正式论文，记录帕特南、奎隆港同类孔雀蓝釉标本，并与扬州、广州、宁波等中国地点比较。它证明这一类器物出现于多处海港与城址，为讨论晚唐五代海路提供材料；但论文没有追踪福建馆这只瓶的船、装船港或最后一次转运。读者可以在地图上连起发现点，再问：点之间缺的是什么证据？缺的正是可以把‘同类’连成‘同一件实际行程’的装船、航行与入墓记录。","refs":["b35-fujian-journal","b35-fujian-government"]},
-        {"title":"古代瓶和今天的海丝展览","text":"【当代传播与保护边界】2023年福建博物院把这只瓶放进‘福航天下’展，让海上往来成为可看见的主题；2025年的省级‘镇馆之宝’名单再次列出五代波斯孔雀蓝釉陶瓶。这些属于现代策展和命名，不说明古代瓶在墓中原来装了什么，也不提供入馆后的修复步骤。公开报道未给本件洗盐、粘接、釉层加固或环境监测档案，更未赋予本站照片使用权。我们的图像AI/待核或授权披露仍由独立溯源登记控制，不能把展览照片当成自动获准的原件图。","refs":["b35-fujian-government","b35-fujian-three"]}
+      "id": "fj-kql",
+      "hook": "同一座墓出土三只蓝瓶，我们看到的究竟是哪一只？",
+      "summary": "福建博物院藏五代孔雀蓝釉陶瓶出自闽国王后刘华墓，瓶有小口、长鼓腹、颈肩四环耳。馆方展览将其归入西亚、中亚关联器型；同墓三瓶后来分藏不同机构，本件的确切窑口、航线和逐件修复记录仍待核。",
+      "summaryRefs": [
+        "b35-fujian-government",
+        "b35-fujian-three"
       ],
-      "details":[
-        {"title":"四个环耳","text":"颈肩间四耳属于福建馆展览对这只瓶的描述。","refs":["b35-fujian-government"]},
-        {"title":"同墓三件","text":"后来的福建日报报道三瓶分藏三馆；福建馆这只不能与另两只合并。","refs":["b35-fujian-three"]},
-        {"title":"类型不等于窑址","text":"‘波斯孔雀蓝釉类’是比较考古归类；本件的具体窑口与胎釉检测未见。","refs":["b35-fujian-government","b35-fujian-journal"]},
-        {"title":"海路要有航次证据","text":"印度与中国多地点出土同类标本，不能据此替单瓶画出确定航线。","refs":["b35-fujian-journal"]}
+      "sections": [
+        {
+          "title": "先认清：这是福建馆那一只",
+          "text": "福建省政府对福建博物院2023年“福航天下”展览的报道，明确把展出的孔雀蓝釉陶瓶说成该馆收藏、出自五代闽国王后刘华墓室。它小口、长鼓腹，颈肩间有四个环耳，形似竖起的橄榄。后来的福建日报报道提到，同墓共有三只孔雀蓝釉瓶，分别藏在福建博物院、国家博物馆和泉州海外交通史博物馆。这条描述只写福建馆本件；另外两馆的尺寸、缺损和照片，都不能挪到它身上。",
+          "refs": [
+            "b35-fujian-government",
+            "b35-fujian-three",
+            "b35-fujian-report-biblio"
+          ]
+        },
+        {
+          "title": "蓝色从哪里来，先别指定窑口",
+          "text": "福建馆的展陈文章把本瓶列为目前已见波斯孔雀蓝釉类器物中较大的完整器，并说专家据器型把这一类联系到古代西亚、中亚。蓝色、四耳与橄榄形腹部，让造型的差别看得见；“波斯”是类型与来源研究的名称，瓶上并没有贴着写明窑址的标签。本件的胎釉元素、矿物或同位素检测这一轮都没有，能区分“输入成品”与“本地仿制”的技术报告也没有。",
+          "refs": [
+            "b35-fujian-government",
+            "b35-fujian-journal"
+          ]
+        },
+        {
+          "title": "相似陶片能画出一条船的路线吗",
+          "text": "故宫考古研究所与印度喀拉拉邦历史研究委员会的正式论文，记录帕特南、奎隆港的同类孔雀蓝釉标本，并与扬州、广州、宁波等中国地点比较。这一类器物出现在多处海港与城址，晚唐五代的海路讨论因此有了材料；论文并没有追踪福建馆这只瓶的船、装船港或最后一次转运。把地图上的点连起来之后，缺的正是装船、航行与入墓的记录。",
+          "refs": [
+            "b35-fujian-journal",
+            "b35-fujian-government"
+          ]
+        },
+        {
+          "title": "古代瓶和今天的海丝展览",
+          "text": "2023年福建博物院把这只瓶放进“福航天下”展，让海上往来成为看得见的主题；2025年的省级“镇馆之宝”名单又一次列出五代波斯孔雀蓝釉陶瓶。这些是现代策展与命名，古代瓶在墓里原来装了什么，它们解释不了；入馆后的修复步骤，也不在其中。洗盐、粘接、釉层加固、环境监测的档案都没有见到，照片的使用权也没有一并给出，图像溯源仍按独立的登记执行。",
+          "refs": [
+            "b35-fujian-government",
+            "b35-fujian-three"
+          ]
+        }
       ],
-      "reflection":{"question":"三家博物馆都有刘华墓蓝瓶，我们能把一家的尺寸写到另一家的照片下面吗？","answer":"不能。相同墓葬和相似釉色不等于同一件；要靠逐件编号、尺寸、器形和藏馆记录比对。","refs":["b35-fujian-government","b35-fujian-three"]},
-      "uncertainty":"《文物》1975年刘华墓原始报告全文、福建馆本件的原位/尺寸/藏品编号、胎釉成分、确切窑口与航线、原盛物及逐件修复工单未核得；三馆同墓蓝瓶不可混件。",
-      "correction":"旧卡片‘波斯输入或仿制’由二选一推论误写为已证路线；改为馆方类型研究与实物出土事实分层，并明确同墓三瓶分藏。",
-      "related":[
-        {"id":"hain-hgj","reason":"比较刘华墓的随葬蓝瓶与华光礁沉船的成组出水瓷器：同可讨论海路，但墓葬与船货的出土语境不同，不能据两处遗物认定同一航次。","type":"curatorial-comparison"},
-        {"id":"fj-jyz","reason":"比较福建馆同藏的孔雀蓝类陶瓶与宋代建窑黑釉兔毫盏：关注时代、釉色形成和使用语境，不把两种窑业说成直接技术传承。","type":"curatorial-comparison"}
+      "details": [
+        {
+          "title": "四个环耳",
+          "text": "颈肩间四耳属于福建馆展览对这只瓶的描述。",
+          "refs": [
+            "b35-fujian-government"
+          ]
+        },
+        {
+          "title": "同墓三件",
+          "text": "后来的福建日报报道三瓶分藏三馆；福建馆这只不能与另两只合并。",
+          "refs": [
+            "b35-fujian-three"
+          ]
+        },
+        {
+          "title": "类型不等于窑址",
+          "text": "“波斯孔雀蓝釉类”是比较考古的归类；本件窑口与胎釉检测未见。",
+          "refs": [
+            "b35-fujian-government",
+            "b35-fujian-journal"
+          ]
+        },
+        {
+          "title": "海路要有航次证据",
+          "text": "印度与中国多地点出土同类标本，单瓶的确定航线仍画不出来。",
+          "refs": [
+            "b35-fujian-journal"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "三家博物馆都有刘华墓蓝瓶，能把一家的尺寸写到另一家的照片下面吗？",
+        "answer": "不能。相同墓葬和相似釉色不等于同一件；要靠逐件编号、尺寸、器形与藏馆记录比对。三只瓶同出一墓，是三份各自的档案。",
+        "refs": [
+          "b35-fujian-government",
+          "b35-fujian-three"
+        ]
+      },
+      "uncertainty": "《文物》1975年刘华墓原始报告全文、福建馆本件的原位与尺寸、藏品编号、胎釉成分、确切窑口与航线、原盛物及逐件修复工单都没有核到；三馆同墓蓝瓶不可混件。",
+      "correction": "2026年10月修订：“波斯输入或仿制”由二选一的推论误写成已证路线，现改为馆方类型研究与实物出土事实分层，并明确同墓三瓶分藏三馆。",
+      "related": [
+        {
+          "id": "hain-hgj",
+          "reason": "随葬的蓝瓶与沉船里成组出水的瓷器，都通向海路；墓葬与船货的出土语境不同，同一航次证不出来。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "fj-jyz",
+          "reason": "同属福建馆，一只关注时代、釉色形成与使用语境，一只看窑变与茶事；两种窑业之间没有直接的技术传承。",
+          "type": "curatorial-comparison"
+        }
       ]
     },
     {
-      "id":"sd-acy","hook":"两把人面铜钺同墓出土，哪把才刻着‘亚醜’？","summary":"山东博物馆藏商代亚醜钺出自1965年青州苏埠屯一号大墓，长32.7厘米、刃宽34.5厘米、重4.6千克，正背有‘亚醜’铭。同墓另一把相似的人面钺现藏国家博物馆，两件各有出土记录；‘亚醜’的族属和墓主身份仍属研究问题。","summaryRefs":["b35-shandong-object","b35-shandong-weight","b35-shandong-study","b35-shandong-distinction"],
-      "sections":[
-        {"title":"北墓道口的两把钺","text":"【发掘报告转引】王恩田发表于正式论文集的研究，依据山东省博物馆《山东益都苏埠屯奴隶殉葬墓》转述：1965年山东馆在益都（今青州）苏埠屯清理商代一号大墓，它有四条墓道，北墓道口两侧各出土一把大型透雕人面铜钺。原1972年《文物》发掘论文书目可核，但本轮未取得原刊全文，因此细小层位和编号仍以转引标示。山东博物馆馆长另确认本馆亚醜钺出自该墓；2026年官方展讯同时明确另一把名为‘镂空人面纹钺’，现藏国博。读故事第一步不是猜人脸笑没笑，而是给两把钺各放一个正确的藏馆标签。","refs":["b35-shandong-study","b35-shandong-object","b35-shandong-distinction"]},
-        {"title":"人面与四个字的位置","text":"【山东件器物事实】山东馆副馆长公开介绍本件长32.7、刃宽34.5厘米、正背有‘亚醜’铭文；另有馆长受访检索片段给重4.6千克。王恩田研究也说两把中有一件正反合计四个亚醜族徽。我们可以比较人面上张开的口、两侧铭文与钺刃的关系，却不能把国博那件无本件铭文的尺寸和图像说明借过来。本件为青铜铸物，透雕造型并不能直接透露范块数量、合金配比或铸后磨刃程序；无本件检测前，制造细节仍是未知。","refs":["b35-shandong-object","b35-shandong-weight","b35-shandong-study","b35-shandong-distinction"]},
-        {"title":"‘亚醜’是姓名，还是族徽？","text":"【古文字研究解释】两把钺及同墓铜器上的亚醜铭文，使研究者能围绕一组金文讨论墓地与地方社会。王恩田论文把‘亚醜’解释为族徽，并进一步提出与文献里的九侯、鬼侯关联；其后一步跨越文字、年代和地域，是学术论证而非墓志自述。国博的逐件说明又谨慎把此地可能属于‘亚醜’族和薄姑氏联系列为推测。本站只能说铭文可见、族徽说有研究依据，不能给墓主安上某位传奇人物姓名，也不能从钺的威严形象直接写出某场战争。","refs":["b35-shandong-study","b35-shandong-object"]},
-        {"title":"分藏、再相见与保护未知","text":"【现代馆藏与展示】一把留山东、一把入国博。文化和旅游部2026年转载的国博展讯宣布两件将在辽宁省博物馆同展，让观众有机会直接对照同墓而不同藏的器物。这是现代借展与研究传播史，并非两件本来是一件器物的‘修复合体’。本轮来源未提供山东这把钺去污、加固、裂隙补配或借展点交的逐件工单；旧文把它称为‘微笑杀手’是现代传播修辞，不能替代古代用途和情绪。官方新闻配图也不等于本站已取得图像授权，原图片溯源状态不动。","refs":["b35-shandong-distinction","b35-shandong-object","b35-shandong-study"]}
+      "id": "sd-acy",
+      "hook": "两把人面铜钺同墓出土，哪把才刻着‘亚醜’？",
+      "summary": "山东博物馆藏商代亚醜钺出自1965年青州苏埠屯一号大墓，长32.7厘米、刃宽34.5厘米、重4.6千克，正背有‘亚醜’铭。同墓另一把相似的人面钺现藏国家博物馆，两件各有出土记录；‘亚醜’的族属和墓主身份仍属研究问题。",
+      "summaryRefs": [
+        "b35-shandong-object",
+        "b35-shandong-weight",
+        "b35-shandong-study",
+        "b35-shandong-distinction"
       ],
-      "details":[
-        {"title":"两把分藏","text":"山东馆亚醜钺与国博镂空人面纹钺是同墓两件，不是同一器的两张照片。","refs":["b35-shandong-distinction"]},
-        {"title":"32.7厘米","text":"山东馆副馆长给长32.7、刃宽34.5厘米；4.6千克见馆长受访检索片段。","refs":["b35-shandong-object","b35-shandong-weight"]},
-        {"title":"四处亚醜","text":"馆长说正背口部两侧各有铭，研究论文称正反合计四个族徽。","refs":["b35-shandong-object","b35-shandong-study"]},
-        {"title":"北墓道口","text":"正式研究转述原发掘论文称两把钺在北墓道口两侧；原刊全文待核。","refs":["b35-shandong-study"]}
+      "sections": [
+        {
+          "title": "北墓道口的两把钺",
+          "text": "王恩田发表于正式论文集的研究，依据山东省博物馆《山东益都苏埠屯奴隶殉葬墓》转述：1965年山东馆在益都（今青州）苏埠屯清理商代一号大墓，墓有四条墓道，北墓道口两侧各出土一把大型透雕人面铜钺。原1972年《文物》发掘论文的书目可核，原刊全文这一轮没有取得，细小层位与编号只能按转引标注。第一步可以做的，是给两把钺各放一个正确的藏馆标签。",
+          "refs": [
+            "b35-shandong-study",
+            "b35-shandong-object",
+            "b35-shandong-distinction"
+          ]
+        },
+        {
+          "title": "人面与四个字的位置",
+          "text": "山东馆副馆长公开介绍，本件长32.7、刃宽34.5厘米，正背都有“亚醜”铭文；另有一位馆长受访的检索片段给出重4.6千克。王恩田的研究还说，两把中有一件正反合计四个亚醜族徽。人面上张开的口、两侧的铭文与钺刃之间的关系，可以对着看；国博那件的尺寸与图像说明没有本件的铭文，借不过来。本件是青铜铸物，透雕造型透露不出范块数量、合金配比或铸后磨刃的程序。",
+          "refs": [
+            "b35-shandong-object",
+            "b35-shandong-weight",
+            "b35-shandong-study",
+            "b35-shandong-distinction"
+          ]
+        },
+        {
+          "title": "“亚醜”是姓名，还是族徽？",
+          "text": "两把钺与同墓铜器上的亚醜铭文，让研究者得以围绕一组金文讨论墓地与地方社会。王恩田把“亚醜”解释为族徽，又进一步与文献里的九侯、鬼侯相联；后一步跨过文字、年代和地域，属于学术论证，墓志并没有这样说。国博的逐件说明谨慎地把此地可能属于“亚醜”族与薄姑氏的联系列为推测。铭文可见、族徽说有研究依据，墓主姓名仍是另一件事。",
+          "refs": [
+            "b35-shandong-study",
+            "b35-shandong-object"
+          ]
+        },
+        {
+          "title": "分藏、再相见与保护未知",
+          "text": "一把留在山东，一把进入国博。文化和旅游部2026年转载的国博展讯宣布，两件将在辽宁省博物馆同展，观众有机会直接对照同墓而不同藏的器物。这是现代借展与研究的传播史，两件当初并没有合成过一件再分开。山东这把钺的去污、加固、裂隙补配或借展点交，逐件工单都没有见；旧文称它“微笑杀手”，那是一个现代修辞，古代用途与情绪都替不了。",
+          "refs": [
+            "b35-shandong-distinction",
+            "b35-shandong-object",
+            "b35-shandong-study"
+          ]
+        }
       ],
-      "reflection":{"question":"两把钺长得相似、出自同一座墓，讲解牌能互换吗？","answer":"不能。山东件有自己的尺寸和铭文位置，另一件由国博收藏；必须逐件核名、量测与铭文，不能凭相似外形合并身份。","refs":["b35-shandong-object","b35-shandong-distinction"]},
-      "uncertainty":"山东馆1972原始报告全文、两钺逐件发掘编号、山东件的铸范/成分与保护档案、亚醜与某一文献人物的对应、墓主姓名均未核定；借展展讯不是修复报告。",
-      "correction":"旧简介保留出土地和人面/亚醜铭，但删除‘微笑的青铜杀手’作古代事实和未经证实的族属、军权定论；特别注明同墓国博件与山东件不可互相借证。",
-      "related":[
-        {"id":"hun-dhd","reason":"比较商代大禾方鼎四面人像与亚醜钺透雕人面：图像都引出身份问题，铭文强度与出土记录却不同，不能把两件视为同一族群。","type":"curatorial-comparison"},
-        {"id":"hn-fhxz","reason":"比较亚醜钺的群体徽记解释与妇好鸮尊的‘妇好’铭文：都见商代文字，却分别支持不同层级的身份推断，不因同朝就认作同一人所有。","type":"curatorial-comparison"}
+      "details": [
+        {
+          "title": "两把分藏",
+          "text": "山东馆亚醜钺与国博镂空人面纹钺是同墓两件，并非同一器的两张照片。",
+          "refs": [
+            "b35-shandong-distinction"
+          ]
+        },
+        {
+          "title": "32.7厘米",
+          "text": "山东馆副馆长给长32.7、刃宽34.5厘米；4.6千克见馆长受访检索片段。",
+          "refs": [
+            "b35-shandong-object",
+            "b35-shandong-weight"
+          ]
+        },
+        {
+          "title": "四处亚醜",
+          "text": "馆长说正背口部两侧各有铭，研究论文称正反合计四个族徽。",
+          "refs": [
+            "b35-shandong-object",
+            "b35-shandong-study"
+          ]
+        },
+        {
+          "title": "北墓道口",
+          "text": "正式研究转述原发掘论文称两把钺在北墓道口两侧；原刊全文待核。",
+          "refs": [
+            "b35-shandong-study"
+          ]
+        }
+      ],
+      "reflection": {
+        "question": "两把钺长得相似、出自同一座墓，讲解牌能互换吗？",
+        "answer": "不能。山东件有自己的尺寸和铭文位置，另一件由国博收藏；必须逐件核名、量测与铭文，凭相似外形合并身份，只会把两件混成一件。",
+        "refs": [
+          "b35-shandong-object",
+          "b35-shandong-distinction"
+        ]
+      },
+      "uncertainty": "山东馆1972年原始报告全文、两钺逐件发掘编号、山东件的铸范与成分、保护档案、亚醜与某一文献人物的对应、墓主姓名都没有核定；借展展讯也不是修复报告。",
+      "correction": "2026年10月修订：旧简介保留出土地与人面、亚醜铭，删去“微笑的青铜杀手”作古代事实以及未经证实的族属与军权定论；同墓的国博件与山东件不可互相借证。",
+      "related": [
+        {
+          "id": "hun-dhd",
+          "reason": "一件四面人像，一件透雕人面，图像都引出身份问题；铭文强度与出土记录各不相同，两件也混不成同一族群。",
+          "type": "curatorial-comparison"
+        },
+        {
+          "id": "hn-fhxz",
+          "reason": "一件是群体徽记的解释，一件有“妇好”可读；商代文字都见到了，它们支持的却是不同层级的身份推断。",
+          "type": "curatorial-comparison"
+        }
       ]
     }
   ]
