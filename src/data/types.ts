@@ -34,7 +34,6 @@ export interface Museum {
   province: string;     // 与 provinces.ts 的 name 一致
   city: string;
   coord: [number, number]; // [经度, 纬度]
-  intro: string;        // 博物馆简介
   artifacts: Artifact[];
 }
 

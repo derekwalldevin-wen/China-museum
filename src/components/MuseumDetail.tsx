@@ -7,6 +7,7 @@ import { storyTeaserHooks } from '../data/story-teaser-hooks';
 import { warmArtifactDetailImage } from '../data/artifact-detail-prefetch';
 import { useIdleMuseumImageMetadata } from '../hooks/useIdleMuseumImageMetadata';
 import { artifactAttribution } from '../data/artifact-attribution';
+import { museumIntros } from '../data/museum-intros';
 
 interface Props {
   suspended?: boolean;
@@ -167,7 +168,7 @@ export default function MuseumDetail({
 
         {/* 简介 */}
         <div className="border-b border-[#efe6cf]/10 px-4 md:px-6 py-3 md:py-4">
-        <p className="max-w-3xl text-[12px] md:text-[13px] leading-relaxed text-[#efe6cf]/65 max-md:line-clamp-2">{museum.intro}</p>
+        <p className="max-w-3xl text-[12px] md:text-[13px] leading-relaxed text-[#efe6cf]/65 max-md:line-clamp-2">{museumIntros[museum.id] ?? ''}</p>
         {/* 手机端同省切换 */}
         <div className="mt-2 flex md:hidden items-center gap-2 font-mono text-[11px]">
           <button onClick={() => onNavigate(prev)} className="border border-[#efe6cf]/25 px-2 py-1 text-[#efe6cf]/60">← 上一馆</button>

@@ -25,7 +25,12 @@ function fieldScore(value: string, query: string, weight: number) {
   return weight + 20;
 }
 
-export function searchMuseumIndex(museums: MuseumIndex[], value: string, storyCorpus?: Record<string, string> | null) {
+export function searchMuseumIndex(
+  museums: MuseumIndex[],
+  value: string,
+  storyCorpus?: Record<string, string> | null,
+  museumIntros: Record<string, string> = {},
+) {
   const query = normalizeSearch(value.trim());
   if (!query) return null;
   const museumResults: MuseumSearchResult[] = museums
@@ -36,7 +41,7 @@ export function searchMuseumIndex(museums: MuseumIndex[], value: string, storyCo
         fieldScore(museum.name, query, 320),
         fieldScore(museum.province, query, 180),
         fieldScore(museum.city, query, 160),
-        fieldScore(museum.intro, query, 20),
+        fieldScore(museumIntros[museum.id] ?? '', query, 20),
       ),
     }))
     .filter(result => result.score > 0)

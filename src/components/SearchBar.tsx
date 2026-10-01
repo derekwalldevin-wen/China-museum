@@ -23,6 +23,8 @@ export default function SearchBar({ museums, onPickMuseum, onPickArtifact }: Pro
   const [storyCorpus, setStoryCorpus] = useState<Record<string, string> | null>(null);
   const [storyCorpusError, setStoryCorpusError] = useState(false);
   const [storyCorpusAttempt, setStoryCorpusAttempt] = useState(0);
+  // 博物馆简介不随首屏加载：第一次输入时才取，取得后用于给简介字段加权。
+  const [museumIntroIndex, setMuseumIntroIndex] = useState<Record<string, string> | null>(null);
 
   useEffect(() => {
     if (!deferredQuery.trim() || storyCorpus || storyCorpusError) return;
@@ -35,7 +37,19 @@ export default function SearchBar({ museums, onPickMuseum, onPickArtifact }: Pro
     return () => { active = false; };
   }, [deferredQuery, storyCorpus, storyCorpusAttempt, storyCorpusError]);
 
-  const results = useMemo(() => searchMuseumIndex(museums, deferredQuery, storyCorpus), [deferredQuery, museums, storyCorpus]);
+  useEffect(() => {
+    if (!deferredQuery.trim() || museumIntroIndex) return;
+    let active = true;
+    import('../data/museum-intros').then(module => {
+      if (active) setMuseumIntroIndex(module.museumIntros);
+    }).catch(() => { /* 取不到简介时仍有名称、省份与城市参与检索 */ });
+    return () => { active = false; };
+  }, [deferredQuery, museumIntroIndex]);
+
+  const results = useMemo(
+    () => searchMuseumIndex(museums, deferredQuery, storyCorpus, museumIntroIndex ?? {}),
+    [deferredQuery, museums, storyCorpus, museumIntroIndex],
+  );
 
   const flatResults: SearchResult[] = results
     ? [...results.museums, ...results.artifacts]

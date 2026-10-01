@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import type { MuseumIndex, ProvinceMeta } from '../data/types';
 import { resolveArtifactCardImage } from '../data/images';
+import { museumIntros } from '../data/museum-intros';
 import ArtifactArt from './ArtifactArt';
 import ResponsiveArtifactImage from './ResponsiveArtifactImage';
 
@@ -80,7 +81,7 @@ export default function ProvincePanel({ province, museums, onPickMuseum, onClose
                   <span className="font-mono text-[10px] text-[#b49a63]">{String(i + 1).padStart(2, '0')}</span>
                   <span className="font-serif text-[15px] text-[#efe6cf] group-hover:text-white truncate">{m.name}</span>
                 </div>
-                <div className="mt-1 text-[11px] text-[#efe6cf]/45 line-clamp-1">{m.intro}</div>
+                <div className="mt-1 text-[11px] text-[#efe6cf]/45 line-clamp-1">{museumIntros[m.id] ?? ''}</div>
                 <div className="mt-1 font-mono text-[10px] text-[#efe6cf]/40">
                   {m.city} · 镇馆之宝 {m.artifacts.length} 件 →
                 </div>

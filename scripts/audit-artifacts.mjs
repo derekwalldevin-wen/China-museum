@@ -207,9 +207,10 @@ function variantMetadataIssues(variant, role) {
   return issues;
 }
 
-const [museums, provinces, imageMap] = await Promise.all([
+const [museums, provinces, museumIntros, imageMap] = await Promise.all([
   loadTypedData(paths.museums, 'museums'),
   loadTypedData(paths.provinces, 'provinces'),
+  loadTypedData(path.join(root, 'src', 'data', 'museum-intros.ts'), 'museumIntros'),
   readFile(paths.imageMap, 'utf8').then(JSON.parse),
 ]);
 
@@ -380,9 +381,11 @@ const rows = artifacts.map((artifact) => {
 
 const museumIssues = museums.flatMap((museum) => {
   const issues = [];
-  for (const field of ['id', 'name', 'province', 'city', 'intro']) {
+  for (const field of ['id', 'name', 'province', 'city']) {
     if (!String(museum[field] ?? '').trim()) issues.push(`缺少字段:${field}`);
   }
+  // 简介单独存放在懒加载模块 museum-intros.ts，这里按 id 核对是否齐备。
+  if (!String(museumIntros[museum.id] ?? '').trim()) issues.push('缺少字段:intro');
   if (museumIdDuplicates.has(museum.id)) issues.push('博物馆ID重复');
   if (!provinceNames.has(museum.province)) issues.push('省份未在provinces.ts登记');
   if (!Array.isArray(museum.coord) || museum.coord.length !== 2 || museum.coord.some((value) => !Number.isFinite(value))) {

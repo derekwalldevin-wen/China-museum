@@ -88,7 +88,7 @@ test('140 real collection IDs, six curated trails and discoverable standalone st
   const stops = data.trails.flatMap(t => t.ids);
   assert.equal(stops.length, 20); assert.equal(new Set(stops).size, 20);
   assert.ok(stops.every(id => ids.includes(id)));
-  assert.deepEqual(ids.filter(id => !stops.includes(id)).sort(), [...batch3.stories, ...batch4.stories, ...batch5.stories, ...batch6.stories, ...batch7.stories, ...batch8.stories, ...batch9.stories, ...batch10.stories, ...batch11.stories, ...batch12.stories, ...batch13.stories, ...batch14.stories, ...batch15.stories, ...batch16.stories, ...batch18.stories, ...batch19.stories, ...batch20.stories, ...batch21.stories, ...batch22.stories, ...batch23.stories, ...batch24.stories, ...batch25.stories, ...batch26.stories, ...batch27.stories, ...batch28.stories, ...batch29.stories, ...batch31.stories, ...batch32.stories, ...batch34.stories, ...batch35.stories, ...batch36.stories, ...batch37.stories, ...batch38.stories, ...batch39.stories, ...batch40.stories, ...batch42.stories, ...batch43.stories, ...batch44.stories, ...batch45.stories, ...batch46.stories, ...batch47.stories, ...batch48.stories, ...batch49.stories, ...batch50.stories, ...batch51.stories, ...batch52.stories, ...batch53.stories, ...batch54.stories, ...batch55.stories, ...batch56.stories, ...batch57.stories, ...batch58.stories, ...batch59.stories, ...batch60.stories, ...batch61.stories, ...batch62.stories, ...batch63.stories, ...batch64.stories, ...batch65.stories, ...batch66.stories, ...batch67.stories, ...batch68.stories, ...batch69.stories, ...batch70.stories].map(s => s.id).sort());
+  assert.deepEqual(ids.filter(id => !stops.includes(id)).sort(), [...batch3.stories, ...batch4.stories, ...batch5.stories, ...batch6.stories, ...batch7.stories, ...batch8.stories, ...batch9.stories, ...batch10.stories, ...batch11.stories, ...batch12.stories, ...batch13.stories, ...batch14.stories, ...batch15.stories, ...batch16.stories, ...batch17.stories, ...batch18.stories, ...batch19.stories, ...batch20.stories, ...batch21.stories, ...batch22.stories, ...batch23.stories, ...batch24.stories, ...batch25.stories, ...batch26.stories, ...batch27.stories, ...batch28.stories, ...batch29.stories, ...batch31.stories, ...batch32.stories, ...batch34.stories, ...batch35.stories, ...batch36.stories, ...batch37.stories, ...batch38.stories, ...batch39.stories, ...batch40.stories, ...batch42.stories, ...batch43.stories, ...batch44.stories, ...batch45.stories, ...batch46.stories, ...batch47.stories, ...batch48.stories, ...batch49.stories, ...batch50.stories, ...batch51.stories, ...batch52.stories, ...batch53.stories, ...batch54.stories, ...batch55.stories, ...batch56.stories, ...batch57.stories, ...batch58.stories, ...batch59.stories, ...batch60.stories, ...batch61.stories, ...batch62.stories, ...batch63.stories, ...batch64.stories, ...batch65.stories, ...batch66.stories, ...batch67.stories, ...batch68.stories, ...batch69.stories, ...batch70.stories].map(s => s.id).sort());
   for (const trail of data.trails) {
     assert.ok(trail.ids.length >= 3 && trail.ids.length <= 4);
     assert.ok(trail.intro && trail.takeaway && trail.question);
@@ -422,7 +422,7 @@ test('related links always resolve and explain a curated comparison, not invente
 });
 test('new standalone stories preserve findspots, uncertainty and comparison boundaries', () => {
   const byId = id => data.stories.find(story => story.id === id);
-  assert.equal(batch3.stories.length, 7);
+  assert.equal(batch3.stories.length, 5);
   assert.match(byId('gg-jgb').sections[1].text, /这一类工艺的通行说明.*不是这只杯自己的烧窑日志/);
   assert.match(byId('gg-ryzl').uncertainty, /在馆方两个页面间存在异数/);
   assert.match(byId('gb-gyts').sections[2].text, /1978年/);
@@ -657,7 +657,7 @@ test('five priority objects keep newly checked source depth and interpretive bou
 });
 test('seventh batch corrects four collection myths and keeps conservation evidence scoped', () => {
   const byId = id => data.stories.find(story => story.id === id);
-  assert.equal(batch7.stories.length, 4);
+  assert.equal(batch7.stories.length, 2);
   assert.equal(batch7.sources.length, 10);
   assert.match(byId('hub-ywj').summary, /望山一号楚墓/);
   assert.doesNotMatch(byId('hub-ywj').summary, /二十余层纸/);
