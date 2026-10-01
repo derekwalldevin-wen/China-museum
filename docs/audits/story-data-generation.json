@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-01T10:17:19.784Z",
+ "generatedAt": "2026-10-01T10:32:34.224Z",
  "inputs": [
   {
    "path": "src/data/stories.json",
@@ -263,8 +263,8 @@
   },
   {
    "path": "src/data/stories-batch56.json",
-   "bytes": 21102,
-   "sha256": "8b7f45ff239d60d86bd347cb7629e04a99832cdc4392a7709f1ef413169f5a67"
+   "bytes": 16029,
+   "sha256": "3508f7dd7c52039e2bf007d9d9897421cceeea54312413399dec975adfcb3dd9"
   },
   {
    "path": "src/data/stories-batch57.json",
@@ -303,8 +303,8 @@
   },
   {
    "path": "src/data/stories-batch64.json",
-   "bytes": 16666,
-   "sha256": "02824462654eadfd23c39eab8a4e7412a800f6cfe56ae2d1bedf3830ccedd565"
+   "bytes": 13103,
+   "sha256": "286839049ad5fe59fe2a3a95a09831db8aebd7d95438e4b05bf6fb6d5d7beed5"
   },
   {
    "path": "src/data/stories-batch65.json",
@@ -347,7 +347,7 @@
  "payloads": {
   "directory": "src/data/story-payloads",
   "count": 218,
-  "totalBytes": 1578733,
+  "totalBytes": 1568827,
   "maxBytes": 16097,
   "files": [
    {
@@ -1585,22 +1585,22 @@
    {
     "id": "yx-yz",
     "path": "src/data/story-payloads/yx-yz.json",
-    "bytes": 10492,
-    "sha256": "498ae16ccda106aad30002b7f16001d0f410efd3686977b7c0b6fd32040e53b0",
+    "bytes": 8366,
+    "sha256": "38125104f0193060282b98bb15a09ef6ddca440a6a543450ffd96d347bd679d7",
     "sources": 2
    },
    {
     "id": "yx-sxd",
     "path": "src/data/story-payloads/yx-sxd.json",
-    "bytes": 8034,
-    "sha256": "3359c4655e11038c6f2eaf65160c80839202a2f47f2340e1d63ab5c90125c7fb",
+    "bytes": 5967,
+    "sha256": "0d58554583273b19425bf65169cc3b3d0eae6c8f024ae2578c27791931be0b50",
     "sources": 1
    },
    {
     "id": "yx-jg",
     "path": "src/data/story-payloads/yx-jg.json",
-    "bytes": 8375,
-    "sha256": "f941ac550ddb91d48dc28f57bb12123582fcef84a3df0e3c6cf163c9ed5e32b8",
+    "bytes": 6225,
+    "sha256": "075e72465dacb2d9376527c78f2552b05a57eb2916e8e771f2a379a703bf57a3",
     "sources": 1
    },
    {
@@ -1746,15 +1746,15 @@
    {
     "id": "xa-snt",
     "path": "src/data/story-payloads/xa-snt.json",
-    "bytes": 7723,
-    "sha256": "d714831dbd014474e8ef862b666edaa771466b0471b7a22d6d77e2b8e2cd211c",
+    "bytes": 6367,
+    "sha256": "0a88366bb50a579f58b7185421b303751e0492749e5307e7c29bf755fe8f3d6a",
     "sources": 1
    },
    {
     "id": "hlj-syj",
     "path": "src/data/story-payloads/hlj-syj.json",
-    "bytes": 7827,
-    "sha256": "796111d323d16c298ef793545a5f4989904fe8c28f377ff4701b22473a3204a6",
+    "bytes": 5620,
+    "sha256": "a649034f95166419bb5d5f9c44bf222d10c431fe3b822da47ab2032654fe5a3a",
     "sources": 1
    },
    {

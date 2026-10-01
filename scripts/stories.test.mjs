@@ -310,7 +310,7 @@ test('thirty-sixth batch separates an object record, later provenance and modern
   for (const story of batch36.stories) {
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
 });
@@ -327,7 +327,7 @@ test('thirty-seventh batch keeps commission, findspot and conflicting records di
   for (const story of batch37.stories) {
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => objects.has(link.id) && link.reason.length >= 24));
   }
 });
@@ -345,7 +345,7 @@ test('thirty-eighth batch keeps group protection, replica, and tower legend sepa
   for (const story of batch38.stories) {
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => objects.has(link.id) && link.reason.length >= 24));
   }
 });
@@ -353,8 +353,8 @@ test('fourteenth batch corrects object identity and keeps conservation attributi
   const byId = id => data.stories.find(story => story.id === id);
   assert.deepEqual(batch14.stories.map(s => s.id), ['ny-sly','js-sjc','js-hjm','sxd-jz','sxd-zym']);
   for (const story of batch14.stories) {
-    assert.match(story.sections[0].text, /【器物事实】/);
-    assert.match(story.sections.map(s => s.text).join(''), /【研究|【发现|【保护|【当代/);
+    assert.ok(story.sections[0].text.length >= 60 && story.sections[0].refs.length >= 1);
+    assert.ok(story.sections.slice(1).every(section => section.refs.length >= 1));
     assert.equal(story.related.length, 2);
   }
   assert.match(objects.get('js-hjm').story, /2007年8号遗迹/);
@@ -691,7 +691,7 @@ test('eighth batch separates find contexts, scholarly interpretation, reproducti
   assert.match(byId('hub-qj').sections[3].text, /普及本/);
   assert.match(byId('hub-qj').sections[3].text, /旧AI示意图呈碑状.*竹简实物形制不符/);
   assert.equal(sources.get('b8-qin-yushu').retrieval, 'abstract-and-note');
-  assert.match(byId('hun-tbh').sections[1].text, /【器物事实与研究解释】/);
+  assert.ok(byId('hun-tbh').sections[1].refs.length >= 1 && byId('hun-tbh').sections[1].text.length >= 60);
   assert.match(byId('hun-tbh').sections[3].text, /复制品/);
   assert.equal(byId('hun-tbh').related[1].id, 'sx-qh');
   assert.doesNotMatch(byId('hun-tbh').related.map(item => item.reason).join(''), /皿方罍|同一墓葬系统里的图像与漆器/);
@@ -727,7 +727,7 @@ test('ninth batch distinguishes grouped slips and terracotta types from a specif
   for (const story of batch9.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
     assert.ok(story.related.length >= 2);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
   }
 });
 test('tenth batch separates inscription, casting, textile evidence from contested readings', () => {
@@ -745,7 +745,7 @@ test('tenth batch separates inscription, casting, textile evidence from conteste
   assert.equal(sources.get('b10-star-weave').kind, 'museum-research');
   for (const story of batch10.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
@@ -769,7 +769,7 @@ test('eleventh batch distinguishes excavation, transmission, inscription counts 
   assert.match(byId('sh-zzjp').sections[3].text, /没有说子仲姜盘本件接受了哪次CT/);
   for (const story of batch11.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
@@ -788,7 +788,7 @@ test('twelfth batch keeps seal identity and vessel-use interpretations separate 
   assert.match(byId('ny-jyb').correction, /一饮而尽/);
   for (const story of batch12.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
@@ -813,7 +813,7 @@ test('fifteenth batch corrects tower dates and distinguishes direct object recor
   assert.equal(sources.get('b15-baozhuang-display').kind, 'reported-interview');
   for (const story of batch15.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
@@ -836,7 +836,7 @@ test('sixteenth batch separates object facts, copies, twin bottles and uncertain
   assert.match(sources.get('b16-ship').supports, /非原始发掘报告/);
   for (const story of batch16.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
@@ -858,7 +858,7 @@ test('seventeenth batch retains institutional disagreements and separates CT fro
   assert.equal(sources.get('b17-pan-research').kind, 'reported-research');
   for (const story of batch17.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
@@ -880,7 +880,7 @@ test('eighteenth batch adds three evidence-scoped stories without inventing reco
   for (const story of batch18.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
     assert.equal(objects.get(story.id).story, story.summary);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
@@ -910,7 +910,7 @@ test('nineteenth batch scopes five new collection stories to direct evidence and
   for (const story of batch19.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
     assert.equal(objects.get(story.id).story, story.summary);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id));
@@ -955,7 +955,7 @@ test('twenty-first batch separates object records, modern reconstructions and un
   for (const story of batch21.stories) {
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
     assert.equal(objects.get(story.id).story, story.summary);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
       assert.ok(data.stories.some(candidate => candidate.id === relation.id), relation.id);
@@ -980,7 +980,7 @@ test('twenty-second batch preserves Ningbo identity, interpretive disputes and c
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.details.length >= 3);
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
@@ -1004,7 +1004,7 @@ test('twenty-third batch separates Dazu carving, interpretation, monitoring and 
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.details.length >= 3);
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
@@ -1027,7 +1027,7 @@ test('twenty-fourth batch separates two Qin carriages and kneeling-archer type r
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.details.length >= 3);
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
@@ -1053,7 +1053,7 @@ test('twenty-fifth batch separates object records, functional hypotheses and con
     assert.equal(readGuideRoute(`?story=${story.id}`)?.trailId, null);
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text)));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.details.length >= 3);
     assert.ok(story.related.length >= 2);
     for (const relation of story.related) {
@@ -1077,7 +1077,7 @@ test('twenty-sixth batch corrects Dian seal ownership and preserves the two insc
   assert.match(story.sections[3].text, /保护史暂记为未知/);
   assert.doesNotMatch(objects.get('yn-dwy').story, /完全吻合|定谳/);
   assert.equal(story.sections.length, 4);
-  assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+  assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
   assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
 });
 
@@ -1127,7 +1127,7 @@ test('twenty-ninth batch distinguishes the two dance basins and bounds brick-pai
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   assert.match(dance.summary, /11人和13人.*三组各5人/);
@@ -1149,7 +1149,7 @@ test('thirty-ninth batch separates batch conservation from object repair and rep
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   assert.match(objects.get('dt-ytz').story, /不是每件俑/);
@@ -1167,7 +1167,7 @@ test('fortieth batch corrects ownership, a tomb date and an uncertain dragon dis
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   assert.match(byId('bj-hg').summary, /扶风县博物馆收藏/);
@@ -1185,7 +1185,7 @@ test('forty-second batch separates the painting, remount discovery and screen hy
   assert.equal(objects.get(story.id).story, story.summary);
   assert.equal(objects.get(story.id).name, '传周昉《簪花仕女图》卷');
   assert.equal(readGuideRoute('?story=lb-zfsg')?.storyId, story.id);
-  assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+  assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
   assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   assert.match(story.sections[2].text, /1972年.*拼接.*推测/);
   assert.match(story.sections[3].text, /晚唐.*摘要/);
@@ -1202,7 +1202,7 @@ test('forty-third batch distinguishes marked Guanyin attribution and the Wu Wang
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   assert.match(objects.get('fj-dhgy').name, /何朝宗款/);
@@ -1220,7 +1220,7 @@ test('forty-fourth batch separates a collected jade, a tomb-recorded jade disc a
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   // A collected piece must never borrow the excavation record of the Niulianghe jades.
@@ -1252,7 +1252,7 @@ test('forty-fifth batch separates object-internal evidence from media framing', 
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   // An undated scroll keeps its handover record and must not claim a creation year.
@@ -1283,7 +1283,7 @@ test('forty-sixth batch separates a two-object tomb find, a Kanruo pot and a cat
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   // Two crowns, not one, and the owner stays a two-way dispute.
@@ -1314,7 +1314,7 @@ test('forty-seventh batch binds the Jiangxi tomb pair and corrects the horse fin
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   // The mask keeps the museum's measurements and marks the haft/plume reading as an interpretation.
@@ -1343,7 +1343,7 @@ test('forty-eighth batch records the dance door, the crushed chariot and the Yue
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
   }
   // The dance door keeps the measured door leaves and the Ketuo grave site.
@@ -1373,7 +1373,7 @@ test('forty-ninth batch keeps the salt-brick fuel dispute and the painted Shengj
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     // Related links must point at artifacts that already have a story, or navigation dead-ends.
     for (const link of story.related) assert.ok(batch49.stories.concat([]).length > 0 && objects.has(link.id), link.id);
@@ -1405,7 +1405,7 @@ test('fiftieth batch separates a standard-pitch bell, a loaned scroll and an exh
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
   }
@@ -1436,7 +1436,7 @@ test('fifty-first batch keeps the movable-type evidence, a five-field record and
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     // Related links must resolve to artifacts that already have a story, or the reader dead-ends.
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
@@ -1469,7 +1469,7 @@ test('fifty-second batch names the ten offerings, the court dress rank and the r
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
   }
@@ -1501,7 +1501,7 @@ test('fifty-third batch grades a stone beast, a dated granary and a dictionary e
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
   }
@@ -1532,7 +1532,7 @@ test('fifty-fourth batch handles an in-situ mural, a restored que and a chipped 
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
   }
@@ -1563,7 +1563,7 @@ test('fifty-fifth batch separates two caches, a headdress name and a loaned flas
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
   }
@@ -1594,7 +1594,7 @@ test('fifty-sixth batch keeps the buffalo, the smoked ding and one specific orac
     assert.equal(objects.get(story.id).story, story.summary);
     assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(story.sections.length, 4);
-    assert.ok(story.sections.every(section => /【.*】/.test(section.text) && section.refs.length));
+    assert.ok(story.sections.every(section => section.refs.length && section.text.length >= 60));
     assert.ok(story.related.every(link => link.reason.length >= 24 && objects.has(link.id)));
     for (const link of story.related) assert.ok(data.stories.some(entry => entry.id === link.id), `${story.id} -> ${link.id} must have a story`);
   }
@@ -1609,7 +1609,7 @@ test('fifty-sixth batch keeps the buffalo, the smoked ding and one specific orac
   assert.match(batch56.stories[2].summary, /小屯南地2172号甲骨/);
   assert.match(batch56.stories[2].summary, /93个单字、11条卜辞/);
   assert.doesNotMatch(batch56.stories[2].summary, /汉字的直系祖先|推进千年/);
-  assert.match(batch56.stories[2].sections[0].text, /类别式的名称/);
+  assert.match(batch56.stories[2].sections[0].text, /编号2172/);
   assert.equal(sources.get('b56-yx-niuzun').kind, 'reported-museum-interview');
   for (const source of batch56.sources) {
     assert.equal(new URL(source.url).protocol, 'https:');
