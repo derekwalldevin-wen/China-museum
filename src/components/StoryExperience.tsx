@@ -213,14 +213,18 @@ export default function StoryExperience({ route, onRoute, onExit, onBack }: Prop
       <button ref={exitButton} onClick={() => { save(); onExit(); }} aria-label="退出故事导览">回到原处 ✕</button>
     </header>
     <div ref={viewport} data-testid="story-viewport" className="story-viewport" onScroll={() => save()} onWheel={() => { latest.current.anchor = undefined; }} onTouchStart={() => { latest.current.anchor = undefined; }}>
+      {/* 跳过导航：键盘用户第一个可聚焦元素，直达正文 */}
+      <a className="story-skip" href="#story-main">跳到正文 ↓</a>
       {/* 阅读进度：纯 CSS 滚动驱动（animation-timeline: scroll(nearest)），不支持时静态隐藏 */}
       <div className="story-progress" aria-hidden="true"><i /></div>
-      {route.storyId && (!story || !location) ? <main className="story-directory" role={currentPayload?.error ? 'alert' : 'status'}>
+      {/* 路由变化的状态播报（读屏） */}
+      <p className="sr-only" aria-live="polite">{story ? `${location?.artifact.name ?? ''} · ${story.hook}` : route.storyId ? '正在展开故事' : '故事目录'}</p>
+      {route.storyId && (!story || !location) ? <main id="story-main" className="story-directory" role={currentPayload?.error ? 'alert' : 'status'}>
         <div className="story-kicker">{currentPayload?.error ? '故事暂时无法展开' : '正在展开故事'}</div>
         <h1 id="story-title">{currentPayload?.error ? '这一页暂时未能载入。' : '请稍候，正在展卷。'}</h1>
         <p className="story-lead">{currentPayload?.error ? '筛选与阅读位置仍已保存。可以重试，或返回故事目录继续探索。' : '正文和逐段引用资料正在按需读取。'}</p>
         {currentPayload?.error && <button className="story-primary" onClick={() => window.location.reload()}>重试加载故事 →</button>}
-      </main> : !story || !location ? <main className="story-directory">
+      </main> : !story || !location ? <main id="story-main" className="story-directory">
         <div className="story-kicker">以物为引 · 沿故事入卷</div>
         <h1 id="story-title">从一个问题，<br />走进千年生活。</h1>
         <p className="story-lead">不必一次读完所有文物。选一条游线，看看古人怎样生活、表达，又留下了哪些证据。</p>
@@ -242,7 +246,7 @@ export default function StoryExperience({ route, onRoute, onExit, onBack }: Prop
         </section>}
         <p className="story-editor-note">游线是策展比较，不代表文物之间存在直接传承。文字与图片分别核验；图像缺失时仍可读故事。</p>
         {trail && <a href={guideUrl({ trailId:null, storyId:null })} onClick={event => follow(event, { trailId:null, storyId:null })}>查看全部六条游线 →</a>}
-      </main> : <main className="story-reader" data-story-id={story.id}>
+      </main> : <main id="story-main" className="story-reader" data-story-id={story.id}>
         <nav className="story-breadcrumb" aria-label="故事位置"><a href={guideUrl({ trailId:null, storyId:null })} onClick={event => follow(event, { trailId:null, storyId:null })}>全部故事</a><span>{trail ? ` / ${trail.title} · 第 ${currentStep + 1} / ${trail.ids.length} 站` : ' / 单件故事'}</span></nav>
         <div className="story-kicker">{location.artifact.dynasty} · {location.artifact.category}</div>
         <h1 id="story-title">{story.hook}</h1>

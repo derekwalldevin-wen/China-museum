@@ -340,7 +340,12 @@ export default function App() {
   return (
     <div className="atlas-shell relative h-dvh w-screen overflow-hidden bg-[#080a09] text-[#d8cfb7] select-none"
       data-intro-active={introActive || undefined}>
+      {/* 跳过导航：键盘用户第一个可聚焦元素 */}
+      <a data-skip-link className="atlas-skip" href="#atlas-map">跳到舆图 ↓</a>
       <div
+        id="atlas-map"
+        role="region"
+        aria-label="中国博物馆舆图"
         className="relative h-full w-full"
         aria-hidden={directoryOpen || guide || introActive ? true : undefined}
         inert={directoryOpen || guide || introActive ? true : undefined}

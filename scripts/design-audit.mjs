@@ -29,6 +29,14 @@ const send = (method, params = {}, sessionId) => new Promise((resolve, reject) =
 const { targetId } = await send('Target.createTarget', { url: 'about:blank' });
 const { sessionId } = await send('Target.attachToTarget', { targetId, flatten: true });
 await send('Page.enable', {}, sessionId);
+// 在导航前注入性能观察器，才能拿到 LCP 与 CLS
+await send('Page.addScriptToEvaluateOnNewDocument', { source: `
+  window.__auditPerf = { cls: 0, lcp: 0 };
+  try {
+    new PerformanceObserver(list => { for (const entry of list.getEntries()) if (!entry.hadRecentInput) window.__auditPerf.cls += entry.value; }).observe({ type: 'layout-shift', buffered: true });
+    new PerformanceObserver(list => { const entries = list.getEntries(); window.__auditPerf.lcp = entries[entries.length - 1].startTime; }).observe({ type: 'largest-contentful-paint', buffered: true });
+  } catch { /* 旧浏览器忽略 */ }
+` }, sessionId);
 
 const evaluate = async expression => {
   const result = await send('Runtime.evaluate', { expression, returnByValue: true, awaitPromise: true }, sessionId);
@@ -153,6 +161,39 @@ const probe = `(() => {
     smallTargets,
     smallTargetList,
     headingOrderOk,
+    performance: (() => {
+      const audit = window.__auditPerf ?? { cls: 0, lcp: 0 };
+      const fcp = performance.getEntriesByName('first-contentful-paint')[0];
+      return { lcpMs: audit.lcp ? Math.round(audit.lcp) : null, cls: Math.round((audit.cls ?? 0) * 1000) / 1000, fcpMs: fcp ? Math.round(fcp.startTime) : null };
+    })(),
+    hierarchy: (() => {
+      const sizeOf = selector => { const element = document.querySelector(selector); return element ? parseFloat(getComputedStyle(element).fontSize) : null; };
+      const body = paragraph ? parseFloat(paraStyle.fontSize) : null;
+      const h1 = sizeOf('h1'), h2 = sizeOf('h2');
+      return { h1, h2, body, h1Ratio: h1 && body ? Math.round((h1 / body) * 100) / 100 : null, h2Ratio: h2 && body ? Math.round((h2 / body) * 100) / 100 : null };
+    })(),
+    spacing: (() => {
+      const scope = document.querySelector('.story-experience') ?? document.body;
+      let total = 0, onGrid = 0;
+      for (const element of scope.querySelectorAll('*')) {
+        const style = getComputedStyle(element);
+        for (const property of ['paddingTop', 'paddingRight', 'paddingBottom', 'paddingLeft', 'marginTop', 'marginBottom', 'rowGap', 'columnGap']) {
+          const value = parseFloat(style[property]);
+          if (!Number.isFinite(value) || value === 0) continue;
+          total += 1;
+          if (Math.abs(value % 4) < 0.5) onGrid += 1;
+        }
+      }
+      return { total, onGrid, ratio: total ? Math.round((onGrid / total) * 100) : 100 };
+    })(),
+    keyboard: {
+      skipLink: !!document.querySelector('.story-skip, a[data-skip-link]'),
+      firstTabbable: (() => {
+        const list = [...document.querySelectorAll('a[href], button, [tabindex]:not([tabindex="-1"])')].filter(element => element.getClientRects().length);
+        return list[0] ? (list[0].textContent ?? '').trim().slice(0, 16) : null;
+      })(),
+      ariaLive: document.querySelectorAll('[aria-live], [role="status"], [role="alert"]').length,
+    },
     overflow: document.documentElement.scrollWidth - window.innerWidth,
   };
 })()`;
@@ -253,88 +294,112 @@ const spacingTrimOk = String(results.desktopStory.paper?.spacingTrim ?? '').incl
 const categories = [
   {
     name: '中文字排',
-    max: 22,
+    max: 16,
     items: [
-      { label: '正文使用衬线（思源宋体等）', pass: serifOk, score: serifOk ? 5 : 0 },
-      { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 5 : 2 },
-      { label: `段首缩进 2em（实测 ${indentEm}em）`, pass: indentEm >= 1.9 && indentEm <= 2.1, score: indentEm >= 1.9 && indentEm <= 2.1 ? 4 : 0 },
-      { label: `字号下限 ≥12px（违规 ${results.desktopStory.belowTwelveCount}）`, pass: results.desktopStory.belowTwelveCount === 0, score: results.desktopStory.belowTwelveCount === 0 ? 4 : 0 },
-      { label: `行高 ≥1.8（实测 ${lineHeightRatio}）`, pass: lineHeightRatio >= 1.8, score: lineHeightRatio >= 1.8 ? 2 : 0 },
-      { label: '标点宽度调整（text-spacing-trim）', pass: spacingTrimOk, score: spacingTrimOk ? 2 : 0 },
+      { label: '正文使用衬线（思源宋体等）', pass: serifOk, score: serifOk ? 4 : 0 },
+      { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 4 : 1 },
+      { label: `段首缩进 2em（实测 ${indentEm}em）`, pass: indentEm >= 1.9 && indentEm <= 2.1, score: indentEm >= 1.9 && indentEm <= 2.1 ? 3 : 0 },
+      { label: `字号下限 ≥12px（违规 ${results.desktopStory.belowTwelveCount}）`, pass: results.desktopStory.belowTwelveCount === 0, score: results.desktopStory.belowTwelveCount === 0 ? 3 : 0 },
+      { label: `行高 ≥1.8（实测 ${lineHeightRatio}）`, pass: lineHeightRatio >= 1.8, score: lineHeightRatio >= 1.8 ? 1 : 0 },
+      { label: '标点宽度调整（text-spacing-trim）', pass: spacingTrimOk, score: spacingTrimOk ? 1 : 0 },
     ],
   },
   {
     name: '字号体系',
-    max: 6,
+    max: 4,
     items: [
-      { label: `一页字号数量 ≤10（实测 ${results.desktopStory.distinctSizes.length}）`, pass: results.desktopStory.distinctSizes.length <= 10, score: results.desktopStory.distinctSizes.length <= 10 ? 6 : results.desktopStory.distinctSizes.length <= 13 ? 3 : 0 },
+      { label: `一页字号数量 ≤10（实测 ${results.desktopStory.distinctSizes.length}）`, pass: results.desktopStory.distinctSizes.length <= 10, score: results.desktopStory.distinctSizes.length <= 10 ? 4 : 0 },
     ],
   },
   {
     name: '对比度',
-    max: 12,
+    max: 10,
     items: [
-      { label: `正文对比度 ≥7（实测 ${results.desktopStory.paragraph?.contrast}）`, pass: (results.desktopStory.paragraph?.contrast ?? 0) >= 7, score: (results.desktopStory.paragraph?.contrast ?? 0) >= 7 ? 6 : (results.desktopStory.paragraph?.contrast ?? 0) >= 4.5 ? 3 : 0 },
-      { label: `次要文字 ≥4.5（导语 ${results.desktopStory.summaryContrast}／标题 ${results.desktopStory.heading?.contrast}）`, pass: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5, score: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5 ? 6 : 2 },
+      { label: `正文对比度 ≥7（实测 ${results.desktopStory.paragraph?.contrast}）`, pass: (results.desktopStory.paragraph?.contrast ?? 0) >= 7, score: (results.desktopStory.paragraph?.contrast ?? 0) >= 7 ? 5 : 2 },
+      { label: `次要文字 ≥4.5（导语 ${results.desktopStory.summaryContrast}／标题 ${results.desktopStory.heading?.contrast}）`, pass: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5, score: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5 ? 5 : 1 },
     ],
   },
   {
     name: '无障碍',
-    max: 12,
+    max: 10,
     items: [
       { label: `图片 alt 完整（缺 ${results.desktopStory.images.missingAlt}/${results.desktopStory.images.total}）`, pass: results.desktopStory.images.missingAlt === 0, score: results.desktopStory.images.missingAlt === 0 ? 3 : 0 },
       { label: '存在 :focus-visible 焦点样式', pass: results.desktopStory.focusRule, score: results.desktopStory.focusRule ? 3 : 0 },
-      { label: `触控目标 ≥24×24（不合格 ${results.desktopStory.smallTargets}）`, pass: results.desktopStory.smallTargets === 0, score: results.desktopStory.smallTargets === 0 ? 3 : 0 },
-      { label: '标题层级不跳级', pass: results.desktopStory.headingOrderOk, score: results.desktopStory.headingOrderOk ? 3 : 0 },
+      { label: `触控目标 ≥24×24（不合格 ${results.desktopStory.smallTargets}）`, pass: results.desktopStory.smallTargets === 0, score: results.desktopStory.smallTargets === 0 ? 2 : 0 },
+      { label: '标题层级不跳级', pass: results.desktopStory.headingOrderOk, score: results.desktopStory.headingOrderOk ? 2 : 0 },
     ],
   },
   {
     name: '移动端',
-    max: 8,
+    max: 6,
     items: [
-      { label: `390px 无横向溢出（实测 ${results.mobileStory.overflow}px）`, pass: results.mobileStory.overflow <= 1, score: results.mobileStory.overflow <= 1 ? 5 : 0 },
-      { label: `移动端字号下限 ≥12px（违规 ${results.mobileStory.belowTwelveCount}）`, pass: results.mobileStory.belowTwelveCount === 0, score: results.mobileStory.belowTwelveCount === 0 ? 3 : 0 },
+      { label: `390px 无横向溢出（实测 ${results.mobileStory.overflow}px）`, pass: results.mobileStory.overflow <= 1, score: results.mobileStory.overflow <= 1 ? 4 : 0 },
+      { label: `移动端字号下限 ≥12px（违规 ${results.mobileStory.belowTwelveCount}）`, pass: results.mobileStory.belowTwelveCount === 0, score: results.mobileStory.belowTwelveCount === 0 ? 2 : 0 },
     ],
   },
   {
     name: '性能预算',
-    max: 8,
+    max: 6,
     items: [
-      { label: `首屏 JS ≤322KB（实测 ${Math.round((firstScreenBytes ?? 0) / 1000)}KB；硬上限 328KB）`, pass: (firstScreenBytes ?? 1e9) <= 322000, score: (firstScreenBytes ?? 1e9) <= 322000 ? 5 : (firstScreenBytes ?? 1e9) <= 328000 ? 2 : 0 },
-      { label: `图片策略：首图 eager（LCP）+ 列表图 lazy（源码 ${lazyHits} 处）`, pass: lazyHits >= 2 && results.desktopStory.images.lazy === 0, score: lazyHits >= 2 && results.desktopStory.images.lazy === 0 ? 3 : 0 },
+      { label: `首屏 JS ≤322KB（实测 ${Math.round((firstScreenBytes ?? 0) / 1000)}KB；硬上限 328KB）`, pass: (firstScreenBytes ?? 1e9) <= 322000, score: (firstScreenBytes ?? 1e9) <= 322000 ? 4 : (firstScreenBytes ?? 1e9) <= 328000 ? 2 : 0 },
+      { label: `图片策略：首图 eager（LCP）+ 列表图 lazy（源码 ${lazyHits} 处）`, pass: lazyHits >= 2 && results.desktopStory.images.lazy === 0, score: lazyHits >= 2 && results.desktopStory.images.lazy === 0 ? 2 : 0 },
     ],
   },
   {
     name: '动效与手感',
-    max: 16,
+    max: 14,
     items: [
-      { label: `存在滚动驱动动效（阅读进度驱动 ${results.desktopStory.structure?.progressDriven ? '有' : '无'}）`, pass: !!results.desktopStory.structure?.progressDriven, score: results.desktopStory.structure?.progressDriven ? 6 : 0 },
-      { label: `减弱动效偏好下动画关闭（剩余 ${results.reducedMotion?.animated ?? 0} 个动画 / ${results.reducedMotion?.scrollDriven ?? 0} 个滚动驱动）`, pass: (results.reducedMotion?.animated ?? 1) === 0 && (results.reducedMotion?.scrollDriven ?? 1) === 0, score: (results.reducedMotion?.animated ?? 1) === 0 && (results.reducedMotion?.scrollDriven ?? 1) === 0 ? 6 : 0 },
-      { label: `关键帧只动 transform/opacity（布局属性关键帧 ${keyframeLayoutProps} 个）`, pass: keyframeLayoutProps === 0, score: keyframeLayoutProps === 0 ? 4 : 0 },
+      { label: `存在滚动驱动动效（阅读进度驱动 ${results.desktopStory.structure?.progressDriven ? '有' : '无'}）`, pass: !!results.desktopStory.structure?.progressDriven, score: results.desktopStory.structure?.progressDriven ? 5 : 0 },
+      { label: `减弱动效偏好下动画关闭（剩余 ${results.reducedMotion?.animated ?? 'n/a'} 个可感知动画）`, pass: (results.reducedMotion?.animated ?? 1) === 0, score: (results.reducedMotion?.animated ?? 1) === 0 ? 5 : 0 },
+      { label: `在用关键帧只动 transform/opacity（布局属性关键帧 ${keyframeLayoutProps} 个）`, pass: keyframeLayoutProps === 0, score: keyframeLayoutProps === 0 ? 4 : 0 },
     ],
   },
   {
     name: '交互状态',
-    max: 6,
+    max: 4,
     items: [
-      { label: `载入态齐备（role=status/alert）`, pass: stateCoverage.loading, score: stateCoverage.loading ? 2 : 0 },
-      { label: '错误态含重试入口', pass: stateCoverage.error, score: stateCoverage.error ? 2 : 0 },
-      { label: '空态/说明态存在', pass: stateCoverage.empty, score: stateCoverage.empty ? 2 : 0 },
+      { label: '载入态齐备（role=status/alert）', pass: stateCoverage.loading, score: stateCoverage.loading ? 2 : 0 },
+      { label: '错误态含重试 / 空态说明', pass: stateCoverage.error && stateCoverage.empty, score: stateCoverage.error && stateCoverage.empty ? 2 : 0 },
     ],
   },
   {
     name: '结构层级',
-    max: 6,
+    max: 4,
     items: [
-      { label: `唯一 h1（实测 ${results.desktopStory.structure?.h1Count}）`, pass: results.desktopStory.structure?.h1Count === 1, score: results.desktopStory.structure?.h1Count === 1 ? 3 : 0 },
-      { label: `地标齐备（main ${results.desktopStory.structure?.main}／nav ${results.desktopStory.structure?.nav}）`, pass: (results.desktopStory.structure?.main ?? 0) >= 1 && (results.desktopStory.structure?.nav ?? 0) >= 1, score: (results.desktopStory.structure?.main ?? 0) >= 1 && (results.desktopStory.structure?.nav ?? 0) >= 1 ? 3 : 0 },
+      { label: `唯一 h1（实测 ${results.desktopStory.structure?.h1Count}）`, pass: results.desktopStory.structure?.h1Count === 1, score: results.desktopStory.structure?.h1Count === 1 ? 2 : 0 },
+      { label: `地标齐备（main ${results.desktopStory.structure?.main}／nav ${results.desktopStory.structure?.nav}）`, pass: (results.desktopStory.structure?.main ?? 0) >= 1 && (results.desktopStory.structure?.nav ?? 0) >= 1, score: (results.desktopStory.structure?.main ?? 0) >= 1 && (results.desktopStory.structure?.nav ?? 0) >= 1 ? 2 : 0 },
     ],
   },
   {
     name: '键盘可达',
+    max: 8,
+    items: [
+      { label: `章节锚点可键盘跳转（${results.desktopStory.structure?.indexAnchors ?? 0} 个）`, pass: (results.desktopStory.structure?.indexAnchors ?? 0) >= 4, score: (results.desktopStory.structure?.indexAnchors ?? 0) >= 4 ? 3 : 0 },
+      { label: `存在跳过导航链接（首个可聚焦：${results.desktopStory.keyboard?.firstTabbable ?? 'n/a'}）`, pass: !!results.desktopStory.keyboard?.skipLink, score: results.desktopStory.keyboard?.skipLink ? 3 : 0 },
+      { label: `状态播报齐备（aria-live/status/alert ${results.desktopStory.keyboard?.ariaLive} 处）`, pass: (results.desktopStory.keyboard?.ariaLive ?? 0) >= 1, score: (results.desktopStory.keyboard?.ariaLive ?? 0) >= 1 ? 2 : 0 },
+    ],
+  },
+  {
+    name: '实测性能',
+    max: 8,
+    items: [
+      { label: `LCP ≤2500ms（实测 ${results.desktopHome.performance?.lcpMs ?? 'n/a'}ms；FCP ${results.desktopHome.performance?.fcpMs ?? 'n/a'}ms）`, pass: (results.desktopHome.performance?.lcpMs ?? 99999) <= 2500, score: (results.desktopHome.performance?.lcpMs ?? 99999) <= 2500 ? 4 : (results.desktopHome.performance?.lcpMs ?? 99999) <= 4000 ? 2 : 0 },
+      { label: `CLS ≤0.1（实测 ${results.desktopHome.performance?.cls ?? 'n/a'}）`, pass: (results.desktopHome.performance?.cls ?? 9) <= 0.1, score: (results.desktopHome.performance?.cls ?? 9) <= 0.1 ? 4 : 0 },
+    ],
+  },
+  {
+    name: '视觉层级',
+    max: 6,
+    items: [
+      { label: `标题/正文级差 ≥2（实测 ${results.desktopStory.hierarchy?.h1Ratio}）`, pass: (results.desktopStory.hierarchy?.h1Ratio ?? 0) >= 2, score: (results.desktopStory.hierarchy?.h1Ratio ?? 0) >= 2 ? 3 : 0 },
+      { label: `章节/正文级差 ≥1.15（实测 ${results.desktopStory.hierarchy?.h2Ratio}）`, pass: (results.desktopStory.hierarchy?.h2Ratio ?? 0) >= 1.15, score: (results.desktopStory.hierarchy?.h2Ratio ?? 0) >= 1.15 ? 3 : 0 },
+    ],
+  },
+  {
+    name: '一致性',
     max: 4,
     items: [
-      { label: `章节锚点可键盘跳转（${results.desktopStory.structure?.indexAnchors ?? 0} 个）`, pass: (results.desktopStory.structure?.indexAnchors ?? 0) >= 4, score: (results.desktopStory.structure?.indexAnchors ?? 0) >= 4 ? 4 : 0 },
+      { label: `间距落在 4px 基准（实测 ${results.desktopStory.spacing?.ratio}%，${results.desktopStory.spacing?.onGrid}/${results.desktopStory.spacing?.total}）`, pass: (results.desktopStory.spacing?.ratio ?? 0) >= 90, score: (results.desktopStory.spacing?.ratio ?? 0) >= 90 ? 4 : (results.desktopStory.spacing?.ratio ?? 0) >= 75 ? 2 : 0 },
     ],
   },
 ];

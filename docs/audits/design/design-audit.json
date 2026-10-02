@@ -1,77 +1,77 @@
 {
-  "generatedAt": "2026-10-02T01:54:22.611Z",
+  "generatedAt": "2026-10-02T02:03:10.756Z",
   "story": "hub-zhy",
-  "firstScreenBytes": 320701,
+  "firstScreenBytes": 320902,
   "total": 100,
   "max": 100,
   "threshold": 85,
   "categories": [
     {
       "name": "中文字排",
-      "max": 22,
+      "max": 16,
       "items": [
         {
           "label": "正文使用衬线（思源宋体等）",
           "pass": true,
-          "score": 5
+          "score": 4
         },
         {
           "label": "行长 30–34 字（实测 34）",
           "pass": true,
-          "score": 5
+          "score": 4
         },
         {
           "label": "段首缩进 2em（实测 2em）",
           "pass": true,
-          "score": 4
+          "score": 3
         },
         {
           "label": "字号下限 ≥12px（违规 0）",
           "pass": true,
-          "score": 4
+          "score": 3
         },
         {
           "label": "行高 ≥1.8（实测 2）",
           "pass": true,
-          "score": 2
+          "score": 1
         },
         {
           "label": "标点宽度调整（text-spacing-trim）",
           "pass": true,
-          "score": 2
+          "score": 1
         }
       ]
     },
     {
       "name": "字号体系",
-      "max": 6,
+      "max": 4,
       "items": [
         {
           "label": "一页字号数量 ≤10（实测 9）",
           "pass": true,
-          "score": 6
+          "score": 4
         }
       ]
     },
     {
       "name": "对比度",
-      "max": 12,
+      "max": 10,
       "items": [
         {
           "label": "正文对比度 ≥7（实测 10.38）",
           "pass": true,
-          "score": 6
+          "score": 5
         },
         {
           "label": "次要文字 ≥4.5（导语 10.38／标题 14.39）",
           "pass": true,
-          "score": 6
+          "score": 5
         }
       ]
     },
     {
       "name": "无障碍",
-      "max": 12,
+      "max": 10,
       "items": [
         {
           "label": "图片 alt 完整（缺 0/2）",
@@ -86,63 +86,63 @@
         {
           "label": "触控目标 ≥24×24（不合格 0）",
           "pass": true,
-          "score": 3
+          "score": 2
         },
         {
           "label": "标题层级不跳级",
           "pass": true,
-          "score": 3
+          "score": 2
         }
       ]
     },
     {
       "name": "移动端",
-      "max": 8,
+      "max": 6,
       "items": [
         {
           "label": "390px 无横向溢出（实测 0px）",
           "pass": true,
-          "score": 5
+          "score": 4
         },
         {
           "label": "移动端字号下限 ≥12px（违规 0）",
           "pass": true,
-          "score": 3
+          "score": 2
         }
       ]
     },
     {
       "name": "性能预算",
-      "max": 8,
+      "max": 6,
       "items": [
         {
           "label": "首屏 JS ≤322KB（实测 321KB；硬上限 328KB）",
           "pass": true,
-          "score": 5
+          "score": 4
         },
         {
           "label": "图片策略：首图 eager（LCP）+ 列表图 lazy（源码 3 处）",
           "pass": true,
-          "score": 3
+          "score": 2
         }
       ]
     },
     {
       "name": "动效与手感",
-      "max": 16,
+      "max": 14,
       "items": [
         {
           "label": "存在滚动驱动动效（阅读进度驱动 有）",
           "pass": true,
-          "score": 6
+          "score": 5
         },
         {
-          "label": "减弱动效偏好下动画关闭（剩余 0 个动画 / 0 个滚动驱动）",
+          "label": "减弱动效偏好下动画关闭（剩余 0 个可感知动画）",
           "pass": true,
-          "score": 6
+          "score": 5
         },
         {
-          "label": "关键帧只动 transform/opacity（布局属性关键帧 0 个）",
+          "label": "在用关键帧只动 transform/opacity（布局属性关键帧 0 个）",
           "pass": true,
           "score": 4
         }
@@ -150,7 +150,7 @@
     },
     {
       "name": "交互状态",
-      "max": 6,
+      "max": 4,
       "items": [
         {
           "label": "载入态齐备（role=status/alert）",
@@ -158,12 +158,7 @@
           "score": 2
         },
         {
-          "label": "错误态含重试入口",
-          "pass": true,
-          "score": 2
-        },
-        {
-          "label": "空态/说明态存在",
+          "label": "错误态含重试 / 空态说明",
           "pass": true,
           "score": 2
         }
@@ -171,26 +166,79 @@
     },
     {
       "name": "结构层级",
-      "max": 6,
+      "max": 4,
       "items": [
         {
           "label": "唯一 h1（实测 1）",
           "pass": true,
-          "score": 3
+          "score": 2
         },
         {
           "label": "地标齐备（main 2／nav 3）",
+          "pass": true,
+          "score": 2
+        }
+      ]
+    },
+    {
+      "name": "键盘可达",
+      "max": 8,
+      "items": [
+        {
+          "label": "章节锚点可键盘跳转（4 个）",
+          "pass": true,
+          "score": 3
+        },
+        {
+          "label": "存在跳过导航链接（首个可聚焦：跳到舆图 ↓）",
+          "pass": true,
+          "score": 3
+        },
+        {
+          "label": "状态播报齐备（aria-live/status/alert 1 处）",
+          "pass": true,
+          "score": 2
+        }
+      ]
+    },
+    {
+      "name": "实测性能",
+      "max": 8,
+      "items": [
+        {
+          "label": "LCP ≤2500ms（实测 376ms；FCP 376ms）",
+          "pass": true,
+          "score": 4
+        },
+        {
+          "label": "CLS ≤0.1（实测 0）",
+          "pass": true,
+          "score": 4
+        }
+      ]
+    },
+    {
+      "name": "视觉层级",
+      "max": 6,
+      "items": [
+        {
+          "label": "标题/正文级差 ≥2（实测 2.59）",
+          "pass": true,
+          "score": 3
+        },
+        {
+          "label": "章节/正文级差 ≥1.15（实测 1.53）",
           "pass": true,
           "score": 3
         }
       ]
     },
     {
-      "name": "键盘可达",
+      "name": "一致性",
       "max": 4,
       "items": [
         {
-          "label": "章节锚点可键盘跳转（4 个）",
+          "label": "间距落在 4px 基准（实测 91%，194/214）",
           "pass": true,
           "score": 4
         }
@@ -240,7 +288,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 43,
+      "transitioned": 44,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -255,6 +303,28 @@
       "smallTargets": 0,
       "smallTargetList": [],
       "headingOrderOk": true,
+      "performance": {
+        "lcpMs": 5580,
+        "cls": 0.002,
+        "fcpMs": 2952
+      },
+      "hierarchy": {
+        "h1": 44,
+        "h2": 26,
+        "body": 17,
+        "h1Ratio": 2.59,
+        "h2Ratio": 1.53
+      },
+      "spacing": {
+        "total": 214,
+        "onGrid": 194,
+        "ratio": 91
+      },
+      "keyboard": {
+        "skipLink": true,
+        "firstTabbable": "跳到舆图 ↓",
+        "ariaLive": 1
+      },
       "overflow": 0
     },
     "mobileStory": {
@@ -264,7 +334,7 @@
         "lineHeight": "34px",
         "indent": "34px",
         "align": "left",
-        "width": 314,
+        "width": 310,
         "charsPerLine": 18,
         "colour": "rgb(48, 45, 37)",
         "contrast": 10.38
@@ -299,7 +369,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 43,
+      "transitioned": 44,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -314,6 +384,28 @@
       "smallTargets": 0,
       "smallTargetList": [],
       "headingOrderOk": true,
+      "performance": {
+        "lcpMs": 5580,
+        "cls": 0.002,
+        "fcpMs": 2952
+      },
+      "hierarchy": {
+        "h1": 28,
+        "h2": 22,
+        "body": 17,
+        "h1Ratio": 1.65,
+        "h2Ratio": 1.29
+      },
+      "spacing": {
+        "total": 214,
+        "onGrid": 194,
+        "ratio": 91
+      },
+      "keyboard": {
+        "skipLink": true,
+        "firstTabbable": "跳到舆图 ↓",
+        "ariaLive": 1
+      },
       "overflow": 0
     },
     "desktopHome": {
@@ -413,6 +505,28 @@
       "smallTargets": 0,
       "smallTargetList": [],
       "headingOrderOk": true,
+      "performance": {
+        "lcpMs": 376,
+        "cls": 0,
+        "fcpMs": 376
+      },
+      "hierarchy": {
+        "h1": null,
+        "h2": 26,
+        "body": null,
+        "h1Ratio": null,
+        "h2Ratio": null
+      },
+      "spacing": {
+        "total": 385,
+        "onGrid": 74,
+        "ratio": 19
+      },
+      "keyboard": {
+        "skipLink": true,
+        "firstTabbable": "跳到舆图 ↓",
+        "ariaLive": 0
+      },
       "overflow": 0
     },
     "mobileHome": {
@@ -513,6 +627,28 @@
       "smallTargets": 0,
       "smallTargetList": [],
       "headingOrderOk": true,
+      "performance": {
+        "lcpMs": 5804,
+        "cls": 0,
+        "fcpMs": 376
+      },
+      "hierarchy": {
+        "h1": null,
+        "h2": 22,
+        "body": null,
+        "h1Ratio": null,
+        "h2Ratio": null
+      },
+      "spacing": {
+        "total": 387,
+        "onGrid": 62,
+        "ratio": 16
+      },
+      "keyboard": {
+        "skipLink": true,
+        "firstTabbable": "跳到舆图 ↓",
+        "ariaLive": 0
+      },
       "overflow": 0
     },
     "reducedMotion": {
@@ -570,6 +706,28 @@
       "smallTargets": 0,
       "smallTargetList": [],
       "headingOrderOk": true,
+      "performance": {
+        "lcpMs": 344,
+        "cls": 0.002,
+        "fcpMs": 280
+      },
+      "hierarchy": {
+        "h1": 44,
+        "h2": 26,
+        "body": 17,
+        "h1Ratio": 2.59,
+        "h2Ratio": 1.53
+      },
+      "spacing": {
+        "total": 214,
+        "onGrid": 194,
+        "ratio": 91
+      },
+      "keyboard": {
+        "skipLink": true,
+        "firstTabbable": "跳到舆图 ↓",
+        "ariaLive": 1
+      },
       "overflow": 0
     }
   }
