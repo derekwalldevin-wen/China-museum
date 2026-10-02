@@ -29,7 +29,13 @@ export default function IntroGate({ contentReady, businessActive, onActiveChange
   const finish = useCallback((reason: string) => {
     if (finishedRef.current) return;
     finishedRef.current = true;
-    if (rootRef.current) rootRef.current.dataset.introExit = reason;
+    if (rootRef.current) {
+      rootRef.current.dataset.introExit = reason;
+      // 退出必须瞬时：跳过开场是无障碍入口，不能被任何过渡/动画时长拖延（历史上曾被 150→220ms 的
+      // 全局过渡改动拖到 320ms，超过 200ms 预算）。这里直接禁掉本层的过渡与动画。
+      rootRef.current.style.transition = 'none';
+      rootRef.current.style.animation = 'none';
+    }
     setVisible(false);
     onActiveChange(false);
     try { performance.mark(`huaxia:intro:exit:${reason}`); } catch { /* Diagnostics are optional. */ }

@@ -138,7 +138,7 @@ export default function MuseumDetail({
   }, [isArtifactOpen, onCloseArtifact, stepArtifact, suspended]);
 
   return (
-    <div className="absolute inset-0 z-40 bg-[#0b0a07] flex flex-col animate-[fadeIn_.3s_ease-out]">
+    <div className="absolute inset-0 z-40 bg-[#0b0a07] flex flex-col animate-[fadeIn_.32s_ease-out]">
       <div
         className="flex min-h-0 flex-1 flex-col"
         aria-hidden={openArtifact ? true : undefined}

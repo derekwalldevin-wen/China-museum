@@ -322,6 +322,26 @@ const probe = `(() => {
       }
       return { radii: radii.size, shadows: shadows.size, radiusValues: [...radii], shadowValues: [...shadows] };
     })(),
+    motion: (() => {
+      const first = value => String(value).split(',')[0].trim();
+      const toMs = value => value.endsWith('ms') ? parseFloat(value) : parseFloat(value) * 1000;
+      const seen = new Map();
+      for (const element of visiblePool('.atlas-shell *, .story-experience *')) {
+        const style = getComputedStyle(element);
+        const transition = first(style.transitionDuration);
+        if (parseFloat(transition) > 0) seen.set(transition, (seen.get(transition) ?? 0) + 1);
+        const animation = first(style.animationDuration);
+        if (style.animationName !== 'none' && parseFloat(animation) > 0) seen.set(animation, (seen.get(animation) ?? 0) + 1);
+      }
+      const scale = [100, 160, 220, 320, 520];
+      const short = [...seen.entries()].filter(([value]) => toMs(value) > 1 && toMs(value) < 600);
+      return {
+        kinds: seen.size,
+        shortKinds: short.length,
+        onScaleKinds: short.filter(([value]) => scale.includes(Math.round(toMs(value)))).length,
+        shortList: short.map(([value, count]) => value + '×' + count).join('、'),
+      };
+    })(),
     autospace,
     digits,
     mapLabels: (() => {
@@ -718,8 +738,9 @@ const categories = [
     name: '动效与手感',
     max: 11,
     items: [
-      { label: `存在滚动驱动动效（阅读进度驱动 ${results.desktopStory.structure?.progressDriven ? '有' : '无'}）`, pass: !!results.desktopStory.structure?.progressDriven, score: results.desktopStory.structure?.progressDriven ? 4 : 0 },
-      { label: `减弱动效偏好下动画关闭（剩余 ${results.reducedMotion?.animated ?? 'n/a'} 个可感知动画）`, pass: (results.reducedMotion?.animated ?? 1) === 0, score: (results.reducedMotion?.animated ?? 1) === 0 ? 4 : 0 },
+      { label: `存在滚动驱动动效（阅读进度驱动 ${results.desktopStory.structure?.progressDriven ? '有' : '无'}）`, pass: !!results.desktopStory.structure?.progressDriven, score: results.desktopStory.structure?.progressDriven ? 3 : 0 },
+      { label: `动效时长收敛（有效短时长 ${results.desktopStory.motion?.shortKinds ?? 'n/a'} 种，全部落在尺度上 ${results.desktopStory.motion?.onScaleKinds ?? 'n/a'} 种：${results.desktopStory.motion?.shortList ?? ''}）`, pass: (results.desktopStory.motion?.shortKinds ?? 99) <= 5 && results.desktopStory.motion?.shortKinds === results.desktopStory.motion?.onScaleKinds, score: (results.desktopStory.motion?.shortKinds ?? 99) <= 5 && results.desktopStory.motion?.shortKinds === results.desktopStory.motion?.onScaleKinds ? 2 : 0 },
+      { label: `减弱动效偏好下动画关闭（剩余 ${results.reducedMotion?.animated ?? 'n/a'} 个可感知动画）`, pass: (results.reducedMotion?.animated ?? 1) === 0, score: (results.reducedMotion?.animated ?? 1) === 0 ? 3 : 0 },
       { label: `在用关键帧只动 transform/opacity（布局属性关键帧 ${keyframeLayoutProps} 个）`, pass: keyframeLayoutProps === 0, score: keyframeLayoutProps === 0 ? 3 : 0 },
     ],
   },

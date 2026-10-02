@@ -36,7 +36,7 @@ export default function ProvincePanel({ province, museums, onPickMuseum, onClose
   const artifactTotal = list.reduce((n, m) => n + m.artifacts.length, 0);
 
   return (
-    <aside aria-label={`${province.name}博物馆列表`} className="atlas-province-panel absolute z-30 flex flex-col animate-[slideIn_.42s_cubic-bezier(.2,.8,.2,1)]
+    <aside aria-label={`${province.name}博物馆列表`} className="atlas-province-panel absolute z-30 flex flex-col animate-[slideIn_.32s_cubic-bezier(.2,.8,.2,1)]
       max-md:inset-x-0 max-md:bottom-0 max-md:max-h-[62dvh] max-md:border-t max-md:border-[#efe6cf]/25
       md:right-0 md:top-[7.5rem] md:bottom-[2.8rem] md:w-[360px] md:border-l md:border-[#efe6cf]/20">
       {/* 测绘式档案头 */}

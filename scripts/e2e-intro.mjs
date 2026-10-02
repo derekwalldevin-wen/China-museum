@@ -56,11 +56,20 @@ await withPage({ width: 1440, height: 960, script: forceDynamic }, async page =>
   }
   const resources = await page.evaluate(`performance.getEntriesByType('resource').map(entry=>entry.name).filter(name=>/InkScrollIntro/.test(name))`);
   assert.equal(resources.length, 1);
-  const before = await page.evaluate('performance.now()');
-  await page.evaluate(`document.querySelector('.ink-intro-skip').click()`);
-  await page.wait(`!document.querySelector('[data-ink-intro]')`, 'skip removes intro');
-  const exitMs = await page.evaluate(`performance.now()-${before}`);
+  // 在页面内用 rAF 高精度测量"点击跳过 → 开场卸载"的真实耗时。
+  // 注意：不要用 page.wait 计时——它固定 100ms 轮询，会把框架的轮询粒度与 CDP 往返算进结果
+  //（实测同一状态：页面内 19ms，用 wait 计时 320–361ms）。预算仍是 200ms，只是量得准。
+  const exitMs = await page.evaluate(`(async () => {
+    const start = performance.now();
+    document.querySelector('.ink-intro-skip').click();
+    await new Promise(resolve => {
+      const tick = () => { if (!document.querySelector('[data-ink-intro]')) resolve(); else requestAnimationFrame(tick); };
+      requestAnimationFrame(tick);
+    });
+    return Math.round((performance.now() - start) * 10) / 10;
+  })()`);
   assert.ok(exitMs < 200, `skip took ${exitMs}ms`);
+  await page.wait(`!document.querySelector('[data-ink-intro]')`, 'skip removes intro');
   assert.equal(await page.evaluate(`document.querySelectorAll('[data-intro-motion]').length`), 0);
   assert.equal(await page.evaluate(`document.querySelectorAll('[data-webgl-intro]').length`), 0);
   assert.equal(await page.evaluate(`document.querySelector('#root > div > div')?.hasAttribute('inert')`), false);
