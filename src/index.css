@@ -370,7 +370,8 @@
   font-family: 'Noto Serif SC', 'Songti SC', serif;
   font-size: 12px;
   line-height: 1.75;
-  color: #4d4a3d;
+  /* 像素实测原为 4.79（勉强过 AA），加深一档留出余量 */
+  color: #3b3a2e;
 }
 .atlas-story-beacon button {
   position: relative;
@@ -694,7 +695,8 @@
 }
 
 .scroll-label-count {
-  fill: #6a604a;
+  /* 像素实测原为 4.09（12px 小字未达 AA 4.5），加深一档 */
+  fill: #554e39;
   font-family: ui-monospace, monospace;
   /* 地图 SVG 会随视口缩放：桌面缩放约 1.05，7px 实际只有 7px，故按有效尺寸定字号 */
   font-size: 12px;

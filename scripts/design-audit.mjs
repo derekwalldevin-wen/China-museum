@@ -321,6 +321,15 @@ results.desktopHome = await evaluate(probe);
 await viewport(390, 844, true);
 await new Promise(resolve => setTimeout(resolve, 1200));
 results.mobileHome = await evaluate(probe);
+// 首页像素级对比度（地图标注与荐读卡片：DOM 方法读不到底板与渐变）
+await viewport(1440, 960, false);
+await goto(base, `document.querySelectorAll('g.scroll-province').length === 34`);
+results.pixelContrast = {
+  mapShort: await pixelContrast('.scroll-label-short'),
+  mapCount: await pixelContrast('.scroll-label-count'),
+  beaconTitle: await pixelContrast('.atlas-story-beacon h2'),
+  beaconText: await pixelContrast('.atlas-story-beacon p'),
+};
 
 // 减弱动效偏好下再测一次：滚动驱动与入场动画都必须消失（可降级）
 await send('Emulation.setEmulatedMedia', { features: [{ name: 'prefers-reduced-motion', value: 'reduce' }] }, sessionId);
@@ -391,6 +400,48 @@ const mainCssBytes = (() => {
   const target = linked[0] ?? entries.sort((a, b) => statSync(`dist/assets/${b}`).size - statSync(`dist/assets/${a}`).size)[0];
   return statSync(`dist/assets/${target}`).size;
 })();
+
+// 像素级对比度：DOM 方法读不到 SVG 印章底板与 CSS 渐变，必须按真实像素判定
+async function pixelContrast(selector) {
+  // 等元素稳定：完全不透明且没有进行中的动画（否则会截到淡入中途的画面）
+  for (let attempt = 0; attempt < 20; attempt += 1) {
+    const stable = await evaluate(`(() => { const el = [...document.querySelectorAll('${selector}')].find(e => (e.textContent || '').trim() && e.getClientRects().length && !e.closest('[aria-hidden="true"], [inert]')); if (!el) return false; const style = getComputedStyle(el); return style.opacity === '1' && el.getAnimations().every(animation => animation.playState === 'finished' || animation.playState === 'idle'); })()`);
+    if (stable) break;
+    await new Promise(resolve => setTimeout(resolve, 150));
+  }
+  const box = await evaluate(`(() => { const el = [...document.querySelectorAll('${selector}')].find(e => (e.textContent || '').trim() && e.getClientRects().length && !e.closest('[aria-hidden="true"], [inert]')); if (!el) return null; const b = el.getBoundingClientRect(); return { x: Math.max(0, Math.floor(b.left) - 6), y: Math.max(0, Math.floor(b.top) - 6), width: Math.ceil(b.width) + 12, height: Math.ceil(b.height) + 12 }; })()`);
+  if (!box || box.width <= 0 || box.height <= 0) return null;
+  const shot = await send('Page.captureScreenshot', { format: 'png', clip: { ...box, scale: 3 } }, sessionId);
+  return evaluate(`(async () => {
+    const el = [...document.querySelectorAll('${selector}')].find(e => (e.textContent || '').trim() && e.getClientRects().length && !e.closest('[aria-hidden="true"], [inert]'));
+    if (!el) return null;
+    const style = getComputedStyle(el);
+    // 前景用声明色（SVG 文字取 fill），避免抗锯齿像素把"最暗端"拉偏
+    const declared = (el instanceof SVGElement && style.fill && style.fill !== 'none') ? style.fill : style.color;
+    const parse = value => { const m = value.match(/rgba?\\(([^)]+)\\)/); if (!m) return null; const parts = m[1].split(',').map(Number); return { rgb: parts.slice(0, 3), a: parts.length > 3 ? parts[3] : 1 }; };
+    const fg = parse(declared);
+    if (!fg) return null;
+    const image = new Image();
+    image.src = 'data:image/png;base64,${shot.data}';
+    await image.decode();
+    const canvas = document.createElement('canvas');
+    canvas.width = image.naturalWidth; canvas.height = image.naturalHeight;
+    const context = canvas.getContext('2d');
+    context.drawImage(image, 0, 0);
+    const data = context.getImageData(0, 0, canvas.width, canvas.height).data;
+    const lum = ([r, g, b]) => { const f = c => { const s = c / 255; return s <= 0.03928 ? s / 12.92 : Math.pow((s + 0.055) / 1.055, 2.4); }; return 0.2126 * f(r) + 0.7152 * f(g) + 0.0722 * f(b); };
+    const pixels = [];
+    for (let index = 0; index < data.length; index += 4) pixels.push({ rgb: [data[index], data[index + 1], data[index + 2]], value: lum([data[index], data[index + 1], data[index + 2]]) });
+    pixels.sort((a, b) => a.value - b.value);
+    // 背景 = 最亮 20% 的中位数
+    const light = pixels.slice(Math.floor(pixels.length * 0.8));
+    const bg = light[Math.floor(light.length / 2)].rgb;
+    // 半透明前景先与背景合成
+    const fgFinal = fg.a >= 0.99 ? fg.rgb : fg.rgb.map((c, i) => Math.round(c * fg.a + bg[i] * (1 - fg.a)));
+    const [high, low] = [lum(fgFinal), lum(bg)].sort((a, b) => b - a);
+    return Math.round(((high + 0.05) / (low + 0.05)) * 100) / 100;
+  })()`);
+}
 
 const serifOk = /Noto Serif SC|Songti|Source Han Serif/.test(results.desktopStory.paragraph?.family ?? '');
 // 源码层检查：列表/面板缩略图是否使用懒加载（首图 eager 属于 LCP 正确做法）
@@ -472,8 +523,9 @@ const categories = [
     name: '对比度',
     max: 8,
     items: [
-      { label: `正文对比度 ≥7（实测 ${results.desktopStory.paragraph?.contrast}）`, pass: (results.desktopStory.paragraph?.contrast ?? 0) >= 7, score: (results.desktopStory.paragraph?.contrast ?? 0) >= 7 ? 4 : 2 },
-      { label: `次要文字 ≥4.5（导语 ${results.desktopStory.summaryContrast}／标题 ${results.desktopStory.heading?.contrast}）`, pass: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5, score: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5 ? 4 : 1 },
+      { label: `正文对比度 ≥7（实测 ${results.desktopStory.paragraph?.contrast}）`, pass: (results.desktopStory.paragraph?.contrast ?? 0) >= 7, score: (results.desktopStory.paragraph?.contrast ?? 0) >= 7 ? 3 : 2 },
+      { label: `次要文字 ≥4.5（导语 ${results.desktopStory.summaryContrast}／标题 ${results.desktopStory.heading?.contrast}）`, pass: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5, score: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5 ? 3 : 1 },
+      { label: `首页像素级对比度全部 ≥4.5（地图省简称 ${results.pixelContrast?.mapShort ?? 'n/a'}／件数 ${results.pixelContrast?.mapCount ?? 'n/a'}／荐读标题 ${results.pixelContrast?.beaconTitle ?? 'n/a'}／荐读说明 ${results.pixelContrast?.beaconText ?? 'n/a'}）`, pass: Math.min(results.pixelContrast?.mapShort ?? 0, results.pixelContrast?.mapCount ?? 0, results.pixelContrast?.beaconTitle ?? 0, results.pixelContrast?.beaconText ?? 0) >= 4.5, score: Math.min(results.pixelContrast?.mapShort ?? 0, results.pixelContrast?.mapCount ?? 0, results.pixelContrast?.beaconTitle ?? 0, results.pixelContrast?.beaconText ?? 0) >= 4.5 ? 2 : 0 },
     ],
   },
   {

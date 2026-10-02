@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T06:57:22.068Z",
+  "generatedAt": "2026-10-02T07:18:00.314Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307630,
   "mainCssBytes": 70505,
@@ -124,12 +124,17 @@
         {
           "label": "正文对比度 ≥7（实测 10.38）",
           "pass": true,
-          "score": 4
+          "score": 3
         },
         {
           "label": "次要文字 ≥4.5（导语 10.38／标题 14.39）",
           "pass": true,
-          "score": 4
+          "score": 3
+        },
+        {
+          "label": "首页像素级对比度全部 ≥4.5（地图省简称 7.31／件数 5.46／荐读标题 10.3／荐读说明 7.81）",
+          "pass": true,
+          "score": 2
         }
       ]
     },
@@ -275,7 +280,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1368ms；FCP 1220ms；不限速 1040ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1156ms；FCP 1156ms；不限速 836ms）",
           "pass": true,
           "score": 4
         },
@@ -390,10 +395,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 340,
+        "lcpMs": 6348,
         "cls": 0.002,
-        "fcpMs": 44,
-        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
+        "fcpMs": 4536,
+        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
         "h1": 44,
@@ -431,13 +436,13 @@
       "mapLabels": {
         "short": {
           "css": 11,
-          "screenHeight": 17,
-          "effective": 14.8
+          "screenHeight": 16.9,
+          "effective": 14.7
         },
         "count": {
           "css": 12,
-          "screenHeight": 13,
-          "effective": 11.3
+          "screenHeight": 12.9,
+          "effective": 11.2
         }
       },
       "zoom": {
@@ -532,12 +537,12 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 296,
-        "eventCount": 48,
-        "lcpMs": 340,
+        "inpMs": 432,
+        "eventCount": 49,
+        "lcpMs": 6348,
         "cls": 0.002,
-        "fcpMs": 44,
-        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
+        "fcpMs": 4536,
+        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
         "h1": 28,
@@ -685,9 +690,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1040,
+        "lcpMs": 836,
         "cls": 0,
-        "fcpMs": 1040,
+        "fcpMs": 836,
         "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
@@ -801,9 +806,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 2600,
+        "lcpMs": 2788,
         "cls": 0,
-        "fcpMs": 1040,
+        "fcpMs": 836,
         "lcpElement": "img shanhe-handscroll-mobile.jpg | is-loaded | "
       },
       "hierarchy": {
@@ -855,6 +860,12 @@
         "ariaLive": 0
       },
       "overflow": 0
+    },
+    "pixelContrast": {
+      "mapShort": 7.31,
+      "mapCount": 5.46,
+      "beaconTitle": 10.3,
+      "beaconText": 7.81
     },
     "reducedMotion": {
       "paragraph": {
@@ -914,9 +925,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 696,
+        "lcpMs": 1780,
         "cls": 0.002,
-        "fcpMs": 300,
+        "fcpMs": 1588,
         "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
@@ -1068,10 +1079,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1368,
+        "lcpMs": 1156,
         "cls": 0,
-        "fcpMs": 1220,
-        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
+        "fcpMs": 1156,
+        "lcpElement": "b |  | 山河入画"
       },
       "hierarchy": {
         "h1": null,
