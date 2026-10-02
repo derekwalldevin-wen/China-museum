@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T06:45:55.946Z",
+  "generatedAt": "2026-10-02T06:57:22.068Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307630,
   "mainCssBytes": 70505,
@@ -7,6 +7,32 @@
   "max": 100,
   "threshold": 85,
   "categories": [
+    {
+      "name": "视觉焦点",
+      "max": 4,
+      "items": [
+        {
+          "label": "故事页首屏抢眼文本 ≤1（实测 1 个：一口钟，为什么可以发出不/44px）",
+          "pass": true,
+          "score": 1
+        },
+        {
+          "label": "故事页首屏抢眼媒体 ≤1（实测 0 个：无）",
+          "pass": true,
+          "score": 1
+        },
+        {
+          "label": "首页首屏抢眼文本 ≤1（实测 1 个）",
+          "pass": true,
+          "score": 1
+        },
+        {
+          "label": "首页首屏抢眼媒体 ≤1（实测 1 个）",
+          "pass": true,
+          "score": 1
+        }
+      ]
+    },
     {
       "name": "地图标注",
       "max": 4,
@@ -46,17 +72,17 @@
     },
     {
       "name": "中文字排",
-      "max": 12,
+      "max": 10,
       "items": [
         {
           "label": "正文使用衬线（系统宋体等）",
           "pass": true,
-          "score": 3
+          "score": 2
         },
         {
           "label": "行长 30–34 字（实测 34）",
           "pass": true,
-          "score": 3
+          "score": 2
         },
         {
           "label": "段首缩进 2em（实测 2em）",
@@ -85,7 +111,7 @@
       "max": 2,
       "items": [
         {
-          "label": "一页字号数量 ≤10（实测 8）",
+          "label": "一页字号数量 ≤10（实测 9）",
           "pass": true,
           "score": 2
         }
@@ -112,7 +138,7 @@
       "max": 8,
       "items": [
         {
-          "label": "图片 alt 完整（缺 0/1）",
+          "label": "图片 alt 完整（缺 0/2）",
           "pass": true,
           "score": 2
         },
@@ -151,12 +177,12 @@
     },
     {
       "name": "性能预算",
-      "max": 9,
+      "max": 7,
       "items": [
         {
           "label": "首屏 JS ≤322KB（实测 308KB；硬上限 328KB）",
           "pass": true,
-          "score": 4
+          "score": 3
         },
         {
           "label": "图片策略：首图 eager（LCP）+ 列表图 lazy（源码 3 处）",
@@ -166,7 +192,7 @@
         {
           "label": "渲染阻塞样式包 ≤80KB（实测 69KB）",
           "pass": true,
-          "score": 3
+          "score": 2
         }
       ]
     },
@@ -217,7 +243,7 @@
           "score": 2
         },
         {
-          "label": "地标齐备（main 1／nav 3）",
+          "label": "地标齐备（main 2／nav 3）",
           "pass": true,
           "score": 2
         }
@@ -238,7 +264,7 @@
           "score": 3
         },
         {
-          "label": "状态播报齐备（aria-live/status/alert 3 处）",
+          "label": "状态播报齐备（aria-live/status/alert 1 处）",
           "pass": true,
           "score": 2
         }
@@ -249,7 +275,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1368ms；FCP 1228ms；不限速 1072ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1368ms；FCP 1220ms；不限速 1040ms）",
           "pass": true,
           "score": 4
         },
@@ -275,7 +301,7 @@
           "score": 2
         },
         {
-          "label": "章节/正文级差 ≥1.15（实测 1.41）",
+          "label": "章节/正文级差 ≥1.15（实测 1.53）",
           "pass": true,
           "score": 2
         }
@@ -286,7 +312,7 @@
       "max": 4,
       "items": [
         {
-          "label": "间距落在 4px 基准（实测 92%，189/205）",
+          "label": "间距落在 4px 基准（实测 91%，200/220）",
           "pass": true,
           "score": 2
         },
@@ -296,7 +322,7 @@
           "score": 1
         },
         {
-          "label": "阴影取值收敛（实测 1 种）",
+          "label": "阴影取值收敛（实测 2 种）",
           "pass": true,
           "score": 1
         }
@@ -331,6 +357,7 @@
         14,
         16,
         17,
+        18,
         20,
         24,
         28,
@@ -339,20 +366,20 @@
       "belowTwelve": [],
       "belowTwelveCount": 0,
       "images": {
-        "total": 1,
+        "total": 2,
         "missingAlt": 0,
         "lazy": 0
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 44,
+      "transitioned": 45,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
       ],
       "structure": {
         "h1Count": 1,
-        "main": 1,
+        "main": 2,
         "nav": 3,
         "indexAnchors": 4,
         "progressDriven": true
@@ -363,34 +390,55 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 3512,
-        "cls": 0,
-        "fcpMs": 2020,
-        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
+        "lcpMs": 340,
+        "cls": 0.002,
+        "fcpMs": 44,
+        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
       },
       "hierarchy": {
         "h1": 44,
-        "h2": 24,
+        "h2": 26,
         "body": 17,
         "h1Ratio": 2.59,
-        "h2Ratio": 1.41
+        "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 205,
-        "onGrid": 189,
-        "ratio": 92
+        "total": 220,
+        "onGrid": 200,
+        "ratio": 91
+      },
+      "focal": {
+        "loudTextCount": 1,
+        "loudMediaCount": 0,
+        "texts": [
+          {
+            "kind": "text",
+            "size": 44,
+            "text": "一口钟，为什么可以发出不"
+          }
+        ],
+        "media": []
       },
       "tokens": {
         "radii": 0,
-        "shadows": 1,
+        "shadows": 2,
         "radiusValues": [],
         "shadowValues": [
+          "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0",
           "rgba(0, 0, 0, 0.2) 0px 10px 50px 0px"
         ]
       },
       "mapLabels": {
-        "short": null,
-        "count": null
+        "short": {
+          "css": 11,
+          "screenHeight": 17,
+          "effective": 14.8
+        },
+        "count": {
+          "css": 12,
+          "screenHeight": 13,
+          "effective": 11.3
+        }
       },
       "zoom": {
         "trigger": true,
@@ -399,7 +447,7 @@
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 3
+        "ariaLive": 1
       },
       "overflow": 0,
       "zoomWaited": true
@@ -484,12 +532,12 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 824,
-        "eventCount": 54,
-        "lcpMs": 3512,
+        "inpMs": 296,
+        "eventCount": 48,
+        "lcpMs": 340,
         "cls": 0.002,
-        "fcpMs": 2020,
-        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
+        "fcpMs": 44,
+        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
       },
       "hierarchy": {
         "h1": 28,
@@ -502,6 +550,12 @@
         "total": 220,
         "onGrid": 200,
         "ratio": 91
+      },
+      "focal": {
+        "loudTextCount": 0,
+        "loudMediaCount": 0,
+        "texts": [],
+        "media": []
       },
       "tokens": {
         "radii": 0,
@@ -631,9 +685,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1072,
+        "lcpMs": 1040,
         "cls": 0,
-        "fcpMs": 1072,
+        "fcpMs": 1040,
         "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
@@ -647,6 +701,24 @@
         "total": 388,
         "onGrid": 76,
         "ratio": 20
+      },
+      "focal": {
+        "loudTextCount": 1,
+        "loudMediaCount": 1,
+        "texts": [
+          {
+            "kind": "text",
+            "size": 26,
+            "text": "现场看过它"
+          }
+        ],
+        "media": [
+          {
+            "kind": "media",
+            "tag": "svg",
+            "share": 69
+          }
+        ]
       },
       "tokens": null,
       "mapLabels": {
@@ -729,9 +801,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 3160,
+        "lcpMs": 2600,
         "cls": 0,
-        "fcpMs": 1072,
+        "fcpMs": 1040,
         "lcpElement": "img shanhe-handscroll-mobile.jpg | is-loaded | "
       },
       "hierarchy": {
@@ -745,6 +817,24 @@
         "total": 390,
         "onGrid": 64,
         "ratio": 16
+      },
+      "focal": {
+        "loudTextCount": 1,
+        "loudMediaCount": 1,
+        "texts": [
+          {
+            "kind": "text",
+            "size": 29,
+            "text": "山河入画"
+          }
+        ],
+        "media": [
+          {
+            "kind": "media",
+            "tag": "svg",
+            "share": 41
+          }
+        ]
       },
       "tokens": null,
       "mapLabels": {
@@ -824,9 +914,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1304,
+        "lcpMs": 696,
         "cls": 0.002,
-        "fcpMs": 572,
+        "fcpMs": 300,
         "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
@@ -840,6 +930,12 @@
         "total": 220,
         "onGrid": 200,
         "ratio": 91
+      },
+      "focal": {
+        "loudTextCount": 0,
+        "loudMediaCount": 0,
+        "texts": [],
+        "media": []
       },
       "tokens": {
         "radii": 0,
@@ -974,7 +1070,7 @@
         "eventCount": 0,
         "lcpMs": 1368,
         "cls": 0,
-        "fcpMs": 1228,
+        "fcpMs": 1220,
         "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
@@ -988,6 +1084,24 @@
         "total": 384,
         "onGrid": 74,
         "ratio": 19
+      },
+      "focal": {
+        "loudTextCount": 1,
+        "loudMediaCount": 1,
+        "texts": [
+          {
+            "kind": "text",
+            "size": 26,
+            "text": "现场看过它"
+          }
+        ],
+        "media": [
+          {
+            "kind": "media",
+            "tag": "svg",
+            "share": 69
+          }
+        ]
       },
       "tokens": null,
       "mapLabels": {

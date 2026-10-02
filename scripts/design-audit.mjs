@@ -75,6 +75,8 @@ const goto = async (url, readyExpression, readyTimeout = 25000) => {
 // 页面内取数：排版、对比度、无障碍、溢出
 const probe = `(() => {
   const px = value => parseFloat(value) || 0;
+  // 统一取"可见层"：故事页打开时地图仍是 aria-hidden / inert，历史上有三次统计被它污染
+  const visiblePool = selector => [...document.querySelectorAll(selector)].filter(element => !element.closest('[aria-hidden="true"], [inert]'));
   const luminance = ([r, g, b]) => { const f = c => { const s = c / 255; return s <= 0.03928 ? s / 12.92 : Math.pow((s + 0.055) / 1.055, 2.4); }; return 0.2126 * f(r) + 0.7152 * f(g) + 0.0722 * f(b); };
   const parse = value => { const m = value.match(/rgba?\\(([^)]+)\\)/); if (!m) return null; const parts = m[1].split(',').map(v => parseFloat(v)); return { rgb: parts.slice(0, 3), a: parts.length > 3 ? parts[3] : 1 }; };
   const blend = (fg, bg) => fg.rgb.map((c, i) => Math.round(c * fg.a + bg[i] * (1 - fg.a)));
@@ -108,8 +110,7 @@ const probe = `(() => {
   let animated = 0, transitioned = 0, scrollDriven = 0;
   const animationNames = new Set();
   const seconds = value => Math.max(...String(value).split(',').map(part => parseFloat(part) || 0), 0);
-  for (const element of document.querySelectorAll('.story-experience *, main *')) {
-    if (element.closest('[aria-hidden="true"], [inert]')) continue;
+  for (const element of visiblePool('.story-experience *, main *')) {
     const style = getComputedStyle(element);
     const duration = seconds(style.animationDuration);
     if (style.animationName && style.animationName !== 'none') {
@@ -123,9 +124,7 @@ const probe = `(() => {
 
   const sizes = new Map();
   const below = [];
-  for (const element of document.querySelectorAll('.story-experience *, main *')) {
-    // 只统计真正可见的层：故事页打开时地图仍是 aria-hidden / inert，不计入。
-    if (element.closest('[aria-hidden="true"], [inert]')) continue;
+  for (const element of visiblePool('.story-experience *, main *')) {
     if (element.checkVisibility && !element.checkVisibility()) continue;
     const size = px(getComputedStyle(element).fontSize);
     if (!element.textContent.trim()) continue;
@@ -206,6 +205,29 @@ const probe = `(() => {
         }
       }
       return { total, onGrid, ratio: total ? Math.round((onGrid / total) * 100) : 100 };
+    })(),
+    focal: (() => {
+      const viewportArea = innerWidth * innerHeight;
+      const pool = visiblePool('.story-experience *, .atlas-shell *');
+      const bodyElement = document.querySelector('.story-chapters p') ?? document.body;
+      const bodySize = parseFloat(getComputedStyle(bodyElement).fontSize) || 16;
+      const loud = [];
+      for (const element of pool) {
+        const box = element.getBoundingClientRect();
+        if (box.width <= 8 || box.height <= 8 || box.top >= innerHeight || box.bottom <= 0) continue;
+        const style = getComputedStyle(element);
+        if (style.visibility === 'hidden' || style.opacity === '0') continue;
+        const own = [...element.childNodes].filter(node => node.nodeType === 3 && node.textContent.trim()).map(node => node.textContent.trim()).join('');
+        if (own.length >= 2 && parseFloat(style.fontSize) >= bodySize * 1.6) loud.push({ kind: 'text', size: Math.round(parseFloat(style.fontSize)), text: own.slice(0, 12) });
+        const isMedia = element.matches('img, svg, canvas');
+        if (isMedia && !element.parentElement?.closest('img, svg, canvas, picture')) {
+          const area = box.width * box.height;
+          if (area >= viewportArea * 0.2) loud.push({ kind: 'media', tag: element.tagName.toLowerCase(), share: Math.round(area / viewportArea * 100) });
+        }
+      }
+      // 文本按"含于更长文本"去重，只保留最外层的那条
+      const texts = loud.filter(item => item.kind === 'text').filter((item, index, list) => !list.some((other, otherIndex) => otherIndex !== index && other.text.includes(item.text) && other.size >= item.size));
+      return { loudTextCount: texts.length, loudMediaCount: loud.filter(item => item.kind === 'media').length, texts: texts.slice(0, 3), media: loud.filter(item => item.kind === 'media').slice(0, 3) };
     })(),
     tokens: (() => {
       const scope = document.querySelector('.story-experience');
@@ -400,6 +422,16 @@ const spacingTrimOk = String(results.desktopStory.paper?.spacingTrim ?? '').incl
 
 const categories = [
   {
+    name: '视觉焦点',
+    max: 4,
+    items: [
+      { label: `故事页首屏抢眼文本 ≤1（实测 ${results.desktopStory.focal?.loudTextCount ?? 'n/a'} 个：${(results.desktopStory.focal?.texts ?? []).map(item => item.text + '/' + item.size + 'px').join('、') || '无'}）`, pass: (results.desktopStory.focal?.loudTextCount ?? 9) <= 1, score: (results.desktopStory.focal?.loudTextCount ?? 9) <= 1 ? 1 : 0 },
+      { label: `故事页首屏抢眼媒体 ≤1（实测 ${results.desktopStory.focal?.loudMediaCount ?? 'n/a'} 个：${(results.desktopStory.focal?.media ?? []).map(item => item.tag + '/' + item.share + '%').join('、') || '无'}）`, pass: (results.desktopStory.focal?.loudMediaCount ?? 9) <= 1, score: (results.desktopStory.focal?.loudMediaCount ?? 9) <= 1 ? 1 : 0 },
+      { label: `首页首屏抢眼文本 ≤1（实测 ${results.desktopHome.focal?.loudTextCount ?? 'n/a'} 个）`, pass: (results.desktopHome.focal?.loudTextCount ?? 9) <= 1, score: (results.desktopHome.focal?.loudTextCount ?? 9) <= 1 ? 1 : 0 },
+      { label: `首页首屏抢眼媒体 ≤1（实测 ${results.desktopHome.focal?.loudMediaCount ?? 'n/a'} 个）`, pass: (results.desktopHome.focal?.loudMediaCount ?? 9) <= 1, score: (results.desktopHome.focal?.loudMediaCount ?? 9) <= 1 ? 1 : 0 },
+    ],
+  },
+  {
     name: '地图标注',
     max: 4,
     items: [
@@ -419,10 +451,10 @@ const categories = [
 
   {
     name: '中文字排',
-    max: 12,
+    max: 10,
     items: [
-      { label: '正文使用衬线（系统宋体等）', pass: serifOk, score: serifOk ? 3 : 0 },
-      { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 3 : 1 },
+      { label: '正文使用衬线（系统宋体等）', pass: serifOk, score: serifOk ? 2 : 0 },
+      { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 2 : 1 },
       { label: `段首缩进 2em（实测 ${indentEm}em）`, pass: indentEm >= 1.9 && indentEm <= 2.1, score: indentEm >= 1.9 && indentEm <= 2.1 ? 2 : 0 },
       { label: `字号下限 ≥12px（违规 ${results.desktopStory.belowTwelveCount}）`, pass: results.desktopStory.belowTwelveCount === 0, score: results.desktopStory.belowTwelveCount === 0 ? 2 : 0 },
       { label: `行高 ≥1.8（实测 ${lineHeightRatio}）`, pass: lineHeightRatio >= 1.8, score: lineHeightRatio >= 1.8 ? 1 : 0 },
@@ -464,11 +496,11 @@ const categories = [
   },
   {
     name: '性能预算',
-    max: 9,
+    max: 7,
     items: [
-      { label: `首屏 JS ≤322KB（实测 ${Math.round((firstScreenBytes ?? 0) / 1000)}KB；硬上限 328KB）`, pass: (firstScreenBytes ?? 1e9) <= 322000, score: (firstScreenBytes ?? 1e9) <= 322000 ? 4 : (firstScreenBytes ?? 1e9) <= 328000 ? 2 : 0 },
+      { label: `首屏 JS ≤322KB（实测 ${Math.round((firstScreenBytes ?? 0) / 1000)}KB；硬上限 328KB）`, pass: (firstScreenBytes ?? 1e9) <= 322000, score: (firstScreenBytes ?? 1e9) <= 322000 ? 3 : (firstScreenBytes ?? 1e9) <= 328000 ? 1 : 0 },
       { label: `图片策略：首图 eager（LCP）+ 列表图 lazy（源码 ${lazyHits} 处）`, pass: lazyHits >= 2 && results.desktopStory.images.lazy === 0, score: lazyHits >= 2 && results.desktopStory.images.lazy === 0 ? 2 : 0 },
-      { label: `渲染阻塞样式包 ≤80KB（实测 ${Math.round((mainCssBytes ?? 0) / 1024)}KB）`, pass: (mainCssBytes ?? 1e9) <= 81920, score: (mainCssBytes ?? 1e9) <= 81920 ? 3 : 0 },
+      { label: `渲染阻塞样式包 ≤80KB（实测 ${Math.round((mainCssBytes ?? 0) / 1024)}KB）`, pass: (mainCssBytes ?? 1e9) <= 81920, score: (mainCssBytes ?? 1e9) <= 81920 ? 2 : 0 },
     ],
   },
   {
