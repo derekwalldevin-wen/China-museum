@@ -227,6 +227,38 @@ const probe = `(() => {
       }
       return { total, onGrid, ratio: total ? Math.round((onGrid / total) * 100) : 100 };
     })(),
+    kinsoku: (() => {
+      // 破折号「—」按 GB/T 15834 允许出现在行首，不计入违规
+      const BAD_START = '、。，．；：！？）］｝〉》」』】〕｀´〃…‥·～!?,.;:)]}';
+      const BAD_END = '（［｛〈《「『【〔([{';
+      let total = 0, badStart = 0, badEnd = 0; const samples = [];
+      for (const paragraph of document.querySelectorAll('.story-chapters p')) {
+        if ((paragraph.textContent ?? '').length < 20) continue;
+        const walker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+        const lines = [];
+        while (walker.nextNode()) {
+          const node = walker.currentNode;
+          for (let index = 0; index < node.data.length; index += 1) {
+            const range = document.createRange();
+            range.setStart(node, index); range.setEnd(node, index + 1);
+            const rect = range.getBoundingClientRect();
+            if (!rect.width && !rect.height) continue;
+            const top = Math.round(rect.top);
+            const last = lines[lines.length - 1];
+            if (last && Math.abs(last.top - top) <= 3) last.text += node.data[index];
+            else lines.push({ top, text: node.data[index] });
+          }
+        }
+        for (const line of lines) {
+          const value = line.text.replace(/\s/g, '');
+          if (value.length < 4) continue;
+          total += 1;
+          if (BAD_START.includes(value[0])) { badStart += 1; if (samples.length < 4) samples.push('行首' + value[0]); }
+          if (BAD_END.includes(value[value.length - 1])) { badEnd += 1; if (samples.length < 4) samples.push('行尾' + value[value.length - 1]); }
+        }
+      }
+      return { lines: total, badStart, badEnd, samples };
+    })(),
     mapHit: (() => {
       const circles = [...document.querySelectorAll('.scroll-label-hit')].filter(el => el.getClientRects().length);
       if (!circles.length) return null;
@@ -601,7 +633,7 @@ const categories = [
 
   {
     name: '中文字排',
-    max: 7,
+    max: 9,
     items: [
       { label: '正文使用衬线（系统宋体等）', pass: serifOk, score: serifOk ? 1 : 0 },
       { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 1 : 1 },
@@ -609,6 +641,8 @@ const categories = [
       { label: `字号下限 ≥12px（违规 ${results.desktopStory.belowTwelveCount}）`, pass: results.desktopStory.belowTwelveCount === 0, score: results.desktopStory.belowTwelveCount === 0 ? 2 : 0 },
       { label: `行高 ≥1.8（实测 ${lineHeightRatio}）`, pass: lineHeightRatio >= 1.8, score: lineHeightRatio >= 1.8 ? 1 : 0 },
       { label: '标点宽度调整（text-spacing-trim）', pass: spacingTrimOk, score: spacingTrimOk ? 1 : 0 },
+      { label: `避头尾：行首无禁则标点（实测 ${results.desktopStory.kinsoku?.lines ?? 'n/a'} 行，违规 ${results.desktopStory.kinsoku?.badStart ?? 'n/a'} 处）`, pass: (results.desktopStory.kinsoku?.badStart ?? 9) === 0, score: (results.desktopStory.kinsoku?.badStart ?? 9) === 0 ? 1 : 0 },
+      { label: `避头尾：行尾无开括号类（实测违规 ${results.desktopStory.kinsoku?.badEnd ?? 'n/a'} 处）`, pass: (results.desktopStory.kinsoku?.badEnd ?? 9) === 0, score: (results.desktopStory.kinsoku?.badEnd ?? 9) === 0 ? 1 : 0 },
     ],
   },
   {
@@ -620,10 +654,10 @@ const categories = [
   },
   {
     name: '对比度',
-    max: 8,
+    max: 6,
     items: [
-      { label: `正文对比度 ≥7（实测 ${results.desktopStory.paragraph?.contrast}）`, pass: (results.desktopStory.paragraph?.contrast ?? 0) >= 7, score: (results.desktopStory.paragraph?.contrast ?? 0) >= 7 ? 3 : 2 },
-      { label: `次要文字 ≥4.5（导语 ${results.desktopStory.summaryContrast}／标题 ${results.desktopStory.heading?.contrast}）`, pass: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5, score: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5 ? 3 : 1 },
+      { label: `正文对比度 ≥7（实测 ${results.desktopStory.paragraph?.contrast}）`, pass: (results.desktopStory.paragraph?.contrast ?? 0) >= 7, score: (results.desktopStory.paragraph?.contrast ?? 0) >= 7 ? 2 : 1 },
+      { label: `次要文字 ≥4.5（导语 ${results.desktopStory.summaryContrast}／标题 ${results.desktopStory.heading?.contrast}）`, pass: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5, score: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5 ? 2 : 1 },
       { label: `首页像素级对比度全部 ≥4.5（地图省简称 ${results.pixelContrast?.mapShort ?? 'n/a'}／件数 ${results.pixelContrast?.mapCount ?? 'n/a'}／荐读标题 ${results.pixelContrast?.beaconTitle ?? 'n/a'}／荐读说明 ${results.pixelContrast?.beaconText ?? 'n/a'}）`, pass: Math.min(results.pixelContrast?.mapShort ?? 0, results.pixelContrast?.mapCount ?? 0, results.pixelContrast?.beaconTitle ?? 0, results.pixelContrast?.beaconText ?? 0) >= 4.5, score: Math.min(results.pixelContrast?.mapShort ?? 0, results.pixelContrast?.mapCount ?? 0, results.pixelContrast?.beaconTitle ?? 0, results.pixelContrast?.beaconText ?? 0) >= 4.5 ? 2 : 0 },
     ],
   },

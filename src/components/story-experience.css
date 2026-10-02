@@ -73,6 +73,8 @@
   font-family:var(--font-serif);font-size:var(--t-body);line-height:var(--leading-body);overflow-wrap:anywhere;
   text-indent:2em;margin:0 0 .55em;max-width:36em;
   text-align:justify;text-justify:inter-ideograph;text-wrap:pretty;font-variant-numeric:tabular-nums;
+  /* 避头尾：严格禁则，避免行首落在标点/破折号上 */
+  line-break:strict;
 }
 .story-paper p:last-child{margin-bottom:0}
 .story-section-label{display:block;font-family:var(--font-sans);font-size:var(--t-micro);letter-spacing:.17em;color:#874331;margin-bottom:12px;text-indent:0}
