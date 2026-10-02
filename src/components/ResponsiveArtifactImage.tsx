@@ -64,7 +64,7 @@ export default function ResponsiveArtifactImage({ image, sizes, deferUntilNearVi
         onError={handleError}
         onLoad={handleLoad}
         fetchPriority={props.fetchPriority ?? (revealAfterDecode ? 'high' : undefined)}
-        className={`${className ?? ''} ${revealAfterDecode ? (decodedReady ? 'opacity-100' : 'opacity-0') : ''}`}
+        className={`${className ?? ''} ${revealAfterDecode ? `transition-opacity duration-500 ease-out ${decodedReady ? 'opacity-100' : 'opacity-0'}` : ''}`}
         data-original-src={image.src}
         data-responsive-bypassed={bypassResponsive || undefined}
         data-artifact-image-ready={decodedReady ? 'true' : undefined}

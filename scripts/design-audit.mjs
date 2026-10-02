@@ -377,6 +377,12 @@ const probe = `(() => {
       };
       return { short: measure('.scroll-label-short'), count: measure('.scroll-label-count') };
     })(),
+    imageReveal: (() => {
+      const image = document.querySelector('[data-detail-image-state] img') ?? document.querySelector('.story-figure img');
+      if (!image) return null;
+      const style = getComputedStyle(image);
+      return { property: style.transitionProperty, duration: style.transitionDuration };
+    })(),
     zoom: {
       trigger: !!document.querySelector('.artifact-zoom-trigger'),
       statuses: document.querySelectorAll('.artifact-status').length,
@@ -710,10 +716,11 @@ const categories = [
   },
   {
     name: '图像工艺',
-    max: 4,
+    max: 5,
     items: [
       { label: `作品图可放大（入口存在 ${results.desktopStory.zoom?.trigger ? '有' : '无'}，状态标记 ${results.desktopStory.zoom?.statuses} 处）`, pass: !!results.desktopStory.zoom?.trigger, score: results.desktopStory.zoom?.trigger ? 2 : 0 },
       { label: `放大视图为 aria-modal 对话框且 Esc 可关（打开 ${results.zoomDialog?.opened ? '是' : '否'}／模态 ${results.zoomDialog?.ariaModal ? '是' : '否'}／Esc 关闭 ${results.zoomDialog?.closedByEscape ? '是' : '否'}）`, pass: !!results.zoomDialog?.opened && !!results.zoomDialog?.ariaModal && !!results.zoomDialog?.closedByEscape, score: results.zoomDialog?.opened && results.zoomDialog?.ariaModal && results.zoomDialog?.closedByEscape ? 2 : 0 },
+      { label: `图片渐显（首图过渡 property=${results.desktopStory.imageReveal?.property ?? 'n/a'} duration=${results.desktopStory.imageReveal?.duration ?? 'n/a'}）`, pass: String(results.desktopStory.imageReveal?.property ?? '').includes('opacity') && parseFloat(results.desktopStory.imageReveal?.duration ?? '0') > 0, score: String(results.desktopStory.imageReveal?.property ?? '').includes('opacity') && parseFloat(results.desktopStory.imageReveal?.duration ?? '0') > 0 ? 1 : 0 },
     ],
   },
 
@@ -768,9 +775,9 @@ const categories = [
   },
   {
     name: '性能预算',
-    max: 7,
+    max: 6,
     items: [
-      { label: `首屏 JS ≤322KB（实测 ${Math.round((firstScreenBytes ?? 0) / 1000)}KB；硬上限 328KB）`, pass: (firstScreenBytes ?? 1e9) <= 322000, score: (firstScreenBytes ?? 1e9) <= 322000 ? 3 : (firstScreenBytes ?? 1e9) <= 328000 ? 1 : 0 },
+      { label: `首屏 JS ≤322KB（实测 ${Math.round((firstScreenBytes ?? 0) / 1000)}KB；硬上限 328KB）`, pass: (firstScreenBytes ?? 1e9) <= 322000, score: (firstScreenBytes ?? 1e9) <= 322000 ? 2 : (firstScreenBytes ?? 1e9) <= 328000 ? 1 : 0 },
       { label: `图片策略：首图 eager（LCP）+ 列表图 lazy（源码 ${lazyHits} 处）`, pass: lazyHits >= 2 && results.desktopStory.images.lazy === 0, score: lazyHits >= 2 && results.desktopStory.images.lazy === 0 ? 2 : 0 },
       { label: `渲染阻塞样式包 ≤80KB（实测 ${Math.round((mainCssBytes ?? 0) / 1024)}KB）`, pass: (mainCssBytes ?? 1e9) <= 81920, score: (mainCssBytes ?? 1e9) <= 81920 ? 2 : 0 },
     ],

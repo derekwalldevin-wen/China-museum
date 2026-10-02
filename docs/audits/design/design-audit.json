@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-02T16:02:54.754Z",
+  "generatedAt": "2026-10-02T16:14:28.350Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307741,
-  "mainCssBytes": 71178,
+  "mainCssBytes": 71421,
   "total": 100,
   "max": 100,
   "threshold": 85,
@@ -97,7 +97,7 @@
     },
     {
       "name": "图像工艺",
-      "max": 4,
+      "max": 5,
       "items": [
         {
           "label": "作品图可放大（入口存在 有，状态标记 1 处）",
@@ -108,6 +108,11 @@
           "label": "放大视图为 aria-modal 对话框且 Esc 可关（打开 是／模态 是／Esc 关闭 是）",
           "pass": true,
           "score": 2
+        },
+        {
+          "label": "图片渐显（首图过渡 property=opacity duration=0.52s）",
+          "pass": true,
+          "score": 1
         }
       ]
     },
@@ -167,7 +172,7 @@
       "max": 2,
       "items": [
         {
-          "label": "一页字号数量 ≤10（实测 8）",
+          "label": "一页字号数量 ≤10（实测 9）",
           "pass": true,
           "score": 2
         }
@@ -238,12 +243,12 @@
     },
     {
       "name": "性能预算",
-      "max": 7,
+      "max": 6,
       "items": [
         {
           "label": "首屏 JS ≤322KB（实测 308KB；硬上限 328KB）",
           "pass": true,
-          "score": 3
+          "score": 2
         },
         {
           "label": "图片策略：首图 eager（LCP）+ 列表图 lazy（源码 3 处）",
@@ -267,12 +272,12 @@
           "score": 3
         },
         {
-          "label": "有效缓动取值收敛 ≤4 种（实测 1 种：ease×88）",
+          "label": "有效缓动取值收敛 ≤4 种（实测 2 种：ease×90、cubic-bezier(0, 0, 0.2, 1)×1）",
           "pass": true,
           "score": 1
         },
         {
-          "label": "动效时长收敛（有效短时长 1 种，全部落在尺度上 1 种：0.16s×44）",
+          "label": "动效时长收敛（有效短时长 2 种，全部落在尺度上 2 种：0.16s×45、0.52s×1）",
           "pass": true,
           "score": 2
         },
@@ -340,7 +345,7 @@
           "score": 3
         },
         {
-          "label": "状态播报齐备（aria-live/status/alert 2 处）",
+          "label": "状态播报齐备（aria-live/status/alert 1 处）",
           "pass": true,
           "score": 2
         }
@@ -351,7 +356,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1344ms；FCP 1344ms；不限速 1096ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1140ms；FCP 1140ms；不限速 2512ms）",
           "pass": true,
           "score": 4
         },
@@ -388,7 +393,7 @@
       "max": 5,
       "items": [
         {
-          "label": "间距落在 4px 基准（实测 92%，189/205）",
+          "label": "间距落在 4px 基准（实测 91%，200/220）",
           "pass": true,
           "score": 2
         },
@@ -403,7 +408,7 @@
           "score": 1
         },
         {
-          "label": "阴影取值收敛（实测 1 种）",
+          "label": "阴影取值收敛（实测 2 种）",
           "pass": true,
           "score": 1
         }
@@ -438,6 +443,7 @@
         14,
         16,
         17,
+        18,
         20,
         24,
         28,
@@ -452,7 +458,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 44,
+      "transitioned": 46,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -470,10 +476,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 8588,
-        "cls": 0,
-        "fcpMs": 4544,
-        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
+        "lcpMs": 2912,
+        "cls": 0.002,
+        "fcpMs": 1560,
+        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
         "h1": 44,
@@ -483,9 +489,9 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 205,
-        "onGrid": 189,
-        "ratio": 92
+        "total": 220,
+        "onGrid": 200,
+        "ratio": 91
       },
       "kinsoku": {
         "lines": 42,
@@ -513,21 +519,22 @@
       },
       "tokens": {
         "radii": 0,
-        "shadows": 1,
+        "shadows": 2,
         "radiusValues": [],
         "shadowValues": [
+          "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0",
           "rgba(0, 0, 0, 0.2) 0px 10px 50px 0px"
         ]
       },
       "easings": {
-        "kinds": 1,
-        "list": "ease×88"
+        "kinds": 2,
+        "list": "ease×90、cubic-bezier(0, 0, 0.2, 1)×1"
       },
       "motion": {
-        "kinds": 1,
-        "shortKinds": 1,
-        "onScaleKinds": 1,
-        "shortList": "0.16s×44"
+        "kinds": 2,
+        "shortKinds": 2,
+        "onScaleKinds": 2,
+        "shortList": "0.16s×45、0.52s×1"
       },
       "autospace": {
         "on": 107.42,
@@ -549,6 +556,10 @@
           "effective": 11.3
         }
       },
+      "imageReveal": {
+        "property": "opacity",
+        "duration": "0.52s"
+      },
       "zoom": {
         "trigger": true,
         "statuses": 1
@@ -556,7 +567,7 @@
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 2
+        "ariaLive": 1
       },
       "overflow": 0,
       "zoomWaited": true
@@ -625,7 +636,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 45,
+      "transitioned": 46,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -641,12 +652,12 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 136,
+        "inpMs": 128,
         "eventCount": 28,
-        "lcpMs": 8588,
+        "lcpMs": 2912,
         "cls": 0.002,
-        "fcpMs": 4544,
-        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
+        "fcpMs": 1560,
+        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
         "h1": 28,
@@ -688,14 +699,14 @@
         ]
       },
       "easings": {
-        "kinds": 1,
-        "list": "ease×90"
+        "kinds": 2,
+        "list": "ease×90、cubic-bezier(0, 0, 0.2, 1)×1"
       },
       "motion": {
-        "kinds": 1,
-        "shortKinds": 1,
-        "onScaleKinds": 1,
-        "shortList": "0.16s×45"
+        "kinds": 2,
+        "shortKinds": 2,
+        "onScaleKinds": 2,
+        "shortList": "0.16s×45、0.52s×1"
       },
       "autospace": {
         "on": 107.42,
@@ -712,6 +723,10 @@
           "effective": 10.4
         },
         "count": null
+      },
+      "imageReveal": {
+        "property": "opacity",
+        "duration": "0.52s"
       },
       "zoom": {
         "trigger": true,
@@ -824,10 +839,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1096,
+        "lcpMs": 2512,
         "cls": 0,
-        "fcpMs": 1096,
-        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
+        "fcpMs": 728,
+        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
       },
       "hierarchy": {
         "h1": null,
@@ -902,6 +917,7 @@
           "effective": 11.3
         }
       },
+      "imageReveal": null,
       "zoom": {
         "trigger": false,
         "statuses": 0
@@ -970,9 +986,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 3140,
+        "lcpMs": 2972,
         "cls": 0,
-        "fcpMs": 1096,
+        "fcpMs": 728,
         "lcpElement": "img | is-loaded | "
       },
       "hierarchy": {
@@ -1044,6 +1060,7 @@
         },
         "count": null
       },
+      "imageReveal": null,
       "zoom": {
         "trigger": false,
         "statuses": 0
@@ -1106,9 +1123,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1680,
+          "lcpMs": 2344,
           "cls": 0,
-          "fcpMs": 1060,
+          "fcpMs": 1012,
           "lcpElement": "h1 |  | 从一个问题，走进千年生活。"
         },
         "hierarchy": {
@@ -1183,6 +1200,7 @@
             "effective": 11.3
           }
         },
+        "imageReveal": null,
         "zoom": {
           "trigger": false,
           "statuses": 0
@@ -1233,10 +1251,10 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1968,
+          "lcpMs": 2736,
           "cls": 0.001,
-          "fcpMs": 1008,
-          "lcpElement": "p |  | 从汉代灯具的结构出发，走到清宫新年的案头：灯怎么"
+          "fcpMs": 1004,
+          "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
         },
         "hierarchy": {
           "h1": 32,
@@ -1306,6 +1324,7 @@
           },
           "count": null
         },
+        "imageReveal": null,
         "zoom": {
           "trigger": false,
           "statuses": 0
@@ -1356,9 +1375,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1336,
+          "lcpMs": 1884,
           "cls": 0,
-          "fcpMs": 1336,
+          "fcpMs": 1884,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1409,6 +1428,7 @@
           "short": null,
           "count": null
         },
+        "imageReveal": null,
         "zoom": {
           "trigger": false,
           "statuses": 0
@@ -1459,9 +1479,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 932,
+          "lcpMs": 716,
           "cls": 0,
-          "fcpMs": 932,
+          "fcpMs": 716,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1512,6 +1532,7 @@
           "short": null,
           "count": null
         },
+        "imageReveal": null,
         "zoom": {
           "trigger": false,
           "statuses": 0
@@ -1607,9 +1628,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1584,
+        "lcpMs": 1804,
         "cls": 0.002,
-        "fcpMs": 668,
+        "fcpMs": 1480,
         "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
@@ -1680,6 +1701,10 @@
           "screenHeight": 13,
           "effective": 11.3
         }
+      },
+      "imageReveal": {
+        "property": "none",
+        "duration": "0s"
       },
       "zoom": {
         "trigger": true,
@@ -1791,9 +1816,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1344,
+        "lcpMs": 1140,
         "cls": 0,
-        "fcpMs": 1344,
+        "fcpMs": 1140,
         "lcpElement": "b |  | 山河入画"
       },
       "hierarchy": {
@@ -1869,6 +1894,7 @@
           "effective": 11.3
         }
       },
+      "imageReveal": null,
       "zoom": {
         "trigger": false,
         "statuses": 0
