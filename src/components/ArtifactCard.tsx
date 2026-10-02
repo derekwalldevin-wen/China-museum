@@ -166,6 +166,15 @@ function ResolvedArtifactFigure({ artifact, info, delivery, className, preserveF
   const imageKey = activeImage?.src ?? `${artifact.id}:fallback`;
   const [decoded, setDecoded] = useState<{ key: string; ready: boolean }>({ key: imageKey, ready: false });
   const imageReady = decoded.key === imageKey && decoded.ready;
+  // 放大浏览：打开时把焦点移到关闭按钮，关闭后归还原触发按钮（键盘可用）
+  const [zoomOpen, setZoomOpen] = useState(false);
+  const zoomTrigger = useRef<HTMLButtonElement>(null);
+  const zoomClose = useRef<HTMLButtonElement>(null);
+  const zoomReturn = useRef(false);
+  useEffect(() => {
+    if (zoomOpen) { zoomReturn.current = true; zoomClose.current?.focus(); }
+    else if (zoomReturn.current) { zoomReturn.current = false; zoomTrigger.current?.focus(); }
+  }, [zoomOpen]);
 
   if (artifact.shape === 'scroll' && usePhoto && activeImage.kind !== 'ai') {
     return (<>
@@ -195,11 +204,23 @@ function ResolvedArtifactFigure({ artifact, info, delivery, className, preserveF
       <div className="absolute right-3 bottom-3 h-9 w-9 bg-[#d43a28] flex items-center justify-center shadow-lg">
         <span className="font-serif text-lg font-bold text-[#0e0d0a]">{artifact.category[0]}</span>
       </div>
-      <div className="absolute left-3 bottom-3 font-mono text-[12px] text-[#efe6cf]/50 bg-[#0d0c09]/70 px-1.5 py-0.5">
+      <div className="artifact-status" data-status={hold ? 'hold' : activeImage?.kind === 'ai' ? 'ai' : 'source'}>
         {hold ? '图像核验中' : label}
       </div>
+      {usePhoto && <button type="button" ref={zoomTrigger} onClick={() => setZoomOpen(true)} aria-haspopup="dialog" className="artifact-zoom-trigger" aria-label={`放大查看：${artifact.name}`}><span aria-hidden="true">⤢</span>放大</button>}
     </div>
     <ArtifactImageDisclosure info={info} image={usePhoto ? activeImage : null} />
+    {zoomOpen && usePhoto && <div className="artifact-zoom" role="dialog" aria-modal="true" aria-label={`放大查看：${artifact.name}`}
+      onKeyDown={(event) => { if (event.key === 'Escape') { event.stopPropagation(); setZoomOpen(false); } }}>
+      <button type="button" ref={zoomClose} onClick={() => setZoomOpen(false)} className="artifact-zoom-close" aria-label="关闭放大视图">✕ 关闭</button>
+      <figure className="artifact-zoom-figure">
+        <ResponsiveArtifactImage image={activeImage} sizes="100vw" alt={artifact.name} decoding="async" loading="eager" onError={onError} className="artifact-zoom-image" />
+        <figcaption>
+          <span className="artifact-status" data-status={activeImage.kind === 'ai' ? 'ai' : 'source'}>{label}</span>
+          <b>{artifact.name}</b>
+        </figcaption>
+      </figure>
+    </div>}
   </>);
 }
 

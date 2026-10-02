@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-10-02T02:03:10.756Z",
+  "generatedAt": "2026-10-02T02:44:00.221Z",
   "story": "hub-zhy",
   "firstScreenBytes": 320902,
   "total": 100,
   "max": 100,
   "threshold": 85,
   "categories": [
+    {
+      "name": "图像工艺",
+      "max": 6,
+      "items": [
+        {
+          "label": "作品图可放大（入口存在 有，状态标记 1 处）",
+          "pass": true,
+          "score": 3
+        },
+        {
+          "label": "放大视图为 aria-modal 对话框且 Esc 可关（打开 是／模态 是／Esc 关闭 是）",
+          "pass": true,
+          "score": 3
+        }
+      ]
+    },
     {
       "name": "中文字排",
       "max": 16,
@@ -44,44 +60,44 @@
     },
     {
       "name": "字号体系",
-      "max": 4,
+      "max": 2,
       "items": [
         {
           "label": "一页字号数量 ≤10（实测 9）",
+          "pass": true,
+          "score": 2
+        }
+      ]
+    },
+    {
+      "name": "对比度",
+      "max": 8,
+      "items": [
+        {
+          "label": "正文对比度 ≥7（实测 10.38）",
+          "pass": true,
+          "score": 4
+        },
+        {
+          "label": "次要文字 ≥4.5（导语 10.38／标题 14.39）",
           "pass": true,
           "score": 4
         }
       ]
     },
     {
-      "name": "对比度",
-      "max": 10,
-      "items": [
-        {
-          "label": "正文对比度 ≥7（实测 10.38）",
-          "pass": true,
-          "score": 5
-        },
-        {
-          "label": "次要文字 ≥4.5（导语 10.38／标题 14.39）",
-          "pass": true,
-          "score": 5
-        }
-      ]
-    },
-    {
       "name": "无障碍",
-      "max": 10,
+      "max": 8,
       "items": [
         {
           "label": "图片 alt 完整（缺 0/2）",
           "pass": true,
-          "score": 3
+          "score": 2
         },
         {
           "label": "存在 :focus-visible 焦点样式",
           "pass": true,
-          "score": 3
+          "score": 2
         },
         {
           "label": "触控目标 ≥24×24（不合格 0）",
@@ -206,7 +222,7 @@
       "max": 8,
       "items": [
         {
-          "label": "LCP ≤2500ms（实测 376ms；FCP 376ms）",
+          "label": "LCP ≤2500ms（实测 2388ms；FCP 1800ms）",
           "pass": true,
           "score": 4
         },
@@ -238,7 +254,7 @@
       "max": 4,
       "items": [
         {
-          "label": "间距落在 4px 基准（实测 91%，194/214）",
+          "label": "间距落在 4px 基准（实测 91%，200/220）",
           "pass": true,
           "score": 4
         }
@@ -288,7 +304,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 44,
+      "transitioned": 45,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -304,9 +320,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 5580,
+        "lcpMs": 3008,
         "cls": 0.002,
-        "fcpMs": 2952
+        "fcpMs": 2784,
+        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
       },
       "hierarchy": {
         "h1": 44,
@@ -316,16 +333,28 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 214,
-        "onGrid": 194,
+        "total": 220,
+        "onGrid": 200,
         "ratio": 91
+      },
+      "zoom": {
+        "trigger": true,
+        "statuses": 1
       },
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
         "ariaLive": 1
       },
-      "overflow": 0
+      "overflow": 0,
+      "zoomWaited": true
+    },
+    "zoomDialog": {
+      "triggerFound": true,
+      "opened": true,
+      "ariaModal": true,
+      "closedByEscape": true,
+      "focusInside": true
     },
     "mobileStory": {
       "paragraph": {
@@ -369,7 +398,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 44,
+      "transitioned": 45,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -385,9 +414,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 5580,
+        "lcpMs": 3008,
         "cls": 0.002,
-        "fcpMs": 2952
+        "fcpMs": 2784,
+        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
       },
       "hierarchy": {
         "h1": 28,
@@ -397,9 +427,13 @@
         "h2Ratio": 1.29
       },
       "spacing": {
-        "total": 214,
-        "onGrid": 194,
+        "total": 220,
+        "onGrid": 200,
         "ratio": 91
+      },
+      "zoom": {
+        "trigger": true,
+        "statuses": 1
       },
       "keyboard": {
         "skipLink": true,
@@ -415,7 +449,6 @@
       "paper": null,
       "distinctSizes": [
         7,
-        10,
         11,
         16
       ],
@@ -481,7 +514,7 @@
           "text": "2"
         }
       ],
-      "belowTwelveCount": 69,
+      "belowTwelveCount": 68,
       "images": {
         "total": 1,
         "missingAlt": 0,
@@ -506,9 +539,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 376,
+        "lcpMs": 2388,
         "cls": 0,
-        "fcpMs": 376
+        "fcpMs": 1800,
+        "lcpElement": "text | [object SVGAnimatedString] | 山河入画"
       },
       "hierarchy": {
         "h1": null,
@@ -518,9 +552,13 @@
         "h2Ratio": null
       },
       "spacing": {
-        "total": 385,
-        "onGrid": 74,
+        "total": 381,
+        "onGrid": 72,
         "ratio": 19
+      },
+      "zoom": {
+        "trigger": false,
+        "statuses": 0
       },
       "keyboard": {
         "skipLink": true,
@@ -628,9 +666,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 5804,
+        "lcpMs": 2388,
         "cls": 0,
-        "fcpMs": 376
+        "fcpMs": 1800,
+        "lcpElement": "text | [object SVGAnimatedString] | 山河入画"
       },
       "hierarchy": {
         "h1": null,
@@ -643,6 +682,10 @@
         "total": 387,
         "onGrid": 62,
         "ratio": 16
+      },
+      "zoom": {
+        "trigger": false,
+        "statuses": 0
       },
       "keyboard": {
         "skipLink": true,
@@ -707,9 +750,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 344,
+        "lcpMs": 700,
         "cls": 0.002,
-        "fcpMs": 280
+        "fcpMs": 584,
+        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
       },
       "hierarchy": {
         "h1": 44,
@@ -719,9 +763,13 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 214,
-        "onGrid": 194,
+        "total": 220,
+        "onGrid": 200,
         "ratio": 91
+      },
+      "zoom": {
+        "trigger": true,
+        "statuses": 1
       },
       "keyboard": {
         "skipLink": true,

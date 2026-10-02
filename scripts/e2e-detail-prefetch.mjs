@@ -62,7 +62,8 @@ async function withPage({ mobile = false, weak = false, allowBlocked = false } =
 console.log('check: mobile idle');
 await withPage({ mobile:true }, async page => {
   await page.navigate(galleryUrl);
-  await page.wait(`document.querySelectorAll('[data-artifact-image-state="loaded"] img').length === 2 && document.querySelectorAll('[data-artifact-image-state="deferred"]').length === 2`, 'two-card guard');
+  // 首两张卡片加载缩略图，其余卡片保持 deferred（数量随馆藏件数变化，故按卡片数推导）
+  await page.wait(`document.querySelectorAll('[data-artifact-image-state="loaded"] img').length === 2 && document.querySelectorAll('[data-artifact-image-state="deferred"]').length === ${cards}.length - 2 && ${cards}.length >= 2`, 'two-card guard');
   await sleep(700);
   assert.equal(await page.evaluate(`${imageEntries}.filter(entry => new URL(entry.name).pathname.includes('-card-w')).length`), 2);
   assert.equal(await page.evaluate(`${imageEntries}.filter(entry => new URL(entry.name).pathname.includes('-detail-')).length`), 0);
@@ -149,8 +150,11 @@ console.log('check: history');
 await withPage({ mobile:true }, async page => {
   await page.navigate(galleryUrl);
   await page.wait(`document.querySelectorAll('[data-artifact-image-state="loaded"] img').length === 2`, 'history cards');
-  const rootTop = await page.evaluate(`(() => { const root=document.querySelector('[data-artifact-scroll-root]'); root.scrollTop=root.scrollHeight; return root.scrollTop; })()`);
+  // 与下方千里江山图同一套做法：把目标卡片滚入视口，再等它的缩略图加载
+  // （直接跳到底部时中间的卡片始终在视口外，延迟图按设计不会加载）
+  await page.evaluate(`${cardByName('各种釉彩大瓶')}.scrollIntoView({ block:'center' })`);
   await page.wait(`!!${cardByName('各种釉彩大瓶')}.querySelector('img')`, 'lower card');
+  const rootTop = await page.evaluate(`document.querySelector('[data-artifact-scroll-root]').scrollTop`);
   const point = await pointFor(page, cardByName('各种釉彩大瓶'));
   await touch(page, point);
   await page.wait(`!!document.querySelector('[data-detail-image-state="ready"]')`, 'history detail ready');

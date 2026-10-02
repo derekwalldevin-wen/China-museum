@@ -29,12 +29,15 @@ const send = (method, params = {}, sessionId) => new Promise((resolve, reject) =
 const { targetId } = await send('Target.createTarget', { url: 'about:blank' });
 const { sessionId } = await send('Target.attachToTarget', { targetId, flatten: true });
 await send('Page.enable', {}, sessionId);
+// 冷启动度量：禁用 HTTP 缓存，让 LCP/CLS 反映真实首访
+await send('Network.enable', {}, sessionId);
+await send('Network.setCacheDisabled', { cacheDisabled: true }, sessionId);
 // 在导航前注入性能观察器，才能拿到 LCP 与 CLS
 await send('Page.addScriptToEvaluateOnNewDocument', { source: `
   window.__auditPerf = { cls: 0, lcp: 0 };
   try {
     new PerformanceObserver(list => { for (const entry of list.getEntries()) if (!entry.hadRecentInput) window.__auditPerf.cls += entry.value; }).observe({ type: 'layout-shift', buffered: true });
-    new PerformanceObserver(list => { const entries = list.getEntries(); window.__auditPerf.lcp = entries[entries.length - 1].startTime; }).observe({ type: 'largest-contentful-paint', buffered: true });
+    new PerformanceObserver(list => { const entries = list.getEntries(); const last = entries[entries.length - 1]; window.__auditPerf.lcp = last.startTime; const element = last.element; window.__auditPerf.lcpElement = element ? (element.tagName.toLowerCase() + (element.currentSrc ? ' ' + element.currentSrc.split('/').pop() : '') + ' | ' + (element.className || '').toString().slice(0, 40) + ' | ' + (element.textContent || '').trim().slice(0, 24)) : null; }).observe({ type: 'largest-contentful-paint', buffered: true });
   } catch { /* 旧浏览器忽略 */ }
 ` }, sessionId);
 
@@ -44,11 +47,25 @@ const evaluate = async expression => {
   return result.result.value;
 };
 const viewport = async (width, height, mobile) => send('Emulation.setDeviceMetricsOverride', { width, height, deviceScaleFactor: mobile ? 2 : 1, mobile }, sessionId);
-const goto = async url => {
+// 轮询等待页面条件成立：固定 sleep 在线上（走 CDN）会测到"尚未挂载"的空页面
+const waitFor = async (expression, label, timeoutMs = 25000) => {
+  const deadline = Date.now() + timeoutMs;
+  while (Date.now() < deadline) {
+    if (await evaluate(`!!(${expression})`)) return true;
+    await new Promise(resolve => setTimeout(resolve, 250));
+  }
+  throw new Error(`design-audit 等待超时：${label}`);
+};
+const goto = async (url, readyExpression) => {
   await send('Page.navigate', { url }, sessionId);
-  await new Promise(resolve => setTimeout(resolve, 5500));
-  const skip = await evaluate(`!!document.querySelector('.ink-intro-skip')`);
-  if (skip) { await evaluate(`document.querySelector('.ink-intro-skip').click()`); await new Promise(resolve => setTimeout(resolve, 1200)); }
+  await waitFor(`document.querySelector('.atlas-shell') || document.querySelector('.story-experience')`, '应用外壳挂载', 30000);
+  if (await evaluate(`!!document.querySelector('.ink-intro-skip')`)) {
+    await evaluate(`document.querySelector('.ink-intro-skip').click()`);
+    await waitFor(`!document.querySelector('[data-ink-intro]')`, '开场退出', 15000);
+  }
+  // 目标内容必须按路由判定（首页等地名，故事页等正文），否则会被另一层提前满足
+  await waitFor(readyExpression, `目标内容就绪：${readyExpression.slice(0, 60)}`);
+  await new Promise(resolve => setTimeout(resolve, 800));
 };
 
 // 页面内取数：排版、对比度、无障碍、溢出
@@ -164,7 +181,7 @@ const probe = `(() => {
     performance: (() => {
       const audit = window.__auditPerf ?? { cls: 0, lcp: 0 };
       const fcp = performance.getEntriesByName('first-contentful-paint')[0];
-      return { lcpMs: audit.lcp ? Math.round(audit.lcp) : null, cls: Math.round((audit.cls ?? 0) * 1000) / 1000, fcpMs: fcp ? Math.round(fcp.startTime) : null };
+      return { lcpMs: audit.lcp ? Math.round(audit.lcp) : null, cls: Math.round((audit.cls ?? 0) * 1000) / 1000, fcpMs: fcp ? Math.round(fcp.startTime) : null, lcpElement: audit.lcpElement ?? null };
     })(),
     hierarchy: (() => {
       const sizeOf = selector => { const element = document.querySelector(selector); return element ? parseFloat(getComputedStyle(element).fontSize) : null; };
@@ -186,6 +203,10 @@ const probe = `(() => {
       }
       return { total, onGrid, ratio: total ? Math.round((onGrid / total) * 100) : 100 };
     })(),
+    zoom: {
+      trigger: !!document.querySelector('.artifact-zoom-trigger'),
+      statuses: document.querySelectorAll('.artifact-status').length,
+    },
     keyboard: {
       skipLink: !!document.querySelector('.story-skip, a[data-skip-link]'),
       firstTabbable: (() => {
@@ -200,13 +221,32 @@ const probe = `(() => {
 
 const results = {};
 await viewport(1440, 960, false);
-await goto(`${base}?guide=1&story=${STORY}`);
+await goto(`${base}?guide=1&story=${STORY}`, `document.querySelector('.story-chapters p')`);
 results.desktopStory = await evaluate(probe);
+
+// 放大浏览：真实点击 → 出现 aria-modal 对话框 → Esc 关闭
+// 插图元数据在线上是异步取的：先等入口出现（最多 15 秒），再点
+const zoomReady = await waitFor("document.querySelector('.artifact-zoom-trigger')", '作品图放大入口', 15000).catch(() => false);
+// 入口随图片元数据异步出现，故等待后再读一次本维度数据
+results.desktopStory.zoom = await evaluate(`({ trigger: !!document.querySelector('.artifact-zoom-trigger'), statuses: document.querySelectorAll('.artifact-status').length })`);
+results.desktopStory.zoomWaited = zoomReady;
+const zoomTriggerBox = await evaluate(`(() => { const element = document.querySelector('.artifact-zoom-trigger'); if (!element) return null; const box = element.getBoundingClientRect(); return { x: Math.round(box.left + box.width / 2), y: Math.round(box.top + box.height / 2) }; })()`);
+results.zoomDialog = { triggerFound: !!zoomTriggerBox, opened: false, closedByEscape: false, ariaModal: false };
+if (zoomTriggerBox) {
+  await send('Input.dispatchMouseEvent', { type: 'mousePressed', x: zoomTriggerBox.x, y: zoomTriggerBox.y, button: 'left', clickCount: 1 }, sessionId);
+  await send('Input.dispatchMouseEvent', { type: 'mouseReleased', x: zoomTriggerBox.x, y: zoomTriggerBox.y, button: 'left', clickCount: 1 }, sessionId);
+  await new Promise(resolve => setTimeout(resolve, 600));
+  results.zoomDialog = await evaluate(`(() => { const dialog = document.querySelector('.artifact-zoom'); return { triggerFound: true, opened: !!dialog, ariaModal: dialog?.getAttribute('aria-modal') === 'true', closedByEscape: false, focusInside: !!dialog && dialog.contains(document.activeElement) }; })()`);
+  await send('Input.dispatchKeyEvent', { type: 'keyDown', key: 'Escape', code: 'Escape', windowsVirtualKeyCode: 27 }, sessionId);
+  await send('Input.dispatchKeyEvent', { type: 'keyUp', key: 'Escape', code: 'Escape', windowsVirtualKeyCode: 27 }, sessionId);
+  await new Promise(resolve => setTimeout(resolve, 400));
+  results.zoomDialog.closedByEscape = await evaluate(`!document.querySelector('.artifact-zoom')`);
+}
 await viewport(390, 844, true);
 await new Promise(resolve => setTimeout(resolve, 1200));
 results.mobileStory = await evaluate(probe);
 await viewport(1440, 960, false);
-await goto(base);
+await goto(base, `document.querySelectorAll('g.scroll-province').length === 34`);
 results.desktopHome = await evaluate(probe);
 await viewport(390, 844, true);
 await new Promise(resolve => setTimeout(resolve, 1200));
@@ -215,7 +255,7 @@ results.mobileHome = await evaluate(probe);
 // 减弱动效偏好下再测一次：滚动驱动与入场动画都必须消失（可降级）
 await send('Emulation.setEmulatedMedia', { features: [{ name: 'prefers-reduced-motion', value: 'reduce' }] }, sessionId);
 await viewport(1440, 960, false);
-await goto(`${base}?guide=1&story=${STORY}`);
+await goto(`${base}?guide=1&story=${STORY}`, `document.querySelector('.story-chapters p')`);
 results.reducedMotion = await evaluate(probe);
 await send('Emulation.setEmulatedMedia', { features: [] }, sessionId);
 await send('Target.closeTarget', { targetId });
@@ -293,6 +333,15 @@ const spacingTrimOk = String(results.desktopStory.paper?.spacingTrim ?? '').incl
 
 const categories = [
   {
+    name: '图像工艺',
+    max: 6,
+    items: [
+      { label: `作品图可放大（入口存在 ${results.desktopStory.zoom?.trigger ? '有' : '无'}，状态标记 ${results.desktopStory.zoom?.statuses} 处）`, pass: !!results.desktopStory.zoom?.trigger, score: results.desktopStory.zoom?.trigger ? 3 : 0 },
+      { label: `放大视图为 aria-modal 对话框且 Esc 可关（打开 ${results.zoomDialog?.opened ? '是' : '否'}／模态 ${results.zoomDialog?.ariaModal ? '是' : '否'}／Esc 关闭 ${results.zoomDialog?.closedByEscape ? '是' : '否'}）`, pass: !!results.zoomDialog?.opened && !!results.zoomDialog?.ariaModal && !!results.zoomDialog?.closedByEscape, score: results.zoomDialog?.opened && results.zoomDialog?.ariaModal && results.zoomDialog?.closedByEscape ? 3 : 0 },
+    ],
+  },
+
+  {
     name: '中文字排',
     max: 16,
     items: [
@@ -306,25 +355,25 @@ const categories = [
   },
   {
     name: '字号体系',
-    max: 4,
+    max: 2,
     items: [
-      { label: `一页字号数量 ≤10（实测 ${results.desktopStory.distinctSizes.length}）`, pass: results.desktopStory.distinctSizes.length <= 10, score: results.desktopStory.distinctSizes.length <= 10 ? 4 : 0 },
+      { label: `一页字号数量 ≤10（实测 ${results.desktopStory.distinctSizes.length}）`, pass: results.desktopStory.distinctSizes.length <= 10, score: results.desktopStory.distinctSizes.length <= 10 ? 2 : 0 },
     ],
   },
   {
     name: '对比度',
-    max: 10,
+    max: 8,
     items: [
-      { label: `正文对比度 ≥7（实测 ${results.desktopStory.paragraph?.contrast}）`, pass: (results.desktopStory.paragraph?.contrast ?? 0) >= 7, score: (results.desktopStory.paragraph?.contrast ?? 0) >= 7 ? 5 : 2 },
-      { label: `次要文字 ≥4.5（导语 ${results.desktopStory.summaryContrast}／标题 ${results.desktopStory.heading?.contrast}）`, pass: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5, score: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5 ? 5 : 1 },
+      { label: `正文对比度 ≥7（实测 ${results.desktopStory.paragraph?.contrast}）`, pass: (results.desktopStory.paragraph?.contrast ?? 0) >= 7, score: (results.desktopStory.paragraph?.contrast ?? 0) >= 7 ? 4 : 2 },
+      { label: `次要文字 ≥4.5（导语 ${results.desktopStory.summaryContrast}／标题 ${results.desktopStory.heading?.contrast}）`, pass: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5, score: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5 ? 4 : 1 },
     ],
   },
   {
     name: '无障碍',
-    max: 10,
+    max: 8,
     items: [
-      { label: `图片 alt 完整（缺 ${results.desktopStory.images.missingAlt}/${results.desktopStory.images.total}）`, pass: results.desktopStory.images.missingAlt === 0, score: results.desktopStory.images.missingAlt === 0 ? 3 : 0 },
-      { label: '存在 :focus-visible 焦点样式', pass: results.desktopStory.focusRule, score: results.desktopStory.focusRule ? 3 : 0 },
+      { label: `图片 alt 完整（缺 ${results.desktopStory.images.missingAlt}/${results.desktopStory.images.total}）`, pass: results.desktopStory.images.missingAlt === 0, score: results.desktopStory.images.missingAlt === 0 ? 2 : 0 },
+      { label: '存在 :focus-visible 焦点样式', pass: results.desktopStory.focusRule, score: results.desktopStory.focusRule ? 2 : 0 },
       { label: `触控目标 ≥24×24（不合格 ${results.desktopStory.smallTargets}）`, pass: results.desktopStory.smallTargets === 0, score: results.desktopStory.smallTargets === 0 ? 2 : 0 },
       { label: '标题层级不跳级', pass: results.desktopStory.headingOrderOk, score: results.desktopStory.headingOrderOk ? 2 : 0 },
     ],
