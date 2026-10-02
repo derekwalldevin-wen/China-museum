@@ -37,6 +37,10 @@ await send('Page.addScriptToEvaluateOnNewDocument', { source: `
   window.__auditPerf = { cls: 0, lcp: 0 };
   try {
     new PerformanceObserver(list => { for (const entry of list.getEntries()) if (!entry.hadRecentInput) window.__auditPerf.cls += entry.value; }).observe({ type: 'layout-shift', buffered: true });
+    window.__auditPerf.events = [];
+    window.__auditPerf.longTasks = [];
+    try { new PerformanceObserver(list => { for (const entry of list.getEntries()) window.__auditPerf.longTasks.push(Math.round(entry.duration)); }).observe({ type: 'longtask', buffered: true }); } catch { /* 旧浏览器忽略 */ }
+    new PerformanceObserver(list => { for (const entry of list.getEntries()) { if (/^(pointer|mouse|click|key|touch)/.test(entry.name)) window.__auditPerf.events.push(Math.round(entry.duration)); } }).observe({ type: 'event', durationThreshold: 16, buffered: true });
     new PerformanceObserver(list => { const entries = list.getEntries(); const last = entries[entries.length - 1]; window.__auditPerf.lcp = last.startTime; const element = last.element; window.__auditPerf.lcpElement = element ? (element.tagName.toLowerCase() + (element.currentSrc ? ' ' + element.currentSrc.split('/').pop() : '') + ' | ' + (element.className || '').toString().slice(0, 40) + ' | ' + (element.textContent || '').trim().slice(0, 24)) : null; }).observe({ type: 'largest-contentful-paint', buffered: true });
   } catch { /* 旧浏览器忽略 */ }
 ` }, sessionId);
@@ -181,7 +185,7 @@ const probe = `(() => {
     performance: (() => {
       const audit = window.__auditPerf ?? { cls: 0, lcp: 0 };
       const fcp = performance.getEntriesByName('first-contentful-paint')[0];
-      return { lcpMs: audit.lcp ? Math.round(audit.lcp) : null, cls: Math.round((audit.cls ?? 0) * 1000) / 1000, fcpMs: fcp ? Math.round(fcp.startTime) : null, lcpElement: audit.lcpElement ?? null };
+      return { inpMs: (window.__auditPerf.events ?? []).length ? Math.max(...window.__auditPerf.events) : null, eventCount: (window.__auditPerf.events ?? []).length, lcpMs: audit.lcp ? Math.round(audit.lcp) : null, cls: Math.round((audit.cls ?? 0) * 1000) / 1000, fcpMs: fcp ? Math.round(fcp.startTime) : null, lcpElement: audit.lcpElement ?? null };
     })(),
     hierarchy: (() => {
       const sizeOf = selector => { const element = document.querySelector(selector); return element ? parseFloat(getComputedStyle(element).fontSize) : null; };
@@ -254,6 +258,17 @@ if (zoomTriggerBox) {
   await new Promise(resolve => setTimeout(resolve, 400));
   results.zoomDialog.closedByEscape = await evaluate(`!document.querySelector('.artifact-zoom')`);
 }
+
+// 交互响应（INP）：先清空采样，再真实点击本文目录与折叠按钮，取交互事件时长最大值
+await evaluate(`window.__auditPerf.events = []; window.__auditPerf.longTasks = []`);
+for (const selector of ['.story-index a', '.story-reflection button']) {
+  const box = await evaluate(`(() => { const el = document.querySelector('${selector}'); if (!el) return null; const b = el.getBoundingClientRect(); return { x: Math.round(b.left + b.width / 2), y: Math.round(b.top + b.height / 2) }; })()`);
+  if (!box) continue;
+  await send('Input.dispatchMouseEvent', { type: 'mousePressed', x: box.x, y: box.y, button: 'left', clickCount: 1 }, sessionId);
+  await send('Input.dispatchMouseEvent', { type: 'mouseReleased', x: box.x, y: box.y, button: 'left', clickCount: 1 }, sessionId);
+  await new Promise(resolve => setTimeout(resolve, 350));
+}
+results.interaction = await evaluate(`(() => { const tasks = window.__auditPerf.longTasks ?? []; const events = window.__auditPerf.events ?? []; return { longTaskMax: tasks.length ? Math.max(...tasks) : 0, longTaskCount: tasks.length, eventMax: events.length ? Math.max(...events) : null, eventCount: events.length }; })()`);
 await viewport(390, 844, true);
 await new Promise(resolve => setTimeout(resolve, 1200));
 results.mobileStory = await evaluate(probe);
@@ -474,7 +489,8 @@ const categories = [
     max: 8,
     items: [
       { label: `限速档(Slow 4G) LCP ≤2500ms（实测 ${results.throttledHome?.performance?.lcpMs ?? 'n/a'}ms；FCP ${results.throttledHome?.performance?.fcpMs ?? 'n/a'}ms；不限速 ${results.desktopHome.performance?.lcpMs ?? 'n/a'}ms）`, pass: (results.throttledHome?.performance?.lcpMs ?? 99999) <= 2500, score: (results.throttledHome?.performance?.lcpMs ?? 99999) <= 2500 ? 4 : (results.throttledHome?.performance?.lcpMs ?? 99999) <= 4000 ? 2 : 0 },
-      { label: `CLS ≤0.1（实测 ${results.desktopHome.performance?.cls ?? 'n/a'}）`, pass: (results.desktopHome.performance?.cls ?? 9) <= 0.1, score: (results.desktopHome.performance?.cls ?? 9) <= 0.1 ? 4 : 0 },
+      { label: `CLS ≤0.1（实测 ${results.desktopHome.performance?.cls ?? 'n/a'}）`, pass: (results.desktopHome.performance?.cls ?? 9) <= 0.1, score: (results.desktopHome.performance?.cls ?? 9) <= 0.1 ? 2 : 0 },
+      { label: `交互期间无长任务（实测最长 ${results.interaction?.longTaskMax ?? 'n/a'}ms，${results.interaction?.longTaskCount ?? 0} 个；端到端事件最大值 ${results.interaction?.eventMax ?? 'n/a'}ms 仅作参考，无头环境派发开销会主导该值）`, pass: (results.interaction?.longTaskMax ?? 9999) <= 50, score: (results.interaction?.longTaskMax ?? 9999) <= 50 ? 2 : 0 },
     ],
   },
   {

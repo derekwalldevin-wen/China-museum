@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T06:09:20.639Z",
+  "generatedAt": "2026-10-02T06:34:51.105Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307630,
   "mainCssBytes": 70505,
-  "total": 100,
+  "total": 98,
   "max": 100,
   "threshold": 85,
   "categories": [
@@ -85,7 +85,7 @@
       "max": 2,
       "items": [
         {
-          "label": "一页字号数量 ≤10（实测 9）",
+          "label": "一页字号数量 ≤10（实测 8）",
           "pass": true,
           "score": 2
         }
@@ -112,7 +112,7 @@
       "max": 8,
       "items": [
         {
-          "label": "图片 alt 完整（缺 0/2）",
+          "label": "图片 alt 完整（缺 0/1）",
           "pass": true,
           "score": 2
         },
@@ -217,7 +217,7 @@
           "score": 2
         },
         {
-          "label": "地标齐备（main 2／nav 3）",
+          "label": "地标齐备（main 1／nav 3）",
           "pass": true,
           "score": 2
         }
@@ -238,7 +238,7 @@
           "score": 3
         },
         {
-          "label": "状态播报齐备（aria-live/status/alert 1 处）",
+          "label": "状态播报齐备（aria-live/status/alert 3 处）",
           "pass": true,
           "score": 2
         }
@@ -249,14 +249,19 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1284ms；FCP 1180ms；不限速 1024ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1216ms；FCP 1216ms；不限速 984ms）",
           "pass": true,
           "score": 4
         },
         {
           "label": "CLS ≤0.1（实测 0）",
           "pass": true,
-          "score": 4
+          "score": 2
+        },
+        {
+          "label": "交互期间无长任务（实测最长 170ms，2 个；端到端事件最大值 888ms 仅作参考，无头环境派发开销会主导该值）",
+          "pass": false,
+          "score": 0
         }
       ]
     },
@@ -270,7 +275,7 @@
           "score": 2
         },
         {
-          "label": "章节/正文级差 ≥1.15（实测 1.53）",
+          "label": "章节/正文级差 ≥1.15（实测 1.41）",
           "pass": true,
           "score": 2
         }
@@ -281,7 +286,7 @@
       "max": 4,
       "items": [
         {
-          "label": "间距落在 4px 基准（实测 91%，200/220）",
+          "label": "间距落在 4px 基准（实测 92%，189/205）",
           "pass": true,
           "score": 4
         }
@@ -316,7 +321,6 @@
         14,
         16,
         17,
-        18,
         20,
         24,
         28,
@@ -325,20 +329,20 @@
       "belowTwelve": [],
       "belowTwelveCount": 0,
       "images": {
-        "total": 2,
+        "total": 1,
         "missingAlt": 0,
         "lazy": 0
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 45,
+      "transitioned": 44,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
       ],
       "structure": {
         "h1Count": 1,
-        "main": 2,
+        "main": 1,
         "nav": 3,
         "indexAnchors": 4,
         "progressDriven": true
@@ -347,34 +351,28 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 4560,
-        "cls": 0.002,
-        "fcpMs": 2340,
+        "inpMs": null,
+        "eventCount": 0,
+        "lcpMs": 3720,
+        "cls": 0,
+        "fcpMs": 2424,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
         "h1": 44,
-        "h2": 26,
+        "h2": 24,
         "body": 17,
         "h1Ratio": 2.59,
-        "h2Ratio": 1.53
+        "h2Ratio": 1.41
       },
       "spacing": {
-        "total": 220,
-        "onGrid": 200,
-        "ratio": 91
+        "total": 205,
+        "onGrid": 189,
+        "ratio": 92
       },
       "mapLabels": {
-        "short": {
-          "css": 11,
-          "screenHeight": 17,
-          "effective": 14.8
-        },
-        "count": {
-          "css": 12,
-          "screenHeight": 13,
-          "effective": 11.3
-        }
+        "short": null,
+        "count": null
       },
       "zoom": {
         "trigger": true,
@@ -383,7 +381,7 @@
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 1
+        "ariaLive": 3
       },
       "overflow": 0,
       "zoomWaited": true
@@ -394,6 +392,12 @@
       "ariaModal": true,
       "closedByEscape": true,
       "focusInside": true
+    },
+    "interaction": {
+      "longTaskMax": 170,
+      "longTaskCount": 2,
+      "eventMax": 888,
+      "eventCount": 30
     },
     "mobileStory": {
       "paragraph": {
@@ -453,9 +457,11 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 4560,
+        "inpMs": 888,
+        "eventCount": 54,
+        "lcpMs": 3720,
         "cls": 0.002,
-        "fcpMs": 2340,
+        "fcpMs": 2424,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -587,9 +593,11 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 1024,
+        "inpMs": null,
+        "eventCount": 0,
+        "lcpMs": 984,
         "cls": 0,
-        "fcpMs": 948,
+        "fcpMs": 904,
         "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
@@ -682,10 +690,12 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 2740,
+        "inpMs": null,
+        "eventCount": 0,
+        "lcpMs": 3076,
         "cls": 0,
-        "fcpMs": 948,
-        "lcpElement": "img | is-loaded | "
+        "fcpMs": 904,
+        "lcpElement": "img shanhe-handscroll-mobile.jpg | is-loaded | "
       },
       "hierarchy": {
         "h1": null,
@@ -774,10 +784,12 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 1828,
+        "inpMs": null,
+        "eventCount": 0,
+        "lcpMs": 1264,
         "cls": 0.002,
-        "fcpMs": 588,
-        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
+        "fcpMs": 560,
+        "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
         "h1": 44,
@@ -911,10 +923,12 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 1284,
+        "inpMs": null,
+        "eventCount": 0,
+        "lcpMs": 1216,
         "cls": 0,
-        "fcpMs": 1180,
-        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
+        "fcpMs": 1216,
+        "lcpElement": "b |  | 山河入画"
       },
       "hierarchy": {
         "h1": null,

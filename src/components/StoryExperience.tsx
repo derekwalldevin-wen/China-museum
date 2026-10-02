@@ -196,6 +196,13 @@ export default function StoryExperience({ route, onRoute, onExit, onBack }: Prop
     event.preventDefault(); save(event.currentTarget); onRoute(next);
   };
   const linkTo = (storyId: string) => ({ storyId, trailId: defaultTrail(storyId)?.id ?? null });
+  // 左右滑动切换游线前后站。只在明显的水平滑动时触发，且避开可横向滚动的区域
+  const swipeStart = useRef<{ x: number; y: number; id: number } | null>(null);
+  const stepTo = (nextStep: number) => {
+    if (!trail || nextStep < 0 || nextStep >= trail.ids.length || nextStep === currentStep) return;
+    save();
+    onRoute({ trailId: trail.id, storyId: trail.ids[nextStep] });
+  };
   const currentStep = story && trail ? trail.ids.indexOf(story.id) : -1;
   const usedSources = story ? [...new Set([...story.summaryRefs, ...story.sections.flatMap(p => p.refs), ...story.details.flatMap(d => d.refs), ...story.reflection.refs])] : [];
 
@@ -212,7 +219,25 @@ export default function StoryExperience({ route, onRoute, onExit, onBack }: Prop
       <span className="story-topbar-title">华夏博物志 <span> / 故事导览</span></span>
       <button ref={exitButton} onClick={() => { save(); onExit(); }} aria-label="退出故事导览">回到原处 ✕</button>
     </header>
-    <div ref={viewport} data-testid="story-viewport" className="story-viewport" onScroll={() => save()} onWheel={() => { latest.current.anchor = undefined; }} onTouchStart={() => { latest.current.anchor = undefined; }}>
+    <div ref={viewport} data-testid="story-viewport" className="story-viewport" onScroll={() => save()} onWheel={() => { latest.current.anchor = undefined; }}
+      onTouchStart={event => {
+        latest.current.anchor = undefined;
+        const touch = event.touches[0];
+        swipeStart.current = touch ? { x: touch.clientX, y: touch.clientY, id: touch.identifier } : null;
+      }}
+      onTouchEnd={event => {
+        const start = swipeStart.current;
+        swipeStart.current = null;
+        if (!start || !trail) return;
+        const touch = event.changedTouches[0];
+        if (!touch || touch.identifier !== start.id) return;
+        const dx = touch.clientX - start.x;
+        const dy = touch.clientY - start.y;
+        // 只在明显水平滑动（且起点不在横向滚动区内）时切换，避免抢走纵向阅读与横向看图
+        if (Math.abs(dx) < 64 || Math.abs(dx) < Math.abs(dy) * 2) return;
+        if (event.target instanceof Element && event.target.closest('[data-artifact-scroll-root], .artifact-scroll-reader, .artifact-zoom')) return;
+        stepTo(dx < 0 ? currentStep + 1 : currentStep - 1);
+      }}>
       {/* 跳过导航：键盘用户第一个可聚焦元素，直达正文 */}
       <a className="story-skip" href="#story-main">跳到正文 ↓</a>
       {/* 阅读进度：纯 CSS 滚动驱动（animation-timeline: scroll(nearest)），不支持时静态隐藏 */}

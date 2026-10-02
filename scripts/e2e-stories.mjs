@@ -258,7 +258,39 @@ try {
   }
   assert.deepEqual(page.errors,[],'uncaught browser errors');
   assert.deepEqual(page.failures.filter(e=>!/ERR_ABORTED/.test(e)),[],'unexpected network failures');
-  await writeFile(new URL('results.json',output),JSON.stringify({baseUrl:base,testedAt:new Date().toISOString(),passed:checks.length,checks},null,2)+'\n');
+  // 移动端左右滑动切换游线前后站（与底部按钮等价的快捷路径）
+{
+  const page = await createHeadlessPage();
+  try {
+    await page.send('Emulation.setDeviceMetricsOverride', { width: 390, height: 844, deviceScaleFactor: 2, mobile: true });
+    await page.send('Emulation.setTouchEmulationEnabled', { enabled: true, maxTouchPoints: 5 });
+    await page.navigate(url({ guide: '1', trail: 'ink', story: 'hub-zhy' }));
+    await page.evaluate(`document.querySelector('.ink-intro-skip')?.click()`);
+    await page.wait(`!!document.querySelector('.story-reader')`, '阅读页就绪');
+    const swipe = async dx => {
+      const y = 500, x = 200;
+      await page.send('Input.dispatchTouchEvent', { type: 'touchStart', touchPoints: [{ x, y, radiusX: 2, radiusY: 2, force: 1, id: 1 }] });
+      for (const step of [0.3, 0.6, 1]) {
+        await page.send('Input.dispatchTouchEvent', { type: 'touchMove', touchPoints: [{ x: Math.round(x + dx * step), y, radiusX: 2, radiusY: 2, force: 1, id: 1 }] });
+        await sleep(40);
+      }
+      await page.send('Input.dispatchTouchEvent', { type: 'touchEnd', touchPoints: [] });
+      await sleep(900);
+    };
+    const storyId = () => page.evaluate(`new URLSearchParams(location.search).get('story')`);
+    const start = await storyId();
+    await swipe(-140);
+    const next = await storyId();
+    assert.notEqual(next, start, '左滑应切到游线下一站');
+    await swipe(140);
+    assert.equal(await storyId(), start, '右滑应回到上一站');
+    await swipe(0);
+    assert.equal(await storyId(), start, '纵向/无位移滑动不应切换');
+    checks.push('mobile: 左右滑动切换游线前后站，纵向滑动不误触发');
+  } finally { await page.close(); }
+}
+
+await writeFile(new URL('results.json',output),JSON.stringify({baseUrl:base,testedAt:new Date().toISOString(),passed:checks.length,checks},null,2)+'\n');
   console.log(JSON.stringify({passed:checks.length,checks},null,2));
 } catch (error) {
   await screenshot('failure.png').catch(() => {});
