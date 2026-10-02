@@ -322,6 +322,27 @@ const probe = `(() => {
       }
       return { radii: radii.size, shadows: shadows.size, radiusValues: [...radii], shadowValues: [...shadows] };
     })(),
+    easings: (() => {
+      const splitTop = value => {
+        const parts = []; let depth = 0, current = '';
+        for (const char of String(value)) {
+          if (char === '(') depth += 1;
+          if (char === ')') depth -= 1;
+          if (char === ',' && depth === 0) { parts.push(current.trim()); current = ''; continue; }
+          current += char;
+        }
+        if (current.trim()) parts.push(current.trim());
+        return parts.filter(Boolean);
+      };
+      const seen = new Map();
+      for (const element of visiblePool('.atlas-shell *, .story-experience *')) {
+        const style = getComputedStyle(element);
+        if (parseFloat(style.transitionDuration) > 0) for (const value of splitTop(style.transitionTimingFunction)) seen.set(value, (seen.get(value) ?? 0) + 1);
+        if (style.animationName !== 'none' && parseFloat(style.animationDuration) > 0) for (const value of splitTop(style.animationTimingFunction)) seen.set(value, (seen.get(value) ?? 0) + 1);
+      }
+      const sorted = [...seen.entries()].sort((a, b) => b[1] - a[1]);
+      return { kinds: seen.size, list: sorted.map(([value, count]) => value + '×' + count).join('、') };
+    })(),
     motion: (() => {
       const first = value => String(value).split(',')[0].trim();
       const toMs = value => value.endsWith('ms') ? parseFloat(value) : parseFloat(value) * 1000;
@@ -739,9 +760,10 @@ const categories = [
     max: 11,
     items: [
       { label: `存在滚动驱动动效（阅读进度驱动 ${results.desktopStory.structure?.progressDriven ? '有' : '无'}）`, pass: !!results.desktopStory.structure?.progressDriven, score: results.desktopStory.structure?.progressDriven ? 3 : 0 },
+      { label: `有效缓动取值收敛 ≤4 种（实测 ${results.desktopStory.easings?.kinds ?? 'n/a'} 种：${results.desktopStory.easings?.list ?? ''}）`, pass: (results.desktopStory.easings?.kinds ?? 99) <= 4, score: (results.desktopStory.easings?.kinds ?? 99) <= 4 ? 1 : 0 },
       { label: `动效时长收敛（有效短时长 ${results.desktopStory.motion?.shortKinds ?? 'n/a'} 种，全部落在尺度上 ${results.desktopStory.motion?.onScaleKinds ?? 'n/a'} 种：${results.desktopStory.motion?.shortList ?? ''}）`, pass: (results.desktopStory.motion?.shortKinds ?? 99) <= 5 && results.desktopStory.motion?.shortKinds === results.desktopStory.motion?.onScaleKinds, score: (results.desktopStory.motion?.shortKinds ?? 99) <= 5 && results.desktopStory.motion?.shortKinds === results.desktopStory.motion?.onScaleKinds ? 2 : 0 },
       { label: `减弱动效偏好下动画关闭（剩余 ${results.reducedMotion?.animated ?? 'n/a'} 个可感知动画）`, pass: (results.reducedMotion?.animated ?? 1) === 0, score: (results.reducedMotion?.animated ?? 1) === 0 ? 3 : 0 },
-      { label: `在用关键帧只动 transform/opacity（布局属性关键帧 ${keyframeLayoutProps} 个）`, pass: keyframeLayoutProps === 0, score: keyframeLayoutProps === 0 ? 3 : 0 },
+      { label: `在用关键帧只动 transform/opacity（布局属性关键帧 ${keyframeLayoutProps} 个）`, pass: keyframeLayoutProps === 0, score: keyframeLayoutProps === 0 ? 2 : 0 },
     ],
   },
   {
