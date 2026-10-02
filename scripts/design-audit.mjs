@@ -203,6 +203,18 @@ const probe = `(() => {
       }
       return { total, onGrid, ratio: total ? Math.round((onGrid / total) * 100) : 100 };
     })(),
+    mapLabels: (() => {
+      const measure = selector => {
+        const element = [...document.querySelectorAll(selector)].find(el => (el.textContent ?? '').trim() && el.getClientRects().length);
+        if (!element) return null;
+        const css = parseFloat(getComputedStyle(element).fontSize);
+        const box = element.getBoundingClientRect();
+        // 行高约 1.15 倍字号；再乘以 SVG 的缩放系数即为屏幕有效高度
+        const scale = box.height / (css * 1.15);
+        return { css, screenHeight: Math.round(box.height * 10) / 10, effective: Math.round(css * scale * 10) / 10 };
+      };
+      return { short: measure('.scroll-label-short'), count: measure('.scroll-label-count') };
+    })(),
     zoom: {
       trigger: !!document.querySelector('.artifact-zoom-trigger'),
       statuses: document.querySelectorAll('.artifact-status').length,
@@ -352,6 +364,15 @@ const spacingTrimOk = String(results.desktopStory.paper?.spacingTrim ?? '').incl
 
 const categories = [
   {
+    name: '地图标注',
+    max: 4,
+    items: [
+      { label: `手机省简称有效尺寸 ≥10px（实测 ${results.mobileHome.mapLabels?.short?.effective ?? 'n/a'}px；CSS ${results.mobileHome.mapLabels?.short?.css ?? 'n/a'}px）`, pass: (results.mobileHome.mapLabels?.short?.effective ?? 0) >= 10, score: (results.mobileHome.mapLabels?.short?.effective ?? 0) >= 10 ? 2 : 0 },
+      { label: `桌面省简称有效尺寸 ≥10px（实测 ${results.desktopHome.mapLabels?.short?.effective ?? 'n/a'}px）`, pass: (results.desktopHome.mapLabels?.short?.effective ?? 0) >= 10, score: (results.desktopHome.mapLabels?.short?.effective ?? 0) >= 10 ? 1 : 0 },
+      { label: `桌面件数有效尺寸 ≥10px（实测 ${results.desktopHome.mapLabels?.count?.effective ?? 'n/a'}px）`, pass: (results.desktopHome.mapLabels?.count?.effective ?? 0) >= 10, score: (results.desktopHome.mapLabels?.count?.effective ?? 0) >= 10 ? 1 : 0 },
+    ],
+  },
+  {
     name: '图像工艺',
     max: 6,
     items: [
@@ -362,11 +383,11 @@ const categories = [
 
   {
     name: '中文字排',
-    max: 14,
+    max: 12,
     items: [
-      { label: '正文使用衬线（系统宋体等）', pass: serifOk, score: serifOk ? 4 : 0 },
+      { label: '正文使用衬线（系统宋体等）', pass: serifOk, score: serifOk ? 3 : 0 },
       { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 3 : 1 },
-      { label: `段首缩进 2em（实测 ${indentEm}em）`, pass: indentEm >= 1.9 && indentEm <= 2.1, score: indentEm >= 1.9 && indentEm <= 2.1 ? 3 : 0 },
+      { label: `段首缩进 2em（实测 ${indentEm}em）`, pass: indentEm >= 1.9 && indentEm <= 2.1, score: indentEm >= 1.9 && indentEm <= 2.1 ? 2 : 0 },
       { label: `字号下限 ≥12px（违规 ${results.desktopStory.belowTwelveCount}）`, pass: results.desktopStory.belowTwelveCount === 0, score: results.desktopStory.belowTwelveCount === 0 ? 2 : 0 },
       { label: `行高 ≥1.8（实测 ${lineHeightRatio}）`, pass: lineHeightRatio >= 1.8, score: lineHeightRatio >= 1.8 ? 1 : 0 },
       { label: '标点宽度调整（text-spacing-trim）', pass: spacingTrimOk, score: spacingTrimOk ? 1 : 0 },
@@ -458,10 +479,10 @@ const categories = [
   },
   {
     name: '视觉层级',
-    max: 6,
+    max: 4,
     items: [
-      { label: `标题/正文级差 ≥2（实测 ${results.desktopStory.hierarchy?.h1Ratio}）`, pass: (results.desktopStory.hierarchy?.h1Ratio ?? 0) >= 2, score: (results.desktopStory.hierarchy?.h1Ratio ?? 0) >= 2 ? 3 : 0 },
-      { label: `章节/正文级差 ≥1.15（实测 ${results.desktopStory.hierarchy?.h2Ratio}）`, pass: (results.desktopStory.hierarchy?.h2Ratio ?? 0) >= 1.15, score: (results.desktopStory.hierarchy?.h2Ratio ?? 0) >= 1.15 ? 3 : 0 },
+      { label: `标题/正文级差 ≥2（实测 ${results.desktopStory.hierarchy?.h1Ratio}）`, pass: (results.desktopStory.hierarchy?.h1Ratio ?? 0) >= 2, score: (results.desktopStory.hierarchy?.h1Ratio ?? 0) >= 2 ? 2 : 0 },
+      { label: `章节/正文级差 ≥1.15（实测 ${results.desktopStory.hierarchy?.h2Ratio}）`, pass: (results.desktopStory.hierarchy?.h2Ratio ?? 0) >= 1.15, score: (results.desktopStory.hierarchy?.h2Ratio ?? 0) >= 1.15 ? 2 : 0 },
     ],
   },
   {

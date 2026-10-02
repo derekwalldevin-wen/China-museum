@@ -696,7 +696,8 @@
 .scroll-label-count {
   fill: #6a604a;
   font-family: ui-monospace, monospace;
-  font-size: 7px;
+  /* 地图 SVG 会随视口缩放：桌面缩放约 1.05，7px 实际只有 7px，故按有效尺寸定字号 */
+  font-size: 12px;
   pointer-events: none;
 }
 
@@ -1226,8 +1227,9 @@ canvas { touch-action: none; }
   .scroll-inner-rule { opacity: .28; }
   .scroll-grid { opacity: .1; }
   .scroll-province-shape { stroke-width: .8; }
-  .scroll-label-seal { width: 17px; height: 17px; x: -8.5px; y: -8.5px; }
-  .scroll-label-short { font-size: 9px; }
+  /* 地图 SVG 在手机上被缩到约 0.49，字号与印章底板都要按有效尺寸补偿（字必须落在底板内） */
+  .scroll-label-seal { width: 26px; height: 26px; x: -13px; y: -13px; rx: 2px; }
+  .scroll-label-short { font-size: 20px; }
   .scroll-label-count { display: none; }
   .scroll-museum-hit { r: 26px; }
   .scroll-scene-caption {

@@ -1,12 +1,33 @@
 {
-  "generatedAt": "2026-10-02T05:54:27.885Z",
+  "generatedAt": "2026-10-02T06:09:20.639Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307630,
-  "mainCssBytes": 70498,
+  "mainCssBytes": 70505,
   "total": 100,
   "max": 100,
   "threshold": 85,
   "categories": [
+    {
+      "name": "地图标注",
+      "max": 4,
+      "items": [
+        {
+          "label": "手机省简称有效尺寸 ≥10px（实测 10.4px；CSS 20px）",
+          "pass": true,
+          "score": 2
+        },
+        {
+          "label": "桌面省简称有效尺寸 ≥10px（实测 14.8px）",
+          "pass": true,
+          "score": 1
+        },
+        {
+          "label": "桌面件数有效尺寸 ≥10px（实测 11.3px）",
+          "pass": true,
+          "score": 1
+        }
+      ]
+    },
     {
       "name": "图像工艺",
       "max": 6,
@@ -25,12 +46,12 @@
     },
     {
       "name": "中文字排",
-      "max": 14,
+      "max": 12,
       "items": [
         {
           "label": "正文使用衬线（系统宋体等）",
           "pass": true,
-          "score": 4
+          "score": 3
         },
         {
           "label": "行长 30–34 字（实测 34）",
@@ -40,7 +61,7 @@
         {
           "label": "段首缩进 2em（实测 2em）",
           "pass": true,
-          "score": 3
+          "score": 2
         },
         {
           "label": "字号下限 ≥12px（违规 0）",
@@ -64,7 +85,7 @@
       "max": 2,
       "items": [
         {
-          "label": "一页字号数量 ≤10（实测 8）",
+          "label": "一页字号数量 ≤10（实测 9）",
           "pass": true,
           "score": 2
         }
@@ -217,7 +238,7 @@
           "score": 3
         },
         {
-          "label": "状态播报齐备（aria-live/status/alert 2 处）",
+          "label": "状态播报齐备（aria-live/status/alert 1 处）",
           "pass": true,
           "score": 2
         }
@@ -228,7 +249,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1092ms；FCP 1092ms；不限速 1040ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1284ms；FCP 1180ms；不限速 1024ms）",
           "pass": true,
           "score": 4
         },
@@ -241,17 +262,17 @@
     },
     {
       "name": "视觉层级",
-      "max": 6,
+      "max": 4,
       "items": [
         {
           "label": "标题/正文级差 ≥2（实测 2.59）",
           "pass": true,
-          "score": 3
+          "score": 2
         },
         {
           "label": "章节/正文级差 ≥1.15（实测 1.53）",
           "pass": true,
-          "score": 3
+          "score": 2
         }
       ]
     },
@@ -260,7 +281,7 @@
       "max": 4,
       "items": [
         {
-          "label": "间距落在 4px 基准（实测 92%，189/205）",
+          "label": "间距落在 4px 基准（实测 91%，200/220）",
           "pass": true,
           "score": 4
         }
@@ -295,6 +316,7 @@
         14,
         16,
         17,
+        18,
         20,
         24,
         28,
@@ -309,7 +331,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 44,
+      "transitioned": 45,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -325,9 +347,9 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 14872,
-        "cls": 0,
-        "fcpMs": 2428,
+        "lcpMs": 4560,
+        "cls": 0.002,
+        "fcpMs": 2340,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -338,9 +360,21 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 205,
-        "onGrid": 189,
-        "ratio": 92
+        "total": 220,
+        "onGrid": 200,
+        "ratio": 91
+      },
+      "mapLabels": {
+        "short": {
+          "css": 11,
+          "screenHeight": 17,
+          "effective": 14.8
+        },
+        "count": {
+          "css": 12,
+          "screenHeight": 13,
+          "effective": 11.3
+        }
       },
       "zoom": {
         "trigger": true,
@@ -349,7 +383,7 @@
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 2
+        "ariaLive": 1
       },
       "overflow": 0,
       "zoomWaited": true
@@ -419,9 +453,9 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 14872,
+        "lcpMs": 4560,
         "cls": 0.002,
-        "fcpMs": 2428,
+        "fcpMs": 2340,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -435,6 +469,14 @@
         "total": 220,
         "onGrid": 200,
         "ratio": 91
+      },
+      "mapLabels": {
+        "short": {
+          "css": 20,
+          "screenHeight": 12,
+          "effective": 10.4
+        },
+        "count": null
       },
       "zoom": {
         "trigger": true,
@@ -453,9 +495,9 @@
       "heading": null,
       "paper": null,
       "distinctSizes": [
-        7,
         10,
         11,
+        12,
         16
       ],
       "belowTwelve": [
@@ -465,19 +507,9 @@
           "text": "京"
         },
         {
-          "size": 7,
-          "cls": "[object SVGAnimatedString]",
-          "text": "3"
-        },
-        {
           "size": 11,
           "cls": "[object SVGAnimatedString]",
           "text": "津"
-        },
-        {
-          "size": 7,
-          "cls": "[object SVGAnimatedString]",
-          "text": "1"
         },
         {
           "size": 11,
@@ -485,19 +517,9 @@
           "text": "冀"
         },
         {
-          "size": 7,
-          "cls": "[object SVGAnimatedString]",
-          "text": "2"
-        },
-        {
           "size": 11,
           "cls": "[object SVGAnimatedString]",
           "text": "晋"
-        },
-        {
-          "size": 7,
-          "cls": "[object SVGAnimatedString]",
-          "text": "2"
         },
         {
           "size": 11,
@@ -505,22 +527,42 @@
           "text": "蒙"
         },
         {
-          "size": 7,
-          "cls": "[object SVGAnimatedString]",
-          "text": "1"
-        },
-        {
           "size": 11,
           "cls": "[object SVGAnimatedString]",
           "text": "辽"
         },
         {
-          "size": 7,
+          "size": 11,
           "cls": "[object SVGAnimatedString]",
-          "text": "2"
+          "text": "吉"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "黑"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "沪"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "苏"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "浙"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "皖"
         }
       ],
-      "belowTwelveCount": 69,
+      "belowTwelveCount": 35,
       "images": {
         "total": 1,
         "missingAlt": 0,
@@ -545,9 +587,9 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 1040,
+        "lcpMs": 1024,
         "cls": 0,
-        "fcpMs": 1040,
+        "fcpMs": 948,
         "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
@@ -561,6 +603,18 @@
         "total": 388,
         "onGrid": 76,
         "ratio": 20
+      },
+      "mapLabels": {
+        "short": {
+          "css": 11,
+          "screenHeight": 17,
+          "effective": 14.8
+        },
+        "count": {
+          "css": 12,
+          "screenHeight": 13,
+          "effective": 11.3
+        }
       },
       "zoom": {
         "trigger": false,
@@ -583,6 +637,7 @@
         10,
         11,
         16,
+        20,
         29
       ],
       "belowTwelve": [
@@ -597,57 +652,12 @@
           "text": "循迹寻珍 · 轻触朱印入卷"
         },
         {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "京"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "津"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "冀"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "晋"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "蒙"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "辽"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "吉"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "黑"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "沪"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "苏"
+          "size": 10,
+          "cls": "scroll-art-disclosure",
+          "text": "山水画面为 AI 创作"
         }
       ],
-      "belowTwelveCount": 37,
+      "belowTwelveCount": 3,
       "images": {
         "total": 1,
         "missingAlt": 0,
@@ -672,9 +682,9 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 2824,
+        "lcpMs": 2740,
         "cls": 0,
-        "fcpMs": 1040,
+        "fcpMs": 948,
         "lcpElement": "img | is-loaded | "
       },
       "hierarchy": {
@@ -688,6 +698,14 @@
         "total": 390,
         "onGrid": 64,
         "ratio": 16
+      },
+      "mapLabels": {
+        "short": {
+          "css": 20,
+          "screenHeight": 12,
+          "effective": 10.4
+        },
+        "count": null
       },
       "zoom": {
         "trigger": false,
@@ -756,9 +774,9 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 1992,
+        "lcpMs": 1828,
         "cls": 0.002,
-        "fcpMs": 720,
+        "fcpMs": 588,
         "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
       },
       "hierarchy": {
@@ -772,6 +790,18 @@
         "total": 220,
         "onGrid": 200,
         "ratio": 91
+      },
+      "mapLabels": {
+        "short": {
+          "css": 11,
+          "screenHeight": 17,
+          "effective": 14.8
+        },
+        "count": {
+          "css": 12,
+          "screenHeight": 13,
+          "effective": 11.3
+        }
       },
       "zoom": {
         "trigger": true,
@@ -790,8 +820,8 @@
       "heading": null,
       "paper": null,
       "distinctSizes": [
-        7,
         11,
+        12,
         16
       ],
       "belowTwelve": [
@@ -801,19 +831,9 @@
           "text": "京"
         },
         {
-          "size": 7,
-          "cls": "[object SVGAnimatedString]",
-          "text": "3"
-        },
-        {
           "size": 11,
           "cls": "[object SVGAnimatedString]",
           "text": "津"
-        },
-        {
-          "size": 7,
-          "cls": "[object SVGAnimatedString]",
-          "text": "1"
         },
         {
           "size": 11,
@@ -821,19 +841,9 @@
           "text": "冀"
         },
         {
-          "size": 7,
-          "cls": "[object SVGAnimatedString]",
-          "text": "2"
-        },
-        {
           "size": 11,
           "cls": "[object SVGAnimatedString]",
           "text": "晋"
-        },
-        {
-          "size": 7,
-          "cls": "[object SVGAnimatedString]",
-          "text": "2"
         },
         {
           "size": 11,
@@ -841,22 +851,42 @@
           "text": "蒙"
         },
         {
-          "size": 7,
-          "cls": "[object SVGAnimatedString]",
-          "text": "1"
-        },
-        {
           "size": 11,
           "cls": "[object SVGAnimatedString]",
           "text": "辽"
         },
         {
-          "size": 7,
+          "size": 11,
           "cls": "[object SVGAnimatedString]",
-          "text": "2"
+          "text": "吉"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "黑"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "沪"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "苏"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "浙"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "皖"
         }
       ],
-      "belowTwelveCount": 68,
+      "belowTwelveCount": 34,
       "images": {
         "total": 1,
         "missingAlt": 0,
@@ -881,10 +911,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 1092,
+        "lcpMs": 1284,
         "cls": 0,
-        "fcpMs": 1092,
-        "lcpElement": "b |  | 山河入画"
+        "fcpMs": 1180,
+        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
         "h1": null,
@@ -897,6 +927,18 @@
         "total": 384,
         "onGrid": 74,
         "ratio": 19
+      },
+      "mapLabels": {
+        "short": {
+          "css": 11,
+          "screenHeight": 17,
+          "effective": 14.8
+        },
+        "count": {
+          "css": 12,
+          "screenHeight": 13,
+          "effective": 11.3
+        }
       },
       "zoom": {
         "trigger": false,
