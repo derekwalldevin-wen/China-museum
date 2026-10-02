@@ -269,6 +269,9 @@
 @media (max-width:480px){.artifact-zoom{padding:16px}.artifact-zoom-close{right:12px;top:12px}.artifact-zoom-image{max-height:calc(100dvh - 200px)}}
 .atlas-skip{position:absolute;left:12px;top:12px;z-index:60;display:inline-flex;align-items:center;min-height:44px;padding:0 16px;background:#e9dfc9;color:#7a2f1f;font-family:'Noto Serif SC',serif;font-size:12px;text-decoration:none;border:1px solid #a73e2b;transform:translateY(-300%)}
 .atlas-skip:focus{transform:none}
+/* 数字读处显式等宽：界面字体本就等宽，这里再声明一次以覆盖回退字体 */
+.atlas-footer, .map-coordinates, [data-numeric] { font-variant-numeric: tabular-nums; }
+
 .atlas-footer {
   border-top: 1px solid rgba(216, 207, 183, 0.08);
   background: linear-gradient(to top, rgba(8, 10, 9, 0.94), rgba(8, 10, 9, 0.68));

@@ -98,6 +98,29 @@ const probe = `(() => {
   const px = value => parseFloat(value) || 0;
   // 统一取"可见层"：故事页打开时地图仍是 aria-hidden / inert，历史上有三次统计被它污染
   const visiblePool = selector => [...document.querySelectorAll(selector)].filter(element => !element.closest('[aria-hidden="true"], [inert]'));
+  // 中西文自动间距与数字对齐：用隐藏容器做对照测量（visibility:hidden 仍参与布局）
+  const measureHost = (fontFamily, fontSize) => {
+    const host = document.createElement('div');
+    host.style.cssText = 'position:fixed;left:0;top:0;visibility:hidden;white-space:pre;font-family:' + fontFamily + ';font-size:' + fontSize + ';';
+    document.body.appendChild(host);
+    return host;
+  };
+  const bodyParagraph = document.querySelector('.story-paper p');
+  const autospaceHost = measureHost(getComputedStyle(bodyParagraph ?? document.body).fontFamily, '17px');
+  const autospaceWidth = css => { const span = document.createElement('span'); span.style.cssText = 'white-space:pre;' + css; span.textContent = '汉字ABC汉字'; autospaceHost.appendChild(span); return Math.round(span.getBoundingClientRect().width * 100) / 100; };
+  const autospace = { on: autospaceWidth('text-autospace:normal;'), off: autospaceWidth('text-autospace:no-autospace;') };
+  autospace.delta = Math.round((autospace.on - autospace.off) * 100) / 100;
+  autospaceHost.remove();
+  const digitHost = measureHost(getComputedStyle(document.querySelector('.atlas-footer') ?? document.body).fontFamily, '12px');
+  const digitSpan = document.createElement('span'); digitSpan.style.whiteSpace = 'pre'; digitSpan.textContent = '0123456789'; digitHost.appendChild(digitSpan);
+  const digitWidths = [];
+  for (let digitIndex = 0; digitIndex < 10; digitIndex += 1) {
+    const digitRange = document.createRange();
+    digitRange.setStart(digitSpan.firstChild, digitIndex); digitRange.setEnd(digitSpan.firstChild, digitIndex + 1);
+    digitWidths.push(Math.round(digitRange.getBoundingClientRect().width * 100) / 100);
+  }
+  digitHost.remove();
+  const digits = { spread: Math.round((Math.max(...digitWidths) - Math.min(...digitWidths)) * 100) / 100 };
   const luminance = ([r, g, b]) => { const f = c => { const s = c / 255; return s <= 0.03928 ? s / 12.92 : Math.pow((s + 0.055) / 1.055, 2.4); }; return 0.2126 * f(r) + 0.7152 * f(g) + 0.0722 * f(b); };
   const parse = value => { const m = value.match(/rgba?\\(([^)]+)\\)/); if (!m) return null; const parts = m[1].split(',').map(v => parseFloat(v)); return { rgb: parts.slice(0, 3), a: parts.length > 3 ? parts[3] : 1 }; };
   const blend = (fg, bg) => fg.rgb.map((c, i) => Math.round(c * fg.a + bg[i] * (1 - fg.a)));
@@ -299,6 +322,8 @@ const probe = `(() => {
       }
       return { radii: radii.size, shadows: shadows.size, radiusValues: [...radii], shadowValues: [...shadows] };
     })(),
+    autospace,
+    digits,
     mapLabels: (() => {
       const measure = selector => {
         const element = [...document.querySelectorAll(selector)].find(el => (el.textContent ?? '').trim() && el.getClientRects().length);
@@ -633,7 +658,7 @@ const categories = [
 
   {
     name: '中文字排',
-    max: 9,
+    max: 10,
     items: [
       { label: '正文使用衬线（系统宋体等）', pass: serifOk, score: serifOk ? 1 : 0 },
       { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 1 : 1 },
@@ -641,6 +666,7 @@ const categories = [
       { label: `字号下限 ≥12px（违规 ${results.desktopStory.belowTwelveCount}）`, pass: results.desktopStory.belowTwelveCount === 0, score: results.desktopStory.belowTwelveCount === 0 ? 2 : 0 },
       { label: `行高 ≥1.8（实测 ${lineHeightRatio}）`, pass: lineHeightRatio >= 1.8, score: lineHeightRatio >= 1.8 ? 1 : 0 },
       { label: '标点宽度调整（text-spacing-trim）', pass: spacingTrimOk, score: spacingTrimOk ? 1 : 0 },
+      { label: `中西文自动间距生效（normal ${results.desktopStory.autospace?.on ?? 'n/a'}px vs no-autospace ${results.desktopStory.autospace?.off ?? 'n/a'}px，差 ${results.desktopStory.autospace?.delta ?? 'n/a'}px）`, pass: (results.desktopStory.autospace?.delta ?? 0) > 0, score: (results.desktopStory.autospace?.delta ?? 0) > 0 ? 1 : 0 },
       { label: `避头尾：行首无禁则标点（实测 ${results.desktopStory.kinsoku?.lines ?? 'n/a'} 行，违规 ${results.desktopStory.kinsoku?.badStart ?? 'n/a'} 处）`, pass: (results.desktopStory.kinsoku?.badStart ?? 9) === 0, score: (results.desktopStory.kinsoku?.badStart ?? 9) === 0 ? 1 : 0 },
       { label: `避头尾：行尾无开括号类（实测违规 ${results.desktopStory.kinsoku?.badEnd ?? 'n/a'} 处）`, pass: (results.desktopStory.kinsoku?.badEnd ?? 9) === 0, score: (results.desktopStory.kinsoku?.badEnd ?? 9) === 0 ? 1 : 0 },
     ],
@@ -654,10 +680,10 @@ const categories = [
   },
   {
     name: '对比度',
-    max: 6,
+    max: 4,
     items: [
-      { label: `正文对比度 ≥7（实测 ${results.desktopStory.paragraph?.contrast}）`, pass: (results.desktopStory.paragraph?.contrast ?? 0) >= 7, score: (results.desktopStory.paragraph?.contrast ?? 0) >= 7 ? 2 : 1 },
-      { label: `次要文字 ≥4.5（导语 ${results.desktopStory.summaryContrast}／标题 ${results.desktopStory.heading?.contrast}）`, pass: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5, score: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5 ? 2 : 1 },
+      { label: `正文对比度 ≥7（实测 ${results.desktopStory.paragraph?.contrast}）`, pass: (results.desktopStory.paragraph?.contrast ?? 0) >= 7, score: (results.desktopStory.paragraph?.contrast ?? 0) >= 7 ? 1 : 0 },
+      { label: `次要文字 ≥4.5（导语 ${results.desktopStory.summaryContrast}／标题 ${results.desktopStory.heading?.contrast}）`, pass: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5, score: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5 ? 1 : 0 },
       { label: `首页像素级对比度全部 ≥4.5（地图省简称 ${results.pixelContrast?.mapShort ?? 'n/a'}／件数 ${results.pixelContrast?.mapCount ?? 'n/a'}／荐读标题 ${results.pixelContrast?.beaconTitle ?? 'n/a'}／荐读说明 ${results.pixelContrast?.beaconText ?? 'n/a'}）`, pass: Math.min(results.pixelContrast?.mapShort ?? 0, results.pixelContrast?.mapCount ?? 0, results.pixelContrast?.beaconTitle ?? 0, results.pixelContrast?.beaconText ?? 0) >= 4.5, score: Math.min(results.pixelContrast?.mapShort ?? 0, results.pixelContrast?.mapCount ?? 0, results.pixelContrast?.beaconTitle ?? 0, results.pixelContrast?.beaconText ?? 0) >= 4.5 ? 2 : 0 },
     ],
   },
@@ -741,9 +767,10 @@ const categories = [
   },
   {
     name: '一致性',
-    max: 4,
+    max: 5,
     items: [
       { label: `间距落在 4px 基准（实测 ${results.desktopStory.spacing?.ratio}%，${results.desktopStory.spacing?.onGrid}/${results.desktopStory.spacing?.total}）`, pass: (results.desktopStory.spacing?.ratio ?? 0) >= 90, score: (results.desktopStory.spacing?.ratio ?? 0) >= 90 ? 2 : (results.desktopStory.spacing?.ratio ?? 0) >= 75 ? 1 : 0 },
+      { label: `界面数字对齐（数字逐字宽差 ${results.desktopHome.digits?.spread ?? 'n/a'}px）`, pass: (results.desktopHome.digits?.spread ?? 9) <= 0.1, score: (results.desktopHome.digits?.spread ?? 9) <= 0.1 ? 1 : 0 },
       { label: `圆角取值收敛（实测 ${results.desktopStory.tokens?.radii ?? 'n/a'} 种：${(results.desktopStory.tokens?.radiusValues ?? []).join('、') || '直角版式'}）`, pass: (results.desktopStory.tokens?.radii ?? 9) <= 2, score: (results.desktopStory.tokens?.radii ?? 9) <= 2 ? 1 : 0 },
       { label: `阴影取值收敛（实测 ${results.desktopStory.tokens?.shadows ?? 'n/a'} 种）`, pass: (results.desktopStory.tokens?.shadows ?? 9) <= 2, score: (results.desktopStory.tokens?.shadows ?? 9) <= 2 ? 1 : 0 },
     ],

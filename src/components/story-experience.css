@@ -72,7 +72,9 @@
 .story-paper p{
   font-family:var(--font-serif);font-size:var(--t-body);line-height:var(--leading-body);overflow-wrap:anywhere;
   text-indent:2em;margin:0 0 .55em;max-width:36em;
-  text-align:justify;text-justify:inter-ideograph;text-wrap:pretty;font-variant-numeric:tabular-nums;
+  text-align:justify;text-justify:inter-ideograph;text-wrap:pretty;
+  /* 正文用比例数字：实测衬线字体栈（Songti SC 等）不含等宽数字，tabular-nums 在此为空转；
+     纸质书同样在正文用比例数字、在数据列用等宽数字（数据读处见 index.css） */
   /* 避头尾：严格禁则，避免行首落在标点/破折号上 */
   line-break:strict;
 }
