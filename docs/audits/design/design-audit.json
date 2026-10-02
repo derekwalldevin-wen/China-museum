@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:59:43.912Z",
+  "generatedAt": "2026-10-02T08:18:03.220Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307674,
   "mainCssBytes": 70399,
@@ -9,7 +9,7 @@
   "categories": [
     {
       "name": "其他页面",
-      "max": 6,
+      "max": 7,
       "items": [
         {
           "label": "故事目录页 1 个 h1 且 390 无溢出（实测 1 个／0px）",
@@ -33,6 +33,11 @@
         },
         {
           "label": "馆藏面板·桌面无 <12px 且无低对比文字（0 处／0 处，最低 6.05）",
+          "pass": true,
+          "score": 1
+        },
+        {
+          "label": "故事目录卡片像素对比度 ≥4.5（标题 11.18／问题 12.19／说明 12.19／钩子 11.92／编辑说明 8.99）",
           "pass": true,
           "score": 1
         },
@@ -108,7 +113,7 @@
     },
     {
       "name": "中文字排",
-      "max": 8,
+      "max": 7,
       "items": [
         {
           "label": "正文使用衬线（系统宋体等）",
@@ -118,7 +123,7 @@
         {
           "label": "行长 30–34 字（实测 34）",
           "pass": true,
-          "score": 2
+          "score": 1
         },
         {
           "label": "段首缩进 2em（实测 2em）",
@@ -316,7 +321,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1004ms；FCP 1004ms；不限速 1272ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 824ms；FCP 824ms；不限速 760ms）",
           "pass": true,
           "score": 4
         },
@@ -430,10 +435,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 7428,
+        "lcpMs": 3796,
         "cls": 0,
-        "fcpMs": 4160,
-        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
+        "fcpMs": 2488,
+        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
         "h1": 44,
@@ -577,12 +582,12 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 288,
-        "eventCount": 28,
-        "lcpMs": 7428,
-        "cls": 0,
-        "fcpMs": 4160,
-        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
+        "inpMs": 200,
+        "eventCount": 48,
+        "lcpMs": 3796,
+        "cls": 0.002,
+        "fcpMs": 2488,
+        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
         "h1": 28,
@@ -736,9 +741,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1272,
+        "lcpMs": 760,
         "cls": 0,
-        "fcpMs": 1196,
+        "fcpMs": 760,
         "lcpElement": "h1 |  | 山河入画"
       },
       "hierarchy": {
@@ -858,9 +863,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 2884,
+        "lcpMs": 2640,
         "cls": 0,
-        "fcpMs": 1196,
+        "fcpMs": 760,
         "lcpElement": "img | is-loaded | "
       },
       "hierarchy": {
@@ -960,9 +965,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1340,
+          "lcpMs": 1424,
           "cls": 0,
-          "fcpMs": 832,
+          "fcpMs": 792,
           "lcpElement": "h1 |  | 从一个问题，走进千年生活。"
         },
         "hierarchy": {
@@ -1063,9 +1068,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1552,
+          "lcpMs": 1892,
           "cls": 0.001,
-          "fcpMs": 596,
+          "fcpMs": 648,
           "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
         },
         "hierarchy": {
@@ -1162,9 +1167,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 732,
+          "lcpMs": 748,
           "cls": 0,
-          "fcpMs": 732,
+          "fcpMs": 748,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1241,9 +1246,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 760,
+          "lcpMs": 588,
           "cls": 0,
-          "fcpMs": 760,
+          "fcpMs": 588,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1293,6 +1298,13 @@
         "contrastMin": 6.05,
         "lowContrast": 0
       }
+    },
+    "directoryPixel": {
+      "title": 11.18,
+      "question": 12.19,
+      "intro": 12.19,
+      "hook": 11.92,
+      "note": 8.99
     },
     "pixelContrast": {
       "mapShort": 7.51,
@@ -1358,9 +1370,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1444,
+        "lcpMs": 1428,
         "cls": 0.002,
-        "fcpMs": 716,
+        "fcpMs": 800,
         "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
@@ -1518,9 +1530,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1004,
+        "lcpMs": 824,
         "cls": 0,
-        "fcpMs": 1004,
+        "fcpMs": 824,
         "lcpElement": "b |  | 山河入画"
       },
       "hierarchy": {

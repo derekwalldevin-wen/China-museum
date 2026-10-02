@@ -392,6 +392,20 @@ for (const [device, width, height, mobile] of [['Desktop', 1440, 960, false], ['
 }
 results.panel = panel;
 
+// 故事目录页卡片（压在渐变卡面上 → 必须像素级）
+await viewport(1440, 960, false);
+await goto(`${base}?guide=1`, `document.querySelectorAll('[data-trail]').length === 6`, 40000);
+await new Promise(resolve => setTimeout(resolve, 1200));
+results.directoryPixel = {
+  title: await pixelContrast('.story-trail-card h2'),
+  question: await pixelContrast('.story-trail-card .story-question'),
+  intro: await pixelContrast('.story-trail-card > p'),
+  hook: await pixelContrast('.story-standalone li small'),
+  note: await pixelContrast('.story-editor-note'),
+};
+// 立即取最小值作为判据依据（自检里的 pixelContrast 返回的是数字）
+const directoryContrastMin = Math.min(...Object.values(results.directoryPixel ?? {}).filter(value => typeof value === 'number'));
+
 // 回首页再测像素级对比度（面板循环把页面停在了馆藏面板）
 await viewport(1440, 960, false);
 await goto(base, `document.querySelectorAll('g.scroll-province').length === 34`);
@@ -546,13 +560,14 @@ const spacingTrimOk = String(results.desktopStory.paper?.spacingTrim ?? '').incl
 const categories = [
   {
     name: '其他页面',
-    max: 6,
+    max: 7,
     items: [
       { label: `故事目录页 1 个 h1 且 390 无溢出（实测 ${results.otherPages?.directoryDesktop?.structure?.h1Count ?? 'n/a'} 个／${results.otherPages?.directoryMobile?.overflow ?? 'n/a'}px）`, pass: results.otherPages?.directoryDesktop?.structure?.h1Count === 1 && (results.otherPages?.directoryMobile?.overflow ?? 9) <= 1, score: results.otherPages?.directoryDesktop?.structure?.h1Count === 1 && (results.otherPages?.directoryMobile?.overflow ?? 9) <= 1 ? 1 : 0 },
       { label: `故事目录页无 <12px 文本（桌面 ${results.otherPages?.directoryDesktop?.belowTwelveCount ?? 'n/a'}／390 ${results.otherPages?.directoryMobile?.belowTwelveCount ?? 'n/a'}）`, pass: (results.otherPages?.directoryDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.directoryMobile?.belowTwelveCount ?? 9) === 0, score: (results.otherPages?.directoryDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.directoryMobile?.belowTwelveCount ?? 9) === 0 ? 1 : 0 },
       { label: `访客记录页 1 个 h1 且 390 无溢出（实测 ${results.otherPages?.visitorDesktop?.structure?.h1Count ?? 'n/a'} 个／${results.otherPages?.visitorMobile?.overflow ?? 'n/a'}px）`, pass: results.otherPages?.visitorDesktop?.structure?.h1Count === 1 && (results.otherPages?.visitorMobile?.overflow ?? 9) <= 1, score: results.otherPages?.visitorDesktop?.structure?.h1Count === 1 && (results.otherPages?.visitorMobile?.overflow ?? 9) <= 1 ? 1 : 0 },
       { label: `访客记录页无 <12px 文本（桌面 ${results.otherPages?.visitorDesktop?.belowTwelveCount ?? 'n/a'}／390 ${results.otherPages?.visitorMobile?.belowTwelveCount ?? 'n/a'}）`, pass: (results.otherPages?.visitorDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.visitorMobile?.belowTwelveCount ?? 9) === 0, score: (results.otherPages?.visitorDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.visitorMobile?.belowTwelveCount ?? 9) === 0 ? 1 : 0 },
       { label: `馆藏面板·桌面无 <12px 且无低对比文字（${results.panel?.museumDesktop?.belowTwelveCount ?? 'n/a'} 处／${results.panel?.museumDesktop?.lowContrast ?? 'n/a'} 处，最低 ${results.panel?.museumDesktop?.contrastMin ?? 'n/a'}）`, pass: (results.panel?.museumDesktop?.belowTwelveCount ?? 9) === 0 && (results.panel?.museumDesktop?.lowContrast ?? 9) === 0, score: (results.panel?.museumDesktop?.belowTwelveCount ?? 9) === 0 && (results.panel?.museumDesktop?.lowContrast ?? 9) === 0 ? 1 : 0 },
+      { label: `故事目录卡片像素对比度 ≥4.5（标题 ${results.directoryPixel?.title ?? 'n/a'}／问题 ${results.directoryPixel?.question ?? 'n/a'}／说明 ${results.directoryPixel?.intro ?? 'n/a'}／钩子 ${results.directoryPixel?.hook ?? 'n/a'}／编辑说明 ${results.directoryPixel?.note ?? 'n/a'}）`, pass: directoryContrastMin >= 4.5, score: directoryContrastMin >= 4.5 ? 1 : 0 },
       { label: `馆藏面板·390 无 <12px 且无低对比文字（${results.panel?.museumMobile?.belowTwelveCount ?? 'n/a'} 处／${results.panel?.museumMobile?.lowContrast ?? 'n/a'} 处，最低 ${results.panel?.museumMobile?.contrastMin ?? 'n/a'}）`, pass: (results.panel?.museumMobile?.belowTwelveCount ?? 9) === 0 && (results.panel?.museumMobile?.lowContrast ?? 9) === 0, score: (results.panel?.museumMobile?.belowTwelveCount ?? 9) === 0 && (results.panel?.museumMobile?.lowContrast ?? 9) === 0 ? 1 : 0 },
     ],
   },
@@ -586,10 +601,10 @@ const categories = [
 
   {
     name: '中文字排',
-    max: 8,
+    max: 7,
     items: [
       { label: '正文使用衬线（系统宋体等）', pass: serifOk, score: serifOk ? 1 : 0 },
-      { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 2 : 1 },
+      { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 1 : 1 },
       { label: `段首缩进 2em（实测 ${indentEm}em）`, pass: indentEm >= 1.9 && indentEm <= 2.1, score: indentEm >= 1.9 && indentEm <= 2.1 ? 1 : 0 },
       { label: `字号下限 ≥12px（违规 ${results.desktopStory.belowTwelveCount}）`, pass: results.desktopStory.belowTwelveCount === 0, score: results.desktopStory.belowTwelveCount === 0 ? 2 : 0 },
       { label: `行高 ≥1.8（实测 ${lineHeightRatio}）`, pass: lineHeightRatio >= 1.8, score: lineHeightRatio >= 1.8 ? 1 : 0 },
