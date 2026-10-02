@@ -81,12 +81,12 @@ export default function ArtifactCard({ artifact, index, onClick, showStory = tru
           hold ? <ImageOnHold /> : <ArtifactArt shape={artifact.shape} className="relative w-full h-full group-hover:scale-[1.03] transition-transform duration-500" />
         )}
         {usePhoto && activeImage.kind === 'ai' && (
-          <div className="absolute left-2 top-2 font-mono text-[9px] text-[#efe6cf]/80 bg-[#0d0c09]/75 border border-[#efe6cf]/20 px-1.5 py-0.5 z-10">
+          <div className="absolute left-2 top-2 font-mono text-[12px] text-[#efe6cf]/80 bg-[#0d0c09]/75 border border-[#efe6cf]/20 px-1.5 py-0.5 z-10">
             AI 复原示意
           </div>
         )}
         {usePhoto && usingLegacyFallback && (
-          <div className="absolute right-2 top-2 font-mono text-[9px] text-[#efe6cf]/65 bg-[#0d0c09]/75 border border-[#efe6cf]/15 px-1.5 py-0.5 z-10">
+          <div className="absolute right-2 top-2 font-mono text-[12px] text-[#efe6cf]/65 bg-[#0d0c09]/75 border border-[#efe6cf]/15 px-1.5 py-0.5 z-10">
             备用图
           </div>
         )}
@@ -99,20 +99,20 @@ export default function ArtifactCard({ artifact, index, onClick, showStory = tru
       {/* 展签 */}
       <div className="relative px-3.5 pt-3 pb-3.5 border-t border-[#efe6cf]/10 mx-2 mt-2">
         <div className="flex items-baseline justify-between gap-2">
-          <span className="font-mono text-[9px] tracking-widest text-[#d43a28]">
+          <span className="font-mono text-[12px] tracking-widest text-[#d43a28]">
             {index !== undefined ? `NO.${String(index + 1).padStart(2, '0')}` : 'RELIC'}
           </span>
-          <span className="font-mono text-[9px] text-[#efe6cf]/40">{artifact.dynasty} · {artifact.category}</span>
+          <span className="font-mono text-[12px] text-[#efe6cf]/40">{artifact.dynasty} · {artifact.category}</span>
         </div>
         <h3 className="mt-1.5 font-serif text-[17px] leading-snug text-[#efe6cf] group-hover:text-white transition-colors">
           {artifact.name}
         </h3>
-        {artifact.holdingInstitution && <p className="mt-1 text-[10px] leading-relaxed text-[#e7d5ab]/80">馆藏：{artifact.holdingInstitution}<span className="block text-[#efe6cf]/50">{artifact.exhibitionNote}</span></p>}
+        {artifact.holdingInstitution && <p className="mt-1 text-[12px] leading-relaxed text-[#e7d5ab]/80">馆藏：{artifact.holdingInstitution}<span className="block text-[#efe6cf]/50">{artifact.exhibitionNote}</span></p>}
         {showStory && 'story' in artifact && (
           <p className="mt-2 text-[12px] leading-relaxed text-[#efe6cf]/55 line-clamp-3">{artifact.story}</p>
         )}
         {!usePhoto && (
-          <div className="mt-1.5 font-mono text-[9px] text-[#efe6cf]/30">{hold ? '图像核验中 · 暂缓展示' : '示意线刻 · 真品图待补'}</div>
+          <div className="mt-1.5 font-mono text-[12px] text-[#efe6cf]/30">{hold ? '图像核验中 · 暂缓展示' : '示意线刻 · 真品图待补'}</div>
         )}
       </div>
     </button>
@@ -191,11 +191,11 @@ function ResolvedArtifactFigure({ artifact, info, delivery, className, preserveF
       ) : (
         hold ? <ImageOnHold /> : <ArtifactArt shape={artifact.shape} className="relative w-full h-full" />
       )}
-      {usePhoto && !imageReady && <div className="pointer-events-none absolute inset-0 grid place-items-center bg-[#0e0d0a]/25 font-mono text-[10px] tracking-wider text-[#efe6cf]/45">正在显影…</div>}
+      {usePhoto && !imageReady && <div className="pointer-events-none absolute inset-0 grid place-items-center bg-[#0e0d0a]/25 font-mono text-[12px] tracking-wider text-[#efe6cf]/45">正在显影…</div>}
       <div className="absolute right-3 bottom-3 h-9 w-9 bg-[#d43a28] flex items-center justify-center shadow-lg">
         <span className="font-serif text-lg font-bold text-[#0e0d0a]">{artifact.category[0]}</span>
       </div>
-      <div className="absolute left-3 bottom-3 font-mono text-[9px] text-[#efe6cf]/50 bg-[#0d0c09]/70 px-1.5 py-0.5">
+      <div className="absolute left-3 bottom-3 font-mono text-[12px] text-[#efe6cf]/50 bg-[#0d0c09]/70 px-1.5 py-0.5">
         {hold ? '图像核验中' : label}
       </div>
     </div>
@@ -220,12 +220,12 @@ function ArtifactFigurePending({ artifact, className, preserveFrame, failed, ret
       ) : (
         hold ? <ImageOnHold /> : <ArtifactArt shape={artifact.shape} className="relative h-full w-full" />
       )}
-      {usePhoto && activeImage.kind === 'ai' && <div className="absolute left-3 top-3 bg-[#0d0c09]/80 px-2 py-1 font-mono text-[9px] text-[#efe6cf]/75">AI 复原示意</div>}
-      <div className="absolute bottom-3 left-3 bg-[#0d0c09]/80 px-2 py-1 font-mono text-[9px] text-[#efe6cf]/55">
+      {usePhoto && activeImage.kind === 'ai' && <div className="absolute left-3 top-3 bg-[#0d0c09]/80 px-2 py-1 font-mono text-[12px] text-[#efe6cf]/75">AI 复原示意</div>}
+      <div className="absolute bottom-3 left-3 bg-[#0d0c09]/80 px-2 py-1 font-mono text-[12px] text-[#efe6cf]/55">
         {failed ? '完整影像说明载入失败' : '正在核读影像说明…'}
       </div>
     </div>
-    <div className={`mt-3 border px-3 py-2.5 font-mono text-[10px] leading-relaxed ${failed ? 'border-[#d43a28]/35 bg-[#d43a28]/7 text-[#efe6cf]/65' : 'border-[#efe6cf]/15 bg-[#efe6cf]/[0.025] text-[#efe6cf]/50'}`} role={failed ? 'alert' : 'status'}>
+    <div className={`mt-3 border px-3 py-2.5 font-mono text-[12px] leading-relaxed ${failed ? 'border-[#d43a28]/35 bg-[#d43a28]/7 text-[#efe6cf]/65' : 'border-[#efe6cf]/15 bg-[#efe6cf]/[0.025] text-[#efe6cf]/50'}`} role={failed ? 'alert' : 'status'}>
       {failed ? <>
         <div>完整来源、授权与处理记录暂未载入；当前只显示安全卡片预览，不据此补写任何来源结论。</div>
         <button type="button" onClick={retry} className="mt-2 min-h-11 border border-[#d43a28] px-3 py-2 text-[#d43a28]">重试影像资料</button>
@@ -238,7 +238,7 @@ function ArtifactFigurePending({ artifact, className, preserveFrame, failed, ret
 export function ArtifactImageDisclosure({ info, image }: { info: ArtifactImageInfo; image: ArtifactImageVariant | null }) {
   if (!image) {
     return (
-      <div className="mt-3 border border-[#d43a28]/30 bg-[#d43a28]/5 px-3 py-2 font-mono text-[10px] leading-relaxed text-[#efe6cf]/55">
+      <div className="mt-3 border border-[#d43a28]/30 bg-[#d43a28]/5 px-3 py-2 font-mono text-[12px] leading-relaxed text-[#efe6cf]/55">
         {info?.imageHold ? `影像状态：图像核验中。${info.imageHold.reason} 暂缓展示原图与依赖该参考的 AI 图，文物条目保留。` : '影像状态：当前仅提供示意线刻，真品图待补。'}
         {info?.imageHold && info.sourceReview && <div className="mt-2">后续核验：{info.sourceReview.note}</div>}
         {info?.imageHold && info.sourceReview?.authorityUrl && <a href={info.sourceReview.authorityUrl} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center text-[#d43a28] underline">查看替换参考资料（尚未接入） ↗</a>}
@@ -254,7 +254,7 @@ export function ArtifactImageDisclosure({ info, image }: { info: ArtifactImageIn
       ? provenance.generator
       : null;
     return (
-      <div className="mt-3 border border-[#d43a28]/35 bg-[#d43a28]/7 px-3 py-2.5 font-mono text-[10px] leading-relaxed text-[#efe6cf]/60">
+      <div className="mt-3 border border-[#d43a28]/35 bg-[#d43a28]/7 px-3 py-2.5 font-mono text-[12px] leading-relaxed text-[#efe6cf]/60">
         <div className="font-semibold tracking-wider text-[#d43a28]">AI 复原示意 · 非文物实拍</div>
         <div className="mt-1">仅辅助认识大致形态，细节可能与原物不同；不用于认读铭文、清点人物或鉴定纹饰。</div>
         <div className="mt-1">{image.credit}</div>
@@ -275,7 +275,7 @@ export function ArtifactImageDisclosure({ info, image }: { info: ArtifactImageIn
       ? '受限使用，请以来源页条款为准'
       : '待核验，不作为开放授权声明';
   return (
-    <div className="mt-3 border border-[#efe6cf]/15 bg-[#efe6cf]/[0.025] px-3 py-2.5 font-mono text-[10px] leading-relaxed text-[#efe6cf]/60">
+    <div className="mt-3 border border-[#efe6cf]/15 bg-[#efe6cf]/[0.025] px-3 py-2.5 font-mono text-[12px] leading-relaxed text-[#efe6cf]/60">
       <div className="flex flex-wrap items-center justify-between gap-2">
         <span className="font-semibold tracking-wider text-[#efe6cf]/75">来源图 · 非 AI 复原</span>
         {sourceUrl && (
@@ -435,7 +435,7 @@ function ArtifactScrollReader({
     <figure className={`relative overflow-hidden border border-[#efe6cf]/15 bg-[#090806] ${className}`}>
       <div className="flex items-center justify-between border-b border-[#efe6cf]/12 bg-[#12100b] px-3 py-2 md:px-4">
         <div>
-          <div className="font-mono text-[9px] tracking-[0.22em] text-[#d43a28]">SCROLL READING DESK</div>
+          <div className="font-mono text-[12px] tracking-[0.22em] text-[#d43a28]">SCROLL READING DESK</div>
           <div className="mt-0.5 font-serif text-[12px] text-[#efe6cf]/65">长卷阅览 · 顺卷徐行</div>
         </div>
           <div className={`flex items-center gap-1.5 ${isLongScroll ? '' : 'invisible'}`} aria-hidden={!isLongScroll}>
@@ -522,8 +522,8 @@ function ArtifactScrollReader({
           }}
           className={`relative select-none ${isLongScroll ? 'h-full w-auto max-w-none object-contain' : 'h-full w-full object-contain p-3 md:p-5'}`}
         />}
-        {!imageReady && <div className="pointer-events-none absolute inset-0 grid place-items-center font-mono text-[10px] tracking-wider text-[#efe6cf]/45">正在展卷…</div>}
-        <div className="pointer-events-none sticky bottom-3 left-3 z-10 inline-block bg-[#0d0c09]/80 px-2 py-1 font-mono text-[9px] text-[#efe6cf]/55 backdrop-blur-sm">
+        {!imageReady && <div className="pointer-events-none absolute inset-0 grid place-items-center font-mono text-[12px] tracking-wider text-[#efe6cf]/45">正在展卷…</div>}
+        <div className="pointer-events-none sticky bottom-3 left-3 z-10 inline-block bg-[#0d0c09]/80 px-2 py-1 font-mono text-[12px] text-[#efe6cf]/55 backdrop-blur-sm">
           {label}
         </div>
         <div className="pointer-events-none sticky bottom-3 left-[calc(100%-3rem)] z-10 ml-auto mr-3 flex h-9 w-9 -translate-y-7 items-center justify-center bg-[#d43a28] shadow-lg">
@@ -538,7 +538,7 @@ function ArtifactScrollReader({
               style={{ width: `${Math.max(4, progress * 100)}%` }}
             />
           </div>
-          <div className="mt-2 flex items-center justify-between gap-3 font-mono text-[9px] tracking-wider text-[#efe6cf]/35">
+          <div className="mt-2 flex items-center justify-between gap-3 font-mono text-[12px] tracking-wider text-[#efe6cf]/35">
             <span>{isLongScroll ? '按住拖动 · 触摸横滑 · 滚轮阅卷' : '图像展示 · 长幅载入后可横向阅卷'}</span>
             <span className="tabular-nums">{Math.round(progress * 100)}%</span>
           </div>

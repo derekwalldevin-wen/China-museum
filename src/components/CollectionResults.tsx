@@ -46,7 +46,7 @@ export default function CollectionResults({ museums, provinces, filter, onFilter
     <section hidden={hidden} aria-labelledby="collection-results-title" className="atlas-collection-results">
       <div className="flex shrink-0 flex-wrap items-start justify-between gap-3 border-b border-[#efe6cf]/15 px-4 py-3 md:px-8 md:py-5">
         <div>
-          <p className="font-mono text-[9px] tracking-[.2em] text-[#b49a63]">循时代 · 访珍藏</p>
+          <p className="font-mono text-[12px] tracking-[.2em] text-[#b49a63]">循时代 · 访珍藏</p>
           <h1 id="collection-results-title" className="mt-1 font-serif text-xl text-[#efe6cf] md:text-3xl">
             {filter.era ?? '历代'}{filter.category ? ` · ${filter.category}` : '文物'}
           </h1>
@@ -69,7 +69,7 @@ export default function CollectionResults({ museums, provinces, filter, onFilter
           </select>
           {filter.era && <button type="button" className="collection-filter-chip" onClick={() => onFilter({ ...filter, era: null })} aria-label={`取消${filter.era}筛选`}>{filter.era} ×</button>}
           {filter.category && <button type="button" className="collection-filter-chip" onClick={() => onFilter({ ...filter, category: null })} aria-label={`取消${filter.category}筛选`}>{filter.category} ×</button>}
-          <span className="text-[11px] text-[#efe6cf]/40">点选文物查看详情与收藏地点</span>
+          <span className="text-[12px] text-[#efe6cf]/40">点选文物查看详情与收藏地点</span>
         </div>
       </div>
       <div ref={viewportRef} onScroll={(event) => {
@@ -83,9 +83,9 @@ export default function CollectionResults({ museums, provinces, filter, onFilter
               onOpen(museum, artifact.id);
             }} />
             <div className="flex-1 border border-t-0 border-[#efe6cf]/15 bg-[#181710] px-3 py-3">
-              <p className="text-[11px] text-[#b49a63]">{museum.province} · {museum.city}</p>
+              <p className="text-[12px] text-[#b49a63]">{museum.province} · {museum.city}</p>
               <p className="mt-1 font-serif text-xs leading-relaxed text-[#efe6cf]/80">{artifactAttribution(artifact, museum).holdingLabel}</p>
-              {artifact.exhibitionNote && <p className="mt-1 text-[10px] leading-relaxed text-[#efe6cf]/50">{artifact.exhibitionNote}</p>}
+              {artifact.exhibitionNote && <p className="mt-1 text-[12px] leading-relaxed text-[#efe6cf]/50">{artifact.exhibitionNote}</p>}
             </div>
           </article>)}
         </div> : <div className="mx-auto max-w-md py-12 text-center">

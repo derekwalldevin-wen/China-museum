@@ -383,7 +383,7 @@ export default function App() {
           <div className="relative h-px w-52 overflow-hidden bg-[#d8cfb7]/10">
             <div className="absolute inset-y-0 left-0 w-1/3 bg-[#b49a63] animate-[loadSweep_1.6s_ease-in-out_infinite]" />
           </div>
-          <div className="font-mono text-[10px] tracking-[0.3em] text-[#efe6cf]/40">
+          <div className="font-mono text-[12px] tracking-[0.3em] text-[#efe6cf]/40">
             {mapStarted ? '正在铺陈舆图…' : '正在取卷研墨…'}
           </div>
           <button
@@ -391,7 +391,7 @@ export default function App() {
             onClick={() => setDirectoryOpen(true)}
             onPointerEnter={() => warm(loadRegionDirectory)}
             onFocus={() => warm(loadRegionDirectory)}
-            className="pointer-events-auto border border-[#efe6cf]/25 px-4 py-2 font-mono text-[10px] tracking-wider text-[#efe6cf]/60 transition-colors active:bg-[#d43a28] active:text-[#0d0c09] hover:border-[#d43a28] hover:text-[#efe6cf]"
+            className="pointer-events-auto border border-[#efe6cf]/25 px-4 py-2 font-mono text-[12px] tracking-wider text-[#efe6cf]/60 transition-colors active:bg-[#d43a28] active:text-[#0d0c09] hover:border-[#d43a28] hover:text-[#efe6cf]"
           >展卷期间，先看全国目录</button>
         </div>
       )}
@@ -426,7 +426,7 @@ export default function App() {
             onClick={() => setDirectoryOpen(true)}
             onPointerEnter={() => warm(loadRegionDirectory)}
             onFocus={() => warm(loadRegionDirectory)}
-            className="draw-btn atlas-directory-button atlas-nav-tab ml-auto shrink-0 px-2.5 py-2 font-mono text-[10px] tracking-wider transition-colors md:ml-0 md:px-3"
+            className="draw-btn atlas-directory-button atlas-nav-tab ml-auto shrink-0 px-2.5 py-2 font-mono text-[12px] tracking-wider transition-colors md:ml-0 md:px-3"
           >
             <span className="md:hidden">目录</span>
             <span className="hidden md:inline">九州名录</span>
@@ -437,7 +437,7 @@ export default function App() {
           <div className="atlas-search-slot flex flex-1 justify-center max-md:order-3 max-md:basis-full">
             <SearchBar museums={museums} onPickMuseum={pickMuseum} onPickArtifact={pickArtifact} />
           </div>
-          <div className="atlas-census hidden lg:block shrink-0 font-mono text-[10px] text-[#efe6cf]/50 text-right leading-relaxed">
+          <div className="atlas-census hidden lg:block shrink-0 font-mono text-[12px] text-[#efe6cf]/50 text-right leading-relaxed">
             <div><b className="text-[#b49a63]">{museums.length}</b> 馆 / <b className="text-[#b49a63]">{artifactTotal}</b> 件</div>
             <div>一轴山河 · 万物有声</div>
           </div>
@@ -474,7 +474,7 @@ export default function App() {
       </div>
       {/* ── 右侧竖排年份 ── */}
       <div className="absolute right-3 top-1/2 -translate-y-1/2 z-10 pointer-events-none hidden lg:block">
-        <div className="v-text font-mono text-[10px] text-[#efe6cf]/25">
+        <div className="v-text font-mono text-[12px] text-[#efe6cf]/25">
           THE MUSEUM HANDSCROLL · EST. 2026
         </div>
       </div>
@@ -482,14 +482,14 @@ export default function App() {
       {/* ── 底部标尺 + 坐标 ── */}
       <footer className="atlas-footer absolute left-0 right-0 bottom-0 z-20">
         <div className="ruler h-2.5 opacity-70" />
-        <div className="flex items-center justify-between px-5 py-1.5 font-mono text-[11px]">
+        <div className="flex items-center justify-between px-5 py-1.5 font-mono text-[12px]">
           <MapCoordinates ref={coordinatesRef} />
           <div className="hidden md:flex items-center gap-4 text-[#efe6cf]/45">
             <span>轻点省份入卷 · 悬停阅览经纬 · 真实省界</span>
             <span className="text-[#d43a28]">■</span>
             <span>手绘长卷 · {mapQuality ? `${MAP_QUALITY_LABEL[mapQuality]}画质` : '自适应画质'}</span>
           </div>
-          <div className="ml-auto text-[9px] text-[#efe6cf]/38 md:hidden">
+          <div className="ml-auto text-[12px] text-[#efe6cf]/38 md:hidden">
             轻触朱印 · 一步入卷
             {mapQuality && <span className="ml-2 text-[#d43a28]">{MAP_QUALITY_LABEL[mapQuality]}</span>}
           </div>

@@ -1,6 +1,6 @@
 {
-  "base": "http://127.0.0.1:4670/",
-  "testedAt": "2026-10-01T14:52:11.970Z",
+  "base": "http://127.0.0.1:4780/",
+  "testedAt": "2026-10-02T01:37:20.954Z",
   "results": [
     {
       "name": "desktop",
@@ -36,45 +36,45 @@
         },
         "story": {
           "left": 32,
-          "right": 259.3125,
-          "top": 690,
+          "right": 294.328125,
+          "top": 685.5,
           "bottom": 896,
-          "width": 227.3125,
-          "height": 206
+          "width": 262.328125,
+          "height": 210.5
         },
         "storyButton": {
           "left": 53,
-          "right": 238.3125,
-          "top": 812.5,
-          "bottom": 856.5,
-          "width": 185.3125,
+          "right": 273.328125,
+          "top": 808,
+          "bottom": 852,
+          "width": 220.328125,
           "height": 44
         },
         "footer": {
           "left": 0,
           "right": 1440,
-          "top": 915,
+          "top": 905,
           "bottom": 960,
           "width": 1440,
-          "height": 45
+          "height": 55
         },
         "disclosure": {
-          "left": 1178.78125,
+          "left": 1178.90625,
           "right": 1286.390625,
           "top": 855,
           "bottom": 874,
-          "width": 107.609375,
+          "width": 107.484375,
           "height": 19
         },
         "storyColor": "rgb(37, 41, 32)",
         "storyBackground": "radial-gradient(circle at 100% 0%, rgba(169, 52, 36, 0.075), rgba(0, 0, 0, 0) 38%), linear-gradient(125deg, rgba(235, 224, 197, 0.99), rgba(208, 190, 154, 0.98))",
         "credit": {
-          "left": 1332.59375,
+          "left": 1316.90625,
           "right": 1420,
-          "top": 935.5,
-          "bottom": 950.5,
-          "width": 87.40625,
-          "height": 15,
+          "top": 929,
+          "bottom": 947,
+          "width": 103.09375,
+          "height": 18,
           "text": "作者：德里克文",
           "visible": "1"
         }
@@ -92,9 +92,9 @@
           "left": 0,
           "right": 390,
           "top": 0,
-          "bottom": 158.5,
+          "bottom": 164.5,
           "width": 390,
-          "height": 158.5
+          "height": 164.5
         },
         "prologue": {
           "left": 24,
@@ -115,10 +115,10 @@
         "story": {
           "left": 12,
           "right": 378,
-          "top": 597.40625,
+          "top": 594.40625,
           "bottom": 750,
           "width": 366,
-          "height": 152.59375
+          "height": 155.59375
         },
         "storyButton": {
           "left": 28,
@@ -131,28 +131,28 @@
         "footer": {
           "left": 0,
           "right": 390,
-          "top": 799,
+          "top": 785,
           "bottom": 844,
           "width": 390,
-          "height": 45
+          "height": 59
         },
         "disclosure": {
           "left": 79.234375,
-          "right": 186.84375,
+          "right": 186.71875,
           "top": 543.546875,
           "bottom": 562.546875,
-          "width": 107.609375,
+          "width": 107.484375,
           "height": 19
         },
         "storyColor": "rgb(37, 41, 32)",
         "storyBackground": "linear-gradient(125deg, rgba(235, 224, 197, 0.99), rgba(208, 190, 154, 0.98))",
         "credit": {
-          "left": 294.21875,
+          "left": 271.953125,
           "right": 370,
-          "top": 820.25,
-          "bottom": 833.75,
-          "width": 75.78125,
-          "height": 13.5,
+          "top": 811,
+          "bottom": 829,
+          "width": 98.046875,
+          "height": 18,
           "text": "作者：德里克文",
           "visible": "1"
         }
@@ -160,7 +160,7 @@
     },
     {
       "name": "story-note-navigation",
-      "storyId": "hub-qqw",
+      "storyId": "hub-nnd",
       "opened": true
     },
     {
@@ -175,9 +175,9 @@
           "left": 0,
           "right": 390,
           "top": 0,
-          "bottom": 158.5,
+          "bottom": 164.5,
           "width": 390,
-          "height": 158.5
+          "height": 164.5
         },
         "prologue": {
           "left": 0,
@@ -198,44 +198,44 @@
         "story": {
           "left": 12,
           "right": 378,
-          "top": 483,
-          "bottom": 615,
+          "top": 484,
+          "bottom": 605,
           "width": 366,
-          "height": 132
+          "height": 121
         },
         "storyButton": {
-          "left": 28,
-          "right": 362,
-          "top": 558,
-          "bottom": 602,
-          "width": 334,
+          "left": 27,
+          "right": 363,
+          "top": 552,
+          "bottom": 596,
+          "width": 336,
           "height": 44
         },
         "footer": {
           "left": 0,
           "right": 390,
-          "top": 622,
+          "top": 608,
           "bottom": 667,
           "width": 390,
-          "height": 45
+          "height": 59
         },
         "disclosure": {
           "left": 79.234375,
-          "right": 186.84375,
+          "right": 186.71875,
           "top": 455.046875,
           "bottom": 474.046875,
-          "width": 107.609375,
+          "width": 107.484375,
           "height": 19
         },
         "storyColor": "rgb(37, 41, 32)",
         "storyBackground": "linear-gradient(125deg, rgba(235, 224, 197, 0.99), rgba(208, 190, 154, 0.98))",
         "credit": {
-          "left": 294.21875,
+          "left": 271.953125,
           "right": 370,
-          "top": 643.25,
-          "bottom": 656.75,
-          "width": 75.78125,
-          "height": 13.5,
+          "top": 634,
+          "bottom": 652,
+          "width": 98.046875,
+          "height": 18,
           "text": "作者：德里克文",
           "visible": "1"
         }
@@ -248,17 +248,17 @@
     },
     {
       "name": "simulated-low-end-6x-cpu-100KiBs-400ms-rtt",
-      "elapsedWallMs": 28239,
+      "elapsedWallMs": 13695,
       "checkpoints": {
-        "navigationWallMs": 4821,
-        "mapWallMs": 11022,
-        "artWallMs": 26728
+        "navigationWallMs": 4964,
+        "mapWallMs": 11320,
+        "artWallMs": 12190
       },
       "timings": {
-        "domContentLoadedMs": 4422,
-        "loadMs": 4425,
+        "domContentLoadedMs": 4235,
+        "loadMs": 4236,
         "artResources": [],
-        "artCurrentSrc": "http://127.0.0.1:4670/art/shanhe-handscroll-mobile.jpg",
+        "artCurrentSrc": "http://127.0.0.1:4780/art/shanhe-handscroll-mobile.jpg",
         "artNaturalWidth": 850,
         "provinceCount": 34,
         "storyVisible": true,

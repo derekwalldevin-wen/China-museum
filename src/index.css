@@ -269,9 +269,9 @@
   margin-left: 14px;
   white-space: nowrap;
   font-family: 'Noto Serif SC', 'Songti SC', serif;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: .12em;
-  color: rgba(216, 207, 183, .55);
+  color: rgba(216, 207, 183, .72);
 }
 #author::before {
   content: '';
@@ -287,22 +287,22 @@
 #visitor-link {
   flex: none;
   margin-left: auto;
-  padding: 0 10px;
-  min-height: 22px;
+  padding: 0 12px;
+  min-height: 32px;
   display: inline-flex;
   align-items: center;
   white-space: nowrap;
   font-family: 'Noto Serif SC', 'Songti SC', serif;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: .12em;
-  color: rgba(215, 168, 74, .72);
+  color: rgba(215, 168, 74, .88);
   text-decoration: none;
   border: 1px solid rgba(215, 168, 74, .28);
   transition: color .2s, border-color .2s;
 }
 #visitor-link:hover { color: rgba(215, 168, 74, 1); border-color: rgba(215, 168, 74, .7); }
 @media (max-width: 767px) {
-  #author { margin-left: 10px; font-size: 9px; letter-spacing: .06em; }
+  #author { margin-left: 10px; font-size: 12px; letter-spacing: .06em; }
   #author::before { height: 10px; }
 }
 
@@ -377,7 +377,7 @@
 .atlas-story-beacon button:hover,
 .atlas-story-beacon button:focus-visible { background: rgba(155, 53, 39, .23); color: #4c201a; }
 .atlas-story-beacon button b { color: #8e3828; font-size: 15px; }
-.atlas-story-hint { margin-top: 9px; color: rgba(53, 48, 36, .65); font-size: 9px; letter-spacing: .08em; }
+.atlas-story-hint { margin-top: 9px; color: rgba(53, 48, 36, .78); font-size: 12px; letter-spacing: .08em; }
 
 .atlas-loading {
   background:
@@ -1064,7 +1064,7 @@ canvas { touch-action: none; }
   }
   .atlas-brand-seal { width: 34px !important; height: 34px !important; }
   .atlas-brand-title { font-size: 18px !important; letter-spacing: .1em; }
-  .atlas-brand-subtitle { font-size: 8px !important; letter-spacing: .14em !important; }
+  .atlas-brand-subtitle { font-size: 12px !important; letter-spacing: .14em !important; }
   .atlas-nav-tab { min-height: 38px !important; padding-inline: 10px !important; }
   .atlas-search-slot { margin-top: 1px; }
   .atlas-search { max-width: none; }
@@ -1133,7 +1133,7 @@ canvas { touch-action: none; }
     border-color: rgba(228, 209, 164, .72) !important;
   }
   .atlas-story-beacon::before { inset: 4px; }
-  .atlas-story-eyebrow { font-size: 10px; }
+  .atlas-story-eyebrow { font-size: 12px; }
   .atlas-story-beacon h2 { margin-top: 7px; font-size: 22px; letter-spacing: .08em; }
   .atlas-story-beacon p {
     display: -webkit-box;
@@ -1221,8 +1221,12 @@ canvas { touch-action: none; }
 
 @media (max-width: 767px) and (max-height: 720px) {
   .scroll-mobile-prologue { display: none; }
-  .atlas-story-beacon { bottom: 52px; }
+  .atlas-story-beacon { bottom: 62px; }
   .atlas-story-beacon p { display: none; }
+  /* 短屏：字号下限与 44px 触控目标都不动，只收紧留白，把空间还给舆图 */
+  .atlas-story-beacon { padding: 8px 14px !important; }
+  .atlas-story-beacon h2 { font-size: 20px; margin-top: 5px; }
+  #visitor-link { min-height: 24px; padding: 0 10px; }
 }
 
 /* ── 山河入画：叙事型墨卷开场 ── */
@@ -1423,7 +1427,7 @@ canvas { touch-action: none; }
 .ink-intro-kicker {
   color: #9b3125;
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-  font-size: 9px;
+  font-size: 12px;
   letter-spacing: .34em;
 }
 [data-intro-phase="ink"] .ink-intro-copy,

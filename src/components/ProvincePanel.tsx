@@ -49,7 +49,7 @@ export default function ProvincePanel({ province, museums, onPickMuseum, onClose
               <span className="font-brush text-3xl text-[#f5eeda] leading-none pt-0.5">{province.short}</span>
             </div>
             <div>
-              <div className="font-mono text-[9px] tracking-[0.25em] text-[#b49a63]">
+              <div className="font-mono text-[12px] tracking-[0.25em] text-[#b49a63]">
                 REGION / {province.center[0].toFixed(2)}°E {province.center[1].toFixed(2)}°N
               </div>
               <h2 className="mt-0.5 font-serif text-2xl text-[#efe6cf]">{province.name}</h2>
@@ -61,7 +61,7 @@ export default function ProvincePanel({ province, museums, onPickMuseum, onClose
           </button>
         </div>
         <p className="mt-3 text-[13px] leading-relaxed text-[#efe6cf]/60 max-md:line-clamp-2">{province.intro}</p>
-        <div className="mt-3 flex gap-4 font-mono text-[11px] text-[#efe6cf]/50">
+        <div className="mt-3 flex gap-4 font-mono text-[12px] text-[#efe6cf]/50">
           <span>馆 <b className="text-[#b49a63]">{list.length}</b></span>
           <span>收录文物 <b className="text-[#b49a63]">{artifactTotal}</b></span>
         </div>
@@ -78,11 +78,11 @@ export default function ProvincePanel({ province, museums, onPickMuseum, onClose
               </div>
               <div className="min-w-0">
                 <div className="flex items-baseline gap-2">
-                  <span className="font-mono text-[10px] text-[#b49a63]">{String(i + 1).padStart(2, '0')}</span>
+                  <span className="font-mono text-[12px] text-[#b49a63]">{String(i + 1).padStart(2, '0')}</span>
                   <span className="font-serif text-[15px] text-[#efe6cf] group-hover:text-white truncate">{m.name}</span>
                 </div>
-                <div className="mt-1 text-[11px] text-[#efe6cf]/45 line-clamp-1">{museumIntros[m.id] ?? ''}</div>
-                <div className="mt-1 font-mono text-[10px] text-[#efe6cf]/40">
+                <div className="mt-1 text-[12px] text-[#efe6cf]/45 line-clamp-1">{museumIntros[m.id] ?? ''}</div>
+                <div className="mt-1 font-mono text-[12px] text-[#efe6cf]/40">
                   {m.city} · 镇馆之宝 {m.artifacts.length} 件 →
                 </div>
               </div>
@@ -91,7 +91,7 @@ export default function ProvincePanel({ province, museums, onPickMuseum, onClose
         ))}
       </div>
 
-      <footer className="shrink-0 p-3 pb-[max(.75rem,env(safe-area-inset-bottom))] border-t border-[#efe6cf]/15 font-mono text-[10px] text-[#efe6cf]/35 text-center">
+      <footer className="shrink-0 p-3 pb-[max(.75rem,env(safe-area-inset-bottom))] border-t border-[#efe6cf]/15 font-mono text-[12px] text-[#efe6cf]/35 text-center">
         点击博物馆进入展厅 · ESC 返回总览
       </footer>
     </aside>

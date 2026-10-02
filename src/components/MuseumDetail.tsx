@@ -154,12 +154,12 @@ export default function MuseumDetail({
           <span className="font-brush text-2xl leading-none text-[#efe6cf]">{museum.city[0]}</span>
         </div>
         <div className="min-w-0 flex-1">
-          <div className="font-mono text-[9px] tracking-[0.25em] text-[#d43a28] truncate">
+          <div className="font-mono text-[12px] tracking-[0.25em] text-[#d43a28] truncate">
             GALLERY / {museum.city} · {museum.coord[0].toFixed(2)}°E {museum.coord[1].toFixed(2)}°N
           </div>
           <h1 className="mt-0.5 font-serif text-lg sm:text-2xl md:text-3xl text-[#efe6cf] truncate">{museum.name}</h1>
         </div>
-        <div className="hidden md:flex items-center gap-2 font-mono text-[11px]">
+        <div className="hidden md:flex items-center gap-2 font-mono text-[12px]">
           <button onClick={() => onNavigate(prev)} className="draw-btn border border-[#efe6cf]/25 px-2 py-1 text-[#efe6cf]/60 hover:text-[#d43a28]">← {prev.name}</button>
           <span className="text-[#efe6cf]/30">{idx + 1}/{siblings.length}</span>
           <button onClick={() => onNavigate(next)} className="draw-btn border border-[#efe6cf]/25 px-2 py-1 text-[#efe6cf]/60 hover:text-[#d43a28]">{next.name} →</button>
@@ -170,7 +170,7 @@ export default function MuseumDetail({
         <div className="border-b border-[#efe6cf]/10 px-4 md:px-6 py-3 md:py-4">
         <p className="max-w-3xl text-[12px] md:text-[13px] leading-relaxed text-[#efe6cf]/65 max-md:line-clamp-2">{museumIntros[museum.id] ?? ''}</p>
         {/* 手机端同省切换 */}
-        <div className="mt-2 flex md:hidden items-center gap-2 font-mono text-[11px]">
+        <div className="mt-2 flex md:hidden items-center gap-2 font-mono text-[12px]">
           <button onClick={() => onNavigate(prev)} className="border border-[#efe6cf]/25 px-2 py-1 text-[#efe6cf]/60">← 上一馆</button>
           <span className="text-[#efe6cf]/30">{idx + 1}/{siblings.length}</span>
           <button onClick={() => onNavigate(next)} className="border border-[#efe6cf]/25 px-2 py-1 text-[#efe6cf]/60">下一馆 →</button>
@@ -181,8 +181,8 @@ export default function MuseumDetail({
         <div className="border-b border-[#efe6cf]/12 bg-[#100e0a] px-4 py-2.5 md:px-6">
           <div className="flex items-center gap-3">
             <div className="hidden shrink-0 lg:block">
-              <div className="font-mono text-[9px] tracking-[0.2em] text-[#d43a28]">COLLECTION FILTER</div>
-              <div className="mt-0.5 font-mono text-[10px] tabular-nums text-[#efe6cf]/40">
+              <div className="font-mono text-[12px] tracking-[0.2em] text-[#d43a28]">COLLECTION FILTER</div>
+              <div className="mt-0.5 font-mono text-[12px] tabular-nums text-[#efe6cf]/40">
                 显示 {filtered.length} / {museum.artifacts.length}
               </div>
             </div>
@@ -191,7 +191,7 @@ export default function MuseumDetail({
               <button
                 type="button"
                 onClick={() => { onEra(null); onCategory(null); }}
-                className="shrink-0 border border-[#d43a28]/60 px-2 py-1.5 font-mono text-[10px] text-[#d43a28] transition-colors hover:bg-[#d43a28] hover:text-[#0d0c09]"
+                className="shrink-0 border border-[#d43a28]/60 px-2 py-1.5 font-mono text-[12px] text-[#d43a28] transition-colors hover:bg-[#d43a28] hover:text-[#0d0c09]"
               >清除</button>
             )}
           </div>
@@ -251,7 +251,7 @@ export default function MuseumDetail({
 
             <div className={`w-full shrink-0 ${isScrollArtifact ? '' : 'md:w-[360px]'}`}>
               <ArtifactFigure museumId={museum.id} artifact={openArtifact} className={isScrollArtifact ? 'w-full' : 'aspect-[4/5] w-full'} />
-              <div className="mt-3 flex justify-between font-mono text-[10px] text-[#efe6cf]/40">
+              <div className="mt-3 flex justify-between font-mono text-[12px] text-[#efe6cf]/40">
                 <span>NO.{String(openIndex + 1).padStart(2, '0')} / {String(artifactSequence.length).padStart(2, '0')}</span>
                 <span>{openArtifact.era}</span>
               </div>
@@ -261,11 +261,11 @@ export default function MuseumDetail({
             </div>
 
             <div className={`min-w-0 ${isScrollArtifact ? 'mx-auto w-full max-w-4xl' : ''}`}>
-              <div className="font-mono text-[10px] tracking-widest text-[#d43a28]">
+              <div className="font-mono text-[12px] tracking-widest text-[#d43a28]">
                 {openArtifact.era} · {openArtifact.dynasty} · {openArtifact.category}
               </div>
               <h2 id="artifact-dialog-title" className="mt-2 font-serif text-2xl md:text-3xl text-[#efe6cf]">{openArtifact.name}</h2>
-              <div className="mt-1 font-mono text-[11px] text-[#efe6cf]/45">{artifactAttribution(openArtifact, museum).holdingLabel}</div>
+              <div className="mt-1 font-mono text-[12px] text-[#efe6cf]/45">{artifactAttribution(openArtifact, museum).holdingLabel}</div>
               {openArtifact.exhibitionNote && <p className="mt-1 text-xs text-[#efe6cf]/55">{openArtifact.exhibitionNote}</p>}
               <div className="my-4 h-px w-16 bg-[#d43a28]" />
               <p className="text-[14px] leading-loose text-[#efe6cf]/75">{openArtifact.story}</p>
@@ -292,7 +292,7 @@ export default function MuseumDetail({
                   <span>下一件 →</span>
                 </button>
               </div>
-              <div className="mt-3 font-mono text-[9px] tracking-wider text-[#efe6cf]/25">
+              <div className="mt-3 font-mono text-[12px] tracking-wider text-[#efe6cf]/25">
                 {isScrollArtifact ? '阅卷台未聚焦时，键盘 ← → 连续看展' : '键盘 ← → 连续看展'}
               </div>
             </div>

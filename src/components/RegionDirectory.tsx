@@ -82,7 +82,7 @@ export default function RegionDirectory({
       >
         <header className="relative border-b border-[#efe6cf]/15 px-5 py-5 md:px-8 md:py-7">
           <div className="pr-14">
-            <div className="font-mono text-[9px] tracking-[0.3em] text-[#d43a28]">NATIONAL INDEX / 34 REGIONS</div>
+            <div className="font-mono text-[12px] tracking-[0.3em] text-[#d43a28]">NATIONAL INDEX / 34 REGIONS</div>
             <h2 id="region-directory-title" className="mt-1 font-serif text-2xl text-[#efe6cf] md:text-4xl">全国博物馆目录</h2>
             <p className="mt-2 max-w-2xl text-xs leading-relaxed text-[#efe6cf]/55 md:text-sm">
               地图用于发现，目录用于抵达。选择省份，直接查看已收录的博物馆与代表文物。
@@ -114,14 +114,14 @@ export default function RegionDirectory({
                       ? 'border-[#d43a28] bg-[#d43a28]/10'
                       : 'border-[#efe6cf]/14 bg-[#12100b] hover:border-[#d43a28]/75 hover:bg-[#17130d]'}`}
                 >
-                  <span className="absolute right-2 top-2 font-mono text-[9px] tabular-nums text-[#efe6cf]/25">
+                  <span className="absolute right-2 top-2 font-mono text-[12px] tabular-nums text-[#efe6cf]/25">
                     {String(index + 1).padStart(2, '0')}
                   </span>
                   <span className={`grid h-9 w-9 place-items-center font-brush text-xl ${active ? 'bg-[#d43a28]' : 'bg-[#b83524]'} text-[#f5eeda] shadow-md`}>
                     {province.short}
                   </span>
                   <span className="mt-3 block truncate font-serif text-base text-[#efe6cf] group-hover:text-white md:text-lg">{province.name}</span>
-                  <span className="mt-1 block font-mono text-[9px] text-[#efe6cf]/42 md:text-[10px]">
+                  <span className="mt-1 block font-mono text-[12px] text-[#efe6cf]/42 md:text-[12px]">
                     馆 <b className="font-normal text-[#d43a28]">{museumCount}</b>
                     <span className="mx-1.5 text-[#efe6cf]/18">/</span>
                     文物 <b className="font-normal text-[#d43a28]">{artifactCount}</b>
@@ -133,7 +133,7 @@ export default function RegionDirectory({
           </div>
         </div>
 
-        <footer className="flex items-center justify-between border-t border-[#efe6cf]/12 px-5 py-3 font-mono text-[9px] text-[#efe6cf]/35 md:px-8 md:text-[10px]">
+        <footer className="flex items-center justify-between border-t border-[#efe6cf]/12 px-5 py-3 font-mono text-[12px] text-[#efe6cf]/35 md:px-8 md:text-[12px]">
           <span>选择省份进入博物馆名录</span>
           <span>ESC 关闭 · TAB 浏览</span>
         </footer>

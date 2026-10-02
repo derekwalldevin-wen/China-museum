@@ -156,10 +156,10 @@ export default function SearchBar({ museums, onPickMuseum, onPickArtifact }: Pro
           )}
 
           {!storyCorpus && !storyCorpusError && deferredQuery.trim() && (
-            <div role="status" className="border-b border-[#efe6cf]/10 px-3 py-2 font-mono text-[9px] text-[#efe6cf]/38">正在补载全文检索…</div>
+            <div role="status" className="border-b border-[#efe6cf]/10 px-3 py-2 font-mono text-[12px] text-[#efe6cf]/38">正在补载全文检索…</div>
           )}
           {storyCorpusError && deferredQuery.trim() && (
-            <div role="alert" className="flex items-center justify-between gap-3 border-b border-[#efe6cf]/10 px-3 py-2 text-[10px] text-[#efe6cf]/45">
+            <div role="alert" className="flex items-center justify-between gap-3 border-b border-[#efe6cf]/10 px-3 py-2 text-[12px] text-[#efe6cf]/45">
               <span>全文检索暂未载入，名称与分类仍可用</span>
               <button type="button" className="min-h-11 shrink-0 text-[#d43a28]" onClick={() => { setStoryCorpusError(false); setStoryCorpusAttempt(value => value + 1); }}>重试全文检索</button>
             </div>
@@ -167,7 +167,7 @@ export default function SearchBar({ museums, onPickMuseum, onPickArtifact }: Pro
 
           {results.museums.length > 0 && (
             <section aria-labelledby={`${listboxId}-museums`}>
-              <div id={`${listboxId}-museums`} className="sticky top-0 z-10 flex items-center justify-between border-b border-[#efe6cf]/10 bg-[#15120d] px-3 py-1.5 font-mono text-[9px] tracking-[0.18em] text-[#efe6cf]/45">
+              <div id={`${listboxId}-museums`} className="sticky top-0 z-10 flex items-center justify-between border-b border-[#efe6cf]/10 bg-[#15120d] px-3 py-1.5 font-mono text-[12px] tracking-[0.18em] text-[#efe6cf]/45">
                 <span>博物馆</span><span>{results.museumTotal} 个命中</span>
               </div>
               {results.museums.map((result, index) => {
@@ -187,7 +187,7 @@ export default function SearchBar({ museums, onPickMuseum, onPickArtifact }: Pro
                     <span className="grid h-8 w-8 shrink-0 place-items-center bg-[#b83524] font-brush text-base text-[#f5eeda]">馆</span>
                     <span className="min-w-0 flex-1">
                       <span className="block truncate font-serif text-sm text-[#efe6cf]">{result.museum.name}</span>
-                      <span className="mt-0.5 block truncate font-mono text-[10px] text-[#efe6cf]/42">{result.museum.province} · {result.museum.city} · {result.museum.artifacts.length} 件</span>
+                      <span className="mt-0.5 block truncate font-mono text-[12px] text-[#efe6cf]/42">{result.museum.province} · {result.museum.city} · {result.museum.artifacts.length} 件</span>
                     </span>
                     <span aria-hidden="true" className="text-[#d43a28]">→</span>
                   </button>
@@ -198,7 +198,7 @@ export default function SearchBar({ museums, onPickMuseum, onPickArtifact }: Pro
 
           {results.artifacts.length > 0 && (
             <section aria-labelledby={`${listboxId}-artifacts`}>
-              <div id={`${listboxId}-artifacts`} className="sticky top-0 z-10 flex items-center justify-between border-b border-[#efe6cf]/10 bg-[#15120d] px-3 py-1.5 font-mono text-[9px] tracking-[0.18em] text-[#efe6cf]/45">
+              <div id={`${listboxId}-artifacts`} className="sticky top-0 z-10 flex items-center justify-between border-b border-[#efe6cf]/10 bg-[#15120d] px-3 py-1.5 font-mono text-[12px] tracking-[0.18em] text-[#efe6cf]/45">
                 <span>代表文物</span><span>{results.artifactTotal} 个命中</span>
               </div>
               {results.artifacts.map((result, artifactIndex) => {
@@ -216,13 +216,13 @@ export default function SearchBar({ museums, onPickMuseum, onPickArtifact }: Pro
                     onClick={() => chooseResult(result)}
                     className={`flex min-h-14 w-full items-center gap-3 border-b border-[#efe6cf]/10 px-3 py-2.5 text-left transition-colors ${active ? 'bg-[#d43a28]/16' : 'hover:bg-[#efe6cf]/5'}`}
                   >
-                    <span className="grid h-8 w-8 shrink-0 place-items-center border border-[#d43a28]/55 font-serif text-[9px] text-[#d43a28]">{result.artifact.category.slice(0, 1)}</span>
+                    <span className="grid h-8 w-8 shrink-0 place-items-center border border-[#d43a28]/55 font-serif text-[12px] text-[#d43a28]">{result.artifact.category.slice(0, 1)}</span>
                     <span className="min-w-0 flex-1">
                       <span className="block truncate font-serif text-sm text-[#efe6cf]">
                         {result.artifact.name}
-                        <span className="ml-2 font-mono text-[9px] text-[#d43a28]">{result.artifact.dynasty}</span>
+                        <span className="ml-2 font-mono text-[12px] text-[#d43a28]">{result.artifact.dynasty}</span>
                       </span>
-                      <span className="mt-0.5 block truncate font-mono text-[10px] text-[#efe6cf]/42">{result.artifact.category} · {artifactAttribution(result.artifact, result.museum).holdingLabel}</span>
+                      <span className="mt-0.5 block truncate font-mono text-[12px] text-[#efe6cf]/42">{result.artifact.category} · {artifactAttribution(result.artifact, result.museum).holdingLabel}</span>
                     </span>
                     <span aria-hidden="true" className="text-[#d43a28]">→</span>
                   </button>
@@ -232,7 +232,7 @@ export default function SearchBar({ museums, onPickMuseum, onPickArtifact }: Pro
           )}
 
           {flatResults.length > 0 && (
-            <div className="hidden items-center justify-between border-t border-[#efe6cf]/10 px-3 py-2 font-mono text-[9px] text-[#efe6cf]/30 md:flex">
+            <div className="hidden items-center justify-between border-t border-[#efe6cf]/10 px-3 py-2 font-mono text-[12px] text-[#efe6cf]/30 md:flex">
               <span>↑ ↓ 浏览 · ENTER 进入</span><span>ESC 关闭</span>
             </div>
           )}
