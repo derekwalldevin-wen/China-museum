@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T05:41:44.283Z",
+  "generatedAt": "2026-10-02T05:54:27.885Z",
   "story": "hub-zhy",
-  "firstScreenBytes": 320902,
+  "firstScreenBytes": 307630,
   "mainCssBytes": 70498,
   "total": 100,
   "max": 100,
@@ -64,7 +64,7 @@
       "max": 2,
       "items": [
         {
-          "label": "一页字号数量 ≤10（实测 9）",
+          "label": "一页字号数量 ≤10（实测 8）",
           "pass": true,
           "score": 2
         }
@@ -133,7 +133,7 @@
       "max": 9,
       "items": [
         {
-          "label": "首屏 JS ≤322KB（实测 321KB；硬上限 328KB）",
+          "label": "首屏 JS ≤322KB（实测 308KB；硬上限 328KB）",
           "pass": true,
           "score": 4
         },
@@ -217,7 +217,7 @@
           "score": 3
         },
         {
-          "label": "状态播报齐备（aria-live/status/alert 1 处）",
+          "label": "状态播报齐备（aria-live/status/alert 2 处）",
           "pass": true,
           "score": 2
         }
@@ -228,7 +228,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1328ms；FCP 1196ms；不限速 1060ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1092ms；FCP 1092ms；不限速 1040ms）",
           "pass": true,
           "score": 4
         },
@@ -260,7 +260,7 @@
       "max": 4,
       "items": [
         {
-          "label": "间距落在 4px 基准（实测 91%，200/220）",
+          "label": "间距落在 4px 基准（实测 92%，189/205）",
           "pass": true,
           "score": 4
         }
@@ -295,7 +295,6 @@
         14,
         16,
         17,
-        18,
         20,
         24,
         28,
@@ -310,7 +309,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 45,
+      "transitioned": 44,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -326,9 +325,9 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 4908,
-        "cls": 0.002,
-        "fcpMs": 2260,
+        "lcpMs": 14872,
+        "cls": 0,
+        "fcpMs": 2428,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -339,9 +338,9 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 220,
-        "onGrid": 200,
-        "ratio": 91
+        "total": 205,
+        "onGrid": 189,
+        "ratio": 92
       },
       "zoom": {
         "trigger": true,
@@ -350,7 +349,7 @@
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 1
+        "ariaLive": 2
       },
       "overflow": 0,
       "zoomWaited": true
@@ -420,9 +419,9 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 4908,
+        "lcpMs": 14872,
         "cls": 0.002,
-        "fcpMs": 2260,
+        "fcpMs": 2428,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -546,9 +545,9 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 1060,
+        "lcpMs": 1040,
         "cls": 0,
-        "fcpMs": 1060,
+        "fcpMs": 1040,
         "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
@@ -673,10 +672,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 3184,
+        "lcpMs": 2824,
         "cls": 0,
-        "fcpMs": 1060,
-        "lcpElement": "img shanhe-handscroll-mobile.jpg | is-loaded | "
+        "fcpMs": 1040,
+        "lcpElement": "img | is-loaded | "
       },
       "hierarchy": {
         "h1": null,
@@ -757,9 +756,9 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 2404,
+        "lcpMs": 1992,
         "cls": 0.002,
-        "fcpMs": 940,
+        "fcpMs": 720,
         "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
       },
       "hierarchy": {
@@ -882,10 +881,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 1328,
+        "lcpMs": 1092,
         "cls": 0,
-        "fcpMs": 1196,
-        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
+        "fcpMs": 1092,
+        "lcpElement": "b |  | 山河入画"
       },
       "hierarchy": {
         "h1": null,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-02T05:10:47.603Z",
+ "generatedAt": "2026-10-02T05:44:20.898Z",
  "source": {
   "path": "src/data/museums.ts",
   "bytes": 102582,
@@ -11,6 +11,11 @@
   "path": "src/data/museum-index.json",
   "bytes": 47190,
   "sha256": "8253a11f3d2bd27c999b53638c32e7fd8b3c007522f27e4f328038b9c6666dcc"
+ },
+ "compactIndex": {
+  "path": "src/data/museum-index.compact.json",
+  "bytes": 21317,
+  "sha256": "f3370aeb815ffa16dfdd7e3d27400a93924f622f02f8c882f3f9ebe81cc880de"
  },
  "searchCorpus": {
   "path": "src/data/artifact-search.json",

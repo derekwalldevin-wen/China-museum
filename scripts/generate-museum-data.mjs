@@ -5,6 +5,7 @@ import { museums } from '../src/data/museums.ts';
 const payloadDir = new URL('../src/data/museum-payloads/', import.meta.url);
 const sourceUrl = new URL('../src/data/museums.ts', import.meta.url);
 const indexUrl = new URL('../src/data/museum-index.json', import.meta.url);
+const compactUrl = new URL('../src/data/museum-index.compact.json', import.meta.url);
 const searchUrl = new URL('../src/data/artifact-search.json', import.meta.url);
 const reportUrl = new URL('../docs/audits/museum-data-generation.json', import.meta.url);
 const normalize = value => value.toLocaleLowerCase().replace(/[\s《》〈〉·•（）()，,。.!！?？:：；;]/g, '');
@@ -27,6 +28,25 @@ const index = museums.map(({ artifacts, ...museum }) => ({
   artifacts: artifacts.map(({ story: _story, ...artifact }) => artifact),
 }));
 const searchCorpus = Object.fromEntries(museums.flatMap(museum => museum.artifacts.map(artifact => [artifact.id, normalize(artifact.story)])));
+// 浏览器只下载紧凑形式：键名换成固定字段顺序，体积约省 39%（可读版仍落盘，供脚本与测试使用）
+const compact = {
+  v: 1,
+  museums: index.map(museum => [
+    museum.id,
+    museum.name,
+    museum.province,
+    museum.city,
+    museum.coord[0],
+    museum.coord[1],
+    museum.artifacts.map(artifact => {
+      const row = [artifact.id, artifact.name, artifact.dynasty, artifact.era, artifact.category, artifact.shape];
+      if (artifact.holdingInstitution !== undefined || artifact.exhibitionNote !== undefined) {
+        row.push(artifact.holdingInstitution ?? null, artifact.exhibitionNote ?? null);
+      }
+      return row;
+    }),
+  ]),
+};
 const source = await readFile(sourceUrl);
 
 await mkdir(payloadDir, { recursive: true });
@@ -34,6 +54,7 @@ for (const entry of await readdir(payloadDir, { withFileTypes: true })) {
   if (entry.isFile() && entry.name.endsWith('.json')) await rm(new URL(entry.name, payloadDir));
 }
 await writeFile(indexUrl, json(index));
+await writeFile(compactUrl, JSON.stringify(compact));
 await writeFile(searchUrl, json(searchCorpus));
 for (const museum of museums) await writeFile(new URL(`${museum.id}.json`, payloadDir), json(museum));
 
@@ -49,6 +70,7 @@ const report = {
   generatedAt: new Date().toISOString(),
   source: { path: 'src/data/museums.ts', bytes: (await stat(sourceUrl)).size, sha256: sha256(source), museums: museums.length, artifacts: artifactIds.size },
   index: { path: 'src/data/museum-index.json', bytes: indexText.length, sha256: sha256(indexText) },
+  compactIndex: { path: 'src/data/museum-index.compact.json', bytes: (await stat(compactUrl)).size, sha256: sha256(await readFile(compactUrl)) },
   searchCorpus: { path: 'src/data/artifact-search.json', bytes: searchText.length, sha256: sha256(searchText), entries: Object.keys(searchCorpus).length },
   payloads: { directory: 'src/data/museum-payloads', count: payloads.length, totalBytes: payloads.reduce((sum, item) => sum + item.bytes, 0), files: payloads },
 };
