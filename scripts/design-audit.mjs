@@ -206,6 +206,12 @@ const probe = `(() => {
       }
       return { total, onGrid, ratio: total ? Math.round((onGrid / total) * 100) : 100 };
     })(),
+    mapHit: (() => {
+      const circles = [...document.querySelectorAll('.scroll-label-hit')].filter(el => el.getClientRects().length);
+      if (!circles.length) return null;
+      const sizes = circles.map(el => { const box = el.getBoundingClientRect(); return { w: Math.round(box.width), h: Math.round(box.height) }; });
+      return { count: sizes.length, minW: Math.min(...sizes.map(s => s.w)), minH: Math.min(...sizes.map(s => s.h)), ok44: sizes.filter(s => s.w >= 44 && s.h >= 44).length };
+    })(),
     focal: (() => {
       const viewportArea = innerWidth * innerHeight;
       const pool = visiblePool('.story-experience *, .atlas-shell *');

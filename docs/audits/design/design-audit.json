@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:29:52.706Z",
+  "generatedAt": "2026-10-02T07:43:00.090Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307630,
   "mainCssBytes": 70505,
@@ -158,7 +158,7 @@
           "score": 3
         },
         {
-          "label": "首页像素级对比度全部 ≥4.5（地图省简称 7.44／件数 4.92／荐读标题 10.3／荐读说明 7.81）",
+          "label": "首页像素级对比度全部 ≥4.5（地图省简称 7.66／件数 4.92／荐读标题 10.3／荐读说明 7.81）",
           "pass": true,
           "score": 2
         }
@@ -306,7 +306,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1200ms；FCP 1200ms；不限速 800ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 812ms；FCP 812ms；不限速 160ms）",
           "pass": true,
           "score": 4
         },
@@ -421,10 +421,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 6808,
+        "lcpMs": 396,
         "cls": 0.002,
-        "fcpMs": 2908,
-        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
+        "fcpMs": 52,
+        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
       },
       "hierarchy": {
         "h1": 44,
@@ -437,6 +437,12 @@
         "total": 220,
         "onGrid": 200,
         "ratio": 91
+      },
+      "mapHit": {
+        "count": 34,
+        "minW": 22,
+        "minH": 22,
+        "ok44": 5
       },
       "focal": {
         "loudTextCount": 1,
@@ -563,12 +569,12 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 88,
-        "eventCount": 28,
-        "lcpMs": 6808,
+        "inpMs": 232,
+        "eventCount": 48,
+        "lcpMs": 396,
         "cls": 0.002,
-        "fcpMs": 2908,
-        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
+        "fcpMs": 52,
+        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
       },
       "hierarchy": {
         "h1": 28,
@@ -581,6 +587,12 @@
         "total": 220,
         "onGrid": 200,
         "ratio": 91
+      },
+      "mapHit": {
+        "count": 34,
+        "minW": 8,
+        "minH": 8,
+        "ok44": 0
       },
       "focal": {
         "loudTextCount": 0,
@@ -716,9 +728,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 800,
+        "lcpMs": 160,
         "cls": 0,
-        "fcpMs": 748,
+        "fcpMs": 160,
         "lcpElement": "h1 |  | 山河入画"
       },
       "hierarchy": {
@@ -732,6 +744,12 @@
         "total": 388,
         "onGrid": 76,
         "ratio": 20
+      },
+      "mapHit": {
+        "count": 34,
+        "minW": 22,
+        "minH": 22,
+        "ok44": 5
       },
       "focal": {
         "loudTextCount": 1,
@@ -832,10 +850,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 2476,
+        "lcpMs": 1572,
         "cls": 0,
-        "fcpMs": 748,
-        "lcpElement": "img | is-loaded | "
+        "fcpMs": 160,
+        "lcpElement": "img shanhe-handscroll-mobile.jpg | is-loaded | "
       },
       "hierarchy": {
         "h1": null,
@@ -848,6 +866,12 @@
         "total": 390,
         "onGrid": 64,
         "ratio": 16
+      },
+      "mapHit": {
+        "count": 34,
+        "minW": 8,
+        "minH": 8,
+        "ok44": 0
       },
       "focal": {
         "loudTextCount": 1,
@@ -928,9 +952,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1224,
+          "lcpMs": 376,
           "cls": 0,
-          "fcpMs": 768,
+          "fcpMs": 136,
           "lcpElement": "h1 |  | 从一个问题，走进千年生活。"
         },
         "hierarchy": {
@@ -944,6 +968,12 @@
           "total": 1379,
           "onGrid": 1379,
           "ratio": 100
+        },
+        "mapHit": {
+          "count": 34,
+          "minW": 22,
+          "minH": 22,
+          "ok44": 5
         },
         "focal": {
           "loudTextCount": 1,
@@ -1025,10 +1055,10 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1564,
-          "cls": 0.001,
-          "fcpMs": 596,
-          "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
+          "lcpMs": 164,
+          "cls": 0,
+          "fcpMs": 156,
+          "lcpElement": "p |  | 从汉代灯具的结构出发，走到清宫新年的案头：灯怎么"
         },
         "hierarchy": {
           "h1": 32,
@@ -1041,6 +1071,12 @@
           "total": 1379,
           "onGrid": 1379,
           "ratio": 100
+        },
+        "mapHit": {
+          "count": 34,
+          "minW": 8,
+          "minH": 8,
+          "ok44": 0
         },
         "focal": {
           "loudTextCount": 1,
@@ -1118,9 +1154,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 940,
+          "lcpMs": 80,
           "cls": 0,
-          "fcpMs": 940,
+          "fcpMs": 80,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1135,6 +1171,7 @@
           "onGrid": 29,
           "ratio": 10
         },
+        "mapHit": null,
         "focal": {
           "loudTextCount": 0,
           "loudMediaCount": 0,
@@ -1196,9 +1233,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1904,
+          "lcpMs": 76,
           "cls": 0,
-          "fcpMs": 1904,
+          "fcpMs": 76,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1213,6 +1250,7 @@
           "onGrid": 35,
           "ratio": 12
         },
+        "mapHit": null,
         "focal": {
           "loudTextCount": 0,
           "loudMediaCount": 0,
@@ -1237,7 +1275,7 @@
       }
     },
     "pixelContrast": {
-      "mapShort": 7.44,
+      "mapShort": 7.66,
       "mapCount": 4.92,
       "beaconTitle": 10.3,
       "beaconText": 7.81
@@ -1300,9 +1338,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1452,
+        "lcpMs": 240,
         "cls": 0.002,
-        "fcpMs": 712,
+        "fcpMs": 144,
         "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
@@ -1316,6 +1354,12 @@
         "total": 220,
         "onGrid": 200,
         "ratio": 91
+      },
+      "mapHit": {
+        "count": 34,
+        "minW": 22,
+        "minH": 22,
+        "ok44": 5
       },
       "focal": {
         "loudTextCount": 0,
@@ -1454,9 +1498,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1200,
+        "lcpMs": 812,
         "cls": 0,
-        "fcpMs": 1200,
+        "fcpMs": 812,
         "lcpElement": "b |  | 山河入画"
       },
       "hierarchy": {
@@ -1470,6 +1514,12 @@
         "total": 384,
         "onGrid": 74,
         "ratio": 19
+      },
+      "mapHit": {
+        "count": 34,
+        "minW": 22,
+        "minH": 22,
+        "ok44": 5
       },
       "focal": {
         "loudTextCount": 1,
