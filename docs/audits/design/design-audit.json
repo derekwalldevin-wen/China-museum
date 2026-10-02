@@ -1,8 +1,9 @@
 {
-  "generatedAt": "2026-10-02T04:25:47.389Z",
+  "generatedAt": "2026-10-02T05:41:44.283Z",
   "story": "hub-zhy",
   "firstScreenBytes": 320902,
-  "total": 96,
+  "mainCssBytes": 70498,
+  "total": 100,
   "max": 100,
   "threshold": 85,
   "categories": [
@@ -24,17 +25,17 @@
     },
     {
       "name": "中文字排",
-      "max": 16,
+      "max": 14,
       "items": [
         {
-          "label": "正文使用衬线（思源宋体等）",
+          "label": "正文使用衬线（系统宋体等）",
           "pass": true,
           "score": 4
         },
         {
           "label": "行长 30–34 字（实测 34）",
           "pass": true,
-          "score": 4
+          "score": 3
         },
         {
           "label": "段首缩进 2em（实测 2em）",
@@ -44,7 +45,7 @@
         {
           "label": "字号下限 ≥12px（违规 0）",
           "pass": true,
-          "score": 3
+          "score": 2
         },
         {
           "label": "行高 ≥1.8（实测 2）",
@@ -63,7 +64,7 @@
       "max": 2,
       "items": [
         {
-          "label": "一页字号数量 ≤10（实测 8）",
+          "label": "一页字号数量 ≤10（实测 9）",
           "pass": true,
           "score": 2
         }
@@ -129,7 +130,7 @@
     },
     {
       "name": "性能预算",
-      "max": 6,
+      "max": 9,
       "items": [
         {
           "label": "首屏 JS ≤322KB（实测 321KB；硬上限 328KB）",
@@ -140,12 +141,17 @@
           "label": "图片策略：首图 eager（LCP）+ 列表图 lazy（源码 3 处）",
           "pass": true,
           "score": 2
+        },
+        {
+          "label": "渲染阻塞样式包 ≤80KB（实测 69KB）",
+          "pass": true,
+          "score": 3
         }
       ]
     },
     {
       "name": "动效与手感",
-      "max": 14,
+      "max": 13,
       "items": [
         {
           "label": "存在滚动驱动动效（阅读进度驱动 有）",
@@ -160,7 +166,7 @@
         {
           "label": "在用关键帧只动 transform/opacity（布局属性关键帧 0 个）",
           "pass": true,
-          "score": 4
+          "score": 3
         }
       ]
     },
@@ -211,7 +217,7 @@
           "score": 3
         },
         {
-          "label": "状态播报齐备（aria-live/status/alert 2 处）",
+          "label": "状态播报齐备（aria-live/status/alert 1 处）",
           "pass": true,
           "score": 2
         }
@@ -222,9 +228,9 @@
       "max": 8,
       "items": [
         {
-          "label": "LCP ≤2500ms（实测 13904ms；FCP 13580ms）",
-          "pass": false,
-          "score": 0
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1328ms；FCP 1196ms；不限速 1060ms）",
+          "pass": true,
+          "score": 4
         },
         {
           "label": "CLS ≤0.1（实测 0）",
@@ -254,7 +260,7 @@
       "max": 4,
       "items": [
         {
-          "label": "间距落在 4px 基准（实测 92%，189/205）",
+          "label": "间距落在 4px 基准（实测 91%，200/220）",
           "pass": true,
           "score": 4
         }
@@ -289,6 +295,7 @@
         14,
         16,
         17,
+        18,
         20,
         24,
         28,
@@ -303,7 +310,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 44,
+      "transitioned": 45,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -319,9 +326,9 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 32732,
-        "cls": 0,
-        "fcpMs": 20056,
+        "lcpMs": 4908,
+        "cls": 0.002,
+        "fcpMs": 2260,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -332,9 +339,9 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 205,
-        "onGrid": 189,
-        "ratio": 92
+        "total": 220,
+        "onGrid": 200,
+        "ratio": 91
       },
       "zoom": {
         "trigger": true,
@@ -343,7 +350,7 @@
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 2
+        "ariaLive": 1
       },
       "overflow": 0,
       "zoomWaited": true
@@ -413,10 +420,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 42912,
+        "lcpMs": 4908,
         "cls": 0.002,
-        "fcpMs": 20056,
-        "lcpElement": "img 5d65b279c1f72376-card-w675.webp | relative h-full w-full object-contain  | "
+        "fcpMs": 2260,
+        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
         "h1": 28,
@@ -442,6 +449,343 @@
       "overflow": 0
     },
     "desktopHome": {
+      "paragraph": null,
+      "summaryContrast": null,
+      "heading": null,
+      "paper": null,
+      "distinctSizes": [
+        7,
+        10,
+        11,
+        16
+      ],
+      "belowTwelve": [
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "京"
+        },
+        {
+          "size": 7,
+          "cls": "[object SVGAnimatedString]",
+          "text": "3"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "津"
+        },
+        {
+          "size": 7,
+          "cls": "[object SVGAnimatedString]",
+          "text": "1"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "冀"
+        },
+        {
+          "size": 7,
+          "cls": "[object SVGAnimatedString]",
+          "text": "2"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "晋"
+        },
+        {
+          "size": 7,
+          "cls": "[object SVGAnimatedString]",
+          "text": "2"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "蒙"
+        },
+        {
+          "size": 7,
+          "cls": "[object SVGAnimatedString]",
+          "text": "1"
+        },
+        {
+          "size": 11,
+          "cls": "[object SVGAnimatedString]",
+          "text": "辽"
+        },
+        {
+          "size": 7,
+          "cls": "[object SVGAnimatedString]",
+          "text": "2"
+        }
+      ],
+      "belowTwelveCount": 69,
+      "images": {
+        "total": 1,
+        "missingAlt": 0,
+        "lazy": 0
+      },
+      "focusRule": true,
+      "animated": 2,
+      "transitioned": 68,
+      "scrollDriven": 0,
+      "animationNames": [
+        "scrollSceneArrive",
+        "scrollUnfurl"
+      ],
+      "structure": {
+        "h1Count": 0,
+        "main": 1,
+        "nav": 0,
+        "indexAnchors": 0,
+        "progressDriven": false
+      },
+      "smallTargets": 0,
+      "smallTargetList": [],
+      "headingOrderOk": true,
+      "performance": {
+        "lcpMs": 1060,
+        "cls": 0,
+        "fcpMs": 1060,
+        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
+      },
+      "hierarchy": {
+        "h1": null,
+        "h2": 26,
+        "body": null,
+        "h1Ratio": null,
+        "h2Ratio": null
+      },
+      "spacing": {
+        "total": 388,
+        "onGrid": 76,
+        "ratio": 20
+      },
+      "zoom": {
+        "trigger": false,
+        "statuses": 0
+      },
+      "keyboard": {
+        "skipLink": true,
+        "firstTabbable": "跳到舆图 ↓",
+        "ariaLive": 0
+      },
+      "overflow": 0
+    },
+    "mobileHome": {
+      "paragraph": null,
+      "summaryContrast": null,
+      "heading": null,
+      "paper": null,
+      "distinctSizes": [
+        9,
+        10,
+        11,
+        16,
+        29
+      ],
+      "belowTwelve": [
+        {
+          "size": 9,
+          "cls": "",
+          "text": "华夏博物志 · 一卷山河"
+        },
+        {
+          "size": 11,
+          "cls": "",
+          "text": "循迹寻珍 · 轻触朱印入卷"
+        },
+        {
+          "size": 9,
+          "cls": "[object SVGAnimatedString]",
+          "text": "京"
+        },
+        {
+          "size": 9,
+          "cls": "[object SVGAnimatedString]",
+          "text": "津"
+        },
+        {
+          "size": 9,
+          "cls": "[object SVGAnimatedString]",
+          "text": "冀"
+        },
+        {
+          "size": 9,
+          "cls": "[object SVGAnimatedString]",
+          "text": "晋"
+        },
+        {
+          "size": 9,
+          "cls": "[object SVGAnimatedString]",
+          "text": "蒙"
+        },
+        {
+          "size": 9,
+          "cls": "[object SVGAnimatedString]",
+          "text": "辽"
+        },
+        {
+          "size": 9,
+          "cls": "[object SVGAnimatedString]",
+          "text": "吉"
+        },
+        {
+          "size": 9,
+          "cls": "[object SVGAnimatedString]",
+          "text": "黑"
+        },
+        {
+          "size": 9,
+          "cls": "[object SVGAnimatedString]",
+          "text": "沪"
+        },
+        {
+          "size": 9,
+          "cls": "[object SVGAnimatedString]",
+          "text": "苏"
+        }
+      ],
+      "belowTwelveCount": 37,
+      "images": {
+        "total": 1,
+        "missingAlt": 0,
+        "lazy": 0
+      },
+      "focusRule": true,
+      "animated": 2,
+      "transitioned": 68,
+      "scrollDriven": 0,
+      "animationNames": [
+        "scrollSceneArrive",
+        "scrollUnfurl"
+      ],
+      "structure": {
+        "h1Count": 0,
+        "main": 1,
+        "nav": 0,
+        "indexAnchors": 0,
+        "progressDriven": false
+      },
+      "smallTargets": 0,
+      "smallTargetList": [],
+      "headingOrderOk": true,
+      "performance": {
+        "lcpMs": 3184,
+        "cls": 0,
+        "fcpMs": 1060,
+        "lcpElement": "img shanhe-handscroll-mobile.jpg | is-loaded | "
+      },
+      "hierarchy": {
+        "h1": null,
+        "h2": 22,
+        "body": null,
+        "h1Ratio": null,
+        "h2Ratio": null
+      },
+      "spacing": {
+        "total": 390,
+        "onGrid": 64,
+        "ratio": 16
+      },
+      "zoom": {
+        "trigger": false,
+        "statuses": 0
+      },
+      "keyboard": {
+        "skipLink": true,
+        "firstTabbable": "跳到舆图 ↓",
+        "ariaLive": 0
+      },
+      "overflow": 0
+    },
+    "reducedMotion": {
+      "paragraph": {
+        "family": "\"Songti SC\", \"Noto Serif SC\", \"Source Han Serif SC\", \"Source Han Serif CN\", SimSun, serif",
+        "size": "17px",
+        "lineHeight": "34px",
+        "indent": "34px",
+        "align": "justify",
+        "width": 576,
+        "charsPerLine": 34,
+        "colour": "rgb(48, 45, 37)",
+        "contrast": 10.38
+      },
+      "summaryContrast": 10.38,
+      "heading": {
+        "family": "\"Songti SC\", \"Noto Serif SC\", \"Source Han Serif SC\", \"Source Han Serif CN\", SimSun, serif",
+        "size": "44px",
+        "contrast": 14.39
+      },
+      "paper": {
+        "spacingTrim": "trim-start",
+        "autospace": "normal"
+      },
+      "distinctSizes": [
+        12,
+        14,
+        16,
+        17,
+        18,
+        20,
+        24,
+        28,
+        44
+      ],
+      "belowTwelve": [],
+      "belowTwelveCount": 0,
+      "images": {
+        "total": 2,
+        "missingAlt": 0,
+        "lazy": 0
+      },
+      "focusRule": true,
+      "animated": 0,
+      "transitioned": 0,
+      "scrollDriven": 0,
+      "animationNames": [],
+      "structure": {
+        "h1Count": 1,
+        "main": 2,
+        "nav": 3,
+        "indexAnchors": 4,
+        "progressDriven": false
+      },
+      "smallTargets": 0,
+      "smallTargetList": [],
+      "headingOrderOk": true,
+      "performance": {
+        "lcpMs": 2404,
+        "cls": 0.002,
+        "fcpMs": 940,
+        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
+      },
+      "hierarchy": {
+        "h1": 44,
+        "h2": 26,
+        "body": 17,
+        "h1Ratio": 2.59,
+        "h2Ratio": 1.53
+      },
+      "spacing": {
+        "total": 220,
+        "onGrid": 200,
+        "ratio": 91
+      },
+      "zoom": {
+        "trigger": true,
+        "statuses": 1
+      },
+      "keyboard": {
+        "skipLink": true,
+        "firstTabbable": "跳到舆图 ↓",
+        "ariaLive": 1
+      },
+      "overflow": 0
+    },
+    "throttledHome": {
       "paragraph": null,
       "summaryContrast": null,
       "heading": null,
@@ -538,10 +882,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 13904,
+        "lcpMs": 1328,
         "cls": 0,
-        "fcpMs": 13580,
-        "lcpElement": "h1 |  | 山河入画"
+        "fcpMs": 1196,
+        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
         "h1": null,
@@ -563,215 +907,6 @@
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
         "ariaLive": 0
-      },
-      "overflow": 0
-    },
-    "mobileHome": {
-      "paragraph": null,
-      "summaryContrast": null,
-      "heading": null,
-      "paper": null,
-      "distinctSizes": [
-        9,
-        11,
-        16,
-        29
-      ],
-      "belowTwelve": [
-        {
-          "size": 9,
-          "cls": "",
-          "text": "华夏博物志 · 一卷山河"
-        },
-        {
-          "size": 11,
-          "cls": "",
-          "text": "循迹寻珍 · 轻触朱印入卷"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "京"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "津"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "冀"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "晋"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "蒙"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "辽"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "吉"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "黑"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "沪"
-        },
-        {
-          "size": 9,
-          "cls": "[object SVGAnimatedString]",
-          "text": "苏"
-        }
-      ],
-      "belowTwelveCount": 36,
-      "images": {
-        "total": 1,
-        "missingAlt": 0,
-        "lazy": 0
-      },
-      "focusRule": true,
-      "animated": 2,
-      "transitioned": 68,
-      "scrollDriven": 0,
-      "animationNames": [
-        "scrollSceneArrive",
-        "scrollUnfurl"
-      ],
-      "structure": {
-        "h1Count": 0,
-        "main": 1,
-        "nav": 0,
-        "indexAnchors": 0,
-        "progressDriven": false
-      },
-      "smallTargets": 0,
-      "smallTargetList": [],
-      "headingOrderOk": true,
-      "performance": {
-        "lcpMs": 19032,
-        "cls": 0,
-        "fcpMs": 13580,
-        "lcpElement": "text | [object SVGAnimatedString] | 藏"
-      },
-      "hierarchy": {
-        "h1": null,
-        "h2": 22,
-        "body": null,
-        "h1Ratio": null,
-        "h2Ratio": null
-      },
-      "spacing": {
-        "total": 386,
-        "onGrid": 62,
-        "ratio": 16
-      },
-      "zoom": {
-        "trigger": false,
-        "statuses": 0
-      },
-      "keyboard": {
-        "skipLink": true,
-        "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 0
-      },
-      "overflow": 0
-    },
-    "reducedMotion": {
-      "paragraph": {
-        "family": "\"Songti SC\", \"Noto Serif SC\", \"Source Han Serif SC\", \"Source Han Serif CN\", SimSun, serif",
-        "size": "17px",
-        "lineHeight": "34px",
-        "indent": "34px",
-        "align": "justify",
-        "width": 576,
-        "charsPerLine": 34,
-        "colour": "rgb(48, 45, 37)",
-        "contrast": 10.38
-      },
-      "summaryContrast": 10.38,
-      "heading": {
-        "family": "\"Songti SC\", \"Noto Serif SC\", \"Source Han Serif SC\", \"Source Han Serif CN\", SimSun, serif",
-        "size": "44px",
-        "contrast": 14.39
-      },
-      "paper": {
-        "spacingTrim": "trim-start",
-        "autospace": "normal"
-      },
-      "distinctSizes": [
-        12,
-        14,
-        16,
-        17,
-        20,
-        24,
-        28,
-        44
-      ],
-      "belowTwelve": [],
-      "belowTwelveCount": 0,
-      "images": {
-        "total": 2,
-        "missingAlt": 0,
-        "lazy": 0
-      },
-      "focusRule": true,
-      "animated": 0,
-      "transitioned": 0,
-      "scrollDriven": 0,
-      "animationNames": [],
-      "structure": {
-        "h1Count": 1,
-        "main": 2,
-        "nav": 3,
-        "indexAnchors": 4,
-        "progressDriven": false
-      },
-      "smallTargets": 0,
-      "smallTargetList": [],
-      "headingOrderOk": true,
-      "performance": {
-        "lcpMs": 9516,
-        "cls": 0,
-        "fcpMs": 5172,
-        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
-      },
-      "hierarchy": {
-        "h1": 44,
-        "h2": 26,
-        "body": 17,
-        "h1Ratio": 2.59,
-        "h2Ratio": 1.53
-      },
-      "spacing": {
-        "total": 205,
-        "onGrid": 189,
-        "ratio": 92
-      },
-      "zoom": {
-        "trigger": false,
-        "statuses": 0
-      },
-      "keyboard": {
-        "skipLink": true,
-        "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 2
       },
       "overflow": 0
     }

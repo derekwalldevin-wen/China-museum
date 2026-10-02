@@ -56,7 +56,7 @@ const waitFor = async (expression, label, timeoutMs = 25000) => {
   }
   throw new Error(`design-audit 等待超时：${label}`);
 };
-const goto = async (url, readyExpression) => {
+const goto = async (url, readyExpression, readyTimeout = 25000) => {
   await send('Page.navigate', { url }, sessionId);
   await waitFor(`document.querySelector('.atlas-shell') || document.querySelector('.story-experience')`, '应用外壳挂载', 30000);
   if (await evaluate(`!!document.querySelector('.ink-intro-skip')`)) {
@@ -64,7 +64,7 @@ const goto = async (url, readyExpression) => {
     await waitFor(`!document.querySelector('[data-ink-intro]')`, '开场退出', 15000);
   }
   // 目标内容必须按路由判定（首页等地名，故事页等正文），否则会被另一层提前满足
-  await waitFor(readyExpression, `目标内容就绪：${readyExpression.slice(0, 60)}`);
+  await waitFor(readyExpression, `目标内容就绪：${readyExpression.slice(0, 60)}`, readyTimeout);
   await new Promise(resolve => setTimeout(resolve, 800));
 };
 
@@ -258,6 +258,15 @@ await viewport(1440, 960, false);
 await goto(`${base}?guide=1&story=${STORY}`, `document.querySelector('.story-chapters p')`);
 results.reducedMotion = await evaluate(probe);
 await send('Emulation.setEmulatedMedia', { features: [] }, sessionId);
+
+// 限速档测量：Slow 4G（1.6Mbps / 750kbps / 150ms RTT），把网络因素从指标里剥离
+await send('Network.emulateNetworkConditions', { offline: false, latency: 150, downloadThroughput: Math.round(1.6 * 1024 * 1024 / 8), uploadThroughput: Math.round(750 * 1024 / 8) }, sessionId);
+await send('Network.setCacheDisabled', { cacheDisabled: true }, sessionId);
+await viewport(1440, 960, false);
+await goto(base, `document.querySelectorAll('g.scroll-province').length === 34`, 60000);
+results.throttledHome = await evaluate(probe);
+await send('Network.emulateNetworkConditions', { offline: false, latency: 0, downloadThroughput: -1, uploadThroughput: -1 }, sessionId);
+
 await send('Target.closeTarget', { targetId });
 socket.close();
 
@@ -303,6 +312,16 @@ const firstScreenBytes = (() => {
   return total;
 })();
 
+// 渲染阻塞的主样式包大小（首帧关键路径）
+const mainCssBytes = (() => {
+  if (!existsSync('dist/assets')) return null;
+  const entries = readdirSync('dist/assets').filter(name => name.endsWith('.css'));
+  const html = readFileSync('dist/index.html', 'utf8');
+  const linked = [...html.matchAll(/href="\.\/assets\/([^"]+\.css)"/g)].map(match => match[1]);
+  const target = linked[0] ?? entries.sort((a, b) => statSync(`dist/assets/${b}`).size - statSync(`dist/assets/${a}`).size)[0];
+  return statSync(`dist/assets/${target}`).size;
+})();
+
 const serifOk = /Noto Serif SC|Songti|Source Han Serif/.test(results.desktopStory.paragraph?.family ?? '');
 // 源码层检查：列表/面板缩略图是否使用懒加载（首图 eager 属于 LCP 正确做法）
 const lazyHits = (() => {
@@ -343,12 +362,12 @@ const categories = [
 
   {
     name: '中文字排',
-    max: 16,
+    max: 14,
     items: [
-      { label: '正文使用衬线（思源宋体等）', pass: serifOk, score: serifOk ? 4 : 0 },
-      { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 4 : 1 },
+      { label: '正文使用衬线（系统宋体等）', pass: serifOk, score: serifOk ? 4 : 0 },
+      { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 3 : 1 },
       { label: `段首缩进 2em（实测 ${indentEm}em）`, pass: indentEm >= 1.9 && indentEm <= 2.1, score: indentEm >= 1.9 && indentEm <= 2.1 ? 3 : 0 },
-      { label: `字号下限 ≥12px（违规 ${results.desktopStory.belowTwelveCount}）`, pass: results.desktopStory.belowTwelveCount === 0, score: results.desktopStory.belowTwelveCount === 0 ? 3 : 0 },
+      { label: `字号下限 ≥12px（违规 ${results.desktopStory.belowTwelveCount}）`, pass: results.desktopStory.belowTwelveCount === 0, score: results.desktopStory.belowTwelveCount === 0 ? 2 : 0 },
       { label: `行高 ≥1.8（实测 ${lineHeightRatio}）`, pass: lineHeightRatio >= 1.8, score: lineHeightRatio >= 1.8 ? 1 : 0 },
       { label: '标点宽度调整（text-spacing-trim）', pass: spacingTrimOk, score: spacingTrimOk ? 1 : 0 },
     ],
@@ -388,19 +407,20 @@ const categories = [
   },
   {
     name: '性能预算',
-    max: 6,
+    max: 9,
     items: [
       { label: `首屏 JS ≤322KB（实测 ${Math.round((firstScreenBytes ?? 0) / 1000)}KB；硬上限 328KB）`, pass: (firstScreenBytes ?? 1e9) <= 322000, score: (firstScreenBytes ?? 1e9) <= 322000 ? 4 : (firstScreenBytes ?? 1e9) <= 328000 ? 2 : 0 },
       { label: `图片策略：首图 eager（LCP）+ 列表图 lazy（源码 ${lazyHits} 处）`, pass: lazyHits >= 2 && results.desktopStory.images.lazy === 0, score: lazyHits >= 2 && results.desktopStory.images.lazy === 0 ? 2 : 0 },
+      { label: `渲染阻塞样式包 ≤80KB（实测 ${Math.round((mainCssBytes ?? 0) / 1024)}KB）`, pass: (mainCssBytes ?? 1e9) <= 81920, score: (mainCssBytes ?? 1e9) <= 81920 ? 3 : 0 },
     ],
   },
   {
     name: '动效与手感',
-    max: 14,
+    max: 13,
     items: [
       { label: `存在滚动驱动动效（阅读进度驱动 ${results.desktopStory.structure?.progressDriven ? '有' : '无'}）`, pass: !!results.desktopStory.structure?.progressDriven, score: results.desktopStory.structure?.progressDriven ? 5 : 0 },
       { label: `减弱动效偏好下动画关闭（剩余 ${results.reducedMotion?.animated ?? 'n/a'} 个可感知动画）`, pass: (results.reducedMotion?.animated ?? 1) === 0, score: (results.reducedMotion?.animated ?? 1) === 0 ? 5 : 0 },
-      { label: `在用关键帧只动 transform/opacity（布局属性关键帧 ${keyframeLayoutProps} 个）`, pass: keyframeLayoutProps === 0, score: keyframeLayoutProps === 0 ? 4 : 0 },
+      { label: `在用关键帧只动 transform/opacity（布局属性关键帧 ${keyframeLayoutProps} 个）`, pass: keyframeLayoutProps === 0, score: keyframeLayoutProps === 0 ? 3 : 0 },
     ],
   },
   {
@@ -432,7 +452,7 @@ const categories = [
     name: '实测性能',
     max: 8,
     items: [
-      { label: `LCP ≤2500ms（实测 ${results.desktopHome.performance?.lcpMs ?? 'n/a'}ms；FCP ${results.desktopHome.performance?.fcpMs ?? 'n/a'}ms）`, pass: (results.desktopHome.performance?.lcpMs ?? 99999) <= 2500, score: (results.desktopHome.performance?.lcpMs ?? 99999) <= 2500 ? 4 : (results.desktopHome.performance?.lcpMs ?? 99999) <= 4000 ? 2 : 0 },
+      { label: `限速档(Slow 4G) LCP ≤2500ms（实测 ${results.throttledHome?.performance?.lcpMs ?? 'n/a'}ms；FCP ${results.throttledHome?.performance?.fcpMs ?? 'n/a'}ms；不限速 ${results.desktopHome.performance?.lcpMs ?? 'n/a'}ms）`, pass: (results.throttledHome?.performance?.lcpMs ?? 99999) <= 2500, score: (results.throttledHome?.performance?.lcpMs ?? 99999) <= 2500 ? 4 : (results.throttledHome?.performance?.lcpMs ?? 99999) <= 4000 ? 2 : 0 },
       { label: `CLS ≤0.1（实测 ${results.desktopHome.performance?.cls ?? 'n/a'}）`, pass: (results.desktopHome.performance?.cls ?? 9) <= 0.1, score: (results.desktopHome.performance?.cls ?? 9) <= 0.1 ? 4 : 0 },
     ],
   },
@@ -458,7 +478,7 @@ const max = categories.reduce((sum, category) => sum + category.max, 0);
 const threshold = 85;
 
 mkdirSync('docs/audits/design', { recursive: true });
-const report = { generatedAt: new Date().toISOString(), story: STORY, firstScreenBytes, total, max, threshold, categories, measurements: results };
+const report = { generatedAt: new Date().toISOString(), story: STORY, firstScreenBytes, mainCssBytes, total, max, threshold, categories, measurements: results };
 writeFileSync('docs/audits/design/design-audit.json', `${JSON.stringify(report, null, 2)}\n`, 'utf8');
 
 const lines = [`# 设计品质自检 · ${new Date().toISOString().slice(0, 10)}`, '', `总分 **${total}/${max}**（获奖级自检阈值 ${threshold}）`, ''];

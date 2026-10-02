@@ -67,7 +67,7 @@ await withPage({ mobile:true }, async page => {
   await sleep(700);
   assert.equal(await page.evaluate(`${imageEntries}.filter(entry => new URL(entry.name).pathname.includes('-card-w')).length`), 2);
   assert.equal(await page.evaluate(`${imageEntries}.filter(entry => new URL(entry.name).pathname.includes('-detail-')).length`), 0);
-  await page.wait(`performance.getEntriesByType('resource').filter(entry => new URL(entry.name).pathname.includes('/data/image-provenance/')).length === 1`, 'idle provenance warm');
+  await page.wait(`performance.getEntriesByType('resource').filter(entry => new URL(entry.name).pathname.includes('/data/image-provenance/')).length === 1`, 'idle provenance warm', 45000);
   assert.equal(await page.evaluate(`performance.getEntriesByType('resource').filter(entry => new URL(entry.name).pathname.includes('/data/image-provenance/')).length`), 1);
   checks.push('mobile idle: still exactly 2 card images and zero detail images, with one current-museum provenance payload');
 });

@@ -1,6 +1,6 @@
 {
-  "baseUrl": "http://127.0.0.1:5070/",
-  "testedAt": "2026-10-02T04:16:27.310Z",
+  "baseUrl": "http://127.0.0.1:5150/",
+  "testedAt": "2026-10-02T05:20:26.919Z",
   "passed": 7,
   "checks": [
     "mobile initial: exactly 2 visible requests / 20010 B with 2 fixed-size placeholders",
