@@ -324,6 +324,31 @@ results.mobileHome = await evaluate(probe);
 // 首页像素级对比度（地图标注与荐读卡片：DOM 方法读不到底板与渐变）
 await viewport(1440, 960, false);
 await goto(base, `document.querySelectorAll('g.scroll-province').length === 34`);
+// 其他页面覆盖：故事目录页与访客记录页（桌面 + 390）
+const otherPages = {};
+for (const [key, target, ready] of [
+  ['directory', `${base}?guide=1`, `document.querySelectorAll('[data-trail]').length === 6`],
+  ['visitor', new URL('visitor-records/', base).href, `document.querySelector('h1')`],
+]) {
+  for (const [device, width, height, mobile] of [['Desktop', 1440, 960, false], ['Mobile', 390, 844, true]]) {
+    await viewport(width, height, mobile);
+    await send('Page.navigate', { url: target }, sessionId);
+    await waitFor(`document.querySelector('.atlas-shell') || document.querySelector('.vr-app') || document.querySelector('#root > *')`, '页面挂载', 30000);
+    if (await evaluate(`!!document.querySelector('.ink-intro-skip')`)) {
+      await evaluate(`document.querySelector('.ink-intro-skip').click()`);
+      await waitFor(`!document.querySelector('[data-ink-intro]')`, '开场退出', 15000);
+    }
+    await waitFor(ready, '目标内容', 40000);
+    await new Promise(resolve => setTimeout(resolve, 800));
+    otherPages[`${key}${device}`] = await evaluate(probe);
+  }
+}
+results.otherPages = otherPages;
+
+// 回到首页再测像素级对比度（上面的循环把页面停在了访客页）
+await viewport(1440, 960, false);
+await goto(base, `document.querySelectorAll('g.scroll-province').length === 34`);
+
 results.pixelContrast = {
   mapShort: await pixelContrast('.scroll-label-short'),
   mapCount: await pixelContrast('.scroll-label-count'),
@@ -473,6 +498,16 @@ const spacingTrimOk = String(results.desktopStory.paper?.spacingTrim ?? '').incl
 
 const categories = [
   {
+    name: '其他页面',
+    max: 6,
+    items: [
+      { label: `故事目录页 1 个 h1 且 390 无溢出（实测 ${results.otherPages?.directoryDesktop?.structure?.h1Count ?? 'n/a'} 个／${results.otherPages?.directoryMobile?.overflow ?? 'n/a'}px）`, pass: results.otherPages?.directoryDesktop?.structure?.h1Count === 1 && (results.otherPages?.directoryMobile?.overflow ?? 9) <= 1, score: results.otherPages?.directoryDesktop?.structure?.h1Count === 1 && (results.otherPages?.directoryMobile?.overflow ?? 9) <= 1 ? 1 : 0 },
+      { label: `故事目录页无 <12px 文本（桌面 ${results.otherPages?.directoryDesktop?.belowTwelveCount ?? 'n/a'}／390 ${results.otherPages?.directoryMobile?.belowTwelveCount ?? 'n/a'}）`, pass: (results.otherPages?.directoryDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.directoryMobile?.belowTwelveCount ?? 9) === 0, score: (results.otherPages?.directoryDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.directoryMobile?.belowTwelveCount ?? 9) === 0 ? 2 : 0 },
+      { label: `访客记录页 1 个 h1 且 390 无溢出（实测 ${results.otherPages?.visitorDesktop?.structure?.h1Count ?? 'n/a'} 个／${results.otherPages?.visitorMobile?.overflow ?? 'n/a'}px）`, pass: results.otherPages?.visitorDesktop?.structure?.h1Count === 1 && (results.otherPages?.visitorMobile?.overflow ?? 9) <= 1, score: results.otherPages?.visitorDesktop?.structure?.h1Count === 1 && (results.otherPages?.visitorMobile?.overflow ?? 9) <= 1 ? 1 : 0 },
+      { label: `访客记录页无 <12px 文本（桌面 ${results.otherPages?.visitorDesktop?.belowTwelveCount ?? 'n/a'}／390 ${results.otherPages?.visitorMobile?.belowTwelveCount ?? 'n/a'}）`, pass: (results.otherPages?.visitorDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.visitorMobile?.belowTwelveCount ?? 9) === 0, score: (results.otherPages?.visitorDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.visitorMobile?.belowTwelveCount ?? 9) === 0 ? 2 : 0 },
+    ],
+  },
+  {
     name: '视觉焦点',
     max: 4,
     items: [
@@ -493,20 +528,20 @@ const categories = [
   },
   {
     name: '图像工艺',
-    max: 6,
+    max: 4,
     items: [
-      { label: `作品图可放大（入口存在 ${results.desktopStory.zoom?.trigger ? '有' : '无'}，状态标记 ${results.desktopStory.zoom?.statuses} 处）`, pass: !!results.desktopStory.zoom?.trigger, score: results.desktopStory.zoom?.trigger ? 3 : 0 },
-      { label: `放大视图为 aria-modal 对话框且 Esc 可关（打开 ${results.zoomDialog?.opened ? '是' : '否'}／模态 ${results.zoomDialog?.ariaModal ? '是' : '否'}／Esc 关闭 ${results.zoomDialog?.closedByEscape ? '是' : '否'}）`, pass: !!results.zoomDialog?.opened && !!results.zoomDialog?.ariaModal && !!results.zoomDialog?.closedByEscape, score: results.zoomDialog?.opened && results.zoomDialog?.ariaModal && results.zoomDialog?.closedByEscape ? 3 : 0 },
+      { label: `作品图可放大（入口存在 ${results.desktopStory.zoom?.trigger ? '有' : '无'}，状态标记 ${results.desktopStory.zoom?.statuses} 处）`, pass: !!results.desktopStory.zoom?.trigger, score: results.desktopStory.zoom?.trigger ? 2 : 0 },
+      { label: `放大视图为 aria-modal 对话框且 Esc 可关（打开 ${results.zoomDialog?.opened ? '是' : '否'}／模态 ${results.zoomDialog?.ariaModal ? '是' : '否'}／Esc 关闭 ${results.zoomDialog?.closedByEscape ? '是' : '否'}）`, pass: !!results.zoomDialog?.opened && !!results.zoomDialog?.ariaModal && !!results.zoomDialog?.closedByEscape, score: results.zoomDialog?.opened && results.zoomDialog?.ariaModal && results.zoomDialog?.closedByEscape ? 2 : 0 },
     ],
   },
 
   {
     name: '中文字排',
-    max: 10,
+    max: 8,
     items: [
-      { label: '正文使用衬线（系统宋体等）', pass: serifOk, score: serifOk ? 2 : 0 },
+      { label: '正文使用衬线（系统宋体等）', pass: serifOk, score: serifOk ? 1 : 0 },
       { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 2 : 1 },
-      { label: `段首缩进 2em（实测 ${indentEm}em）`, pass: indentEm >= 1.9 && indentEm <= 2.1, score: indentEm >= 1.9 && indentEm <= 2.1 ? 2 : 0 },
+      { label: `段首缩进 2em（实测 ${indentEm}em）`, pass: indentEm >= 1.9 && indentEm <= 2.1, score: indentEm >= 1.9 && indentEm <= 2.1 ? 1 : 0 },
       { label: `字号下限 ≥12px（违规 ${results.desktopStory.belowTwelveCount}）`, pass: results.desktopStory.belowTwelveCount === 0, score: results.desktopStory.belowTwelveCount === 0 ? 2 : 0 },
       { label: `行高 ≥1.8（实测 ${lineHeightRatio}）`, pass: lineHeightRatio >= 1.8, score: lineHeightRatio >= 1.8 ? 1 : 0 },
       { label: '标点宽度调整（text-spacing-trim）', pass: spacingTrimOk, score: spacingTrimOk ? 1 : 0 },
@@ -557,10 +592,10 @@ const categories = [
   },
   {
     name: '动效与手感',
-    max: 13,
+    max: 11,
     items: [
-      { label: `存在滚动驱动动效（阅读进度驱动 ${results.desktopStory.structure?.progressDriven ? '有' : '无'}）`, pass: !!results.desktopStory.structure?.progressDriven, score: results.desktopStory.structure?.progressDriven ? 5 : 0 },
-      { label: `减弱动效偏好下动画关闭（剩余 ${results.reducedMotion?.animated ?? 'n/a'} 个可感知动画）`, pass: (results.reducedMotion?.animated ?? 1) === 0, score: (results.reducedMotion?.animated ?? 1) === 0 ? 5 : 0 },
+      { label: `存在滚动驱动动效（阅读进度驱动 ${results.desktopStory.structure?.progressDriven ? '有' : '无'}）`, pass: !!results.desktopStory.structure?.progressDriven, score: results.desktopStory.structure?.progressDriven ? 4 : 0 },
+      { label: `减弱动效偏好下动画关闭（剩余 ${results.reducedMotion?.animated ?? 'n/a'} 个可感知动画）`, pass: (results.reducedMotion?.animated ?? 1) === 0, score: (results.reducedMotion?.animated ?? 1) === 0 ? 4 : 0 },
       { label: `在用关键帧只动 transform/opacity（布局属性关键帧 ${keyframeLayoutProps} 个）`, pass: keyframeLayoutProps === 0, score: keyframeLayoutProps === 0 ? 3 : 0 },
     ],
   },
