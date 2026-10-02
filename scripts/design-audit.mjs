@@ -468,6 +468,26 @@ for (const [key, target, ready] of [
     otherPages[`${key}${device}`] = await evaluate(probe);
   }
 }
+// 章节显现错峰：查"声明的显现区间"是否分层（确定性判据）。
+// 不要用瞬态进度值判断——子元素各有自己的 view() 时间轴，几何位置不同也会出现不同进度，
+// 那样即使没有错峰也会"通过"（第一版正是这种无效判据，已废弃）。
+const revealSweep = async () => {
+  // 本段执行时页面可能已被其他测量带离故事页，先回故事页
+  await viewport(1440, 960, false);
+  await goto(`${base}?guide=1&story=${STORY}`, `document.querySelector('.story-chapters p')`);
+  await new Promise(resolve => setTimeout(resolve, 200));
+  return evaluate(`(() => {
+    const section = [...document.querySelectorAll('.story-chapters > section')].find(item => item.children.length >= 3);
+    if (!section) return null;
+    const ranges = [...section.children].map(child => {
+      const style = getComputedStyle(child);
+      return style.animationRange ?? style.getPropertyValue('animation-range') ?? '';
+    }).filter(Boolean);
+    return { count: ranges.length, distinct: new Set(ranges).size, ranges: ranges.slice(0, 6) };
+  })()`);
+};
+results.revealStagger = await revealSweep();
+
 results.otherPages = otherPages;
 
 // 回到首页再测像素级对比度（上面的循环把页面停在了访客页）
@@ -763,7 +783,8 @@ const categories = [
       { label: `有效缓动取值收敛 ≤4 种（实测 ${results.desktopStory.easings?.kinds ?? 'n/a'} 种：${results.desktopStory.easings?.list ?? ''}）`, pass: (results.desktopStory.easings?.kinds ?? 99) <= 4, score: (results.desktopStory.easings?.kinds ?? 99) <= 4 ? 1 : 0 },
       { label: `动效时长收敛（有效短时长 ${results.desktopStory.motion?.shortKinds ?? 'n/a'} 种，全部落在尺度上 ${results.desktopStory.motion?.onScaleKinds ?? 'n/a'} 种：${results.desktopStory.motion?.shortList ?? ''}）`, pass: (results.desktopStory.motion?.shortKinds ?? 99) <= 5 && results.desktopStory.motion?.shortKinds === results.desktopStory.motion?.onScaleKinds, score: (results.desktopStory.motion?.shortKinds ?? 99) <= 5 && results.desktopStory.motion?.shortKinds === results.desktopStory.motion?.onScaleKinds ? 2 : 0 },
       { label: `减弱动效偏好下动画关闭（剩余 ${results.reducedMotion?.animated ?? 'n/a'} 个可感知动画）`, pass: (results.reducedMotion?.animated ?? 1) === 0, score: (results.reducedMotion?.animated ?? 1) === 0 ? 3 : 0 },
-      { label: `在用关键帧只动 transform/opacity（布局属性关键帧 ${keyframeLayoutProps} 个）`, pass: keyframeLayoutProps === 0, score: keyframeLayoutProps === 0 ? 2 : 0 },
+      { label: `在用关键帧只动 transform/opacity（布局属性关键帧 ${keyframeLayoutProps} 个）`, pass: keyframeLayoutProps === 0, score: keyframeLayoutProps === 0 ? 1 : 0 },
+      { label: `章节显现错峰（声明区间分层 ${results.revealStagger?.distinct ?? 'n/a'} 种 / ${results.revealStagger?.count ?? 'n/a'} 个子元素：${(results.revealStagger?.ranges ?? []).join('、') || '—'}）`, pass: (results.revealStagger?.distinct ?? 0) >= 2, score: (results.revealStagger?.distinct ?? 0) >= 2 ? 1 : 0 },
     ],
   },
   {
