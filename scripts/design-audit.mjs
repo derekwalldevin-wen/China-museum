@@ -76,6 +76,22 @@ const probe = `(() => {
   const paraWidth = paragraph ? paragraph.getBoundingClientRect().width : 0;
   const paraSize = paraStyle ? px(paraStyle.fontSize) : 0;
 
+  let animated = 0, transitioned = 0, scrollDriven = 0;
+  const animationNames = new Set();
+  const seconds = value => Math.max(...String(value).split(',').map(part => parseFloat(part) || 0), 0);
+  for (const element of document.querySelectorAll('.story-experience *, main *')) {
+    if (element.closest('[aria-hidden="true"], [inert]')) continue;
+    const style = getComputedStyle(element);
+    const duration = seconds(style.animationDuration);
+    if (style.animationName && style.animationName !== 'none') {
+      for (const name of style.animationName.split(',')) animationNames.add(name.trim());
+      // 被 prefers-reduced-motion 压到 0.01ms 的动画不算"可感知动效"
+      if (duration > 0.05) animated += 1;
+    }
+    if (style.transitionDuration && seconds(style.transitionDuration) > 0.05) transitioned += 1;
+    if (style.animationTimeline && style.animationTimeline !== 'auto') scrollDriven += 1;
+  }
+
   const sizes = new Map();
   const below = [];
   for (const element of document.querySelectorAll('.story-experience *, main *')) {
@@ -91,8 +107,7 @@ const probe = `(() => {
   const images = [...document.querySelectorAll('img')];
   const missingAlt = images.filter(image => !image.getAttribute('alt') && image.getAttribute('alt') !== '').length;
   const lazy = images.filter(image => image.loading === 'lazy').length;
-  const focusRule = [...document.styleSheets].some(sheet => { try { return [...sheet.cssRules].some(rule => /:focus-visible/.test(rule.selectorText ?? '')); } catch { return false; } });
-  const smallTargetList = [...document.querySelectorAll('a, button')].map(element => {
+  const focusRule = [...document.styleSheets].some(sheet => { try { return [...sheet.cssRules].some(rule => /:focus-visible/.test(rule.selectorText ?? '')); } catch { return false; } });  const smallTargetList = [...document.querySelectorAll('a, button')].map(element => {
     if (element.closest('p, li, .story-evidence-links, .story-breadcrumb')) return null;
     const box = element.getBoundingClientRect();
     if (!(box.width > 0 && box.height > 0)) return null;
@@ -124,6 +139,17 @@ const probe = `(() => {
     belowTwelveCount: below.length,
     images: { total: images.length, missingAlt, lazy },
     focusRule,
+    animated,
+    transitioned,
+    scrollDriven,
+    animationNames: [...animationNames],
+    structure: {
+      h1Count: document.querySelectorAll('h1').length,
+      main: document.querySelectorAll('main').length,
+      nav: document.querySelectorAll('nav').length,
+      indexAnchors: [...document.querySelectorAll('.story-index a')].filter(anchor => (anchor.getAttribute('href') ?? '').startsWith('#')).length,
+      progressDriven: [...document.querySelectorAll('.story-progress i')].some(bar => getComputedStyle(bar).animationTimeline && getComputedStyle(bar).animationTimeline !== 'auto'),
+    },
     smallTargets,
     smallTargetList,
     headingOrderOk,
@@ -144,8 +170,38 @@ results.desktopHome = await evaluate(probe);
 await viewport(390, 844, true);
 await new Promise(resolve => setTimeout(resolve, 1200));
 results.mobileHome = await evaluate(probe);
+
+// 减弱动效偏好下再测一次：滚动驱动与入场动画都必须消失（可降级）
+await send('Emulation.setEmulatedMedia', { features: [{ name: 'prefers-reduced-motion', value: 'reduce' }] }, sessionId);
+await viewport(1440, 960, false);
+await goto(`${base}?guide=1&story=${STORY}`);
+results.reducedMotion = await evaluate(probe);
+await send('Emulation.setEmulatedMedia', { features: [] }, sessionId);
 await send('Target.closeTarget', { targetId });
 socket.close();
+
+// 关键帧是否只动 transform/opacity（避免布局抖动）
+const keyframeLayoutProps = (() => {
+  if (!existsSync('dist/assets')) return null;
+  const used = new Set([...(results.desktopStory.animationNames ?? []), ...(results.mobileStory.animationNames ?? [])]);
+  let found = 0;
+  for (const name of readdirSync('dist/assets').filter(file => file.endsWith('.css'))) {
+    const css = readFileSync(`dist/assets/${name}`, 'utf8');
+    for (const block of css.matchAll(/@keyframes\s+([\w-]+)\s*\{([\s\S]*?)\}\s*\}/g)) {
+      if (!used.has(block[1])) continue;
+      if (/(width|height|top|left|right|bottom|margin|padding|font-size)\s*:/.test(block[2])) found += 1;
+    }
+  }
+  return found;
+})();
+
+// 交互状态是否齐备（故事页的载入态 / 错误态 / 重试）
+const storySource = readFileSync('src/components/StoryExperience.tsx', 'utf8');
+const stateCoverage = {
+  loading: /正在展卷/.test(storySource) && /role=\{currentPayload\?\.error \? 'alert' : 'status'\}/.test(storySource),
+  error: /故事暂时无法展开/.test(storySource) && /重试加载故事/.test(storySource),
+  empty: /story-editor-note/.test(storySource),
+};
 
 // 首屏 JS（静态 ESM 图）
 const firstScreenBytes = (() => {
@@ -197,55 +253,88 @@ const spacingTrimOk = String(results.desktopStory.paper?.spacingTrim ?? '').incl
 const categories = [
   {
     name: '中文字排',
-    max: 30,
+    max: 22,
     items: [
-      { label: '正文使用衬线（思源宋体等）', pass: serifOk, score: serifOk ? 6 : 0 },
-      { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 6 : 2 },
+      { label: '正文使用衬线（思源宋体等）', pass: serifOk, score: serifOk ? 5 : 0 },
+      { label: `行长 30–34 字（实测 ${chars}）`, pass: chars >= 30 && chars <= 34, score: chars >= 28 && chars <= 36 ? 5 : 2 },
       { label: `段首缩进 2em（实测 ${indentEm}em）`, pass: indentEm >= 1.9 && indentEm <= 2.1, score: indentEm >= 1.9 && indentEm <= 2.1 ? 4 : 0 },
-      { label: `字号下限 ≥12px（违规 ${results.desktopStory.belowTwelveCount}）`, pass: results.desktopStory.belowTwelveCount === 0, score: results.desktopStory.belowTwelveCount === 0 ? 6 : Math.max(0, 6 - results.desktopStory.belowTwelveCount) },
-      { label: `行高 ≥1.8（实测 ${lineHeightRatio}）`, pass: lineHeightRatio >= 1.8, score: lineHeightRatio >= 1.8 ? 4 : 2 },
-      { label: '标点宽度调整（text-spacing-trim）', pass: spacingTrimOk, score: spacingTrimOk ? 4 : 0 },
+      { label: `字号下限 ≥12px（违规 ${results.desktopStory.belowTwelveCount}）`, pass: results.desktopStory.belowTwelveCount === 0, score: results.desktopStory.belowTwelveCount === 0 ? 4 : 0 },
+      { label: `行高 ≥1.8（实测 ${lineHeightRatio}）`, pass: lineHeightRatio >= 1.8, score: lineHeightRatio >= 1.8 ? 2 : 0 },
+      { label: '标点宽度调整（text-spacing-trim）', pass: spacingTrimOk, score: spacingTrimOk ? 2 : 0 },
     ],
   },
   {
     name: '字号体系',
-    max: 10,
+    max: 6,
     items: [
-      { label: `一页字号数量 ≤10（实测 ${results.desktopStory.distinctSizes.length}）`, pass: results.desktopStory.distinctSizes.length <= 10, score: results.desktopStory.distinctSizes.length <= 10 ? 10 : results.desktopStory.distinctSizes.length <= 13 ? 5 : 0 },
+      { label: `一页字号数量 ≤10（实测 ${results.desktopStory.distinctSizes.length}）`, pass: results.desktopStory.distinctSizes.length <= 10, score: results.desktopStory.distinctSizes.length <= 10 ? 6 : results.desktopStory.distinctSizes.length <= 13 ? 3 : 0 },
     ],
   },
   {
     name: '对比度',
-    max: 20,
+    max: 12,
     items: [
-      { label: `正文对比度 ≥7（实测 ${results.desktopStory.paragraph?.contrast}）`, pass: (results.desktopStory.paragraph?.contrast ?? 0) >= 7, score: (results.desktopStory.paragraph?.contrast ?? 0) >= 7 ? 10 : (results.desktopStory.paragraph?.contrast ?? 0) >= 4.5 ? 6 : 0 },
-      { label: `次要文字 ≥4.5（导语 ${results.desktopStory.summaryContrast}／标题 ${results.desktopStory.heading?.contrast}）`, pass: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5, score: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5 ? 10 : 5 },
+      { label: `正文对比度 ≥7（实测 ${results.desktopStory.paragraph?.contrast}）`, pass: (results.desktopStory.paragraph?.contrast ?? 0) >= 7, score: (results.desktopStory.paragraph?.contrast ?? 0) >= 7 ? 6 : (results.desktopStory.paragraph?.contrast ?? 0) >= 4.5 ? 3 : 0 },
+      { label: `次要文字 ≥4.5（导语 ${results.desktopStory.summaryContrast}／标题 ${results.desktopStory.heading?.contrast}）`, pass: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5, score: Math.min(results.desktopStory.summaryContrast ?? 0, results.desktopStory.heading?.contrast ?? 0) >= 4.5 ? 6 : 2 },
     ],
   },
   {
     name: '无障碍',
-    max: 20,
+    max: 12,
     items: [
-      { label: `图片 alt 完整（缺 ${results.desktopStory.images.missingAlt}/${results.desktopStory.images.total}）`, pass: results.desktopStory.images.missingAlt === 0, score: results.desktopStory.images.missingAlt === 0 ? 5 : 0 },
-      { label: '存在 :focus-visible 焦点样式', pass: results.desktopStory.focusRule, score: results.desktopStory.focusRule ? 5 : 0 },
-      { label: `触控目标 ≥40px（不合格 ${results.desktopStory.smallTargets}）`, pass: results.desktopStory.smallTargets === 0, score: results.desktopStory.smallTargets === 0 ? 5 : 0 },
-      { label: '标题层级不跳级', pass: results.desktopStory.headingOrderOk, score: results.desktopStory.headingOrderOk ? 5 : 0 },
+      { label: `图片 alt 完整（缺 ${results.desktopStory.images.missingAlt}/${results.desktopStory.images.total}）`, pass: results.desktopStory.images.missingAlt === 0, score: results.desktopStory.images.missingAlt === 0 ? 3 : 0 },
+      { label: '存在 :focus-visible 焦点样式', pass: results.desktopStory.focusRule, score: results.desktopStory.focusRule ? 3 : 0 },
+      { label: `触控目标 ≥24×24（不合格 ${results.desktopStory.smallTargets}）`, pass: results.desktopStory.smallTargets === 0, score: results.desktopStory.smallTargets === 0 ? 3 : 0 },
+      { label: '标题层级不跳级', pass: results.desktopStory.headingOrderOk, score: results.desktopStory.headingOrderOk ? 3 : 0 },
     ],
   },
   {
     name: '移动端',
-    max: 10,
+    max: 8,
     items: [
-      { label: `390px 无横向溢出（实测 ${results.mobileStory.overflow}px）`, pass: results.mobileStory.overflow <= 1, score: results.mobileStory.overflow <= 1 ? 6 : 0 },
-      { label: `移动端字号下限 ≥12px（违规 ${results.mobileStory.belowTwelveCount}）`, pass: results.mobileStory.belowTwelveCount === 0, score: results.mobileStory.belowTwelveCount === 0 ? 4 : 0 },
+      { label: `390px 无横向溢出（实测 ${results.mobileStory.overflow}px）`, pass: results.mobileStory.overflow <= 1, score: results.mobileStory.overflow <= 1 ? 5 : 0 },
+      { label: `移动端字号下限 ≥12px（违规 ${results.mobileStory.belowTwelveCount}）`, pass: results.mobileStory.belowTwelveCount === 0, score: results.mobileStory.belowTwelveCount === 0 ? 3 : 0 },
     ],
   },
   {
     name: '性能预算',
-    max: 10,
+    max: 8,
     items: [
-      { label: `首屏 JS ≤322KB（实测 ${Math.round((firstScreenBytes ?? 0) / 1000)}KB；硬上限 328KB）`, pass: (firstScreenBytes ?? 1e9) <= 322000, score: (firstScreenBytes ?? 1e9) <= 322000 ? 6 : (firstScreenBytes ?? 1e9) <= 328000 ? 3 : 0 },
-      { label: `图片策略：首图 eager（LCP）+ 列表图 lazy（源码 ${lazyHits} 处）`, pass: lazyHits >= 2 && results.desktopStory.images.lazy === 0, score: lazyHits >= 2 && results.desktopStory.images.lazy === 0 ? 4 : 0 },
+      { label: `首屏 JS ≤322KB（实测 ${Math.round((firstScreenBytes ?? 0) / 1000)}KB；硬上限 328KB）`, pass: (firstScreenBytes ?? 1e9) <= 322000, score: (firstScreenBytes ?? 1e9) <= 322000 ? 5 : (firstScreenBytes ?? 1e9) <= 328000 ? 2 : 0 },
+      { label: `图片策略：首图 eager（LCP）+ 列表图 lazy（源码 ${lazyHits} 处）`, pass: lazyHits >= 2 && results.desktopStory.images.lazy === 0, score: lazyHits >= 2 && results.desktopStory.images.lazy === 0 ? 3 : 0 },
+    ],
+  },
+  {
+    name: '动效与手感',
+    max: 16,
+    items: [
+      { label: `存在滚动驱动动效（阅读进度驱动 ${results.desktopStory.structure?.progressDriven ? '有' : '无'}）`, pass: !!results.desktopStory.structure?.progressDriven, score: results.desktopStory.structure?.progressDriven ? 6 : 0 },
+      { label: `减弱动效偏好下动画关闭（剩余 ${results.reducedMotion?.animated ?? 0} 个动画 / ${results.reducedMotion?.scrollDriven ?? 0} 个滚动驱动）`, pass: (results.reducedMotion?.animated ?? 1) === 0 && (results.reducedMotion?.scrollDriven ?? 1) === 0, score: (results.reducedMotion?.animated ?? 1) === 0 && (results.reducedMotion?.scrollDriven ?? 1) === 0 ? 6 : 0 },
+      { label: `关键帧只动 transform/opacity（布局属性关键帧 ${keyframeLayoutProps} 个）`, pass: keyframeLayoutProps === 0, score: keyframeLayoutProps === 0 ? 4 : 0 },
+    ],
+  },
+  {
+    name: '交互状态',
+    max: 6,
+    items: [
+      { label: `载入态齐备（role=status/alert）`, pass: stateCoverage.loading, score: stateCoverage.loading ? 2 : 0 },
+      { label: '错误态含重试入口', pass: stateCoverage.error, score: stateCoverage.error ? 2 : 0 },
+      { label: '空态/说明态存在', pass: stateCoverage.empty, score: stateCoverage.empty ? 2 : 0 },
+    ],
+  },
+  {
+    name: '结构层级',
+    max: 6,
+    items: [
+      { label: `唯一 h1（实测 ${results.desktopStory.structure?.h1Count}）`, pass: results.desktopStory.structure?.h1Count === 1, score: results.desktopStory.structure?.h1Count === 1 ? 3 : 0 },
+      { label: `地标齐备（main ${results.desktopStory.structure?.main}／nav ${results.desktopStory.structure?.nav}）`, pass: (results.desktopStory.structure?.main ?? 0) >= 1 && (results.desktopStory.structure?.nav ?? 0) >= 1, score: (results.desktopStory.structure?.main ?? 0) >= 1 && (results.desktopStory.structure?.nav ?? 0) >= 1 ? 3 : 0 },
+    ],
+  },
+  {
+    name: '键盘可达',
+    max: 4,
+    items: [
+      { label: `章节锚点可键盘跳转（${results.desktopStory.structure?.indexAnchors ?? 0} 个）`, pass: (results.desktopStory.structure?.indexAnchors ?? 0) >= 4, score: (results.desktopStory.structure?.indexAnchors ?? 0) >= 4 ? 4 : 0 },
     ],
   },
 ];

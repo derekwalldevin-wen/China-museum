@@ -213,6 +213,8 @@ export default function StoryExperience({ route, onRoute, onExit, onBack }: Prop
       <button ref={exitButton} onClick={() => { save(); onExit(); }} aria-label="退出故事导览">回到原处 ✕</button>
     </header>
     <div ref={viewport} data-testid="story-viewport" className="story-viewport" onScroll={() => save()} onWheel={() => { latest.current.anchor = undefined; }} onTouchStart={() => { latest.current.anchor = undefined; }}>
+      {/* 阅读进度：纯 CSS 滚动驱动（animation-timeline: scroll(nearest)），不支持时静态隐藏 */}
+      <div className="story-progress" aria-hidden="true"><i /></div>
       {route.storyId && (!story || !location) ? <main className="story-directory" role={currentPayload?.error ? 'alert' : 'status'}>
         <div className="story-kicker">{currentPayload?.error ? '故事暂时无法展开' : '正在展开故事'}</div>
         <h1 id="story-title">{currentPayload?.error ? '这一页暂时未能载入。' : '请稍候，正在展卷。'}</h1>
@@ -253,7 +255,9 @@ export default function StoryExperience({ route, onRoute, onExit, onBack }: Prop
           </aside>
           <article className="story-paper">
             <section className="story-summary"><span className="story-section-label">三十秒认识</span><p>{story.summary}</p><EvidenceLinks refs={story.summaryRefs} sourceIndex={sourceIndex} /></section>
-            <div className="story-chapters">{story.sections.map((section, index) => <section key={section.title}><span className="story-section-label">{String(index + 1).padStart(2, '0')} / {index >= 3 ? '延伸线索' : '故事'}</span><h2>{section.title}</h2><p>{section.text}</p><EvidenceLinks refs={section.refs} sourceIndex={sourceIndex} /></section>)}</div>
+            {/* 本文结构：四个章节的锚点目录，键盘可直接跳转 */}
+            <nav className="story-index" aria-label="本文结构"><span className="story-section-label">本文结构</span>{story.sections.map((section, index) => <a key={section.title} href={`#story-section-${index + 1}`}><span>{String(index + 1).padStart(2, '0')}</span>{section.title}</a>)}</nav>
+            <div className="story-chapters">{story.sections.map((section, index) => <section key={section.title} id={`story-section-${index + 1}`}><span className="story-section-label">{String(index + 1).padStart(2, '0')} / {index >= 3 ? '延伸线索' : '故事'}</span><h2>{section.title}</h2><p>{section.text}</p><EvidenceLinks refs={section.refs} sourceIndex={sourceIndex} /></section>)}</div>
             <section className="story-details"><h2>三处细节</h2><p className="story-small">以下依据馆藏与考古资料。</p><ol>{story.details.map(detail => <li key={detail.title}><h3>{detail.title}</h3><p>{detail.text}</p><EvidenceLinks refs={detail.refs} sourceIndex={sourceIndex} /></li>)}</ol></section>
             <section className="story-reflection"><span className="story-section-label">停一停 · 聊两句</span><h2>{story.reflection.question}</h2><p className="story-small">先自己想一想，再点开看看。</p><button aria-expanded={expanded.includes('reflection')} aria-controls="story-reflection-answer" onClick={() => toggle('reflection')}>{expanded.includes('reflection') ? '收起 −' : '一种解释 +'}</button>{expanded.includes('reflection') && <div id="story-reflection-answer"><p>{story.reflection.answer}</p><EvidenceLinks refs={story.reflection.refs} sourceIndex={sourceIndex} /></div>}</section>
             <section className="story-boundary"><h2>考订</h2><p>{story.uncertainty}</p><p className="story-small">编辑整理，非馆方审定。</p></section>

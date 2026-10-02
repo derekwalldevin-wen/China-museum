@@ -110,6 +110,31 @@
 .story-finish a{display:inline-flex;align-items:center;color:#e0bb7a;text-decoration:underline;text-underline-offset:3px}
 
 /* 窄屏：先保证字号下限，再收版心 */
+/* ── 动效：只动 transform/opacity，且必须可降级 ──
+   阅读进度由 animation-timeline: scroll(nearest) 驱动（零 JS）；章节用 view() 时间线随滚动浮现。
+   不支持滚动时间线的浏览器（Firefox 160 之前等）拿到的是完全静态、可读的版式。 */
+.story-progress{position:sticky;top:0;z-index:6;height:2px;background:#efe6cf14;margin-bottom:-2px}
+.story-progress i{display:block;height:100%;background:linear-gradient(90deg,#8f3a26,#c6aa76);transform:scaleX(0);transform-origin:0 50%}
+@keyframes story-progress{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes story-reveal{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@supports (animation-timeline: scroll()){
+  .story-progress i{animation:story-progress linear both;animation-timeline:scroll(nearest)}
+}
+@media (prefers-reduced-motion:no-preference){
+  @supports (animation-timeline: view()){
+    .story-chapters>section>*{animation:story-reveal linear both;animation-timeline:view();animation-range:entry 6% cover 24%}
+    .story-figure{animation:story-reveal linear both;animation-timeline:view();animation-range:entry 4% cover 18%}
+  }
+}
+/* 本文结构目录：四个章节的锚点，每行 44px，键盘可直接跳转 */
+.story-index{display:grid;grid-template-columns:1fr;margin:16px 0 22px;padding:2px 0;border-top:1px solid #8a70482b;border-bottom:1px solid #8a70482b}
+.story-index .story-section-label{margin:10px 0 2px}
+.story-index a{display:flex;align-items:center;gap:12px;min-height:44px;font-family:var(--font-serif);font-size:var(--t-small);color:#5f472c;text-decoration:none;border-bottom:1px solid #8a70481a}
+.story-index a:last-child{border-bottom:0}
+.story-index a:hover,.story-index a:focus-visible{color:#8f3a26;background:rgba(0,0,0,.03)}
+.story-index a span{flex:none;font-family:var(--font-mono);font-size:var(--t-micro);color:#9c7b4f;font-variant-numeric:tabular-nums}
+.story-index a::after{content:'↘';margin-left:auto;font-size:var(--t-micro);color:#9c7b4f}
+.story-chapters>section{scroll-margin-top:16px}
 @media(max-width:900px){
   .story-trail-grid,.story-standalone ul{grid-template-columns:1fr}
   .story-reading-grid{grid-template-columns:1fr}
@@ -132,4 +157,4 @@
   .story-reader>h1{font-size:28px}
   .story-stations{gap:10px}
 }
-@media(prefers-reduced-motion:reduce){.story-experience *{transition:none!important;scroll-behavior:auto!important}}
+@media(prefers-reduced-motion:reduce){.story-experience *{transition:none!important;animation:none!important;scroll-behavior:auto!important}}

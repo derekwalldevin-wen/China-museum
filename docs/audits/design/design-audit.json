@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:43:07.357Z",
+  "generatedAt": "2026-10-02T01:54:22.611Z",
   "story": "hub-zhy",
   "firstScreenBytes": 320701,
   "total": 100,
@@ -8,17 +8,17 @@
   "categories": [
     {
       "name": "中文字排",
-      "max": 30,
+      "max": 22,
       "items": [
         {
           "label": "正文使用衬线（思源宋体等）",
           "pass": true,
-          "score": 6
+          "score": 5
         },
         {
           "label": "行长 30–34 字（实测 34）",
           "pass": true,
-          "score": 6
+          "score": 5
         },
         {
           "label": "段首缩进 2em（实测 2em）",
@@ -28,100 +28,169 @@
         {
           "label": "字号下限 ≥12px（违规 0）",
           "pass": true,
-          "score": 6
+          "score": 4
         },
         {
           "label": "行高 ≥1.8（实测 2）",
           "pass": true,
-          "score": 4
+          "score": 2
         },
         {
           "label": "标点宽度调整（text-spacing-trim）",
           "pass": true,
-          "score": 4
+          "score": 2
         }
       ]
     },
     {
       "name": "字号体系",
-      "max": 10,
+      "max": 6,
       "items": [
         {
           "label": "一页字号数量 ≤10（实测 9）",
           "pass": true,
-          "score": 10
+          "score": 6
         }
       ]
     },
     {
       "name": "对比度",
-      "max": 20,
+      "max": 12,
       "items": [
         {
           "label": "正文对比度 ≥7（实测 10.38）",
           "pass": true,
-          "score": 10
+          "score": 6
         },
         {
           "label": "次要文字 ≥4.5（导语 10.38／标题 14.39）",
           "pass": true,
-          "score": 10
+          "score": 6
         }
       ]
     },
     {
       "name": "无障碍",
-      "max": 20,
+      "max": 12,
       "items": [
         {
           "label": "图片 alt 完整（缺 0/2）",
           "pass": true,
-          "score": 5
+          "score": 3
         },
         {
           "label": "存在 :focus-visible 焦点样式",
           "pass": true,
-          "score": 5
+          "score": 3
         },
         {
-          "label": "触控目标 ≥40px（不合格 0）",
+          "label": "触控目标 ≥24×24（不合格 0）",
           "pass": true,
-          "score": 5
+          "score": 3
         },
         {
           "label": "标题层级不跳级",
           "pass": true,
-          "score": 5
+          "score": 3
         }
       ]
     },
     {
       "name": "移动端",
-      "max": 10,
+      "max": 8,
       "items": [
         {
           "label": "390px 无横向溢出（实测 0px）",
           "pass": true,
-          "score": 6
+          "score": 5
         },
         {
           "label": "移动端字号下限 ≥12px（违规 0）",
+          "pass": true,
+          "score": 3
+        }
+      ]
+    },
+    {
+      "name": "性能预算",
+      "max": 8,
+      "items": [
+        {
+          "label": "首屏 JS ≤322KB（实测 321KB；硬上限 328KB）",
+          "pass": true,
+          "score": 5
+        },
+        {
+          "label": "图片策略：首图 eager（LCP）+ 列表图 lazy（源码 3 处）",
+          "pass": true,
+          "score": 3
+        }
+      ]
+    },
+    {
+      "name": "动效与手感",
+      "max": 16,
+      "items": [
+        {
+          "label": "存在滚动驱动动效（阅读进度驱动 有）",
+          "pass": true,
+          "score": 6
+        },
+        {
+          "label": "减弱动效偏好下动画关闭（剩余 0 个动画 / 0 个滚动驱动）",
+          "pass": true,
+          "score": 6
+        },
+        {
+          "label": "关键帧只动 transform/opacity（布局属性关键帧 0 个）",
           "pass": true,
           "score": 4
         }
       ]
     },
     {
-      "name": "性能预算",
-      "max": 10,
+      "name": "交互状态",
+      "max": 6,
       "items": [
         {
-          "label": "首屏 JS ≤322KB（实测 321KB；硬上限 328KB）",
+          "label": "载入态齐备（role=status/alert）",
           "pass": true,
-          "score": 6
+          "score": 2
         },
         {
-          "label": "图片策略：首图 eager（LCP）+ 列表图 lazy（源码 3 处）",
+          "label": "错误态含重试入口",
+          "pass": true,
+          "score": 2
+        },
+        {
+          "label": "空态/说明态存在",
+          "pass": true,
+          "score": 2
+        }
+      ]
+    },
+    {
+      "name": "结构层级",
+      "max": 6,
+      "items": [
+        {
+          "label": "唯一 h1（实测 1）",
+          "pass": true,
+          "score": 3
+        },
+        {
+          "label": "地标齐备（main 2／nav 3）",
+          "pass": true,
+          "score": 3
+        }
+      ]
+    },
+    {
+      "name": "键盘可达",
+      "max": 4,
+      "items": [
+        {
+          "label": "章节锚点可键盘跳转（4 个）",
           "pass": true,
           "score": 4
         }
@@ -170,6 +239,19 @@
         "lazy": 0
       },
       "focusRule": true,
+      "animated": 0,
+      "transitioned": 43,
+      "scrollDriven": 17,
+      "animationNames": [
+        "story-reveal"
+      ],
+      "structure": {
+        "h1Count": 1,
+        "main": 2,
+        "nav": 3,
+        "indexAnchors": 4,
+        "progressDriven": true
+      },
       "smallTargets": 0,
       "smallTargetList": [],
       "headingOrderOk": true,
@@ -216,6 +298,19 @@
         "lazy": 0
       },
       "focusRule": true,
+      "animated": 0,
+      "transitioned": 43,
+      "scrollDriven": 17,
+      "animationNames": [
+        "story-reveal"
+      ],
+      "structure": {
+        "h1Count": 1,
+        "main": 2,
+        "nav": 3,
+        "indexAnchors": 4,
+        "progressDriven": true
+      },
       "smallTargets": 0,
       "smallTargetList": [],
       "headingOrderOk": true,
@@ -301,6 +396,20 @@
         "lazy": 0
       },
       "focusRule": true,
+      "animated": 2,
+      "transitioned": 68,
+      "scrollDriven": 0,
+      "animationNames": [
+        "scrollSceneArrive",
+        "scrollUnfurl"
+      ],
+      "structure": {
+        "h1Count": 0,
+        "main": 1,
+        "nav": 0,
+        "indexAnchors": 0,
+        "progressDriven": false
+      },
       "smallTargets": 0,
       "smallTargetList": [],
       "headingOrderOk": true,
@@ -387,6 +496,77 @@
         "lazy": 0
       },
       "focusRule": true,
+      "animated": 2,
+      "transitioned": 68,
+      "scrollDriven": 0,
+      "animationNames": [
+        "scrollSceneArrive",
+        "scrollUnfurl"
+      ],
+      "structure": {
+        "h1Count": 0,
+        "main": 1,
+        "nav": 0,
+        "indexAnchors": 0,
+        "progressDriven": false
+      },
+      "smallTargets": 0,
+      "smallTargetList": [],
+      "headingOrderOk": true,
+      "overflow": 0
+    },
+    "reducedMotion": {
+      "paragraph": {
+        "family": "\"Noto Serif SC\", \"Source Han Serif SC\", \"Songti SC\", SimSun, serif",
+        "size": "17px",
+        "lineHeight": "34px",
+        "indent": "34px",
+        "align": "justify",
+        "width": 576,
+        "charsPerLine": 34,
+        "colour": "rgb(48, 45, 37)",
+        "contrast": 10.38
+      },
+      "summaryContrast": 10.38,
+      "heading": {
+        "family": "\"Noto Serif SC\", \"Source Han Serif SC\", \"Songti SC\", SimSun, serif",
+        "size": "44px",
+        "contrast": 14.39
+      },
+      "paper": {
+        "spacingTrim": "trim-start",
+        "autospace": "normal"
+      },
+      "distinctSizes": [
+        12,
+        14,
+        16,
+        17,
+        18,
+        20,
+        24,
+        28,
+        44
+      ],
+      "belowTwelve": [],
+      "belowTwelveCount": 0,
+      "images": {
+        "total": 2,
+        "missingAlt": 0,
+        "lazy": 0
+      },
+      "focusRule": true,
+      "animated": 0,
+      "transitioned": 0,
+      "scrollDriven": 0,
+      "animationNames": [],
+      "structure": {
+        "h1Count": 1,
+        "main": 2,
+        "nav": 3,
+        "indexAnchors": 4,
+        "progressDriven": false
+      },
       "smallTargets": 0,
       "smallTargetList": [],
       "headingOrderOk": true,
