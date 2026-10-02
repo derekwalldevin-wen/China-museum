@@ -126,6 +126,21 @@ await withPage({ width: 390, height: 844, mobile: true }, async page => {
   checks.push('business boundary: direct 390px gallery route bypasses opening and still requests exactly 2 card images');
 });
 
+// 加载时"减弱动效"已开启 → 开场必须立即退出（不能白播约 3.3 秒故事板）。
+// 历史缺口：代码只在媒体查询 change 时结束开场，漏了初始值。此检查固定该行为。
+await withPage({ width: 1440, height: 960, script: `window.__HUAXIA_INTRO_TEST__={forceStatic:true,holdStatic:true};` }, async page => {
+  await page.send('Emulation.setEmulatedMedia', { features: [{ name: 'prefers-reduced-motion', value: 'reduce' }] });
+  await page.navigate(base);
+  await sleep(600);
+  const state = await page.evaluate(`({
+    intro: !!document.querySelector('[data-ink-intro]'),
+    exitMarks: performance.getEntriesByType('mark').filter(entry=>/huaxia:intro:exit/.test(entry.name)).map(entry=>entry.name.split(':').pop()),
+  })`);
+  assert.equal(state.intro, false, '加载即减弱动效时开场应立即退出');
+  assert.deepEqual(state.exitMarks, ['reduced-motion'], '退出原因应为 reduced-motion');
+  checks.push('accessibility: reduce-motion set at load exits the opening immediately (no 3.3s storyboard)');
+});
+
 const result = { baseUrl: base, testedAt: new Date().toISOString(), passed: checks.length, checks };
 await writeFile(new URL('results.json', output), JSON.stringify(result, null, 2) + '\n');
 console.log(JSON.stringify(result, null, 2));

@@ -1,12 +1,13 @@
 {
-  "baseUrl": "http://127.0.0.1:5880/",
-  "testedAt": "2026-10-02T16:11:19.427Z",
-  "passed": 5,
+  "baseUrl": "http://127.0.0.1:5970/",
+  "testedAt": "2026-10-02T16:26:04.240Z",
+  "passed": 6,
   "checks": [
-    "desktop: 5 frozen storyboard frames; skip exited and released motion DOM in 54.2ms",
+    "desktop: 5 frozen storyboard frames; skip exited and released motion DOM in 22.3ms",
     "session: reload bypasses the opening and restores the map directly",
     "mobile: 4 storyboard frames, 44px skip target, one bounded Three.js canvas and no horizontal overflow",
     "constrained replacement: static paper renders without the motion chunk or canvas",
-    "business boundary: direct 390px gallery route bypasses opening and still requests exactly 2 card images"
+    "business boundary: direct 390px gallery route bypasses opening and still requests exactly 2 card images",
+    "accessibility: reduce-motion set at load exits the opening immediately (no 3.3s storyboard)"
   ]
 }

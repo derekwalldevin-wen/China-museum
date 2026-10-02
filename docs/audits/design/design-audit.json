@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T16:14:28.350Z",
+  "generatedAt": "2026-10-02T16:32:52.227Z",
   "story": "hub-zhy",
-  "firstScreenBytes": 307741,
+  "firstScreenBytes": 307745,
   "mainCssBytes": 71421,
   "total": 100,
   "max": 100,
@@ -193,7 +193,7 @@
           "score": 1
         },
         {
-          "label": "首页像素级对比度全部 ≥4.5（地图省简称 7.58／件数 4.92／荐读标题 10.3／荐读说明 7.81）",
+          "label": "首页像素级对比度全部 ≥4.5（地图省简称 7.66／件数 5.46／荐读标题 10.3／荐读说明 7.81）",
           "pass": true,
           "score": 2
         }
@@ -356,7 +356,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1140ms；FCP 1140ms；不限速 2512ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1616ms；FCP 1416ms；不限速 1308ms）",
           "pass": true,
           "score": 4
         },
@@ -476,9 +476,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 2912,
+        "lcpMs": 5180,
         "cls": 0.002,
-        "fcpMs": 1560,
+        "fcpMs": 3348,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -652,11 +652,11 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 128,
-        "eventCount": 28,
-        "lcpMs": 2912,
+        "inpMs": 496,
+        "eventCount": 54,
+        "lcpMs": 5180,
         "cls": 0.002,
-        "fcpMs": 1560,
+        "fcpMs": 3348,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -839,10 +839,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 2512,
+        "lcpMs": 1308,
         "cls": 0,
-        "fcpMs": 728,
-        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
+        "fcpMs": 1236,
+        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
         "h1": null,
@@ -986,10 +986,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 2972,
+        "lcpMs": 3840,
         "cls": 0,
-        "fcpMs": 728,
-        "lcpElement": "img | is-loaded | "
+        "fcpMs": 1236,
+        "lcpElement": "img shanhe-handscroll-mobile.jpg | is-loaded | "
       },
       "hierarchy": {
         "h1": null,
@@ -1123,9 +1123,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 2344,
+          "lcpMs": 1716,
           "cls": 0,
-          "fcpMs": 1012,
+          "fcpMs": 1024,
           "lcpElement": "h1 |  | 从一个问题，走进千年生活。"
         },
         "hierarchy": {
@@ -1251,9 +1251,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 2736,
+          "lcpMs": 2184,
           "cls": 0.001,
-          "fcpMs": 1004,
+          "fcpMs": 1120,
           "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
         },
         "hierarchy": {
@@ -1375,9 +1375,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1884,
+          "lcpMs": 2124,
           "cls": 0,
-          "fcpMs": 1884,
+          "fcpMs": 2124,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1479,9 +1479,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 716,
+          "lcpMs": 788,
           "cls": 0,
-          "fcpMs": 716,
+          "fcpMs": 788,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1565,8 +1565,8 @@
       "note": 8.99
     },
     "pixelContrast": {
-      "mapShort": 7.58,
-      "mapCount": 4.92,
+      "mapShort": 7.66,
+      "mapCount": 5.46,
       "beaconTitle": 10.3,
       "beaconText": 7.81
     },
@@ -1628,10 +1628,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1804,
-        "cls": 0.002,
-        "fcpMs": 1480,
-        "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
+        "lcpMs": null,
+        "cls": 0,
+        "fcpMs": null,
+        "lcpElement": null
       },
       "hierarchy": {
         "h1": 44,
@@ -1693,13 +1693,13 @@
       "mapLabels": {
         "short": {
           "css": 11,
-          "screenHeight": 17,
-          "effective": 14.8
+          "screenHeight": 16.9,
+          "effective": 14.7
         },
         "count": {
           "css": 12,
-          "screenHeight": 13,
-          "effective": 11.3
+          "screenHeight": 12.9,
+          "effective": 11.2
         }
       },
       "imageReveal": {
@@ -1816,10 +1816,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1140,
+        "lcpMs": 1616,
         "cls": 0,
-        "fcpMs": 1140,
-        "lcpElement": "b |  | 山河入画"
+        "fcpMs": 1416,
+        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
         "h1": null,

@@ -11,10 +11,10 @@ async function openHome(page) {
   const started = Date.now();
   await page.navigate(base);
   const navigationWallMs = Date.now() - started;
-  if (await page.evaluate(`!!document.querySelector('.ink-intro-skip')`)) {
-    await page.evaluate(`document.querySelector('.ink-intro-skip').click()`);
-    await page.wait(`!document.querySelector('[data-ink-intro]')`, 'intro dismissed');
-  }
+  // 一次性可选点击：不要"先判断存在、再点击"——在"减弱动效"下开场会在同一帧内自行退出，
+  // 两步之间元素可能已经消失（曾因此抛 Cannot read properties of null）。意图不变：越过开场。
+  await page.evaluate(`document.querySelector('.ink-intro-skip')?.click()`);
+  await page.wait(`!document.querySelector('[data-ink-intro]')`, 'intro dismissed');
   await page.wait(`document.querySelectorAll('g.scroll-province').length===34 && !!document.querySelector('.atlas-story-beacon')`, 'home ready', 60000);
   const mapWallMs = Date.now() - started;
   await page.wait(`!!document.querySelector('.scroll-painted-backdrop img')?.naturalWidth`, 'decorative artwork', 30000);
@@ -77,10 +77,8 @@ try {
   await failedArt.send('Emulation.setDeviceMetricsOverride', { width:390, height:844, deviceScaleFactor:2, mobile:true });
   await failedArt.send('Network.setBlockedURLs', { urls:['*shanhe-handscroll-mobile.jpg'] });
   await failedArt.navigate(base);
-  if (await failedArt.evaluate(`!!document.querySelector('.ink-intro-skip')`)) {
-    await failedArt.evaluate(`document.querySelector('.ink-intro-skip').click()`);
-    await failedArt.wait(`!document.querySelector('[data-ink-intro]')`, 'intro dismissed');
-  }
+  await failedArt.evaluate(`document.querySelector('.ink-intro-skip')?.click()`);
+  await failedArt.wait(`!document.querySelector('[data-ink-intro]')`, 'intro dismissed');
   await failedArt.wait(`document.querySelectorAll('g.scroll-province').length===34 && !!document.querySelector('.atlas-story-beacon')`, 'map with failed artwork', 60000);
   await failedArt.wait(`document.querySelector('.scroll-painted-backdrop img')?.complete`, 'failed artwork settled');
   assert.equal(await failedArt.evaluate(`document.querySelector('.scroll-painted-backdrop img').naturalWidth`), 0);

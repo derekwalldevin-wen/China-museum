@@ -125,6 +125,9 @@ export default function IntroGate({ contentReady, businessActive, onActiveChange
     const onVisibility = () => { if (document.visibilityState === 'hidden') finish('hidden'); };
     const onKey = (event: KeyboardEvent) => { if (event.key === 'Escape') finish('escape'); };
     reducedMotion.addEventListener('change', onReducedMotion);
+    // 加载时若"减弱动效"已经是开启状态，必须立刻结束开场。
+    // 只监听 change 会漏掉初始值：开启该偏好的用户会白看约 3.3 秒的故事板（实测缺口，已修）。
+    onReducedMotion();
     document.addEventListener('visibilitychange', onVisibility);
     window.addEventListener('keydown', onKey);
     return () => {
