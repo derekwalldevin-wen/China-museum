@@ -5,8 +5,8 @@
 .story-experience{
   position:absolute;inset:0;z-index:80;background:#0d100e;color:#e7dfc9;display:flex;flex-direction:column;user-select:text;
   --story-red:#ab3f2b;--story-line:#b49a6340;
-  --font-serif:'Noto Serif SC','Source Han Serif SC','Songti SC','SimSun',serif;
-  --font-sans:'Noto Sans SC',-apple-system,'PingFang SC','Microsoft YaHei',system-ui,sans-serif;
+  --font-serif:'Songti SC','Noto Serif SC','Source Han Serif SC','Source Han Serif CN','SimSun',serif;
+  --font-sans:-apple-system,'PingFang SC','HarmonyOS Sans SC','Microsoft YaHei','Noto Sans SC','Source Han Sans SC',system-ui,sans-serif;
   --font-mono:ui-monospace,SFMono-Regular,Menlo,monospace;
   --t-micro:12px;--t-small:14px;--t-ui:14px;--t-body-sm:16px;--t-body:17px;--t-lead:20px;
   --t-h3:20px;--t-h2:24px;--t-h1:clamp(28px,3.4vw,44px);--t-display:clamp(32px,5vw,58px);

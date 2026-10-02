@@ -1,6 +1,6 @@
 {
-  "baseUrl": "http://127.0.0.1:4900/",
-  "testedAt": "2026-10-02T02:34:27.215Z",
+  "baseUrl": "http://127.0.0.1:5090/",
+  "testedAt": "2026-10-02T04:17:37.033Z",
   "passed": 7,
   "checks": [
     "mobile idle: still exactly 2 card images and zero detail images, with one current-museum provenance payload",

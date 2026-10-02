@@ -16,7 +16,7 @@ body {
     radial-gradient(ellipse at 50% -10%, rgba(212, 58, 40, 0.12) 0%, transparent 55%),
     var(--vr-ink);
   color: var(--vr-paper);
-  font-family: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-family: "PingFang SC", "Microsoft YaHei", "Noto Sans SC", system-ui, sans-serif;
   line-height: 1.75;
   -webkit-font-smoothing: antialiased;
 }
@@ -24,7 +24,7 @@ body {
 .vr-shell { max-width: 62rem; margin: 0 auto; padding: 2.5rem 1.25rem 5rem; }
 
 .vr-header h1 {
-  font-family: "Noto Serif SC", serif;
+  font-family: "Songti SC", "Noto Serif SC", "Source Han Serif SC", "SimSun", serif;
   font-size: clamp(1.6rem, 4vw, 2.4rem);
   letter-spacing: 0.06em;
   margin: 1rem 0 0.75rem;
@@ -59,7 +59,7 @@ body {
   margin-top: 2rem;
 }
 .vr-card h2 {
-  font-family: "Noto Serif SC", serif;
+  font-family: "Songti SC", "Noto Serif SC", "Source Han Serif SC", "SimSun", serif;
   font-size: 1.15rem;
   letter-spacing: 0.05em;
   margin: 0 0 1rem;
@@ -137,14 +137,14 @@ button.vr-primary:hover:not(:disabled) { background: rgba(212, 58, 40, 0.3); col
 .vr-list { list-style: none; padding: 0; margin: 1.1rem 0 0; }
 .vr-list > li { border-top: 1px solid var(--vr-line); padding: 1rem 0; }
 .vr-list-head { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: baseline; }
-.vr-list-head strong { font-family: "Noto Serif SC", serif; }
+.vr-list-head strong { font-family: "Songti SC", "Noto Serif SC", "Source Han Serif SC", "SimSun", serif; }
 .vr-list-head span { font-size: 0.82rem; color: var(--vr-dim); }
 .vr-list-head button { margin-left: auto; min-height: 44px; padding: 0.4rem 0.8rem; font-size: 0.78rem; }
 .vr-list p { margin: 0.5rem 0 0; font-size: 0.9rem; }
 
 .vr-published { list-style: none; padding: 0; margin: 0; }
 .vr-published > li { border-top: 1px solid var(--vr-line); padding: 1.1rem 0; }
-.vr-published strong { display: block; font-family: "Noto Serif SC", serif; font-size: 1.05rem; margin-top: 0.5rem; }
+.vr-published strong { display: block; font-family: "Songti SC", "Noto Serif SC", "Source Han Serif SC", "SimSun", serif; font-size: 1.05rem; margin-top: 0.5rem; }
 .vr-tag {
   display: inline-block;
   border: 1px solid var(--vr-red);

@@ -1,9 +1,9 @@
 {
-  "baseUrl": "http://127.0.0.1:4177/",
-  "testedAt": "2026-09-30T05:58:37.676Z",
+  "baseUrl": "http://127.0.0.1:5070/",
+  "testedAt": "2026-10-02T04:08:29.345Z",
   "passed": 5,
   "checks": [
-    "desktop: 5 frozen storyboard frames; skip exited and released motion DOM in 38.0ms",
+    "desktop: 5 frozen storyboard frames; skip exited and released motion DOM in 37.8ms",
     "session: reload bypasses the opening and restores the map directly",
     "mobile: 4 storyboard frames, 44px skip target, one bounded Three.js canvas and no horizontal overflow",
     "constrained replacement: static paper renders without the motion chunk or canvas",

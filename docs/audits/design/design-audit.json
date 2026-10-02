@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-02T02:44:00.221Z",
+  "generatedAt": "2026-10-02T04:25:47.389Z",
   "story": "hub-zhy",
   "firstScreenBytes": 320902,
-  "total": 100,
+  "total": 96,
   "max": 100,
   "threshold": 85,
   "categories": [
@@ -63,7 +63,7 @@
       "max": 2,
       "items": [
         {
-          "label": "一页字号数量 ≤10（实测 9）",
+          "label": "一页字号数量 ≤10（实测 8）",
           "pass": true,
           "score": 2
         }
@@ -211,7 +211,7 @@
           "score": 3
         },
         {
-          "label": "状态播报齐备（aria-live/status/alert 1 处）",
+          "label": "状态播报齐备（aria-live/status/alert 2 处）",
           "pass": true,
           "score": 2
         }
@@ -222,9 +222,9 @@
       "max": 8,
       "items": [
         {
-          "label": "LCP ≤2500ms（实测 2388ms；FCP 1800ms）",
-          "pass": true,
-          "score": 4
+          "label": "LCP ≤2500ms（实测 13904ms；FCP 13580ms）",
+          "pass": false,
+          "score": 0
         },
         {
           "label": "CLS ≤0.1（实测 0）",
@@ -254,7 +254,7 @@
       "max": 4,
       "items": [
         {
-          "label": "间距落在 4px 基准（实测 91%，200/220）",
+          "label": "间距落在 4px 基准（实测 92%，189/205）",
           "pass": true,
           "score": 4
         }
@@ -264,7 +264,7 @@
   "measurements": {
     "desktopStory": {
       "paragraph": {
-        "family": "\"Noto Serif SC\", \"Source Han Serif SC\", \"Songti SC\", SimSun, serif",
+        "family": "\"Songti SC\", \"Noto Serif SC\", \"Source Han Serif SC\", \"Source Han Serif CN\", SimSun, serif",
         "size": "17px",
         "lineHeight": "34px",
         "indent": "34px",
@@ -276,7 +276,7 @@
       },
       "summaryContrast": 10.38,
       "heading": {
-        "family": "\"Noto Serif SC\", \"Source Han Serif SC\", \"Songti SC\", SimSun, serif",
+        "family": "\"Songti SC\", \"Noto Serif SC\", \"Source Han Serif SC\", \"Source Han Serif CN\", SimSun, serif",
         "size": "44px",
         "contrast": 14.39
       },
@@ -289,7 +289,6 @@
         14,
         16,
         17,
-        18,
         20,
         24,
         28,
@@ -304,7 +303,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 45,
+      "transitioned": 44,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -320,10 +319,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 3008,
-        "cls": 0.002,
-        "fcpMs": 2784,
-        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
+        "lcpMs": 32732,
+        "cls": 0,
+        "fcpMs": 20056,
+        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
         "h1": 44,
@@ -333,9 +332,9 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 220,
-        "onGrid": 200,
-        "ratio": 91
+        "total": 205,
+        "onGrid": 189,
+        "ratio": 92
       },
       "zoom": {
         "trigger": true,
@@ -344,7 +343,7 @@
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 1
+        "ariaLive": 2
       },
       "overflow": 0,
       "zoomWaited": true
@@ -358,7 +357,7 @@
     },
     "mobileStory": {
       "paragraph": {
-        "family": "\"Noto Serif SC\", \"Source Han Serif SC\", \"Songti SC\", SimSun, serif",
+        "family": "\"Songti SC\", \"Noto Serif SC\", \"Source Han Serif SC\", \"Source Han Serif CN\", SimSun, serif",
         "size": "17px",
         "lineHeight": "34px",
         "indent": "34px",
@@ -370,7 +369,7 @@
       },
       "summaryContrast": 10.38,
       "heading": {
-        "family": "\"Noto Serif SC\", \"Source Han Serif SC\", \"Songti SC\", SimSun, serif",
+        "family": "\"Songti SC\", \"Noto Serif SC\", \"Source Han Serif SC\", \"Source Han Serif CN\", SimSun, serif",
         "size": "28px",
         "contrast": 14.39
       },
@@ -414,10 +413,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 3008,
+        "lcpMs": 42912,
         "cls": 0.002,
-        "fcpMs": 2784,
-        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
+        "fcpMs": 20056,
+        "lcpElement": "img 5d65b279c1f72376-card-w675.webp | relative h-full w-full object-contain  | "
       },
       "hierarchy": {
         "h1": 28,
@@ -539,10 +538,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 2388,
+        "lcpMs": 13904,
         "cls": 0,
-        "fcpMs": 1800,
-        "lcpElement": "text | [object SVGAnimatedString] | 山河入画"
+        "fcpMs": 13580,
+        "lcpElement": "h1 |  | 山河入画"
       },
       "hierarchy": {
         "h1": null,
@@ -552,8 +551,8 @@
         "h2Ratio": null
       },
       "spacing": {
-        "total": 381,
-        "onGrid": 72,
+        "total": 384,
+        "onGrid": 74,
         "ratio": 19
       },
       "zoom": {
@@ -574,7 +573,6 @@
       "paper": null,
       "distinctSizes": [
         9,
-        10,
         11,
         16,
         29
@@ -641,7 +639,7 @@
           "text": "苏"
         }
       ],
-      "belowTwelveCount": 37,
+      "belowTwelveCount": 36,
       "images": {
         "total": 1,
         "missingAlt": 0,
@@ -666,10 +664,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 2388,
+        "lcpMs": 19032,
         "cls": 0,
-        "fcpMs": 1800,
-        "lcpElement": "text | [object SVGAnimatedString] | 山河入画"
+        "fcpMs": 13580,
+        "lcpElement": "text | [object SVGAnimatedString] | 藏"
       },
       "hierarchy": {
         "h1": null,
@@ -679,7 +677,7 @@
         "h2Ratio": null
       },
       "spacing": {
-        "total": 387,
+        "total": 386,
         "onGrid": 62,
         "ratio": 16
       },
@@ -696,7 +694,7 @@
     },
     "reducedMotion": {
       "paragraph": {
-        "family": "\"Noto Serif SC\", \"Source Han Serif SC\", \"Songti SC\", SimSun, serif",
+        "family": "\"Songti SC\", \"Noto Serif SC\", \"Source Han Serif SC\", \"Source Han Serif CN\", SimSun, serif",
         "size": "17px",
         "lineHeight": "34px",
         "indent": "34px",
@@ -708,7 +706,7 @@
       },
       "summaryContrast": 10.38,
       "heading": {
-        "family": "\"Noto Serif SC\", \"Source Han Serif SC\", \"Songti SC\", SimSun, serif",
+        "family": "\"Songti SC\", \"Noto Serif SC\", \"Source Han Serif SC\", \"Source Han Serif CN\", SimSun, serif",
         "size": "44px",
         "contrast": 14.39
       },
@@ -721,7 +719,6 @@
         14,
         16,
         17,
-        18,
         20,
         24,
         28,
@@ -750,10 +747,10 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "lcpMs": 700,
-        "cls": 0.002,
-        "fcpMs": 584,
-        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
+        "lcpMs": 9516,
+        "cls": 0,
+        "fcpMs": 5172,
+        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
         "h1": 44,
@@ -763,18 +760,18 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 220,
-        "onGrid": 200,
-        "ratio": 91
+        "total": 205,
+        "onGrid": 189,
+        "ratio": 92
       },
       "zoom": {
-        "trigger": true,
-        "statuses": 1
+        "trigger": false,
+        "statuses": 0
       },
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 1
+        "ariaLive": 2
       },
       "overflow": 0
     }

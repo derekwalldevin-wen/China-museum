@@ -94,7 +94,6 @@ function makeParticles(aspect: number, count: number) {
 export default function InkScrollIntro({ onReady, onComplete, onFailure, onPhase }: Props) {
   const hostRef = useRef<HTMLDivElement>(null);
   const callbacksRef = useRef({ onReady, onComplete, onFailure, onPhase });
-  const [rendererReady, setRendererReady] = useState(false);
   const [paintLoaded, setPaintLoaded] = useState(false);
   useEffect(() => {
     callbacksRef.current = { onReady, onComplete, onFailure, onPhase };
@@ -217,7 +216,6 @@ export default function InkScrollIntro({ onReady, onComplete, onFailure, onPhase
       observer.observe(host);
       resize();
       renderer.render(scene, camera);
-      setRendererReady(true);
       callbacksRef.current.onReady();
       performance.mark('huaxia:intro:motion-ready');
       window.addEventListener('huaxia:intro-test-time', onTestTime);
@@ -230,11 +228,12 @@ export default function InkScrollIntro({ onReady, onComplete, onFailure, onPhase
   }, []);
 
   return <div ref={hostRef} className="ink-intro-motion" data-intro-motion aria-hidden="true">
-    {rendererReady && <picture className="ink-intro-paint">
+    {/* 画作不等 WebGL 就绪：它是 LCP 元素，越早开始下载越好（渲染层随后叠上来） */}
+    <picture className="ink-intro-paint">
       <source media="(max-width: 600px)" srcSet="/art/shanhe-handscroll-mobile.jpg" />
-      <img className={paintLoaded ? 'is-loaded' : ''} src="/art/shanhe-handscroll-desktop.jpg" alt="" decoding="async"
+      <img className={paintLoaded ? 'is-loaded' : ''} src="/art/shanhe-handscroll-desktop.jpg" alt="" decoding="async" fetchPriority="high"
         onLoad={() => setPaintLoaded(true)} onError={() => setPaintLoaded(false)} />
-    </picture>}
+    </picture>
     {paintLoaded && <small className="ink-intro-art-credit">山水画面为 AI 创作</small>}
   </div>;
 }

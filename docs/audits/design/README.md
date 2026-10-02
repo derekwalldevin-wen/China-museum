@@ -43,6 +43,18 @@ node scripts/design-audit.mjs
 6. **就绪条件必须按路由判定**：故事路由上地图的 34 个省份也在 DOM 里，用 `or` 连接会让条件被地图提前满足，导致在故事尚未挂载时就开始测量。
 7. **LCP/CLS 必须冷启动测量**：禁用 HTTP 缓存。热缓存下首页 LCP 会得到 140ms 这种失真数字，冷启动才是 2.4s 量级。
 8. **异步出现的交互入口要等**：作品图放大按钮随图片元数据异步出现（线上比本地慢），等待后再取数。
+9. **第三方字体可能比页面本身还慢**：本环境实测 Google Fonts 样式表请求要 **16.7 秒**，把 `document load` 拖到 17 秒（首帧实测只要 134ms 就能挂载）。已彻底移除第三方字体，改用系统字体栈。
+10. **线上 LCP 要按限速档解释**：从本机测线上冷启动得到 5–14 秒，但同环境第三方请求要 16.7 秒 → 那是本机到 CDN 的网络问题，不是页面问题。下一步用 `Network.emulateNetworkConditions` 做限速测量，才能得到网络无关的可比数字。
+
+## 排版与字体的自包含决策
+
+**不再引用任何第三方字体**（`fonts.googleapis.com` 已从两个入口 HTML 移除）。字体栈全部落到系统字体：
+
+- 衬线（正文）：`'Songti SC', 'Noto Serif SC', 'Source Han Serif SC', 'Source Han Serif CN', 'SimSun', serif`
+- 无衬线（界面）：`-apple-system, 'PingFang SC', 'HarmonyOS Sans SC', 'Microsoft YaHei', 'Noto Sans SC', system-ui, sans-serif`
+- 题字：`'KaiTi', 'STKaiti', 'Kaiti SC', serif`
+
+代价与收益：代价是各平台字形略有差异（Windows 宋体 / macOS 宋体-简 / Linux 思源宋体）；收益是**零第三方请求**、首帧从 1.8 秒降到百毫秒级、`document load` 从 17 秒降到 0.17 秒，且没有隐私与可用性风险。
 
 ## v4 仍覆盖不到的部分（诚实说明）
 

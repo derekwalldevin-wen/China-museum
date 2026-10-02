@@ -11,13 +11,30 @@
     <meta property="og:image" content="./og-cover.png" />
     <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
     <link rel="manifest" href="./site.webmanifest" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;700&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet" />
+    <!-- 不依赖第三方字体：中文字体包体积大，线上实测该请求会让 document load 拖到十几秒。
+         改用系统字体栈（正文衬线 + 界面无衬线 + 楷体作题字），页面自包含。 -->
     <title>华夏博物志 · 中国博物馆手卷舆图</title>
+    <style>
+      /* 首屏海报：纯 HTML + 内联关键 CSS，不等 JS、不等网络字体就能画出第一帧。
+         这是 FCP/LCP 的关键路径；React 一旦渲染出内容（#root 非空）即自动隐藏。 */
+      #root:not(:empty) ~ .boot-poster { display: none; }
+      .boot-poster {
+        position: fixed; inset: 0; z-index: 4; display: grid; place-content: center; gap: 16px;
+        text-align: center; background: radial-gradient(circle at 52% 40%, #161a16 0%, #080a09 62%);
+        color: #efe6cf; font-family: 'Noto Serif SC', 'Songti SC', 'SimSun', serif;
+      }
+      .boot-poster b { font-family: 'Ma Shan Zheng', 'KaiTi', 'STKaiti', serif; font-weight: 400; font-size: clamp(34px, 7vw, 64px); letter-spacing: .2em; text-indent: .2em; }
+      .boot-poster span { display: block; font-size: 12px; letter-spacing: .34em; color: rgba(239, 230, 207, .55); }
+      .boot-poster i { display: block; width: 56px; height: 1px; margin: 18px auto 0; background: linear-gradient(90deg, transparent, rgba(169, 52, 36, .9), transparent); }
+    </style>
   </head>
   <body>
     <div id="root"></div>
+    <div class="boot-poster" aria-hidden="true">
+      <b>山河入画</b>
+      <span>循一方水土 · 寻一件文明</span>
+      <i></i>
+    </div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
