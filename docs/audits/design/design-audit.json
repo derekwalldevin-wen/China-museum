@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T06:34:51.105Z",
+  "generatedAt": "2026-10-02T06:45:55.946Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307630,
   "mainCssBytes": 70505,
-  "total": 98,
+  "total": 100,
   "max": 100,
   "threshold": 85,
   "categories": [
@@ -249,7 +249,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1216ms；FCP 1216ms；不限速 984ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1368ms；FCP 1228ms；不限速 1072ms）",
           "pass": true,
           "score": 4
         },
@@ -259,9 +259,9 @@
           "score": 2
         },
         {
-          "label": "交互期间无长任务（实测最长 170ms，2 个；端到端事件最大值 888ms 仅作参考，无头环境派发开销会主导该值）",
-          "pass": false,
-          "score": 0
+          "label": "交互归因长任务 ≤50ms（点击后 250ms 窗口内实测最长 0ms／0 个；全页长任务最长 0ms 仅参考）",
+          "pass": true,
+          "score": 2
         }
       ]
     },
@@ -288,7 +288,17 @@
         {
           "label": "间距落在 4px 基准（实测 92%，189/205）",
           "pass": true,
-          "score": 4
+          "score": 2
+        },
+        {
+          "label": "圆角取值收敛（实测 0 种：直角版式）",
+          "pass": true,
+          "score": 1
+        },
+        {
+          "label": "阴影取值收敛（实测 1 种）",
+          "pass": true,
+          "score": 1
         }
       ]
     }
@@ -353,9 +363,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 3720,
+        "lcpMs": 3512,
         "cls": 0,
-        "fcpMs": 2424,
+        "fcpMs": 2020,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -369,6 +379,14 @@
         "total": 205,
         "onGrid": 189,
         "ratio": 92
+      },
+      "tokens": {
+        "radii": 0,
+        "shadows": 1,
+        "radiusValues": [],
+        "shadowValues": [
+          "rgba(0, 0, 0, 0.2) 0px 10px 50px 0px"
+        ]
       },
       "mapLabels": {
         "short": null,
@@ -394,10 +412,19 @@
       "focusInside": true
     },
     "interaction": {
-      "longTaskMax": 170,
-      "longTaskCount": 2,
-      "eventMax": 888,
-      "eventCount": 30
+      "attributedMax": 0,
+      "attributedCount": 0,
+      "detail": [
+        {
+          "selector": ".story-index a",
+          "tasks": []
+        },
+        {
+          "selector": ".story-reflection button",
+          "tasks": []
+        }
+      ],
+      "allLongTaskMax": 0
     },
     "mobileStory": {
       "paragraph": {
@@ -457,11 +484,11 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 888,
+        "inpMs": 824,
         "eventCount": 54,
-        "lcpMs": 3720,
+        "lcpMs": 3512,
         "cls": 0.002,
-        "fcpMs": 2424,
+        "fcpMs": 2020,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -475,6 +502,15 @@
         "total": 220,
         "onGrid": 200,
         "ratio": 91
+      },
+      "tokens": {
+        "radii": 0,
+        "shadows": 2,
+        "radiusValues": [],
+        "shadowValues": [
+          "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0",
+          "rgba(0, 0, 0, 0.2) 0px 10px 50px 0px"
+        ]
       },
       "mapLabels": {
         "short": {
@@ -595,9 +631,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 984,
+        "lcpMs": 1072,
         "cls": 0,
-        "fcpMs": 904,
+        "fcpMs": 1072,
         "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
@@ -612,6 +648,7 @@
         "onGrid": 76,
         "ratio": 20
       },
+      "tokens": null,
       "mapLabels": {
         "short": {
           "css": 11,
@@ -692,9 +729,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 3076,
+        "lcpMs": 3160,
         "cls": 0,
-        "fcpMs": 904,
+        "fcpMs": 1072,
         "lcpElement": "img shanhe-handscroll-mobile.jpg | is-loaded | "
       },
       "hierarchy": {
@@ -709,6 +746,7 @@
         "onGrid": 64,
         "ratio": 16
       },
+      "tokens": null,
       "mapLabels": {
         "short": {
           "css": 20,
@@ -786,9 +824,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1264,
+        "lcpMs": 1304,
         "cls": 0.002,
-        "fcpMs": 560,
+        "fcpMs": 572,
         "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
@@ -802,6 +840,15 @@
         "total": 220,
         "onGrid": 200,
         "ratio": 91
+      },
+      "tokens": {
+        "radii": 0,
+        "shadows": 2,
+        "radiusValues": [],
+        "shadowValues": [
+          "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0",
+          "rgba(0, 0, 0, 0.2) 0px 10px 50px 0px"
+        ]
       },
       "mapLabels": {
         "short": {
@@ -925,10 +972,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1216,
+        "lcpMs": 1368,
         "cls": 0,
-        "fcpMs": 1216,
-        "lcpElement": "b |  | 山河入画"
+        "fcpMs": 1228,
+        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
         "h1": null,
@@ -942,6 +989,7 @@
         "onGrid": 74,
         "ratio": 19
       },
+      "tokens": null,
       "mapLabels": {
         "short": {
           "css": 11,

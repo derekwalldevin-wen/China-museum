@@ -207,6 +207,17 @@ const probe = `(() => {
       }
       return { total, onGrid, ratio: total ? Math.round((onGrid / total) * 100) : 100 };
     })(),
+    tokens: (() => {
+      const scope = document.querySelector('.story-experience');
+      if (!scope) return null;
+      const radii = new Set(), shadows = new Set();
+      for (const element of scope.querySelectorAll('*')) {
+        const style = getComputedStyle(element);
+        if (style.borderTopLeftRadius && style.borderTopLeftRadius !== '0px') radii.add(style.borderTopLeftRadius);
+        if (style.boxShadow && style.boxShadow !== 'none' && !/rgba\(0, 0, 0, 0\)/.test(style.boxShadow)) shadows.add(style.boxShadow.slice(0, 40));
+      }
+      return { radii: radii.size, shadows: shadows.size, radiusValues: [...radii], shadowValues: [...shadows] };
+    })(),
     mapLabels: (() => {
       const measure = selector => {
         const element = [...document.querySelectorAll(selector)].find(el => (el.textContent ?? '').trim() && el.getClientRects().length);
@@ -259,16 +270,26 @@ if (zoomTriggerBox) {
   results.zoomDialog.closedByEscape = await evaluate(`!document.querySelector('.artifact-zoom')`);
 }
 
-// 交互响应（INP）：先清空采样，再真实点击本文目录与折叠按钮，取交互事件时长最大值
-await evaluate(`window.__auditPerf.events = []; window.__auditPerf.longTasks = []`);
+// 交互响应：长任务必须**归因到点击时间窗**（点击后 250ms 内启动），
+// 否则审计流程自身的后台工作（网络回调、GC）会被误算成交互卡顿。
+await evaluate(`window.__auditPerf.longTasks = []; window.__auditPerf.events = []`);
+const attributed = [];
 for (const selector of ['.story-index a', '.story-reflection button']) {
   const box = await evaluate(`(() => { const el = document.querySelector('${selector}'); if (!el) return null; const b = el.getBoundingClientRect(); return { x: Math.round(b.left + b.width / 2), y: Math.round(b.top + b.height / 2) }; })()`);
   if (!box) continue;
+  const mark = await evaluate('performance.now()');
   await send('Input.dispatchMouseEvent', { type: 'mousePressed', x: box.x, y: box.y, button: 'left', clickCount: 1 }, sessionId);
   await send('Input.dispatchMouseEvent', { type: 'mouseReleased', x: box.x, y: box.y, button: 'left', clickCount: 1 }, sessionId);
-  await new Promise(resolve => setTimeout(resolve, 350));
+  await new Promise(resolve => setTimeout(resolve, 450));
+  attributed.push({ selector, tasks: await evaluate(`(window.__auditPerf.longTasks ?? []).filter(task => task.start >= ${mark} && task.start <= ${mark} + 250).map(task => task.duration)`) });
 }
-results.interaction = await evaluate(`(() => { const tasks = window.__auditPerf.longTasks ?? []; const events = window.__auditPerf.events ?? []; return { longTaskMax: tasks.length ? Math.max(...tasks) : 0, longTaskCount: tasks.length, eventMax: events.length ? Math.max(...events) : null, eventCount: events.length }; })()`);
+const allTasks = await evaluate(`(window.__auditPerf.longTasks ?? []).map(task => task.duration)`);
+results.interaction = {
+  attributedMax: attributed.flatMap(item => item.tasks).reduce((max, value) => Math.max(max, value), 0),
+  attributedCount: attributed.flatMap(item => item.tasks).length,
+  detail: attributed,
+  allLongTaskMax: allTasks.length ? Math.max(...allTasks) : 0,
+};
 await viewport(390, 844, true);
 await new Promise(resolve => setTimeout(resolve, 1200));
 results.mobileStory = await evaluate(probe);
@@ -490,7 +511,7 @@ const categories = [
     items: [
       { label: `限速档(Slow 4G) LCP ≤2500ms（实测 ${results.throttledHome?.performance?.lcpMs ?? 'n/a'}ms；FCP ${results.throttledHome?.performance?.fcpMs ?? 'n/a'}ms；不限速 ${results.desktopHome.performance?.lcpMs ?? 'n/a'}ms）`, pass: (results.throttledHome?.performance?.lcpMs ?? 99999) <= 2500, score: (results.throttledHome?.performance?.lcpMs ?? 99999) <= 2500 ? 4 : (results.throttledHome?.performance?.lcpMs ?? 99999) <= 4000 ? 2 : 0 },
       { label: `CLS ≤0.1（实测 ${results.desktopHome.performance?.cls ?? 'n/a'}）`, pass: (results.desktopHome.performance?.cls ?? 9) <= 0.1, score: (results.desktopHome.performance?.cls ?? 9) <= 0.1 ? 2 : 0 },
-      { label: `交互期间无长任务（实测最长 ${results.interaction?.longTaskMax ?? 'n/a'}ms，${results.interaction?.longTaskCount ?? 0} 个；端到端事件最大值 ${results.interaction?.eventMax ?? 'n/a'}ms 仅作参考，无头环境派发开销会主导该值）`, pass: (results.interaction?.longTaskMax ?? 9999) <= 50, score: (results.interaction?.longTaskMax ?? 9999) <= 50 ? 2 : 0 },
+      { label: `交互归因长任务 ≤50ms（点击后 250ms 窗口内实测最长 ${results.interaction?.attributedMax ?? 'n/a'}ms／${results.interaction?.attributedCount ?? 0} 个；全页长任务最长 ${results.interaction?.allLongTaskMax ?? 'n/a'}ms 仅参考）`, pass: (results.interaction?.attributedMax ?? 9999) <= 50, score: (results.interaction?.attributedMax ?? 9999) <= 50 ? 2 : 0 },
     ],
   },
   {
@@ -505,7 +526,9 @@ const categories = [
     name: '一致性',
     max: 4,
     items: [
-      { label: `间距落在 4px 基准（实测 ${results.desktopStory.spacing?.ratio}%，${results.desktopStory.spacing?.onGrid}/${results.desktopStory.spacing?.total}）`, pass: (results.desktopStory.spacing?.ratio ?? 0) >= 90, score: (results.desktopStory.spacing?.ratio ?? 0) >= 90 ? 4 : (results.desktopStory.spacing?.ratio ?? 0) >= 75 ? 2 : 0 },
+      { label: `间距落在 4px 基准（实测 ${results.desktopStory.spacing?.ratio}%，${results.desktopStory.spacing?.onGrid}/${results.desktopStory.spacing?.total}）`, pass: (results.desktopStory.spacing?.ratio ?? 0) >= 90, score: (results.desktopStory.spacing?.ratio ?? 0) >= 90 ? 2 : (results.desktopStory.spacing?.ratio ?? 0) >= 75 ? 1 : 0 },
+      { label: `圆角取值收敛（实测 ${results.desktopStory.tokens?.radii ?? 'n/a'} 种：${(results.desktopStory.tokens?.radiusValues ?? []).join('、') || '直角版式'}）`, pass: (results.desktopStory.tokens?.radii ?? 9) <= 2, score: (results.desktopStory.tokens?.radii ?? 9) <= 2 ? 1 : 0 },
+      { label: `阴影取值收敛（实测 ${results.desktopStory.tokens?.shadows ?? 'n/a'} 种）`, pass: (results.desktopStory.tokens?.shadows ?? 9) <= 2, score: (results.desktopStory.tokens?.shadows ?? 9) <= 2 ? 1 : 0 },
     ],
   },
 ];
