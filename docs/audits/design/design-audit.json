@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T08:26:58.515Z",
+  "generatedAt": "2026-10-02T08:35:18.182Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307674,
   "mainCssBytes": 70399,
@@ -183,7 +183,7 @@
           "score": 2
         },
         {
-          "label": "首页像素级对比度全部 ≥4.5（地图省简称 7.66／件数 4.92／荐读标题 10.3／荐读说明 7.81）",
+          "label": "首页像素级对比度全部 ≥4.5（地图省简称 7.58／件数 4.92／荐读标题 10.3／荐读说明 7.81）",
           "pass": true,
           "score": 2
         }
@@ -331,7 +331,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1728ms；FCP 1728ms；不限速 3576ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 844ms；FCP 844ms；不限速 800ms）",
           "pass": true,
           "score": 4
         },
@@ -446,10 +446,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 5616,
+        "lcpMs": 5524,
         "cls": 0.002,
-        "fcpMs": 2960,
-        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
+        "fcpMs": 3180,
+        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
       },
       "hierarchy": {
         "h1": 44,
@@ -600,12 +600,12 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 160,
-        "eventCount": 48,
-        "lcpMs": 5616,
+        "inpMs": 64,
+        "eventCount": 28,
+        "lcpMs": 5524,
         "cls": 0.002,
-        "fcpMs": 2960,
-        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
+        "fcpMs": 3180,
+        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
       },
       "hierarchy": {
         "h1": 28,
@@ -765,10 +765,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 3576,
+        "lcpMs": 800,
         "cls": 0,
-        "fcpMs": 1652,
-        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
+        "fcpMs": 800,
+        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
         "h1": null,
@@ -893,9 +893,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 3824,
+        "lcpMs": 2624,
         "cls": 0,
-        "fcpMs": 1652,
+        "fcpMs": 800,
         "lcpElement": "img | is-loaded | "
       },
       "hierarchy": {
@@ -1001,9 +1001,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1488,
+          "lcpMs": 1188,
           "cls": 0,
-          "fcpMs": 736,
+          "fcpMs": 528,
           "lcpElement": "h1 |  | 从一个问题，走进千年生活。"
         },
         "hierarchy": {
@@ -1110,10 +1110,10 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 2832,
+          "lcpMs": 1704,
           "cls": 0.001,
-          "fcpMs": 1848,
-          "lcpElement": "p |  | 从汉代灯具的结构出发，走到清宫新年的案头：灯怎么"
+          "fcpMs": 568,
+          "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
         },
         "hierarchy": {
           "h1": 32,
@@ -1215,9 +1215,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 960,
+          "lcpMs": 796,
           "cls": 0,
-          "fcpMs": 960,
+          "fcpMs": 796,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1300,9 +1300,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 560,
+          "lcpMs": 600,
           "cls": 0,
-          "fcpMs": 560,
+          "fcpMs": 600,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1367,7 +1367,7 @@
       "note": 8.99
     },
     "pixelContrast": {
-      "mapShort": 7.66,
+      "mapShort": 7.58,
       "mapCount": 4.92,
       "beaconTitle": 10.3,
       "beaconText": 7.81
@@ -1399,6 +1399,7 @@
         14,
         16,
         17,
+        18,
         20,
         24,
         28,
@@ -1429,9 +1430,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 2156,
-        "cls": 0,
-        "fcpMs": 904,
+        "lcpMs": 1404,
+        "cls": 0.002,
+        "fcpMs": 728,
         "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
@@ -1442,9 +1443,9 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 205,
-        "onGrid": 189,
-        "ratio": 92
+        "total": 220,
+        "onGrid": 200,
+        "ratio": 91
       },
       "kinsoku": {
         "lines": 42,
@@ -1466,9 +1467,10 @@
       },
       "tokens": {
         "radii": 0,
-        "shadows": 1,
+        "shadows": 2,
         "radiusValues": [],
         "shadowValues": [
+          "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0",
           "rgba(0, 0, 0, 0.2) 0px 10px 50px 0px"
         ]
       },
@@ -1485,13 +1487,13 @@
         }
       },
       "zoom": {
-        "trigger": false,
-        "statuses": 0
+        "trigger": true,
+        "statuses": 1
       },
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 2
+        "ariaLive": 1
       },
       "overflow": 0
     },
@@ -1594,9 +1596,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1728,
+        "lcpMs": 844,
         "cls": 0,
-        "fcpMs": 1728,
+        "fcpMs": 844,
         "lcpElement": "b |  | 山河入画"
       },
       "hierarchy": {

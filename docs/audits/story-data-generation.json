@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-02T08:19:37.980Z",
+ "generatedAt": "2026-10-02T08:29:16.388Z",
  "inputs": [
   {
    "path": "src/data/stories.json",
@@ -283,8 +283,8 @@
   },
   {
    "path": "src/data/stories-batch60.json",
-   "bytes": 18688,
-   "sha256": "99122d068bd7eb2fac23a550e4bd4056ecb79cea9b8a1560011e3d46088bd687"
+   "bytes": 18704,
+   "sha256": "aee7fdd8655dd110a6bbe6246a09030504e6db95b5d14a22191d601792d730aa"
   },
   {
    "path": "src/data/stories-batch61.json",
@@ -347,7 +347,7 @@
  "payloads": {
   "directory": "src/data/story-payloads",
   "count": 218,
-  "totalBytes": 1450688,
+  "totalBytes": 1450704,
   "maxBytes": 15841,
   "files": [
    {
@@ -1669,8 +1669,8 @@
    {
     "id": "qz-mbs",
     "path": "src/data/story-payloads/qz-mbs.json",
-    "bytes": 5704,
-    "sha256": "9e559d18050ea9afe03e8872baeab49e3fa6831ff3b445696ecf588f37e9c4ad",
+    "bytes": 5720,
+    "sha256": "1fec3be86bbc390fad1f3b910231f169835ff73f686912eee5e10fb7b2cd9ebe",
     "sources": 1
    },
    {
