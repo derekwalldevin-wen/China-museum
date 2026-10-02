@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-02T07:43:00.090Z",
+  "generatedAt": "2026-10-02T07:59:43.912Z",
   "story": "hub-zhy",
-  "firstScreenBytes": 307630,
-  "mainCssBytes": 70505,
+  "firstScreenBytes": 307674,
+  "mainCssBytes": 70399,
   "total": 100,
   "max": 100,
   "threshold": 85,
@@ -19,7 +19,7 @@
         {
           "label": "故事目录页无 <12px 文本（桌面 0／390 0）",
           "pass": true,
-          "score": 2
+          "score": 1
         },
         {
           "label": "访客记录页 1 个 h1 且 390 无溢出（实测 1 个／0px）",
@@ -29,7 +29,17 @@
         {
           "label": "访客记录页无 <12px 文本（桌面 0／390 0）",
           "pass": true,
-          "score": 2
+          "score": 1
+        },
+        {
+          "label": "馆藏面板·桌面无 <12px 且无低对比文字（0 处／0 处，最低 6.05）",
+          "pass": true,
+          "score": 1
+        },
+        {
+          "label": "馆藏面板·390 无 <12px 且无低对比文字（0 处／0 处，最低 6.05）",
+          "pass": true,
+          "score": 1
         }
       ]
     },
@@ -137,7 +147,7 @@
       "max": 2,
       "items": [
         {
-          "label": "一页字号数量 ≤10（实测 9）",
+          "label": "一页字号数量 ≤10（实测 8）",
           "pass": true,
           "score": 2
         }
@@ -158,7 +168,7 @@
           "score": 3
         },
         {
-          "label": "首页像素级对比度全部 ≥4.5（地图省简称 7.66／件数 4.92／荐读标题 10.3／荐读说明 7.81）",
+          "label": "首页像素级对比度全部 ≥4.5（地图省简称 7.51／件数 4.92／荐读标题 10.3／荐读说明 7.81）",
           "pass": true,
           "score": 2
         }
@@ -295,7 +305,7 @@
           "score": 3
         },
         {
-          "label": "状态播报齐备（aria-live/status/alert 1 处）",
+          "label": "状态播报齐备（aria-live/status/alert 2 处）",
           "pass": true,
           "score": 2
         }
@@ -306,7 +316,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 812ms；FCP 812ms；不限速 160ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1004ms；FCP 1004ms；不限速 1272ms）",
           "pass": true,
           "score": 4
         },
@@ -343,7 +353,7 @@
       "max": 4,
       "items": [
         {
-          "label": "间距落在 4px 基准（实测 91%，200/220）",
+          "label": "间距落在 4px 基准（实测 92%，189/205）",
           "pass": true,
           "score": 2
         },
@@ -353,7 +363,7 @@
           "score": 1
         },
         {
-          "label": "阴影取值收敛（实测 2 种）",
+          "label": "阴影取值收敛（实测 1 种）",
           "pass": true,
           "score": 1
         }
@@ -388,7 +398,6 @@
         14,
         16,
         17,
-        18,
         20,
         24,
         28,
@@ -403,7 +412,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 45,
+      "transitioned": 44,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -421,10 +430,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 396,
-        "cls": 0.002,
-        "fcpMs": 52,
-        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
+        "lcpMs": 7428,
+        "cls": 0,
+        "fcpMs": 4160,
+        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
       },
       "hierarchy": {
         "h1": 44,
@@ -434,9 +443,9 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 220,
-        "onGrid": 200,
-        "ratio": 91
+        "total": 205,
+        "onGrid": 189,
+        "ratio": 92
       },
       "mapHit": {
         "count": 34,
@@ -458,10 +467,9 @@
       },
       "tokens": {
         "radii": 0,
-        "shadows": 2,
+        "shadows": 1,
         "radiusValues": [],
         "shadowValues": [
-          "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0",
           "rgba(0, 0, 0, 0.2) 0px 10px 50px 0px"
         ]
       },
@@ -484,7 +492,7 @@
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 1
+        "ariaLive": 2
       },
       "overflow": 0,
       "zoomWaited": true
@@ -569,12 +577,12 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 232,
-        "eventCount": 48,
-        "lcpMs": 396,
-        "cls": 0.002,
-        "fcpMs": 52,
-        "lcpElement": "img aa18ac07eeab5ed2-detail-w1200.webp | relative w-full h-full object-contain op | "
+        "inpMs": 288,
+        "eventCount": 28,
+        "lcpMs": 7428,
+        "cls": 0,
+        "fcpMs": 4160,
+        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
       },
       "hierarchy": {
         "h1": 28,
@@ -728,9 +736,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 160,
+        "lcpMs": 1272,
         "cls": 0,
-        "fcpMs": 160,
+        "fcpMs": 1196,
         "lcpElement": "h1 |  | 山河入画"
       },
       "hierarchy": {
@@ -850,10 +858,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1572,
+        "lcpMs": 2884,
         "cls": 0,
-        "fcpMs": 160,
-        "lcpElement": "img shanhe-handscroll-mobile.jpg | is-loaded | "
+        "fcpMs": 1196,
+        "lcpElement": "img | is-loaded | "
       },
       "hierarchy": {
         "h1": null,
@@ -952,9 +960,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 376,
+          "lcpMs": 1340,
           "cls": 0,
-          "fcpMs": 136,
+          "fcpMs": 832,
           "lcpElement": "h1 |  | 从一个问题，走进千年生活。"
         },
         "hierarchy": {
@@ -1055,10 +1063,10 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 164,
-          "cls": 0,
-          "fcpMs": 156,
-          "lcpElement": "p |  | 从汉代灯具的结构出发，走到清宫新年的案头：灯怎么"
+          "lcpMs": 1552,
+          "cls": 0.001,
+          "fcpMs": 596,
+          "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
         },
         "hierarchy": {
           "h1": 32,
@@ -1154,9 +1162,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 80,
+          "lcpMs": 732,
           "cls": 0,
-          "fcpMs": 80,
+          "fcpMs": 732,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1233,9 +1241,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 76,
+          "lcpMs": 760,
           "cls": 0,
-          "fcpMs": 76,
+          "fcpMs": 760,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1274,8 +1282,20 @@
         "overflow": 0
       }
     },
+    "panel": {
+      "museumDesktop": {
+        "belowTwelveCount": 0,
+        "contrastMin": 6.05,
+        "lowContrast": 0
+      },
+      "museumMobile": {
+        "belowTwelveCount": 0,
+        "contrastMin": 6.05,
+        "lowContrast": 0
+      }
+    },
     "pixelContrast": {
-      "mapShort": 7.66,
+      "mapShort": 7.51,
       "mapCount": 4.92,
       "beaconTitle": 10.3,
       "beaconText": 7.81
@@ -1338,9 +1358,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 240,
+        "lcpMs": 1444,
         "cls": 0.002,
-        "fcpMs": 144,
+        "fcpMs": 716,
         "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
@@ -1498,9 +1518,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 812,
+        "lcpMs": 1004,
         "cls": 0,
-        "fcpMs": 812,
+        "fcpMs": 1004,
         "lcpElement": "b |  | 山河入画"
       },
       "hierarchy": {

@@ -60,6 +60,27 @@ const waitFor = async (expression, label, timeoutMs = 25000) => {
   }
   throw new Error(`design-audit 等待超时：${label}`);
 };
+// 面板探针：与主探针同口径（可见层、字号下限、文字对比度）
+const panelProbe = `(() => {
+  const scope = document.querySelector('[role="dialog"]') || document.querySelector('.atlas-shell');
+  const pool = [...scope.querySelectorAll('*')].filter(element => !element.closest('[aria-hidden="true"], [inert]'));
+  const parse = value => { const m = value.match(/rgba?\\(([^)]+)\\)/); if (!m) return null; const parts = m[1].split(',').map(Number); return { rgb: parts.slice(0, 3), a: parts.length > 3 ? parts[3] : 1 }; };
+  const lum = ([r, g, b]) => { const f = c => { const s = c / 255; return s <= 0.03928 ? s / 12.92 : Math.pow((s + 0.055) / 1.055, 2.4); }; return 0.2126 * f(r) + 0.7152 * f(g) + 0.0722 * f(b); };
+  const backgroundOf = element => { let node = element; while (node && node !== document.documentElement) { const parsed = parse(getComputedStyle(node).backgroundColor); if (parsed && parsed.a >= 0.9) return parsed.rgb; node = node.parentElement; } return [13, 16, 14]; };
+  const ratio = element => { const fg = parse(getComputedStyle(element).color); if (!fg) return null; const bg = backgroundOf(element); const blended = fg.a >= 0.9 ? fg.rgb : fg.rgb.map((c, i) => Math.round(c * fg.a + bg[i] * (1 - fg.a))); const [hi, lo] = [lum(blended), lum(bg)].sort((a, b) => b - a); return Math.round(((hi + 0.05) / (lo + 0.05)) * 100) / 100; };
+  let below = 0;
+  for (const element of pool) {
+    if (!(element.textContent || '').trim()) continue;
+    const size = parseFloat(getComputedStyle(element).fontSize);
+    if (Number.isFinite(size) && size < 12) below += 1;
+  }
+  const texts = [...scope.querySelectorAll('p, li, h1, h2, h3, dd, dt, span')].filter(element => !element.closest('[aria-hidden="true"], [inert]') && (element.textContent || '').trim().length > 12);
+  const ratios = texts.map(ratio).filter(value => typeof value === 'number');
+  // 大字号（≥24px 或 ≥18.66px 粗体）按 AA 的 3.0 门槛
+  const lowContrast = texts.filter(element => { const value = ratio(element); if (typeof value !== 'number') return false; const style = getComputedStyle(element); const size = parseFloat(style.fontSize); const large = size >= 24 || (size >= 18.66 && parseInt(style.fontWeight, 10) >= 700); return value < (large ? 3 : 4.5); }).length;
+  return { belowTwelveCount: below, contrastMin: ratios.length ? Math.min(...ratios) : null, lowContrast };
+})()`;
+
 const goto = async (url, readyExpression, readyTimeout = 25000) => {
   await send('Page.navigate', { url }, sessionId);
   await waitFor(`document.querySelector('.atlas-shell') || document.querySelector('.story-experience')`, '应用外壳挂载', 30000);
@@ -355,6 +376,26 @@ results.otherPages = otherPages;
 await viewport(1440, 960, false);
 await goto(base, `document.querySelectorAll('g.scroll-province').length === 34`);
 
+// 博物馆详情面板（看文物必经之路）
+const panel = {};
+for (const [device, width, height, mobile] of [['Desktop', 1440, 960, false], ['Mobile', 390, 844, true]]) {
+  await viewport(width, height, mobile);
+  await send('Page.navigate', { url: new URL('?province=北京市&museum=gugong', base).href }, sessionId);
+  await waitFor(`document.querySelector('.atlas-shell')`, '外壳', 30000);
+  if (await evaluate(`!!document.querySelector('.ink-intro-skip')`)) {
+    await evaluate(`document.querySelector('.ink-intro-skip').click()`);
+    await waitFor(`!document.querySelector('[data-ink-intro]')`, '开场退出', 15000);
+  }
+  await waitFor(`!!document.querySelector('[data-artifact-scroll-root], [role="dialog"]')`, '面板就绪', 40000);
+  await new Promise(resolve => setTimeout(resolve, 2000));
+  panel[`museum${device}`] = await evaluate(panelProbe);
+}
+results.panel = panel;
+
+// 回首页再测像素级对比度（面板循环把页面停在了馆藏面板）
+await viewport(1440, 960, false);
+await goto(base, `document.querySelectorAll('g.scroll-province').length === 34`);
+
 results.pixelContrast = {
   mapShort: await pixelContrast('.scroll-label-short'),
   mapCount: await pixelContrast('.scroll-label-count'),
@@ -508,9 +549,11 @@ const categories = [
     max: 6,
     items: [
       { label: `故事目录页 1 个 h1 且 390 无溢出（实测 ${results.otherPages?.directoryDesktop?.structure?.h1Count ?? 'n/a'} 个／${results.otherPages?.directoryMobile?.overflow ?? 'n/a'}px）`, pass: results.otherPages?.directoryDesktop?.structure?.h1Count === 1 && (results.otherPages?.directoryMobile?.overflow ?? 9) <= 1, score: results.otherPages?.directoryDesktop?.structure?.h1Count === 1 && (results.otherPages?.directoryMobile?.overflow ?? 9) <= 1 ? 1 : 0 },
-      { label: `故事目录页无 <12px 文本（桌面 ${results.otherPages?.directoryDesktop?.belowTwelveCount ?? 'n/a'}／390 ${results.otherPages?.directoryMobile?.belowTwelveCount ?? 'n/a'}）`, pass: (results.otherPages?.directoryDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.directoryMobile?.belowTwelveCount ?? 9) === 0, score: (results.otherPages?.directoryDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.directoryMobile?.belowTwelveCount ?? 9) === 0 ? 2 : 0 },
+      { label: `故事目录页无 <12px 文本（桌面 ${results.otherPages?.directoryDesktop?.belowTwelveCount ?? 'n/a'}／390 ${results.otherPages?.directoryMobile?.belowTwelveCount ?? 'n/a'}）`, pass: (results.otherPages?.directoryDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.directoryMobile?.belowTwelveCount ?? 9) === 0, score: (results.otherPages?.directoryDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.directoryMobile?.belowTwelveCount ?? 9) === 0 ? 1 : 0 },
       { label: `访客记录页 1 个 h1 且 390 无溢出（实测 ${results.otherPages?.visitorDesktop?.structure?.h1Count ?? 'n/a'} 个／${results.otherPages?.visitorMobile?.overflow ?? 'n/a'}px）`, pass: results.otherPages?.visitorDesktop?.structure?.h1Count === 1 && (results.otherPages?.visitorMobile?.overflow ?? 9) <= 1, score: results.otherPages?.visitorDesktop?.structure?.h1Count === 1 && (results.otherPages?.visitorMobile?.overflow ?? 9) <= 1 ? 1 : 0 },
-      { label: `访客记录页无 <12px 文本（桌面 ${results.otherPages?.visitorDesktop?.belowTwelveCount ?? 'n/a'}／390 ${results.otherPages?.visitorMobile?.belowTwelveCount ?? 'n/a'}）`, pass: (results.otherPages?.visitorDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.visitorMobile?.belowTwelveCount ?? 9) === 0, score: (results.otherPages?.visitorDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.visitorMobile?.belowTwelveCount ?? 9) === 0 ? 2 : 0 },
+      { label: `访客记录页无 <12px 文本（桌面 ${results.otherPages?.visitorDesktop?.belowTwelveCount ?? 'n/a'}／390 ${results.otherPages?.visitorMobile?.belowTwelveCount ?? 'n/a'}）`, pass: (results.otherPages?.visitorDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.visitorMobile?.belowTwelveCount ?? 9) === 0, score: (results.otherPages?.visitorDesktop?.belowTwelveCount ?? 9) === 0 && (results.otherPages?.visitorMobile?.belowTwelveCount ?? 9) === 0 ? 1 : 0 },
+      { label: `馆藏面板·桌面无 <12px 且无低对比文字（${results.panel?.museumDesktop?.belowTwelveCount ?? 'n/a'} 处／${results.panel?.museumDesktop?.lowContrast ?? 'n/a'} 处，最低 ${results.panel?.museumDesktop?.contrastMin ?? 'n/a'}）`, pass: (results.panel?.museumDesktop?.belowTwelveCount ?? 9) === 0 && (results.panel?.museumDesktop?.lowContrast ?? 9) === 0, score: (results.panel?.museumDesktop?.belowTwelveCount ?? 9) === 0 && (results.panel?.museumDesktop?.lowContrast ?? 9) === 0 ? 1 : 0 },
+      { label: `馆藏面板·390 无 <12px 且无低对比文字（${results.panel?.museumMobile?.belowTwelveCount ?? 'n/a'} 处／${results.panel?.museumMobile?.lowContrast ?? 'n/a'} 处，最低 ${results.panel?.museumMobile?.contrastMin ?? 'n/a'}）`, pass: (results.panel?.museumMobile?.belowTwelveCount ?? 9) === 0 && (results.panel?.museumMobile?.lowContrast ?? 9) === 0, score: (results.panel?.museumMobile?.belowTwelveCount ?? 9) === 0 && (results.panel?.museumMobile?.lowContrast ?? 9) === 0 ? 1 : 0 },
     ],
   },
   {

@@ -383,7 +383,7 @@ export default function App() {
           </div>
           <div className="text-center">
             <div className="font-brush text-3xl text-[#e7dfc9] tracking-wider">华夏博物志</div>
-            <div className="mt-1 font-mono text-[8px] tracking-[0.42em] text-[#b49a63]/70">THE MUSEUM HANDSCROLL</div>
+            <div className="mt-1 font-mono text-[12px] tracking-[0.42em] text-[#b49a63]/78">THE MUSEUM HANDSCROLL</div>
           </div>
           <div className="relative h-px w-52 overflow-hidden bg-[#d8cfb7]/10">
             <div className="absolute inset-y-0 left-0 w-1/3 bg-[#b49a63] animate-[loadSweep_1.6s_ease-in-out_infinite]" />
@@ -423,7 +423,7 @@ export default function App() {
             </div>
             <div>
               <div className="atlas-brand-title font-brush text-lg md:text-xl leading-tight tracking-wide text-[#e7dfc9]">华夏博物志</div>
-              <div className="atlas-brand-subtitle font-mono text-[8px] tracking-[0.32em] text-[#b49a63]/60">山河入画 · 循迹寻珍</div>
+              <div className="atlas-brand-subtitle font-mono text-[12px] tracking-[0.32em] text-[#b49a63]/80">山河入画 · 循迹寻珍</div>
             </div>
           </div>
           <button
@@ -472,14 +472,14 @@ export default function App() {
       </header>
 
       {/* ── 左侧竖排题记 ── */}
-      <div className="absolute left-3 top-1/2 -translate-y-1/2 z-10 pointer-events-none hidden lg:block">
-        <div className="v-text font-serif text-[13px] text-[#efe6cf]/30">
+      <div className="absolute left-3 top-1/2 -translate-y-1/2 z-10 pointer-events-none hidden lg:block" aria-hidden="true">
+        <div className="v-text font-serif text-[13px] text-[#efe6cf]/45">
           山河作序 · 博物致知
         </div>
       </div>
       {/* ── 右侧竖排年份 ── */}
-      <div className="absolute right-3 top-1/2 -translate-y-1/2 z-10 pointer-events-none hidden lg:block">
-        <div className="v-text font-mono text-[12px] text-[#efe6cf]/25">
+      <div className="absolute right-3 top-1/2 -translate-y-1/2 z-10 pointer-events-none hidden lg:block" aria-hidden="true">
+        <div className="v-text font-mono text-[12px] text-[#efe6cf]/45">
           THE MUSEUM HANDSCROLL · EST. 2026
         </div>
       </div>
@@ -489,7 +489,7 @@ export default function App() {
         <div className="ruler h-2.5 opacity-70" />
         <div className="flex items-center justify-between px-5 py-1.5 font-mono text-[12px]">
           <MapCoordinates ref={coordinatesRef} />
-          <div className="hidden md:flex items-center gap-4 text-[#efe6cf]/45">
+          <div className="hidden md:flex items-center gap-4 text-[#efe6cf]/62">
             <span>轻点省份入卷 · 悬停阅览经纬 · 真实省界</span>
             <span className="text-[#d43a28]">■</span>
             <span>手绘长卷 · {mapQuality ? `${MAP_QUALITY_LABEL[mapQuality]}画质` : '自适应画质'}</span>

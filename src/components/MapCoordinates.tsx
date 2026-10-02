@@ -29,11 +29,11 @@ export default function MapCoordinates({ ref }: { ref: Ref<MapCoordinatesHandle>
 
   return (
     <div className="hidden md:flex items-center gap-2">
-      <span className="text-[#b49a63]/65">经纬</span>
+      <span className="text-[#b49a63]/80">经纬</span>
       {coord ? <>
         <span className="border border-[#d8cfb7]/10 bg-[#d8cfb7]/5 px-1.5 py-0.5 text-[#d8cfb7]">N {coord.lat}°</span>
         <span className="border border-[#b49a63]/25 bg-[#b49a63]/10 px-1.5 py-0.5 text-[#d8cfb7]">E {coord.lng}°</span>
-      </> : <span className="text-[#efe6cf]/30">— 将指针移至国土之上 —</span>}
+      </> : <span className="text-[#efe6cf]/60">— 将指针移至国土之上 —</span>}
     </div>
   );
 }
