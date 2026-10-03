@@ -78,7 +78,13 @@ const panelProbe = `(() => {
   const ratios = texts.map(ratio).filter(value => typeof value === 'number');
   // 大字号（≥24px 或 ≥18.66px 粗体）按 AA 的 3.0 门槛
   const lowContrast = texts.filter(element => { const value = ratio(element); if (typeof value !== 'number') return false; const style = getComputedStyle(element); const size = parseFloat(style.fontSize); const large = size >= 24 || (size >= 18.66 && parseInt(style.fontWeight, 10) >= 700); return value < (large ? 3 : 4.5); }).length;
-  return { belowTwelveCount: below, contrastMin: ratios.length ? Math.min(...ratios) : null, lowContrast };
+  return { belowTwelveCount: below, contrastMin: ratios.length ? Math.min(...ratios) : null, lowContrast,
+    backTarget: (() => {
+      const back = [...document.querySelectorAll('button, a')].find(element => /返回|关闭/.test((element.textContent || '') + (element.getAttribute('aria-label') || '')));
+      if (!back) return null;
+      const box = back.getBoundingClientRect();
+      return { w: Math.round(box.width), h: Math.round(box.height) };
+    })() };
 })()`;
 
 const goto = async (url, readyExpression, readyTimeout = 25000) => {
@@ -805,8 +811,9 @@ const categories = [
     name: '移动端',
     max: 6,
     items: [
-      { label: `390px 无横向溢出（实测 ${results.mobileStory.overflow}px）`, pass: results.mobileStory.overflow <= 1, score: results.mobileStory.overflow <= 1 ? 3 : 0 },
+      { label: `390px 无横向溢出（实测 ${results.mobileStory.overflow}px）`, pass: results.mobileStory.overflow <= 1, score: results.mobileStory.overflow <= 1 ? 2 : 0 },
       { label: `移动端字号下限 ≥12px（违规 ${results.mobileStory.belowTwelveCount}）`, pass: results.mobileStory.belowTwelveCount === 0, score: results.mobileStory.belowTwelveCount === 0 ? 2 : 0 },
+      { label: `馆藏面板返回控件在 390 ≥44px（实测 ${results.panel?.museumMobile?.backTarget?.w ?? 'n/a'}×${results.panel?.museumMobile?.backTarget?.h ?? 'n/a'}px）`, pass: (results.panel?.museumMobile?.backTarget?.h ?? 0) >= 44, score: (results.panel?.museumMobile?.backTarget?.h ?? 0) >= 44 ? 1 : 0 },
       { label: `移动端正文行长适中（每行 ${results.mobileReading?.median ?? 'n/a'} 字，min ${results.mobileReading?.min ?? 'n/a'} / max ${results.mobileReading?.max ?? 'n/a'}；区间 14–26）`, pass: (results.mobileReading?.median ?? 0) >= 14 && (results.mobileReading?.median ?? 99) <= 26, score: (results.mobileReading?.median ?? 0) >= 14 && (results.mobileReading?.median ?? 99) <= 26 ? 1 : 0 },
     ],
   },

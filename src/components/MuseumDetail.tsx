@@ -147,7 +147,7 @@ export default function MuseumDetail({
         {/* 顶栏 */}
         <header className="flex items-center gap-3 md:gap-5 border-b border-[#efe6cf]/15 px-4 md:px-6 py-3 md:py-4">
         <button onClick={onBack}
-          className="draw-btn shrink-0 border border-[#efe6cf]/30 px-2.5 md:px-3 py-1.5 text-[12px] text-[#efe6cf]/80 hover:text-[#d43a28] transition-colors">
+          className="draw-btn shrink-0 inline-flex items-center border border-[#efe6cf]/30 px-2.5 md:px-3 py-1.5 text-[12px] text-[#efe6cf]/80 hover:text-[#d43a28] transition-colors min-h-[44px] md:min-h-0">
           ← 返回{museum.province}
         </button>
         <div className="hidden sm:grid h-12 w-12 shrink-0 place-items-center bg-[#d43a28] shadow-[0_0_24px_rgba(212,58,40,.35)]">

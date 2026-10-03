@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-03T02:28:57.088Z",
+  "generatedAt": "2026-10-03T02:42:21.963Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307745,
-  "mainCssBytes": 71421,
+  "mainCssBytes": 71453,
   "total": 100,
   "max": 100,
   "threshold": 85,
@@ -172,7 +172,7 @@
       "max": 2,
       "items": [
         {
-          "label": "一页字号数量 ≤10（实测 8）",
+          "label": "一页字号数量 ≤10（实测 9）",
           "pass": true,
           "score": 2
         }
@@ -193,7 +193,7 @@
           "score": 1
         },
         {
-          "label": "首页像素级对比度全部 ≥4.5（地图省简称 7.58／件数 4.92／荐读标题 10.3／荐读说明 7.81）",
+          "label": "首页像素级对比度全部 ≥4.5（地图省简称 7.58／件数 6.75／荐读标题 10.3／荐读说明 7.81）",
           "pass": true,
           "score": 2
         }
@@ -232,12 +232,17 @@
         {
           "label": "390px 无横向溢出（实测 0px）",
           "pass": true,
-          "score": 3
+          "score": 2
         },
         {
           "label": "移动端字号下限 ≥12px（违规 0）",
           "pass": true,
           "score": 2
+        },
+        {
+          "label": "馆藏面板返回控件在 390 ≥44px（实测 97×44px）",
+          "pass": true,
+          "score": 1
         },
         {
           "label": "移动端正文行长适中（每行 18 字，min 17 / max 20；区间 14–26）",
@@ -277,12 +282,12 @@
           "score": 3
         },
         {
-          "label": "有效缓动取值收敛 ≤4 种（实测 1 种：ease×88）",
+          "label": "有效缓动取值收敛 ≤4 种（实测 2 种：ease×90、cubic-bezier(0, 0, 0.2, 1)×1）",
           "pass": true,
           "score": 1
         },
         {
-          "label": "动效时长收敛（有效短时长 1 种，全部落在尺度上 1 种：0.16s×44）",
+          "label": "动效时长收敛（有效短时长 2 种，全部落在尺度上 2 种：0.16s×45、0.52s×1）",
           "pass": true,
           "score": 2
         },
@@ -350,7 +355,7 @@
           "score": 3
         },
         {
-          "label": "状态播报齐备（aria-live/status/alert 2 处）",
+          "label": "状态播报齐备（aria-live/status/alert 1 处）",
           "pass": true,
           "score": 2
         }
@@ -361,7 +366,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 780ms；FCP 780ms；不限速 1064ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 844ms；FCP 844ms；不限速 688ms）",
           "pass": true,
           "score": 4
         },
@@ -398,7 +403,7 @@
       "max": 5,
       "items": [
         {
-          "label": "间距落在 4px 基准（实测 92%，189/205）",
+          "label": "间距落在 4px 基准（实测 91%，200/220）",
           "pass": true,
           "score": 2
         },
@@ -413,7 +418,7 @@
           "score": 1
         },
         {
-          "label": "阴影取值收敛（实测 1 种）",
+          "label": "阴影取值收敛（实测 2 种）",
           "pass": true,
           "score": 1
         }
@@ -448,6 +453,7 @@
         14,
         16,
         17,
+        18,
         20,
         24,
         28,
@@ -462,7 +468,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 44,
+      "transitioned": 46,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -480,10 +486,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 3228,
-        "cls": 0,
-        "fcpMs": 2012,
-        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
+        "lcpMs": 5084,
+        "cls": 0.002,
+        "fcpMs": 2644,
+        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
       },
       "hierarchy": {
         "h1": 44,
@@ -493,9 +499,9 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 205,
-        "onGrid": 189,
-        "ratio": 92
+        "total": 220,
+        "onGrid": 200,
+        "ratio": 91
       },
       "kinsoku": {
         "lines": 42,
@@ -523,21 +529,22 @@
       },
       "tokens": {
         "radii": 0,
-        "shadows": 1,
+        "shadows": 2,
         "radiusValues": [],
         "shadowValues": [
+          "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0",
           "rgba(0, 0, 0, 0.2) 0px 10px 50px 0px"
         ]
       },
       "easings": {
-        "kinds": 1,
-        "list": "ease×88"
+        "kinds": 2,
+        "list": "ease×90、cubic-bezier(0, 0, 0.2, 1)×1"
       },
       "motion": {
-        "kinds": 1,
-        "shortKinds": 1,
-        "onScaleKinds": 1,
-        "shortList": "0.16s×44"
+        "kinds": 2,
+        "shortKinds": 2,
+        "onScaleKinds": 2,
+        "shortList": "0.16s×45、0.52s×1"
       },
       "autospace": {
         "on": 107.42,
@@ -560,8 +567,8 @@
         }
       },
       "imageReveal": {
-        "property": "all",
-        "duration": "0s"
+        "property": "opacity",
+        "duration": "0.52s"
       },
       "zoom": {
         "trigger": true,
@@ -570,7 +577,7 @@
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 2
+        "ariaLive": 1
       },
       "overflow": 0,
       "zoomWaited": true
@@ -659,11 +666,11 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 160,
+        "inpMs": 240,
         "eventCount": 28,
-        "lcpMs": 5064,
+        "lcpMs": 5084,
         "cls": 0.002,
-        "fcpMs": 2012,
+        "fcpMs": 2644,
         "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
       },
       "hierarchy": {
@@ -852,10 +859,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1064,
+        "lcpMs": 688,
         "cls": 0,
-        "fcpMs": 904,
-        "lcpElement": "h1 |  | 山河入画"
+        "fcpMs": 688,
+        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
         "h1": null,
@@ -999,9 +1006,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 2480,
+        "lcpMs": 2268,
         "cls": 0,
-        "fcpMs": 904,
+        "fcpMs": 688,
         "lcpElement": "img | is-loaded | "
       },
       "hierarchy": {
@@ -1136,9 +1143,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1104,
+          "lcpMs": 1092,
           "cls": 0,
-          "fcpMs": 660,
+          "fcpMs": 588,
           "lcpElement": "h1 |  | 从一个问题，走进千年生活。"
         },
         "hierarchy": {
@@ -1264,9 +1271,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1392,
+          "lcpMs": 1340,
           "cls": 0.001,
-          "fcpMs": 484,
+          "fcpMs": 492,
           "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
         },
         "hierarchy": {
@@ -1388,9 +1395,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 680,
+          "lcpMs": 656,
           "cls": 0,
-          "fcpMs": 680,
+          "fcpMs": 656,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1492,9 +1499,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 476,
+          "lcpMs": 492,
           "cls": 0,
-          "fcpMs": 476,
+          "fcpMs": 492,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1562,12 +1569,20 @@
       "museumDesktop": {
         "belowTwelveCount": 0,
         "contrastMin": 6.05,
-        "lowContrast": 0
+        "lowContrast": 0,
+        "backTarget": {
+          "w": 101,
+          "h": 32
+        }
       },
       "museumMobile": {
         "belowTwelveCount": 0,
         "contrastMin": 6.05,
-        "lowContrast": 0
+        "lowContrast": 0,
+        "backTarget": {
+          "w": 97,
+          "h": 44
+        }
       }
     },
     "directoryPixel": {
@@ -1579,7 +1594,7 @@
     },
     "pixelContrast": {
       "mapShort": 7.58,
-      "mapCount": 4.92,
+      "mapCount": 6.75,
       "beaconTitle": 10.3,
       "beaconText": 7.81
     },
@@ -1641,9 +1656,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1104,
+        "lcpMs": 1176,
         "cls": 0.002,
-        "fcpMs": 516,
+        "fcpMs": 520,
         "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
@@ -1829,9 +1844,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 780,
+        "lcpMs": 844,
         "cls": 0,
-        "fcpMs": 780,
+        "fcpMs": 844,
         "lcpElement": "b |  | 山河入画"
       },
       "hierarchy": {
