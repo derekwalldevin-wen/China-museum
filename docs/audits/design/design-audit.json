@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T02:42:21.963Z",
+  "generatedAt": "2026-10-03T02:51:06.535Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307745,
   "mainCssBytes": 71453,
@@ -172,7 +172,7 @@
       "max": 2,
       "items": [
         {
-          "label": "一页字号数量 ≤10（实测 9）",
+          "label": "一页字号数量 ≤10（实测 8）",
           "pass": true,
           "score": 2
         }
@@ -282,12 +282,12 @@
           "score": 3
         },
         {
-          "label": "有效缓动取值收敛 ≤4 种（实测 2 种：ease×90、cubic-bezier(0, 0, 0.2, 1)×1）",
+          "label": "有效缓动取值收敛 ≤4 种（实测 1 种：ease×88）",
           "pass": true,
           "score": 1
         },
         {
-          "label": "动效时长收敛（有效短时长 2 种，全部落在尺度上 2 种：0.16s×45、0.52s×1）",
+          "label": "动效时长收敛（有效短时长 1 种，全部落在尺度上 1 种：0.16s×44）",
           "pass": true,
           "score": 2
         },
@@ -355,7 +355,7 @@
           "score": 3
         },
         {
-          "label": "状态播报齐备（aria-live/status/alert 1 处）",
+          "label": "状态播报齐备（aria-live/status/alert 2 处）",
           "pass": true,
           "score": 2
         }
@@ -366,7 +366,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 844ms；FCP 844ms；不限速 688ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 852ms；FCP 852ms；不限速 668ms）",
           "pass": true,
           "score": 4
         },
@@ -403,7 +403,7 @@
       "max": 5,
       "items": [
         {
-          "label": "间距落在 4px 基准（实测 91%，200/220）",
+          "label": "间距落在 4px 基准（实测 92%，189/205）",
           "pass": true,
           "score": 2
         },
@@ -418,7 +418,7 @@
           "score": 1
         },
         {
-          "label": "阴影取值收敛（实测 2 种）",
+          "label": "阴影取值收敛（实测 1 种）",
           "pass": true,
           "score": 1
         }
@@ -453,7 +453,6 @@
         14,
         16,
         17,
-        18,
         20,
         24,
         28,
@@ -468,7 +467,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 46,
+      "transitioned": 44,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -486,10 +485,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 5084,
-        "cls": 0.002,
-        "fcpMs": 2644,
-        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
+        "lcpMs": 3376,
+        "cls": 0,
+        "fcpMs": 2524,
+        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
         "h1": 44,
@@ -499,9 +498,9 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 220,
-        "onGrid": 200,
-        "ratio": 91
+        "total": 205,
+        "onGrid": 189,
+        "ratio": 92
       },
       "kinsoku": {
         "lines": 42,
@@ -529,22 +528,21 @@
       },
       "tokens": {
         "radii": 0,
-        "shadows": 2,
+        "shadows": 1,
         "radiusValues": [],
         "shadowValues": [
-          "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0",
           "rgba(0, 0, 0, 0.2) 0px 10px 50px 0px"
         ]
       },
       "easings": {
-        "kinds": 2,
-        "list": "ease×90、cubic-bezier(0, 0, 0.2, 1)×1"
+        "kinds": 1,
+        "list": "ease×88"
       },
       "motion": {
-        "kinds": 2,
-        "shortKinds": 2,
-        "onScaleKinds": 2,
-        "shortList": "0.16s×45、0.52s×1"
+        "kinds": 1,
+        "shortKinds": 1,
+        "onScaleKinds": 1,
+        "shortList": "0.16s×44"
       },
       "autospace": {
         "on": 107.42,
@@ -567,8 +565,8 @@
         }
       },
       "imageReveal": {
-        "property": "opacity",
-        "duration": "0.52s"
+        "property": "all",
+        "duration": "0s"
       },
       "zoom": {
         "trigger": true,
@@ -577,7 +575,7 @@
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 1
+        "ariaLive": 2
       },
       "overflow": 0,
       "zoomWaited": true
@@ -666,12 +664,12 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 240,
+        "inpMs": 144,
         "eventCount": 28,
-        "lcpMs": 5084,
+        "lcpMs": 3376,
         "cls": 0.002,
-        "fcpMs": 2644,
-        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
+        "fcpMs": 2524,
+        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
         "h1": 28,
@@ -859,10 +857,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 688,
+        "lcpMs": 668,
         "cls": 0,
-        "fcpMs": 688,
-        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
+        "fcpMs": 568,
+        "lcpElement": "h1 |  | 山河入画"
       },
       "hierarchy": {
         "h1": null,
@@ -1008,7 +1006,7 @@
         "eventCount": 0,
         "lcpMs": 2268,
         "cls": 0,
-        "fcpMs": 688,
+        "fcpMs": 568,
         "lcpElement": "img | is-loaded | "
       },
       "hierarchy": {
@@ -1143,9 +1141,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1092,
+          "lcpMs": 1140,
           "cls": 0,
-          "fcpMs": 588,
+          "fcpMs": 660,
           "lcpElement": "h1 |  | 从一个问题，走进千年生活。"
         },
         "hierarchy": {
@@ -1271,9 +1269,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1340,
+          "lcpMs": 1372,
           "cls": 0.001,
-          "fcpMs": 492,
+          "fcpMs": 508,
           "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
         },
         "hierarchy": {
@@ -1395,9 +1393,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 656,
+          "lcpMs": 588,
           "cls": 0,
-          "fcpMs": 656,
+          "fcpMs": 588,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1499,9 +1497,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 492,
+          "lcpMs": 484,
           "cls": 0,
-          "fcpMs": 492,
+          "fcpMs": 484,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1656,9 +1654,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1176,
+        "lcpMs": 1128,
         "cls": 0.002,
-        "fcpMs": 520,
+        "fcpMs": 1000,
         "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
@@ -1844,9 +1842,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 844,
+        "lcpMs": 852,
         "cls": 0,
-        "fcpMs": 844,
+        "fcpMs": 852,
         "lcpElement": "b |  | 山河入画"
       },
       "hierarchy": {
