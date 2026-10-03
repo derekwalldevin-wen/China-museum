@@ -458,6 +458,30 @@ results.interaction = {
 await viewport(390, 844, true);
 await new Promise(resolve => setTimeout(resolve, 1200));
 results.mobileStory = await evaluate(probe);
+// 移动端阅读舒适度：正文段每行字数（正文段是 .story-paper 的直接子 p；导语在 .story-summary 内，不算正文）
+results.mobileReading = await evaluate(`(() => {
+  // 正文段的确切位置：article.story-paper > div.story-chapters > section > p
+  const paragraph = [...document.querySelectorAll('.story-paper .story-chapters section > p')].find(el => (el.textContent || '').length > 80);
+  if (!paragraph) return null;
+  const walker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+  const lines = [];
+  while (walker.nextNode()) {
+    const node = walker.currentNode;
+    for (let index = 0; index < node.data.length; index += 1) {
+      const range = document.createRange();
+      range.setStart(node, index); range.setEnd(node, index + 1);
+      const rect = range.getBoundingClientRect();
+      if (!rect.height) continue;
+      const top = Math.round(rect.top);
+      const last = lines[lines.length - 1];
+      if (last && Math.abs(last.top - top) <= 3) last.chars += 1;
+      else lines.push({ top, chars: 1 });
+    }
+  }
+  const body = lines.slice(1, -1).map(line => line.chars).filter(count => count > 4);
+  const sorted = [...body].sort((a, b) => a - b);
+  return { lines: body.length, median: sorted[Math.floor(sorted.length / 2)], min: sorted[0], max: sorted[sorted.length - 1] };
+})()`);
 await viewport(1440, 960, false);
 await goto(base, `document.querySelectorAll('g.scroll-province').length === 34`);
 results.desktopHome = await evaluate(probe);
@@ -781,8 +805,9 @@ const categories = [
     name: '移动端',
     max: 6,
     items: [
-      { label: `390px 无横向溢出（实测 ${results.mobileStory.overflow}px）`, pass: results.mobileStory.overflow <= 1, score: results.mobileStory.overflow <= 1 ? 4 : 0 },
+      { label: `390px 无横向溢出（实测 ${results.mobileStory.overflow}px）`, pass: results.mobileStory.overflow <= 1, score: results.mobileStory.overflow <= 1 ? 3 : 0 },
       { label: `移动端字号下限 ≥12px（违规 ${results.mobileStory.belowTwelveCount}）`, pass: results.mobileStory.belowTwelveCount === 0, score: results.mobileStory.belowTwelveCount === 0 ? 2 : 0 },
+      { label: `移动端正文行长适中（每行 ${results.mobileReading?.median ?? 'n/a'} 字，min ${results.mobileReading?.min ?? 'n/a'} / max ${results.mobileReading?.max ?? 'n/a'}；区间 14–26）`, pass: (results.mobileReading?.median ?? 0) >= 14 && (results.mobileReading?.median ?? 99) <= 26, score: (results.mobileReading?.median ?? 0) >= 14 && (results.mobileReading?.median ?? 99) <= 26 ? 1 : 0 },
     ],
   },
   {

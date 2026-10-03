@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T02:20:01.606Z",
+  "generatedAt": "2026-10-03T02:28:57.088Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307745,
   "mainCssBytes": 71421,
@@ -232,12 +232,17 @@
         {
           "label": "390px 无横向溢出（实测 0px）",
           "pass": true,
-          "score": 4
+          "score": 3
         },
         {
           "label": "移动端字号下限 ≥12px（违规 0）",
           "pass": true,
           "score": 2
+        },
+        {
+          "label": "移动端正文行长适中（每行 18 字，min 17 / max 20；区间 14–26）",
+          "pass": true,
+          "score": 1
         }
       ]
     },
@@ -356,7 +361,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 796ms；FCP 796ms；不限速 856ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 780ms；FCP 780ms；不限速 1064ms）",
           "pass": true,
           "score": 4
         },
@@ -475,9 +480,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 3176,
+        "lcpMs": 3228,
         "cls": 0,
-        "fcpMs": 2052,
+        "fcpMs": 2012,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -654,12 +659,12 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 128,
+        "inpMs": 160,
         "eventCount": 28,
-        "lcpMs": 4756,
+        "lcpMs": 5064,
         "cls": 0.002,
-        "fcpMs": 2052,
-        "lcpElement": "img 5d65b279c1f72376-card-w675.webp | relative h-full w-full object-contain  | "
+        "fcpMs": 2012,
+        "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
       },
       "hierarchy": {
         "h1": 28,
@@ -740,6 +745,12 @@
         "ariaLive": 1
       },
       "overflow": 0
+    },
+    "mobileReading": {
+      "lines": 19,
+      "median": 18,
+      "min": 17,
+      "max": 20
     },
     "desktopHome": {
       "paragraph": null,
@@ -841,9 +852,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 856,
+        "lcpMs": 1064,
         "cls": 0,
-        "fcpMs": 708,
+        "fcpMs": 904,
         "lcpElement": "h1 |  | 山河入画"
       },
       "hierarchy": {
@@ -988,9 +999,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 2508,
+        "lcpMs": 2480,
         "cls": 0,
-        "fcpMs": 708,
+        "fcpMs": 904,
         "lcpElement": "img | is-loaded | "
       },
       "hierarchy": {
@@ -1125,9 +1136,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1148,
+          "lcpMs": 1104,
           "cls": 0,
-          "fcpMs": 640,
+          "fcpMs": 660,
           "lcpElement": "h1 |  | 从一个问题，走进千年生活。"
         },
         "hierarchy": {
@@ -1253,9 +1264,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1356,
+          "lcpMs": 1392,
           "cls": 0.001,
-          "fcpMs": 504,
+          "fcpMs": 484,
           "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
         },
         "hierarchy": {
@@ -1377,9 +1388,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 668,
+          "lcpMs": 680,
           "cls": 0,
-          "fcpMs": 668,
+          "fcpMs": 680,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1481,9 +1492,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 480,
+          "lcpMs": 476,
           "cls": 0,
-          "fcpMs": 480,
+          "fcpMs": 476,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1630,9 +1641,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1124,
+        "lcpMs": 1104,
         "cls": 0.002,
-        "fcpMs": 668,
+        "fcpMs": 516,
         "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
@@ -1818,9 +1829,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 796,
+        "lcpMs": 780,
         "cls": 0,
-        "fcpMs": 796,
+        "fcpMs": 780,
         "lcpElement": "b |  | 山河入画"
       },
       "hierarchy": {
