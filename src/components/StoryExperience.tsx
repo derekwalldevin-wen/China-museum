@@ -50,6 +50,9 @@ function EvidenceLinks({ refs, sourceIndex }: { refs: string[]; sourceIndex: Sto
 }
 
 interface Props { route: GuideRoute; onRoute: (route: GuideRoute) => void; onExit: () => void; onBack: () => void }
+// 模块级：区分"首次打开导览"与"导览内切换故事"（组件会被 App 按故事 key 掉后重挂载）
+let guideOpenedOnce = false;
+
 export default function StoryExperience({ route, onRoute, onExit, onBack }: Props) {
   const [payloadState, setPayloadState] = useState<{ id:string; payload?:StoryPayload; error?:string } | null>(null);
   useEffect(() => {
@@ -94,7 +97,15 @@ export default function StoryExperience({ route, onRoute, onExit, onBack }: Prop
   };
   useLayoutEffect(() => {
     const previouslyFocused = document.activeElement instanceof HTMLElement ? document.activeElement : null;
-    exitButton.current?.focus({ preventScroll: true });
+    // 首次打开导览 → 焦点落在退出按钮（既有行为，保持不变）；
+    // 导览内切换故事（组件被 App 按故事 key 掉后重新挂载）→ 改为聚焦新故事标题，
+    // 否则焦点会回到退出按钮，键盘用户按回车想看下一篇却"跳出了"阅读流。
+    if (guideOpenedOnce) {
+      titleFocusPending.current = true;
+    } else {
+      guideOpenedOnce = true;
+      exitButton.current?.focus({ preventScroll: true });
+    }
     // App keys this component by story and trail, so each route mounts with
     // its own storage key and initial expanded/reading state.
     return () => {
@@ -185,6 +196,15 @@ export default function StoryExperience({ route, onRoute, onExit, onBack }: Prop
     // which would write the next story's position into the story being left.
     return () => { window.removeEventListener('pagehide', persist); };
   }, [storageKey]);
+  // 键盘/读屏路径：切换到另一篇故事后把焦点移到新故事标题。
+  // 此前实测焦点会留在顶栏的"回到原处 ✕"上——用户按回车想看下一篇，焦点却跑到退出按钮。
+  // 注意：App 按故事 key 掉本组件，所以"是否首次打开导览"必须存在模块级，组件内的 ref 会被重置。
+  const titleFocusPending = useRef(false);
+  useEffect(() => {
+    if (!titleFocusPending.current || !story) return;
+    titleFocusPending.current = false;
+    document.getElementById('story-title')?.focus?.({ preventScroll: true });
+  }, [story]);
   const toggle = (key: string) => {
     const next = expanded.includes(key) ? expanded.filter(item => item !== key) : [...expanded, key];
     setExpanded(next);
@@ -246,12 +266,12 @@ export default function StoryExperience({ route, onRoute, onExit, onBack }: Prop
       <p className="sr-only" aria-live="polite">{story ? `${location?.artifact.name ?? ''} · ${story.hook}` : route.storyId ? '正在展开故事' : '故事目录'}</p>
       {route.storyId && (!story || !location) ? <main id="story-main" className="story-directory" role={currentPayload?.error ? 'alert' : 'status'}>
         <div className="story-kicker">{currentPayload?.error ? '故事暂时无法展开' : '正在展开故事'}</div>
-        <h1 id="story-title">{currentPayload?.error ? '这一页暂时未能载入。' : '请稍候，正在展卷。'}</h1>
+        <h1 id="story-title" tabIndex={-1}>{currentPayload?.error ? '这一页暂时未能载入。' : '请稍候，正在展卷。'}</h1>
         <p className="story-lead">{currentPayload?.error ? '筛选与阅读位置仍已保存。可以重试，或返回故事目录继续探索。' : '正文和逐段引用资料正在按需读取。'}</p>
         {currentPayload?.error && <button className="story-primary" onClick={() => window.location.reload()}>重试加载故事 →</button>}
       </main> : !story || !location ? <main id="story-main" className="story-directory">
         <div className="story-kicker">以物为引 · 沿故事入卷</div>
-        <h1 id="story-title">从一个问题，<br />走进千年生活。</h1>
+        <h1 id="story-title" tabIndex={-1}>从一个问题，<br />走进千年生活。</h1>
         <p className="story-lead">不必一次读完所有文物。选一条游线，看看古人怎样生活、表达，又留下了哪些证据。</p>
         <div className="story-trail-grid">
           {(trail ? [trail] : trails).map((item, index) => <article key={item.id} className="story-trail-card" data-trail={item.id}>
@@ -274,7 +294,7 @@ export default function StoryExperience({ route, onRoute, onExit, onBack }: Prop
       </main> : <main id="story-main" className="story-reader" data-story-id={story.id}>
         <nav className="story-breadcrumb" aria-label="故事位置"><a href={guideUrl({ trailId:null, storyId:null })} onClick={event => follow(event, { trailId:null, storyId:null })}>全部故事</a><span>{trail ? ` / ${trail.title} · 第 ${currentStep + 1} / ${trail.ids.length} 站` : ' / 单件故事'}</span></nav>
         <div className="story-kicker">{location.artifact.dynasty} · {location.artifact.category}</div>
-        <h1 id="story-title">{story.hook}</h1>
+        <h1 id="story-title" tabIndex={-1}>{story.hook}</h1>
         <p className="story-object-name">{location.artifact.name}</p>
         <p className="story-location">{location.artifact.holdingInstitution ? `${location.museum.province} · ${locationAttribution?.holdingLabel}` : `${location.museum.province} · ${location.museum.city} · ${location.museum.name}`}<span>{locationAttribution?.exhibitionNote ?? "馆藏地不等于当前展出承诺"}</span></p>
         <div className="story-reading-grid">

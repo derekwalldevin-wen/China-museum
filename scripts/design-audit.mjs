@@ -378,7 +378,9 @@ const probe = `(() => {
       return { short: measure('.scroll-label-short'), count: measure('.scroll-label-count') };
     })(),
     imageReveal: (() => {
-      const image = document.querySelector('[data-detail-image-state] img') ?? document.querySelector('.story-figure img');
+      // 用确定性选择器锁定"解码门控的那张图"：它由 ResponsiveArtifactImage 在解码完成后打标记。
+      // 此前用 '.story-figure img' 兜底会在生产上抓到别的 img（transition-property: all / 0s），造成假失败。
+      const image = document.querySelector('img[data-artifact-image-ready]') ?? document.querySelector('[data-detail-image-state="ready"] img') ?? document.querySelector('.story-figure img');
       if (!image) return null;
       const style = getComputedStyle(image);
       return { property: style.transitionProperty, duration: style.transitionDuration };
@@ -403,6 +405,16 @@ const results = {};
 await viewport(1440, 960, false);
 await goto(`${base}?guide=1&story=${STORY}`, `document.querySelector('.story-chapters p')`);
 results.desktopStory = await evaluate(probe);
+// 图片渐显：必须先等"解码门控的那张图"就绪再测。
+// 此前在故事 shell 就绪时就测，生产上（较慢）首图还没打上 data-artifact-image-ready，
+// 探针回退抓到原始 <img>（transition-property: all / 0s）→ 假失败。
+await waitFor(`!!document.querySelector('img[data-artifact-image-ready]')`, '首图解码完成', 20000).catch(() => {});
+results.storyImageReveal = await evaluate(`(() => {
+  const image = document.querySelector('img[data-artifact-image-ready]');
+  if (!image) return null;
+  const style = getComputedStyle(image);
+  return { property: style.transitionProperty, duration: style.transitionDuration };
+})()`);
 
 // 放大浏览：真实点击 → 出现 aria-modal 对话框 → Esc 关闭
 // 插图元数据在线上是异步取的：先等入口出现（最多 15 秒），再点
@@ -720,7 +732,7 @@ const categories = [
     items: [
       { label: `作品图可放大（入口存在 ${results.desktopStory.zoom?.trigger ? '有' : '无'}，状态标记 ${results.desktopStory.zoom?.statuses} 处）`, pass: !!results.desktopStory.zoom?.trigger, score: results.desktopStory.zoom?.trigger ? 2 : 0 },
       { label: `放大视图为 aria-modal 对话框且 Esc 可关（打开 ${results.zoomDialog?.opened ? '是' : '否'}／模态 ${results.zoomDialog?.ariaModal ? '是' : '否'}／Esc 关闭 ${results.zoomDialog?.closedByEscape ? '是' : '否'}）`, pass: !!results.zoomDialog?.opened && !!results.zoomDialog?.ariaModal && !!results.zoomDialog?.closedByEscape, score: results.zoomDialog?.opened && results.zoomDialog?.ariaModal && results.zoomDialog?.closedByEscape ? 2 : 0 },
-      { label: `图片渐显（首图过渡 property=${results.desktopStory.imageReveal?.property ?? 'n/a'} duration=${results.desktopStory.imageReveal?.duration ?? 'n/a'}）`, pass: String(results.desktopStory.imageReveal?.property ?? '').includes('opacity') && parseFloat(results.desktopStory.imageReveal?.duration ?? '0') > 0, score: String(results.desktopStory.imageReveal?.property ?? '').includes('opacity') && parseFloat(results.desktopStory.imageReveal?.duration ?? '0') > 0 ? 1 : 0 },
+      { label: `图片渐显（首图过渡 property=${results.storyImageReveal?.property ?? 'n/a'} duration=${results.storyImageReveal?.duration ?? 'n/a'}）`, pass: String(results.storyImageReveal?.property ?? '').includes('opacity') && parseFloat(results.storyImageReveal?.duration ?? '0') > 0, score: String(results.storyImageReveal?.property ?? '').includes('opacity') && parseFloat(results.storyImageReveal?.duration ?? '0') > 0 ? 1 : 0 },
     ],
   },
 

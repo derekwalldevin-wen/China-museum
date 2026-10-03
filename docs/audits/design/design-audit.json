@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T16:32:52.227Z",
+  "generatedAt": "2026-10-03T02:20:01.606Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307745,
   "mainCssBytes": 71421,
@@ -172,7 +172,7 @@
       "max": 2,
       "items": [
         {
-          "label": "一页字号数量 ≤10（实测 9）",
+          "label": "一页字号数量 ≤10（实测 8）",
           "pass": true,
           "score": 2
         }
@@ -193,7 +193,7 @@
           "score": 1
         },
         {
-          "label": "首页像素级对比度全部 ≥4.5（地图省简称 7.66／件数 5.46／荐读标题 10.3／荐读说明 7.81）",
+          "label": "首页像素级对比度全部 ≥4.5（地图省简称 7.58／件数 4.92／荐读标题 10.3／荐读说明 7.81）",
           "pass": true,
           "score": 2
         }
@@ -272,12 +272,12 @@
           "score": 3
         },
         {
-          "label": "有效缓动取值收敛 ≤4 种（实测 2 种：ease×90、cubic-bezier(0, 0, 0.2, 1)×1）",
+          "label": "有效缓动取值收敛 ≤4 种（实测 1 种：ease×88）",
           "pass": true,
           "score": 1
         },
         {
-          "label": "动效时长收敛（有效短时长 2 种，全部落在尺度上 2 种：0.16s×45、0.52s×1）",
+          "label": "动效时长收敛（有效短时长 1 种，全部落在尺度上 1 种：0.16s×44）",
           "pass": true,
           "score": 2
         },
@@ -345,7 +345,7 @@
           "score": 3
         },
         {
-          "label": "状态播报齐备（aria-live/status/alert 1 处）",
+          "label": "状态播报齐备（aria-live/status/alert 2 处）",
           "pass": true,
           "score": 2
         }
@@ -356,7 +356,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 1616ms；FCP 1416ms；不限速 1308ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 796ms；FCP 796ms；不限速 856ms）",
           "pass": true,
           "score": 4
         },
@@ -393,7 +393,7 @@
       "max": 5,
       "items": [
         {
-          "label": "间距落在 4px 基准（实测 91%，200/220）",
+          "label": "间距落在 4px 基准（实测 92%，189/205）",
           "pass": true,
           "score": 2
         },
@@ -408,7 +408,7 @@
           "score": 1
         },
         {
-          "label": "阴影取值收敛（实测 2 种）",
+          "label": "阴影取值收敛（实测 1 种）",
           "pass": true,
           "score": 1
         }
@@ -443,7 +443,6 @@
         14,
         16,
         17,
-        18,
         20,
         24,
         28,
@@ -458,7 +457,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 46,
+      "transitioned": 44,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -476,9 +475,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 5180,
-        "cls": 0.002,
-        "fcpMs": 3348,
+        "lcpMs": 3176,
+        "cls": 0,
+        "fcpMs": 2052,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -489,9 +488,9 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 220,
-        "onGrid": 200,
-        "ratio": 91
+        "total": 205,
+        "onGrid": 189,
+        "ratio": 92
       },
       "kinsoku": {
         "lines": 42,
@@ -519,22 +518,21 @@
       },
       "tokens": {
         "radii": 0,
-        "shadows": 2,
+        "shadows": 1,
         "radiusValues": [],
         "shadowValues": [
-          "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0",
           "rgba(0, 0, 0, 0.2) 0px 10px 50px 0px"
         ]
       },
       "easings": {
-        "kinds": 2,
-        "list": "ease×90、cubic-bezier(0, 0, 0.2, 1)×1"
+        "kinds": 1,
+        "list": "ease×88"
       },
       "motion": {
-        "kinds": 2,
-        "shortKinds": 2,
-        "onScaleKinds": 2,
-        "shortList": "0.16s×45、0.52s×1"
+        "kinds": 1,
+        "shortKinds": 1,
+        "onScaleKinds": 1,
+        "shortList": "0.16s×44"
       },
       "autospace": {
         "on": 107.42,
@@ -557,8 +555,8 @@
         }
       },
       "imageReveal": {
-        "property": "opacity",
-        "duration": "0.52s"
+        "property": "all",
+        "duration": "0s"
       },
       "zoom": {
         "trigger": true,
@@ -567,10 +565,14 @@
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 1
+        "ariaLive": 2
       },
       "overflow": 0,
       "zoomWaited": true
+    },
+    "storyImageReveal": {
+      "property": "opacity",
+      "duration": "0.52s"
     },
     "zoomDialog": {
       "triggerFound": true,
@@ -652,12 +654,12 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 496,
-        "eventCount": 54,
-        "lcpMs": 5180,
+        "inpMs": 128,
+        "eventCount": 28,
+        "lcpMs": 4756,
         "cls": 0.002,
-        "fcpMs": 3348,
-        "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
+        "fcpMs": 2052,
+        "lcpElement": "img 5d65b279c1f72376-card-w675.webp | relative h-full w-full object-contain  | "
       },
       "hierarchy": {
         "h1": 28,
@@ -839,10 +841,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1308,
+        "lcpMs": 856,
         "cls": 0,
-        "fcpMs": 1236,
-        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
+        "fcpMs": 708,
+        "lcpElement": "h1 |  | 山河入画"
       },
       "hierarchy": {
         "h1": null,
@@ -986,10 +988,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 3840,
+        "lcpMs": 2508,
         "cls": 0,
-        "fcpMs": 1236,
-        "lcpElement": "img shanhe-handscroll-mobile.jpg | is-loaded | "
+        "fcpMs": 708,
+        "lcpElement": "img | is-loaded | "
       },
       "hierarchy": {
         "h1": null,
@@ -1123,9 +1125,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1716,
+          "lcpMs": 1148,
           "cls": 0,
-          "fcpMs": 1024,
+          "fcpMs": 640,
           "lcpElement": "h1 |  | 从一个问题，走进千年生活。"
         },
         "hierarchy": {
@@ -1251,9 +1253,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 2184,
+          "lcpMs": 1356,
           "cls": 0.001,
-          "fcpMs": 1120,
+          "fcpMs": 504,
           "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
         },
         "hierarchy": {
@@ -1375,9 +1377,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 2124,
+          "lcpMs": 668,
           "cls": 0,
-          "fcpMs": 2124,
+          "fcpMs": 668,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1479,9 +1481,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 788,
+          "lcpMs": 480,
           "cls": 0,
-          "fcpMs": 788,
+          "fcpMs": 480,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1565,8 +1567,8 @@
       "note": 8.99
     },
     "pixelContrast": {
-      "mapShort": 7.66,
-      "mapCount": 5.46,
+      "mapShort": 7.58,
+      "mapCount": 4.92,
       "beaconTitle": 10.3,
       "beaconText": 7.81
     },
@@ -1628,10 +1630,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": null,
-        "cls": 0,
-        "fcpMs": null,
-        "lcpElement": null
+        "lcpMs": 1124,
+        "cls": 0.002,
+        "fcpMs": 668,
+        "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
         "h1": 44,
@@ -1693,13 +1695,13 @@
       "mapLabels": {
         "short": {
           "css": 11,
-          "screenHeight": 16.9,
-          "effective": 14.7
+          "screenHeight": 17,
+          "effective": 14.8
         },
         "count": {
           "css": 12,
-          "screenHeight": 12.9,
-          "effective": 11.2
+          "screenHeight": 13,
+          "effective": 11.3
         }
       },
       "imageReveal": {
@@ -1816,10 +1818,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1616,
+        "lcpMs": 796,
         "cls": 0,
-        "fcpMs": 1416,
-        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
+        "fcpMs": 796,
+        "lcpElement": "b |  | 山河入画"
       },
       "hierarchy": {
         "h1": null,

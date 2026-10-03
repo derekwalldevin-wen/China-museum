@@ -290,6 +290,31 @@ try {
   } finally { await page.close(); }
 }
 
+// 键盘路径：在「本卷下一站」上回车后，焦点必须落在新故事标题上。
+// 历史缺陷：App 按故事 key 掉组件 → 重新挂载时"聚焦退出按钮"的既有行为会再次执行，
+// 焦点跑到顶栏「回到原处 ✕」，键盘用户按回车想看下一篇却跳出了阅读流。
+{
+  const page = await createHeadlessPage();
+  try {
+    await page.navigate(url({ guide: '1', trail: 'ink', story: 'hub-zhy' }));
+    await page.wait(`!!document.querySelector('.story-chapters p')`, 'reading view');
+    await page.evaluate(`document.querySelector('.ink-intro-skip')?.click()`);
+    await page.wait(`!document.querySelector('[data-ink-intro]')`, 'intro dismissed').catch(() => {});
+    await page.evaluate(`document.querySelector('[data-story-next]')?.focus()`);
+    await page.send('Input.dispatchKeyEvent', { type: 'keyDown', key: 'Enter', code: 'Enter', windowsVirtualKeyCode: 13 });
+    await page.send('Input.dispatchKeyEvent', { type: 'keyUp', key: 'Enter', code: 'Enter', windowsVirtualKeyCode: 13 });
+    await sleep(2000);
+    // 分开取单值：复合对象在 returnByValue 下曾触发 CDP "Object reference chain is too long"
+    const activeStory = await page.evaluate(`new URLSearchParams(location.search).get('story')`);
+    const activeId = await page.evaluate(`document.activeElement && document.activeElement.id || ''`);
+    const activeTag = await page.evaluate(`document.activeElement ? document.activeElement.tagName : ''`);
+    assert.equal(activeStory, 'gb-jgs', '回车应进入下一站故事');
+    assert.equal(activeId, 'story-title', '切换故事后焦点应落在新故事标题上');
+    assert.equal(activeTag, 'H1');
+    checks.push('keyboard: 切换游线故事后焦点落到新故事标题（不再跳回退出按钮）');
+  } finally { await page.close(); }
+}
+
 await writeFile(new URL('results.json',output),JSON.stringify({baseUrl:base,testedAt:new Date().toISOString(),passed:checks.length,checks},null,2)+'\n');
   console.log(JSON.stringify({passed:checks.length,checks},null,2));
 } catch (error) {
