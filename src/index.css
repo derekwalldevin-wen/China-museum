@@ -183,7 +183,7 @@
   height: 1px;
   background: rgba(169, 52, 36, .42);
   transform: scaleX(.28);
-  transition: transform 0.22s ease;
+  transition: transform 0.22s var(--ease-out);
 }
 .atlas-nav-tab:hover::after,
 .atlas-nav-tab:focus-visible::after { transform: scaleX(1); }
@@ -239,7 +239,7 @@
   height: 1px;
   background: #a63c2b;
   transform: scaleX(0);
-  transition: transform 0.22s ease;
+  transition: transform 0.22s var(--ease-out);
 }
 .atlas-era-tab:hover { color: rgba(239, 228, 200, .84) !important; }
 .atlas-era-tab[aria-pressed="true"] {
@@ -259,7 +259,7 @@
 .artifact-status[data-status="ai"]{background:rgba(122,47,31,.82);color:#f6e6cd}
 .artifact-status[data-status="hold"]{background:rgba(122,86,31,.8);color:#f6ecd2}
 .artifact-status[data-status="source"]{background:rgba(13,12,9,.72);color:rgba(239,230,207,.72)}
-.artifact-zoom-trigger{position:absolute;right:12px;top:12px;display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0 12px;background:rgba(13,12,9,.72);color:#efe6cf;font-family:'Noto Sans SC',sans-serif;font-size:12px;border:1px solid rgba(239,230,207,.28);cursor:zoom-in;backdrop-filter:blur(4px);transition:background-color 0.16s,border-color 0.16s}
+.artifact-zoom-trigger{position:absolute;right:12px;top:12px;display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0 12px;background:rgba(13,12,9,.72);color:#efe6cf;font-family:'Noto Sans SC',sans-serif;font-size:12px;border:1px solid rgba(239,230,207,.28);cursor:zoom-in;backdrop-filter:blur(4px);transition:background-color 0.16s var(--ease-out),border-color 0.16s var(--ease-out)}
 .artifact-zoom-trigger:hover,.artifact-zoom-trigger:focus-visible{background:rgba(169,52,36,.85);border-color:rgba(239,230,207,.5);outline:2px solid #c48051;outline-offset:3px}
 .artifact-zoom{position:fixed;inset:0;z-index:120;display:grid;place-items:center;gap:16px;padding:24px;background:rgba(6,8,7,.94);backdrop-filter:blur(6px)}
 .artifact-zoom-close{position:absolute;right:20px;top:20px;min-height:44px;padding:0 16px;background:#e9dfc9;color:#7a2f1f;font-family:'Noto Serif SC',serif;font-size:14px;border:1px solid #a73e2b}
@@ -319,7 +319,7 @@
   color: rgba(215, 168, 74, .88);
   text-decoration: none;
   border: 1px solid rgba(215, 168, 74, .28);
-  transition: color 0.22s, border-color 0.22s;
+  transition: color 0.22s var(--ease-out), border-color 0.22s var(--ease-out);
 }
 #visitor-link:hover { color: rgba(215, 168, 74, 1); border-color: rgba(215, 168, 74, .7); }
 @media (max-width: 767px) {
@@ -394,7 +394,7 @@
   font-family: 'Noto Serif SC', 'Songti SC', serif;
   font-size: 13px;
   letter-spacing: .1em;
-  transition: background 0.22s ease, color 0.22s ease;
+  transition: background 0.22s var(--ease-out), color 0.22s var(--ease-out);
 }
 .atlas-story-beacon button:hover,
 .atlas-story-beacon button:focus-visible { background: rgba(155, 53, 39, .23); color: #4c201a; }
@@ -500,7 +500,7 @@
   object-fit: cover;
   opacity: 0;
   mix-blend-mode: multiply;
-  transition: opacity 0.32s ease;
+  transition: opacity 0.32s var(--ease-out);
 }
 .scroll-painted-backdrop img.is-loaded { opacity: .64; }
 
@@ -640,7 +640,7 @@
   stroke-width: 1.05;
   vector-effect: non-scaling-stroke;
   opacity: .77;
-  transition: fill 0.22s ease, stroke 0.22s ease, opacity 0.22s ease, filter 0.22s ease;
+  transition: fill 0.22s var(--ease-out), stroke 0.22s var(--ease-out), opacity 0.22s var(--ease-out), filter 0.22s var(--ease-out);
 }
 
 .scroll-province:nth-child(3n) .scroll-province-shape { opacity: .68; }
@@ -688,7 +688,7 @@
   stroke: #89372a;
   stroke-width: .8;
   pointer-events: none;
-  transition: fill 0.16s ease, stroke 0.16s ease, transform 0.16s ease;
+  transition: fill 0.16s var(--ease-out), stroke 0.16s var(--ease-out), transform 0.16s var(--ease-out);
 }
 
 .scroll-label-short {
@@ -747,7 +747,7 @@
   font-size: 8px;
   font-weight: 700;
   opacity: 0;
-  transition: opacity 0.16s ease;
+  transition: opacity 0.16s var(--ease-out);
   paint-order: stroke;
   stroke: #ded2b7;
   stroke-width: 3px;
@@ -806,7 +806,7 @@
 .atlas-province-marker {
   z-index: 2;
   color: var(--atlas-paper);
-  transition: opacity 0.32s ease, filter 0.22s ease;
+  transition: opacity 0.32s var(--ease-out), filter 0.22s var(--ease-out);
 }
 
 .atlas-province-marker::before {
@@ -838,7 +838,7 @@
   background: transparent;
   box-shadow: none;
   transform: rotate(0.001deg);
-  transition: transform 0.22s var(--ease-out), background 0.16s ease, border-color 0.16s ease, box-shadow 0.22s ease;
+  transition: transform 0.22s var(--ease-out), background 0.16s var(--ease-out), border-color 0.16s var(--ease-out), box-shadow 0.22s var(--ease-out);
 }
 
 .atlas-marker-short {
@@ -848,7 +848,7 @@
   line-height: 1;
   color: rgba(231, 223, 201, 0.54);
   text-shadow: 0 2px 8px rgba(0, 0, 0, .9), 0 0 1px rgba(180, 154, 99, .5);
-  transition: color 0.16s ease;
+  transition: color 0.16s var(--ease-out);
 }
 
 .atlas-marker-stem {
@@ -866,7 +866,7 @@
   letter-spacing: .08em;
   opacity: 0;
   transform: translateY(-2px);
-  transition: color 0.16s ease, opacity 0.16s ease, transform 0.16s ease;
+  transition: color 0.16s var(--ease-out), opacity 0.16s var(--ease-out), transform 0.16s var(--ease-out);
 }
 
 .atlas-marker-orbit {
@@ -878,7 +878,7 @@
   border: 1px solid rgba(180, 154, 99, 0);
   border-radius: 50%;
   transform: translate(-50%, -50%) scale(.72);
-  transition: transform 0.32s ease, border-color 0.32s ease, opacity 0.32s ease;
+  transition: transform 0.32s var(--ease-out), border-color 0.32s var(--ease-out), opacity 0.32s var(--ease-out);
   opacity: 0;
 }
 
@@ -934,7 +934,7 @@
   border-radius: 50%;
   background: var(--atlas-lacquer);
   box-shadow: 0 0 0 4px rgba(169, 52, 36, 0.16), 0 0 16px rgba(180, 154, 99, 0.28);
-  transition: transform 0.22s ease, box-shadow 0.22s ease;
+  transition: transform 0.22s var(--ease-out), box-shadow 0.22s var(--ease-out);
 }
 
 .atlas-museum-label {
@@ -950,7 +950,7 @@
   opacity: 0;
   transform: translateY(-3px);
   box-shadow: 0 12px 24px rgba(0,0,0,.24);
-  transition: opacity 0.22s ease, transform 0.22s ease;
+  transition: opacity 0.22s var(--ease-out), transform 0.22s var(--ease-out);
 }
 
 .atlas-museum-marker:hover .atlas-museum-beacon,
@@ -1042,7 +1042,7 @@
 .draw-btn { position: relative; }
 .draw-btn::before, .draw-btn::after {
   content: ''; position: absolute; width: 0; height: 0;
-  transition: width 0.32s ease, height 0.32s ease;
+  transition: width 0.32s var(--ease-out), height 0.32s var(--ease-out);
   pointer-events: none;
 }
 .draw-btn::before { left: -1px; top: -1px; border-left: 1px solid #b49a63; border-top: 1px solid #b49a63; }
@@ -1283,7 +1283,7 @@ canvas { touch-action: none; }
   border: 1px solid rgba(210, 194, 157, .38);
   box-shadow: 0 32px 110px rgba(0, 0, 0, .58), inset 0 0 100px rgba(85, 65, 37, .16);
   background: #d8ccb0;
-  transition: opacity 620ms var(--ease-out), transform 720ms var(--ease-out), filter 620ms ease;
+  transition: opacity 620ms var(--ease-out), transform 720ms var(--ease-out), filter 620ms var(--ease-out);
 }
 
 .ink-intro-paper::before,
@@ -1331,15 +1331,15 @@ canvas { touch-action: none; }
   stroke-linejoin: round;
   opacity: .92;
 }
-.ink-intro-mountain { opacity: 0; transform: translateY(18px); transition: opacity 0.52s ease, transform 720ms var(--ease-out); }
+.ink-intro-mountain { opacity: 0; transform: translateY(18px); transition: opacity 0.52s var(--ease-out), transform 720ms var(--ease-out); }
 .ink-intro-mountain-far { fill: rgba(83, 103, 88, .18); }
 .ink-intro-mountain-mid { fill: rgba(35, 54, 44, .24); transition-delay: 0.1s; }
-.ink-intro-river { stroke: rgba(75, 105, 111, .34); stroke-width: 2.2; stroke-dasharray: 3 9; opacity: 0; transition: opacity 0.52s ease 0.22s; }
-.ink-intro-route { stroke: rgba(145, 53, 39, .42); stroke-width: 1.4; stroke-dasharray: 7 13; stroke-dashoffset: 80; opacity: 0; transition: opacity 0.32s ease, stroke-dashoffset 1s ease; }
-.ink-intro-route-dots { fill: #9f3426; opacity: 0; transform-origin: center; transition: opacity 0.22s ease, transform 0.32s cubic-bezier(.2,.9,.3,1); transform: scale(.7); }
-.ink-intro-relics { fill: rgba(224, 214, 187, .38); stroke: rgba(61, 54, 39, .36); stroke-width: 1.6; opacity: 0; transition: opacity 0.32s ease; }
+.ink-intro-river { stroke: rgba(75, 105, 111, .34); stroke-width: 2.2; stroke-dasharray: 3 9; opacity: 0; transition: opacity 0.52s var(--ease-out) 0.22s; }
+.ink-intro-route { stroke: rgba(145, 53, 39, .42); stroke-width: 1.4; stroke-dasharray: 7 13; stroke-dashoffset: 80; opacity: 0; transition: opacity 0.32s var(--ease-out), stroke-dashoffset 1s var(--ease-out); }
+.ink-intro-route-dots { fill: #9f3426; opacity: 0; transform-origin: center; transition: opacity 0.22s var(--ease-out), transform 0.32s cubic-bezier(.2,.9,.3,1); transform: scale(.7); }
+.ink-intro-relics { fill: rgba(224, 214, 187, .38); stroke: rgba(61, 54, 39, .36); stroke-width: 1.6; opacity: 0; transition: opacity 0.32s var(--ease-out); }
 .ink-intro-jade { fill-rule: evenodd; }
-.ink-intro-pines { fill: none; stroke: rgba(29, 45, 36, .36); stroke-width: 3; opacity: 0; transform: translateY(12px); transition: opacity 0.52s ease 0.1s, transform 620ms ease 0.1s; }
+.ink-intro-pines { fill: none; stroke: rgba(29, 45, 36, .36); stroke-width: 3; opacity: 0; transform: translateY(12px); transition: opacity 0.52s var(--ease-out) 0.1s, transform 620ms var(--ease-out) 0.1s; }
 [data-intro-phase="ink"] .ink-intro-mountain,
 [data-intro-phase="artifact"] .ink-intro-mountain,
 [data-intro-phase="seal"] .ink-intro-mountain,
@@ -1390,7 +1390,7 @@ canvas { touch-action: none; }
   object-fit: cover;
   opacity: 0;
   mix-blend-mode: multiply;
-  transition: opacity 0.32s ease;
+  transition: opacity 0.32s var(--ease-out);
 }
 .ink-intro-paint img.is-loaded { opacity: .78; }
 .ink-intro-particles {
@@ -1435,7 +1435,7 @@ canvas { touch-action: none; }
   text-align: left;
   color: #241f17;
   text-shadow: 0 1px rgba(255, 250, 225, .25);
-  transition: color 0.22s ease, opacity 0.32s ease, transform 0.52s var(--ease-out);
+  transition: color 0.22s var(--ease-out), opacity 0.32s var(--ease-out), transform 0.52s var(--ease-out);
 }
 .ink-intro-copy h1 {
   margin: .24em 0 .18em;
@@ -1560,7 +1560,7 @@ canvas { touch-action: none; }
 .atlas-story-beacon,
 .atlas-footer,
 #author {
-  transition: opacity 0.52s ease, transform 720ms var(--ease-out), filter 0.52s ease;
+  transition: opacity 0.52s var(--ease-out), transform 720ms var(--ease-out), filter 0.52s var(--ease-out);
 }
 .atlas-shell[data-intro-active] .atlas-topbar { opacity: 0; transform: translateY(-14px); }
 .atlas-shell[data-intro-active] .scroll-map-scene { opacity: .18; transform: scale(.985); filter: saturate(.55); }
@@ -1669,4 +1669,17 @@ canvas { touch-action: none; }
   --ease-out: cubic-bezier(.2, .7, .2, 1);
   --ease-in: cubic-bezier(.4, 0, 1, 1);
   --ease-in-out: cubic-bezier(.4, 0, .2, 1);
+}
+
+/* ── 缓动语义的"退场"一半：进场用 --ease-out（见各处 transition），离开用 --ease-in ──
+   站内没有整层退场动画（覆盖层是瞬时卸载），因此"离开"落在成对的悬停状态上：
+   悬停进入走 --ease-out（快速落定），指针离开走 --ease-in（起步缓、收得稳）。 */
+.atlas-nav-tab:not(:hover):not(:focus-visible)::after,
+.atlas-era-tab:not(:hover):not(:focus-visible)::after,
+.draw-btn:not(:hover)::before,
+.draw-btn:not(:hover)::after,
+.atlas-story-beacon button:not(:hover),
+.scroll-province:not(:hover) .scroll-province-shape,
+.atlas-marker:not(:hover) .atlas-marker-seal {
+  transition-timing-function: var(--ease-in);
 }

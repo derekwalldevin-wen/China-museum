@@ -97,7 +97,7 @@ button {
   color: var(--vr-paper);
   border: 1px solid var(--vr-line);
   cursor: pointer;
-  transition: border-color 0.22s, color 0.22s;
+  transition: border-color 0.22s var(--ease-out), color 0.22s var(--ease-out);
 }
 button:hover:not(:disabled) { border-color: var(--vr-gold); color: var(--vr-gold); }
 button:disabled { opacity: 0.45; cursor: not-allowed; }

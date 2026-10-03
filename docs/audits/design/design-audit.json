@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-03T02:51:06.535Z",
+  "generatedAt": "2026-10-03T03:36:26.579Z",
   "story": "hub-zhy",
   "firstScreenBytes": 307745,
-  "mainCssBytes": 71453,
+  "mainCssBytes": 72353,
   "total": 100,
   "max": 100,
   "threshold": 85,
@@ -172,7 +172,7 @@
       "max": 2,
       "items": [
         {
-          "label": "一页字号数量 ≤10（实测 8）",
+          "label": "一页字号数量 ≤10（实测 9）",
           "pass": true,
           "score": 2
         }
@@ -266,7 +266,7 @@
           "score": 2
         },
         {
-          "label": "渲染阻塞样式包 ≤80KB（实测 70KB）",
+          "label": "渲染阻塞样式包 ≤80KB（实测 71KB）",
           "pass": true,
           "score": 2
         }
@@ -282,12 +282,12 @@
           "score": 3
         },
         {
-          "label": "有效缓动取值收敛 ≤4 种（实测 1 种：ease×88）",
+          "label": "有效缓动取值收敛 ≤4 种（实测 2 种：cubic-bezier(0.2, 0.7, 0.2, 1)×90、cubic-bezier(0, 0, 0.2, 1)×1）",
           "pass": true,
           "score": 1
         },
         {
-          "label": "动效时长收敛（有效短时长 1 种，全部落在尺度上 1 种：0.16s×44）",
+          "label": "动效时长收敛（有效短时长 2 种，全部落在尺度上 2 种：0.16s×45、0.52s×1）",
           "pass": true,
           "score": 2
         },
@@ -355,7 +355,7 @@
           "score": 3
         },
         {
-          "label": "状态播报齐备（aria-live/status/alert 2 处）",
+          "label": "状态播报齐备（aria-live/status/alert 1 处）",
           "pass": true,
           "score": 2
         }
@@ -366,7 +366,7 @@
       "max": 8,
       "items": [
         {
-          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 852ms；FCP 852ms；不限速 668ms）",
+          "label": "限速档(Slow 4G) LCP ≤2500ms（实测 792ms；FCP 792ms；不限速 788ms）",
           "pass": true,
           "score": 4
         },
@@ -403,7 +403,7 @@
       "max": 5,
       "items": [
         {
-          "label": "间距落在 4px 基准（实测 92%，189/205）",
+          "label": "间距落在 4px 基准（实测 91%，200/220）",
           "pass": true,
           "score": 2
         },
@@ -418,7 +418,7 @@
           "score": 1
         },
         {
-          "label": "阴影取值收敛（实测 1 种）",
+          "label": "阴影取值收敛（实测 2 种）",
           "pass": true,
           "score": 1
         }
@@ -453,6 +453,7 @@
         14,
         16,
         17,
+        18,
         20,
         24,
         28,
@@ -467,7 +468,7 @@
       },
       "focusRule": true,
       "animated": 0,
-      "transitioned": 44,
+      "transitioned": 46,
       "scrollDriven": 17,
       "animationNames": [
         "story-reveal"
@@ -485,9 +486,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 3376,
-        "cls": 0,
-        "fcpMs": 2524,
+        "lcpMs": 704,
+        "cls": 0.002,
+        "fcpMs": 116,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -498,9 +499,9 @@
         "h2Ratio": 1.53
       },
       "spacing": {
-        "total": 205,
-        "onGrid": 189,
-        "ratio": 92
+        "total": 220,
+        "onGrid": 200,
+        "ratio": 91
       },
       "kinsoku": {
         "lines": 42,
@@ -528,21 +529,22 @@
       },
       "tokens": {
         "radii": 0,
-        "shadows": 1,
+        "shadows": 2,
         "radiusValues": [],
         "shadowValues": [
+          "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0",
           "rgba(0, 0, 0, 0.2) 0px 10px 50px 0px"
         ]
       },
       "easings": {
-        "kinds": 1,
-        "list": "ease×88"
+        "kinds": 2,
+        "list": "cubic-bezier(0.2, 0.7, 0.2, 1)×90、cubic-bezier(0, 0, 0.2, 1)×1"
       },
       "motion": {
-        "kinds": 1,
-        "shortKinds": 1,
-        "onScaleKinds": 1,
-        "shortList": "0.16s×44"
+        "kinds": 2,
+        "shortKinds": 2,
+        "onScaleKinds": 2,
+        "shortList": "0.16s×45、0.52s×1"
       },
       "autospace": {
         "on": 107.42,
@@ -565,8 +567,8 @@
         }
       },
       "imageReveal": {
-        "property": "all",
-        "duration": "0s"
+        "property": "opacity",
+        "duration": "0.52s"
       },
       "zoom": {
         "trigger": true,
@@ -575,7 +577,7 @@
       "keyboard": {
         "skipLink": true,
         "firstTabbable": "跳到舆图 ↓",
-        "ariaLive": 2
+        "ariaLive": 1
       },
       "overflow": 0,
       "zoomWaited": true
@@ -664,11 +666,11 @@
       "smallTargetList": [],
       "headingOrderOk": true,
       "performance": {
-        "inpMs": 144,
-        "eventCount": 28,
-        "lcpMs": 3376,
+        "inpMs": 496,
+        "eventCount": 54,
+        "lcpMs": 704,
         "cls": 0.002,
-        "fcpMs": 2524,
+        "fcpMs": 116,
         "lcpElement": "p |  | 曾侯乙编钟于1978年出土于湖北随州，是战国早期"
       },
       "hierarchy": {
@@ -712,7 +714,7 @@
       },
       "easings": {
         "kinds": 2,
-        "list": "ease×90、cubic-bezier(0, 0, 0.2, 1)×1"
+        "list": "cubic-bezier(0.2, 0.7, 0.2, 1)×90、cubic-bezier(0, 0, 0.2, 1)×1"
       },
       "motion": {
         "kinds": 2,
@@ -857,10 +859,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 668,
+        "lcpMs": 788,
         "cls": 0,
-        "fcpMs": 568,
-        "lcpElement": "h1 |  | 山河入画"
+        "fcpMs": 788,
+        "lcpElement": "div | atlas-brand-title font-brush text-lg md: | 华夏博物志"
       },
       "hierarchy": {
         "h1": null,
@@ -906,8 +908,8 @@
       },
       "tokens": null,
       "easings": {
-        "kinds": 3,
-        "list": "ease×114、cubic-bezier(0.2, 0.7, 0.2, 1)×50、cubic-bezier(0.4, 0, 0.2, 1)×1"
+        "kinds": 2,
+        "list": "cubic-bezier(0.2, 0.7, 0.2, 1)×164、cubic-bezier(0.4, 0, 0.2, 1)×1"
       },
       "motion": {
         "kinds": 5,
@@ -1004,10 +1006,10 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 2268,
+        "lcpMs": 2432,
         "cls": 0,
-        "fcpMs": 568,
-        "lcpElement": "img | is-loaded | "
+        "fcpMs": 788,
+        "lcpElement": "img shanhe-handscroll-mobile.jpg | is-loaded | "
       },
       "hierarchy": {
         "h1": null,
@@ -1053,8 +1055,8 @@
       },
       "tokens": null,
       "easings": {
-        "kinds": 3,
-        "list": "ease×114、cubic-bezier(0.2, 0.7, 0.2, 1)×50、cubic-bezier(0.4, 0, 0.2, 1)×1"
+        "kinds": 2,
+        "list": "cubic-bezier(0.2, 0.7, 0.2, 1)×164、cubic-bezier(0.4, 0, 0.2, 1)×1"
       },
       "motion": {
         "kinds": 5,
@@ -1141,9 +1143,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1140,
+          "lcpMs": 728,
           "cls": 0,
-          "fcpMs": 660,
+          "fcpMs": 324,
           "lcpElement": "h1 |  | 从一个问题，走进千年生活。"
         },
         "hierarchy": {
@@ -1190,7 +1192,7 @@
         },
         "easings": {
           "kinds": 1,
-          "list": "ease×454"
+          "list": "cubic-bezier(0.2, 0.7, 0.2, 1)×454"
         },
         "motion": {
           "kinds": 2,
@@ -1269,10 +1271,10 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 1372,
-          "cls": 0.001,
-          "fcpMs": 508,
-          "lcpElement": "small | scroll-art-disclosure | 山水画面为 AI 创作"
+          "lcpMs": 336,
+          "cls": 0,
+          "fcpMs": 300,
+          "lcpElement": "p |  | 从汉代灯具的结构出发，走到清宫新年的案头：灯怎么"
         },
         "hierarchy": {
           "h1": 32,
@@ -1318,7 +1320,7 @@
         },
         "easings": {
           "kinds": 1,
-          "list": "ease×454"
+          "list": "cubic-bezier(0.2, 0.7, 0.2, 1)×454"
         },
         "motion": {
           "kinds": 2,
@@ -1377,7 +1379,7 @@
         },
         "focusRule": true,
         "animated": 0,
-        "transitioned": 3,
+        "transitioned": 0,
         "scrollDriven": 0,
         "animationNames": [],
         "structure": {
@@ -1393,9 +1395,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 588,
+          "lcpMs": 184,
           "cls": 0,
-          "fcpMs": 588,
+          "fcpMs": 184,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1481,7 +1483,7 @@
         },
         "focusRule": true,
         "animated": 0,
-        "transitioned": 3,
+        "transitioned": 0,
         "scrollDriven": 0,
         "animationNames": [],
         "structure": {
@@ -1497,9 +1499,9 @@
         "performance": {
           "inpMs": null,
           "eventCount": 0,
-          "lcpMs": 484,
+          "lcpMs": 92,
           "cls": 0,
-          "fcpMs": 484,
+          "fcpMs": 92,
           "lcpElement": "p | vr-lead | 你去过的博物馆、你拍下的照片，都可以记在这里。当"
         },
         "hierarchy": {
@@ -1654,9 +1656,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 1128,
+        "lcpMs": 612,
         "cls": 0.002,
-        "fcpMs": 1000,
+        "fcpMs": 444,
         "lcpElement": "p |  | 1978年3月6日，王少泉写信给谭维四，汇报随县"
       },
       "hierarchy": {
@@ -1842,9 +1844,9 @@
       "performance": {
         "inpMs": null,
         "eventCount": 0,
-        "lcpMs": 852,
+        "lcpMs": 792,
         "cls": 0,
-        "fcpMs": 852,
+        "fcpMs": 792,
         "lcpElement": "b |  | 山河入画"
       },
       "hierarchy": {
@@ -1891,8 +1893,8 @@
       },
       "tokens": null,
       "easings": {
-        "kinds": 3,
-        "list": "ease×114、cubic-bezier(0.2, 0.7, 0.2, 1)×50、cubic-bezier(0.4, 0, 0.2, 1)×1"
+        "kinds": 2,
+        "list": "cubic-bezier(0.2, 0.7, 0.2, 1)×164、cubic-bezier(0.4, 0, 0.2, 1)×1"
       },
       "motion": {
         "kinds": 5,
