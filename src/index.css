@@ -1683,3 +1683,17 @@ canvas { touch-action: none; }
 .atlas-marker:not(:hover) .atlas-marker-seal {
   transition-timing-function: var(--ease-in);
 }
+
+/* ── 长卷阅卷台：低成本滚动吸附 ──
+   proximity：靠近分片边界才吸附，不打断连续阅读；分片自身为吸附点。 */
+.artifact-scroll-reader {
+  scroll-snap-type: x proximity;
+}
+.artifact-scroll-reader [data-scroll-tile] {
+  scroll-snap-align: start;
+  scroll-snap-stop: normal;
+}
+@media (prefers-reduced-motion: reduce) {
+  /* 低动态偏好下不做吸附（避免任何"被拽动"的观感） */
+  .artifact-scroll-reader { scroll-snap-type: none; }
+}

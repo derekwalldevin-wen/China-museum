@@ -493,7 +493,7 @@ function ArtifactScrollReader({
         onPointerMove={onPointerMove}
         onPointerUp={endPointerDrag}
         onPointerCancel={endPointerDrag}
-        className={`relative h-[clamp(220px,34vw,360px)] overflow-x-auto overflow-y-hidden overscroll-x-contain bg-[radial-gradient(ellipse_at_50%_20%,#302c21_0%,#17140e_52%,#090806_100%)] focus-visible:outline focus-visible:outline-1 focus-visible:outline-offset-[-3px] focus-visible:outline-[#d43a28] ${isLongScroll ? 'cursor-grab active:cursor-grabbing' : ''}`}
+        className={`artifact-scroll-reader relative h-[clamp(220px,34vw,360px)] overflow-x-auto overflow-y-hidden overscroll-x-contain bg-[radial-gradient(ellipse_at_50%_20%,#302c21_0%,#17140e_52%,#090806_100%)] focus-visible:outline focus-visible:outline-1 focus-visible:outline-offset-[-3px] focus-visible:outline-[#d43a28] ${isLongScroll ? 'cursor-grab active:cursor-grabbing' : ''}`}
         style={{ touchAction: isLongScroll ? 'pan-x' : 'pan-y' }}
       >
         {tiled && !fullSourceFallback ? (

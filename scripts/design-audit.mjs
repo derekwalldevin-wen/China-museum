@@ -558,6 +558,27 @@ for (const [device, width, height, mobile] of [['Desktop', 1440, 960, false], ['
 }
 results.panel = panel;
 
+// 长卷阅卷台吸附：打开故宫《清明上河图》长卷页读计算值，再模拟减弱动效确认禁用。
+// 注意：本段会导航，必须放在所有"故事页测量"之后（否则后续测量会跑在别的页面上）。
+await goto(`${base}?province=北京市&museum=gugong&artifact=gg-qmsh`, `document.querySelector('.atlas-shell')`, 30000).catch(() => {});
+await waitFor(`document.querySelector('.artifact-scroll-reader')`, '长卷阅卷台', 30000).catch(() => {});
+results.scrollSnap = await evaluate(`(() => {
+  const reader = document.querySelector('.artifact-scroll-reader');
+  if (!reader) return null;
+  const tile = document.querySelector('[data-scroll-tile]');
+  return {
+    snapType: getComputedStyle(reader).scrollSnapType,
+    tileAlign: tile ? getComputedStyle(tile).scrollSnapAlign : null,
+    tiles: document.querySelectorAll('[data-scroll-tile]').length,
+  };
+})()`);
+await send('Emulation.setEmulatedMedia', { features: [{ name: 'prefers-reduced-motion', value: 'reduce' }] }, sessionId);
+results.scrollSnapReduced = await evaluate(`(() => {
+  const reader = document.querySelector('.artifact-scroll-reader');
+  return reader ? getComputedStyle(reader).scrollSnapType : null;
+})()`);
+await send('Emulation.setEmulatedMedia', { features: [] }, sessionId);
+
 // 故事目录页卡片（压在渐变卡面上 → 必须像素级）
 await viewport(1440, 960, false);
 await goto(`${base}?guide=1`, `document.querySelectorAll('[data-trail]').length === 6`, 40000);
@@ -819,22 +840,23 @@ const categories = [
   },
   {
     name: '性能预算',
-    max: 6,
+    max: 5,
     items: [
       { label: `首屏 JS ≤322KB（实测 ${Math.round((firstScreenBytes ?? 0) / 1000)}KB；硬上限 328KB）`, pass: (firstScreenBytes ?? 1e9) <= 322000, score: (firstScreenBytes ?? 1e9) <= 322000 ? 2 : (firstScreenBytes ?? 1e9) <= 328000 ? 1 : 0 },
       { label: `图片策略：首图 eager（LCP）+ 列表图 lazy（源码 ${lazyHits} 处）`, pass: lazyHits >= 2 && results.desktopStory.images.lazy === 0, score: lazyHits >= 2 && results.desktopStory.images.lazy === 0 ? 2 : 0 },
-      { label: `渲染阻塞样式包 ≤80KB（实测 ${Math.round((mainCssBytes ?? 0) / 1024)}KB）`, pass: (mainCssBytes ?? 1e9) <= 81920, score: (mainCssBytes ?? 1e9) <= 81920 ? 2 : 0 },
+      { label: `渲染阻塞样式包 ≤80KB（实测 ${Math.round((mainCssBytes ?? 0) / 1024)}KB）`, pass: (mainCssBytes ?? 1e9) <= 81920, score: (mainCssBytes ?? 1e9) <= 81920 ? 1 : 0 },
     ],
   },
   {
     name: '动效与手感',
-    max: 11,
+    max: 12,
     items: [
       { label: `存在滚动驱动动效（阅读进度驱动 ${results.desktopStory.structure?.progressDriven ? '有' : '无'}）`, pass: !!results.desktopStory.structure?.progressDriven, score: results.desktopStory.structure?.progressDriven ? 3 : 0 },
       { label: `有效缓动取值收敛 ≤4 种（实测 ${results.desktopStory.easings?.kinds ?? 'n/a'} 种：${results.desktopStory.easings?.list ?? ''}）`, pass: (results.desktopStory.easings?.kinds ?? 99) <= 4, score: (results.desktopStory.easings?.kinds ?? 99) <= 4 ? 1 : 0 },
       { label: `动效时长收敛（有效短时长 ${results.desktopStory.motion?.shortKinds ?? 'n/a'} 种，全部落在尺度上 ${results.desktopStory.motion?.onScaleKinds ?? 'n/a'} 种：${results.desktopStory.motion?.shortList ?? ''}）`, pass: (results.desktopStory.motion?.shortKinds ?? 99) <= 5 && results.desktopStory.motion?.shortKinds === results.desktopStory.motion?.onScaleKinds, score: (results.desktopStory.motion?.shortKinds ?? 99) <= 5 && results.desktopStory.motion?.shortKinds === results.desktopStory.motion?.onScaleKinds ? 2 : 0 },
       { label: `减弱动效偏好下动画关闭（剩余 ${results.reducedMotion?.animated ?? 'n/a'} 个可感知动画）`, pass: (results.reducedMotion?.animated ?? 1) === 0, score: (results.reducedMotion?.animated ?? 1) === 0 ? 3 : 0 },
       { label: `在用关键帧只动 transform/opacity（布局属性关键帧 ${keyframeLayoutProps} 个）`, pass: keyframeLayoutProps === 0, score: keyframeLayoutProps === 0 ? 1 : 0 },
+      { label: `长卷阅卷台启用滚动吸附（默认 snap-type=${results.scrollSnap?.snapType ?? 'n/a'}；低动态=${results.scrollSnapReduced ?? 'n/a'}）`, pass: String(results.scrollSnap?.snapType ?? '').includes('x') && results.scrollSnapReduced === 'none', score: String(results.scrollSnap?.snapType ?? '').includes('x') && results.scrollSnapReduced === 'none' ? 1 : 0 },
       { label: `章节显现错峰（声明区间分层 ${results.revealStagger?.distinct ?? 'n/a'} 种 / ${results.revealStagger?.count ?? 'n/a'} 个子元素：${(results.revealStagger?.ranges ?? []).join('、') || '—'}）`, pass: (results.revealStagger?.distinct ?? 0) >= 2, score: (results.revealStagger?.distinct ?? 0) >= 2 ? 1 : 0 },
     ],
   },
