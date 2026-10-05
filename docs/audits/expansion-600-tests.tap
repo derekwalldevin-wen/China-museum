@@ -2,1195 +2,1195 @@ TAP version 13
 # Subtest: initial JavaScript stays below the production budget
 ok 1 - initial JavaScript stays below the production budget
   ---
-  duration_ms: 1.2999
+  duration_ms: 1.5635
   type: 'test'
   ...
 # Subtest: full museum descriptions and search prose stay out of the first screen
 ok 2 - full museum descriptions and search prose stay out of the first screen
   ---
-  duration_ms: 30.8617
+  duration_ms: 28.4454
   type: 'test'
   ...
 # Subtest: responsive card delivery stays deferred and complete provenance stays in 59 static payloads
 ok 3 - responsive card delivery stays deferred and complete provenance stays in 59 static payloads
   ---
-  duration_ms: 5.6064
+  duration_ms: 6.5786
   type: 'test'
   ...
 # Subtest: full story prose is deferred but lightweight routing stays initial
 ok 4 - full story prose is deferred but lightweight routing stays initial
   ---
-  duration_ms: 24.0992
+  duration_ms: 25.0666
   type: 'test'
   ...
 # Subtest: map and non-first-screen surfaces remain separate chunks
 ok 5 - map and non-first-screen surfaces remain separate chunks
   ---
-  duration_ms: 3.8669
+  duration_ms: 1.2887
   type: 'test'
   ...
 # Subtest: the narrative web-motion opening stays deferred and lightweight
 ok 6 - the narrative web-motion opening stays deferred and lightweight
   ---
-  duration_ms: 17.7068
+  duration_ms: 16.4491
   type: 'test'
   ...
 # Subtest: shared artifact rendering chunk carries delivery URLs but no complete provenance registry
 ok 7 - shared artifact rendering chunk carries delivery URLs but no complete provenance registry
   ---
-  duration_ms: 0.5911
+  duration_ms: 1.1091
   type: 'test'
   ...
 # Subtest: deferred surfaces provide stable loading and reload recovery copy
 ok 8 - deferred surfaces provide stable loading and reload recovery copy
   ---
-  duration_ms: 0.5015
+  duration_ms: 0.7568
   type: 'test'
   ...
 # Subtest: ten new artifacts are uniquely assigned and supported by official text records
 ok 9 - ten new artifacts are uniquely assigned and supported by official text records
   ---
-  duration_ms: 4.092
+  duration_ms: 6.2196
   type: 'test'
   ...
 # Subtest: five unresolved photographs are represented only by traceable AI illustrations
 ok 10 - five unresolved photographs are represented only by traceable AI illustrations
   ---
-  duration_ms: 42.6003
+  duration_ms: 22.829
   type: 'test'
   ...
 # Subtest: five admitted photographs retain original hashes, licensing and non-AI processing chains
 ok 11 - five admitted photographs retain original hashes, licensing and non-AI processing chains
   ---
-  duration_ms: 59.6313
+  duration_ms: 69.5044
   type: 'test'
   ...
 # Subtest: the other 195 image records stay unchanged while six quarantined records are replaced
 ok 12 - the other 195 image records stay unchanged while six quarantined records are replaced
   ---
-  duration_ms: 9.7744
+  duration_ms: 17.0321
   type: 'test'
   ...
 # Subtest: six formerly quarantined records use independent AI prompts and retain rejected assets as retired
 ok 13 - six formerly quarantined records use independent AI prompts and retain rejected assets as retired
   ---
-  duration_ms: 37.2053
+  duration_ms: 29.5674
   type: 'test'
   ...
 # Subtest: all era groups cover the collection exactly once and include museum location
 ok 14 - all era groups cover the collection exactly once and include museum location
   ---
-  duration_ms: 1.5599
+  duration_ms: 2.9664
   type: 'test'
   ...
 # Subtest: nationwide Song group includes the Beijing handscroll and other provinces
 ok 15 - nationwide Song group includes the Beijing handscroll and other provinces
   ---
-  duration_ms: 0.2863
+  duration_ms: 0.8099
   type: 'test'
   ...
 # Subtest: era, category and province restrictions intersect and can be removed
 ok 16 - era, category and province restrictions intersect and can be removed
   ---
-  duration_ms: 0.2927
+  duration_ms: 0.6541
   type: 'test'
   ...
 # Subtest: an empty region returns zero results without changing the collection
 ok 17 - an empty region returns zero results without changing the collection
   ---
-  duration_ms: 1.0616
+  duration_ms: 1.4834
   type: 'test'
   ...
 # Subtest: collection filters round-trip through shareable URL parameters
 ok 18 - collection filters round-trip through shareable URL parameters
   ---
-  duration_ms: 0.7255
+  duration_ms: 0.644
   type: 'test'
   ...
 # Subtest: invalid shared filter values are ignored safely
 ok 19 - invalid shared filter values are ignored safely
   ---
-  duration_ms: 0.2097
+  duration_ms: 0.1789
   type: 'test'
   ...
 # Subtest: all 208 artifacts have explicit image or illustration-only status
 ok 20 - all 208 artifacts have explicit image or illustration-only status
   ---
-  duration_ms: 43.7576
+  duration_ms: 50.981
   type: 'test'
   ...
 # Subtest: AI and source roles remain explicitly distinguishable
 ok 21 - AI and source roles remain explicitly distinguishable
   ---
-  duration_ms: 0.9487
+  duration_ms: 2.1406
   type: 'test'
   ...
 # Subtest: every scroll artifact has a valid detail asset before entering the scroll reader
 ok 22 - every scroll artifact has a valid detail asset before entering the scroll reader
   ---
-  duration_ms: 1.0735
+  duration_ms: 1.8084
   type: 'test'
   ...
 # Subtest: the Qingming-style long scroll replaced its 900x36 thumbnail with a high-resolution source
 ok 23 - the Qingming-style long scroll replaced its 900x36 thumbnail with a high-resolution source
   ---
-  duration_ms: 17.1393
+  duration_ms: 22.4306
   type: 'test'
   ...
 # Subtest: round 3 covers exactly the 58 targets and binds evidence to current file hashes
 ok 24 - round 3 covers exactly the 58 targets and binds evidence to current file hashes
   ---
-  duration_ms: 27.5731
+  duration_ms: 36.1196
   type: 'test'
   ...
 # Subtest: formerly mismatched images stay retired while independent AI illustrations have no fallback
 ok 25 - formerly mismatched images stay retired while independent AI illustrations have no fallback
   ---
-  duration_ms: 0.6199
+  duration_ms: 0.7669
   type: 'test'
   ...
 # Subtest: restricted source cannot reappear as a legacy fallback
 ok 26 - restricted source cannot reappear as a legacy fallback
   ---
-  duration_ms: 0.1877
+  duration_ms: 0.259
   type: 'test'
   ...
 # Subtest: verified Zhejiang sword uses one CC0 original and two traceable non-AI derivatives
 ok 27 - verified Zhejiang sword uses one CC0 original and two traceable non-AI derivatives
   ---
-  duration_ms: 12.5814
+  duration_ms: 14.2351
   type: 'test'
   ...
 # Subtest: source fallback retains its evidence and authorization is never inferred from license text
 ok 28 - source fallback retains its evidence and authorization is never inferred from license text
   ---
-  duration_ms: 0.3451
+  duration_ms: 0.4866
   type: 'test'
   ...
 # Subtest: authorization verified requires positive file binding and full evidence, not a known filename
 ok 29 - authorization verified requires positive file binding and full evidence, not a known filename
   ---
-  duration_ms: 15.2494
+  duration_ms: 17.0175
   type: 'test'
   ...
 # Subtest: 故事语料不含中文标点规范问题
 ok 30 - 故事语料不含中文标点规范问题
   ---
-  duration_ms: 62.4818
+  duration_ms: 126.6699
   type: 'test'
   ...
 # Subtest: expansion preserves all 223 existing objects and provenance and counts admissions only
 ok 31 - expansion preserves all 223 existing objects and provenance and counts admissions only
   ---
-  duration_ms: 4.8731
+  duration_ms: 7.136
   type: 'test'
   ...
 # Subtest: candidate register has at least 420 distinct official URLs but never masquerades as admissions
 ok 32 - candidate register has at least 420 distinct official URLs but never masquerades as admissions
   ---
-  duration_ms: 2.9793
+  duration_ms: 3.4449
   type: 'test'
   ...
 # Subtest: each admission closes direct evidence and independent AI original/delivery hash chains
 ok 33 - each admission closes direct evidence and independent AI original/delivery hash chains
   ---
-  duration_ms: 895.0338
+  duration_ms: 1169.0154
   type: 'test'
   ...
 # Subtest: DeepSeek pack binds every admitted object and comparison to a real local artifact
 ok 34 - DeepSeek pack binds every admitted object and comparison to a real local artifact
   ---
-  duration_ms: 1.7178
+  duration_ms: 2.6245
   type: 'test'
   ...
 # Subtest: first thirty complete through 20 independently evidenced second-tranche objects
 ok 35 - first thirty complete through 20 independently evidenced second-tranche objects
   ---
-  duration_ms: 12.288
+  duration_ms: 20.7657
   type: 'test'
   ...
 # Subtest: second 45 prioritizes 38 city-museum objects and preserves previous 253 exactly
 ok 36 - second 45 prioritizes 38 city-museum objects and preserves previous 253 exactly
   ---
-  duration_ms: 25.4434
+  duration_ms: 36.2968
   type: 'test'
   ...
 # Subtest: third 45 preserves 298 objects and all image provenance; grouped objects count once
 ok 37 - third 45 preserves 298 objects and all image provenance; grouped objects count once
   ---
-  duration_ms: 16.4756
+  duration_ms: 27.1076
   type: 'test'
   ...
 # Subtest: third batch is discoverable by exact titles, new museum names and combined filters
 ok 38 - third batch is discoverable by exact titles, new museum names and combined filters
   ---
-  duration_ms: 52.7047
+  duration_ms: 57.9952
   type: 'test'
   ...
 # Subtest: fourth 45 preserves all 343 records and provenance, closes individual official evidence and independent AI hashes
 ok 39 - fourth 45 preserves all 343 records and provenance, closes individual official evidence and independent AI hashes
   ---
-  duration_ms: 20.332
+  duration_ms: 28.3922
   type: 'test'
   ...
 # Subtest: fourth batch exact searches, categories and new city entries are discoverable
 ok 40 - fourth batch exact searches, categories and new city entries are discoverable
   ---
-  duration_ms: 45.3143
+  duration_ms: 45.1743
   type: 'test'
   ...
 # Subtest: fifth-stage candidates are 45 unique records with explicit ownership and checked raw evidence
 ok 41 - fifth-stage candidates are 45 unique records with explicit ownership and checked raw evidence
   ---
-  duration_ms: 194.3952
+  duration_ms: 320.8722
   type: 'test'
   ...
 # Subtest: fifth-stage does not count candidates or modify any of the existing 388 objects or images
 ok 42 - fifth-stage does not count candidates or modify any of the existing 388 objects or images
   ---
-  duration_ms: 14.7624
+  duration_ms: 8.0489
   type: 'test'
   ...
 # Subtest: seven independent AI originals and fourteen delivery files have closed hashes and no upscaling
 ok 43 - seven independent AI originals and fourteen delivery files have closed hashes and no upscaling
   ---
-  duration_ms: 50.6029
+  duration_ms: 51.4062
   type: 'test'
   ...
 # Subtest: per-museum safe card shards round-trip the authoritative display manifest
 ok 44 - per-museum safe card shards round-trip the authoritative display manifest
   ---
-  duration_ms: 239.7146
+  duration_ms: 442.0168
   type: 'test'
   ...
 # Subtest: runtime card resolution never imports the all-museum manifest
 ok 45 - runtime card resolution never imports the all-museum manifest
   ---
-  duration_ms: 2.2977
+  duration_ms: 3.7234
   type: 'test'
   ...
 # Subtest: round-five evidence register covers each D and C record exactly once
 ok 46 - round-five evidence register covers each D and C record exactly once
   ---
-  duration_ms: 2.2648
+  duration_ms: 4.0456
   type: 'test'
   ...
 # Subtest: no candidate is promoted without original hash, processing chain, and verified authorization
 ok 47 - no candidate is promoted without original hash, processing chain, and verified authorization
   ---
-  duration_ms: 0.6117
+  duration_ms: 0.52
   type: 'test'
   ...
 # Subtest: direct authority records carry item-specific explanatory evidence, not license claims
 ok 48 - direct authority records carry item-specific explanatory evidence, not license claims
   ---
-  duration_ms: 0.4912
+  duration_ms: 1.0872
   type: 'test'
   ...
 # Subtest: generated image data is bound to the untouched authority registry
 ok 49 - generated image data is bound to the untouched authority registry
   ---
-  duration_ms: 28.6823
+  duration_ms: 25.7806
   type: 'test'
   ...
 # Subtest: safe card manifest preserves image selection and new illustration-only records
 ok 50 - safe card manifest preserves image selection and new illustration-only records
   ---
-  duration_ms: 9.5865
+  duration_ms: 10.2188
   type: 'test'
   ...
 # Subtest: safe card manifest contains no provenance, review, authorization or processing fields
 ok 51 - safe card manifest contains no provenance, review, authorization or processing fields
   ---
-  duration_ms: 3.5
+  duration_ms: 3.9597
   type: 'test'
   ...
 # Subtest: 59 museum provenance payloads round-trip every full record exactly with no stale file
 ok 52 - 59 museum provenance payloads round-trip every full record exactly with no stale file
   ---
-  duration_ms: 152.9222
+  duration_ms: 269.7458
   type: 'test'
   ...
 # Subtest: all 23 scrolls preserve card/detail resolution and the Qingming dual-image boundary
 ok 53 - all 23 scrolls preserve card/detail resolution and the Qingming dual-image boundary
   ---
-  duration_ms: 23.2999
+  duration_ms: 27.7037
   type: 'test'
   ...
 # Subtest: AI, held, restricted and verified authorization boundaries remain unchanged
 ok 54 - AI, held, restricted and verified authorization boundaries remain unchanged
   ---
-  duration_ms: 36.9693
+  duration_ms: 55.206
   type: 'test'
   ...
 # Subtest: user Qingming derivatives preserve four original hashes and do not inherit the old Commons license
 ok 55 - user Qingming derivatives preserve four original hashes and do not inherit the old Commons license
   ---
-  duration_ms: 13.3601
+  duration_ms: 8.4464
   type: 'test'
   ...
 # Subtest: round-four register enumerates every unresolved artifact once with evidence grades
 ok 56 - round-four register enumerates every unresolved artifact once with evidence grades
   ---
-  duration_ms: 9.2595
+  duration_ms: 2.9634
   type: 'test'
   ...
 # Subtest: the six verified source-photo objects are excluded from unresolved register
 ok 57 - the six verified source-photo objects are excluded from unresolved register
   ---
-  duration_ms: 0.4043
+  duration_ms: 0.5663
   type: 'test'
   ...
 # Subtest: a capable first visit qualifies for the dynamic opening
 ok 58 - a capable first visit qualifies for the dynamic opening
   ---
-  duration_ms: 1.0542
+  duration_ms: 2.6906
   type: 'test'
   ...
 # Subtest: business routes, repeat visits and history restores bypass the opening
 ok 59 - business routes, repeat visits and history restores bypass the opening
   ---
-  duration_ms: 0.1903
+  duration_ms: 0.3322
   type: 'test'
   ...
 # Subtest: accessibility and constrained device signals select the static replacement
 ok 60 - accessibility and constrained device signals select the static replacement
   ---
-  duration_ms: 0.2177
+  duration_ms: 0.9977
   type: 'test'
   ...
 # Subtest: original GeoJSON remains byte-for-byte bound to the generation report
 ok 61 - original GeoJSON remains byte-for-byte bound to the generation report
   ---
-  duration_ms: 2.5869
+  duration_ms: 3.538
   type: 'test'
   ...
 # Subtest: both offline tiers retain all 34 named regions, geometry types, polygons and rings
 ok 62 - both offline tiers retain all 34 named regions, geometry types, polygons and rings
   ---
-  duration_ms: 1.4497
+  duration_ms: 2.8627
   type: 'test'
   ...
 # Subtest: simplified rings stay finite, closed and preserve exact geographic extrema
 ok 63 - simplified rings stay finite, closed and preserve exact geographic extrema
   ---
-  duration_ms: 15.5837
+  duration_ms: 16.0206
   type: 'test'
   ...
 # Subtest: standard and compact areas stay inside their audited error budgets
 ok 64 - standard and compact areas stay inside their audited error budgets
   ---
-  duration_ms: 3.1316
+  duration_ms: 3.5724
   type: 'test'
   ...
 # Subtest: province label centers and all museum markers retain source containment parity
 ok 65 - province label centers and all museum markers retain source containment parity
   ---
-  duration_ms: 13.8674
+  duration_ms: 12.5368
   type: 'test'
   ...
 # Subtest: Hong Kong and Macao keep dedicated label leaders and touch radii in the renderer
 ok 66 - Hong Kong and Macao keep dedicated label leaders and touch radii in the renderer
   ---
-  duration_ms: 0.7252
+  duration_ms: 1.5078
   type: 'test'
   ...
 # Subtest: new Hangzhou and Lanzhou museum coordinates are inside their named province in all tiers
 ok 67 - new Hangzhou and Lanzhou museum coordinates are inside their named province in all tiers
   ---
-  duration_ms: 0.3461
+  duration_ms: 1.287
   type: 'test'
   ...
 # Subtest: Wuhan and Changzhou city museum coordinates stay in their correct province across tiers
 ok 68 - Wuhan and Changzhou city museum coordinates stay in their correct province across tiers
   ---
-  duration_ms: 0.2743
+  duration_ms: 0.3608
   type: 'test'
   ...
 # Subtest: every museum has exactly one blurb in the lazily imported module
 ok 69 - every museum has exactly one blurb in the lazily imported module
   ---
-  duration_ms: 2.2988
+  duration_ms: 2.8401
   type: 'test'
   ...
 # Subtest: museum blurbs stay out of the eager museum module and out of the first screen
 ok 70 - museum blurbs stay out of the eager museum module and out of the first screen
   ---
-  duration_ms: 1.8514
+  duration_ms: 2.3105
   type: 'test'
   ...
 # Subtest: the home shell resolves blurbs from the lazy module rather than the museum object
 ok 71 - the home shell resolves blurbs from the lazy module rather than the museum object
   ---
-  duration_ms: 1.1146
+  duration_ms: 1.5314
   type: 'test'
   ...
 # Subtest: generated museum data is bound to the untouched authority source
 ok 72 - generated museum data is bound to the untouched authority source
   ---
-  duration_ms: 8.2723
+  duration_ms: 14.445
   type: 'test'
   ...
 # Subtest: light index preserves order and every non-story field
 ok 73 - light index preserves order and every non-story field
   ---
-  duration_ms: 3.088
+  duration_ms: 2.7828
   type: 'test'
   ...
 # Subtest: all 59 full museum payloads round-trip exactly and no stale file remains
 ok 74 - all 59 full museum payloads round-trip exactly and no stale file remains
   ---
-  duration_ms: 83.2354
+  duration_ms: 127.7045
   type: 'test'
   ...
 # Subtest: lazy story search corpus preserves every normalized full description
 ok 75 - lazy story search corpus preserves every normalized full description
   ---
-  duration_ms: 3.9142
+  duration_ms: 2.8778
   type: 'test'
   ...
 # Subtest: all nationwide era, category and province filters match the authority source
 ok 76 - all nationwide era, category and province filters match the authority source
   ---
-  duration_ms: 29.5273
+  duration_ms: 39.9626
   type: 'test'
   ...
 # Subtest: light index plus lazy corpus keeps legacy search scores and ordering
 ok 77 - light index plus lazy corpus keeps legacy search scores and ordering
   ---
-  duration_ms: 1569.7884
+  duration_ms: 1841.6378
   type: 'test'
   ...
 # Subtest: a loaned exhibition entry preserves actual holding institution in full and light data
 ok 78 - a loaned exhibition entry preserves actual holding institution in full and light data
   ---
-  duration_ms: 0.9562
+  duration_ms: 1.038
   type: 'test'
   ...
 # Subtest: every artifact route resolves to exactly one indexed museum
 ok 79 - every artifact route resolves to exactly one indexed museum
   ---
-  duration_ms: 0.2621
+  duration_ms: 0.3037
   type: 'test'
   ...
 # Subtest: production consumers no longer statically import the full museum authority source
 ok 80 - production consumers no longer statically import the full museum authority source
   ---
-  duration_ms: 3.4168
+  duration_ms: 2.3768
   type: 'test'
   ...
 # Subtest: five new Nanyue objects have exact official anchors and honest AI disclosures
 ok 81 - five new Nanyue objects have exact official anchors and honest AI disclosures
   ---
-  duration_ms: 30.1324
+  duration_ms: 23.9892
   type: 'test'
   ...
 # Subtest: search-text evidence is marked and material identity is not transferred between objects
 ok 82 - search-text evidence is marked and material identity is not transferred between objects
   ---
-  duration_ms: 0.4017
+  duration_ms: 0.5308
   type: 'test'
   ...
 # Subtest: the site copy never regresses into the old AI voice
 ok 83 - the site copy never regresses into the old AI voice
   ---
-  duration_ms: 4.4898
+  duration_ms: 1.1372
   type: 'test'
   ...
 # Subtest: rewritten story files carry no banned markers at all
 ok 84 - rewritten story files carry no banned markers at all
   ---
-  duration_ms: 40.9877
+  duration_ms: 48.2104
   type: 'test'
   ...
 # Subtest: rewritten stories avoid the meta-editorial register entirely
 ok 85 - rewritten stories avoid the meta-editorial register entirely
   ---
-  duration_ms: 30.0274
+  duration_ms: 30.2258
   type: 'test'
   ...
 # Subtest: related links in rewritten stories read like a human comparison
 ok 86 - related links in rewritten stories read like a human comparison
   ---
-  duration_ms: 26.1205
+  duration_ms: 38.1912
   type: 'test'
   ...
 # Subtest: every component keeps user-facing copy free of meta commentary
 ok 87 - every component keeps user-facing copy free of meta commentary
   ---
-  duration_ms: 5.2134
+  duration_ms: 7.9835
   type: 'test'
   ...
 # Subtest: museums.ts and the app shell keep the same voice rules
 ok 88 - museums.ts and the app shell keep the same voice rules
   ---
-  duration_ms: 1.7997
+  duration_ms: 2.0277
   type: 'test'
   ...
 # Subtest: ordinary networks allow current-museum provenance idle warm
 ok 89 - ordinary networks allow current-museum provenance idle warm
   ---
-  duration_ms: 2.1741
+  duration_ms: 3.2057
   type: 'test'
   ...
 # Subtest: Save-Data and 2G signals remain intent-only
 ok 90 - Save-Data and 2G signals remain intent-only
   ---
-  duration_ms: 0.2335
+  duration_ms: 0.319
   type: 'test'
   ...
 # Subtest: only a known low and discharging battery blocks idle warm
 ok 91 - only a known low and discharging battery blocks idle warm
   ---
-  duration_ms: 0.1715
+  duration_ms: 0.2998
   type: 'test'
   ...
 # Subtest: responsive evidence covers 208 records while held and text-only artifacts stay excluded
 ok 92 - responsive evidence covers 208 records while held and text-only artifacts stay excluded
   ---
-  duration_ms: 2.8399
+  duration_ms: 8.2633
   type: 'test'
   ...
 # Subtest: card and detail deliveries preserve exact role selection, fallback and AI/source kind
 ok 93 - card and detail deliveries preserve exact role selection, fallback and AI/source kind
   ---
-  duration_ms: 728.2395
+  duration_ms: 895.3627
   type: 'test'
   ...
 # Subtest: all derivatives are proportional, bounded, decodable WebP files with a complete hash chain
 ok 94 - all derivatives are proportional, bounded, decodable WebP files with a complete hash chain
   ---
-  duration_ms: 1045.4776
+  duration_ms: 1721.4749
   type: 'test'
   ...
 # Subtest: runtime manifests expose only generated candidates and museum payloads retain provenance verbatim
 ok 95 - runtime manifests expose only generated candidates and museum payloads retain provenance verbatim
   ---
-  duration_ms: 23.887
+  duration_ms: 38.5992
   type: 'test'
   ...
 # Subtest: share-card description states the current museum and artifact totals
 ok 96 - share-card description states the current museum and artifact totals
   ---
-  duration_ms: 1.4215
+  duration_ms: 1.6503
   type: 'test'
   ...
 # Subtest: share-card copy keeps the scroll-map wording that is specific to this site
 ok 97 - share-card copy keeps the scroll-map wording that is specific to this site
   ---
-  duration_ms: 0.3303
+  duration_ms: 0.9159
   type: 'test'
   ...
 # Subtest: homepage footer carries exactly one author credit inside the footer element
 ok 98 - homepage footer carries exactly one author credit inside the footer element
   ---
-  duration_ms: 1.1765
+  duration_ms: 2.3048
   type: 'test'
   ...
 # Subtest: 140 real collection IDs, six curated trails and discoverable standalone stories
 ok 99 - 140 real collection IDs, six curated trails and discoverable standalone stories
   ---
-  duration_ms: 4.9824
+  duration_ms: 4.8333
   type: 'test'
   ...
 # Subtest: all story summaries are actually corrected in the original museum collection
 ok 100 - all story summaries are actually corrected in the original museum collection
   ---
-  duration_ms: 0.7361
+  duration_ms: 1.0609
   type: 'test'
   ...
 # Subtest: lightweight route manifest matches every full story without loading the story payload
 ok 101 - lightweight route manifest matches every full story without loading the story payload
   ---
-  duration_ms: 3.2965
+  duration_ms: 3.5093
   type: 'test'
   ...
 # Subtest: each story has layered content, an extension chapter, at least three details, reflection and scoped source references
 ok 102 - each story has layered content, an extension chapter, at least three details, reflection and scoped source references
   ---
-  duration_ms: 4.4723
+  duration_ms: 3.8253
   type: 'test'
   ...
 # Subtest: story prose renders as plain text: no markdown emphasis markers leak into the reader
 ok 103 - story prose renders as plain text: no markdown emphasis markers leak into the reader
   ---
-  duration_ms: 3.7639
+  duration_ms: 3.3859
   type: 'test'
   ...
 # Subtest: evidence distinguishes museum material from reported interviews and image rights
 ok 104 - evidence distinguishes museum material from reported interviews and image rights
   ---
-  duration_ms: 2.9313
+  duration_ms: 7.0484
   type: 'test'
   ...
 # Subtest: thirty-second batch binds actual K5:3 conservation and keeps interpretations bounded
 ok 105 - thirty-second batch binds actual K5:3 conservation and keeps interpretations bounded
   ---
-  duration_ms: 0.5205
+  duration_ms: 0.7378
   type: 'test'
   ...
 # Subtest: thirty-fourth batch separates object evidence, oral conservation history, kiln type and unresolved dates
 ok 106 - thirty-fourth batch separates object evidence, oral conservation history, kiln type and unresolved dates
   ---
-  duration_ms: 0.4801
+  duration_ms: 0.8588
   type: 'test'
   ...
 # Subtest: thirty-fifth batch distinguishes two axes, three bottles and an inferred crown owner
 ok 107 - thirty-fifth batch distinguishes two axes, three bottles and an inferred crown owner
   ---
-  duration_ms: 0.4548
+  duration_ms: 0.5427
   type: 'test'
   ...
 # Subtest: thirty-sixth batch separates an object record, later provenance and modern interpretation
 ok 108 - thirty-sixth batch separates an object record, later provenance and modern interpretation
   ---
-  duration_ms: 0.5985
+  duration_ms: 0.6656
   type: 'test'
   ...
 # Subtest: thirty-seventh batch keeps commission, findspot and conflicting records distinct
 ok 109 - thirty-seventh batch keeps commission, findspot and conflicting records distinct
   ---
-  duration_ms: 0.5272
+  duration_ms: 0.6676
   type: 'test'
   ...
 # Subtest: thirty-eighth batch keeps group protection, replica, and tower legend separate
 ok 110 - thirty-eighth batch keeps group protection, replica, and tower legend separate
   ---
-  duration_ms: 0.5156
+  duration_ms: 0.7239
   type: 'test'
   ...
 # Subtest: fourteenth batch corrects object identity and keeps conservation attribution item-specific
 ok 111 - fourteenth batch corrects object identity and keeps conservation attribution item-specific
   ---
-  duration_ms: 0.3278
+  duration_ms: 0.7534
   type: 'test'
   ...
 # Subtest: priority stories separate object facts, research interpretation and modern circulation
 ok 112 - priority stories separate object facts, research interpretation and modern circulation
   ---
-  duration_ms: 0.2831
+  duration_ms: 0.405
   type: 'test'
   ...
 # Subtest: five deepened stories separate identity, object, replica, preservation and interpretation
 ok 113 - five deepened stories separate identity, object, replica, preservation and interpretation
   ---
-  duration_ms: 0.3436
+  duration_ms: 0.4774
   type: 'test'
   ...
 # Subtest: related links always resolve and explain a curated comparison, not invented direct history
 ok 114 - related links always resolve and explain a curated comparison, not invented direct history
   ---
-  duration_ms: 1.1953
+  duration_ms: 1.8257
   type: 'test'
   ...
 # Subtest: new standalone stories preserve findspots, uncertainty and comparison boundaries
 ok 115 - new standalone stories preserve findspots, uncertainty and comparison boundaries
   ---
-  duration_ms: 0.4169
+  duration_ms: 0.7569
   type: 'test'
   ...
 # Subtest: bronze batch separates dated evidence, estimates, repair reports and research inference
 ok 116 - bronze batch separates dated evidence, estimates, repair reports and research inference
   ---
-  duration_ms: 0.3384
+  duration_ms: 0.3697
   type: 'test'
   ...
 # Subtest: fifth batch keeps distinct inscriptions, objects, disputed methods and later retellings
 ok 117 - fifth batch keeps distinct inscriptions, objects, disputed methods and later retellings
   ---
-  duration_ms: 0.3169
+  duration_ms: 0.3241
   type: 'test'
   ...
 # Subtest: sixth batch exposes directly scoped evidence and contradictory catalog claims
 ok 118 - sixth batch exposes directly scoped evidence and contradictory catalog claims
   ---
-  duration_ms: 0.293
+  duration_ms: 0.345
   type: 'test'
   ...
 # Subtest: source panel discloses actual retrieval depth instead of claiming every source was read in full
 ok 119 - source panel discloses actual retrieval depth instead of claiming every source was read in full
   ---
-  duration_ms: 0.4365
+  duration_ms: 0.6228
   type: 'test'
   ...
 # Subtest: story URLs preserve the original museum, artifact, filters and unrelated parameters
 ok 120 - story URLs preserve the original museum, artifact, filters and unrelated parameters
   ---
-  duration_ms: 0.6592
+  duration_ms: 0.822
   type: 'test'
   ...
 # Subtest: invalid story IDs and incompatible trails are safely normalized
 ok 121 - invalid story IDs and incompatible trails are safely normalized
   ---
-  duration_ms: 0.1878
+  duration_ms: 0.2298
   type: 'test'
   ...
 # Subtest: AI scroll artwork cannot enter the original scroll reading desk
 ok 122 - AI scroll artwork cannot enter the original scroll reading desk
   ---
-  duration_ms: 0.5107
+  duration_ms: 0.6963
   type: 'test'
   ...
 # Subtest: five priority stories separate artifact evidence, institutional history and unresolved conservation
 ok 123 - five priority stories separate artifact evidence, institutional history and unresolved conservation
   ---
-  duration_ms: 0.4655
+  duration_ms: 0.6057
   type: 'test'
   ...
 # Subtest: five sample-story refinements bind new claims to direct sources and retain unknowns
 ok 124 - five sample-story refinements bind new claims to direct sources and retain unknowns
   ---
-  duration_ms: 0.2808
+  duration_ms: 0.4687
   type: 'test'
   ...
 # Subtest: five priority stories distinguish collection identity, site protection and modern display
 ok 125 - five priority stories distinguish collection identity, site protection and modern display
   ---
-  duration_ms: 0.3101
+  duration_ms: 0.3633
   type: 'test'
   ...
 # Subtest: five evidence cards distinguish object records, later display and unverified conservation
 ok 126 - five evidence cards distinguish object records, later display and unverified conservation
   ---
-  duration_ms: 0.2942
+  duration_ms: 0.2914
   type: 'test'
   ...
 # Subtest: five priority evidence cards add scoped display, education and comparison without invented restoration
 ok 127 - five priority evidence cards add scoped display, education and comparison without invented restoration
   ---
-  duration_ms: 0.4551
+  duration_ms: 0.5498
   type: 'test'
   ...
 # Subtest: priority story evidence refresh uses direct institutional records without inventing repairs
 ok 128 - priority story evidence refresh uses direct institutional records without inventing repairs
   ---
-  duration_ms: 0.3587
+  duration_ms: 0.4588
   type: 'test'
   ...
 # Subtest: five priority stories add scoped research and excavation evidence without converting inference into object fact
 ok 129 - five priority stories add scoped research and excavation evidence without converting inference into object fact
   ---
-  duration_ms: 0.2934
+  duration_ms: 0.3257
   type: 'test'
   ...
 # Subtest: five priority objects keep newly checked source depth and interpretive boundaries aligned
 ok 130 - five priority objects keep newly checked source depth and interpretive boundaries aligned
   ---
-  duration_ms: 0.2735
+  duration_ms: 0.3526
   type: 'test'
   ...
 # Subtest: seventh batch corrects four collection myths and keeps conservation evidence scoped
 ok 131 - seventh batch corrects four collection myths and keeps conservation evidence scoped
   ---
-  duration_ms: 0.6057
+  duration_ms: 0.5819
   type: 'test'
   ...
 # Subtest: eighth batch separates find contexts, scholarly interpretation, reproductions and object conservation
 ok 132 - eighth batch separates find contexts, scholarly interpretation, reproductions and object conservation
   ---
-  duration_ms: 1.0938
+  duration_ms: 0.6299
   type: 'test'
   ...
 # Subtest: ninth batch distinguishes grouped slips and terracotta types from a specific object
 ok 133 - ninth batch distinguishes grouped slips and terracotta types from a specific object
   ---
-  duration_ms: 0.5309
+  duration_ms: 0.4035
   type: 'test'
   ...
 # Subtest: tenth batch separates inscription, casting, textile evidence from contested readings
 ok 134 - tenth batch separates inscription, casting, textile evidence from contested readings
   ---
-  duration_ms: 0.3976
+  duration_ms: 0.3641
   type: 'test'
   ...
 # Subtest: eleventh batch distinguishes excavation, transmission, inscription counts and object repair
 ok 135 - eleventh batch distinguishes excavation, transmission, inscription counts and object repair
   ---
-  duration_ms: 0.4393
+  duration_ms: 0.5453
   type: 'test'
   ...
 # Subtest: twelfth batch keeps seal identity and vessel-use interpretations separate from objects
 ok 136 - twelfth batch keeps seal identity and vessel-use interpretations separate from objects
   ---
-  duration_ms: 0.3593
+  duration_ms: 0.4572
   type: 'test'
   ...
 # Subtest: fifteenth batch corrects tower dates and distinguishes direct object records from interpretation and display care
 ok 137 - fifteenth batch corrects tower dates and distinguishes direct object records from interpretation and display care
   ---
-  duration_ms: 0.4512
+  duration_ms: 0.3114
   type: 'test'
   ...
 # Subtest: sixteenth batch separates object facts, copies, twin bottles and uncertain ship claims
 ok 138 - sixteenth batch separates object facts, copies, twin bottles and uncertain ship claims
   ---
-  duration_ms: 0.5993
+  duration_ms: 0.2947
   type: 'test'
   ...
 # Subtest: seventeenth batch retains institutional disagreements and separates CT from physical restoration
 ok 139 - seventeenth batch retains institutional disagreements and separates CT from physical restoration
   ---
-  duration_ms: 0.4217
+  duration_ms: 0.3986
   type: 'test'
   ...
 # Subtest: eighteenth batch adds three evidence-scoped stories without inventing recovery or conservation files
 ok 140 - eighteenth batch adds three evidence-scoped stories without inventing recovery or conservation files
   ---
-  duration_ms: 0.5896
+  duration_ms: 0.3451
   type: 'test'
   ...
 # Subtest: nineteenth batch scopes five new collection stories to direct evidence and cautious comparisons
 ok 141 - nineteenth batch scopes five new collection stories to direct evidence and cautious comparisons
   ---
-  duration_ms: 1.13
+  duration_ms: 0.3363
   type: 'test'
   ...
 # Subtest: twentieth batch distinguishes conservation records, cave catalogues and Houma interpretations
 ok 142 - twentieth batch distinguishes conservation records, cave catalogues and Houma interpretations
   ---
-  duration_ms: 0.6042
+  duration_ms: 0.3386
   type: 'test'
   ...
 # Subtest: twenty-first batch separates object records, modern reconstructions and unknown conservation history
 ok 143 - twenty-first batch separates object records, modern reconstructions and unknown conservation history
   ---
-  duration_ms: 0.5791
+  duration_ms: 0.3062
   type: 'test'
   ...
 # Subtest: twenty-second batch preserves Ningbo identity, interpretive disputes and cautious comparisons
 ok 144 - twenty-second batch preserves Ningbo identity, interpretive disputes and cautious comparisons
   ---
-  duration_ms: 0.4484
+  duration_ms: 0.9066
   type: 'test'
   ...
 # Subtest: twenty-third batch separates Dazu carving, interpretation, monitoring and treatment
 ok 145 - twenty-third batch separates Dazu carving, interpretation, monitoring and treatment
   ---
-  duration_ms: 0.399
+  duration_ms: 0.4066
   type: 'test'
   ...
 # Subtest: twenty-fourth batch separates two Qin carriages and kneeling-archer type records
 ok 146 - twenty-fourth batch separates two Qin carriages and kneeling-archer type records
   ---
-  duration_ms: 0.4725
+  duration_ms: 0.4241
   type: 'test'
   ...
 # Subtest: twenty-fifth batch separates object records, functional hypotheses and contemporary reuse
 ok 147 - twenty-fifth batch separates object records, functional hypotheses and contemporary reuse
   ---
-  duration_ms: 0.4758
+  duration_ms: 0.5165
   type: 'test'
   ...
 # Subtest: twenty-sixth batch corrects Dian seal ownership and preserves the two inscription interpretations
 ok 148 - twenty-sixth batch corrects Dian seal ownership and preserves the two inscription interpretations
   ---
-  duration_ms: 0.2903
+  duration_ms: 0.2716
   type: 'test'
   ...
 # Subtest: twenty-seventh batch grounds the bronze cow-tiger table in its own tomb and bounded repair evidence
 ok 149 - twenty-seventh batch grounds the bronze cow-tiger table in its own tomb and bounded repair evidence
   ---
-  duration_ms: 0.1893
+  duration_ms: 0.2648
   type: 'test'
   ...
 # Subtest: twenty-eighth batch keeps the collected Yue sword and two Leifeng Pagoda towers distinct
 ok 150 - twenty-eighth batch keeps the collected Yue sword and two Leifeng Pagoda towers distinct
   ---
-  duration_ms: 0.3298
+  duration_ms: 0.4441
   type: 'test'
   ...
 # Subtest: twenty-ninth batch distinguishes the two dance basins and bounds brick-painting interpretations
 ok 151 - twenty-ninth batch distinguishes the two dance basins and bounds brick-painting interpretations
   ---
-  duration_ms: 0.4555
+  duration_ms: 0.307
   type: 'test'
   ...
 # Subtest: thirty-ninth batch separates batch conservation from object repair and replica from original silk
 ok 152 - thirty-ninth batch separates batch conservation from object repair and replica from original silk
   ---
-  duration_ms: 0.3618
+  duration_ms: 0.1775
   type: 'test'
   ...
 # Subtest: fortieth batch corrects ownership, a tomb date and an uncertain dragon discovery year
 ok 153 - fortieth batch corrects ownership, a tomb date and an uncertain dragon discovery year
   ---
-  duration_ms: 0.4953
+  duration_ms: 0.3118
   type: 'test'
   ...
 # Subtest: forty-second batch separates the painting, remount discovery and screen hypothesis
 ok 154 - forty-second batch separates the painting, remount discovery and screen hypothesis
   ---
-  duration_ms: 0.3185
+  duration_ms: 0.3681
   type: 'test'
   ...
 # Subtest: forty-third batch distinguishes marked Guanyin attribution and the Wu Wang Guang vessel from unsupported uses
 ok 155 - forty-third batch distinguishes marked Guanyin attribution and the Wu Wang Guang vessel from unsupported uses
   ---
-  duration_ms: 0.3411
+  duration_ms: 0.2847
   type: 'test'
   ...
 # Subtest: forty-fourth batch separates a collected jade, a tomb-recorded jade disc and a drum by evidence type
 ok 156 - forty-fourth batch separates a collected jade, a tomb-recorded jade disc and a drum by evidence type
   ---
-  duration_ms: 0.4491
+  duration_ms: 0.4023
   type: 'test'
   ...
 # Subtest: forty-fifth batch separates object-internal evidence from media framing
 ok 157 - forty-fifth batch separates object-internal evidence from media framing
   ---
-  duration_ms: 0.4541
+  duration_ms: 0.3855
   type: 'test'
   ...
 # Subtest: forty-sixth batch separates a two-object tomb find, a Kanruo pot and a category name
 ok 158 - forty-sixth batch separates a two-object tomb find, a Kanruo pot and a category name
   ---
-  duration_ms: 0.4615
+  duration_ms: 0.521
   type: 'test'
   ...
 # Subtest: forty-seventh batch binds the Jiangxi tomb pair and corrects the horse findspot
 ok 159 - forty-seventh batch binds the Jiangxi tomb pair and corrects the horse findspot
   ---
-  duration_ms: 0.4927
+  duration_ms: 0.505
   type: 'test'
   ...
 # Subtest: forty-eighth batch records the dance door, the crushed chariot and the Yue sword
 ok 160 - forty-eighth batch records the dance door, the crushed chariot and the Yue sword
   ---
-  duration_ms: 0.4871
+  duration_ms: 0.4053
   type: 'test'
   ...
 # Subtest: forty-ninth batch keeps the salt-brick fuel dispute and the painted Shengjitu
 ok 161 - forty-ninth batch keeps the salt-brick fuel dispute and the painted Shengjitu
   ---
-  duration_ms: 0.6744
+  duration_ms: 0.5223
   type: 'test'
   ...
 # Subtest: fiftieth batch separates a standard-pitch bell, a loaned scroll and an exhibition listing
 ok 162 - fiftieth batch separates a standard-pitch bell, a loaned scroll and an exhibition listing
   ---
-  duration_ms: 0.6606
+  duration_ms: 0.8378
   type: 'test'
   ...
 # Subtest: fifty-first batch keeps the movable-type evidence, a five-field record and a returned loan
 ok 163 - fifty-first batch keeps the movable-type evidence, a five-field record and a returned loan
   ---
-  duration_ms: 0.6219
+  duration_ms: 0.702
   type: 'test'
   ...
 # Subtest: fifty-second batch names the ten offerings, the court dress rank and the restored shrine
 ok 164 - fifty-second batch names the ten offerings, the court dress rank and the restored shrine
   ---
-  duration_ms: 0.6507
+  duration_ms: 0.3982
   type: 'test'
   ...
 # Subtest: fifty-third batch grades a stone beast, a dated granary and a dictionary entry
 ok 165 - fifty-third batch grades a stone beast, a dated granary and a dictionary entry
   ---
-  duration_ms: 0.5711
+  duration_ms: 0.6975
   type: 'test'
   ...
 # Subtest: fifty-fourth batch handles an in-situ mural, a restored que and a chipped stone spear
 ok 166 - fifty-fourth batch handles an in-situ mural, a restored que and a chipped stone spear
   ---
-  duration_ms: 0.5585
+  duration_ms: 0.6336
   type: 'test'
   ...
 # Subtest: fifty-fifth batch separates two caches, a headdress name and a loaned flask
 ok 167 - fifty-fifth batch separates two caches, a headdress name and a loaned flask
   ---
-  duration_ms: 0.4654
+  duration_ms: 0.4623
   type: 'test'
   ...
 # Subtest: fifty-sixth batch keeps the buffalo, the smoked ding and one specific oracle bone
 ok 168 - fifty-sixth batch keeps the buffalo, the smoked ding and one specific oracle bone
   ---
-  duration_ms: 0.4871
+  duration_ms: 0.6529
   type: 'test'
   ...
 # Subtest: batch 57 records the Macau Museum, Jingzhou and Kaifeng objects with per-item evidence
 ok 169 - batch 57 records the Macau Museum, Jingzhou and Kaifeng objects with per-item evidence
   ---
-  duration_ms: 0.2846
+  duration_ms: 0.4795
   type: 'test'
   ...
 # Subtest: batch 58 records the Three Gorges pair and the Wuyu Buddha with per-item evidence
 ok 170 - batch 58 records the Three Gorges pair and the Wuyu Buddha with per-item evidence
   ---
-  duration_ms: 0.2862
+  duration_ms: 0.3819
   type: 'test'
   ...
 # Subtest: batch 59 records the Mukden throne, the polo mirror and the Fuxi-Nuwa silk painting
 ok 171 - batch 59 records the Mukden throne, the polo mirror and the Fuxi-Nuwa silk painting
   ---
-  duration_ms: 0.2632
+  duration_ms: 0.2625
   type: 'test'
   ...
 # Subtest: batch 60 records the Quanzhou stele, the Buyeo mask and the Qianlong deer vase
 ok 172 - batch 60 records the Quanzhou stele, the Buyeo mask and the Qianlong deer vase
   ---
-  duration_ms: 0.2888
+  duration_ms: 0.3154
   type: 'test'
   ...
 # Subtest: batch 61 records the Nurhaci sword, the Cizao kendi and the Guangxi lacquered tube
 ok 173 - batch 61 records the Nurhaci sword, the Cizao kendi and the Guangxi lacquered tube
   ---
-  duration_ms: 0.2434
+  duration_ms: 0.3365
   type: 'test'
   ...
 # Subtest: batch 62 records the Jun ware censer, the Liao sancai ewer and the Yuan blue-and-white vase
 ok 174 - batch 62 records the Jun ware censer, the Liao sancai ewer and the Yuan blue-and-white vase
   ---
-  duration_ms: 0.2387
+  duration_ms: 0.3384
   type: 'test'
   ...
 # Subtest: batch 63 records the Xinjiang wooden guardian and the Tibetan gilt-bronze Buddha
 ok 175 - batch 63 records the Xinjiang wooden guardian and the Tibetan gilt-bronze Buddha
   ---
-  duration_ms: 0.1949
+  duration_ms: 0.2339
   type: 'test'
   ...
 # Subtest: batch 64 records the Tang court-lady figurine and the Jin double-fish mirror
 ok 176 - batch 64 records the Tang court-lady figurine and the Jin double-fish mirror
   ---
-  duration_ms: 0.2464
+  duration_ms: 0.2233
   type: 'test'
   ...
 # Subtest: batch 65 adds two artifacts photographed on site at the Hubei Provincial Museum
 ok 177 - batch 65 adds two artifacts photographed on site at the Hubei Provincial Museum
   ---
-  duration_ms: 0.2903
+  duration_ms: 0.2725
   type: 'test'
   ...
 # Subtest: the home beacon rotates over field-visit stories instead of repeating one artifact
 ok 178 - the home beacon rotates over field-visit stories instead of repeating one artifact
   ---
-  duration_ms: 0.6602
+  duration_ms: 0.5199
   type: 'test'
   ...
 # Subtest: batch 70 adds three name-only label objects and says so plainly
 ok 179 - batch 70 adds three name-only label objects and says so plainly
   ---
-  duration_ms: 0.4165
+  duration_ms: 0.2907
   type: 'test'
   ...
 # Subtest: batch 69 adds the square you, the Xi-halberd and the Chu-zi Chao ding
 ok 180 - batch 69 adds the square you, the Xi-halberd and the Chu-zi Chao ding
   ---
-  duration_ms: 0.3326
+  duration_ms: 0.3153
   type: 'test'
   ...
 # Subtest: batch 68 adds the Sujialong ding group, the buffalo-knob ding and the jade-pommel scraper
 ok 181 - batch 68 adds the Sujialong ding group, the buffalo-knob ding and the jade-pommel scraper
   ---
-  duration_ms: 0.2403
+  duration_ms: 0.3215
   type: 'test'
   ...
 # Subtest: batch 67 adds the Guojiamiao paired bronzes and the Marquis Yu yong-bell
 ok 182 - batch 67 adds the Guojiamiao paired bronzes and the Marquis Yu yong-bell
   ---
-  duration_ms: 0.288
+  duration_ms: 0.2531
   type: 'test'
   ...
 # Subtest: batch 66 adds the Yejiashan Zeng bronzes and the Huang Ji Ying ding from field labels
 ok 183 - batch 66 adds the Yejiashan Zeng bronzes and the Huang Ji Ying ding from field labels
   ---
-  duration_ms: 0.2485
+  duration_ms: 0.2862
   type: 'test'
   ...
 # Subtest: derived catalog contains every story hook and trail without story bodies or provenance
 ok 184 - derived catalog contains every story hook and trail without story bodies or provenance
   ---
-  duration_ms: 2.209
+  duration_ms: 3.5543
   type: 'test'
   ...
 # Subtest: every story payload round-trips the final authoritative story and exactly its cited sources
 ok 185 - every story payload round-trips the final authoritative story and exactly its cited sources
   ---
-  duration_ms: 217.8343
+  duration_ms: 327.9354
   type: 'test'
   ...
 # Subtest: submit validates required fields, photos and consent
 ok 186 - submit validates required fields, photos and consent
   ---
-  duration_ms: 49.6299
+  duration_ms: 65.8582
   type: 'test'
   ...
 # Subtest: a valid submission lands as pending and stores its photo in D1 until R2 exists
 ok 187 - a valid submission lands as pending and stores its photo in D1 until R2 exists
   ---
-  duration_ms: 9.872
+  duration_ms: 12.7386
   type: 'test'
   ...
 # Subtest: with an R2 binding the photo goes to the bucket and is served back
 ok 188 - with an R2 binding the photo goes to the bucket and is served back
   ---
-  duration_ms: 3.5112
+  duration_ms: 6.5432
   type: 'test'
   ...
 # Subtest: the review queue requires the admin token and controls publication
 ok 189 - the review queue requires the admin token and controls publication
   ---
-  duration_ms: 6.4018
+  duration_ms: 8.2132
   type: 'test'
   ...
 # Subtest: rejection hides the submission again and is reported to the submitter
 ok 190 - rejection hides the submission again and is reported to the submitter
   ---
-  duration_ms: 3.858
+  duration_ms: 6.4502
   type: 'test'
   ...
 # Subtest: an admin token can preview a pending photo; the rate limiter caps submissions per hour
 ok 191 - an admin token can preview a pending photo; the rate limiter caps submissions per hour
   ---
-  duration_ms: 13.4916
+  duration_ms: 21.9174
   type: 'test'
   ...
 # Subtest: visitor records validate required fields, province and consent
 ok 192 - visitor records validate required fields, province and consent
   ---
-  duration_ms: 6.7928
+  duration_ms: 10.0804
   type: 'test'
   ...
 # Subtest: zip writer produces archives the reader can read back, including deflate entries
 ok 193 - zip writer produces archives the reader can read back, including deflate entries
   ---
-  duration_ms: 34.1788
+  duration_ms: 39.4791
   type: 'test'
   ...
 # Subtest: export package round-trips records and photos, and refuses tampered photos
 ok 194 - export package round-trips records and photos, and refuses tampered photos
   ---
-  duration_ms: 2.9128
+  duration_ms: 5.0778
   type: 'test'
   ...
 # Subtest: summaries and byte formatting stay honest for the UI
 ok 195 - summaries and byte formatting stay honest for the UI
   ---
-  duration_ms: 0.3694
+  duration_ms: 0.7584
   type: 'test'
   ...
 # Subtest: published visitor records stay schema-valid, labelled and clearly unverified
 ok 196 - published visitor records stay schema-valid, labelled and clearly unverified
   ---
-  duration_ms: 0.6206
+  duration_ms: 1.195
   type: 'test'
   ...
 # Subtest: visitor submissions never enter the curated layers
 ok 197 - visitor submissions never enter the curated layers
   ---
-  duration_ms: 2.8768
+  duration_ms: 3.7493
   type: 'test'
   ...
 # Subtest: the visitor tool only talks to its own submission API and stays off the atlas data
 ok 198 - the visitor tool only talks to its own submission API and stays off the atlas data
   ---
-  duration_ms: 2.8604
+  duration_ms: 2.7502
   type: 'test'
   ...
 # Subtest: the built site ships the visitor page separately from the atlas bundle
 ok 199 - the built site ships the visitor page separately from the atlas bundle
   ---
-  duration_ms: 2.6973
+  duration_ms: 2.5364
   type: 'test'
   ...
 1..199
@@ -1201,4 +1201,4 @@ ok 199 - the built site ships the visitor page separately from the atlas bundle
 # cancelled 0
 # skipped 0
 # todo 0
-# duration_ms 2285.3638
+# duration_ms 3259.3093
