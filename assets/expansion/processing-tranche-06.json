@@ -1,0 +1,259 @@
+{
+  "version": "expansion-tranche-06-20261005",
+  "generator": "OpenAI built-in imagegen",
+  "note": "原始文件为AI生成，不是馆藏照片；网页派生仅缩放编码。历史细节未核，不能用于认读纹饰或铭文。",
+  "items": [
+    {
+      "id": "jnz-yellow-dragon-robe",
+      "prompt": "Scientific educational AI museum illustration, NOT a photo. Full bright yellow Qing Daoguang cloud-dragon brocade robe alone, right-closing front, round collar, very wide horizontal sleeves. Crucial: HORSE HOOF cuffs: dark elongated cuff extensions terminate in prominent curved concave/scalloped ends, not straight rectangular sleeve edges. Approximate gold dragon and cloud motifs, lower sea-wave band, no readable Chinese. Warm ivory square hand-painted archaeological illustration, generous padding. No wearer, no logos or text, no exact-original pattern claim.",
+      "originalFile": "assets/expansion/originals/tranche-06/jnz-yellow-dragon-robe.png",
+      "generatedAt": "2026-10-05T09:04:36.016Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形和无可读伪造文字；不是原貌认证，纹样布局与织物细部均不可作史料。",
+      "originalSha256": "5782d99d073bb93c546038a5f418cc0906795d6cf15328ec71413848256af661",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-06/jnz-yellow-dragon-robe-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "a60f2a5dd8da0161eeac78cb7ab82488a90a25cc9e75df16f29dce25d1b046b9",
+          "bytes": 126328,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-06/jnz-yellow-dragon-robe-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "d60b8fddd2d729412ed58bd7adbc2be5318c5f38828200ec32675ae8f2833cfe",
+          "bytes": 386211,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "jnz-crane-robe",
+      "prompt": "Scientific educational single museum AI illustration, not a photograph. Square warm ivory paper, refined full-color hand-painted archaeological rendering, complete garment alone with padding. Qing red silk ceremonial crane robe, round collar, right-closing front, wide sleeves, black trim and approximate white crane medallions with restrained floral clouds. No wearer, no readable characters, no labels, no logos. General silhouette only, not exact embroidery or reconstruction of any named person's robe.",
+      "originalFile": "assets/expansion/originals/tranche-06/jnz-crane-robe.png",
+      "generatedAt": "2026-10-05T09:04:36.026Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形和无可读伪造文字；不是原貌认证，纹样布局与织物细部均不可作史料。",
+      "originalSha256": "0fe580c04ee9295b557c47b1fd04b1c4c91610cb876c75930bcb58c1d08630fb",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-06/jnz-crane-robe-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "1e732d48f7721c8ad402025e77f1071aa6fb7371330479c660e9ccba3bf23f16",
+          "bytes": 136715,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-06/jnz-crane-robe-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "1d34d7ef2abe80f3c9977d080829df1c46c5f9d93d397b71321bf0aa3ad5cdcf",
+          "bytes": 419263,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "jnz-blue-kesi-robe",
+      "prompt": "Scientific educational museum AI illustration, NOT authentic photo. Subject: Blue tapestry silk robe, gold dragon motifs, black cuffs, no embroidery stitches invented. Warm ivory paper background, refined full-color hand-painted archaeological rendering, one complete garment alone centered with padding, square. General silhouette only, decoration approximate. No wearer, labels, logos, watermarks or readable inscriptions.",
+      "originalFile": "assets/expansion/originals/tranche-06/jnz-blue-kesi-robe.png",
+      "generatedAt": "2026-10-05T09:04:36.035Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形和无可读伪造文字；不是原貌认证，纹样布局与织物细部均不可作史料。",
+      "originalSha256": "5571e8f3dab3871dbaaf949a73bdaa3aaee018eb0c823d179288150da81be5de",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-06/jnz-blue-kesi-robe-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "3dc01838750d353e58f34b8618836b64a14a23f73336645e2f3ed739e962b207",
+          "bytes": 144166,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-06/jnz-blue-kesi-robe-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "f9787716d479ca7a2d4a21cdf389d88580fddd532249419c73df08926cb902bd",
+          "bytes": 422082,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "jnz-navy-dragon-jacket",
+      "prompt": "Scientific educational AI museum illustration, NOT authentic photo. Qing dark navy silk open-front jacket, round collar, straight wide cuffs, TWO gold dragon roundels on visible front, one on each chest side. Other two medallions belong to unseen back; only TWO visible roundels, NO lower-front medallions. One full garment alone centered warm ivory square background, refined hand-painted materials, faint clouds. No wearer, text, labels, logos. Approximate educational pattern, not exact original.",
+      "originalFile": "assets/expansion/originals/tranche-06/jnz-navy-dragon-jacket.png",
+      "generatedAt": "2026-10-05T09:04:36.043Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形和无可读伪造文字；不是原貌认证，纹样布局与织物细部均不可作史料。",
+      "originalSha256": "a36c59be02e360a0950f936d5bbce6012faeebad3257133a7c0878ee6560d31d",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-06/jnz-navy-dragon-jacket-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "ec7095a5c14aec2f3bdb8124b57acec428117653bac66c80157964b970e1d0bd",
+          "bytes": 103145,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-06/jnz-navy-dragon-jacket-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "44b3ccad4b22ac3c9561f9d311a9012b44e389ea67dc0e6a6ad93f437a829885",
+          "bytes": 322692,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "jnz-red-woman-robe",
+      "prompt": "Scientific educational museum AI illustration, NOT authentic photo. Subject: Red silk female ceremonial robe with flat cuffs and eight approximate gold dragon medallions. Show front view, medallions also exist on the unseen back: do NOT force all eight roundels onto the front. Warm ivory paper, refined full-color hand-painted rendering, full garment alone, square, generous padding. Garment structure is approximate. No wearer, labels, readable characters, watermarks or logos.",
+      "originalFile": "assets/expansion/originals/tranche-06/jnz-red-woman-robe.png",
+      "generatedAt": "2026-10-05T09:04:36.058Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形和无可读伪造文字；不是原貌认证，纹样布局与织物细部均不可作史料。",
+      "originalSha256": "4c4877a8e0d6b742b8c6edbc1aeb4f694b13c58c80cf2e4e6b456e1502fd464d",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-06/jnz-red-woman-robe-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "ffbbea6e2eac685b2721ae072b1d64a70adcd2ded0d5827da3d576afd0fde373",
+          "bytes": 129028,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-06/jnz-red-woman-robe-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "259e587c88dda26bf25d487dfe73143ae30dbb6783902ae9d0533f76de98648a",
+          "bytes": 409871,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "jnz-purple-brocade-robe",
+      "prompt": "Scientific educational single museum AI illustration, NOT photo. Purple lightweight brocade robe with gold cloud and dragon patterns, not printed cotton, no invented text. Qing round collar right-closing robe, very wide sleeves, gently curved horse-hoof cuffs and side slits, full garment alone centered on warm ivory, refined hand-painted full-color illustration. Approximate decorations, no wearer, no readable text, logos, modern props or labels.",
+      "originalFile": "assets/expansion/originals/tranche-06/jnz-purple-brocade-robe.png",
+      "generatedAt": "2026-10-05T09:04:36.069Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形和无可读伪造文字；不是原貌认证，纹样布局与织物细部均不可作史料。",
+      "originalSha256": "e8b5d80d7488117209be9b4e72777b4c3ffed2be76e4ab1e3698544b5c46485d",
+      "originalDimensions": [
+        1312,
+        1199
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-06/jnz-purple-brocade-robe-card.jpg",
+          "width": 640,
+          "height": 585,
+          "sha256": "9fae9cbd8d273bdcd2eb5577fb168f5e776c3866e86f78ba8ee13570c2610cad",
+          "bytes": 129887,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-06/jnz-purple-brocade-robe-detail.jpg",
+          "width": 1200,
+          "height": 1097,
+          "sha256": "b961eb4ced27a9862f2158fafda93967d10446a0ae4bfc28592564530179b036",
+          "bytes": 405499,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "jnz-yellow-velvet-coat",
+      "prompt": "Scientific educational single museum AI illustration, NOT photo. Apricot yellow velvet coat with woven gold scrolling lotus motifs, restrained pile texture, no dragons. Full long Qing coat alone, wide sleeves, round collar, right-closing front, consistent apricot-yellow pile velvet covered with approximate gold scrolling lotus vines. No dragons, no roundel birds. Square warm ivory background, refined hand-painted materials, centered generous padding, no text, wearer, logos, labels or modern props.",
+      "originalFile": "assets/expansion/originals/tranche-06/jnz-yellow-velvet-coat.png",
+      "generatedAt": "2026-10-05T09:04:36.078Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形和无可读伪造文字；不是原貌认证，纹样布局与织物细部均不可作史料。",
+      "originalSha256": "a394a391498a948a6a950a75e712254720b3f4a1d918e134a367f5024c41e3c5",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-06/jnz-yellow-velvet-coat-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "a514f05c0fa7a024bee0cbf9ddba9506d1e378960c9cbb5dfab97b7c68eaf4dc",
+          "bytes": 111243,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-06/jnz-yellow-velvet-coat-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "963c3409bbe50a4a1518e79f5a39149d648859707306e8fa987338072b868495",
+          "bytes": 362862,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    }
+  ]
+}

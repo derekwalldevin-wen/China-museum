@@ -40,7 +40,7 @@ for item in inputs['items']:
             derived.save(destination, 'JPEG', quality=92, optimize=True)
             roles[role] = {'src': f'/artifact-expansion/tranche-{tranche}/{filename}', 'width': derived.width, 'height': derived.height, 'sha256': digest(destination), 'bytes': destination.stat().st_size, 'upscaled': False, 'aiGenerated': True, 'operation': '等比缩小、JPEG编码；不裁切、不锐化、不补绘'}
     records.append({**item, 'originalFile': f'assets/expansion/originals/tranche-{tranche}/{identifier}.png', 'originalSha256': digest(retained), 'originalDimensions': original_size, 'roles': roles})
-batch_date = '20261005' if tranche in ('04', '05') else '20261004'
+batch_date = '20261005' if tranche in ('04', '05', '06') else '20261004'
 manifest = {'version': f'expansion-tranche-{tranche}-{batch_date}', 'generator': 'OpenAI built-in imagegen', 'note': '原始文件为AI生成，不是馆藏照片；网页派生仅缩放编码。历史细节未核，不能用于认读纹饰或铭文。', 'items': records}
 destination = root / f'assets/expansion/processing-tranche-{tranche}.json'
 destination.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')

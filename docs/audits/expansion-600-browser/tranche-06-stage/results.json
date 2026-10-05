@@ -1,0 +1,25 @@
+{
+  "localOnly": true,
+  "candidatePreviewOnly": true,
+  "passed": 2,
+  "checks": [
+    {
+      "label": "desktop",
+      "articles": 45,
+      "images": 7,
+      "pending": 38,
+      "overflow": -15,
+      "disclosure": true,
+      "links": true
+    },
+    {
+      "label": "mobile-390",
+      "articles": 45,
+      "images": 7,
+      "pending": 38,
+      "overflow": 0,
+      "disclosure": true,
+      "links": true
+    }
+  ]
+}

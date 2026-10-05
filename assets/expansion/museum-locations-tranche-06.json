@@ -1,0 +1,10 @@
+{
+  "checkedAt": "2026-10-05",
+  "coordinateSystem": "WGS84",
+  "note": "官方馆舍地址与公开OSM馆舍位置交叉核对；仅供全国地图定位，不作为入口导航或实时在展证明。",
+  "items": [
+    {"id":"nanjing-city","name":"南京市博物馆","province":"江苏省","city":"南京","coord":[118.77009,32.03757],"address":"南京市秦淮区朝天宫4号","addressUrl":"https://www.njmuseumadmin.com/Stadium/index","addressEvidenceKey":"9f9f04f6314d81beb00a","coordinateUrl":"https://mapcarta.com/W1094066480","osmUrl":"https://www.openstreetmap.org/way/1094066480","coordinateEvidence":"公开地图记录名称南京市博物馆，OSM way 1094066480，纬度32.03757，经度118.77009；位于朝天宫建筑群，非南京博物院。","coordinateReadMethod":"web search result containing full place record"},
+    {"id":"six-dynasties","name":"六朝博物馆","province":"江苏省","city":"南京","coord":[118.79406,32.04488],"address":"南京市玄武区长江路302号","addressUrl":"https://www.njmuseumadmin.com/Stadium/index/id/6","addressEvidenceKey":"1cb9d469374d67f6f330","coordinateUrl":"https://mapcarta.com/W1061577687","osmUrl":"https://www.openstreetmap.org/way/1061577687","coordinateEvidence":"公开地图记录The Oriental Metropolitan Museum，中文别名六朝博物馆，地址长江路302号，纬度32.04488，经度118.79406。","coordinateReadMethod":"web direct place page"},
+    {"id":"jiangning-weaving","name":"江宁织造博物馆","province":"江苏省","city":"南京","coord":[118.78886,32.0443],"address":"南京市玄武区长江路123号","addressUrl":"https://www.njmuseumadmin.com/Stadium/index/id/3","addressEvidenceKey":"299a811b9714a591cd1c","coordinateUrl":"https://mapcarta.com/W205421877","osmUrl":"https://www.openstreetmap.org/way/205421877","coordinateEvidence":"公开地图记录名称江宁织造博物馆，OSM way 205421877，纬度32.0443，经度118.78886。","coordinateReadMethod":"web direct place page"}
+  ]
+}

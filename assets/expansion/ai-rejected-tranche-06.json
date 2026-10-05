@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "jnz-yellow-dragon-robe",
+      "prompt": "Use case: scientific-educational. Single independent AI museum illustration, NOT authentic artifact photograph. Warm ivory background, refined hand-painted archaeological full-color rendering, square centered full object with padding. Subject: Qing Daoguang bright yellow brocade ceremonial robe, round collar, right-closing front, very wide sleeves ending in horse-hoof cuffs, slit sides. Gold approximate dragon motifs amidst clouds and restrained lower waves. Garment alone, no wearer. This is only a general silhouette based on a museum text record, not exact original decoration. No readable Chinese characters, no labels, no logos, no watermarks, no extra objects.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-563077f8-a820-4a40-a154-4b59306d7237.png",
+      "visualReview": "rejected",
+      "reason": "袖口初稿为平直边，不符合马蹄袖概括约束"
+    },
+    {
+      "id": "jnz-navy-dragon-jacket",
+      "prompt": "Scientific educational museum AI illustration, NOT authentic photo. Subject: Dark navy open-front straight-cuff silk jacket, four gold dragon roundels; approximate motifs only. Warm ivory paper background, refined full-color hand-painted archaeological rendering, one complete garment alone centered with padding, square. General silhouette only, decoration approximate. No wearer, labels, logos, watermarks or readable inscriptions.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-fac2108e-437c-4348-bd41-6909d653b9d4.png",
+      "visualReview": "rejected",
+      "reason": "前后团纹被集中画在正面"
+    }
+  ]
+}
