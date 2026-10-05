@@ -24,7 +24,7 @@ for (const [label, width, mobile] of [['desktop', 1440, false], ['mobile-390', 3
       for (const [key, value] of Object.entries({ province: museum.province, museum: museum.id, artifact: item.id })) url.searchParams.set(key, value);
       await page.navigate(url.href);
       await page.wait(`document.querySelector('#artifact-dialog-title')?.textContent.includes(${JSON.stringify(item.name)}) && document.querySelector('[data-detail-image-state="ready"] img')?.naturalWidth > 0`, `${label}: ${item.id}`, 30000);
-      const result = await page.evaluate(`(() => { const dialog=document.querySelector('[role="dialog"]'); return {ai:dialog.textContent.includes('AI 复原示意 · 非文物实拍'), source:[...dialog.querySelectorAll('a')].some(a=>a.href===${JSON.stringify(item.sourceUrl)}), references:dialog.textContent.includes('馆藏资料与延伸阅读'), overflow:document.documentElement.scrollWidth-innerWidth}; })()`);
+      const result = await page.evaluate(`(() => { const dialog=document.querySelector('[role="dialog"]'); return {ai:dialog.textContent.includes('AI 复原示意 · 非文物实拍'), source:[...dialog.querySelectorAll('a')].some(a=>a.href===${JSON.stringify(new URL(item.sourceUrl).href)}), references:dialog.textContent.includes('馆藏资料与延伸阅读'), overflow:document.documentElement.scrollWidth-innerWidth}; })()`);
       assert.equal(result.ai, true, item.id);
       assert.equal(result.source, true, item.id);
       assert.equal(result.references, true, item.id);
