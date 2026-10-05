@@ -2,7 +2,6 @@ import { useCallback, useEffect, useLayoutEffect, useMemo, useRef } from 'react'
 import type { Artifact, Category, Era, Museum, MuseumIndex } from '../data/types';
 import ArtifactCard, { ArtifactFigure } from './ArtifactCard';
 import FilterBar from './FilterBar';
-import { storyTeaserIndex } from '../data/story-routes';
 import { storyTeaserHooks } from '../data/story-teaser-hooks';
 import { warmArtifactDetailImage } from '../data/artifact-detail-prefetch';
 import { useIdleMuseumImageMetadata } from '../hooks/useIdleMuseumImageMetadata';
@@ -270,7 +269,18 @@ export default function MuseumDetail({
               <div className="my-4 h-px w-16 bg-[#d43a28]" />
               <p className="text-[14px] leading-loose text-[#efe6cf]/75">{openArtifact.story}</p>
 
-              {storyTeaserIndex[openArtifact.id] && <button type="button" data-story-entry onClick={() => onReadStory(openArtifact.id)}
+              {openArtifact.inventoryNumber && <p className="mt-3 break-all font-mono text-xs text-[#efe6cf]/45">馆藏编号：{openArtifact.inventoryNumber}</p>}
+              {openArtifact.references && openArtifact.references.length > 0 && <details className="mt-5 border-t border-[#b49a63]/25 pt-3" data-artifact-references>
+                <summary className="min-h-11 cursor-pointer font-serif text-[#e7d5ab]">馆藏资料与延伸阅读 · {openArtifact.references.length}</summary>
+                <ul className="space-y-3 pb-3 text-sm">
+                  {openArtifact.references.map(reference => <li key={reference.url}>
+                    <a href={reference.url} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center text-[#e7d5ab] underline underline-offset-4">{reference.title} ↗</a>
+                    <p className="text-xs leading-relaxed text-[#efe6cf]/55">{reference.institution} · {reference.supports}</p>
+                  </li>)}
+                </ul>
+              </details>}
+
+              {storyTeaserHooks[openArtifact.id] && <button type="button" data-story-entry onClick={() => onReadStory(openArtifact.id)}
                 className="mt-5 w-full border border-[#b49a63]/55 bg-[#b49a63]/10 px-4 py-4 text-left text-[#e7d5ab] min-h-11">
                 <span className="block font-serif text-lg">读懂这件文物的故事 →</span>
                 <span className="mt-2 block text-xs leading-relaxed">{storyTeaserHooks[openArtifact.id]} · 分层解读 / 三个细节 / 继续探索</span>

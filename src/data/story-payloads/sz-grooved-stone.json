@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-grooved-stone",
+  "hook": "一块磨光的石头，上端还留着打制痕迹",
+  "summary": "深圳博物馆藏新石器时代刻槽石器。器身呈长方形，下端有单面刃，通体磨光；上部仍留打制痕迹，并有一道横裂。官方记录没有给出尺寸、出土地点与使用功能，可核的只有外形与加工痕迹。",
+  "summaryRefs": [
+   "t03-sz-grooved-stone-official"
+  ],
+  "sections": [
+   {
+    "title": "外形上的几处观察",
+    "text": "刻槽石器呈长方形，下端有单面刃，通体磨光；上部仍留打制痕迹，并有一道横裂。轮廓、刃口、磨光面，以及两种加工痕迹的分布，都能在外形上直接看到。",
+    "refs": [
+     "t03-sz-grooved-stone-official"
+    ]
+   },
+   {
+    "title": "磨光与打制同在一件上",
+    "text": "通体磨光的器身上留着打制痕迹，说明表面经过不同阶段的处理。这一层属类型背景：史前石器的成形常先打制再磨制。本件哪一步在前、哪一步在后，官方记录没有写明，工序细节仍需另找研究资料。",
+    "refs": [
+     "t03-sz-grooved-stone-official"
+    ]
+   },
+   {
+    "title": "“刻槽”是两个字的定名",
+    "text": "“刻槽石器”是馆方的定名方式，两个字概括了器物的一个特征。生成图只概括器体轮廓与凹槽走向，不据示意图判断槽的数量与深度。仅凭名称去推耕作、纺织或某种仪式，都缺少本件的证据。",
+    "refs": [
+     "t03-sz-grooved-stone-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，一块石头留下的加工痕迹，比它能做什么更能说明事情：痕迹直接说明它被人做过、用过。这层理解属当代阐释。尺寸、出土地点、入藏经过与使用功能，官方记录未载；逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-grooved-stone-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与类别",
+    "text": "馆方定为新石器时代；石器，定名刻槽石器。",
+    "refs": [
+     "t03-sz-grooved-stone-official"
+    ]
+   },
+   {
+    "title": "形态",
+    "text": "长方形，下端有单面刃。",
+    "refs": [
+     "t03-sz-grooved-stone-official"
+    ]
+   },
+   {
+    "title": "表面处理",
+    "text": "通体磨光；上部仍留打制痕迹，并有一道横裂。",
+    "refs": [
+     "t03-sz-grooved-stone-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "尺寸、出土地点与使用功能未载；加工工序不据示意图判断。",
+    "refs": [
+     "t03-sz-grooved-stone-official"
+    ]
+   },
+   {
+    "title": "入藏",
+    "text": "收藏经过未载。",
+    "refs": [
+     "t03-sz-grooved-stone-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "一块磨光的石器，为什么还留着打制痕迹？",
+   "answer": "磨光未必覆盖全器。刃部与需要精细的部位通常磨得更彻底，上部或握持处可能保留较早的打制面。馆方记录只说明痕迹仍在，没有交代各部位处理的先后，具体工序仍需另找研究资料。",
+   "refs": [
+    "t03-sz-grooved-stone-official"
+   ]
+  },
+  "uncertainty": "尺寸、出土地点、入藏经过与使用功能未载；加工工序、凹槽数量与深度不据示意图判断；年代依馆方定年；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-stone-adze",
+    "reason": "同为深圳馆藏的磨制石器：一件下端单面刃、上部留打制痕迹，一件以器体与刃部定名为锛，比较两件器体上可核的加工面。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-perforated-shovel",
+    "reason": "两件史前石器的记录都不完整：一件缺尺寸与出土地，一件缺完整轮廓，比较同样残缺的信息里各自剩下哪些可核项。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-grooved-stone-official": {
+   "id": "t03-sz-grooved-stone-official",
+   "title": "官方逐件记录：刻槽石器（41d4c661935a4b93b5cda2225be6e15e）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=41d4c661935a4b93b5cda2225be6e15e",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方定为新石器时代；器身呈长方形，下端有单面刃，通体磨光，上部仍留打制痕迹与一道横裂。未载：尺寸、出土地点与使用功能；加工工序与凹槽细节不据生成图判断；不构成照片授权。"
+  }
+ }
+}

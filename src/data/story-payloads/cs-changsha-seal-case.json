@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "cs-changsha-seal-case",
+  "hook": "一只空匣子，装过一块泥",
+  "summary": "长沙简牍博物馆藏西汉封泥匣。1993年长沙望城坡西汉渔阳王后墓出土。长方形，中间下凹以填封泥，纵断面呈凹字形；封泥上印有“长沙后府”四字。长5、宽3、厚1.2厘米。本条材质未在正文明确，不擅自定为木或金属。",
+  "summaryRefs": [
+   "t04-cs-changsha-seal-case-official"
+  ],
+  "sections": [
+   {
+    "title": "封泥与它的匣子",
+    "text": "官方说明给出了封泥的定义：古代印章盖在门户或包裹封口上的小块泥土，防止被别人打开或拆动，也称为泥封。这只匣子就是用来装封泥的：长方形，中间下凹，纵断面呈凹字形——凹槽给泥留出位置，泥上再钤印。",
+    "refs": [
+     "t04-cs-changsha-seal-case-official"
+    ]
+   },
+   {
+    "title": "四个字",
+    "text": "封泥上印有“长沙后府”四个字。要分清：这是**印文**，不是某人的姓名。“长沙”是地名，“后府”是机构或宫室一类的名号；它表明这枚封泥与长沙国的后宫机构有关，而不是说墓主人就叫“长沙后府”。本条不把印文当名字使用。",
+    "refs": [
+     "t04-cs-changsha-seal-case-official"
+    ]
+   },
+   {
+    "title": "它与墓主人身份的关系",
+    "text": "馆方说明有一层重要判断：封泥文字是断定墓葬主人身份的重要依据。也就是说，这四字属于**研究证据**——它与墓葬同出，可以帮助研究者判断墓主所属的机构与身份范围。但证据不等于姓名；此墓登记为西汉渔阳王后墓，与“长沙后府”的关系属于研究层面的讨论。",
+    "refs": [
+     "t04-cs-changsha-seal-case-official"
+    ]
+   },
+   {
+    "title": "尺寸与一条不写的项",
+    "text": "长5、宽3、厚1.2厘米，体量很小，正好一握。官方正文没有明确它的材质，因此本条不写“木制”或“铜制”——根据不足就不填。逐次保护修复档案未核。站内配图是 AI 概括示意，凹槽的形状与印文都不能据图核对。",
+    "refs": [
+     "t04-cs-changsha-seal-case-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与尺寸",
+    "text": "1993年渔阳王后墓出土；长5、宽3、厚1.2厘米。",
+    "refs": [
+     "t04-cs-changsha-seal-case-official"
+    ]
+   },
+   {
+    "title": "形制",
+    "text": "长方形，中间下凹以填封泥，纵断面呈凹字形。",
+    "refs": [
+     "t04-cs-changsha-seal-case-official"
+    ]
+   },
+   {
+    "title": "印文",
+    "text": "“长沙后府”四字；为机构名号，不作墓主人姓名。",
+    "refs": [
+     "t04-cs-changsha-seal-case-official"
+    ]
+   },
+   {
+    "title": "材质",
+    "text": "正文未明确，不擅自定为木或金属。",
+    "refs": [
+     "t04-cs-changsha-seal-case-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "一块泥巴印上字，为什么也能当重要证据？",
+   "answer": "因为印章大多没有留下来，而泥土上的印痕留下了印文。按馆方的说明，封泥是印章直接打上的印痕，其史料价值与印章本身相当；传世封泥上的印文，是摹习与考证的直接资料。一枚封泥因此能说明某机构曾经存在、某处封缄用过哪一枚印。",
+   "refs": [
+    "t04-cs-changsha-seal-case-official"
+   ]
+  },
+  "uncertainty": "匣体材质未明确；封泥原印的持有者与具体使用场合未载；“长沙后府”与渔阳王后身份的关系属研究讨论；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按长沙简牍博物馆逐件官方记录补全；印文不作姓名使用。",
+  "related": [
+   {
+    "id": "cs-yuyang-cup-box",
+    "reason": "同一座墓里的两种小器：一件装封泥以防拆动，一件装耳杯以便取用，比较“封”与“纳”两种功能。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cs-yuyang-triangle-cup",
+    "reason": "都带文字：一件的印文标出机构，一件的刻字标出“渔阳”，比较汉代器物与文书上的标记方式。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-cs-changsha-seal-case-official": {
+   "id": "t04-cs-changsha-seal-case-official",
+   "title": "官方逐件记录：“长沙后府”封泥匣（nid=247）",
+   "institution": "长沙简牍博物馆",
+   "url": "https://www.chinajiandu.cn/Collection/Details/yym?nid=247",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：西汉；长5、宽3、厚1.2厘米；1993年长沙望城坡西汉渔阳王后墓出土；封泥匣呈长方形、中间下凹以填封泥，纵断面呈凹字形；封泥上印有“长沙后府”四字；馆方说明封泥为印章盖在门户或包裹封口上的小块泥土（也称泥封），用于防止被打开或拆动，并称传世封泥印文是摹习与考证的直接资料、封泥文字也是断定墓葬主人身份的重要依据。边界：本件材质未在正文明确，不擅自定为木或金属；印文不作墓主人姓名使用；不构成照片授权。"
+  }
+ }
+}

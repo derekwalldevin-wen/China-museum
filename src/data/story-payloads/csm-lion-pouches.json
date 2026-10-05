@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-lion-pouches",
+  "hook": "一对荷包，绳上还挂着玉环",
+  "summary": "中国丝绸博物馆藏清代荷包一对（成对计一条）。面料为丝，荷包面打褶、口部抽紧，用盘金彩绣表现狮子纹；单只11.5×11.5厘米，含绳与玉环总长40.5厘米。原主人与入藏经过未在官方记录中公布。",
+  "summaryRefs": [
+   "t04-csm-lion-pouches-official"
+  ],
+  "sections": [
+   {
+    "title": "先说清楚“一对”",
+    "text": "官方记录写的是：1对2只，尺寸11.5×11.5厘米，含绳与玉环总长40.5厘米。成对是原件登记的数量关系，本条按一对计一件，不拆开、也不把其中一只单独讲成另一件文物。两只相同的荷包并排出现，本身就说明它们原本是配套使用的。",
+    "refs": [
+     "t04-csm-lion-pouches-official"
+    ]
+   },
+   {
+    "title": "做法写在名字里",
+    "text": "“盘金彩绣狮子纹荷包”几乎把工艺说完了：盘金是针法，彩绣是配色，狮子纹是纹样。官方记录补充了形制——荷包面打褶，荷包口抽紧。打褶是为了让袋面鼓起来、容量更大；抽紧的口则可以束住里面装的东西。",
+    "refs": [
+     "t04-csm-lion-pouches-official"
+    ]
+   },
+   {
+    "title": "绳索与玉环",
+    "text": "总长40.5厘米包含了绳与玉环——也就是说，这件荷包并非只有一只袋子，还带着一整套佩挂系统。荷包要挂在身上或腰间，需要绳；绳上再配玉环，是装饰也是配重。这些部件在官方记录里被列入尺寸，说明它们与原物一同保存下来。",
+    "refs": [
+     "t04-csm-lion-pouches-official"
+    ]
+   },
+   {
+    "title": "谁用过它，不知道",
+    "text": "官方记录没有公布原主人与入藏经过。因此本条不写“某位贵妇的随身之物”这类推测。狮子纹是常见的吉祥与威仪题材，纹样本身不能告诉我们物主是谁。站内配图是 AI 概括示意，纹样的具体形态、针脚密度与金线走向都不能用来核验工艺。",
+    "refs": [
+     "t04-csm-lion-pouches-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "数量与尺寸",
+    "text": "1对2只，单只11.5×11.5厘米；含绳与玉环总长40.5厘米。",
+    "refs": [
+     "t04-csm-lion-pouches-official"
+    ]
+   },
+   {
+    "title": "工艺",
+    "text": "盘金彩绣；荷包面打褶、口部抽紧。",
+    "refs": [
+     "t04-csm-lion-pouches-official"
+    ]
+   },
+   {
+    "title": "时代与质地",
+    "text": "清；丝。",
+    "refs": [
+     "t04-csm-lion-pouches-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "原主人与入藏经过未公布；纹样不据AI核验。",
+    "refs": [
+     "t04-csm-lion-pouches-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么荷包要成对保存？",
+   "answer": "因为它们本来就是一对方便携带与替换的物件：同一款式、同一工艺，两只一起用或分别用。博物馆把一对作为一件登记，是为了保留这种“成套”的关系——拆开来，每只都只是一个袋子。",
+   "refs": [
+    "t04-csm-lion-pouches-official"
+   ]
+  },
+  "uncertainty": "原主人、入藏经过与制作人未载；金线与绣线的材质未做检测；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；成对计一条。",
+  "related": [
+   {
+    "id": "csm-yellow-knots-pouch",
+    "reason": "同为清代荷包：一对盘金彩绣狮子纹，一只黄绸打籽绣多子多福，比较两种针法与袋形。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-ming-yesa",
+    "reason": "小袋与外衣的对照：一件是腰间佩挂的小囊，一件是乘马所穿的曳撒袍，比较构件与针线的关系，不据此推断直接传承。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-lion-pouches-official": {
+   "id": "t04-csm-lion-pouches-official",
+   "title": "官方逐件记录：盘金彩绣狮子纹荷包（itemid=3282）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3282",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代清、质地丝；一对狮子纹荷包，荷包面打褶、荷包口抽紧，针法为盘金彩绣；1对2只，尺寸11.5×11.5厘米，含绳与玉环总长40.5厘米。未载：原主人、入藏经过、制作人；纹样不据AI图核验；不构成照片授权。"
+  }
+ }
+}

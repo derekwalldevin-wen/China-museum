@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cz-pearl-comb",
+  "hook": "梳背上镶着一排细小珍珠",
+  "summary": "常州博物馆藏南宋黄杨木梳，长9.2、宽4.1厘米，1976年江苏常州武进区村前蒋塘南宋墓出土。梳作半月形，梳齿紧密，环梳背镶一排细小珍珠，馆方称其制作工艺精湛。",
+  "summaryRefs": [
+   "t05-cz-pearl-comb-official"
+  ],
+  "sections": [
+   {
+    "title": "半月形的轮廓",
+    "text": "黄杨木质，半月形，长9.2、宽4.1厘米。弧形梳背便于握持，弧线也贴合头形；材质选黄杨，木性细密，适合做出薄而密的齿。馆方以“制作工艺精湛”评价这件梳子的做工。",
+    "refs": [
+     "t05-cz-pearl-comb-official"
+    ]
+   },
+   {
+    "title": "齿说得很简",
+    "text": "记录只写梳齿紧密，未给齿数。本件图像为AI示意图，齿的根数与疏密不据示意图判断，需核对实物。",
+    "refs": [
+     "t05-cz-pearl-comb-official"
+    ]
+   },
+   {
+    "title": "珍珠镶在哪一面",
+    "text": "环梳背镶一排细小珍珠，馆方描述其布置沿梳背弧线成排。珍珠的颗数、大小与固定方式（钻孔、嵌槽还是粘接）记录未给，本条留待检测；能确定的是装饰集中在梳背而非齿部。",
+    "refs": [
+     "t05-cz-pearl-comb-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，梳子的本体是日用品，镶珠之后多了一层可见的装饰意味。物主与使用场合未载，它究竟用于日常梳理、随身佩带还是随葬备物，三种可能并列保留。",
+    "refs": [
+     "t05-cz-pearl-comb-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "尺寸",
+    "text": "长9.2、宽4.1厘米。",
+    "refs": [
+     "t05-cz-pearl-comb-official"
+    ]
+   },
+   {
+    "title": "材质与形制",
+    "text": "黄杨木质，半月形。",
+    "refs": [
+     "t05-cz-pearl-comb-official"
+    ]
+   },
+   {
+    "title": "齿部",
+    "text": "梳齿紧密。",
+    "refs": [
+     "t05-cz-pearl-comb-official"
+    ]
+   },
+   {
+    "title": "装饰",
+    "text": "环梳背镶一排细小珍珠。",
+    "refs": [
+     "t05-cz-pearl-comb-official"
+    ]
+   },
+   {
+    "title": "未载与不据图",
+    "text": "珍珠颗数、大小与固定方式未载；物主、使用场合、墓号与流转经过未载；本件图像为AI示意图，珍珠排列与镶接做法需核对实物；逐次保护修复档案未核。",
+    "refs": [
+     "t05-cz-pearl-comb-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "把珍珠镶在梳背上，实用在哪里？",
+   "answer": "梳齿负责顺发，梳背平时朝外。装饰放在朝外的一面，日用品便同时成了随身可见的饰件；如果珍珠以钻孔或嵌槽固定，还会牵动梳背的强度。具体做法记录未给，留待实物检测。",
+   "refs": [
+    "t05-cz-pearl-comb-official"
+   ]
+  },
+  "uncertainty": "珍珠颗数、大小与固定方式未载；物主与使用场合未载；墓号、发现者、流转经过未载；本件图像为AI示意图，镶珠细节需核对实物；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cz-bamboo-comb",
+    "reason": "同为村前蒋塘南宋墓出土的梳具，一件竹篦靠竹梁夹绑细齿，一件黄杨木梳在背沿镶一排珍珠，比较日用结构与装饰工艺的组合方式。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cz-mirror-case",
+    "reason": "同为南宋梳妆用具，一件是随身梳理的镶珠木梳，一件是随执镜轮廓成形的剔犀镜盒，比较小件器物在梳理与收纳上的分工。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-cz-pearl-comb-official": {
+   "id": "t05-cz-pearl-comb-official",
+   "title": "官方逐件记录：半月形镶珠木梳（id=409）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=409&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：官方逐件记录给出南宋定年、黄杨木质半月形、长9.2、宽4.1厘米，1976年江苏常州武进区村前蒋塘南宋墓出土，梳齿紧密，环梳背镶一排细小珍珠，以“制作工艺精湛”评价做工。未载：珍珠颗数与镶接做法、物主与使用场合、墓号与流转经过；不构成照片授权。"
+  }
+ }
+}

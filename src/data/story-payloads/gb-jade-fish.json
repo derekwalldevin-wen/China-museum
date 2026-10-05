@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "gb-jade-fish",
+  "hook": "一尾弯成璜形的玉鱼",
+  "summary": "中国国家博物馆藏西周鱼形玉佩。青玉质，鱼身弯曲呈璜形，圆眼醒目，口部有小孔；身上不刻鱼鳞，而以阴线和细斜线表现背鳍，尾端分成两叉。馆方介绍西周玉鱼亦见于墓葬悬挂系统，属类型背景。",
+  "summaryRefs": [
+   "t01-gb-jade-fish-official"
+  ],
+  "sections": [
+   {
+    "title": "鱼身弯成一道弧",
+    "text": "馆方形容它弯曲呈璜形。璜是弧形的玉器，鱼身沿着这道弧线安排，头尾因此形成一个自然的弯。弯曲不只为了好看——弧形玉片挂在身上更贴合，也不容易硌人。",
+    "refs": [
+     "t01-gb-jade-fish-official"
+    ]
+   },
+   {
+    "title": "没有鳞片的鱼",
+    "text": "记录里有一句很具体：工匠没有刻鱼鳞，而是以阴线和细斜线表现背鳍。也就是说，鱼的“身份”靠眼睛、鳍和叉尾交代，不靠全身密密麻麻的鳞。少刻一层，反而让玉面保持干净。",
+    "refs": [
+     "t01-gb-jade-fish-official"
+    ]
+   },
+   {
+    "title": "口部的孔",
+    "text": "口部有小孔。与兔形玉佩把孔留在吻部一样，这处穿孔是它能够被系佩的原因。孔的位置选在口部，绳子顺着头部的方向出去，鱼的姿态不会被打断。",
+    "refs": [
+     "t01-gb-jade-fish-official"
+    ]
+   },
+   {
+    "title": "悬挂习俗与这一件",
+    "text": "馆方介绍西周玉鱼也出现在墓葬的悬挂系统中——这是一条类型背景，说明同类小玉饰在当时可能被用于棺帷一类场合。但本件玉鱼的出处与具体使用场景，记录里没有说明，因此不能仅凭名字就断定它曾挂在谁的身上。它从哪里来、由谁雕成，仍不知道。",
+    "refs": [
+     "t01-gb-jade-fish-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与材质",
+    "text": "西周；青玉。",
+    "refs": [
+     "t01-gb-jade-fish-official"
+    ]
+   },
+   {
+    "title": "形态",
+    "text": "鱼身弯曲呈璜形，圆眼醒目，尾端分叉。",
+    "refs": [
+     "t01-gb-jade-fish-official"
+    ]
+   },
+   {
+    "title": "纹饰与结构",
+    "text": "不刻鳞，以阴线和细斜线表现背鳍；口部有小孔。",
+    "refs": [
+     "t01-gb-jade-fish-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "悬挂习俗属类型背景，不认定本件为棺帷饰物。",
+    "refs": [
+     "t01-gb-jade-fish-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么工匠宁可不刻鱼鳞？",
+   "answer": "因为在这么小的玉片上，刻满鳞片会让表面变得零碎，反而看不清鱼的轮廓。用眼睛、背鳍和叉尾点出身份，其余留给玉本身的质地——这是一种取舍：少刻，是为了让重点更清楚。",
+   "refs": [
+    "t01-gb-jade-fish-official"
+   ]
+  },
+  "uncertainty": "本件出处与具体使用场景未载；玉料与工匠未载；墓葬悬挂习俗仅作类型背景；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gb-jade-rabbit",
+    "reason": "两件西周片雕玉佩：一尾弯鱼、一只卧兔，都有系孔且都不写实到底，比较器名与实际用途之间的不确定。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-jade-bamboo-brushpot",
+    "reason": "同为玉器而年代相距很远：一件是西周佩饰，一件是明代文房用具，比较玉材在不同时代的用途。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t01-gb-jade-fish-official": {
+   "id": "t01-gb-jade-fish-official",
+   "title": "官方逐件记录：鱼形玉佩（t20181218_28413）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_28413.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：西周年代、青玉；鱼身弯曲呈璜形，圆眼醒目，口部有小孔；未刻鱼鳞，以阴线与细斜线表现背鳍，尾端分叉，双面磨制。馆方介绍西周玉鱼亦见于墓葬悬挂系统，属类型背景。未载：本件出处与具体使用场景；不构成照片授权。"
+  }
+ }
+}

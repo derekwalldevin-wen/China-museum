@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cz-lacquer-brush",
+  "hook": "一把刷毛排成三列八行的小刷",
+  "summary": "常州博物馆藏南宋黑漆刻花竹毛刷，1978年江苏常州武进区村前蒋塘南宋墓出土，长14.8厘米、宽2厘米。竹质长方形，周身髹黑漆，刷柄浅刻花卉纹；刷毛三列八行共二十四束，毛束为黑色猪鬃。馆方依据它与大量梳妆用器同出，解释为修饰仪表的洁具。",
+  "summaryRefs": [
+   "t05-cz-lacquer-brush-official"
+  ],
+  "sections": [
+   {
+    "title": "一手可握的尺寸",
+    "text": "长14.8厘米、宽2厘米，竹质，长方形。这个体量刚好握在掌心里，柄与刷面在同一块材料上做出，没有另接的把手。",
+    "refs": [
+     "t05-cz-lacquer-brush-official"
+    ]
+   },
+   {
+    "title": "黑漆与浅刻",
+    "text": "馆方描述为周身髹黑漆，刷柄部位浅刻花卉纹。黑漆做底，刻线处露出下面较浅的竹色或漆层，纹样因此显出来。花卉的具体样式与刀口深浅，本条不据AI示意图判断。",
+    "refs": [
+     "t05-cz-lacquer-brush-official"
+    ]
+   },
+   {
+    "title": "二十四束毛",
+    "text": "刷毛三列八行，共二十四束，毛束为黑色猪鬃。这个排法在很小的面积上把毛分得整齐，每一束独立受力，刷起来不容易结块。束数与行列依馆方记录，不据图像核对。",
+    "refs": [
+     "t05-cz-lacquer-brush-official"
+    ]
+   },
+   {
+    "title": "用途从哪里来",
+    "text": "馆方解释它为修饰仪表的洁具，依据是这件毛刷与大量梳妆用器一同出土——属伴出组合引起的判断。原主人的身份与具体使用场合都没有写定。今天再看：梳妆用具的功能常常彼此接近，一把小刷在什么场合被拿起来，记录没有交代。逐次保护修复档案未核。",
+    "refs": [
+     "t05-cz-lacquer-brush-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与年代",
+    "text": "1978年江苏常州武进区村前蒋塘南宋墓出土；南宋（1127年—1279年）。",
+    "refs": [
+     "t05-cz-lacquer-brush-official"
+    ]
+   },
+   {
+    "title": "尺寸与器形",
+    "text": "长14.8厘米、宽2厘米；竹质，长方形。",
+    "refs": [
+     "t05-cz-lacquer-brush-official"
+    ]
+   },
+   {
+    "title": "髹漆与刻花",
+    "text": "周身髹黑漆；刷柄部位浅刻花卉纹。",
+    "refs": [
+     "t05-cz-lacquer-brush-official"
+    ]
+   },
+   {
+    "title": "刷毛结构",
+    "text": "三列八行共二十四束；毛束为黑色猪鬃。",
+    "refs": [
+     "t05-cz-lacquer-brush-official"
+    ]
+   },
+   {
+    "title": "未载与边界",
+    "text": "洁具用途属伴出组合解释，原主人身份未写定；猪鬃与纹样细节不据AI示意图判断。",
+    "refs": [
+     "t05-cz-lacquer-brush-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "一把小刷上的花卉纹，值得费工去刻吗？",
+   "answer": "值得与否要看它被放在哪里。若它常出现在梳妆的场合，柄上的花卉纹就参与了那套用具的整体观感：黑漆压住颜色，刻线在光下显出花的轮廓。这是装饰与实用叠在同一件小器物上。至于当时的人是否这样理解，记录未载。",
+   "refs": [
+    "t05-cz-lacquer-brush-official"
+   ]
+  },
+  "uncertainty": "洁具用途属伴出组合解释，原主人身份与具体使用场合未载；髹漆层数、猪鬃产地与工艺细节未载；刷毛束数与花卉纹不据AI示意图判断；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cz-red-hairpick",
+    "reason": "同为南宋漆木小器：一件是竹柄黑漆毛刷，一件是八齿朱漆长条器，可对照髹漆与束状、齿状两种结构，后者的用途两说并存。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cz-pearl-comb",
+    "reason": "两件都与修容相关：一件是黑漆竹柄毛刷，一件是环背镶一排细小珍珠的黄杨木半月梳，可对照漆木与镶珠两种装饰手法。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-cz-lacquer-brush-official": {
+   "id": "t05-cz-lacquer-brush-official",
+   "title": "官方逐件记录：黑漆刻花竹毛刷（id=382）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=382&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋年代、长14.8厘米宽2厘米、竹质长方形、周身髹黑漆、刷柄浅刻花卉纹、刷毛三列八行共二十四束且毛束为黑色猪鬃，1978年江苏常州武进区村前蒋塘南宋墓出土；洁具一项由馆方据伴出梳妆用器解释，属组合判断。未载：原主人身份与具体使用场合；不构成照片授权。"
+  }
+ }
+}

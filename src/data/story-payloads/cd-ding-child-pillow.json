@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cd-ding-child-pillow",
+  "hook": "一个侧卧的男孩，替人托着枕头",
+  "summary": "成都博物馆藏宋代定窑白瓷孩儿枕，成都地区出土，高12.8厘米。男孩侧卧，左手枕头、右手搭胸，上方支出枕面；釉色白中微暖。原使用者与具体出土时间未知，与故宫等馆的同类枕并非同一件器物。",
+  "summaryRefs": [
+   "t03-cd-ding-child-pillow-official"
+  ],
+  "sections": [
+   {
+    "title": "先说形制",
+    "text": "这件枕高12.8厘米，出自成都地区。男孩侧身而卧，左手枕在头下，右手搭在胸前，身体把上方的枕面托住。它是定窑白瓷，釉色白中微暖。作为寝具，它同时是一件人像雕塑：支撑与形象落在同一个形体上。",
+    "refs": [
+     "t03-cd-ding-child-pillow-official"
+    ]
+   },
+   {
+    "title": "为什么把枕头做成孩子",
+    "text": "馆方把睡姿与釉色放在一起描述，认为它们把一件寝具变成了雕塑——这是馆方解释。至于当时选用孩童形象是否另有祈愿含义，记录没有说明。可以确认的是造型选择本身：一个正在睡的孩子，撑起供人安睡的面。卡片上的AI示意图只概括姿态，不据此清点部件或复刻细节。",
+    "refs": [
+     "t03-cd-ding-child-pillow-official"
+    ]
+   },
+   {
+    "title": "与故宫那件不是同一件",
+    "text": "定窑孩儿枕在故宫博物院等馆也有收藏，馆方在记录中特别点出：本件与那些同类枕并非同一件器物。这种提醒很重要，因为同类器物的图片经常被混用。不同馆的孩儿枕可以有相近的造型与釉色，但流传经历各自独立。记录同时写明，同类器物的比对不足以确认它们出自同一批工匠。",
+    "refs": [
+     "t03-cd-ding-child-pillow-official"
+    ]
+   },
+   {
+    "title": "留在记录外的部分",
+    "text": "成都地区是馆方给出的出土范围，具体到哪个地点、哪一年出土，记录没有说明；原使用者是谁同样未载；成型所用的模具也未载。这只枕头被谁用过、放在谁的床上，资料里没有答案。逐次保护修复档案未核。",
+    "refs": [
+     "t03-cd-ding-child-pillow-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与窑口",
+    "text": "宋代；定窑白瓷。",
+    "refs": [
+     "t03-cd-ding-child-pillow-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高12.8厘米。",
+    "refs": [
+     "t03-cd-ding-child-pillow-official"
+    ]
+   },
+   {
+    "title": "造型与釉色",
+    "text": "男孩侧卧，左手枕头、右手搭胸，上方支出枕面；釉色白中微暖。",
+    "refs": [
+     "t03-cd-ding-child-pillow-official"
+    ]
+   },
+   {
+    "title": "出土",
+    "text": "成都地区出土；具体地点与时间未载。",
+    "refs": [
+     "t03-cd-ding-child-pillow-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "原使用者、成型模具、出土年月均未载。",
+    "refs": [
+     "t03-cd-ding-child-pillow-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "枕头的用处是支撑，为什么值得做成一个人？",
+   "answer": "因为它摆在床边、贴着脸，是每天都要看见的器物。把支撑的部分做成一个睡着的孩子，日常动作里就多了一层观看的余地。是否另有寓意，记录没有给出说明；能确定的是造型与人像合一这个选择。",
+   "refs": [
+    "t03-cd-ding-child-pillow-official"
+   ]
+  },
+  "uncertainty": "具体出土地点与出土时间未载；原使用者与成型模具未载；与故宫等馆同类枕的关系仅属类型比较；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按成都博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-bronze-chess",
+    "reason": "同馆两件宋代小品：一件以成组的小铜片交代数量关系，一件以12.8厘米的瓷枕展示单件雕塑，尺度与观看方式差别明显。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-marble-pillow",
+    "reason": "两件枕的装饰路子不同：一件靠人物雕塑撑起枕面，一件靠绞胎纹样铺满表面，可对照造型与纹理各自的作用。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-cd-ding-child-pillow-official": {
+   "id": "t03-cd-ding-child-pillow-official",
+   "title": "官方逐件记录：定窑白瓷孩儿枕（/tangsong/201901/49.html）",
+   "institution": "成都博物馆",
+   "url": "https://www.cdmuseum.com/tangsong/201901/49.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：宋代；成都地区出土的定窑白瓷孩儿枕高12.8厘米；侧卧男孩左手枕头、右手搭胸，上方支出枕面；白中微暖的釉色。未载：具体出土地点与出土时间、原使用者、成型模具；与故宫等馆同类枕的关系仅属类型比较，不构成照片授权。"
+  }
+ }
+}

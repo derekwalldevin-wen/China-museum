@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cd-beast-lei",
+  "hook": "一件高66.3厘米的青铜罍",
+  "summary": "成都博物馆藏西周兽头双耳铜罍。1978年2月21日在成都南郊工地出土，高66.3厘米，双耳作兽头形。官网未提供本件铭文释读、墓主与铸造工序，这些空缺按原样保留。",
+  "summaryRefs": [
+   "t03-cd-beast-lei-official"
+  ],
+  "sections": [
+   {
+    "title": "一件大型容器",
+    "text": "本件高66.3厘米，名称里的“兽头双耳”指两侧的器耳作兽头形。罍是先秦的青铜容器，通常被归入盛酒器一类，这属于器名的类型背景；这件罍具体盛放过什么，记录未载。",
+    "refs": [
+     "t03-cd-beast-lei-official"
+    ]
+   },
+   {
+    "title": "出土记录很具体",
+    "text": "馆方给出的出土信息是1978年2月21日，地点为成都南郊的一处工地。日期精确到日，情境却停在“工地”这一层：这件罍是否出自墓葬、与哪些器物共存，记录里没有说明。",
+    "refs": [
+     "t03-cd-beast-lei-official"
+    ]
+   },
+   {
+    "title": "三处空白",
+    "text": "官网没有本件铭文释读、墓主和铸造工序。馆内另有铜壶一类的条目，那些器物的纹饰主题与墓葬信息属于它们自身，不能移用到这件罍上；青铜器的铸造细节需要另找冶金研究资料。",
+    "refs": [
+     "t03-cd-beast-lei-official"
+    ]
+   },
+   {
+    "title": "今天再看：纹饰与铭文",
+    "text": "器物配图为生成图，兽头的五官、器身的纹饰带与耳部结构都不据它判断；器身若有铭文，其释读也须以馆方记录或拓本为准。器表有没有经过除锈与修复，要查保护档案，本轮未核。",
+    "refs": [
+     "t03-cd-beast-lei-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土",
+    "text": "1978年2月21日成都南郊工地出土。",
+    "refs": [
+     "t03-cd-beast-lei-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高66.3厘米。",
+    "refs": [
+     "t03-cd-beast-lei-official"
+    ]
+   },
+   {
+    "title": "年代与类别",
+    "text": "西周；青铜器。",
+    "refs": [
+     "t03-cd-beast-lei-official"
+    ]
+   },
+   {
+    "title": "器形",
+    "text": "双耳作兽头形。",
+    "refs": [
+     "t03-cd-beast-lei-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "铭文释读、墓主与铸造工序未载。",
+    "refs": [
+     "t03-cd-beast-lei-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么一件青铜容器的出土记录只写到“工地”？",
+   "answer": "考古信息依赖发现当时的记录条件：位置与日期容易先记下来，墓号与共存关系常常事后补不上。本件留下的正是这种缺口——时间记得住，空间只到工地一层。研究要接着往下走，就得靠新的材料。",
+   "refs": [
+    "t03-cd-beast-lei-official"
+   ]
+  },
+  "uncertainty": "铭文释读、墓主与铸造工序未载；出土地点仅到工地一层，墓葬与共存关系未载；兽头五官与纹饰细节不据生成图确认；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按成都博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-stone-bear",
+    "reason": "两件成都出土的三维造物：一件高66.3厘米的西周铜罍，一件高40厘米的东汉石熊，比较青铜与石材塑造体积的各自手法。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cd-bronze-chess",
+    "reason": "同馆青铜器的两种尺度：一件是高66.3厘米的大型容器，一件是直径约1.8厘米的象棋子，比较体量差异带来的观看方式变化。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-cd-beast-lei-official": {
+   "id": "t03-cd-beast-lei-official",
+   "title": "官方逐件记录：西周兽头双耳铜罍（/xianqin/201901/40.html）",
+   "institution": "成都博物馆",
+   "url": "https://www.cdmuseum.com/xianqin/201901/40.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：西周兽头双耳铜罍于1978年2月21日在成都南郊工地出土，高66.3厘米，双耳作兽头形。未载：本件铭文释读、墓主与铸造工序；馆内其他青铜器的纹饰与墓葬信息不作本件的依据；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gsjd-discipline-stick",
+  "hook": "一根树枝上的檄文",
+  "summary": "甘肃简牍博物馆藏汉代檄文。1974年出土于居延破城子遗址。用一根树枝做成，正背两面刮削后写字，左右两侧未加刮治；长90.7厘米，檄文分22栏，通报候史广德失职与处罚。",
+  "summaryRefs": [
+   "t04-gsjd-discipline-stick-official"
+  ],
+  "sections": [
+   {
+    "title": "先看它是什么材料",
+    "text": "官方摘录说得很直白：用一根树枝做成，形制特别，俨然一根棍子；正背两面刮削写字，左右两侧未加刮治。它算不上加工精细的简牍，只是就地取材的书写面。把它写成“刑具”是误解——它是通报处罚的文书，材料恰好是一根树枝。",
+    "refs": [
+     "t04-gsjd-discipline-stick-official"
+    ]
+   },
+   {
+    "title": "写了什么",
+    "text": "按馆方释读：正面是檄文标题，指候史广德“坐不循行部、涂、趣具诸当所具者”，并有“督五十”；背面写坐罪行罚的具体事由。檄文分22栏，列举第十三至十八共6个隧的守御器与防御设施废弛败敝情况，十分细致。鉴于严重失职，责打五十大板，并以檄文形式通报其他各部。",
+    "refs": [
+     "t04-gsjd-discipline-stick-official"
+    ]
+   },
+   {
+    "title": "处罚之外的信息量",
+    "text": "这份檄文真正的价值在列举：6个隧、守御器、防御设施——每一项都要被清点、被写明废弛败敝。也就是说，居延防线的装备与工事有一套被检查、被记录的标准。一件处罚文书顺手留下了边防设施的状况。",
+    "refs": [
+     "t04-gsjd-discipline-stick-official"
+    ]
+   },
+   {
+    "title": "不知道的部分",
+    "text": "广德本人的生平、这件事的后续、22栏檄文的完整释文，本条资料未提供全文；逐次保护修复档案未核。我们因此不补写“他后来怎样了”。这根90.7厘米的树枝，把一次问责的过程固定了下来，其余留给研究与原件。",
+    "refs": [
+     "t04-gsjd-discipline-stick-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "材料与形制",
+    "text": "一根树枝，正背两面刮削写字，左右未刮治；长90.7厘米。",
+    "refs": [
+     "t04-gsjd-discipline-stick-official"
+    ]
+   },
+   {
+    "title": "内容结构",
+    "text": "正面檄文标题，背面坐罪行罚事由；分22栏。",
+    "refs": [
+     "t04-gsjd-discipline-stick-official"
+    ]
+   },
+   {
+    "title": "列举对象",
+    "text": "第十三至十八共6个隧的守御器与防御设施。",
+    "refs": [
+     "t04-gsjd-discipline-stick-official"
+    ]
+   },
+   {
+    "title": "处罚",
+    "text": "责打五十，并以檄文通报其他各部。",
+    "refs": [
+     "t04-gsjd-discipline-stick-official"
+    ]
+   },
+   {
+    "title": "不能写的",
+    "text": "不把文书画成刑具；广德生平与后续未载。",
+    "refs": [
+     "t04-gsjd-discipline-stick-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么处罚一个人，要写成通报发给其他各部？",
+   "answer": "通报的意义在于让所有人知道标准在哪里。檄文不仅说广德失职，还逐条列出6个隧哪些器械、工事出了问题——别处一看就知道自己该检查什么。处罚一个人，同时上了一堂课。",
+   "refs": [
+    "t04-gsjd-discipline-stick-official"
+   ]
+  },
+  "uncertainty": "广德生平与事件后续未载；檄文完整释文未在本条资料中给出；保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gsjd-sick-leave",
+    "reason": "同一边防军的两种处境：一人因病请假要逐级报批，一人因失职被责打通报，比较制度的宽严两面。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-seasonal-ban",
+    "reason": "都是管理文书：一份指名问责并列出设施问题，一份按季节立禁，比较边塞治理的两种笔法。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-discipline-stick-official": {
+   "id": "t04-gsjd-discipline-stick-official",
+   "title": "官方逐件记录：侯史广德坐罪行罚檄（exhibit_id=36）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=36",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1974年居延破城子出土；以一根树枝制成，正背两面刮削写字，左右两侧未刮治；长90.7厘米；正面檄文标题与背面事由、分22栏书写、列举6个隧的守御器与防御设施废弛情况、责打五十并通报；馆方对其研究价值的判断属研究解释。不含：广德生平与后续；不构成照片授权。"
+  }
+ }
+}

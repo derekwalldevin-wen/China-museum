@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-peony-gold-satin",
+  "hook": "一整幅蓝地金牡丹的缎料",
+  "summary": "中国国家博物馆藏蓝地牡丹织金缎。全长325厘米、宽79厘米。缎面借浮长经纬形成平滑光泽，金色牡丹改变了表面的视觉节奏。官网年代字段作明，正文却称清代，两说并列保留。",
+  "summaryRefs": [
+   "t02-gb-peony-gold-satin-official"
+  ],
+  "sections": [
+   {
+    "title": "先看这是一整幅料",
+    "text": "全长325厘米、宽79厘米。这个尺寸说明记录的对象是成幅面料，而非裁好的衣片。由哪一类机具织成、后来有没有被裁剪使用，记录都没有说明。",
+    "refs": [
+     "t02-gb-peony-gold-satin-official"
+    ]
+   },
+   {
+    "title": "缎面为什么会亮",
+    "text": "缎纹组织让经纬线的交点分散，浮长部分露在表面，光线落上去就有了平滑的反射。这属于织物结构层面的描述；具体到这件料子的经纬密度，以馆方著录为准，不据AI示意图判断。",
+    "refs": [
+     "t02-gb-peony-gold-satin-official"
+    ]
+   },
+   {
+    "title": "蓝色地上的金牡丹",
+    "text": "纹样是牡丹，以织金的方式加入，金线在蓝地上形成另一种表面。金线是金箔线还是别种做法、配方与织机型号，记录未载，因此不作推断。牡丹花头分瓣与叶片走向，同样以馆方描述为准。",
+    "refs": [
+     "t02-gb-peony-gold-satin-official"
+    ]
+   },
+   {
+    "title": "年代的两说与今天再看",
+    "text": "馆方官网的年代字段写明代，正文却称清代，两说并列保留。本条采用馆方著录的“明清”这一较宽口径，理由是无法据现有材料判定其中哪一项正确。今天再看，这块料子的看点分两层：缎面本身的光泽，以及金线在蓝地上重新安排视觉重心的办法。",
+    "refs": [
+     "t02-gb-peony-gold-satin-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "馆藏与定名",
+    "text": "中国国家博物馆藏；蓝地牡丹织金缎。",
+    "refs": [
+     "t02-gb-peony-gold-satin-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "全长325厘米、宽79厘米。",
+    "refs": [
+     "t02-gb-peony-gold-satin-official"
+    ]
+   },
+   {
+    "title": "组织与纹样",
+    "text": "缎面借浮长经纬形成平滑光泽；金色牡丹以织金方式加入。",
+    "refs": [
+     "t02-gb-peony-gold-satin-official"
+    ]
+   },
+   {
+    "title": "年代口径",
+    "text": "官网字段作明、正文称清代；本条用“明清”宽口径，两说并列保留。",
+    "refs": [
+     "t02-gb-peony-gold-satin-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "金线配方、机具、发现流传与保护史未载。",
+    "refs": [
+     "t02-gb-peony-gold-satin-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么金线能改变一块料子的观看方式？",
+   "answer": "缎面本身是均匀的，蓝地铺满之后就是一片平整的色。金线加进去，亮的地方与暗的地方立刻分开，眼睛会先找到花的位置。织金因此不只在加颜色，它同时在安排看的人先看什么、后看什么。",
+   "refs": [
+    "t02-gb-peony-gold-satin-official"
+   ]
+  },
+  "uncertainty": "金线配方与织机未载；发现、流传与逐次保护修复档案未核；年代两说并列保留，未判定哪项正确；组织密度与纹样细节以馆方著录为准，不据AI示意图判断。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。年代分歧并列保留。",
+  "related": [
+   {
+    "id": "gb-red-embroidered-skirt",
+    "reason": "一块是成幅面料，一件是成衣下裙：前者靠缎纹浮长与织金安排图案，后者在成衣之后以打籽绣与边饰加工，织与绣施加图案的时机可以对照。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-goose-kesi",
+    "reason": "两件都靠组织与色线呈现图案：一件用金色牡丹在蓝地上分出发亮与不发亮的区域，一件用色丝在幅面内织出水岸与鹅，光泽与图像的关系可以两相对照。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t02-gb-peony-gold-satin-official": {
+   "id": "t02-gb-peony-gold-satin-official",
+   "title": "官方逐件记录：蓝地牡丹织金缎（/zp/zpml/csp/202112/t20211221_253272.shtml）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253272.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：蓝地牡丹织金缎全长325厘米、宽79厘米，缎面借浮长经纬形成平滑光泽，金色牡丹改变表面的视觉节奏。未载：金线配方、机具与发现流传保护史；官网年代字段作明而正文称清，两说并列保留，不判定哪项正确；不构成照片授权。"
+  }
+ }
+}

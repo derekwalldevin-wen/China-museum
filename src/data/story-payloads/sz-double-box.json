@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-double-box",
+  "hook": "大盒里还装着一只小盒",
+  "summary": "深圳博物馆藏北宋青白瓷印花子母盒，高4厘米、口径7.5厘米，2010年获捐入藏。子母指盒内再套小盒，器表另有印花装饰。原装物品与盒内原有分隔，官方记录未说明。",
+  "summaryRefs": [
+   "t03-sz-double-box-official"
+  ],
+  "sections": [
+   {
+    "title": "先看尺寸",
+    "text": "高4厘米、口径7.5厘米。口径比高度大出不少，整件器物的重心偏低，可以托在掌上。尺寸是理解它用途的起点，单靠它却得不出结论。",
+    "refs": [
+     "t03-sz-double-box-official"
+    ]
+   },
+   {
+    "title": "子母指什么",
+    "text": "子母盒指大盒之内再套一只小盒，这是馆方给出的定名方式。嵌套让两只盒共用一重外壁，也带出盖与内盒怎样合拢的问题。盒内原有多少分隔、是否另有小盖，记录未写，不据 AI 示意图判断。",
+    "refs": [
+     "t03-sz-double-box-official"
+    ]
+   },
+   {
+    "title": "印花留在器表",
+    "text": "馆方把印花与子母组合列为观察重点。印花指用模具在坯体上压出花纹，这一点属工艺定名；具体纹样内容与排布，官方记录没有逐条描述，配图只概括嵌套盒形，纹样细节不据它判断。",
+    "refs": [
+     "t03-sz-double-box-official"
+    ]
+   },
+   {
+    "title": "原装物品与今天再看",
+    "text": "官网未说明盒里原先放什么。脂粉、香料、药物都是后人常作的猜测，盒名本身给不出证据，这层问题留待实物检测与同类器物的比较研究。今天再看，它的看点落在嵌套的比例与合盖的方式上。",
+    "refs": [
+     "t03-sz-double-box-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "名称与年代",
+    "text": "青白瓷印花子母盒；馆方定为北宋。",
+    "refs": [
+     "t03-sz-double-box-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高4厘米、口径7.5厘米。",
+    "refs": [
+     "t03-sz-double-box-official"
+    ]
+   },
+   {
+    "title": "入藏",
+    "text": "2010年获捐入藏深圳博物馆。",
+    "refs": [
+     "t03-sz-double-box-official"
+    ]
+   },
+   {
+    "title": "观察重点",
+    "text": "印花与子母组合；印花属工艺定名。",
+    "refs": [
+     "t03-sz-double-box-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "原装物品、盒内原有分隔数量、纹样细节未载；不据 AI 示意图判断。",
+    "refs": [
+     "t03-sz-double-box-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把小盒套进大盒？",
+   "answer": "嵌套让两件器物共用一重外壁，携带时不易散开；盖合之后，内盒的物件也被固定住。这是器形给人的直接好处。当年装的是什么，记录没有说明，只能从器形本身推想使用方式。",
+   "refs": [
+    "t03-sz-double-box-official"
+   ]
+  },
+  "uncertainty": "原装物品、盒内原有分隔数量、纹样细节未载，不据 AI 示意图判断；烧造工序与窑口未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-yue-box",
+    "reason": "同为北宋小盒：一件用模印在器表添花，一件以划花刻出纹样，比较印花与划花两个装饰定名在观感上的差别。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-incense-burner",
+    "reason": "两件都属馆方定为北宋的青白瓷小件：一件以镂孔让器壁透气，一件以模印在表面添花，比较器壁处理上的两种办法。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-double-box-official": {
+   "id": "t03-sz-double-box-official",
+   "title": "官方逐件记录：青白瓷印花子母盒（ad2038579ced497e85e25b5424360ef3）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ad2038579ced497e85e25b5424360ef3",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：北宋青白瓷印花子母盒，高4厘米、口径7.5厘米；2010年获捐入藏深圳博物馆；印花与子母组合为观察重点，官网未说明原装物品。未载：具体纹样与盒内原有分隔数量，AI 图只示意嵌套盒形；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cd-meridian-lacquer-model",
+  "hook": "一个黑漆小人，身上刻着线",
+  "summary": "成都博物馆藏西汉经穴漆人。成都老官山汉墓出土，高14厘米，通体黑漆，双臂垂于体侧；身上刻绘经脉与穴位，并有器官名称。馆方转载将其解释为可能用于经脉教学的模型。",
+  "summaryRefs": [
+   "t02-cd-meridian-lacquer-model-official"
+  ],
+  "sections": [
+   {
+    "title": "先看姿态与尺寸",
+    "text": "高14厘米，通体黑漆，双臂垂在身体两侧。这是一个直立的人形，尺寸接近可以拿在手里的小像；手臂贴着躯干，正面与背面的表面因此平整，线条与名称就落在这两面上。黑漆及阴刻线条的做法有明确记录，木料种属没有记录。",
+    "refs": [
+     "t02-cd-meridian-lacquer-model-official"
+    ]
+   },
+   {
+    "title": "身上刻绘了什么",
+    "text": "身上刻绘经脉与穴位，并有器官名称——这是馆方的记录。线条与名称都依附在一个具体的人形上，位置关系于是成为信息的一部分。涉及经脉条数、穴位位置与器官名称的具体辨认处，本条不据示意图判断：AI 生成的图像只表现概括器形，不供定位穴位或医学使用。",
+    "refs": [
+     "t02-cd-meridian-lacquer-model-official"
+    ]
+   },
+   {
+    "title": "教学模型：一种带推测的解释",
+    "text": "馆方转载的介绍把这件漆人解释为可能用于经脉教学的模型，属研究解释。措辞落在可能上，说明用途仍是推测。同一页面在不同处提到的经脉数量并不一致，两说并列，本条不拼凑一个精确总数。它的制作目的与使用场合，记录里没有给出答案。",
+    "refs": [
+     "t02-cd-meridian-lacquer-model-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看这件小漆人，值得留意的是它把知识画在了身体上：经脉与名称依着人形排布，看的人要对着一个身体去找位置。这种教与学的方式与今天的挂图、模型有相通的地方，也带着它自己的时代认识。它出自成都老官山汉墓；馆方转载谢涛的说明称2012年秋出土于老官山三号墓，原始发掘工单未核。",
+    "refs": [
+     "t02-cd-meridian-lacquer-model-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与出土",
+    "text": "西汉；成都老官山汉墓出土。",
+    "refs": [
+     "t02-cd-meridian-lacquer-model-official"
+    ]
+   },
+   {
+    "title": "尺寸与外观",
+    "text": "高14厘米；通体黑漆，双臂垂于体侧。",
+    "refs": [
+     "t02-cd-meridian-lacquer-model-official"
+    ]
+   },
+   {
+    "title": "刻绘内容",
+    "text": "身上刻绘经脉与穴位，并有器官名称（依馆方记录）。",
+    "refs": [
+     "t02-cd-meridian-lacquer-model-official"
+    ]
+   },
+   {
+    "title": "研究解释",
+    "text": "馆方转载解释为可能用于经脉教学，属研究推测。",
+    "refs": [
+     "t02-cd-meridian-lacquer-model-official"
+    ]
+   },
+   {
+    "title": "未载与分歧",
+    "text": "木料与工序细节未载；页面经脉数量前后不一，两说并列；原始发掘工单未核。",
+    "refs": [
+     "t02-cd-meridian-lacquer-model-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把经脉刻在一个人形上，而不是写进文字里？",
+   "answer": "因为位置本身是知识。文字可以按顺序读，人形上的线要靠身体部位去记，两者传递的信息并不相同。这件漆人把名称与线条绑在一个具体的人身上，学的人看到的是一个整体，而不是一串条目。",
+   "refs": [
+    "t02-cd-meridian-lacquer-model-official"
+   ]
+  },
+  "uncertainty": "木料种属与制作工序细节未载；页面不同处经脉数量不一，两说并列；教学用途属研究推测；原始发掘工单未核；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按成都博物馆逐件官方记录补全。经脉数量分歧并列保留。",
+  "related": [
+   {
+    "id": "gb-medicine-lacquer-cabinet",
+    "reason": "两件都把知识装进漆器：一件用人形承载经脉与穴位，一件用旋转药屉容纳馆方所说的140种药物，比较两者组织信息的方式。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cd-lacquer-dou",
+    "reason": "两件成都出土的漆器年代一西汉一战国：一件以黑漆裹住刻有经脉的人形，一件以黑漆与朱色包裹盛食的盘，比较漆面在两种用途下的处理。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t02-cd-meridian-lacquer-model-official": {
+   "id": "t02-cd-meridian-lacquer-model-official",
+   "title": "官方逐件记录：经穴漆人（/xinwen/202109/2453.html）",
+   "institution": "成都博物馆",
+   "url": "https://cdmuseum.com/xinwen/202109/2453.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：西汉年代；成都老官山汉墓出土；高14厘米、通体黑漆、双臂垂于体侧；身上刻绘经脉与穴位并有器官名称；馆方转载解释为可能用于经脉教学的模型。未载：木料种属与制作工序细节；页面不同处经脉数量前后不一，两说并列而不拼凑总数；不构成照片授权。"
+  }
+ }
+}

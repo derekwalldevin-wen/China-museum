@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gsjd-maquan-brush",
+  "hook": "一支笔，杆上钻了孔",
+  "summary": "甘肃简牍博物馆藏汉代毛笔。1979年出土于敦煌马圈湾烽燧遗址，出土号79DMT7：01。实心竹杆钻孔纳毛、丝线捆扎、髹褐色漆，尾端镶锥形硬木；通长19.5厘米，笔毛残长1.2厘米。",
+  "summaryRefs": [
+   "t04-gsjd-maquan-brush-official"
+  ],
+  "sections": [
+   {
+    "title": "竹杆上的一整套做法",
+    "text": "官方摘录把制作讲得干净：实心竹杆，在杆首钻一孔，插入笔毛，用丝线捆扎，再髹一层褐色漆；杆尾截平后镶一锥形硬木，打磨光滑。几个部件、几道手续，全在一支20厘米不到的杆子上。钻孔、纳毛、捆扎、髹漆、镶尾——每道手续都有人做，笔也因此有了稳定的形制。",
+    "refs": [
+     "t04-gsjd-maquan-brush-official"
+    ]
+   },
+   {
+    "title": "笔毛是什么，谁说的",
+    "text": "馆方记录笔毛为狼毫，虽残但仍有弹性，残长1.2厘米。这里要分清：毛种的判断来自馆方记录，不是从图片看出来的。站内配图是 AI 概括示意，毛的粗细、颜色与磨损都不能充作史料；任何根据示意图推断毛种或工艺的说法都不成立。",
+    "refs": [
+     "t04-gsjd-maquan-brush-official"
+    ]
+   },
+   {
+    "title": "它出土在烽燧里",
+    "text": "1979年，敦煌马圈湾汉代烽燧遗址。烽燧是边塞的警戒与驻守单位，日常要写文书：上报、登记、传递。一支笔在这样的地方被留下、被发现，说明书写是边塞生活的常规动作，而不是偶尔为之。至于这支笔属于谁、用了多久，资料未载。",
+    "refs": [
+     "t04-gsjd-maquan-brush-official"
+    ]
+   },
+   {
+    "title": "尺寸之外的部分",
+    "text": "通长19.5厘米、直径0.6厘米，这些数字来自官方记录。除此之外：竹材产地、丝线规格、漆的成分、制作这支笔的工匠，都未载。逐次保护修复档案未核——也就是说，我们不知道它出土之后经过哪些处理。展柜里的它，是一支残缺的笔，也是一份尚未读完的工艺记录。",
+    "refs": [
+     "t04-gsjd-maquan-brush-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土信息",
+    "text": "1979年敦煌马圈湾汉代烽燧遗址，出土号79DMT7：01。",
+    "refs": [
+     "t04-gsjd-maquan-brush-official"
+    ]
+   },
+   {
+    "title": "结构",
+    "text": "实心竹杆钻孔纳毛，丝线捆扎，髹褐色漆，尾端镶锥形硬木。",
+    "refs": [
+     "t04-gsjd-maquan-brush-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "通长19.5厘米，直径0.6厘米，笔毛残长1.2厘米。",
+    "refs": [
+     "t04-gsjd-maquan-brush-official"
+    ]
+   },
+   {
+    "title": "毛种依据",
+    "text": "狼毫为馆方记录，不从AI示意图判断。",
+    "refs": [
+     "t04-gsjd-maquan-brush-official"
+    ]
+   },
+   {
+    "title": "空白项",
+    "text": "工匠、竹材产地、漆的成分、保护修复经过均未载。",
+    "refs": [
+     "t04-gsjd-maquan-brush-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么一支笔要在杆尾再镶一块硬木？",
+   "answer": "官方记录写的是工序，不是理由。可以确定的是尾端镶了锥形硬木并打磨光滑——按同类器物的常识，这通常与配重、握持或收尾有关，但本件资料没有给出解释，所以我们不下结论。看实物、读记录、把不知道的留着，这也是研究的一部分。",
+   "refs": [
+    "t04-gsjd-maquan-brush-official"
+   ]
+  },
+  "uncertainty": "工匠、竹材与丝线来源、漆的成分、使用时长与物主均未载；笔毛毛种依馆方记录，未做检测；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gsjd-medicine-paper",
+    "reason": "边塞书写的一对搭档：一支有系绳与漆面的笔，几片写着药名的纸——比较载体与工具，不据此推断同一工坊。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-document-cover",
+    "reason": "书写之后要封缄：一件是写字的笔，一件是封文书的检；把文书从写就到传递的两端放在一起看，不据此推断同一工坊。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-maquan-brush-official": {
+   "id": "t04-gsjd-maquan-brush-official",
+   "title": "官方逐件记录：马圈湾汉毛笔（exhibit_id=48）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=48",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1979年敦煌马圈湾汉代烽燧遗址出土，出土号79DMT7：01；实心竹杆，杆首钻孔插入笔毛，丝线捆扎后髹褐色漆，杆尾截平镶锥形硬木并打磨；通长19.5厘米、直径0.6厘米、笔毛残长1.2厘米；笔毛为狼毫（馆方记录）。未载：工匠、竹材与丝线来源、漆的成分、使用时长与物主；毛种不据AI示意判断；不构成照片授权。"
+  }
+ }
+}

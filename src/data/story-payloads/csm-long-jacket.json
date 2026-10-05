@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-long-jacket",
+  "hook": "对襟直领的长袖夹衣",
+  "summary": "中国丝绸博物馆藏明永乐长袖夹衣。黄色，对襟、直领，袖缘用绢贴边；以1/1平纹地上起卍字田格纹花的织物制成。长61、通袖长198厘米。卍字是传统纹样，本条不作现代政治标识。",
+  "summaryRefs": [
+   "t04-csm-long-jacket-official"
+  ],
+  "sections": [
+   {
+    "title": "形制：对襟、直领、袖缘贴边",
+    "text": "官方记录写明：对襟、直领，袖缘用绢贴边。对襟是两片衣襟在身前相对，不交叠；直领则是领口平直、不开大襟。袖口另缝一道绢条作贴边，是常见的收边办法——既加固袖口，也让边缘整齐。",
+    "refs": [
+     "t04-csm-long-jacket-official"
+    ]
+   },
+   {
+    "title": "织物：平纹地上起花",
+    "text": "以1/1平纹地上起卍字田格纹花的织物制成。1/1平纹是最基本的交织方式；在其上起花，说明这是一块提花织物。田格纹是方格状的布局，卍字填入其中。要说明：站内 AI 配图只呈概括几何纹，不能用来核对织纹的具体结构。",
+    "refs": [
+     "t04-csm-long-jacket-official"
+    ]
+   },
+   {
+    "title": "卍字不等于近代符号",
+    "text": "卍字在中国传统纹样中使用很早，常与连绵、吉祥的寓意相关，出现在织物、建筑与器物上。近代以后它被赋予完全不同的政治含义，但那是后来的事。读古代织物，应当按当时的使用来理解，不能把现代政治标识套回明代衣物。",
+    "refs": [
+     "t04-csm-long-jacket-official"
+    ]
+   },
+   {
+    "title": "尺寸与缺项",
+    "text": "长61、通袖长198厘米，数量1件。通袖长接近两米，说明两袖展开时相当宽裕。物主、出土地、缝制工匠与逐次保护修复档案，官方记录均未载。夹衣意味着有衬层，但夹的是什么、几层，记录没有说明。",
+    "refs": [
+     "t04-csm-long-jacket-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "形制",
+    "text": "对襟、直领；袖缘用绢贴边。",
+    "refs": [
+     "t04-csm-long-jacket-official"
+    ]
+   },
+   {
+    "title": "织物",
+    "text": "1/1平纹地上起卍字田格纹花。",
+    "refs": [
+     "t04-csm-long-jacket-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长61、通袖长198厘米；数量1件。",
+    "refs": [
+     "t04-csm-long-jacket-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "卍字为传统纹样，不作现代政治标识；不据AI图核织纹。",
+    "refs": [
+     "t04-csm-long-jacket-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么要在平纹地上再“起花”？",
+   "answer": "因为平纹结实、平整，但不显花纹。织造时改变部分经纬的交织顺序，就能在不换料、不加色的情况下显出图案——花纹是“织”出来的，不是绣上去的。暗花织物在光下看才明显，古人很早就喜欢这种克制的华丽。",
+   "refs": [
+    "t04-csm-long-jacket-official"
+   ]
+  },
+  "uncertainty": "夹层材料与层数未载；物主、出土地、工匠与入藏经过未载；织纹细节不据AI图核对；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；传统纹样按历史语境说明。",
+  "related": [
+   {
+    "id": "csm-short-jacket",
+    "reason": "两件夹衣：一件长袖、一件短袖，都是对襟直领并贴边，比较形制相同而袖长不同。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-cloud-fragment",
+    "reason": "同为平纹地起花织物：一件做成可辨形的夹衣，一件只剩残片，比较织物与成衣的关系。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-long-jacket-official": {
+   "id": "t04-csm-long-jacket-official",
+   "title": "官方逐件记录：卍字田格纹绮长袖夹衣（itemid=1901）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1901",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明永乐、质地丝、色泽黄、数量1件；衣服对襟、直领，袖缘用绢贴边，以1/1平纹地上起卍字田格纹花的织物制成；长61、通袖长198厘米。卍字为传统纹样，本条不作现代政治标识；AI示意不绘准确织纹；不构成照片授权。"
+  }
+ }
+}

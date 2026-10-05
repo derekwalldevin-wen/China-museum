@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-warming-copper-stove",
+  "hook": "上下两层的铜炉，上层装酒，下层容炭",
+  "summary": "深圳博物馆藏清代“喜”字八宝纹温水铜炉，高18.7厘米，2011年由海关拨交。上层容器可装水或酒，下层容炭加热，提梁与盖便于移动；八宝与双喜纹兼有装饰意味。具体使用场合与所用炭种，官方记录没有说明。",
+  "summaryRefs": [
+   "t03-sz-warming-copper-stove-official"
+  ],
+  "sections": [
+   {
+    "title": "先看它怎么分层",
+    "text": "温水铜炉高18.7厘米，上下两层。馆方记录写明：上层容器可装水或酒，下层容炭加热；另有提梁与盖，便于移动。把盛器与热源分开安置，是这类器物的基本思路。观察时先看两层各自的位置，再看它们如何扣合。",
+    "refs": [
+     "t03-sz-warming-copper-stove-official"
+    ]
+   },
+   {
+    "title": "馆方描述为“喜”字与八宝",
+    "text": "馆方描述为“喜”字八宝纹，双喜与八宝都是常见的吉祥组合。生成图只概括纹样的分布，不据示意图清点八宝的件数，也不逐件辨认每个图案。装饰与结构在这里是两条并列的线索：一条关系使用，一条关系寓意。",
+    "refs": [
+     "t03-sz-warming-copper-stove-official"
+    ]
+   },
+   {
+    "title": "热的来路",
+    "text": "下层容炭，说明加热方式来自炭火；盖与提梁让它可以端走。记录没有写它用过什么炭、在什么场合使用。为双喜纹编造一场婚礼来安放它，或按今天的电热器去理解这套结构，都超出了资料能支持的范围。",
+    "refs": [
+     "t03-sz-warming-copper-stove-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，这类器物的看点一半在纹饰、一半在结构：纹饰是可看的那面，炭膛与容器是可用的那面。只看其中一面，判断就落不下来。具体使用场合、炭种与制作工坊未载；逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-warming-copper-stove-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与材质",
+    "text": "馆方定为清代；铜质。",
+    "refs": [
+     "t03-sz-warming-copper-stove-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高18.7厘米。",
+    "refs": [
+     "t03-sz-warming-copper-stove-official"
+    ]
+   },
+   {
+    "title": "结构",
+    "text": "上层容器可装水或酒，下层容炭加热；有提梁与盖。",
+    "refs": [
+     "t03-sz-warming-copper-stove-official"
+    ]
+   },
+   {
+    "title": "纹饰",
+    "text": "“喜”字与八宝纹，兼有装饰意味；件数不据示意图清点。",
+    "refs": [
+     "t03-sz-warming-copper-stove-official"
+    ]
+   },
+   {
+    "title": "入藏与未载",
+    "text": "2011年海关拨交；具体使用场合、所用炭种与制作工坊未载。",
+    "refs": [
+     "t03-sz-warming-copper-stove-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "温水铜炉为什么把热源放在下层？",
+   "answer": "炭火在下、容器在上，热气向上走，水或酒受热而不直接接触炭灰。提梁与盖让整套器物可以端走，也可能放在桌面上使用。这是结构上的常见安排，本件的具体使用场合未见记录。",
+   "refs": [
+    "t03-sz-warming-copper-stove-official"
+   ]
+  },
+  "uncertainty": "具体使用场合、所用炭种与是否实际使用未载；纹样件数不据示意图清点；制作工坊与工匠未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-oil-lamp",
+    "reason": "同为承托热源的器物：一件把炭膛放在下层以温水酒，一件以三蹄足托起灯盏，比较热源位置与器身结构的对应方式。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-tin-gourd-ewer",
+    "reason": "同为清代金属器：一件容纳炭火与水酒，一件以葫芦形壶身盛液体，比较两种器身在纹饰分布与重心安排上的差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-warming-copper-stove-official": {
+   "id": "t03-sz-warming-copper-stove-official",
+   "title": "官方逐件记录：清“喜”字八宝纹温水铜炉（49cdb7c4aaa04f5585fd9f5641ce7fe6）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=49cdb7c4aaa04f5585fd9f5641ce7fe6",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方定为清代；高18.7厘米；2011年由海关拨交；上层容器可装水或酒，下层容炭加热，有提梁与盖，饰“喜”字与八宝纹。未载：具体使用场合与所用炭种；纹样件数不据生成图清点；不构成照片授权。"
+  }
+ }
+}

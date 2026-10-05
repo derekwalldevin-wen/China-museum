@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "hb-longgang-tablet",
+  "hook": "木牍两面写了38个字",
+  "summary": "湖北省博物馆藏秦代龙岗木牍。长36.5厘米、宽3.2厘米，1975年出土于云梦龙岗6号墓。两面以墨书秦隶书写，共38字；馆方说明内容为纠正误判的法律文书。",
+  "summaryRefs": [
+   "t02-hb-longgang-tablet-official"
+  ],
+  "sections": [
+   {
+    "title": "尺寸与双面书写",
+    "text": "长36.5厘米、宽3.2厘米，窄而长，一片牍上两面都写了字，字体为墨书秦隶，两面合计38字。字数与字体出自馆方记录；木牍上的具体字迹不据AI示意图辨认，要看原件或正式释文才能逐字确认。",
+    "refs": [
+     "t02-hb-longgang-tablet-official"
+    ]
+   },
+   {
+    "title": "内容是什么",
+    "text": "馆方说明内容为纠正误判的法律文书。这是对文书性质的概述：某处判罚有误，文书予以纠正。什么人涉案、案情怎样展开，记录没有给出，也不宜从38字里替它补出情节。",
+    "refs": [
+     "t02-hb-longgang-tablet-official"
+    ]
+   },
+   {
+    "title": "缺的那一半",
+    "text": "没有完整案情，被告、案发经过与最终处理都未载，属于留待正式报告与进一步整理的部分。木材种类、削制方式与墨的配方同样未载；这块牍在当时的行政流程中处于哪一环，也无从判断。",
+    "refs": [
+     "t02-hb-longgang-tablet-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，36.5厘米长的木牍刚好能竖着握在手里，38个字分写两面，行文紧凑。它与竹简的形制不同，牍面更宽更硬，适合承载成段的公文。这块牍由哪个机构发出、经谁送递，记录未载；本件逐次保护修复档案未核。",
+    "refs": [
+     "t02-hb-longgang-tablet-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与类别",
+    "text": "秦；木牍（简牍）。",
+    "refs": [
+     "t02-hb-longgang-tablet-official"
+    ]
+   },
+   {
+    "title": "出土与收藏",
+    "text": "1975年，云梦龙岗6号墓；湖北省博物馆藏。",
+    "refs": [
+     "t02-hb-longgang-tablet-official"
+    ]
+   },
+   {
+    "title": "尺寸与字数",
+    "text": "长36.5厘米、宽3.2厘米；两面墨书秦隶，共38字。",
+    "refs": [
+     "t02-hb-longgang-tablet-official"
+    ]
+   },
+   {
+    "title": "内容",
+    "text": "馆方说明为纠正误判的法律文书；涉案人名与完整判决未载。",
+    "refs": [
+     "t02-hb-longgang-tablet-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "木材种类、削制与墨配方未载；不据AI示意图辨认字迹。",
+    "refs": [
+     "t02-hb-longgang-tablet-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么纠错文书要写在木牍上？",
+   "answer": "牍面平整、宽度够，适合写成段的公文；纠错一件事需要把事情与结论都交代清楚，木牍的容字空间比单枚竹简宽裕，这就是载体的实用考虑。至于这块牍在行政流程中处于递送、存档还是别的环节，现有资料只给到“纠正误判”这一层概述。",
+   "refs": [
+    "t02-hb-longgang-tablet-official"
+   ]
+  },
+  "uncertainty": "木材种类、削制与墨配方未载；涉案人名、完整案情与最终处理未载；行政流程位置未载；本件逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按湖北省博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "hb-heifu-letter",
+    "reason": "同出云梦、同为木牍：一片是纠正误判的法律文书，一片是提到从军的家信，可比较公文与私人书写在字数安排和行文口气上的差别。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "hb-xiaolv-slips",
+    "reason": "同为秦代法律材料：一件是单枚木牍上的纠错文书，一组是60枚竹简的律文，可比较单件文书与成组律文各自的著录和记录方式。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t02-hb-longgang-tablet-official": {
+   "id": "t02-hb-longgang-tablet-official",
+   "title": "官方逐件记录：龙岗木牍（/p/5382.html）",
+   "institution": "湖北省博物馆",
+   "url": "https://m-www.hbww.org.cn/p/5382.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：秦代木牍，长36.5厘米、宽3.2厘米，1975年出土于云梦龙岗6号墓，现藏湖北省博物馆；两面以墨书秦隶书写，共38字，馆方说明内容为纠正误判的法律文书。未载：木材种类、削制方式与墨配方，涉案人名与完整案情；缺失的案情部分留待正式报告，不补写被告与结局；不构成照片授权。"
+  }
+ }
+}

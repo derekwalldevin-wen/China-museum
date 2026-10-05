@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-yellow-knots-pouch",
+  "hook": "一颗一颗打出来的籽",
+  "summary": "中国丝绸博物馆藏清代荷包。质地丝，主要面料为黄色绸，其上以打籽绣表现多子多福纹样，长10.1、宽14.5厘米。纹样表达的是吉愿，不说明物主的实际生育经历。",
+  "summaryRefs": [
+   "t04-csm-yellow-knots-pouch-official"
+  ],
+  "sections": [
+   {
+    "title": "打籽绣是怎么回事",
+    "text": "官方记录对针法的说明很清楚：打籽绣采用打籽针；打籽是一种比较重要的针法，用力须均匀紧密；因为籽粒细小、组合灵活，可以绣花蕊，也可以绣各种精致图案。这解释了一个要点——所谓“籽”，是用线在针上绕成的小结，一针一结地落在布面上。",
+    "refs": [
+     "t04-csm-yellow-knots-pouch-official"
+    ]
+   },
+   {
+    "title": "纹样为什么叫多子多福",
+    "text": "这是馆方给出的纹样名称，属于对图案寓意的记述。多子多福是传统吉愿题材，取的是“多”“繁盛”的联想。要分清：**纹样表达吉愿，不等于物主真有许多子女**。把图案当成生活记录，是把祝愿读成了传记。",
+    "refs": [
+     "t04-csm-yellow-knots-pouch-official"
+    ]
+   },
+   {
+    "title": "尺寸与面料",
+    "text": "长10.1、宽14.5厘米；主要面料为黄色绸。绸是平纹组织的一类织物，表面平整，适合在上面均匀地打籽——籽粒需要布面稳定，才不会歪斜。这个尺寸正好握在手里，是随身小物的常见体量。",
+    "refs": [
+     "t04-csm-yellow-knots-pouch-official"
+    ]
+   },
+   {
+    "title": "工艺之外的空缺",
+    "text": "谁绣的、为谁绣的、什么时候绣的，官方记录都没有写；入藏经过也未载。逐次保护修复档案同样未核。站内的 AI 配图只呈现概括的黄色袋形与装饰，具体纹样的排布、结粒的疏密都不能据图核对。",
+    "refs": [
+     "t04-csm-yellow-knots-pouch-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "针法",
+    "text": "打籽绣；用力须均匀紧密，籽粒细小、组合灵活。",
+    "refs": [
+     "t04-csm-yellow-knots-pouch-official"
+    ]
+   },
+   {
+    "title": "纹样与寓意",
+    "text": "多子多福；属吉愿题材，不等于物主经历。",
+    "refs": [
+     "t04-csm-yellow-knots-pouch-official"
+    ]
+   },
+   {
+    "title": "尺寸与时代",
+    "text": "长10.1、宽14.5厘米；清。",
+    "refs": [
+     "t04-csm-yellow-knots-pouch-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "物主、制作者与入藏经过未载。",
+    "refs": [
+     "t04-csm-yellow-knots-pouch-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么用“打结”的办法绣图案，而不是平铺线条？",
+   "answer": "按馆方说明，打籽绣的籽粒细小、组合灵活，可以绣花蕊，也可以绣精致图案。结粒凸出布面，会随光线产生细小的阴影，图案因此有了颗粒与厚度。代价是费工：每一粒都要绕线、落针，还要用力均匀。",
+   "refs": [
+    "t04-csm-yellow-knots-pouch-official"
+   ]
+  },
+  "uncertainty": "物主、制作者、入藏经过与绣制年代（具体年份）未载；纹样排布不据AI图核对；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；吉愿纹样不作人物传记使用。",
+  "related": [
+   {
+    "id": "csm-lion-pouches",
+    "reason": "两只清代荷包：一只以盘金彩绣出狮子，一只以打籽绣出多子多福，比较针法带来的不同质感。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-plum-money-pouch",
+    "reason": "荷包与钱袋的分工：一件重在装饰与佩挂，一件明确用于装钱并系于腰间，比较小袋的用途差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-yellow-knots-pouch-official": {
+   "id": "t04-csm-yellow-knots-pouch-official",
+   "title": "官方逐件记录：黄绸地打籽绣多子多福荷包（itemid=3281）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3281",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代清、质地丝；主要面料为黄色绸，其上打籽绣多子多福纹样；长10.1、宽14.5厘米；馆方对打籽绣的说明（用打籽针、用力须均匀紧密、籽粒细小组合灵活）属工艺解释。未载：物主与入藏经过；吉愿纹样不构成生育经历或人物传记；不构成照片授权。"
+  }
+ }
+}

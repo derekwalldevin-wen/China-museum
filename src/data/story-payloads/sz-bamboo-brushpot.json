@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-bamboo-brushpot",
+  "hook": "一只细竹筒做的笔筒",
+  "summary": "深圳博物馆藏清代刻字竹笔筒。口径与底径均为5厘米，高11.7厘米。竹材、圆筒与刻字共同组成小型案头器具；馆方页面没有展示可核释文，刻作者也未记录。",
+  "summaryRefs": [
+   "t02-sz-bamboo-brushpot-official"
+  ],
+  "sections": [
+   {
+    "title": "尺寸与形状",
+    "text": "口径5厘米、底径5厘米、高11.7厘米，上下等径，是一个圆筒。这个尺寸放在桌面上占的地方很小，插几支笔正好；三组数字都出自馆方逐件记录，观察可以从口径与高度的比例入手。",
+    "refs": [
+     "t02-sz-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "刻字这一层",
+    "text": "器名里的“刻字”来自馆方定名，说明竹面上留有文字。页面没有展示可核释文，也没有刻作者，因此具体刻的是诗句、年款还是署名，现有资料无从判断。这一批配图属AI示意，不生成可读字迹，也不据此推测刻者身份与文人名号。",
+    "refs": [
+     "t02-sz-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "竹材与加工",
+    "text": "竹材是记录中最直接的材质信息：取一段竹筒，稍加修治就是成形的笔筒。具体用刀与加工步骤未载；刻字在成器前后哪一步进行、字口如何处理，留待专门的工艺检测与著录。",
+    "refs": [
+     "t02-sz-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，11.7厘米高的竹笔筒摆在现代书桌上也不突兀——材料普通，工序却不止一两道。它的使用者、产地与收藏来源都未记录；深圳博物馆其他器物的捐赠年份不宜套用到这一件上，来源信息须以本件档案为准。本件逐次保护修复档案未核。",
+    "refs": [
+     "t02-sz-bamboo-brushpot-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与类别",
+    "text": "清；杂项（笔筒）。",
+    "refs": [
+     "t02-sz-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "口径5厘米、底径5厘米、高11.7厘米。",
+    "refs": [
+     "t02-sz-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "材质与定名",
+    "text": "竹材；圆筒；馆方定名为刻字竹笔筒。",
+    "refs": [
+     "t02-sz-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "释文、刻作者、使用者、产地与收藏来源未载。",
+    "refs": [
+     "t02-sz-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "不据AI示意图生成或判读刻字；不套用其他器物的捐赠年份。",
+    "refs": [
+     "t02-sz-bamboo-brushpot-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "竹材做笔筒，好在哪儿？",
+   "answer": "竹管成材快、管壁均匀，取一段就是现成的圆筒，稍加修治即可使用，这是材料上的便利；竹面又宜刻，刻字与竹纹同在一层表面上，用久了颜色会转深。这类文人器具刻字，通常与寄语、纪年或署名的习惯有关，属类型背景；这一件刻了什么、由谁刻，馆方记录没有交代。",
+   "refs": [
+    "t02-sz-bamboo-brushpot-official"
+   ]
+  },
+  "uncertainty": "释文与刻作者未载；使用者、产地与收藏来源未载；刻刀与加工步骤未载；加工与刻字先后次序未载；本件逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gb-landscape-brushpot",
+    "reason": "同为笔筒：一件是黑漆描金山水、高22.8厘米的漆器，一件是5厘米口径的刻字竹筒，可比较漆面描金与竹面刻字两种装饰在材料和器面上的限制。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gg-chrysanthemum-lacquer-dish",
+    "reason": "同为小型案头器具：一件是口径14厘米的菊瓣漆盘，一件是高11.7厘米的竹笔筒，可比较漆、竹两种材料在器面处理与装饰手法上的不同。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t02-sz-bamboo-brushpot-official": {
+   "id": "t02-sz-bamboo-brushpot-official",
+   "title": "官方逐件记录：刻字竹笔筒（a572599a2109492099bd896a6d0cc0da）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=a572599a2109492099bd896a6d0cc0da",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：清代刻字竹笔筒，口径与底径均5厘米、高11.7厘米；竹材、圆筒与刻字共同组成小型案头器具，刻字为馆方定名。未载：可核释文与刻作者、使用者、产地与收藏来源，刻刀与加工步骤；官网未见展示释文，字迹不据AI图生成或判读；不构成照片授权。"
+  }
+ }
+}

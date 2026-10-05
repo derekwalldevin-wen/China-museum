@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-blue-waist-pouch",
+  "hook": "描着金边的轮廓，里面填绒",
+  "summary": "中国丝绸博物馆藏民国腰包。质地丝，以蓝色缎为主要面料，其上以圈金铺绒绣表现石榴与飞雁纹样，长9.9、宽28.1厘米。馆方定年为民国，不能因传统纹样而误归清代；制作人与发现过程未见记录。",
+  "summaryRefs": [
+   "t04-csm-blue-waist-pouch-official"
+  ],
+  "sections": [
+   {
+    "title": "两道工序：先圈边，再填绒",
+    "text": "官方记录把工艺拆成两步讲：圈金绣属钉金绣，用一根金线或银线圈出纹样的外轮廓，再用丝线以其他针法绣轮廓内部；铺绒绣也叫别绒或瘪绒，即挑花，特点是以满铺绒线成为整个绣地，以极细的生丝线挑出图案。先定边界、再填内容——这是许多绣法的共同思路。",
+    "refs": [
+     "t04-csm-blue-waist-pouch-official"
+    ]
+   },
+   {
+    "title": "石榴与飞雁",
+    "text": "纹样被记录为石榴与飞雁。石榴常见于多子的吉愿题材，飞雁则常与水乡、旅途、时令的联想有关。这些是图案的一般含义，本条不用它推想物主的处境或经历——纹样是绣上去的祝愿或装饰，不是生活记录。",
+    "refs": [
+     "t04-csm-blue-waist-pouch-official"
+    ]
+   },
+   {
+    "title": "尺码说明它是腰包",
+    "text": "长9.9、宽28.1厘米——窄而长。这个比例适合系在腰间，横向贴合身体。与荷包相比，腰包的面积更大，装饰的余地也更多，石榴与飞雁因此可以铺开安排。",
+    "refs": [
+     "t04-csm-blue-waist-pouch-official"
+    ]
+   },
+   {
+    "title": "年代为什么是民国",
+    "text": "馆方定年为民国。这一点需要强调：不能因为纹样是传统题材，就把它归到清代。工艺的延续与器物的年代是两件事——铺绒、圈金这些针法在民国仍在做，作品本身却属于近代。制作人与发现过程，官方记录未载。",
+    "refs": [
+     "t04-csm-blue-waist-pouch-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "工艺",
+    "text": "圈金绣（属钉金绣）勾轮廓；铺绒绣以满铺绒线为地、极细生丝线挑图案。",
+    "refs": [
+     "t04-csm-blue-waist-pouch-official"
+    ]
+   },
+   {
+    "title": "纹样",
+    "text": "石榴与飞雁。",
+    "refs": [
+     "t04-csm-blue-waist-pouch-official"
+    ]
+   },
+   {
+    "title": "尺寸与年代",
+    "text": "长9.9、宽28.1厘米；馆方定年民国。",
+    "refs": [
+     "t04-csm-blue-waist-pouch-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "不按传统纹样误归清代；制作人未知。",
+    "refs": [
+     "t04-csm-blue-waist-pouch-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么先要把纹样的边“描”出来？",
+   "answer": "按馆方对圈金绣的说明，金线沿轮廓走一圈，等于先把图案的界线固定下来；随后在里面填绒绣，就不容易走形。这像画画先勾线再上色：方法简单，效果稳妥，也让金线在光下显出一道亮边。",
+   "refs": [
+    "t04-csm-blue-waist-pouch-official"
+   ]
+  },
+  "uncertainty": "制作人、发现过程、物主与具体年份未载；金线成分与绒线材质未做检测；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；定年从馆方登记为民国。",
+  "related": [
+   {
+    "id": "csm-go-waist-pouch",
+    "reason": "两件民国腰包：一件蓝缎圈金铺绒绣石榴飞雁，一件白绸绣桃子围棋，比较底色、针法与纹样主题。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-ming-yesa",
+    "reason": "近代小袋与明代外衣并置：工艺样式可以相似，年代与用途不同，比较而不暗示直接传承。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-blue-waist-pouch-official": {
+   "id": "t04-csm-blue-waist-pouch-official",
+   "title": "官方逐件记录：蓝缎圈金铺绒绣石榴飞雁腰包（itemid=3280）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3280",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；以蓝色缎为主，其上圈金铺绒绣石榴飞雁纹样；长9.9、宽28.1厘米；馆方对圈金绣（属钉金绣，用金银线圈轮廓）与铺绒绣（以满铺绒线为绣地，用极细生丝线挑出图案）的说明属工艺解释。未载：制作人与发现过程；定年为民国，不按纹样误归清代；不构成照片授权。"
+  }
+ }
+}

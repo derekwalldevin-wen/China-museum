@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gsjd-changluo-expenses",
+  "hook": "十八枚木简，记一顿接待",
+  "summary": "甘肃简牍博物馆藏西汉木简一册（整册计一条）。1990年悬泉置出土，18枚，每简长23、宽0.8厘米。内容是元康五年（公元前61年）长罗侯常惠出使乌孙时，悬泉置招待其路过军吏的费用记录。",
+  "summaryRefs": [
+   "t04-gsjd-changluo-expenses-official"
+  ],
+  "sections": [
+   {
+    "title": "一本账，记的是一个过路人",
+    "text": "官方摘录交代了时间与主角：元康五年，长罗侯常惠出使乌孙，途中经过悬泉置，驿站为随行的军吏提供了接待。18枚木简写下的是这件事的花费。账簿的意义在于：一场外交行程在一个具体驿站里，变成了可以被逐项登记的开支。",
+    "refs": [
+     "t04-gsjd-changluo-expenses-official"
+    ]
+   },
+   {
+    "title": "为什么研究者看重它",
+    "text": "馆方给出两层判断：其一，为研究悬泉置的功能与经费收支提供第一手资料；其二，为研究西汉与西域、尤其与乌孙的关系提供重要资料，可补传世史籍的阙载。第一层是账簿本身能直接证明的；第二层是馆方对其史料价值的评价。本条把两层分开写，不把评价当成账面上的字。",
+    "refs": [
+     "t04-gsjd-changluo-expenses-official"
+    ]
+   },
+   {
+    "title": "长度、宽度与枚数",
+    "text": "每简长23厘米、宽0.8厘米，共18枚——这些是官方记录的形制数据。需要注意的是：站内配图是 AI 概括示意，图上的枚数排列与墨迹位置不能用来核对原件。要谈这册书的编连方式，只能依据原件与馆方记录。",
+    "refs": [
+     "t04-gsjd-changluo-expenses-official"
+    ]
+   },
+   {
+    "title": "账本没有写的",
+    "text": "开支的具体名目、总额、接待人数，本条资料未逐项列出，因此不补。常惠本人在简文中的其他记载、驿站人员的构成，同样不在本条的官方摘录范围内。一册账簿能说明的是“这里记了这笔账”，不能说明这笔接待的全貌。",
+    "refs": [
+     "t04-gsjd-changluo-expenses-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与形制",
+    "text": "1990年悬泉置出土；木简18枚，每简长23、宽0.8厘米。",
+    "refs": [
+     "t04-gsjd-changluo-expenses-official"
+    ]
+   },
+   {
+    "title": "年代与事由",
+    "text": "元康五年（公元前61年），长罗侯常惠出使乌孙途中接待费用。",
+    "refs": [
+     "t04-gsjd-changluo-expenses-official"
+    ]
+   },
+   {
+    "title": "史料价值",
+    "text": "馆方评价：为悬泉置经费收支与西汉—乌孙关系研究提供资料，可补史籍阙载。",
+    "refs": [
+     "t04-gsjd-changluo-expenses-official"
+    ]
+   },
+   {
+    "title": "计数方式",
+    "text": "整册按一条文物计，不拆成18条。",
+    "refs": [
+     "t04-gsjd-changluo-expenses-official"
+    ]
+   },
+   {
+    "title": "不能依赖图示",
+    "text": "AI示意图不用于核对枚数与原排列。",
+    "refs": [
+     "t04-gsjd-changluo-expenses-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "一封账本为什么能帮我们了解外交？",
+   "answer": "因为大事件会落到小事上。常惠出使乌孙是史书里的事；到了悬泉置，它变成粮食、草料、人力的具体支出，被一条条写进木简。研究者由此能看到行程经过哪里、驿站怎样接待、费用怎么算——这些细节往往不进史书。",
+   "refs": [
+    "t04-gsjd-changluo-expenses-official"
+   ]
+  },
+  "uncertainty": "开支名目与总额、接待人数、驿站人员构成未载；枚数与排列以原件与馆方记录为准，不据示意图核对；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gsjd-chicken-register",
+    "reason": "同馆两本账簿：一本记外交行程的接待费用，一本记一年里鸡的出入与消费——比较驿站账目的两种口径。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-camel-dispute",
+    "reason": "都与西域往来有关：一处记使者过境的接待开支，一处记使者对献驼估价的申诉，比较制度文书如何处理“人”与“物”。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-changluo-expenses-official": {
+   "id": "t04-gsjd-changluo-expenses-official",
+   "title": "官方逐件记录：元康五年悬泉置过长罗侯费用簿（exhibit_id=46）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=46",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1990年敦煌悬泉置遗址出土；木简18枚，每简长23、宽0.8厘米；内容为元康五年（公元前61年）长罗侯常惠出使乌孙时悬泉置招待其路过军吏的费用记录；馆方评价其为研究悬泉置功能与经费收支、以及西汉与西域尤其乌孙关系的重要资料，可补史籍阙载。未载：开支名目与总额、接待人数、驿站人员构成；整册计一条；不据AI示意核对枚数与排列；不构成照片授权。"
+  }
+ }
+}

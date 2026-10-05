@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-gold-peony-shoes",
+  "hook": "金线钉在鞋背上",
+  "summary": "中国丝绸博物馆藏明永乐缎鞋一双。黄色，共两只，以五枚素缎做地，鞋背上用钉金线绣出牡丹花卉纹样。官方记录未列尺寸；工匠与生产地点未知。",
+  "summaryRefs": [
+   "t04-csm-gold-peony-shoes-official"
+  ],
+  "sections": [
+   {
+    "title": "钉金：把金线固定在布上",
+    "text": "官方记录写的是“用钉金线绣出牡丹花卉纹样”。钉金属于把金线（或以金材捻成的线）沿纹样走势摆放，再用细线一针针钉住的做法——金线本身不必穿过布面，靠钉线固定。与普通丝线刺绣相比，它更亮，也更考验固定的匀称。",
+    "refs": [
+     "t04-csm-gold-peony-shoes-official"
+    ]
+   },
+   {
+    "title": "五枚素缎是什么",
+    "text": "以五枚素缎做地。“枚”指缎纹组织中经纬纱的交织间隔；五枚是很常见的一种缎组织。官方的意思可以理解为：鞋面用的是五枚缎的素织物。要说明的是，本条不据站内 AI 示意图去验证组织——组织的判断属于纺织检测的范围。",
+    "refs": [
+     "t04-csm-gold-peony-shoes-official"
+    ]
+   },
+   {
+    "title": "纹样只在鞋背",
+    "text": "记录特别指出：鞋背上用钉金线绣出牡丹花卉纹样。也就是说，装饰集中在最显眼的位置；鞋的其他部分保持素面。这种“集中装饰”的做法在鞋类上很常见：走路时最容易被看到的，正是鞋背。",
+    "refs": [
+     "t04-csm-gold-peony-shoes-official"
+    ]
+   },
+   {
+    "title": "缺的是哪些",
+    "text": "官方记录没有列出尺寸，也未载工匠、生产地点与物主。逐次保护修复档案未核。它的价值因此集中在材料与工艺上：一双明永乐的钉金绣缎鞋，成对保存，让我们可以看到金线如何被固定在缎地上——而它是谁做的、给谁穿的，仍不知道。",
+    "refs": [
+     "t04-csm-gold-peony-shoes-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "数量与配色",
+    "text": "1双，共两只，黄色。",
+    "refs": [
+     "t04-csm-gold-peony-shoes-official"
+    ]
+   },
+   {
+    "title": "地组织",
+    "text": "以五枚素缎做地（不据AI图验证）。",
+    "refs": [
+     "t04-csm-gold-peony-shoes-official"
+    ]
+   },
+   {
+    "title": "纹样与工艺",
+    "text": "鞋背钉金线绣牡丹花卉纹。",
+    "refs": [
+     "t04-csm-gold-peony-shoes-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "尺寸未列；工匠与生产地点未载。",
+    "refs": [
+     "t04-csm-gold-peony-shoes-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么金线不直接穿过去绣，而要“钉”住？",
+   "answer": "因为金线脆。金属线反复穿过布面容易折断，也无法像丝线那样打结收口；把它摆在布面、用细线钉牢，既能保持完整，又能在光下连成一道亮线。做法受材料限制——这几乎是一切工艺的通则。",
+   "refs": [
+    "t04-csm-gold-peony-shoes-official"
+   ]
+  },
+  "uncertainty": "尺寸未列；工匠、生产地点、物主与入藏经过未载；五枚组织不据AI图验证；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "csm-peony-satin-shoe",
+    "reason": "同为黄色缎地牡丹绣鞋：一件用素缎地刺绣，一件用五枚素缎地钉金，比较两种地组织与线材组合。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-ruyi-shoes",
+    "reason": "两双明永乐绣鞋：一双缉线绣如意纹，一双钉金绣牡丹，比较线材与针法的差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-gold-peony-shoes-official": {
+   "id": "t04-csm-gold-peony-shoes-official",
+   "title": "官方逐件记录：钉金绣牡丹花纹缎鞋（itemid=1894）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1894",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明永乐、质地丝、色泽黄色、数量1双；该件绣鞋共两只，以五枚素缎做地，鞋背上用钉金线绣出牡丹花卉纹样。未载：尺寸字段、工匠、生产地点、物主与入藏经过；五枚组织不据AI图验证；不构成照片授权。"
+  }
+ }
+}

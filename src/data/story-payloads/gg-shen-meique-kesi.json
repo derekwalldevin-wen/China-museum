@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gg-shen-meique-kesi",
+  "hook": "梅与鹊，用十五六种色丝织成一幅窄长立轴",
+  "summary": "故宫博物院藏南宋沈子蕃缂丝梅鹊图轴。纵104厘米、宽36厘米，清宫旧藏。作品依画稿以不同色丝分区缂织，经线相通而纬线不贯穿整个幅面。馆方给出织物密度与款印，作者生卒年不详。",
+  "summaryRefs": [
+   "t02-gg-shen-meique-kesi-official"
+  ],
+  "sections": [
+   {
+    "title": "旧藏与尺幅",
+    "text": "纵104厘米、宽36厘米，是一条窄长的立轴，属于清宫旧藏，库藏编号为故00072691。它进入宫廷收藏的经过，记录未载。",
+    "refs": [
+     "t02-gg-shen-meique-kesi-official"
+    ]
+   },
+   {
+    "title": "通经断纬",
+    "text": "馆方记录写得很具体：作品依画稿以不同色丝分区缂织，经线相通，纬线不贯穿整个幅面。这是缂丝的织法特征——换色在小区域内进行，画面因此能像拼色一样过渡。馆方还给出织物密度与款印两项信息，并注明所用色丝在15至16种之间。",
+    "refs": [
+     "t02-gg-shen-meique-kesi-official"
+    ]
+   },
+   {
+    "title": "梅与鹊",
+    "text": "题材是梅花与喜鹊。花与鸟由色丝分区拼合而来，枝干、花瓣与羽毛的轮廓都落在换色的接缝上。至于款识写的什么、赏鉴印如何分布，需要看原件或高清著录，不据AI示意图判断。",
+    "refs": [
+     "t02-gg-shen-meique-kesi-official"
+    ]
+   },
+   {
+    "title": "作者与今天再看",
+    "text": "沈子蕃之名见于馆方著录与所载款印，作者生卒年没有记录，生平细节同样未载。收藏印的存在说明作品被多次看过、藏过，每一次过手的确切日期却没有完整档案。今天再看，它常被当作宋代缂丝技艺的参照件：看的是色丝的组织，而不只是画面像不像画。",
+    "refs": [
+     "t02-gg-shen-meique-kesi-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "馆藏与年代",
+    "text": "故宫博物院藏；南宋；清宫旧藏；库藏编号故00072691。",
+    "refs": [
+     "t02-gg-shen-meique-kesi-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "纵104厘米、宽36厘米。",
+    "refs": [
+     "t02-gg-shen-meique-kesi-official"
+    ]
+   },
+   {
+    "title": "织法",
+    "text": "依画稿以不同色丝分区缂织；经线相通、纬线不贯穿整个幅面。",
+    "refs": [
+     "t02-gg-shen-meique-kesi-official"
+    ]
+   },
+   {
+    "title": "材料与密度",
+    "text": "馆方给出织物密度；所用色丝15至16种。",
+    "refs": [
+     "t02-gg-shen-meique-kesi-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "作者生卒年、逐次流转档案未载；收藏印不代表每段过手都有日期。",
+    "refs": [
+     "t02-gg-shen-meique-kesi-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么换色要在一小块一小块里完成？",
+   "answer": "经线拉满整幅，颜色只能靠纬线一段段填进去。要让花瓣与羽毛的边界清楚，就得在需要换色的地方收住纬线，再把另一种颜色的丝续上。织工因此必须提前想好画面要被切成哪些色块——构图的工作在开织之前就已经做了一遍。",
+   "refs": [
+    "t02-gg-shen-meique-kesi-official"
+   ]
+  },
+  "uncertainty": "作者生卒年与生平未载；逐次流转档案未载，逐次保护修复档案未核；织物密度与款印以馆方著录为准，不据AI示意图判断；印主与年代未逐一考释。",
+  "correction": "2026年10月新增条目，按故宫博物院逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gb-goose-kesi",
+    "reason": "两件缂丝的色丝分区可以对照：一件存有织物密度与15至16种色丝的记录，一件只存画面描述，两者在证据详略上的差别值得一起看。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-peony-gold-satin",
+    "reason": "图像形成的两种办法：梅与鹊由换梭分区织出，牡丹由金线加入蓝地缎面，比较禽鸟与花卉在织物里各自依靠什么手段成形。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t02-gg-shen-meique-kesi-official": {
+   "id": "t02-gg-shen-meique-kesi-official",
+   "title": "官方逐件记录：沈子蕃缂丝梅鹊图轴（/collection/embroider/234663.html）",
+   "institution": "故宫博物院",
+   "url": "https://www.dpm.org.cn/collection/embroider/234663.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋沈子蕃款梅鹊缂丝图轴纵104厘米、宽36厘米，清宫旧藏，依画稿以不同色丝分区缂织，经线相通而纬线不贯穿整个幅面，馆方给出织物密度与款印，色丝15至16种。未载：作者生卒年与逐次流转档案；收藏印存在不代表每次过手都有完整日期；不构成照片授权。"
+  }
+ }
+}

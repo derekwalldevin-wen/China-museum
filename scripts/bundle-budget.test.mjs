@@ -19,8 +19,11 @@ const inkIntro = one(/^InkScrollIntro-[\w-]+\.js$/);
 const artifactSearch = one(/^artifact-search-[\w-]+\.json$/);
 const generation = JSON.parse(readFileSync(new URL('../docs/audits/museum-data-generation.json', import.meta.url), 'utf8'));
 const imageGeneration = JSON.parse(readFileSync(new URL('../docs/audits/image-data-generation.json', import.meta.url), 'utf8'));
+const rendering = one(/^(?:ResponsiveArtifactImage|useArtifactCardEntry)-[\w-]+\.js$/);
 const storyGeneration = JSON.parse(readFileSync(new URL('../docs/audits/story-data-generation.json', import.meta.url), 'utf8'));
-const payloadChunks = generation.payloads.files.map(({ id }) => one(new RegExp(`^${id.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}-[\\w-]+\\.js$`)));
+// Vite's default hash is eight characters. An unbounded suffix also matched
+// gansu-jiandu when looking for gansu, counting two different museums as one.
+const payloadChunks = generation.payloads.files.map(({ id }) => one(new RegExp(`^${id.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}-[\\w-]{8}\\.js$`)));
 const mainText = readFileSync(new URL(main, assetsUrl), 'utf8');
 const storyText = readFileSync(new URL(story, assetsUrl), 'utf8');
 const html = readFileSync(new URL('../dist/index.html', import.meta.url), 'utf8');
@@ -55,10 +58,24 @@ test('initial JavaScript stays below the production budget', () => {
 });
 
 test('full museum descriptions and search prose stay out of the first screen', () => {
-  assert.equal(payloadChunks.length, 59);
-  assert.ok(payloadChunks.reduce((sum, file) => sum + statSync(new URL(file, assetsUrl)).size, 0) <= 108_000);
+  assert.equal(payloadChunks.length, generation.source.museums);
+  // The original per-object allowance is unchanged. New direct bibliographic
+  // records are separately metered, deferred with their museum, never initial JS.
+  // Do not let full evidence/writing packs enter these captions.
+  const batches=['03','04','05'].map(tranche=>JSON.parse(readFileSync(new URL(`../assets/expansion/admission-tranche-${tranche}.json`,import.meta.url),'utf8')));
+  const batchIds=new Set(batches.flatMap(batch=>batch.admitted.map(item=>item.id)));
+  let referenceBytes=0;
+  for(const {path} of generation.payloads.files){
+    const payload=JSON.parse(readFileSync(new URL(`../${path}`,import.meta.url),'utf8'));
+    for(const artifact of payload.artifacts.filter(item=>batchIds.has(item.id))){
+      const bytes=Buffer.byteLength(JSON.stringify(artifact.references??[]));
+      assert.ok(bytes<=620,`Reference caption too large: ${artifact.id}`);
+      referenceBytes+=bytes;
+    }
+  }
+  assert.ok(payloadChunks.reduce((sum, file) => sum + statSync(new URL(file, assetsUrl)).size, 0) <= generation.source.artifacts * 500 + referenceBytes);
   // Collection expansion grows only this deferred search JSON, not the initial JS.
-  assert.ok(statSync(new URL(artifactSearch, assetsUrl)).size <= 56_000);
+  assert.ok(statSync(new URL(artifactSearch, assetsUrl)).size <= generation.source.artifacts * 260, 'Lazy search data must remain a compact corpus, not full reference documents');
   assert.doesNotMatch(initialText, /张择端《清明上河图》是北宋/);
   assert.doesNotMatch(initialText, /authorizationStatus/);
   assert.doesNotMatch(html, /artifact-search|gugong-|guobo-/);
@@ -67,15 +84,18 @@ test('full museum descriptions and search prose stay out of the first screen', (
 });
 
 test('responsive card delivery stays deferred and complete provenance stays in 59 static payloads', () => {
-  // Five more artifacts add safe delivery URLs only to this deferred card list.
-  assert.ok(imageGeneration.cardManifest.bytes <= 187_000, `card manifest is ${imageGeneration.cardManifest.bytes} B`);
+  // The 223-record legacy allowance remains unchanged. Expansion records have
+  // independent card/detail JPEGs, longer immutable URLs and JPEG fallbacks.
+  // This is an OFFLINE registry; browsers load only a museum shard, never it all.
+  const expandedRecords = Math.max(0, generation.source.artifacts - 223);
+  assert.ok(imageGeneration.cardManifest.bytes <= Math.min(223,generation.source.artifacts)*850 + expandedRecords*1600, `offline card manifest is ${imageGeneration.cardManifest.bytes} B`);
   const provenanceDirectory = new URL('../dist/data/image-provenance/', import.meta.url);
   const provenanceFiles = readdirSync(provenanceDirectory).filter(file => file.endsWith('.json')).sort();
-  assert.equal(provenanceFiles.length, 59);
+  assert.equal(provenanceFiles.length, generation.source.museums);
   assert.deepEqual(provenanceFiles, imageGeneration.provenancePayloads.files.map(item => `${item.id}.json`).sort());
   // Full AI evidence remains in per-museum payloads, not the first-screen JavaScript.
-  assert.ok(provenanceFiles.reduce((sum, file) => sum + statSync(new URL(file, provenanceDirectory)).size, 0) <= 390_000);
-  const responsive = one(/^ResponsiveArtifactImage-[\w-]+\.js$/);
+  assert.ok(provenanceFiles.reduce((sum, file) => sum + statSync(new URL(file, provenanceDirectory)).size, 0) <= Math.min(223,generation.source.artifacts)*1800 + expandedRecords*3200);
+  const responsive = rendering;
   // 2026-10-01: two field-photographed Hubei artifacts (and hub-zhy switching to a real photo)
   // added their responsive delivery URLs to this deferred gallery chunk; the ceiling moved
   // The ceiling tracks the atlas size: 122 kB at 206 artifacts, 126 kB at 208, 134 kB at 214.
@@ -97,13 +117,17 @@ test('full story prose is deferred but lightweight routing stays initial', () =>
   assert.ok(statSync(new URL(story, assetsUrl)).size <= guideBudget, `${story} should only carry the reader and story catalog (budget ${guideBudget})`);
   const pft = one(/^gg-pft-[\w-]+\.js$/);
   assert.match(readFileSync(new URL(pft, assetsUrl), 'utf8'), /《平复帖》是西晋陆机的草隶书手札/);
-  assert.equal(storyGeneration.payloads.count, 218);
+  // Story payload count pin: 218 before the writing pass, then 263 (tranche 04), 343 (the tranche
+  // 01-03 backfill plus five index-only entries) and 388 once tranche 05 landed. Every artifact in
+  // the atlas now has a story; the guide chunk budget above scales with the count, so prose stays deferred.
+  assert.equal(storyGeneration.payloads.count, 388);
   for (const { id } of storyGeneration.payloads.files) one(new RegExp(`^${id}-[\\w-]+\\.js$`));
   assert.match(mainText, /gg-qmsh/);
 });
 
 test('map and non-first-screen surfaces remain separate chunks', () => {
-  for (const pattern of [/^ProvincePanel-.*\.js$/, /^RegionDirectory-.*\.js$/, /^CollectionResults-.*\.js$/, /^MuseumDetail-.*\.js$/, /^ArtifactCard-.*\.js$/, /^ResponsiveArtifactImage-.*\.js$/]) one(pattern);
+  for (const pattern of [/^ProvincePanel-.*\.js$/, /^RegionDirectory-.*\.js$/, /^CollectionResults-.*\.js$/, /^MuseumDetail-.*\.js$/, /^ArtifactCard-.*\.js$/]) one(pattern);
+  assert.ok(!initialChunks.includes(rendering));
   assert.ok(statSync(new URL(map, assetsUrl)).size <= 15_000);
   assert.ok(statSync(new URL(standardMap, assetsUrl)).size <= 142_000);
   assert.ok(statSync(new URL(compactMap, assetsUrl)).size <= 90_000);
@@ -119,7 +143,7 @@ test('the narrative web-motion opening stays deferred and lightweight', () => {
 });
 
 test('shared artifact rendering chunk carries delivery URLs but no complete provenance registry', () => {
-  const art = one(/^ResponsiveArtifactImage-.*\.js$/);
+  const art = rendering;
   const text = readFileSync(new URL(art, assetsUrl), 'utf8');
   assert.ok(statSync(new URL(art, assetsUrl)).size <= 142_000, `${art} exceeds the deferred rendering budget`);
   assert.doesNotMatch(text, /authorizationStatus|processingManifest|assetSha256/);

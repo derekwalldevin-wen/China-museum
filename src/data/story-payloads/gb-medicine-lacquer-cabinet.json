@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-medicine-lacquer-cabinet",
+  "hook": "一个能转的药柜，装下140种药",
+  "summary": "中国国家博物馆藏明万历黑漆描金龙纹方角药柜。高94.1厘米，木胎黑漆、双开门，柜内设八方旋转药屉，馆方说明全柜可存140种药物，下部另有三个大抽屉。",
+  "summaryRefs": [
+   "t02-gb-medicine-lacquer-cabinet-official"
+  ],
+  "sections": [
+   {
+    "title": "先看外形与开合",
+    "text": "高94.1厘米。柜体是木胎黑漆，正面双开门，打开之后里面的结构才露出来；柜下装有铜下脚。这是一件立式家具，站在它面前，取用主要靠手上的开合与转动。描金装饰落在柜体表面，与内部的功能结构一外一内。",
+    "refs": [
+     "t02-gb-medicine-lacquer-cabinet-official"
+    ]
+   },
+   {
+    "title": "八方旋转药屉",
+    "text": "柜内设八方旋转药屉——这是馆方记录到的关键结构。旋转的药屉把许多小格收在一根立柱周围，取药时转动，需要的那一格转到面前。馆方说明全柜可存140种药物，下部另有三个大抽屉，用来放体积更大的物品。分类与取用被安排在同一件家具里。",
+    "refs": [
+     "t02-gb-medicine-lacquer-cabinet-official"
+    ]
+   },
+   {
+    "title": "与李时珍之间的时间差",
+    "text": "有一种常见的联想：药柜与李时珍的时代接近，它或许与他有关。馆方记录指出，李时珍在嘉靖年间任职，而这件柜子的年代是万历，两者时间并不重合，他使用过这件柜子的说法缺少依据。太医院御药局旧物是馆方的说法，独立的原始征集档案未获。描金纹样、药屉的具体数量与药名，本条不据示意图判断。",
+    "refs": [
+     "t02-gb-medicine-lacquer-cabinet-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看这个药柜，它的巧处不在纹样，而在把上百种药材安置进一个可转动的结构里：分类、标识、取放三件事由同一套抽屉完成。它被记录为太医院御药局旧物，这个来处来自馆方；柜内原本放过哪些药、由谁经手，没有留下可核的材料。",
+    "refs": [
+     "t02-gb-medicine-lacquer-cabinet-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与名称",
+    "text": "明万历；黑漆描金龙纹方角药柜。",
+    "refs": [
+     "t02-gb-medicine-lacquer-cabinet-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高94.1厘米。",
+    "refs": [
+     "t02-gb-medicine-lacquer-cabinet-official"
+    ]
+   },
+   {
+    "title": "结构与容量",
+    "text": "木胎黑漆、双开门；柜内设八方旋转药屉，馆方说明可存140种药物，下部另有三个大抽屉。",
+    "refs": [
+     "t02-gb-medicine-lacquer-cabinet-official"
+    ]
+   },
+   {
+    "title": "部件",
+    "text": "描金装饰；铜下脚；旋转抽屉结构有记录，具体榫卯尺寸未载。",
+    "refs": [
+     "t02-gb-medicine-lacquer-cabinet-official"
+    ]
+   },
+   {
+    "title": "来处与时间差",
+    "text": "馆方称太医院御药局旧物，独立征集档案未获；李时珍嘉靖年间任职与万历年代不符。",
+    "refs": [
+     "t02-gb-medicine-lacquer-cabinet-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把药屉做成可以转动的？",
+   "answer": "因为摆放的墙面有限，而药格很多。固定的抽屉必须一路排开，占满整面柜体；把药屉围着一根立柱安排，转一下就能取到远处那一格，占地更少，找药的动作也更短。这一点节省，正是这类柜子最实用的地方。",
+   "refs": [
+    "t02-gb-medicine-lacquer-cabinet-official"
+   ]
+  },
+  "uncertainty": "具体榫卯尺寸未载；太医院御药局旧物为馆方说法，原始征集档案未获；柜内原始药品与经手人未载；李时珍与这件万历柜之间缺少可用证据；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-meridian-lacquer-model",
+    "reason": "两件漆器服务的学习与取用场景不同：一件把经脉刻在人形上，一件把140种药材分进旋转药屉，比较人体知识与药物知识各自的整理办法。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-linghua-lian",
+    "reason": "两件都以分格解决收纳：一件适合随身的梳篦小件，一件是存放大量药材的立柜，比较格子数量增加以后取用方式的改变。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t02-gb-medicine-lacquer-cabinet-official": {
+   "id": "t02-gb-medicine-lacquer-cabinet-official",
+   "title": "官方逐件记录：黑漆描金龙纹方角药柜（t20220812_256940）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256940.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：明万历年代；高94.1厘米，木胎黑漆、双开门，柜内设八方旋转药屉，馆方说明全柜可存140种药物，下部另有三个大抽屉。未载：具体榫卯尺寸与原始征集档案；铜下脚、描金与旋转结构有记录；不构成照片授权。"
+  }
+ }
+}

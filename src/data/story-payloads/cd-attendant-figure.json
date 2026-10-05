@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cd-attendant-figure",
+  "hook": "蓝袍的俑，脸和手没有上釉",
+  "summary": "成都博物馆藏明代彩釉陶侍从俑。成都五里墩出土，高35.1厘米。长袍施蓝釉，头、手、足保留胎色，立在一方台上；一手高举、一手扶腰带。馆方推为抬轿侍从，墓主未见记录。",
+  "summaryRefs": [
+   "t03-cd-attendant-figure-official"
+  ],
+  "sections": [
+   {
+    "title": "上釉与不上釉的交界",
+    "text": "俑高35.1厘米，长袍施蓝釉，头、手、足保留胎的本色，底下立着一方台座。上釉的地方光亮，不上釉的地方素净，一件器物上因此形成材质对照；这条界线大致落在衣服与皮肤之间，看轮廓时先被它吸引。",
+    "refs": [
+     "t03-cd-attendant-figure-official"
+    ]
+   },
+   {
+    "title": "姿势与推测的身份",
+    "text": "俑一手高举，一手扶着腰带。馆方据此推为抬轿的侍从，这是馆方给出的解释：高举的那只手可以这样读。推测出的身份与已知的主人不是一回事，墓主是谁，记录里没有写。",
+    "refs": [
+     "t03-cd-attendant-figure-official"
+    ]
+   },
+   {
+    "title": "琉璃厂窑的定名",
+    "text": "馆方的定名把蓝釉与裸胎的组合联系到琉璃厂窑，这属于窑口的类型背景。本件具体的制坯、施釉与装烧工序，记录未详。",
+    "refs": [
+     "t03-cd-attendant-figure-official"
+    ]
+   },
+   {
+    "title": "今天再看：面部不做复原",
+    "text": "器物配图为生成图，面部五官、衣纹走向与手指姿态都不据它确认。要做修复史调查，需要逐次查阅保护与修复档案，本轮未核。",
+    "refs": [
+     "t03-cd-attendant-figure-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与尺寸",
+    "text": "成都五里墩出土；高35.1厘米。",
+    "refs": [
+     "t03-cd-attendant-figure-official"
+    ]
+   },
+   {
+    "title": "年代",
+    "text": "明代。",
+    "refs": [
+     "t03-cd-attendant-figure-official"
+    ]
+   },
+   {
+    "title": "表面",
+    "text": "长袍施蓝釉；头、手、足未施釉，下承方台。",
+    "refs": [
+     "t03-cd-attendant-figure-official"
+    ]
+   },
+   {
+    "title": "姿势与解释",
+    "text": "一手高举、一手扶腰带；馆方推为抬轿侍从。",
+    "refs": [
+     "t03-cd-attendant-figure-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "墓主、出土年月与具体工序未载。",
+    "refs": [
+     "t03-cd-attendant-figure-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么俑的脸和手不上釉？",
+   "answer": "蓝釉长袍是这件俑最大的色块，脸与手保持胎色，肤色和衣色就分开，远看轮廓更清楚；也可能出于烧造上的考虑。哪一种为主，记录没有说明。能看见的是那条界线，它正好落在皮肤与衣服之间。",
+   "refs": [
+    "t03-cd-attendant-figure-official"
+   ]
+  },
+  "uncertainty": "墓主与出土年月未载；抬轿侍从属馆方推测；制坯与施釉工序未详；面部与衣纹细节不据生成图确认；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按成都博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-chenghan-figure",
+    "reason": "两件成都出土的陶俑：一件穿蓝釉长袍作侍从状，一件是成汉时期的吹哨俑，比较服饰、姿势与面部处理的不同。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cd-comic-figure",
+    "reason": "都是陶俑而姿态分工不同：一件是东汉击鼓说唱的形象，一件是明代持物侍立的形象，比较身体动作在陶塑中的两种表达。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-cd-attendant-figure-official": {
+   "id": "t03-cd-attendant-figure-official",
+   "title": "官方逐件记录：彩釉陶侍从俑（/mq/201901/54.html）",
+   "institution": "成都博物馆",
+   "url": "https://www.cdmuseum.com/mq/201901/54.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：成都五里墩出土，明代彩釉陶侍从俑高35.1厘米；蓝釉长袍、方台与未施釉的头手足形成材质对照；一手高举、一手扶腰带，馆方推为抬轿侍从。未载：墓主、出土年月与具体工序；推测身份与已知主人并列区分；不构成照片授权。"
+  }
+ }
+}

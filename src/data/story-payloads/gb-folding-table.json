@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-folding-table",
+  "hook": "一张能把腿折起来的小桌",
+  "summary": "中国国家博物馆藏晚明黄花梨包铜活折叠桌。长71、宽44、高25厘米，桌面不高，腿部可沿转轴旋转折起，边抹及连接处包铜以减轻磨损。馆方逐段解释转轴、横枨、穿带与铜活的做法，说明它的重点落在收起与支撑的结构安排上。",
+  "summaryRefs": [
+   "t02-gb-folding-table-official"
+  ],
+  "sections": [
+   {
+    "title": "一张矮桌",
+    "text": "长71、宽44、高25厘米。桌面离地只有25厘米，坐具偏高或席地而坐的场合都能用上。体量不大，木材本身是黄花梨，纹理细密；但馆方记录把重点放在结构上——这是一件可折叠的家具。",
+    "refs": [
+     "t02-gb-folding-table-official"
+    ]
+   },
+   {
+    "title": "转轴、横枨与穿带",
+    "text": "馆方逐段解释了几个构件：腿部沿转轴旋转，因此能折起贴合桌面；横枨在腿之间起连接与限位的作用，让四腿撑开之后保持稳定；穿带负责把桌面各部分拢住，使板面不易变形。三者配合，才有一张既能放平又能收拢的桌子。",
+    "refs": [
+     "t02-gb-folding-table-official"
+    ]
+   },
+   {
+    "title": "包铜是给磨损让路",
+    "text": "边抹及连接处包铜，馆方说明目的在于减轻磨损。折叠家具的受力点集中在轴与边角，反复开合处最先松脱，因此用金属包护。铜活在这里既是加固，也参与了外观——观察这些地方，就能找到这张桌子被反复使用的痕迹所在。",
+    "refs": [
+     "t02-gb-folding-table-official"
+    ]
+   },
+   {
+    "title": "谁用过它",
+    "text": "原页没有说明使用者和行旅用途，也没有给出实测承重数据。折叠结构本身是可观察的事实，至于它是否曾被带出行旅、为谁所用，记录未载，本条留作待证用途。它属传世品，征集与保护过程同样未载，逐次保护修复档案未核。",
+    "refs": [
+     "t02-gb-folding-table-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与尺寸",
+    "text": "馆方定为晚明；长71、宽44、高25厘米。",
+    "refs": [
+     "t02-gb-folding-table-official"
+    ]
+   },
+   {
+    "title": "材料",
+    "text": "黄花梨制；边抹及连接处包铜，以减轻磨损。",
+    "refs": [
+     "t02-gb-folding-table-official"
+    ]
+   },
+   {
+    "title": "折叠结构",
+    "text": "腿部可沿转轴旋转折起；横枨连接并限位，穿带拢住桌面。",
+    "refs": [
+     "t02-gb-folding-table-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "使用者与行旅用途未载；实测承重未载；征集与保护过程未载。",
+    "refs": [
+     "t02-gb-folding-table-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "可折叠属结构事实，便携情节为待证用途，不写成某位文人的旅行桌。",
+    "refs": [
+     "t02-gb-folding-table-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么折叠家具的铜活都钉在最不起眼的地方？",
+   "answer": "因为那里最吃力。转轴与边抹的接合处反复受摩擦，木质先松，铜片把磨损接了过去。加固的钱花在看不见的地方，用起来才不晃——这类结构从不为了好看而存在。",
+   "refs": [
+    "t02-gb-folding-table-official"
+   ]
+  },
+  "uncertainty": "使用者与行旅用途未载；实测承重、木材产地与树龄未载；传世品征集与保护过程未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gb-basin-stand",
+    "reason": "同为木家具而支撑思路相反：一件让四腿折起收拢、降低占地，一件用六足与直枨交叉把高架稳稳立住，比较两种受力安排，不排出先后。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-bone-inlay-storage-box",
+    "reason": "都在解决收纳与搬动：一件折腿收拢体量，一件用抽屉与门分格收物，比较两种器具为移动腾出空间的办法。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t02-gb-folding-table-official": {
+   "id": "t02-gb-folding-table-official",
+   "title": "官方逐件记录：黄花梨包铜活折叠桌（zp/zpml/csp/202208/t20220812_256942）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256942.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方定为晚明；长71、宽44、高25厘米；腿部可沿转轴旋转折起；边抹及连接处包铜以减轻磨损；馆方逐段解释转轴、横枨、穿带与铜活。未载：使用者与行旅用途，不写成某位文人的旅行桌；实测承重未载；不构成照片授权。"
+  }
+ }
+}

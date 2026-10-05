@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-inlaid-table",
+  "hook": "名叫小几，其实是桌面烛具",
+  "summary": "深圳博物馆藏清代红木嵌螺钿松鼠葡萄纹小几，长29.7厘米，1992年入藏。名称沿用旧称，功能由结构交代：顶部四个孔用来插蜡烛，内有一个小抽屉，背面嵌松鼠葡萄纹。原主人与制作地点未载。",
+  "summaryRefs": [
+   "t03-sz-inlaid-table-official"
+  ],
+  "sections": [
+   {
+    "title": "名称与用途差一步",
+    "text": "馆方定名为清红木嵌螺钿松鼠葡萄纹小几。几在传统家具里指低矮的承具，属一般背景说明；记录接着写明，它是一件桌面烛具。长29.7厘米，体量只够摆放在桌面上，供人坐的大凳不是这个尺寸。旧称与结构交代的用途并列看，名实关系就清楚了。",
+    "refs": [
+     "t03-sz-inlaid-table-official"
+    ]
+   },
+   {
+    "title": "螺钿与松鼠葡萄纹",
+    "text": "背面嵌松鼠葡萄纹。螺钿的做法是把贝壳切成薄片嵌入木面，借贝壳本身的色泽形成图案；松鼠与葡萄是清代常见的吉祥题材。图案的每个细节与贝壳片数，不从示意图判断；木材也只能按记录中的“红木”定名，具体木种未载。",
+    "refs": [
+     "t03-sz-inlaid-table-official"
+    ]
+   },
+   {
+    "title": "四个孔与一只小抽屉",
+    "text": "顶部四孔是插蜡烛的位置，小抽屉适合放火种一类的细小物件。孔数说明它按四支蜡烛来设计，但原来蜡烛的形状与长度、是否真的一次插满四支，记录都没有说明；某一场具体的点烛场合，同样没有任何记载。",
+    "refs": [
+     "t03-sz-inlaid-table-official"
+    ]
+   },
+   {
+    "title": "今天再看它进入博物馆这条路",
+    "text": "1992年由深铁公安处接收，属于现代入藏过程。器物原来的主人、制作地点与流传经过都未载；传世小件多数缺少出土与作坊信息，这属类型背景。能确认的是材质、尺寸与结构，以及它经过一次现代移交。",
+    "refs": [
+     "t03-sz-inlaid-table-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "名称与年代",
+    "text": "清代；红木嵌螺钿松鼠葡萄纹小几。",
+    "refs": [
+     "t03-sz-inlaid-table-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长29.7厘米。",
+    "refs": [
+     "t03-sz-inlaid-table-official"
+    ]
+   },
+   {
+    "title": "结构",
+    "text": "顶部四孔插蜡烛；内有小抽屉；背面嵌松鼠葡萄纹。",
+    "refs": [
+     "t03-sz-inlaid-table-official"
+    ]
+   },
+   {
+    "title": "入藏",
+    "text": "1992年由深铁公安处接收。",
+    "refs": [
+     "t03-sz-inlaid-table-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "原主人、制作地点、具体木种与原蜡烛形制未载；逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-inlaid-table-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "一件家具的名字，为什么会和它的用途对不上？",
+   "answer": "名字常从形制来，用途从结构来。它长得像一张小几，旧称便留了下来；四孔与小抽屉则说明它服务于点烛。两种信息并列，比让名字盖住结构更接近实物。它的原主人是谁，记录没有答案。",
+   "refs": [
+    "t03-sz-inlaid-table-official"
+   ]
+  },
+  "uncertainty": "原主人、制作地点、具体木种、原蜡烛形制与点烛场合未载；旧称与实际用途并列；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-oil-lamp",
+    "reason": "同馆两件照明承具：一件用三足与底盘托住油盏，一件用四个孔固定蜡烛，比较两种承托方式与材料，也不推断它们之间存在时代沿革。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-carved-brushpot",
+    "reason": "同馆两件清代案头小器：一件在木面嵌螺钿成纹，一件在木材上雕人物，比较木材表面装饰的两种做法，也不认定两件出自同一作坊或同一主人。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-inlaid-table-official": {
+   "id": "t03-sz-inlaid-table-official",
+   "title": "官方逐件记录：清红木嵌螺钿松鼠葡萄纹小几（resId=abc94829…）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=abc948294043433a87f4f486dde72fe8",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方定为清代；红木嵌螺钿，长29.7厘米；1992年入藏；顶部四孔插蜡烛、内有小抽屉、背面嵌松鼠葡萄纹。边界：旧称“小几”与烛具用途并列看待；原主人与制作地点未载，具体木种未载；不构成照片授权。"
+  }
+ }
+}

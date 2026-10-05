@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gsjd-qin-daybook",
+  "hook": "选日子的书",
+  "summary": "甘肃简牍博物馆藏秦代简牍《日书》甲种（一部计一条）。1986年出土于天水放马滩1号秦墓。日书是古人选择时日趋吉避凶的数术书籍；放马滩《日书》分甲乙两种，是继睡虎地秦墓《日书》之后又一次先秦术数文献的重要发现。",
+  "summaryRefs": [
+   "t04-gsjd-qin-daybook-official"
+  ],
+  "sections": [
+   {
+    "title": "什么是日书",
+    "text": "官方摘录给了定义：日书是古代用以选择时日趋吉避凶的数术书籍，操这种技术的人被称为“日者”。据《墨子》记载，日者至少在战国时期已活跃于民间；到西汉，从事择日之术的日者流派众多。它有从业者、有文本、也有市场，是一门专门技艺。",
+    "refs": [
+     "t04-gsjd-qin-daybook-official"
+    ]
+   },
+   {
+    "title": "从睡虎地到放马滩",
+    "text": "馆方把放马滩《日书》放在学术脉络里：它是继湖北睡虎地秦墓《日书》出土之后，又一次先秦术数文献的重大发现；放马滩这批分甲乙两种。同类文献在不同地点出土，让研究者得以比较抄本的差异与流传，这一层属于研究史的判断。",
+    "refs": [
+     "t04-gsjd-qin-daybook-official"
+    ]
+   },
+   {
+    "title": "它记载的是观念",
+    "text": "官方摘录说，这批材料是研究秦人天地观念、思想信仰、社会生活与风俗习惯的珍贵资料。注意这句话的落点：研究的是**当时人的观念与生活**，不是这些选择本身是否灵验。日书告诉我们的是：在那个时代，人们在做事之前会先看日子，并有一套成文的办法。",
+    "refs": [
+     "t04-gsjd-qin-daybook-official"
+    ]
+   },
+   {
+    "title": "不为其效力背书",
+    "text": "本条须明确：术数属历史信仰，此处不为其预测效力背书，也不提供任何现代预测用途的建议。把日书当史料读，与把它的规则当方法用，是两件完全不同的事。我们读它的理由，是它记录了人怎样安排不确定的生活。",
+    "refs": [
+     "t04-gsjd-qin-daybook-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土",
+    "text": "1986年天水放马滩1号秦墓；分甲、乙两种。",
+    "refs": [
+     "t04-gsjd-qin-daybook-official"
+    ]
+   },
+   {
+    "title": "性质",
+    "text": "选择时日趋吉避凶的数术书籍；操术者称“日者”。",
+    "refs": [
+     "t04-gsjd-qin-daybook-official"
+    ]
+   },
+   {
+    "title": "文献背景",
+    "text": "《墨子》记日者战国时已活跃；西汉流派众多。",
+    "refs": [
+     "t04-gsjd-qin-daybook-official"
+    ]
+   },
+   {
+    "title": "研究价值",
+    "text": "研究秦人天地观念、信仰、社会生活与风俗的珍贵资料。",
+    "refs": [
+     "t04-gsjd-qin-daybook-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "历史信仰，不为其有效性背书。",
+    "refs": [
+     "t04-gsjd-qin-daybook-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么古人做事前要先挑日子？",
+   "answer": "因为很多事的结果事先无法确定：出行、动土、婚嫁、交易。挑日子是把不确定变成可以安排的办法——至少让人心里有个准。日书记录的正是这套办法。它准不准是另一回事，但“人们需要它”这一点，是真实的历史事实。",
+   "refs": [
+    "t04-gsjd-qin-daybook-official"
+   ]
+  },
+  "uncertainty": "甲种日书的完整篇目与具体条文未在本条资料中列出；抄写者与使用者未载；术数效力不在本条讨论之列；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；术数性质按馆方说明表述。",
+  "related": [
+   {
+    "id": "gsjd-qin-wood-map",
+    "reason": "同墓出土的两种知识实践：一份择日之术，一份地形之图，比较秦人面对时间与空间的两套办法。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-seasonal-ban",
+    "reason": "两个层面的“时”：日书写个人如何择日，四时簿记官方如何按季立禁，比较私人信仰与行政管理的分野。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-qin-daybook-official": {
+   "id": "t04-gsjd-qin-daybook-official",
+   "title": "官方逐件记录：放马滩甲种日书（exhibit_id=20）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=20",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1986年天水放马滩1号秦墓出土；日书为古代选择时日趋吉避凶的数术书籍，操此术者称“日者”；《墨子》记载日者至少在战国已活跃于民间；放马滩秦简《日书》分甲乙两种，是继睡虎地秦墓《日书》之后又一次先秦术数文献的重要发现，为研究秦人天地观念、信仰、社会生活与风俗的资料。术数属历史信仰，本条不为其预测效力背书；不构成照片授权。"
+  }
+ }
+}

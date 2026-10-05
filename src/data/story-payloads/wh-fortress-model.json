@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "wh-fortress-model",
+  "hook": "一座围墙围起来的小城",
+  "summary": "武汉博物馆藏青瓷坞堡，三国吴时期，出土于黄陂区滠口三国吴墓，高30、长62、宽48厘米。器作封闭式建筑：外围高墙，大门为唯一通道，四角有望楼，院内有谷仓与厢房。它属随葬建筑模型，与遗址实测图是两回事。",
+  "summaryRefs": [
+   "t05-wh-fortress-model-official"
+  ],
+  "sections": [
+   {
+    "title": "先量它的规模",
+    "text": "高30、长62、宽48厘米，青瓷质地。这个体量摆在案上是一组小型建筑群：围墙把院落围起来，四角起楼，院里再安排谷仓与厢房。三个尺寸给的是外廓，院内各间的具体开间记录未载。",
+    "refs": [
+     "t05-wh-fortress-model-official"
+    ]
+   },
+   {
+    "title": "门、墙与望楼",
+    "text": "馆方记录写得很具体：坞堡为封闭式建筑，外围筑有高高的围墙，大门是进出坞堡的唯一通道；在围墙的四角高耸着用于观察周边情况的望楼，院内则有谷仓和厢房等。墙、门、楼三个要素合起来，构成一个既能住人又能瞭望的单元。",
+    "refs": [
+     "t05-wh-fortress-model-official"
+    ]
+   },
+   {
+    "title": "馆方怎样解释它",
+    "text": "馆方解释为：东汉以后是地主庄园经济大发展时期，青瓷坞堡的发掘出土，以实物形式再现了当时社会坞堡的形态与结构。这段属研究解释。至于这类坞堡在现实中分布在哪里、规模如何，记录没有给出对应实例，模型与真实建筑之间的差距也未见说明。",
+    "refs": [
+     "t05-wh-fortress-model-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，这件模型给出的是当时人对安全居所的设想：墙要高，门要少，楼上能看见四面。它出自滠口一带的三国吴墓，与同地区出土的青瓷执盾俑分属不同记录，两者的出土关系没有证据把它们并作一组。角楼层数、构件数量一类的建筑细部，不依据示意图判断；逐次保护修复档案未核。",
+    "refs": [
+     "t05-wh-fortress-model-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与类别",
+    "text": "三国吴；青瓷（陶瓷）。",
+    "refs": [
+     "t05-wh-fortress-model-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高30、长62、宽48厘米。",
+    "refs": [
+     "t05-wh-fortress-model-official"
+    ]
+   },
+   {
+    "title": "结构",
+    "text": "封闭式建筑：外围高围墙，大门为唯一通道，四角有望楼，院内有谷仓与厢房。",
+    "refs": [
+     "t05-wh-fortress-model-official"
+    ]
+   },
+   {
+    "title": "出土",
+    "text": "黄陂区滠口三国吴墓出土；墓号、出土年月与发现者未载。",
+    "refs": [
+     "t05-wh-fortress-model-official"
+    ]
+   },
+   {
+    "title": "属性",
+    "text": "随葬建筑模型，与遗址实测图性质不同；建筑细部不依据示意图判断。",
+    "refs": [
+     "t05-wh-fortress-model-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么随葬品里要放一座房子？",
+   "answer": "把住宅做成模型随葬，等于把日常生活的格局一起搬进墓里。墙、门、望楼被缩小以后仍按原来的排布安排，说明当时人看重的是格局。这套模型由谁设计、陶工怎样烧成、烧成温度多少，记录未载。",
+   "refs": [
+    "t05-wh-fortress-model-official"
+   ]
+  },
+  "uncertainty": "墓号、出土年月、发现者与发掘经过未载；坞堡在现实中的对应遗址未载；与执盾俑同地区，是否同墓无证据；角楼层数与构件数量不依据示意图判断；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "wh-shield-figure",
+    "reason": "同出黄陂滠口一带的三国吴遗存：一件用围墙与望楼搭出空间，一件用跪姿执盾的人形摆出守卫姿态，比较两种做法各自交代防御场景的方式。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "wh-well-model",
+    "reason": "两件随葬青瓷模型分别指向居住与取水：一件围出院落与角楼，一件用四柱攒尖顶盖住井口，比较缩小的生活场景在墓葬里有哪些差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-wh-fortress-model-official": {
+   "id": "t05-wh-fortress-model-official",
+   "title": "官方逐件记录：青瓷坞堡（exhibitId=da92870a4cb6ff81e7bfb9b0cc6f9e03）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/da92870a4cb6ff81e7bfb9b0cc6f9e03",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：三国吴年代、青瓷坞堡，出土于黄陂区滠口三国吴墓，高30、长62、宽48厘米；封闭式建筑，外围高围墙，大门为唯一通道，四角有望楼，院内有谷仓与厢房；馆方解释其以实物形式再现当时坞堡的形态与结构。未载：墓号、出土年月与发现者；与执盾俑同地区不等于同墓；建筑细部属AI概括；不构成照片授权。"
+  }
+ }
+}

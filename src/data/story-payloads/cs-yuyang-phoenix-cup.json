@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "cs-yuyang-phoenix-cup",
+  "hook": "杯身上有一只变形的凤鸟",
+  "summary": "长沙简牍博物馆藏西汉漆耳杯。1993年长沙望城坡西汉渔阳王后墓出土。木胎椭圆、曲腹平底，外髹黑漆、内髹红漆；耳部朱绘云气纹、几何纹，杯身主题为变形凤鸟纹与云气纹，外底锥刻“渔阳”二字。长18、宽14.3、高5.5厘米。",
+  "summaryRefs": [
+   "t04-cs-yuyang-phoenix-cup-official"
+  ],
+  "sections": [
+   {
+    "title": "主题纹饰在杯身",
+    "text": "官方记录区分了层次：耳部朱绘云气纹、几何纹；杯身的主题纹饰是变形凤鸟纹与云气纹。“变形”二字很关键——它并非写实的鸟，把凤鸟的形象拉长、抽象、与云气缠绕在一起，形成流动的图案。",
+    "refs": [
+     "t04-cs-yuyang-phoenix-cup-official"
+    ]
+   },
+   {
+    "title": "云气与凤鸟",
+    "text": "凤鸟与云气是楚汉漆器上常见的组合：一个代表神异与祥瑞，一个让画面有流动感。漆绘的线条在光滑的黑漆地上拉得很长，适合表现这种“缠在一起”的效果。本条不进一步解释纹样的具体寓意——官方记录只给出名称。",
+    "refs": [
+     "t04-cs-yuyang-phoenix-cup-official"
+    ]
+   },
+   {
+    "title": "同样刻着“渔阳”",
+    "text": "外底锥刻“渔阳”二字，与同墓的三角纹耳杯一致。两件器物同出一墓、同为耳杯、同有刻记，但纹样不同：一件以三角纹波折纹为主，一件以变形凤鸟纹为主。它们各自独立登记，本条也不据此判断是否为同一批工匠所做。",
+    "refs": [
+     "t04-cs-yuyang-phoenix-cup-official"
+    ]
+   },
+   {
+    "title": "一条记录上的注意事项",
+    "text": "官方说明提到：本条的识别号是 nid=249；同名另一网页未作比对，因此不据此新增重复条目。这类“同名两条记录”的情况在整理藏品时必须谨慎——在比对之前，不能凭标题相同就断定是两件不同的器物，也不能断定是同一件。",
+    "refs": [
+     "t04-cs-yuyang-phoenix-cup-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与尺寸",
+    "text": "1993年渔阳王后墓出土；长18、宽14.3、高5.5厘米。",
+    "refs": [
+     "t04-cs-yuyang-phoenix-cup-official"
+    ]
+   },
+   {
+    "title": "漆色",
+    "text": "外髹黑漆、内髹红漆；木胎椭圆、曲腹平底。",
+    "refs": [
+     "t04-cs-yuyang-phoenix-cup-official"
+    ]
+   },
+   {
+    "title": "纹饰分层",
+    "text": "耳部朱绘云气纹、几何纹；杯身主题为变形凤鸟纹与云气纹。",
+    "refs": [
+     "t04-cs-yuyang-phoenix-cup-official"
+    ]
+   },
+   {
+    "title": "刻字与编号",
+    "text": "外底锥刻“渔阳”；本条识别号 nid=249，同名记录未比对不新增。",
+    "refs": [
+     "t04-cs-yuyang-phoenix-cup-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把鸟画成“变形”的样子？",
+   "answer": "因为在漆器上，流畅比写实更要紧。器物是弧面的，图案要顺着器形走；把凤鸟拉长、与云气连成一片，线条才能不断、不断在弧面上转。古人并非“画不像”，只是选择了更适合这种材料的画法。",
+   "refs": [
+    "t04-cs-yuyang-phoenix-cup-official"
+   ]
+  },
+  "uncertainty": "“渔阳”含义、工匠、是否与三角纹耳杯同批未载；同名另一网页记录未比对；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按长沙简牍博物馆逐件官方记录补全；不新增重复条目。",
+  "related": [
+   {
+    "id": "cs-yuyang-triangle-cup",
+    "reason": "同墓两件刻“渔阳”的耳杯：一件主题为三角纹波折纹，一件为变形凤鸟纹，比较同一器形上的不同装饰。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cs-yuyang-game-board",
+    "reason": "墓中两种漆器：一件是饮酒用的杯，一件是行棋用的盘，比较漆器在宴饮与游戏中的搭配。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-cs-yuyang-phoenix-cup-official": {
+   "id": "t04-cs-yuyang-phoenix-cup-official",
+   "title": "官方逐件记录：“渔阳”凤纹漆耳杯（nid=249）",
+   "institution": "长沙简牍博物馆",
+   "url": "https://www.chinajiandu.cn/Collection/Details/yym?nid=249",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：西汉；长18、宽14.3、高5.5厘米；1993年长沙望城坡西汉渔阳王后墓出土；木胎、椭圆形、曲腹、平底，外髹黑漆、内髹红漆；耳部朱绘云气纹、几何纹，杯身主题纹饰为变形凤鸟纹与云气纹，外底锥刻“渔阳”二字。本条识别号为 nid=249；同名的另一网页未作比对，不据此新增重复条目；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "sz-tricolor-horse",
+  "hook": "一匹高半米多的三彩马",
+  "summary": "深圳博物馆藏唐三彩白马。馆方登记为陶器，高57.3、长60.5、宽20厘米，2010年经捐赠入藏。官方记录未公布出土墓葬、制作窑口或原来的组合。",
+  "summaryRefs": [
+   "t01-sz-tricolor-horse-official"
+  ],
+  "sections": [
+   {
+    "title": "先看轮廓",
+    "text": "高57.3、长60.5厘米——将近六十厘米长的马，在唐代陶俑里属于中等以上的体量。马是站立的：四条腿撑住身体，颈与头的高度决定了整件器物的视觉重心。馆方登记的材质是陶。",
+    "refs": [
+     "t01-sz-tricolor-horse-official"
+    ]
+   },
+   {
+    "title": "“三彩”指的是什么",
+    "text": "三彩是唐代低温铅釉陶的常见名称，以黄、绿、白等釉色交融为特征。需要分清：名称说明它属于这一类型，不等于已经测出每一种着色剂；釉料成分、烧成温度都要靠检测。本条因此不写具体的配方。",
+    "refs": [
+     "t01-sz-tricolor-horse-official"
+    ]
+   },
+   {
+    "title": "马在唐代墓葬里的位置",
+    "text": "唐代随葬陶俑中，马与骆驼是常见的题材，往往成组出现，构成出行或仪仗的场面。这是类型背景，说明同类器物曾经怎样被使用；至于这一匹原本属于哪座墓、与哪些俑摆在一起，本条资料没有交代，因此不推定。",
+    "refs": [
+     "t01-sz-tricolor-horse-official"
+    ]
+   },
+   {
+    "title": "入藏与空白",
+    "text": "2010年经捐赠入藏——这句说明它不是考古发掘品。制作窑口、原组合、出土墓葬都未载；逐次保护修复档案未核。一件体量可观的唐代陶马，能被具体确定的，是它的年代、材质、尺寸与入馆经过。",
+    "refs": [
+     "t01-sz-tricolor-horse-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "尺寸与材质",
+    "text": "高57.3、长60.5、宽20厘米；陶质。",
+    "refs": [
+     "t01-sz-tricolor-horse-official"
+    ]
+   },
+   {
+    "title": "时代",
+    "text": "唐代。",
+    "refs": [
+     "t01-sz-tricolor-horse-official"
+    ]
+   },
+   {
+    "title": "入藏",
+    "text": "2010年经捐赠入藏。",
+    "refs": [
+     "t01-sz-tricolor-horse-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "出土墓葬、制作窑口与原组合未载；不编造考古出土。",
+    "refs": [
+     "t01-sz-tricolor-horse-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么唐代人要把马做成这么大的陶俑？",
+   "answer": "马在唐代既是交通与军事的要件，也是身份与排场的象征。把马做成近六十厘米高的陶俑随葬，是把生前的仪仗带进墓里。至于是谁这样做、为什么这样做，具体到这一件已无从查证。",
+   "refs": [
+    "t01-sz-tricolor-horse-official"
+   ]
+  },
+  "uncertainty": "出土墓葬、制作窑口与原组合未载；釉料成分未做检测；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-black-pot",
+    "reason": "同馆两件早期器物：一件是唐代低温釉陶马，一件是西汉嵌铜泡钉黑陶壶，比较釉与镶嵌两种装饰思路。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-red-embroidered-skirt",
+    "reason": "都是随葬或服饰类工艺的产物：一件是陶塑的马，一件是打籽彩绣的裙，比较不同材料承载的礼俗信息。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t01-sz-tricolor-horse-official": {
+   "id": "t01-sz-tricolor-horse-official",
+   "title": "官方逐件记录：三彩白马（resId=3711a7b9…）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=3711a7b920f2463882e257931f4085af",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：唐代；馆方登记为陶器；高57.3、长60.5、宽20厘米；2010年经捐赠入藏。边界：三彩为名称依据，未声称已测得每种着色剂；未载出土墓葬、制作窑口与原组合，不编造考古出土；不构成照片授权。"
+  }
+ }
+}

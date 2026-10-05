@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-celadon-ewer",
+  "hook": "壶身上有瓜一样的竖棱",
+  "summary": "深圳博物馆藏北宋青瓷瓜棱执壶，高21厘米，1993年由国家文物局调拨入藏。器身以竖向瓜棱起伏，配弯曲的流与柄。具体窑址、烧造工坊与原盛物没有记录。",
+  "summaryRefs": [
+   "t03-sz-celadon-ewer-official"
+  ],
+  "sections": [
+   {
+    "title": "瓜棱是怎么排的",
+    "text": "高21厘米。器身沿竖向压出棱线，弧面因此一段段起伏，这类做法被称作瓜棱。流与柄分置两侧，构成执壶的基本结构。竖棱让圆器在光下产生明暗变化：弧度越匀，棱线越清楚。",
+    "refs": [
+     "t03-sz-celadon-ewer-official"
+    ]
+   },
+   {
+    "title": "调拨记录说的是什么",
+    "text": "馆方以青瓷定名。1993年由国家文物局调拨深圳博物馆——这条记录说明的是现代入藏途径，与原产地、出土地点没有关系。收藏史与制作史是两条线，入藏途径写着某个机构，说明不了器物的来处。",
+    "refs": [
+     "t03-sz-celadon-ewer-official"
+    ]
+   },
+   {
+    "title": "窑址的空白",
+    "text": "瓜棱是许多窑口都在用的做法，属类型背景，因此器形本身不足以锁定窑口。具体窑址、烧造工坊与原盛物都没有记录；青釉的釉料配方与烧成温度同样未载，留待检测。把釉色直接连到某一个著名窑口，缺少证据支持。",
+    "refs": [
+     "t03-sz-celadon-ewer-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，瓜棱执壶常被当作宋代生活器皿的样本；它当年装的是什么，却没有一条记录可以回答。示意图为AI生成，瓜棱的条数与流、柄的连接方式要以馆方文字记录为准，不据它判断。逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-celadon-ewer-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "馆藏与年代",
+    "text": "深圳博物馆藏；馆方定为北宋。",
+    "refs": [
+     "t03-sz-celadon-ewer-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高21厘米。",
+    "refs": [
+     "t03-sz-celadon-ewer-official"
+    ]
+   },
+   {
+    "title": "器形",
+    "text": "瓜棱器身，配弯曲的流与柄。",
+    "refs": [
+     "t03-sz-celadon-ewer-official"
+    ]
+   },
+   {
+    "title": "入藏",
+    "text": "1993年由国家文物局调拨深圳博物馆。",
+    "refs": [
+     "t03-sz-celadon-ewer-official"
+    ]
+   },
+   {
+    "title": "未载与提示",
+    "text": "窑址、烧造工坊与原盛物未载；示意图为AI生成，瓜棱条数与连接方式不据它判断。",
+    "refs": [
+     "t03-sz-celadon-ewer-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么要把圆器的表面压出一道道竖棱？",
+   "answer": "竖棱是让光有地方停的办法。光滑的圆形只在边缘反一条亮线，加上棱之后，每一段弧面都有自己的明暗，器物看上去就厚了一层。做法不难，效果直接，所以许多窑口都在用。",
+   "refs": [
+    "t03-sz-celadon-ewer-official"
+   ]
+  },
+  "uncertainty": "具体窑址与烧造工坊未载；原盛物、使用者与釉料配方未载；调拨属现代收藏史，不作原产地证据；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-ge-ewer",
+    "reason": "两种棱线：一件北宋青瓷以瓜棱形成竖向弧面，一件明代哥釉以八棱折出直线转角，可以比较棱线做成弧或折的差别。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-changsha-ewer",
+    "reason": "同为壶类，一件靠器身的棱线起伏，一件靠釉面褐斑与贴花做表面文章，可以比较装饰落在器形还是落在釉面。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-celadon-ewer-official": {
+   "id": "t03-sz-celadon-ewer-official",
+   "title": "官方逐件记录：青瓷瓜棱执壶（e300681790e5478e8e3fc38fa7b451d0）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=e300681790e5478e8e3fc38fa7b451d0",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方逐件记录给出北宋年代、高21厘米、青瓷瓜棱执壶定名，1993年由国家文物局调拨深圳博物馆。未载：具体窑址、烧造工坊与原盛物；调拨属现代收藏史，边界上不作原产地证据；不构成照片授权。"
+  }
+ }
+}

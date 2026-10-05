@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "wh-zhaozhuo-trigger",
+  "hook": "一台弩机上刻着三个人的名字",
+  "summary": "武汉博物馆藏“赵濯”铭文青铜弩机，三国时期，出土于武汉市洪山区石咀的一座大型券顶砖室墓，长20厘米。弩机是木弩的铜质机件，板机两侧刻有缪曜、郑贵、赵濯三处“私弩”铭文。馆方据刻铭认为这件弩机至少被三个人使用过。",
+  "summaryRefs": [
+   "t05-wh-zhaozhuo-trigger-official"
+  ],
+  "sections": [
+   {
+    "title": "先认这台机件",
+    "text": "弩机是木弩的铜质机件，装置于弩的后部，以增强射程和杀伤力，这段是馆方给出的定义。这件弩机长20厘米，出土于武汉市洪山区石咀的一座大型券顶砖室墓。它只是一件机件，木弩的弩臂与弓弦没有保存下来。",
+    "refs": [
+     "t05-wh-zhaozhuo-trigger-official"
+    ]
+   },
+   {
+    "title": "板机两侧的刻铭",
+    "text": "弩机板机两侧刻有铭文，分别出现“郎吏缪曜私弩”“将军郑贵私弩”“将军赵濯私弩”等字样。名字前面带有郎吏、将军一类称谓。铭文的字形细节与刻写位置，不依据示意图判断。",
+    "refs": [
+     "t05-wh-zhaozhuo-trigger-official"
+    ]
+   },
+   {
+    "title": "三个人用过的推断",
+    "text": "馆方从刻铭判断，这件弩机至少被三个人使用过，这是依据铭文作出的解读。这类刻铭特点被馆方联系到孙吴的世袭领兵制度：武器可能随职务与部曲转移，名字因此一层层留下，属研究解释。三人使用的先后次序与各自经历，记录没有说明。",
+    "refs": [
+     "t05-wh-zhaozhuo-trigger-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，一件兵器把使用者的名字留在了机器上，器物因此带上了人的信息，后来的研究者也就能顺着名字讨论制度。至于赵濯为何成为器名，记录未作解释。铸造这台弩机的工匠与作坊，记录未载；逐次保护修复档案未核。",
+    "refs": [
+     "t05-wh-zhaozhuo-trigger-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与类别",
+    "text": "三国；青铜器（弩机机件）。",
+    "refs": [
+     "t05-wh-zhaozhuo-trigger-official"
+    ]
+   },
+   {
+    "title": "出土与尺寸",
+    "text": "武汉市洪山区石咀大型券顶砖室墓出土；长20厘米；完整墓号与出土年月未载。",
+    "refs": [
+     "t05-wh-zhaozhuo-trigger-official"
+    ]
+   },
+   {
+    "title": "铭文",
+    "text": "板机两侧刻铭，含缪曜、郑贵、赵濯三处“私弩”字样，名字前有郎吏、将军一类称谓。",
+    "refs": [
+     "t05-wh-zhaozhuo-trigger-official"
+    ]
+   },
+   {
+    "title": "研究解释",
+    "text": "馆方据刻铭认为至少三人使用过，并联系孙吴世袭领兵制度；制度含义属研究解释。",
+    "refs": [
+     "t05-wh-zhaozhuo-trigger-official"
+    ]
+   },
+   {
+    "title": "等级与空白",
+    "text": "国家一级文物；三人使用次序与各自经历未载，铸造工匠与作坊未载。",
+    "refs": [
+     "t05-wh-zhaozhuo-trigger-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把名字刻在弩机上？",
+   "answer": "对使用者来说，刻名是标记归属；对孙吴的领兵者来说，武器可能随职务与部曲转移，名字因此被一次次留下。这台器物上至少三个名字，说明它换过手。谁先谁后、几次刻写是否有先后，记录未载。",
+   "refs": [
+    "t05-wh-zhaozhuo-trigger-official"
+   ]
+  },
+  "uncertainty": "完整墓号、出土年月与使用次序未载；缪曜、郑贵、赵濯三人的身份与实际经历未载；铭文字形与刻写次序不依据示意图判断；铸造工匠与作坊未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "wh-yangguang-trigger",
+    "reason": "同为青铜弩机：一件以板机与臂部刻铭记下东汉延光三年的制造年份，一件以三处“私弩”字样记下使用者，比较铭文承担的时间信息与人事信息。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "wh-measuring-ding",
+    "reason": "两件器物都靠铭文补充用途：一件记下使用者的姓名与身份，一件在口沿记下容量与重量，比较刻铭各自记录了哪一类内容以及能推出什么。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-wh-zhaozhuo-trigger-official": {
+   "id": "t05-wh-zhaozhuo-trigger-official",
+   "title": "官方逐件记录：“赵濯”铭文青铜弩机（exhibitId=24c09eeed03f4aa350742644b4b3db15）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/铜器/24c09eeed03f4aa350742644b4b3db15",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：三国年代、长20厘米，出土于武汉市洪山区石咀一座大型券顶砖室墓；弩机为木弩的铜质机件，板机两侧刻有缪曜、郑贵、赵濯三处“私弩”铭文，馆方据刻铭认为至少三人使用过，并联系孙吴世袭领兵制度；国家一级文物。未载：完整墓号、出土年月与使用次序；铸造工匠与作坊未载；铭文字形不据AI示意图判断；不构成照片授权。"
+  }
+ }
+}

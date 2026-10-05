@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-incense-burner",
+  "hook": "孔洞让器壁一虚一实",
+  "summary": "深圳博物馆藏北宋青白瓷镂孔香薰，高16.5厘米，2010年由日本某友好团体捐赠入藏。器壁开有孔洞，馆方由此观察虚实相间的效果。具体香材、使用者与窑口，官方记录未载。",
+  "summaryRefs": [
+   "t03-sz-incense-burner-official"
+  ],
+  "sections": [
+   {
+    "title": "尺寸与器名",
+    "text": "高16.5厘米，馆方定为北宋，器类署名香薰，材质为青白瓷。名称把功能写在前面，记录同时说明具体香材、使用者与窑口都没有写。名称能确认的是器物类别，替代不了使用记录。",
+    "refs": [
+     "t03-sz-incense-burner-official"
+    ]
+   },
+   {
+    "title": "镂孔的意思",
+    "text": "镂孔指在器壁上开洞，让内外的空气与光贯通，馆方用虚实对照描述这种效果。孔洞的具体数量与排列图案，官方记录未逐条列出，配图只概括孔洞器形，细节不据它判断。",
+    "refs": [
+     "t03-sz-incense-burner-official"
+    ]
+   },
+   {
+    "title": "焚香情景留待",
+    "text": "官网没有写它焚过什么香、在什么场合使用，一次具体的焚香情景因此无从复原。宋代用香的方式与香具组合另有研究文献可查，本条以官方逐件记录为限。",
+    "refs": [
+     "t03-sz-incense-burner-official"
+    ]
+   },
+   {
+    "title": "捐赠与今天再看",
+    "text": "2010年由日本某友好团体捐赠，属现代入藏记录，与器物早年的埋藏地点无关。今天再看，这类孔洞器形常被看作宋代生活的标记；可核的是器形与孔洞，用香的细节仍在记录之外。",
+    "refs": [
+     "t03-sz-incense-burner-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "名称与年代",
+    "text": "青白瓷镂孔香薰；馆方定为北宋。",
+    "refs": [
+     "t03-sz-incense-burner-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高16.5厘米。",
+    "refs": [
+     "t03-sz-incense-burner-official"
+    ]
+   },
+   {
+    "title": "入藏",
+    "text": "2010年由日本某友好团体捐赠。",
+    "refs": [
+     "t03-sz-incense-burner-official"
+    ]
+   },
+   {
+    "title": "器表处理",
+    "text": "器壁镂孔，馆方以虚实对照描述效果。",
+    "refs": [
+     "t03-sz-incense-burner-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "香材、使用者、窑口、开孔工具未载；孔洞排列不据 AI 示意图判断。",
+    "refs": [
+     "t03-sz-incense-burner-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "器壁上的孔，除了透气还起什么作用？",
+   "answer": "孔洞把器壁变成疏密的图案：光透过孔照进来，实心的部分留下影子，器物表面因此有了层次。香薰需要出烟，这个功能性的开口同时成了装饰。哪一层考虑在先，记录没有说明。",
+   "refs": [
+    "t03-sz-incense-burner-official"
+   ]
+  },
+  "uncertainty": "具体香材、使用者与窑口未载；开孔工具未载；孔洞数量与排列不据 AI 示意图判断；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-qiong-kiln-censer",
+    "reason": "两件都是焚香用瓷：一件以镂孔在器壁做虚实，一件以贴塑莲瓣与模印飞天堆出层次，比较结构装饰的两种做法。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-celadon-ewer",
+    "reason": "两件都在成型阶段处理器表：一件开孔透光，一件压出瓜棱线条，比较镂空与压棱在观感与工序上的差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-incense-burner-official": {
+   "id": "t03-sz-incense-burner-official",
+   "title": "官方逐件记录：青白瓷镂孔香薰（ec55d41ae747479abdd34a0bb7314ab0）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ec55d41ae747479abdd34a0bb7314ab0",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：北宋青白瓷镂孔香薰，高16.5厘米；2010年由日本某友好团体捐赠；镂孔使器壁形成虚实对照。未载：具体香材、使用者、窑口与开孔工具；捐赠记录与考古记录并列区分；不构成照片授权。"
+  }
+ }
+}

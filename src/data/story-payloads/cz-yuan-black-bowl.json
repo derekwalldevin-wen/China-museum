@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cz-yuan-black-bowl",
+  "hook": "一只外壁写着六个朱字的黑漆碗",
+  "summary": "常州博物馆藏元代黑漆碗，高5、口径15.5、底径10.5厘米，1981年江苏常州武进区礼河元墓出土。木胎直口、浅腹微折、平底，内外皆髹黑漆，碗外壁朱书“辛卯湖州苏上”六字。",
+  "summaryRefs": [
+   "t05-cz-yuan-black-bowl-official"
+  ],
+  "sections": [
+   {
+    "title": "口、腹、底",
+    "text": "记录给出三处尺寸：高5、口径15.5、底径10.5厘米。高度只及口径的三分之一上下，形状因此偏浅；木胎直口、浅腹微折、平底。三处数字加上三处形制描述，这件碗的轮廓基本可以复原。",
+    "refs": [
+     "t05-cz-yuan-black-bowl-official"
+    ]
+   },
+   {
+    "title": "内外都是黑漆",
+    "text": "内外皆髹黑漆，漆面光亮。馆方以“造型优美”形容整体观感，属于对器形的评价。木胎上髹漆既能护木，也统一了表面颜色；这件碗走光素一路，记录未提纹饰。",
+    "refs": [
+     "t05-cz-yuan-black-bowl-official"
+    ]
+   },
+   {
+    "title": "外壁的六个字",
+    "text": "碗外壁有朱书“辛卯湖州苏上”六字。辛卯是干支年款，湖州当指产地或作坊所在，后两字所指未获说明；干支年款单独不足以定出公元年份，这是干支纪年的通例。馆方记录未提供铭款所指匠人的生平，这六个字的确切含义留待专门研究。",
+    "refs": [
+     "t05-cz-yuan-black-bowl-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，碗形与漆色之外最耐读的就是那行朱书。产地、年款与作坊信息被留在器物自己身上。本件图像为AI示意图，铭文字形、行款位置与漆面光泽不据示意图判断，需核对实物。",
+    "refs": [
+     "t05-cz-yuan-black-bowl-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "尺寸",
+    "text": "高5、口径15.5、底径10.5厘米。",
+    "refs": [
+     "t05-cz-yuan-black-bowl-official"
+    ]
+   },
+   {
+    "title": "器形",
+    "text": "木胎；直口，浅腹微折，平底。",
+    "refs": [
+     "t05-cz-yuan-black-bowl-official"
+    ]
+   },
+   {
+    "title": "漆面",
+    "text": "内外皆髹黑漆，漆面光亮。",
+    "refs": [
+     "t05-cz-yuan-black-bowl-official"
+    ]
+   },
+   {
+    "title": "铭款",
+    "text": "碗外壁朱书“辛卯湖州苏上”六字。",
+    "refs": [
+     "t05-cz-yuan-black-bowl-official"
+    ]
+   },
+   {
+    "title": "未载与不据图",
+    "text": "铭款所指匠人生平、墓号、发现者、流转经过未载；本件图像为AI示意图，铭文字形与漆面微痕需核对实物；逐次保护修复档案未核。",
+    "refs": [
+     "t05-cz-yuan-black-bowl-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么漆碗把作坊信息写在碗的外壁？",
+   "answer": "外壁是使用者日常会看到的一面。把产地、年款与作坊名留在这一面，器物便自带出处；对当时的作坊来说这是一行招牌，对今天的研究来说它成了断代与流通的线索。这六个字各指什么，仍有待核对。",
+   "refs": [
+    "t05-cz-yuan-black-bowl-official"
+   ]
+  },
+  "uncertainty": "铭款所指匠人生平未载；“湖州苏上”各字所指未获说明；墓号、发现者、流转经过未载；本件图像为AI示意图，铭文字形与漆面状态需核对实物；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cz-phagspa-bowl",
+    "reason": "同为元代常州漆碗，一件平底浅腹配朱书汉字作坊款，一件圈足弧腹配八思巴文单字，比较器底处理与铭文所落位置的差别。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cz-changzhou-bowl",
+    "reason": "同为本地出土的漆碗，一件光素平底并记作坊与干支年款，一件口沿起十瓣并记“常州”款，比较装饰取向与款识写法的变化。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-cz-yuan-black-bowl-official": {
+   "id": "t05-cz-yuan-black-bowl-official",
+   "title": "官方逐件记录：黑漆碗（id=414）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=414&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：官方逐件记录给出元代定年、木胎直口浅腹微折平底、高5、口径15.5、底径10.5厘米，1981年江苏常州武进区礼河元墓出土，内外皆髹黑漆且漆面光亮，外壁朱书“辛卯湖州苏上”六字。未载：铭款所指匠人生平、墓号与流转经过；不构成照片授权。"
+  }
+ }
+}

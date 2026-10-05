@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "wh-mother-candlestick",
+  "hook": "烛台是一个抱着孩子的妇人",
+  "summary": "武汉博物馆藏汉代青釉妇人抱子陶烛台。泥质红陶，座作人形：妇人头梳高髻，髻做成筒形，可插烛；身姿直立，一腿下蹲、一腿曲起，双手拽着一童子坐于怀中。馆方记通体施铅釉、呈银色，题名中的青釉与现存银色观感需要分别说明。",
+  "summaryRefs": [
+   "t05-wh-mother-candlestick-official"
+  ],
+  "sections": [
+   {
+    "title": "座就是一个人",
+    "text": "馆方记录写得很具体：座为人形，妇人身姿直立，双目平视，面带微笑，亲切随和；一腿下蹲、一腿曲起，双手拽着一童子坐于怀中。陶塑在这里同时承担两件事，一是把烛台稳稳落在地上，二是把“抱子”这个动作交代完整。看这件器物，先看姿态，材质与釉色的信息排在后面。",
+    "refs": [
+     "t05-wh-mother-candlestick-official"
+    ]
+   },
+   {
+    "title": "插烛的孔来自发型",
+    "text": "妇人头梳高髻，髻造型成筒形，馆方明确说它可作插烛之用。烛台的插孔由人的发型变来，功能与形象合成一处：筒形髻既是汉代妇女的发式，也是插放蜡烛的槽口。蜡烛实物与器表的烧灼、使用痕迹，官方记录没有说明，留待检测。",
+    "refs": [
+     "t05-wh-mother-candlestick-official"
+    ]
+   },
+   {
+    "title": "题名说青釉，正文说银色",
+    "text": "两说并列：器物题名作“青釉”，馆方正文则记“通体施铅釉，呈银色”。题名依釉色分类，正文依现存观感描述，两者说的不是同一层信息。原釉的呈色与埋藏过程中发生的变化，不宜只凭AI示意图定色；这批配图均为AI示意图，不据此判断釉色、铅釉成分与人物细部。",
+    "refs": [
+     "t05-wh-mother-candlestick-official"
+    ]
+   },
+   {
+    "title": "低温铅釉的一件实例",
+    "text": "馆方解释这件器物是“汉代创烧的低温铅釉陶器应用与推广的实例”，属工艺史的类型背景。烧成温度、胎釉配比与检测数据未载，是否随葬、出自哪座墓也未载。今天再看，它的身份有两重：一件可以插烛的照明用具，也是一件有姿态的陶塑，两者在同一件器物上并存。",
+    "refs": [
+     "t05-wh-mother-candlestick-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "材质与成型",
+    "text": "泥质红陶，座作人形。",
+    "refs": [
+     "t05-wh-mother-candlestick-official"
+    ]
+   },
+   {
+    "title": "人物姿态",
+    "text": "头梳高髻，双目平视，面带微笑；一腿下蹲、一腿曲起，双手拽童子坐于怀中。",
+    "refs": [
+     "t05-wh-mother-candlestick-official"
+    ]
+   },
+   {
+    "title": "功能部件",
+    "text": "髻造型成筒形，可作插烛之用。",
+    "refs": [
+     "t05-wh-mother-candlestick-official"
+    ]
+   },
+   {
+    "title": "表面两说",
+    "text": "馆方记通体施铅釉、呈银色；题名作青釉。两说并列保留。",
+    "refs": [
+     "t05-wh-mother-candlestick-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "发现过程、出土地点与墓号、工匠姓名、烧成温度与材料检测均未载；逐次保护修复档案未核。",
+    "refs": [
+     "t05-wh-mother-candlestick-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "插烛只需要一个孔，为什么把烛台做成一个人？",
+   "answer": "因为人形让器物在蜡烛熄灭之后还有姿态。抱子的样子本身就能被观看，筒形的髻顺手成了插孔，造型与功能合成一处。馆方把它归入汉代低温铅釉陶器推广的实例，至于当初为什么选这个形象，记录没有交代。",
+   "refs": [
+    "t05-wh-mother-candlestick-official"
+   ]
+  },
+  "uncertainty": "发现过程、出土地点与墓号未载；工匠姓名未载；烧成温度、胎釉配比与材料检测未载；题名青釉与正文所记银色两说并列，原釉呈色留待检测；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。青釉题名与铅釉呈银色两说并列保留。",
+  "related": [
+   {
+    "id": "wh-shield-figure",
+    "reason": "同为武汉博物馆藏陶俑：一件用人体塑形承接插烛的孔，一件用跪姿、铠甲与兽面盾表达军士形象，比较人物姿态与器物功用怎样各自安排，两件出土地点并不相同。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "wh-people-mirror",
+    "reason": "同为汉代器物：一件靠立体人形塑出插烛的孔，一件靠镜背神兽与外围铭文组织圆形画面，比较立体造型与平面纹饰各自的经营办法，两件来源与用途不同。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-wh-mother-candlestick-official": {
+   "id": "t05-wh-mother-candlestick-official",
+   "title": "官方逐件记录：青釉妇人抱子陶烛台（exhibitId=6cfefb213f334407a27b97773729d1f1）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/6cfefb213f334407a27b97773729d1f1",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：汉代、泥质红陶、座作人形、髻成筒形可插烛、通体施铅釉呈银色，属官方逐件记录明列；馆方解释其为汉代低温铅釉陶器应用推广的实例。未载：出土地点、墓号与发现过程、工匠姓名；题名青釉与正文所记银色两说并列保留。不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-changsha-ewer",
+  "hook": "注子身上有褐斑，还有一枚椰枣纹",
+  "summary": "深圳博物馆藏唐代长沙窑青釉褐斑贴花椰枣纹注子，高26厘米。馆方把釉色、褐斑、贴花与椰枣主题并列写在名称里。原出土地与入藏经过没有记录。",
+  "summaryRefs": [
+   "t03-sz-changsha-ewer-official"
+  ],
+  "sections": [
+   {
+    "title": "名称里的四件事",
+    "text": "馆方名称依次列出青釉、褐斑、贴花与椰枣纹。高26厘米。贴花是把纹样单独做好再贴到器身上，褐斑则是釉面上另一层颜色变化；两者加上底色，构成同一件器物的表面层次。四个词分别指向材料、工艺与题材。",
+    "refs": [
+     "t03-sz-changsha-ewer-official"
+    ]
+   },
+   {
+    "title": "注子的结构",
+    "text": "注子有口、有流、有柄，用来倾倒液体。名称只交代了器形类别与装饰，装的是什么液体、配不配碗、在什么场合使用，记录都没有说明。长沙窑的窑温与釉料配方同属未载，留待检测。",
+    "refs": [
+     "t03-sz-changsha-ewer-official"
+    ]
+   },
+   {
+    "title": "椰枣纹与贸易想象",
+    "text": "椰枣是西亚常见的植物，看到这样的纹样，很容易把它与长沙窑的外销联系起来。这类讨论属于研究解释：馆方没有给出本件的流通路线，仅凭一种植物纹样，不能证明它到过西亚，也不能确定使用者是商人。先把装饰与器形本身的安排看清楚：纹样落在器腹，跟壶的形体一起被观看；器物是否真的经历过长途流通，属于另一个层面的问题。",
+    "refs": [
+     "t03-sz-changsha-ewer-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，长沙窑的褐斑与贴花常被当作民间窑场活泼的做法；具体到这一件，原出土地与入藏经过未载，装饰细节也缺工序记录。示意图为AI生成，椰枣纹的形态与贴花的部件数量要以馆方文字记录为准，不据它判断。逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-changsha-ewer-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "馆藏与年代",
+    "text": "深圳博物馆藏；馆方定为唐代。",
+    "refs": [
+     "t03-sz-changsha-ewer-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高26厘米。",
+    "refs": [
+     "t03-sz-changsha-ewer-official"
+    ]
+   },
+   {
+    "title": "装饰",
+    "text": "青釉、褐斑、贴花与椰枣纹主题并列。",
+    "refs": [
+     "t03-sz-changsha-ewer-official"
+    ]
+   },
+   {
+    "title": "窑口",
+    "text": "馆方定为长沙窑；窑温与釉料配方未载。",
+    "refs": [
+     "t03-sz-changsha-ewer-official"
+    ]
+   },
+   {
+    "title": "未载与提示",
+    "text": "原出土地与入藏经过未载；装饰不作流通证据；示意图为AI生成，纹样细节不据它判断。",
+    "refs": [
+     "t03-sz-changsha-ewer-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把褐斑和贴花放在同一件器物上？",
+   "answer": "褐斑是釉面的变化，贴花是器表的起伏，一个靠颜色、一个靠高低。两种手段叠起来，画面不必画得精细也能有层次。至于选椰枣做题材，是窑场的常见做法还是别的原因，记录里没有答案。",
+   "refs": [
+    "t03-sz-changsha-ewer-official"
+   ]
+  },
+  "uncertainty": "原出土地与入藏经过未载；窑温与釉料配方未载；流通路线与使用者身份无记录；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-qiong-kiln-censer",
+    "reason": "同为贴塑类装饰：一件把椰枣纹贴在注子腹部，一件把莲瓣与模印飞天叠在瓷炉足部，可以比较贴塑在不同器形上的层次安排。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-white-dragon-ewer",
+    "reason": "两种表面语言：一件以褐斑与贴花在釉面上添彩，一件以白釉与龙形柄改变器物轮廓，可以比较装饰落在釉面还是落在形体。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-changsha-ewer-official": {
+   "id": "t03-sz-changsha-ewer-official",
+   "title": "官方逐件记录：长沙窑青釉褐斑贴花椰枣纹注子（56de27238e7d440c9af63e8df92da866）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=56de27238e7d440c9af63e8df92da866",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方逐件记录给出唐代年代、高26厘米、长沙窑青釉褐斑贴花椰枣纹注子定名，并将釉色、褐斑、贴花与椰枣主题并列。未载：原出土地与入藏经过、窑温与釉料配方；装饰不作流通证据；不构成照片授权。"
+  }
+ }
+}

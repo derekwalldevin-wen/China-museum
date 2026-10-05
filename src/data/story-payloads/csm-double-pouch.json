@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-double-pouch",
+  "hook": "两头都是袋，中间开口",
+  "summary": "中国丝绸博物馆藏民国褡裢。质地丝，外观呈长形，中部有口、两端下垂成两袋，用以携带物品；以白色素缎为主要面料，用铺绒绣技法绣出图案，上方螃蟹纹、下方桃子纹。长16.9、宽9厘米。具体装过什么与佩用人未载。",
+  "summaryRefs": [
+   "t04-csm-double-pouch-official"
+  ],
+  "sections": [
+   {
+    "title": "褡裢是一件事物，不是两件",
+    "text": "官方记录写明：中部有口、两端下垂成两袋。也就是说，它是搭在肩上或挂在身上的一整条袋囊，中间开口，两端是两个装东西的兜。本条按一件计，不因为有两个袋就拆成两条——这是形制上的一个整体。",
+    "refs": [
+     "t04-csm-double-pouch-official"
+    ]
+   },
+   {
+    "title": "一只螃蟹、一颗桃子",
+    "text": "记录给出图案位置：上方为螃蟹纹样，下方为桃子纹样。两个题材在同一件小物上并置，一个来自水泽，一个来自果园，都是常见的吉祥或生活题材。至于它们各自的寓意，本条不代物主解释，只把纹样名称写下来。",
+    "refs": [
+     "t04-csm-double-pouch-official"
+    ]
+   },
+   {
+    "title": "铺绒绣的满铺法",
+    "text": "白素缎为地，其上用彩色丝线以铺绒绣技法绣出图案。与只绣出图案轮廓的做法不同，铺绒的特点是以满铺绒线构成绣地，再用极细的生丝线挑出图案——绣面因此整体有绒感。缎地平整、绒线饱满，两者形成质感对比。",
+    "refs": [
+     "t04-csm-double-pouch-official"
+    ]
+   },
+   {
+    "title": "带着它做什么",
+    "text": "褡裢的功能是携带物品：出门时把东西分装两端，中间搭在肩上或系在腰间，重量分散、取用也方便。它具体装过什么、谁用过，官方记录未载。长16.9、宽9厘米的体量不大，属于随身小件；逐次保护修复档案未核。",
+    "refs": [
+     "t04-csm-double-pouch-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "形制",
+    "text": "长形，中部有口，两端下垂成两袋，为携带物品的袋囊。",
+    "refs": [
+     "t04-csm-double-pouch-official"
+    ]
+   },
+   {
+    "title": "纹样",
+    "text": "上方螃蟹纹，下方桃子纹。",
+    "refs": [
+     "t04-csm-double-pouch-official"
+    ]
+   },
+   {
+    "title": "工艺与尺寸",
+    "text": "白素缎为地、铺绒绣；长16.9、宽9厘米。",
+    "refs": [
+     "t04-csm-double-pouch-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "双袋计一件；装过什么与佩用人未载。",
+    "refs": [
+     "t04-csm-double-pouch-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把袋子做成两端开口、中间相连的样子？",
+   "answer": "因为要挂在身上走。东西分放两端，重量自然分到身体两侧；中间搭过去，物件就不会在走动时甩来甩去。这种形制在各地都被长期使用——它解决的是一件很实际的事：怎么把东西带着走，又腾出两只手。",
+   "refs": [
+    "t04-csm-double-pouch-official"
+   ]
+  },
+  "uncertainty": "所装物品、佩用人、制作者与入藏经过未载；纹样细节不据AI图辨认；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；双袋计一件。",
+  "related": [
+   {
+    "id": "csm-go-waist-pouch",
+    "reason": "携带方式的比较：一件是系在腰间的腰包，一件是两端成袋的褡裢，比较负重与取用的差异。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-plum-money-pouch",
+    "reason": "都是随身袋囊：一件明确装钱，一件功能概括为“携带物品”，比较用途记载的详略。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-double-pouch-official": {
+   "id": "t04-csm-double-pouch-official",
+   "title": "官方逐件记录：白缎铺绒绣桃子螃蟹褡裢（itemid=3274）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3274",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；外观呈长形，中部有口、两端下垂成两袋，是用以携带物品的袋囊；以白色素缎为主要面料，其上以彩色丝线用铺绒绣技法绣出图案，上方为螃蟹纹样、下方为桃子纹样；长16.9、宽9厘米。未载：具体装过什么、佩用人；双袋为一件褡裢，不拆分；不构成照片授权。"
+  }
+ }
+}

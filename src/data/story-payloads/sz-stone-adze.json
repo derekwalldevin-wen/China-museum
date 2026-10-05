@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-stone-adze",
+  "hook": "一把小石锛的三组数字",
+  "summary": "深圳博物馆藏商周石锛，长7.2厘米、宽4.59厘米，重0.11千克。馆方名称把它与石铲、尖状器区分开；磨制细节与使用痕迹的研究，记录未载。",
+  "summaryRefs": [
+   "t03-sz-stone-adze-official"
+  ],
+  "sections": [
+   {
+    "title": "三组数字",
+    "text": "长7.2厘米，宽4.59厘米，重0.11千克。器体短小，一手可握。三组数字都出自馆方记录，属于这条资料里最实在的部分；它从哪里来、在谁手里用过，记录没有写。",
+    "refs": [
+     "t03-sz-stone-adze-official"
+    ]
+   },
+   {
+    "title": "锛是一类有刃的器",
+    "text": "石锛是先秦常见的石质工具类型，一般带刃，多用于木料加工一类作业，这属于类型背景。馆方在名称层面把石锛与石铲、尖状器区别开来，这是定名上的分别；这一件刃口的角度与磨制细部，记录未详。",
+    "refs": [
+     "t03-sz-stone-adze-official"
+    ]
+   },
+   {
+    "title": "刃部留给检测",
+    "text": "可用的是定名与三项尺寸。AI示意图只概括器形轮廓，不充当器物照片；刃口的坡度与器身的打磨痕迹，一并不据示意图判断。使用痕迹的研究，资料里也没有，刃部的实际状态留待观察与检测。",
+    "refs": [
+     "t03-sz-stone-adze-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，它对观众提出的问题很直接：一件工具为什么只留下尺寸？展柜里的石锛静静躺着，看不到木屑，也看不到被加工过的材料。缺少痕迹研究的时候，观看停在器形这一层。",
+    "refs": [
+     "t03-sz-stone-adze-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与定名",
+    "text": "商周；馆方定名石锛。",
+    "refs": [
+     "t03-sz-stone-adze-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长7.2厘米、宽4.59厘米。",
+    "refs": [
+     "t03-sz-stone-adze-official"
+    ]
+   },
+   {
+    "title": "重量",
+    "text": "重0.11千克。",
+    "refs": [
+     "t03-sz-stone-adze-official"
+    ]
+   },
+   {
+    "title": "定名区分",
+    "text": "馆方名称与石铲、尖状器相区分。",
+    "refs": [
+     "t03-sz-stone-adze-official"
+    ]
+   },
+   {
+    "title": "出土地与档案",
+    "text": "出土地与入藏史未载；磨制细节与使用痕迹研究未载；逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-stone-adze-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么一类工具的常见功能，不能直接算到具体这一件头上？",
+   "answer": "类型名称描述器物形制与常见功能，属于类型背景；一件器物的作业经历要靠刃口微痕、残留物一类检测来支持。这一件没有这些资料，能说的只有：它是石锛，年代属商周。",
+   "refs": [
+    "t03-sz-stone-adze-official"
+   ]
+  },
+  "uncertainty": "出土地与入藏史未载；磨制细节与使用痕迹研究未载；一般锛功能属类型背景；不据AI示意图判断刃口细节；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-perforated-shovel",
+    "reason": "同馆两件先秦石器：一件是石锛，一件是残长8.65厘米、宽6.51厘米的穿孔石铲，器体、孔洞与刃部可以放在一起看。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-grooved-stone",
+    "reason": "两件石器都靠外形定名：一件有单面刃并通体磨光，一件是石锛，对照两条记录能看出各自写了什么、缺了什么。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-stone-adze-official": {
+   "id": "t03-sz-stone-adze-official",
+   "title": "官方逐件记录：石锛（resId=2b57db71…）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=2b57db711b24417c9599a7cb054e9224",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：商周石锛，长7.2厘米、宽4.59厘米，重0.11千克；馆方名称把它与石铲、尖状器相区分。未载：出土地与入藏史未载，磨制细节与使用痕迹研究未载；一般锛功能属类型背景，边界在于类型功能不构成这一件的作业证明；不构成照片授权。"
+  }
+ }
+}

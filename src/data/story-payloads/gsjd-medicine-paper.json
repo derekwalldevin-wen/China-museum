@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gsjd-medicine-paper",
+  "hook": "两张小纸片，包过药",
+  "summary": "甘肃简牍博物馆藏西汉早期麻纸两件（按一组计）。1990年出土于敦煌悬泉置遗址，纸上隶书药名；馆方据纸的形状与折痕推断为包药用纸。标题与正文的药名、第二张的尺寸在官方资料内部存在冲突，本条并列不判。",
+  "summaryRefs": [
+   "t04-gsjd-medicine-paper-official"
+  ],
+  "sections": [
+   {
+    "title": "纸面粗，字是隶书",
+    "text": "官方记录写得很具体：纸色白，纸面粗而不平整，有韧性。两件纸上都是隶书，一件正面写“薰力”，一件正面写“细辛”——都是药名。纸不是平的，表面留着折过的痕迹，馆方据此判断它们曾被用来包东西。",
+    "refs": [
+     "t04-gsjd-medicine-paper-official"
+    ]
+   },
+   {
+    "title": "两张纸，四个尺寸",
+    "text": "按官方摘录：一件出土号 90DXT212④：3，长12厘米、宽7厘米；另一件 90DXT212④:4，长3厘米、宽4厘米。但在同一份官方资料里，第二张的长度在表格中记作13厘米、在正文中记作3厘米。这个冲突是原件资料自带的，本条只把它摆出来：在纸片本身被重新测量之前，两个数字都只能并列存在。药名同样如此——标题写“付子”，正文明列的第一张写“薰力”。",
+    "refs": [
+     "t04-gsjd-medicine-paper-official"
+    ]
+   },
+   {
+    "title": "为什么这两片纸重要",
+    "text": "悬泉置是汉代敦煌郡的一处驿站遗址，出土简牍数量大。在一片以简牍为主的遗址里出现纸，说明当时书写材料不止一种：木简承担了多数行政与私人记录，纸也已经进入日常使用——至少到了可以用来包药的程度。馆方把这两件按一组计数，是展示与登记上的处理，不是原物本来连在一起。",
+    "refs": [
+     "t04-gsjd-medicine-paper-official"
+    ]
+   },
+   {
+    "title": "它没有告诉我们的",
+    "text": "纸的纤维成分、抄造工序与产地，官方资料没有记载，本条不补。两片纸是否原本包着同一包药、属于同一个人，资料也没有说；它们只是同在悬泉置出土、同为药名墨迹。至于逐次保护修复档案，同样未核。今天我们在展柜里看到的是两小片黄白的纸与几笔隶书，其余都是等待检验的部分。",
+    "refs": [
+     "t04-gsjd-medicine-paper-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "质地与年代",
+    "text": "麻纸；馆方定为西汉早期。",
+    "refs": [
+     "t04-gsjd-medicine-paper-official"
+    ]
+   },
+   {
+    "title": "两件出土号",
+    "text": "90DXT212④：3 与 90DXT212④:4。",
+    "refs": [
+     "t04-gsjd-medicine-paper-official"
+    ]
+   },
+   {
+    "title": "书写的药名",
+    "text": "一件“薰力”，一件“细辛”；标题作“付子”。",
+    "refs": [
+     "t04-gsjd-medicine-paper-official"
+    ]
+   },
+   {
+    "title": "尺寸冲突",
+    "text": "第二张表格13厘米、正文3厘米，两说并列。",
+    "refs": [
+     "t04-gsjd-medicine-paper-official"
+    ]
+   },
+   {
+    "title": "包药的推断",
+    "text": "依纸的形状与折痕，馆方判断为包药用纸。",
+    "refs": [
+     "t04-gsjd-medicine-paper-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么在满是木简的驿站遗址里，会出土两片纸？",
+   "answer": "因为书写材料并不只有一种。木简结实、便于编册，是行政记录的主力；纸轻薄、可折叠，适合包东西或写短记。两片纸在同一遗址出现，说明当时的人按需要选材料，而纸已经进入日常。",
+   "refs": [
+    "t04-gsjd-medicine-paper-official"
+   ]
+  },
+  "uncertainty": "标题与正文的药名（付子／薰力）、第二张的长度（13厘米／3厘米）在官方资料内部冲突，此处并列不判。纸的纤维检测、抄造工序、是否同属一人一物、逐次保护修复档案均未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；冲突项并列保留。",
+  "related": [
+   {
+    "id": "gsjd-maquan-brush",
+    "reason": "都是悬泉、马圈湾一带的书写材料：一片纸上写着药名，一支笔的笔毛还剩一段——两件东西凑成一套：笔写出字，纸留住字；比较工具与载体的搭配，不据此推断同一工坊。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-written-hemp-paper",
+    "reason": "同馆两件有字的麻纸：一件两行隶书像是货物或祝语，一件写着两味药名，可比纸面质地与用途差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-medicine-paper-official": {
+   "id": "t04-gsjd-medicine-paper-official",
+   "title": "官方逐件记录：“付子 细辛”汉代麻纸（exhibit_id=49）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=49",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：名称、质地（麻纸）、年代（西汉早期）、出土地（1990年敦煌悬泉置遗址）与两件出土号（90DXT212④：3、90DXT212④:4）及尺寸；两纸均书药名、馆方据折痕推断为包药用纸。冲突照录：标题作“付子”，正文首张作“薰力”；第二张长度表格作13厘米、正文作3厘米，本条不代馆方判定。不含：纸张纤维检测、制作工序与保护修复档案；不构成照片再使用授权。"
+  }
+ }
+}

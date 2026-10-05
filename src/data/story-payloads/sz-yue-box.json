@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-yue-box",
+  "hook": "一只越窑青釉小盒",
+  "summary": "深圳博物馆藏北宋越窑青釉划花盒，口径11.2厘米、高5.5厘米。越窑、青釉、划花三项来自馆方定名；原装盛物、窑址、具体工匠与收藏经过，记录未载。",
+  "summaryRefs": [
+   "t03-sz-yue-box-official"
+  ],
+  "sections": [
+   {
+    "title": "口径与高度",
+    "text": "口径11.2厘米，高5.5厘米。两项数字来自馆方记录。名称写作盒，盒盖是否存在、如何扣合、内里有几格，记录都没有写；部件数量与内部结构，不据AI示意图判断。",
+    "refs": [
+     "t03-sz-yue-box-official"
+    ]
+   },
+   {
+    "title": "划花与印花",
+    "text": "馆方把这一件定为划花，另一件青白瓷子母盒定为印花，两个装饰名称并列可辨。划花与印花是陶瓷装饰里的通行称谓，属类型背景；两件器物各自的施工细节，记录未详。",
+    "refs": [
+     "t03-sz-yue-box-official"
+    ]
+   },
+   {
+    "title": "越窑的名字与空白的用途",
+    "text": "馆方定名越窑青釉，窑址与烧造配方都没有资料。盒里原来装什么，也一直空着。同类小盒可以装香料、脂粉或药物，这只算常见用法的列举，替代不了这一件的原装物记录。",
+    "refs": [
+     "t03-sz-yue-box-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，青釉的色调与浅浅的划纹让它显得安静。放在展柜里，观众多半好奇它装过什么，而这正是资料缺的那一环。能确定的，是它的年代、器名与装饰做法。",
+    "refs": [
+     "t03-sz-yue-box-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与定名",
+    "text": "北宋；馆方定名越窑青釉划花盒。",
+    "refs": [
+     "t03-sz-yue-box-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "口径11.2厘米、高5.5厘米。",
+    "refs": [
+     "t03-sz-yue-box-official"
+    ]
+   },
+   {
+    "title": "装饰",
+    "text": "划花与印花两个馆方定名并列可辨。",
+    "refs": [
+     "t03-sz-yue-box-official"
+    ]
+   },
+   {
+    "title": "用途与窑口",
+    "text": "原装盛物未载；窑址与烧造配方未载。",
+    "refs": [
+     "t03-sz-yue-box-official"
+    ]
+   },
+   {
+    "title": "人事与档案",
+    "text": "具体工匠与收藏经过未载；盖件与纹样不据AI示意图判断；逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-yue-box-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么同类小盒的用途常被写成不确定？",
+   "answer": "形制本身不指向唯一内容：香料、脂粉、药物都有可能；判断原装物要靠残留物检测或出土情境。这两项都缺，资料里只能留白，留白也顺手标出了下一步该补哪一类检测。",
+   "refs": [
+    "t03-sz-yue-box-official"
+   ]
+  },
+  "uncertainty": "原装盛物未载；窑址与烧造配方未载；具体工匠与收藏经过未载；盖件与纹样不据AI示意图判断；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-double-box",
+    "reason": "同馆两件北宋瓷盒：一件越窑青釉划花，一件青白瓷印花子母盒，装饰做法与盒体组合都不同，适合放在一起看。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-paper-cut-bowl",
+    "reason": "两件宋代瓷器的装饰都以馆方定名入档：一件划花，一件剪纸贴花，对照两种命名可以看出记录习惯。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-yue-box-official": {
+   "id": "t03-sz-yue-box-official",
+   "title": "官方逐件记录：越窑青釉划花盒（resId=6246c2f0…）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=6246c2f0ddee4a2fb56f7217de733311",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：北宋越窑青釉划花盒，口径11.2厘米、高5.5厘米；越窑、青釉、划花为馆方定名，与同馆子母盒的印花定名并列可辨。未载：原装盛物、窑址、烧造配方、具体工匠与收藏经过均未载；边界在于不据AI示意图判断盖件与纹样；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gsjd-sword-appraisal",
+  "hook": "六枚简，讲怎么看出好剑",
+  "summary": "甘肃简牍博物馆藏汉代简册（整册计一条）。1974年出土于居延破城子遗址。每简一行，原有编连三道、编绳处右侧有锲口，编绳已朽毁不存；六简容字210个，规整隶书、墨色如新。内容为辨识宝剑与敝剑的标准与方法。",
+  "summaryRefs": [
+   "t04-gsjd-sword-appraisal-official"
+  ],
+  "sections": [
+   {
+    "title": "先分清：它是书，不是剑",
+    "text": "这份简册讨论的是如何辨认剑的好坏，但实物是六枚木简，没有剑。站内配图是 AI 概括示意，不能据它想象剑的形制；更不应把这份研究性文书画成兵器陈列。材料、编号、字数——这些才是它作为文物的属性。",
+    "refs": [
+     "t04-gsjd-sword-appraisal-official"
+    ]
+   },
+   {
+    "title": "编绳不在了",
+    "text": "官方记录写得很细：原有编连三道，编绳处右侧有锲口；编绳已朽毁不存。锲口是绳子勒过木简留下的痕迹——绳没了，位置还在。从这里能看出：看到的六枚简，原本是被编在一起的册，今天的排列要靠这些痕迹与研究复原。",
+    "refs": [
+     "t04-gsjd-sword-appraisal-official"
+    ]
+   },
+   {
+    "title": "标准有几条",
+    "text": "按馆方释读：内容提出鉴定善剑四条标准、鉴定敝剑六条标准，以及辨识善剑敝剑纹饰的四条标准。合计若干条判断依据，210个字要写清这些内容，用词必然精炼。这类文本接近行业经验的口诀化总结，属于知识传承一路，与官府律令不同。",
+    "refs": [
+     "t04-gsjd-sword-appraisal-official"
+    ]
+   },
+   {
+    "title": "墨色如新，字是隶书",
+    "text": "官方记录用“规整隶书，墨色如新”来形容。出土简牍能保存到字迹清晰并不常见，这让释读相对顺利。至于这份册子由谁抄写、给谁使用，资料未载；它属于边塞的哪一类人（军官、工匠还是书吏），同样不能确定。",
+    "refs": [
+     "t04-gsjd-sword-appraisal-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与形制",
+    "text": "1974年居延破城子遗址；六简，每简一行，容字210个。",
+    "refs": [
+     "t04-gsjd-sword-appraisal-official"
+    ]
+   },
+   {
+    "title": "编连",
+    "text": "原有三道编绳，锲口尚存，编绳已朽毁。",
+    "refs": [
+     "t04-gsjd-sword-appraisal-official"
+    ]
+   },
+   {
+    "title": "内容",
+    "text": "善剑4条、敝剑6条、纹饰辨识4条标准。",
+    "refs": [
+     "t04-gsjd-sword-appraisal-official"
+    ]
+   },
+   {
+    "title": "书体",
+    "text": "规整隶书，墨色如新。",
+    "refs": [
+     "t04-gsjd-sword-appraisal-official"
+    ]
+   },
+   {
+    "title": "不能做的",
+    "text": "不把文书当实物剑，不据AI图描述剑形。",
+    "refs": [
+     "t04-gsjd-sword-appraisal-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么有人要把“怎么看剑”写成简册？",
+   "answer": "因为经验需要传下去。什么样是善剑、什么样是敝剑、纹饰怎么看，这些判断如果只靠口传，换个人就可能走样。写成条文，就有了可以对照的标准。边塞军中有兵器管理，这类知识对验收入库、追责与更换都用得上。",
+   "refs": [
+    "t04-gsjd-sword-appraisal-official"
+   ]
+  },
+  "uncertainty": "抄写者与使用者身份、标准的全部原文、与实物剑的对应关系均未载；编绳原件已不存；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；整册计一条。",
+  "related": [
+   {
+    "id": "gsjd-discipline-stick",
+    "reason": "军中两件事：一件是列明设施废弛的问责檄文，一件是教人辨别兵器好坏的标准，比较管理与技术两种文本。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-document-cover",
+    "reason": "同为木制实物：一件写字成册，一件封缄文书，比较简与检在文书体系里的分工。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-sword-appraisal-official": {
+   "id": "t04-gsjd-sword-appraisal-official",
+   "title": "官方逐件记录：相利善敝剑冊（exhibit_id=12）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1974年居延破城子遗址出土；每简一行，原有编连三道、编绳处右侧有锲口，编绳已朽毁不存；六简容字210个，规整隶书、墨色如新；内容为辨识宝剑与敝剑的标准和方法，提出鉴定善剑4条、敝剑6条及辨识纹饰4条标准。不含实物剑与断代细节；不构成照片授权。"
+  }
+ }
+}

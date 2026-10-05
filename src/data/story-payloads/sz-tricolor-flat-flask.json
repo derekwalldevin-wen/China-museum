@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-tricolor-flat-flask",
+  "hook": "一只扁壶，背面是平的",
+  "summary": "深圳博物馆藏唐代三彩结带纹穿带扁壶，高23.9厘米，2010年获捐入藏。器身扁平、背部平整，正面凸起绶带纹。馆方认为它可能用于悬挂；骑乘者与挂带的具体装法没有记录。",
+  "summaryRefs": [
+   "t03-sz-tricolor-flat-flask-official"
+  ],
+  "sections": [
+   {
+    "title": "先看扁的一面",
+    "text": "高23.9厘米。器身扁平，背部平整，正面以绶带纹装饰。这样的形状与普通的立壶不同：腹部前后收进，器物的重心随之改变。把一件壶压扁，盛装的容量会减少，贴身的程度却提高了。",
+    "refs": [
+     "t03-sz-tricolor-flat-flask-official"
+    ]
+   },
+   {
+    "title": "绶带纹凸起来",
+    "text": "馆方把绶带纹与三彩并写在名称里。绶带是打成结的带状物，这里被做成凸起的纹样，贴在正面的弧面上；凸起让釉面多了一层高下之差，光扫过去就会断开。三彩是馆方对釉色做法的定名，装烧工序未载。",
+    "refs": [
+     "t03-sz-tricolor-flat-flask-official"
+    ]
+   },
+   {
+    "title": "穿带与悬挂：一种解释",
+    "text": "器名中的“穿带”提示带子可以穿过器物，馆方据此认为它可能用于悬挂。这一层属于馆方解释：悬挂是可能的使用方式，目前看不到使用痕迹方面的证据。骑乘者是谁、挂带怎么装，记录都没有说明，“可能”两字需要保留。",
+    "refs": [
+     "t03-sz-tricolor-flat-flask-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，这类扁壶常被放进马背与旅途的想象里；想象可以解释形状，却替代不了记录。2010年获捐入藏，原出土地点未载。示意图为AI生成，绶带纹的走向、结带结构与部件数量要以馆方文字记录为准，不据它判断。逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-tricolor-flat-flask-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "馆藏与年代",
+    "text": "深圳博物馆藏；馆方定为唐代。",
+    "refs": [
+     "t03-sz-tricolor-flat-flask-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高23.9厘米。",
+    "refs": [
+     "t03-sz-tricolor-flat-flask-official"
+    ]
+   },
+   {
+    "title": "器形与纹饰",
+    "text": "器身扁平、背部平整；正面凸起绶带纹，釉色做法定为三彩。",
+    "refs": [
+     "t03-sz-tricolor-flat-flask-official"
+    ]
+   },
+   {
+    "title": "入藏",
+    "text": "2010年获捐入藏。",
+    "refs": [
+     "t03-sz-tricolor-flat-flask-official"
+    ]
+   },
+   {
+    "title": "未载与提示",
+    "text": "骑乘者与挂带装法未载；悬挂用途属馆方解释；示意图为AI生成，纹样细节不据它判断。",
+    "refs": [
+     "t03-sz-tricolor-flat-flask-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "壶压扁之后，什么变了，什么没变？",
+   "answer": "变的是容量与重心：扁身贴近身体，也更容易用带子固定。没变的是它仍然要倒出液体，所以流和柄一样不能省。悬挂只是馆方给出的一种可能，真正挂在哪里，记录里没有答案。",
+   "refs": [
+    "t03-sz-tricolor-flat-flask-official"
+   ]
+  },
+  "uncertainty": "骑乘者、挂带原装方式与原出土地未载；悬挂用途缺使用痕迹证据；装烧工序与窑口未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-white-dragon-ewer",
+    "reason": "同为唐代壶类，一件扁平、正面凸起结带纹，一件立身、柄作龙形，可以比较器身厚薄与提握部位的处理。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-celadon-ewer",
+    "reason": "两种器身起伏：一件用绶带纹在正面起高，一件用瓜棱把器身分成竖向弧面，可以比较装饰线条与器形的关系。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-tricolor-flat-flask-official": {
+   "id": "t03-sz-tricolor-flat-flask-official",
+   "title": "官方逐件记录：三彩结带纹穿带扁壶（417e4bfd995d4b83978cdc332ccfee9e）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=417e4bfd995d4b83978cdc332ccfee9e",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方逐件记录给出唐代年代、高23.9厘米、三彩与凸起绶带纹、扁平背部，2010年获捐；馆方认为可能用于悬挂。未载：骑乘者、挂带原装方式与装烧工序；悬挂用途属馆方解释，缺少使用记录；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "gsjd-gate-pass",
+  "hook": "出关要出示证明",
+  "summary": "甘肃简牍博物馆藏西汉木简。1973年出土于肩水金关遗址，长23.6、宽3.2厘米，是一封完整的出入关文书。汉代出入肩水金关需出具证明；持有人“大奴”的完整身份与生平未知。",
+  "summaryRefs": [
+   "t04-gsjd-gate-pass-official"
+  ],
+  "sections": [
+   {
+    "title": "一次完整的通关记录",
+    "text": "官方摘录的重点是两个词：完整、出入关。肩水金关是汉代河西走廊上的一处关隘；要过关，需要出具证明。这枚木简记下的就是这件事的文书部分——申请怎么写、批复怎么下、通过怎么记。它被称为“完整”，说明文书的几个环节都保留在简上。",
+    "refs": [
+     "t04-gsjd-gate-pass-official"
+    ]
+   },
+   {
+    "title": "“大奴”是谁",
+    "text": "条目标题里出现了“大奴”。这是简文中的称谓，馆方将其作为文书持有人记入名称；至于他的完整身份、来历与生平，本条资料未载。古代文书中的称呼有时是身份标记而非姓名，把它直接读成某个人的名字，会超出资料能支持的范围。",
+    "refs": [
+     "t04-gsjd-gate-pass-official"
+    ]
+   },
+   {
+    "title": "尺寸与出土地",
+    "text": "长23.6厘米、宽3.2厘米；1973年出于肩水金关遗址。这是汉代通行简牍的常见尺度，一简一行或两行字。关口每天要过人，登记就要写字——木简是当时最顺手的记录工具。",
+    "refs": [
+     "t04-gsjd-gate-pass-official"
+    ]
+   },
+   {
+    "title": "制度和它的边界",
+    "text": "馆方的表述是：汉代出入肩水金关需出具证明，该文书对研究传文书的申请、批复、运行有重要参考价值。这是研究层面的评价。具体到这一封文书：申请的理由、批复的用语、通关的日期，本条资料未逐项列出，本条不补。",
+    "refs": [
+     "t04-gsjd-gate-pass-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与形制",
+    "text": "1973年肩水金关出土；长23.6、宽3.2厘米。",
+    "refs": [
+     "t04-gsjd-gate-pass-official"
+    ]
+   },
+   {
+    "title": "文书性质",
+    "text": "一封完整的出入关文书。",
+    "refs": [
+     "t04-gsjd-gate-pass-official"
+    ]
+   },
+   {
+    "title": "制度背景",
+    "text": "馆方说明：出入肩水金关需出具证明。",
+    "refs": [
+     "t04-gsjd-gate-pass-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "持有人“大奴”的完整身份与生平未载。",
+    "refs": [
+     "t04-gsjd-gate-pass-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么古人过关也要证明？",
+   "answer": "关隘控制的是人与物的流动：谁过去、带什么、为什么去，都需要记录。没有凭证，关口就无法核对，也无法向上报告。木简上的这一封文书，说明当时已经把“过关”变成需要书面手续的事。",
+   "refs": [
+    "t04-gsjd-gate-pass-official"
+   ]
+  },
+  "uncertainty": "持有人“大奴”的完整身份与生平、申请理由、批复用语、通关日期均未载；不据称谓推断社会身份；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gsjd-document-cover",
+    "reason": "过关与封缄都属文书流程：一件记录谁被允许通过，一件封住被传递的文书，比较制度运行中的两种凭据。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-silk-credential",
+    "reason": "都是“凭证”：一件是写有身份文字的丝帛棨信，一件是木简上的通关登记，比较材质与用途的差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-gate-pass-official": {
+   "id": "t04-gsjd-gate-pass-official",
+   "title": "官方逐件记录：五凤元年大奴出入关登记文书木简（exhibit_id=35）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=35",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1973年肩水金关出土；一封完整的出入关文书；长23.6、宽3.2厘米；馆方说明汉代出入肩水金关需出具证明，该文书对研究传文书的申请、批复、运行有参考价值。未载：持有人“大奴”的完整身份与生平；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cd-pottery-courtyard",
+  "hook": "一整个院子，被烧进一件陶器里",
+  "summary": "成都博物馆藏后蜀陶庭院，出土于成都龙泉驿赵廷隐墓，长146厘米。大门、楼阁、后房围出院落，院内还有灶、井等模型；陶塑建筑表面带彩绘与局部描金。馆方认为它可能仿照墓主人住所，属馆方解释；真实住宅并未被找到和测绘。",
+  "summaryRefs": [
+   "t03-cd-pottery-courtyard-official"
+  ],
+  "sections": [
+   {
+    "title": "先走一遍这座院子",
+    "text": "长146厘米。从大门进去是楼阁，后面排着后房，几组建筑围合出一处院落。模型明器的比例缩小了，但建筑之间的位置关系保留了：门在外，房在后，中间是院。看它的时候，视线会自然地按进门的顺序走一遍。",
+    "refs": [
+     "t03-cd-pottery-courtyard-official"
+    ]
+   },
+   {
+    "title": "院子里的灶和井",
+    "text": "院内还有灶、井等模型。灶和井都是过日子离不开的东西；把它们缩成小件放进院子，等于把人每天要走的地方也搬了进来。陶塑建筑上还带彩绘与局部描金，说明当年是上过色的，今天的观者看到的颜色已经不是全部。",
+    "refs": [
+     "t03-cd-pottery-courtyard-official"
+    ]
+   },
+   {
+    "title": "“仿照墓主人住所”是谁的判断",
+    "text": "馆方认为这件陶庭院可能仿照墓主人住所——这是馆方解释，也是对模型的解读。要分清层次：模型本身是可以观察的实物，仿生住所是从它推出来的意思。真实的那座府第没有留下来，也没有被找到和测绘；今天无法把模型与一座具体建筑逐间对号。",
+    "refs": [
+     "t03-cd-pottery-courtyard-official"
+    ]
+   },
+   {
+    "title": "缺掉的部分",
+    "text": "出土于成都龙泉驿赵廷隐墓，年代定为后蜀；发掘日期未载。烧制与装配的细节、彩绘所用的颜料、模型各部分的制作顺序，记录都没有说明。同墓还有其他随葬品，本条只对应这一组陶庭院。今天再看，它的价值恰在“不同”：院落里的灶与井把整套生活方式压缩进一处空间，它们超出了单间房屋装饰的作用。逐次保护修复档案未核。",
+    "refs": [
+     "t03-cd-pottery-courtyard-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与材质",
+    "text": "后蜀；陶塑模型明器。",
+    "refs": [
+     "t03-cd-pottery-courtyard-official"
+    ]
+   },
+   {
+    "title": "出土",
+    "text": "成都龙泉驿赵廷隐墓出土；发掘日期未载。",
+    "refs": [
+     "t03-cd-pottery-courtyard-official"
+    ]
+   },
+   {
+    "title": "形制与尺寸",
+    "text": "大门、楼阁、后房围成院落；长146厘米。",
+    "refs": [
+     "t03-cd-pottery-courtyard-official"
+    ]
+   },
+   {
+    "title": "院内模型",
+    "text": "内有灶、井等模型；陶塑建筑带彩绘与局部描金。",
+    "refs": [
+     "t03-cd-pottery-courtyard-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "发掘日期、烧制装配细节、彩绘颜料未载；仿照住所属馆方解释。",
+    "refs": [
+     "t03-cd-pottery-courtyard-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么要把灶和井这样的小物件也一起塑进去？",
+   "answer": "因为院落是人走动的空间。单有一圈墙和几座房子，看的人只能想到外观；把灶和井放进院里，日常的路线就出现了——取水、生火、进出，这些动作把建筑连成生活。模型的意义正在这里：它不靠文字，靠摆放来说明。",
+   "refs": [
+    "t03-cd-pottery-courtyard-official"
+   ]
+  },
+  "uncertainty": "发掘日期未载；烧制与装配细节未载；彩绘颜料与描金范围未载；墓主身份与居住地对应关系未载；仿照住所属馆方解释；同墓其他随葬品不在本条范围；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按成都博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-pottery-well",
+    "reason": "两件随葬模型明器的比较：一件把取水设施单独缩小成一小件，一件把灶井连同大门楼阁收进整座院落，可见生活空间被缩写到不同程度。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cd-qiong-kiln-censer",
+    "reason": "同馆两件后蜀至五代器物的比较：一件用陶塑搭出立体院落，一件用贴塑与釉色在炉身上叠出层次，比较空间感怎样在不同器物上实现。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-cd-pottery-courtyard-official": {
+   "id": "t03-cd-pottery-courtyard-official",
+   "title": "官方逐件记录：陶庭院（tangsong/201901/52）",
+   "institution": "成都博物馆",
+   "url": "https://www.cdmuseum.com/tangsong/201901/52.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：后蜀年代；成都龙泉驿赵廷隐墓出土；长146厘米；大门、楼阁、后房围出院落，内有灶、井等模型；陶塑建筑带彩绘与局部描金。未载：发掘日期、烧制装配细节；馆方认为可能仿照墓主人住所，属解释而未找到并测绘真实住宅；一条记录对应模型明器一组，不作数量拆分；不构成照片授权。"
+  }
+ }
+}

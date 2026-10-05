@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cs-yuyang-triangle-cup",
+  "hook": "杯底刻着“渔阳”",
+  "summary": "长沙简牍博物馆藏西汉漆耳杯。1993年长沙望城坡西汉渔阳王后墓出土。木胎椭圆、曲腹平底，外髹黑漆、内髹红漆；耳部与外部口沿朱绘三角纹、波折纹，外底锥刻“渔阳”二字。长17.8、宽14、高5.8厘米。",
+  "summaryRefs": [
+   "t04-cs-yuyang-triangle-cup-official"
+  ],
+  "sections": [
+   {
+    "title": "耳杯为什么叫耳杯",
+    "text": "官方摘录解释得很清楚：耳杯是古代的酒具，两侧分别有一个突出的把手，看上去就像两只耳朵，故名。这一件木胎、椭圆形、曲腹、平底——弧形腹身便于端持，平底则能稳稳放在案上。",
+    "refs": [
+     "t04-cs-yuyang-triangle-cup-official"
+    ]
+   },
+   {
+    "title": "漆色与纹样",
+    "text": "外髹黑漆，内髹红漆；耳部与外部口沿朱绘三角纹波折纹。黑底朱纹是汉代漆器最常见的搭配之一：黑漆做地沉稳，朱红在边缘勾出连续的几何纹样。长17.8、宽14、高5.8厘米，是单手握持的尺寸。",
+    "refs": [
+     "t04-cs-yuyang-triangle-cup-official"
+    ]
+   },
+   {
+    "title": "外底的“渔阳”二字",
+    "text": "官方记录写明：外底锥刻“渔阳”二字。锥刻是在漆面或胎体上刻字，与朱绘不同。要强调两点：第一，字样依据馆方记录，站内 AI 配图不仿刻字，不能据图辨字；第二，这两个字是标记，具体含义（地名、封号或宫室名）本条资料未作解释，因此不多谈。",
+    "refs": [
+     "t04-cs-yuyang-triangle-cup-official"
+    ]
+   },
+   {
+    "title": "不要把它塞回那只盒子",
+    "text": "同馆有一件云纹漆具杯盒，内含十个耳杯。这条边界必须写清：**本件不能因为纹样题材与出土墓葬相同，就被认定是盒中十杯之一**。官方分别登录，说明它们是各自独立的条目；要讨论归属，需要器物比对与记录证据。",
+    "refs": [
+     "t04-cs-yuyang-triangle-cup-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与尺寸",
+    "text": "1993年渔阳王后墓出土；长17.8、宽14、高5.8厘米。",
+    "refs": [
+     "t04-cs-yuyang-triangle-cup-official"
+    ]
+   },
+   {
+    "title": "形制与漆色",
+    "text": "木胎椭圆、曲腹平底；外黑内红。",
+    "refs": [
+     "t04-cs-yuyang-triangle-cup-official"
+    ]
+   },
+   {
+    "title": "纹样",
+    "text": "耳部与外部口沿朱绘三角纹、波折纹。",
+    "refs": [
+     "t04-cs-yuyang-triangle-cup-official"
+    ]
+   },
+   {
+    "title": "刻字",
+    "text": "外底锥刻“渔阳”二字；不据AI图辨字。",
+    "refs": [
+     "t04-cs-yuyang-triangle-cup-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "不认定本件属于具杯盒内十杯。",
+    "refs": [
+     "t04-cs-yuyang-triangle-cup-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么要把字刻在杯底，而不是写在看得见的杯身？",
+   "answer": "刻在底部，字不会因为使用与擦洗而磨掉，也不会影响杯身的纹样。它更像是一种内部标记：谁家的器物、归哪一处所有。喝酒时看不到，收存或清点时就派上用场——这是“标记”的常见逻辑。",
+   "refs": [
+    "t04-cs-yuyang-triangle-cup-official"
+   ]
+  },
+  "uncertainty": "“渔阳”二字的具体含义、器物归属与制作工匠未载；本件与具杯盒内十杯的关系未证；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按长沙简牍博物馆逐件官方记录补全；不并入具杯盒十杯。",
+  "related": [
+   {
+    "id": "cs-yuyang-phoenix-cup",
+    "reason": "两件带“渔阳”刻字的耳杯：一件饰三角纹波折纹，一件主题为变形凤鸟纹，比较同型器物的纹样差异。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cs-yuyang-cup-box",
+    "reason": "单件与成套的对照：一只带刻字的耳杯，一只装着十杯的具杯盒，比较登记与使用关系，不认定归属。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-cs-yuyang-triangle-cup-official": {
+   "id": "t04-cs-yuyang-triangle-cup-official",
+   "title": "官方逐件记录：“渔阳”三角纹漆耳杯（nid=250）",
+   "institution": "长沙简牍博物馆",
+   "url": "https://www.chinajiandu.cn/Collection/Details/yym?nid=250",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：西汉；长17.8、宽14、高5.8厘米；1993年长沙望城坡西汉渔阳王后墓出土；木胎、椭圆形、曲腹、平底，外髹黑漆、内髹红漆；耳部与外部口沿朱绘三角纹波折纹，外底锥刻“渔阳”二字；馆方说明耳杯为古代酒具，两侧各有突出把手似耳，战国出现、汉代盛行、沿用至南北朝。边界：刻字不据AI复现；不认定本件属于具杯盒内十杯；不构成照片授权。"
+  }
+ }
+}

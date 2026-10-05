@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "gsjd-document-cover",
+  "hook": "一块木检，写清谁送来、何时送到",
+  "summary": "甘肃简牍博物馆藏汉代木检。馆方登记出土于居延破城子，长15.3、宽4.2厘米。用于封缄文书，其内容包括印章文与送达时间及送达人。",
+  "summaryRefs": [
+   "t04-gsjd-document-cover-official"
+  ],
+  "sections": [
+   {
+    "title": "检是干什么的",
+    "text": "官方摘录只给了两句：文书检用于封缄文书；其内容包括印章文、送达时间及送达人。这两句已经把功能说完整了——它不写内容，只当包在文书外面的那层“封皮”，上面写着谁发的、什么时候送到的。",
+    "refs": [
+     "t04-gsjd-document-cover-official"
+    ]
+   },
+   {
+    "title": "封缄与防拆",
+    "text": "把文书封起来，再在封口处留下印记，是让收件人确认“中途没有被打开过”的办法。检上的印章文承担这个作用：印章落在绳结与封泥上，拆开就会破坏。还有一点：本件原有的绳、泥、印是否完整留存，本条资料未核，因此不描述它的封缄实态。",
+    "refs": [
+     "t04-gsjd-document-cover-official"
+    ]
+   },
+   {
+    "title": "尺寸与出土地",
+    "text": "长15.3厘米、宽4.2厘米，木胎；馆方登记出土于居延破城子。这是一枚窄长的木片——尺寸与简牍相近，但用途不同：简用于书写内容，检用于封缄与标识。在边塞的文书传递链条里，两者配合使用。",
+    "refs": [
+     "t04-gsjd-document-cover-official"
+    ]
+   },
+   {
+    "title": "它没写的部分",
+    "text": "检上印文的具体文字、送达人姓名、所送文书的种类，本条资料均未列出，故不补。我们因此只能说清它的功能与形制，不能复原某一次具体的投递。这类克制听起来不够热闹，但正是它让“文书如何被送到”这件事有了可靠的实物起点。",
+    "refs": [
+     "t04-gsjd-document-cover-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "形制与尺寸",
+    "text": "木检，长15.3、宽4.2厘米。",
+    "refs": [
+     "t04-gsjd-document-cover-official"
+    ]
+   },
+   {
+    "title": "用途",
+    "text": "封缄文书；内容包括印章文、送达时间与送达人。",
+    "refs": [
+     "t04-gsjd-document-cover-official"
+    ]
+   },
+   {
+    "title": "出土地",
+    "text": "馆方登记居延破城子。",
+    "refs": [
+     "t04-gsjd-document-cover-official"
+    ]
+   },
+   {
+    "title": "未核",
+    "text": "原有绳、泥、印的完整组合未核。",
+    "refs": [
+     "t04-gsjd-document-cover-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么要在文书外面再包一层并盖章？",
+   "answer": "因为文书要经过人手传递。封缄加印，等于把“没被拆过”变成可以检查的事实：收件人看到印完好，就知道中途没被动过。这与今天寄重要信件时用封条的道理相通——古人用的是绳、泥与印。",
+   "refs": [
+    "t04-gsjd-document-cover-official"
+   ]
+  },
+  "uncertainty": "印文内容、送达人、所送文书种类未载；原有绳泥印组合未核；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gsjd-imperial-search",
+    "reason": "一封文书从写下到送到要经过许多环节：一件是封缄用的检，一件是逐级传递的御史书，比较传递链条的两端。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-maquan-brush",
+    "reason": "书写与封缄的配套：一支笔写出内容，一块检封住内容，比较同一套文书的两种实物。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-document-cover-official": {
+   "id": "t04-gsjd-document-cover-official",
+   "title": "官方逐件记录：文书检（exhibit_id=38）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=38",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：名称、材质（木检）、年代（汉）、馆方登记出土地（居延破城子）与尺寸（长15.3、宽4.2厘米）；用途为封缄文书，内容包括印章文、送达时间与送达人。未核：原有绳、泥、印的完整组合；不构成照片授权。"
+  }
+ }
+}

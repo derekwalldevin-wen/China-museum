@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-blue-gauze-jacket",
+  "hook": "天青色纱上衣，黑色花边贴着衣缘绕一圈",
+  "summary": "中国国家博物馆藏清代天青纱镶花边女上衣。身长97.5厘米，大襟右衽、立领、宽袖；领围、袖口、襟边与下摆镶宽幅黑色花边，梅竹与蝙蝠等纹样沿边组织。晚清多道镶边属类型背景，馆方记录未给本件镶边道数。",
+  "summaryRefs": [
+   "t02-gb-blue-gauze-jacket-official"
+  ],
+  "sections": [
+   {
+    "title": "先量衣身",
+    "text": "馆方记录给出一个数字：身长97.5厘米。形制是大襟右衽、立领、宽袖。右衽指衣襟向右侧叠压，立领围住颈根，宽袖决定手臂活动的余地。三项放在一起，衣服的穿着方式就交代清楚了。",
+    "refs": [
+     "t02-gb-blue-gauze-jacket-official"
+    ]
+   },
+   {
+    "title": "花边沿哪些边",
+    "text": "镶边出现在四个位置：领围、袖口、襟边与下摆。馆方描述其为宽幅黑色花边，梅竹与蝙蝠等纹样沿边组织。这里说的是装饰部位的分布；花瓣、竹叶的具体形态与配色层次，以馆方描述为准，不据AI示意图判断。",
+    "refs": [
+     "t02-gb-blue-gauze-jacket-official"
+    ]
+   },
+   {
+    "title": "十八镶是背景",
+    "text": "馆方介绍晚清服饰时会谈到“十八镶”一类多道镶边的风气。这是馆方的背景说明，属类型背景，讲的是当时流行的做法。至于这件上衣实际镶了几道边，记录未载，通行的说法不作为它的装饰数量依据。",
+    "refs": [
+     "t02-gb-blue-gauze-jacket-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "纱质轻薄，黑色宽边压在衣缘上，颜色对比因此集中在轮廓线上。装饰收在边缘，衣身大面积保持素净。今天再看，它给出的是关于装饰位置的例子：重点沿着结构走，而不铺满整件衣服。",
+    "refs": [
+     "t02-gb-blue-gauze-jacket-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "馆藏与年代",
+    "text": "中国国家博物馆藏；清代。",
+    "refs": [
+     "t02-gb-blue-gauze-jacket-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "身长97.5厘米。",
+    "refs": [
+     "t02-gb-blue-gauze-jacket-official"
+    ]
+   },
+   {
+    "title": "形制",
+    "text": "大襟右衽、立领、宽袖。",
+    "refs": [
+     "t02-gb-blue-gauze-jacket-official"
+    ]
+   },
+   {
+    "title": "装饰位置",
+    "text": "领围、袖口、襟边与下摆镶宽幅黑色花边；梅竹与蝙蝠等纹样沿边组织。",
+    "refs": [
+     "t02-gb-blue-gauze-jacket-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "染料配方、镶边道数、个人使用与流传记录未载。",
+    "refs": [
+     "t02-gb-blue-gauze-jacket-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把最花的部分放在衣缘？",
+   "answer": "衣缘是视线停留最多的地方：领口贴着面孔，袖口在手上活动，下摆随着步子移动。黑色宽边与纹样集中在这里，装饰跟着身体动态走，衣身保持干净。可以看到一种安排思路：受关注的位置少而集中，整体反而更清楚。",
+   "refs": [
+    "t02-gb-blue-gauze-jacket-official"
+   ]
+  },
+  "uncertainty": "染料配方未载；个人使用、流传与逐次保护修复档案未核；镶边实际道数未载；纹样具体形态与织物组织以馆方描述为准，不据AI示意图判断。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gb-red-embroidered-skirt",
+    "reason": "同为清代女装织物：一件把黑色花边沿领口、袖口与下摆排布，一件靠两侧褶裥与裙摆边饰组织花纹，两处镶边位置可对照观察。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-fish-embroidered-shoes",
+    "reason": "两件都把装饰收在边缘地带：上衣沿衣缘走花边，鞋在鞋面包头与滚边处收口，可以看看边缘装饰在大件与小件织物上各自的收束方式。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t02-gb-blue-gauze-jacket-official": {
+   "id": "t02-gb-blue-gauze-jacket-official",
+   "title": "官方逐件记录：天青纱镶花边女上衣（/zp/zpml/csp/202112/t20211220_253253.shtml）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211220_253253.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：清代天青纱女上衣身长97.5厘米，大襟右衽、立领、宽袖，领围、袖口、襟边与下摆镶宽幅黑色花边，梅竹与蝙蝠等纹样沿边组织。未载：染料配方、镶边道数、个人使用与流传记录；晚清多道镶边属类型背景，不据此计本件装饰数量；不构成照片授权。"
+  }
+ }
+}

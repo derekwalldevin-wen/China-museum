@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-plum-money-pouch",
+  "hook": "系在腰间的方形钱袋",
+  "summary": "中国丝绸博物馆藏民国钱袋。质地丝，外观呈方形，馆方说明使用时系于腰间；以桃红、白、绿、蓝、橙等各色素绢拼缝而成，白绢地上彩绣梅花并以捻金线勾边，外圈黑素缎镶边。长14.9、宽11.6厘米。确切使用者与实际所装钱币未载。",
+  "summaryRefs": [
+   "t04-csm-plum-money-pouch-official"
+  ],
+  "sections": [
+   {
+    "title": "用途写得明确：系于腰间",
+    "text": "这是这一组里少见的、馆方直接说明用途的一件：使用时系于腰间。方形袋体、四边收整，系绳固定在腰带上，取钱时伸手就到。它的尺寸14.9×11.6厘米，正好放得下当时的铜钱或纸币，不至于鼓成一团。",
+    "refs": [
+     "t04-csm-plum-money-pouch-official"
+    ]
+   },
+   {
+    "title": "多色素绢拼缝",
+    "text": "桃红、白、绿、蓝、橙——五种颜色的素绢拼在一起。素绢没有花纹，颜色就是全部的表情。拼缝的做法把几块料子变成一整片袋面：疏密、冷暖由制作者自己安排。这种“多色拼”的做法与同期其他小袋一致。",
+    "refs": [
+     "t04-csm-plum-money-pouch-official"
+    ]
+   },
+   {
+    "title": "白地上的梅花与金边",
+    "text": "在拼缝的诸色之中，白色绢地被选中承载主要纹样：其上用彩色丝线绣梅花，并用捻金线勾边。捻金线是拿金材捻成或包覆的线材，勾在纹样边缘会形成一圈细亮的轮廓。外圈再用黑色素缎镶边，把鲜艳的袋面收束住。",
+    "refs": [
+     "t04-csm-plum-money-pouch-official"
+    ]
+   },
+   {
+    "title": "不知道的部分",
+    "text": "确切使用者未载；实际装过多少钱币、钱币的种类与年代也未载。逐次保护修复档案未核。站内 AI 配图只呈现方形的概括形态，不能用来核验梅花纹的针法、金线的走向与拼缝的分块。",
+    "refs": [
+     "t04-csm-plum-money-pouch-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "用途",
+    "text": "馆方说明使用时系于腰间。",
+    "refs": [
+     "t04-csm-plum-money-pouch-official"
+    ]
+   },
+   {
+    "title": "面料",
+    "text": "桃红、白、绿、蓝、橙等各色素绢拼缝；外圈黑素缎镶边。",
+    "refs": [
+     "t04-csm-plum-money-pouch-official"
+    ]
+   },
+   {
+    "title": "纹样与工艺",
+    "text": "白绢地彩绣梅花，捻金线勾边。",
+    "refs": [
+     "t04-csm-plum-money-pouch-official"
+    ]
+   },
+   {
+    "title": "尺寸与未知",
+    "text": "长14.9、宽11.6厘米；使用者与实际钱币未载。",
+    "refs": [
+     "t04-csm-plum-money-pouch-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么钱袋要用这么多种颜色？",
+   "answer": "因为它天天在人身上、眼前。钱袋是日常用品，也是随身可见的装饰；把几种颜色的绢拼在一起，再绣花、勾金边，是让自己每天看见的物件好看一点。手工时代，这种“好看”并不额外花钱——用的是手边已有的料子与时间。",
+   "refs": [
+    "t04-csm-plum-money-pouch-official"
+   ]
+  },
+  "uncertainty": "确切使用者、钱币种类与数量、制作人未载；捻金线成分未做检测；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "csm-moth-pouch",
+    "reason": "两件钱袋的对照：一件拼缝成蛾形并用粉绦镶边，一件拼缝成方形、金字勾边，比较造型与装饰手法。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-calling-card-bag",
+    "reason": "同为随身收纳：一件装钱系腰，一件装名片，比较用途对尺寸与结构的要求。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-plum-money-pouch-official": {
+   "id": "t04-csm-plum-money-pouch-official",
+   "title": "官方逐件记录：彩绢圈金绣梅花钱袋（itemid=3272）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3272",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；外观呈方形，馆方说明使用时系于腰间；以桃红、白、绿、蓝、橙等各色素绢拼缝而成，其中在白色绢地上用彩色丝线绣梅花纹样，并用捻金线勾边，外圈以黑色素缎镶边；长14.9、宽11.6厘米。未载：确切使用者、实际所装钱币；不构成照片授权。"
+  }
+ }
+}

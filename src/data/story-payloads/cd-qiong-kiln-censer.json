@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cd-qiong-kiln-censer",
+  "hook": "炉身上叠着三重莲瓣，瓣上还有飞天",
+  "summary": "成都博物馆藏邛窑黄绿釉高足瓷炉，成都金河路遗址出土，高15厘米。豆形高足，黄釉口沿与足部围住绿色三重莲瓣，莲瓣上模印飞天；原有的盖子已经缺失。贴塑、模印与釉色在这件器物上叠成了可观察的层次。",
+  "summaryRefs": [
+   "t03-cd-qiong-kiln-censer-official"
+  ],
+  "sections": [
+   {
+    "title": "先从足的形制看",
+    "text": "高15厘米，豆形高足。豆形是仿照高足器的一种样式：下面有承托的足，上面是敞开的器身，中间有明确的界线。这条界线在这件炉上被处理成装饰的边界——黄釉的口沿与足部上下围住中间的绿色部分，器物因此被分成三层来看。",
+    "refs": [
+     "t03-cd-qiong-kiln-censer-official"
+    ]
+   },
+   {
+    "title": "三重莲瓣与模印的飞天",
+    "text": "中间一段是绿色三重莲瓣，层层相叠；莲瓣上还模印着飞天。贴塑是把泥片或泥饰贴到器身上，模印是用模子压出同样的图像——两者叠加，图像不必逐一雕刻，可以重复。釉色则是第三层：黄与绿各自落在不同部位，把分区再强调一次。",
+    "refs": [
+     "t03-cd-qiong-kiln-censer-official"
+    ]
+   },
+   {
+    "title": "缺掉的盖子",
+    "text": "原有盖子已经缺失。带盖的香具少了一半，器形就不再完整，这也是本条不按“完整原状”描写的理由：能看的是现存的部分，缺的部分留待检测，不据示意图补出形状。",
+    "refs": [
+     "t03-cd-qiong-kiln-censer-official"
+    ]
+   },
+   {
+    "title": "今天再看：莲瓣与飞天的位置",
+    "text": "莲瓣与飞天属于佛教艺术中常见的图像元素，馆方只把这些装饰如实记录在炉身上，并未据此确定某一次宗教仪式——这是解释层面的克制。今天再看这件炉，它的意思分两层：图像讲的是信仰世界，器物的高足与口沿讲的是实用结构，两层在一件15厘米的器物上同时成立。逐次保护修复档案未核。",
+    "refs": [
+     "t03-cd-qiong-kiln-censer-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与窑口",
+    "text": "晚唐至五代；馆方定名邛窑。",
+    "refs": [
+     "t03-cd-qiong-kiln-censer-official"
+    ]
+   },
+   {
+    "title": "出土",
+    "text": "成都金河路遗址出土；具体发掘年月未载。",
+    "refs": [
+     "t03-cd-qiong-kiln-censer-official"
+    ]
+   },
+   {
+    "title": "形制与尺寸",
+    "text": "豆形高足；高15厘米；原盖已缺。",
+    "refs": [
+     "t03-cd-qiong-kiln-censer-official"
+    ]
+   },
+   {
+    "title": "装饰",
+    "text": "黄釉口沿与足部围住绿色三重莲瓣，瓣上模印飞天。",
+    "refs": [
+     "t03-cd-qiong-kiln-censer-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "配釉比例、烧成温度、具体发掘年月未载；缺盖部分不据示意图补形。",
+    "refs": [
+     "t03-cd-qiong-kiln-censer-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "用模印做飞天，省下的是什么？",
+   "answer": "省下的是重复劳动。飞天要一层层出现在莲瓣上，若靠手刻，每朵都要重来；用模子压，图像可以复制，尺寸还能保持一致。省下的力气被投到别的工序上——配釉、叠瓣、掌握火候。装饰方法的选择，从来也是工时分配的选择。",
+   "refs": [
+    "t03-cd-qiong-kiln-censer-official"
+   ]
+  },
+  "uncertainty": "具体发掘年月未载；配釉比例与烧成温度未载；原盖形制与缺失原因未载；飞天的具体图像内容不据示意图判断；宗教仪式用途未确定；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按成都博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-incense-burner",
+    "reason": "两件香具的比较：一件靠镂出的孔洞让器壁产生虚实，一件靠贴塑的莲瓣与模印在炉身叠出层次，装饰思路各异，两件的窑口与年代分别来自各自馆方记录。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cd-pottery-courtyard",
+    "reason": "同馆两件后蜀至五代器物的比较：一件以陶塑搭出完整院落，一件以泥片贴塑与模印在炉身叠出层次，可见同一时期工匠在体量与表面装饰上的不同取舍。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-cd-qiong-kiln-censer-official": {
+   "id": "t03-cd-qiong-kiln-censer-official",
+   "title": "官方逐件记录：邛窑黄绿釉高足瓷炉（tangsong/201901/51）",
+   "institution": "成都博物馆",
+   "url": "https://www.cdmuseum.com/tangsong/201901/51.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：晚唐至五代年代；成都金河路遗址出土；高15厘米，豆形高足；黄釉口沿与足部围住绿色三重莲瓣，瓣上模印飞天；原盖已缺。未载：具体发掘年月与配釉比例；馆方对其宗教仪式用途未下结论，缺盖部分留待检测；贴塑、模印与釉色的叠加层次为可观察事实，装饰与仪式动机并列看待；不构成照片授权。"
+  }
+ }
+}

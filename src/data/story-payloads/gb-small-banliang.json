@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-small-banliang",
+  "hook": "直径2.3厘米的小半两",
+  "summary": "中国国家博物馆藏小半两铜钱。直径2.3厘米，1956年在河南陕县后川出土。馆方说明西汉前期的半两比秦半两减轻。本件没有称重记录，币名“半两”与实际重量分属两层。",
+  "summaryRefs": [
+   "t03-gb-small-banliang-official"
+  ],
+  "sections": [
+   {
+    "title": "一条较完整的出土记录",
+    "text": "1956年，河南陕县后川。这条出土信息有年份也有地点，是这一组铜钱里较完整的一例；墓号与出土情境没有记录。",
+    "refs": [
+     "t03-gb-small-banliang-official"
+    ]
+   },
+   {
+    "title": "半两的名字从哪来",
+    "text": "钱名写作“半两”，这是币名。馆方说明西汉前期的半两较秦半两减轻，属馆方的比较说明。本件缺少称重记录，名称与实际重量之间还隔着一份数据。",
+    "refs": [
+     "t03-gb-small-banliang-official"
+    ]
+   },
+   {
+    "title": "直径2.3厘米",
+    "text": "直径来自馆方记录。铸造工序、铜料来源与作坊位置均未载。把它与同组的钱币并看，可以比较尺寸；具体到某一枚的重量与铜料，仍要逐一实测。",
+    "refs": [
+     "t03-gb-small-banliang-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "一枚汉代小钱，背后连着币制的变化。今天再看它，能确定的是年代区间、出土时间地点与直径；一次购买能换到什么，记录没有交代，也不由币名推算。",
+    "refs": [
+     "t03-gb-small-banliang-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土",
+    "text": "1956年河南陕县后川出土；墓号与出土情境未载。",
+    "refs": [
+     "t03-gb-small-banliang-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "直径2.3厘米；称重记录未载。",
+    "refs": [
+     "t03-gb-small-banliang-official"
+    ]
+   },
+   {
+    "title": "年代",
+    "text": "西汉前期；馆方说明此期半两较秦半两减轻。",
+    "refs": [
+     "t03-gb-small-banliang-official"
+    ]
+   },
+   {
+    "title": "币名",
+    "text": "“半两”为币名，与实际重量分属两层。",
+    "refs": [
+     "t03-gb-small-banliang-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "铸造工序、铜料来源与作坊均未载。",
+    "refs": [
+     "t03-gb-small-banliang-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "钱名叫“半两”，它的重量能不能照字面来算？",
+   "answer": "馆方的说明是西汉前期半两较秦半两减轻，减到什么程度没有给出数字；本件又没有称重记录。币名是一层，重量是另一层，中间要靠实测把两者接上。",
+   "refs": [
+    "t03-gb-small-banliang-official"
+   ]
+  },
+  "uncertainty": "称重记录未载；墓号与出土情境未载；铸造工序、铜料来源与作坊未载；币名与实际重量的对应关系留待检测；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gb-dade-coin",
+    "reason": "一件以纪重“半两”入名、一件以年号“大德”入名，比较币名与实际尺寸重量记录之间的距离，两篇都不做换算。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-wuzhu-mould",
+    "reason": "同为国博藏汉代铸币相关器物：一件是1956年出土的成币，一件是寿光出土的铸范，比较出土记录与工具记录各自能回答的问题。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-gb-small-banliang-official": {
+   "id": "t03-gb-small-banliang-official",
+   "title": "官方逐件记录：小半两铜钱（t20181218_25547）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25547.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：直径2.3厘米，1956年在河南陕县后川出土；馆方说明西汉前期半两较秦半两减轻。未载：本件称重记录、墓号与出土情境、铸造工序。边界：币名“半两”与实际重量并列看待，不据此换算购买力，也不补写交易情景。不构成照片授权。"
+  }
+ }
+}

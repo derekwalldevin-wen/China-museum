@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "wh-chicken-ewer",
+  "hook": "前面伸出鸡头，后面盘着龙",
+  "summary": "武汉博物馆藏隋代青瓷龙柄鸡首壶，高12.5厘米，出土于武昌区岳家嘴。胎体厚重，釉色透明；前附一鸡首流，后附一龙形柄，龙首向上至壶口，口衔盘沿。馆方称鸡首壶一类流行于三国两晋南北朝至隋唐，属类型背景。",
+  "summaryRefs": [
+   "t05-wh-chicken-ewer-official"
+  ],
+  "sections": [
+   {
+    "title": "一件小壶",
+    "text": "高12.5厘米，胎体厚重，釉色透明，三项都出自官方记录。壶的体量不大，拿在手里合适；胎厚使它比同尺寸的薄胎器更压手，透明的釉层盖在胎上。",
+    "refs": [
+     "t05-wh-chicken-ewer-official"
+    ]
+   },
+   {
+    "title": "前面的鸡首",
+    "text": "前附一鸡首流。流是壶上出水的口，做成鸡首的形状，倒水时水从鸡嘴的位置出去。鸡首的具体塑法与冠、喙等细部，官方文字没有细说，不据示意图判断。",
+    "refs": [
+     "t05-wh-chicken-ewer-official"
+    ]
+   },
+   {
+    "title": "后面的龙柄",
+    "text": "后附一龙形柄，龙首向上到壶口，口衔盘沿。柄是提握的地方，做成龙形之后，龙首与壶口相接，手柄与壶身连成一体。馆方描述为把动物造型融入实用器器体之中，属对造型手法的评述。",
+    "refs": [
+     "t05-wh-chicken-ewer-official"
+    ]
+   },
+   {
+    "title": "流行的器形与这一件",
+    "text": "馆方称鸡首壶是壶体流部塑成鸡首状的一类器物的统称，从三国两晋南北朝到隋唐都比较流行；这是类型背景，说明这类壶出现过的时间跨度，与这一件的年代是两件事，本条年代依字段作隋。这件壶出土于武昌区岳家嘴，出土年份、墓号与墓主未载，不虚构具体墓主。今天再看，鸡头与龙柄各自拟形，倒水与提握仍是壶要做的事。",
+    "refs": [
+     "t05-wh-chicken-ewer-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与尺寸",
+    "text": "隋；高12.5厘米。",
+    "refs": [
+     "t05-wh-chicken-ewer-official"
+    ]
+   },
+   {
+    "title": "出土",
+    "text": "武昌区岳家嘴；出土年份未载。",
+    "refs": [
+     "t05-wh-chicken-ewer-official"
+    ]
+   },
+   {
+    "title": "胎釉",
+    "text": "胎体厚重，釉色透明。",
+    "refs": [
+     "t05-wh-chicken-ewer-official"
+    ]
+   },
+   {
+    "title": "结构",
+    "text": "前附鸡首流，后附龙形柄；龙首向上至壶口，口衔盘沿。",
+    "refs": [
+     "t05-wh-chicken-ewer-official"
+    ]
+   },
+   {
+    "title": "类型背景",
+    "text": "馆方称鸡首壶流行于三国两晋南北朝至隋唐，属类型背景。",
+    "refs": [
+     "t05-wh-chicken-ewer-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把壶做成动物的样子？",
+   "answer": "鸡首的位置正是出水的口，龙柄的位置正是手要握的地方。动物形落在这两处，造型与功能就对上了：一个负责倒水，一个负责提壶。馆方称这类做法把动物造型融入实用器器体；当时人是否另有寓意，记录没有说明。",
+   "refs": [
+    "t05-wh-chicken-ewer-official"
+   ]
+  },
+  "uncertainty": "出土年份、墓号、墓主与发现者未载；烧制温度、釉料检测与工匠姓名未载；鸡首与龙柄的细部不据示意图判断；鸡首壶一类流行的时段属类型背景；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "wh-tiger-vessel",
+    "reason": "同属青瓷动物形器物：一件以鸡首作出水口、以龙首作柄，一件把虎口张成圆孔、虎尾卷成提梁，看动物形分别落在壶的哪一处结构上。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "wh-mother-candlestick",
+    "reason": "同为把形象接到实用器物上的做法：一件让鸡首与龙首服务于倒水和提握，一件把妇人抱子的形象做成烛台座与插烛的筒形高髻。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-wh-chicken-ewer-official": {
+   "id": "t05-wh-chicken-ewer-official",
+   "title": "官方逐件记录：青瓷龙柄鸡首壶（exhibitId=75ac577b1961832baedc748cab0d73f3）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/75ac577b1961832baedc748cab0d73f3",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：隋代青瓷龙柄鸡首壶，高12.5厘米，出土于武昌区岳家嘴；胎体厚重，釉色透明，前附一鸡首流，后附一龙形柄，龙首向上至壶口并口衔盘沿。馆方称鸡首壶一类流行于三国两晋南北朝至隋唐，属类型背景。未载：出土年份、墓号与墓主；鸡首与龙柄细部不据示意图判断；不构成照片授权。"
+  }
+ }
+}

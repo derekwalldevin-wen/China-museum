@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "sz-black-pot",
+  "hook": "陶壶上嵌着铜钉",
+  "summary": "深圳博物馆藏西汉黑陶嵌铜泡钉双耳壶。高20.5、口径13.4厘米，2010年经捐赠入藏。馆方年代字段分为两说（总栏与具体栏不一致），本条采用具体栏的公元前206年至公元8年。",
+  "summaryRefs": [
+   "t01-sz-black-pot-official"
+  ],
+  "sections": [
+   {
+    "title": "名称即是描述",
+    "text": "“黑陶嵌铜泡钉双耳壶”——名字把要点说全了：胎是黑陶，器表嵌有铜泡钉，两侧有双耳，器形是壶。高20.5、口径13.4厘米，是一件可以用双手捧起的容器；双耳可穿绳提系，也可能只是陈设上的对称结构。",
+    "refs": [
+     "t01-sz-black-pot-official"
+    ]
+   },
+   {
+    "title": "两种材料的组合",
+    "text": "陶与铜是两种性质不同的材料：一个烧成于窑火，一个铸造于范中。把它们组合在一件器物上，说明制作时经过了两道互相关联的工序，也说明当时的手工场能够处理这种拼接。至于铜泡钉是烧成前还是烧成后装上，本条资料没有交代，所以不写具体步骤。",
+    "refs": [
+     "t01-sz-black-pot-official"
+    ]
+   },
+   {
+    "title": "年代口径的取舍",
+    "text": "官方记录的年代总栏与具体栏不一致。具体栏写公元前206年至公元8年——这正是西汉一朝的时间范围。本条采用具体栏，并把两说并存的情况写在来源说明里：避免让一处笼统的时段覆盖掉更精确的记录。",
+    "refs": [
+     "t01-sz-black-pot-official"
+    ]
+   },
+   {
+    "title": "空白处",
+    "text": "原使用场景、出土地点与铜钉的具体安装工序，记录都没有交代；2010年经捐赠入藏，说明它不是考古发掘品。逐次保护修复档案未核。它现在的身份是一件西汉陶壶，陶胎上嵌着铜泡钉。",
+    "refs": [
+     "t01-sz-black-pot-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "尺寸",
+    "text": "高20.5、口径13.4厘米。",
+    "refs": [
+     "t01-sz-black-pot-official"
+    ]
+   },
+   {
+    "title": "年代",
+    "text": "具体栏作公元前206年至公元8年（总栏另说，并列保留）。",
+    "refs": [
+     "t01-sz-black-pot-official"
+    ]
+   },
+   {
+    "title": "结构",
+    "text": "黑陶胎，嵌铜泡钉；双耳。",
+    "refs": [
+     "t01-sz-black-pot-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "使用场景、出土地点与嵌钉工序未载。",
+    "refs": [
+     "t01-sz-black-pot-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "陶器上为什么要嵌铜钉？",
+   "answer": "铜泡钉在光下有金属光泽，与黑陶的哑光对比明显，装饰效果一望可知。也可能是为了加固或模仿其他材质的效果。哪一种为主，本条资料没有说明；能确定的是，做它的人愿意多费一道跨材料的工序。",
+   "refs": [
+    "t01-sz-black-pot-official"
+   ]
+  },
+  "uncertainty": "年代总栏与具体栏不一致（本条采用具体栏）；使用场景、出土地点与嵌钉工序未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全；年代分歧并列保留。",
+  "related": [
+   {
+    "id": "sz-proto-he",
+    "reason": "同馆两件早期器物：一件是陶胎嵌铜钉的壶，一件是原始青瓷盉，比较材质与提持结构的安排。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-tricolor-horse",
+    "reason": "装饰的两种做法：一件在胎体上镶嵌金属，一件靠釉色交融显色，比较不同时代的手段。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t01-sz-black-pot-official": {
+   "id": "t01-sz-black-pot-official",
+   "title": "官方逐件记录：黑陶嵌铜泡钉双耳壶（resId=3bb9195d…）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=3bb9195df3ff4e6fb9e70ca6fca8ef49",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：西汉（馆方具体年代栏作公元前206年至公元8年）；黑陶嵌铜泡钉双耳壶；高20.5、口径13.4厘米；2010年经捐赠入藏。年代口径：总栏与具体栏不一致，本条采用具体栏。未载：原使用场景、出土地点与铜钉安装工序，不编造烧后嵌钉步骤；不构成照片授权。"
+  }
+ }
+}

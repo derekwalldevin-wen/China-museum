@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "wh-many-foot-inkstone",
+  "hook": "砚面中间留出一块不施釉的地方",
+  "summary": "武汉博物馆藏南北朝多足青瓷砚，直径22.5厘米。用来研墨的浅盘式砚堂中心微微向上隆起，不施釉以便研磨；砚边施釉，馆方解释为保护墨汁使其不干燥；砚身下方有多只兽足环绕支撑。馆方称多足砚是隋唐“辟雍砚”的雏形，属形制比较。",
+  "summaryRefs": [
+   "t05-wh-many-foot-inkstone-official"
+  ],
+  "sections": [
+   {
+    "title": "隆起的那块面",
+    "text": "砚堂是砚上研墨的地方。馆方描述为浅盘式，中心微微向上隆起，并且不施釉，写明这是为了便于研磨；砚面与釉面的手感差别，可以从这一点去理解。这处隆起与四周的釉面形成两种表面。",
+    "refs": [
+     "t05-wh-many-foot-inkstone-official"
+    ]
+   },
+   {
+    "title": "砚边为什么上釉",
+    "text": "砚边施釉。馆方解释为保护墨汁、使其不干燥，属器具使用上的解释。于是砚面分成两处：中间留出无釉的研磨面，边缘收一圈釉。",
+    "refs": [
+     "t05-wh-many-foot-inkstone-official"
+    ]
+   },
+   {
+    "title": "下方一圈兽足",
+    "text": "砚身下方有多只兽足环绕支撑。兽足以环列的方式托起砚身，属器形的一部分；它们的只数与每一只的造型，官方文字没有给出数目，不据示意图清点。",
+    "refs": [
+     "t05-wh-many-foot-inkstone-official"
+    ]
+   },
+   {
+    "title": "两说并列与今天再看",
+    "text": "朝代字段作南北朝，馆方正文则泛称魏晋南北朝时期；两说并列，本条采用字段的南北朝作为限缩表述。馆方又称多足砚是隋唐“辟雍砚”的雏形，这是形制上的比较，属类型背景，并未建立本件与某一具体隋唐砚之间的直接传承关系。出土地点与墓号未载。今天再看，一圈小足把砚台托成了带器座的小盘。",
+    "refs": [
+     "t05-wh-many-foot-inkstone-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与尺寸",
+    "text": "南北朝；直径22.5厘米。正文泛称魏晋南北朝时期，两说并列。",
+    "refs": [
+     "t05-wh-many-foot-inkstone-official"
+    ]
+   },
+   {
+    "title": "砚面",
+    "text": "浅盘式砚堂中心微微向上隆起，不施釉以便研磨。",
+    "refs": [
+     "t05-wh-many-foot-inkstone-official"
+    ]
+   },
+   {
+    "title": "边缘",
+    "text": "砚边施釉；馆方解释为保护墨汁使其不干燥。",
+    "refs": [
+     "t05-wh-many-foot-inkstone-official"
+    ]
+   },
+   {
+    "title": "底座",
+    "text": "砚身下方有多只兽足环绕支撑。",
+    "refs": [
+     "t05-wh-many-foot-inkstone-official"
+    ]
+   },
+   {
+    "title": "形制比较",
+    "text": "馆方称多足砚是隋唐“辟雍砚”的雏形，属形制比较。",
+    "refs": [
+     "t05-wh-many-foot-inkstone-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "砚面为什么留出一块不上釉的地方？",
+   "answer": "墨要在粗糙一些的面上才好研开。馆方写明这处不施釉是为了方便研磨，砚边施釉则为了让墨汁不干。同一件器物上，两种表面各自完成一件事：中间留住墨锭，边缘护住墨汁。",
+   "refs": [
+    "t05-wh-many-foot-inkstone-official"
+   ]
+  },
+  "uncertainty": "出土地点、墓号与发现者未载；烧制温度、工具、工匠姓名与釉料检测未载；兽足只数不据示意图清点；与隋唐辟雍砚的关系属形制比较；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。年代字段与正文表述分歧并列保留。",
+  "related": [
+   {
+    "id": "wh-chengni-inkstone",
+    "reason": "同为武汉博物馆藏砚类器物：一件是南北朝多足青瓷砚，一件是宋代抄手陶砚，看研磨面的处理与底部支撑结构怎样各成一路。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "wh-tiger-vessel",
+    "reason": "同属青瓷日用器：一件以多只兽足托起研磨面，一件把虎形包住开口并让虎尾卷成提梁，看动物形与器用结构怎样结合。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-wh-many-foot-inkstone-official": {
+   "id": "t05-wh-many-foot-inkstone-official",
+   "title": "官方逐件记录：多足青瓷砚（exhibitId=ec457ba22a1bc41a36c0841574a10293）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/ec457ba22a1bc41a36c0841574a10293",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南北朝多足青瓷砚，直径22.5厘米；浅盘式砚堂中心微微向上隆起且不施釉，砚边施釉，砚身下方有多只兽足环绕支撑。馆方称多足砚是隋唐“辟雍砚”的雏形，属形制比较。未载：出土地点、墓号与发现者；兽足只数不据示意图清点；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-bell-ornament",
+  "hook": "钟形的小饰件，两面各一种颜色",
+  "summary": "中国丝绸博物馆藏民国丝织小饰件。外观呈钟形，两面分别以红、绿色素缎为主要面料，其上用彩色丝线绣花卉纹样，长10.4、宽8.5厘米。具体悬挂场景官方未说明。",
+  "summaryRefs": [
+   "t04-csm-bell-ornament-official"
+  ],
+  "sections": [
+   {
+    "title": "形与面",
+    "text": "官方记录的描述是：外观呈钟形，两面各以红、绿色素缎做主要面料，其上用彩色丝线绣花卉纹样。也就是同一件小物，两面颜色不同——一面红、一面绿。这种双面做法在小饰件里很常见，佩挂时无论从哪边看都是完整的一面。",
+    "refs": [
+     "t04-csm-bell-ornament-official"
+    ]
+   },
+   {
+    "title": "“钟形”是描述而不是用途",
+    "text": "记录用“钟形”形容轮廓：上窄下阔，像一口钟。名字叫“小饰件”，说明它属于装饰性物件。它具体挂在哪里、怎么用——官方记录没有说明。因此本条不写“挂在帐钩上”或“系在腰带上”，这类场景需要证据，不是凭形状猜出来的。",
+    "refs": [
+     "t04-csm-bell-ornament-official"
+    ]
+   },
+   {
+    "title": "素缎与彩绣",
+    "text": "主要面料是素缎——也就是不提花的缎织物；上面的花卉纹样靠绣，而不是靠织。素缎平整、有光泽，适合作为绣地；彩线绣上去后，颜色对比明显。10.4×8.5厘米的尺寸，是随身或悬挂小物的常见体量。",
+    "refs": [
+     "t04-csm-bell-ornament-official"
+    ]
+   },
+   {
+    "title": "还能确定的边界",
+    "text": "年代为民国，质地为丝，这些来自官方登记。制作人、物主、入藏经过、逐次保护修复档案，均未载。站内配图是 AI 概括示意，两面绣纹的排布、花卉种类都不能据图辨认——花卉名称本条也不指定。",
+    "refs": [
+     "t04-csm-bell-ornament-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "外观",
+    "text": "钟形，两面各以红、绿色素缎为主要面料。",
+    "refs": [
+     "t04-csm-bell-ornament-official"
+    ]
+   },
+   {
+    "title": "工艺",
+    "text": "其上用彩色丝线绣花卉纹样。",
+    "refs": [
+     "t04-csm-bell-ornament-official"
+    ]
+   },
+   {
+    "title": "尺寸与年代",
+    "text": "长10.4、宽8.5厘米；民国。",
+    "refs": [
+     "t04-csm-bell-ornament-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "具体悬挂与使用场景未说明；不据器形编造用途。",
+    "refs": [
+     "t04-csm-bell-ornament-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么一件小饰件要把两面都做完整？",
+   "answer": "因为它会被翻动。佩挂的物件随人走动而旋转，两面都绣满，就不会出现“背面是空的”这种尴尬。做两面比做一面费工，但换来的是一整件小物都能看。",
+   "refs": [
+    "t04-csm-bell-ornament-official"
+   ]
+  },
+  "uncertainty": "使用与悬挂场景、制作人、物主未载；花卉种类不作认定；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "csm-calling-card-bag",
+    "reason": "同为民国小件：一件是钟形饰件，一件是装名片的袋子，比较装饰性与实用性的分工。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-moth-pouch",
+    "reason": "都是两面对称的小物：一件钟形双色绣花，一件略似飞蛾形的拼缝钱袋，比较形制与拼料做法。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-bell-ornament-official": {
+   "id": "t04-csm-bell-ornament-official",
+   "title": "官方逐件记录：红绿缎绣花卉小饰件（itemid=3284）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3284",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；外观呈钟形，两面各以红、绿色素缎做主要面料，其上以彩色丝线绣花卉纹样；长10.4、宽8.5厘米。未载：具体悬挂或使用场景；不据器形编造用途；不构成照片授权。"
+  }
+ }
+}

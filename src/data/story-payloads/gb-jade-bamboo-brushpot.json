@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-jade-bamboo-brushpot",
+  "hook": "一支笔筒，外壁长成了竹子",
+  "summary": "中国国家博物馆藏明代玉竹节纹笔筒，高10.5厘米。绿色圆桶形，外壁分出七节，底有三足；内壁光素，与外壁的竹节形成对照。馆方明确本件年代；作者、使用者与玉料矿源没有记录。",
+  "summaryRefs": [
+   "t03-gb-jade-bamboo-brushpot-official"
+  ],
+  "sections": [
+   {
+    "title": "先看外形",
+    "text": "馆方记录写得很具体：高10.5厘米，绿色圆桶器，外壁分出七节，底有三足。竹子是按节生长的，笔筒的外壁也就一节一节地起棱；三个短足把桶身从桌面上托起。这一件的高度不及一掌，放在案头，节与棱就是它最容易被看到的特征。",
+    "refs": [
+     "t03-gb-jade-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "内壁光素，外壁起节",
+    "text": "馆方指出内壁光素与外壁竹节形成对照。内壁要放笔，表面处理得平整，取放时不刮笔杆；外壁做出节与棱，光落在上面就有了明暗起伏。同一件器物，一面服务使用，一面服务观看，两种表面在同一块玉料上分工。",
+    "refs": [
+     "t03-gb-jade-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "琢刻与抛光之间",
+    "text": "阴线竹节、三足与抛光这几项有据。至于节与棱是先做出形体再收拾表面，还是逐段琢刻成形，琢刻工具究竟是什么，馆方记录未载，留待工艺检测。竹节题材在明清文房器物上并不少见，读作气节一类的比喻，属类型背景；把这个比喻落到某一位文人身上，缺少证据。",
+    "refs": [
+     "t03-gb-jade-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看这样一件笔筒，它的看点落在玉色与节棱的配合上：材料本身温润，形体却是有棱有节的。需要留一句：示意图为AI生成，七节与三足的数量、阴线的走向要以馆方文字记录为准，不据示意图判断。作者、使用者与玉料矿源未载，逐次保护修复档案未核。",
+    "refs": [
+     "t03-gb-jade-bamboo-brushpot-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "馆藏与年代",
+    "text": "中国国家博物馆藏；馆方定为明代。",
+    "refs": [
+     "t03-gb-jade-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高10.5厘米。",
+    "refs": [
+     "t03-gb-jade-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "形制",
+    "text": "绿色圆桶形；外壁分出七节，底有三足；内壁光素。",
+    "refs": [
+     "t03-gb-jade-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "工艺",
+    "text": "阴线竹节、三足与抛光可核；琢刻工具未载。",
+    "refs": [
+     "t03-gb-jade-bamboo-brushpot-official"
+    ]
+   },
+   {
+    "title": "未载与提示",
+    "text": "作者、使用者、玉料矿源与旧藏入藏经过未载；示意图为AI生成，节数与器形不据它判断。",
+    "refs": [
+     "t03-gb-jade-bamboo-brushpot-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把笔筒的外壁做成竹节的样子？",
+   "answer": "竹子分段，笔筒也就有了节。这样做有两个好处：手上摸得到起伏，光下看得见层次。谁做的、给谁用的，记录里没有答案。可以确定的是，节与棱让这个圆桶不至于沉默。",
+   "refs": [
+    "t03-gb-jade-bamboo-brushpot-official"
+   ]
+  },
+  "uncertainty": "作者、使用者与玉料矿源未载；琢刻工具、旧藏与入藏经过未载；竹节寓意无具体人物对应；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-bamboo-brushpot",
+    "reason": "同是笔筒，一件以真竹为材，一件用玉仿出竹节与三足，可以比较两种材料的节、棱处理差别。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-changsha-ewer",
+    "reason": "器表主题的两种做法：一件把竹节刻成器形的一部分，一件把椰枣纹贴塑在注子腹部，可以比较装饰与器形的关系。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-gb-jade-bamboo-brushpot-official": {
+   "id": "t03-gb-jade-bamboo-brushpot-official",
+   "title": "官方逐件记录：玉竹节纹笔筒（/zp/zpml/201812/t20181218_24622.shtml）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24622.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方逐件记录给出明代年代、高10.5厘米、绿色圆桶器外壁分出七节、底有三足，内壁光素与外壁竹节形成对照。未载：作者、使用者、玉料矿源与旧藏入藏经过；琢刻工具未载；不构成照片授权。"
+  }
+ }
+}

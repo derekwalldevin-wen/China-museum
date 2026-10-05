@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-carved-brushpot",
+  "hook": "一只木笔筒，外壁刻着人物",
+  "summary": "深圳博物馆藏清代雕人物纹木笔筒，高12.3厘米，1996年由九龙海关移交入藏。木材与人物雕刻构成案头器物的两层观察：器形交代用途，雕刻交代图像。作者、所刻人物的身份与木种，官方记录没有给出。",
+  "summaryRefs": [
+   "t03-sz-carved-brushpot-official"
+  ],
+  "sections": [
+   {
+    "title": "案头器物的一层",
+    "text": "笔筒高12.3厘米，木质。案头器物先要解决放置的问题：笔杆竖着插进去，筒壁要够直，底要稳。这个高度与一握之量相当，摆在桌面上占地不多。馆方以“清雕人物纹木笔筒”定名，器形与用途在这一层是清楚的。",
+    "refs": [
+     "t03-sz-carved-brushpot-official"
+    ]
+   },
+   {
+    "title": "雕刻的一层",
+    "text": "外壁雕人物纹，这是馆方定名里给出的图像信息。生成图只概括雕刻的疏密与轮廓，不据示意图辨认人物身份，也不点清人物数量。所刻情节出自哪段故事、是否与某位名家的题材习惯相符，记录都没有给出，顺手补一段文学故事并不合适。",
+    "refs": [
+     "t03-sz-carved-brushpot-official"
+    ]
+   },
+   {
+    "title": "1996年的那次移交",
+    "text": "1996年九龙海关把它移交入藏。海关移交属于现代收藏史，能说明入藏渠道，不能说明它在清代属于谁。移交之前的经历，官方页面未载。",
+    "refs": [
+     "t03-sz-carved-brushpot-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "木器比瓷器更怕湿度与磕碰，一件清代木笔筒能保住筒身与雕刻，本身就说明它曾被较仔细地保存。这层判断属当代阐释，无法替代出土地与旧主信息。木种、作者、原有主人与使用经过，官方记录未载；逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-carved-brushpot-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与材质",
+    "text": "馆方定为清代；木质，具体木种未载。",
+    "refs": [
+     "t03-sz-carved-brushpot-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高12.3厘米。",
+    "refs": [
+     "t03-sz-carved-brushpot-official"
+    ]
+   },
+   {
+    "title": "装饰",
+    "text": "外壁雕人物纹，为馆方定名所含的图像信息。",
+    "refs": [
+     "t03-sz-carved-brushpot-official"
+    ]
+   },
+   {
+    "title": "入藏",
+    "text": "1996年九龙海关移交入藏；属现代收藏史。",
+    "refs": [
+     "t03-sz-carved-brushpot-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "作者、所刻人物身份、木种与雕刻技法细节未载；人物形象不据示意图辨认。",
+    "refs": [
+     "t03-sz-carved-brushpot-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "木笔筒上的雕刻，为什么值得单看而不只看器形？",
+   "answer": "因为器形只交代用途，雕刻才交代这件东西被怎样对待。同一形的笔筒，刻人物与素面是两种做法。馆方把图像写进了器名，观察时它也就成了主要内容之一；至于图像的含义与作者，记录未载。",
+   "refs": [
+    "t03-sz-carved-brushpot-official"
+   ]
+  },
+  "uncertainty": "木种、作者与所刻人物身份未载；原有主人与使用经过未载；人物纹含义无馆方解释；不据示意图辨认人物或清点数量；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-bamboo-brushpot",
+    "reason": "同为笔筒类案头用具：一件以竹为材，一件以木为材，比较两种材料在表面处理与雕刻深浅上的差别。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-tin-gourd-ewer",
+    "reason": "两件都于1996年由九龙海关移交入藏：木笔筒的信息来自外壁雕刻，锡壶的信息来自底部年号款，比较两种线索出现的部位。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-carved-brushpot-official": {
+   "id": "t03-sz-carved-brushpot-official",
+   "title": "官方逐件记录：清雕人物纹木笔筒（f27f63b26ce94e60acb38a4f2bea15d8）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=f27f63b26ce94e60acb38a4f2bea15d8",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方定为清代；高12.3厘米；1996年由九龙海关移交入藏；外壁雕人物纹，木材与雕刻构成两层观察。未载：木种、作者与所刻人物身份；人物形象不据生成图辨认；不构成照片授权。"
+  }
+ }
+}

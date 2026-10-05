@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-short-jacket",
+  "hook": "短袖、系带、腋下开衩",
+  "summary": "中国丝绸博物馆藏明永乐短袖夹衣。黄色，对襟、直领，领缘贴刺绣花卉纹花边，门襟处有两根系带，两边腋下开衩；长61、胸围78、通袖长120、下摆宽91厘米。题名作“素罗”，正文称用1/1平纹绢制成，两个口径并列保留。",
+  "summaryRefs": [
+   "t04-csm-short-jacket-official"
+  ],
+  "sections": [
+   {
+    "title": "一件为了活动而设计的衣服",
+    "text": "官方记录给出四个结构要点：对襟、直领；领缘贴刺绣花卉纹花边；门襟处有两根系带；两边腋下开衩。腋下开衩尤其值得注意——它让手臂活动时衣身不被拉扯。短袖配上开衩，是一件适合日常与劳作的形制。",
+    "refs": [
+     "t04-csm-short-jacket-official"
+    ]
+   },
+   {
+    "title": "系带代替纽扣",
+    "text": "门襟处有两根系带。传统服饰常用系带闭合：两条带子相对打结，既可收紧，也便于解开；坏了容易更换，不必在衣料上开孔装扣。两根系带的位置说明这件衣服的前襟是分开的两片，靠带子相系。",
+    "refs": [
+     "t04-csm-short-jacket-official"
+    ]
+   },
+   {
+    "title": "罗还是绢",
+    "text": "题名写“素罗短袖夹衣”，正文却写“用1/1平纹绢制成”。罗与绢是两种不同组织：罗以绞经形成孔眼，绢是平纹。本条不替馆方选定，两个口径并列，并标注组织待核。这一点必须强调：不能因为题名写了“罗”，就据此描述它的透孔与轻盈。",
+    "refs": [
+     "t04-csm-short-jacket-official"
+    ]
+   },
+   {
+    "title": "尺寸与缺项",
+    "text": "长61、胸围78、通袖长120、下摆宽91厘米。短袖配通袖120厘米，与长袖夹衣的通袖198厘米形成明显对照。物主、出土地与逐次保护修复档案均未载；领缘刺绣的花卉种类，本条不作认定。",
+    "refs": [
+     "t04-csm-short-jacket-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "形制",
+    "text": "对襟、直领；门襟两系带；两边腋下开衩；短袖。",
+    "refs": [
+     "t04-csm-short-jacket-official"
+    ]
+   },
+   {
+    "title": "装饰",
+    "text": "领缘贴刺绣花卉纹花边。",
+    "refs": [
+     "t04-csm-short-jacket-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长61、胸围78、通袖长120、下摆宽91厘米。",
+    "refs": [
+     "t04-csm-short-jacket-official"
+    ]
+   },
+   {
+    "title": "材质冲突",
+    "text": "题名作罗、正文作1/1平纹绢，并列待核。",
+    "refs": [
+     "t04-csm-short-jacket-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么要在腋下开一道衩？",
+   "answer": "为了抬手。衣服在腋下最容易绷住，开衩等于给手臂留出活动的余地；出汗多的部位也便于透气。这类设计看着不起眼，却是穿着者日复一日的经验积累——衣服的形制，常常就是这样被用出来的。",
+   "refs": [
+    "t04-csm-short-jacket-official"
+   ]
+  },
+  "uncertainty": "题名“罗”与正文“平纹绢”冲突，组织待核；物主、出土地与工匠未载；领缘花卉种类不作认定；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；材质口径冲突并列保留。",
+  "related": [
+   {
+    "id": "csm-long-jacket",
+    "reason": "长短两袖的对照：同为对襟直领夹衣，一件通袖198厘米，一件120厘米并腋下开衩，比较活动需求对形制的影响。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-plain-skirt",
+    "reason": "上衣与下裳的搭配：一件短袖夹衣与一条百褶裙，比较明代服饰的成套结构，不据此推断同属一人。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-short-jacket-official": {
+   "id": "t04-csm-short-jacket-official",
+   "title": "官方逐件记录：绣花卉纹缘素罗短袖夹衣（itemid=1892）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1892",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明永乐、质地丝、色泽黄、数量1件；衣服对襟、直领，领缘贴有刺绣花卉纹花边，门襟处有两根系带，两边腋下开衩；长61、胸围78、通袖长120、下摆宽91厘米。冲突照录：题名作“素罗”，正文称用1/1平纹绢制成，两个口径并列不判；组织待核；不构成照片授权。"
+  }
+ }
+}

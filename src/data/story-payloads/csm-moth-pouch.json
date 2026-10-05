@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-moth-pouch",
+  "hook": "像一只飞蛾的小钱袋",
+  "summary": "中国丝绸博物馆藏民国钱袋。质地丝，外观略似飞蛾形，上端有系绳，以红、绿、蓝、黑等各色绸缎拼缝而成，其上彩绣石榴及花虫纹样，外圈用粉色绦带镶边。长10.7、宽16.7厘米。昆虫不作种属认定。",
+  "summaryRefs": [
+   "t04-csm-moth-pouch-official"
+  ],
+  "sections": [
+   {
+    "title": "“略似飞蛾形”是馆方的形容",
+    "text": "官方记录用“略似飞蛾形”来描述外观，并把它称为钱袋。这是形状的比拟：上窄下阔、两侧舒展，轮廓让人联想到张开的蛾翅。需要强调的是，这只是形态描述——不能据此推断它一定与飞蛾的寓意有关，更不能推断物主喜欢什么。",
+    "refs": [
+     "t04-csm-moth-pouch-official"
+    ]
+   },
+   {
+    "title": "拼缝：几块料子配在一起",
+    "text": "红、绿、蓝、黑等各色绸缎拼缝而成。拼缝的做法在小件里很常见：手边有不同颜色、不同大小的料子，就按形制裁开、拼接起来。这样既省料，也自然形成块面效果；再在外圈加一道粉色绦带镶边，把整件收住。",
+    "refs": [
+     "t04-csm-moth-pouch-official"
+    ]
+   },
+   {
+    "title": "石榴与花虫",
+    "text": "纹样被记为石榴及花虫。“花虫”是泛称，指花卉与昆虫一类题材。这里要说明：站内配图是 AI 概括示意，本条不据图像确定昆虫的种属（是蜂、是蝶还是别的），也不把馆方的纹样名称改写成具体的物种名。",
+    "refs": [
+     "t04-csm-moth-pouch-official"
+    ]
+   },
+   {
+    "title": "作为钱袋",
+    "text": "上端有一系绳——系绳是钱袋的常见配置：束口、悬挂，或系在衣带里。它以“钱袋”入藏，说明馆方对用途的判断是收纳钱币。至于谁用过、装过多少钱、什么时候做的，官方记录未载；逐次保护修复档案未核。",
+    "refs": [
+     "t04-csm-moth-pouch-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "外观与形制",
+    "text": "略似飞蛾形，上端有系绳；馆方称为钱袋。",
+    "refs": [
+     "t04-csm-moth-pouch-official"
+    ]
+   },
+   {
+    "title": "面料",
+    "text": "红、绿、蓝、黑等各色绸缎拼缝；外圈粉色绦带镶边。",
+    "refs": [
+     "t04-csm-moth-pouch-official"
+    ]
+   },
+   {
+    "title": "纹样与尺寸",
+    "text": "彩绣石榴及花虫纹样；长10.7、宽16.7厘米。",
+    "refs": [
+     "t04-csm-moth-pouch-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "昆虫不作种属认定；物主与入藏经过未载。",
+    "refs": [
+     "t04-csm-moth-pouch-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么小件喜欢用几块不同颜色的料子拼起来？",
+   "answer": "因为省钱也省料。做一件小袋，用一整块新料并不划算；把零碎的好料拼起来，既用尽了手边的材料，又自然出现色彩块面。粉绦带镶边把拼缝的边界统一收住，整件看上去就完整了。",
+   "refs": [
+    "t04-csm-moth-pouch-official"
+   ]
+  },
+  "uncertainty": "昆虫种属不作认定；物主、制作人与入藏经过未载；纹样细节不据AI图核对；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "csm-plum-money-pouch",
+    "reason": "两件钱袋：一件以多色绸缎拼缝成蛾形，一件以多色素绢拼缝成方形，比较拼缝做法与镶边。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-bell-ornament",
+    "reason": "都是多色拼料的小件：一件钟形饰件，一件蛾形钱袋，比较外观比拟与实际用途。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-moth-pouch-official": {
+   "id": "t04-csm-moth-pouch-official",
+   "title": "官方逐件记录：彩绸绣石榴花虫荷包（itemid=3275）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3275",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；外观略似飞蛾形，上端有一系绳，以红、绿、蓝、黑等各色绸缎拼缝而成，其上以彩色丝线绣石榴及花虫纹样，外圈用粉色绦带镶边；长10.7、宽16.7厘米；馆方称其为钱袋。未载：物主与入藏经过；昆虫不作种属认定；不构成照片授权。"
+  }
+ }
+}

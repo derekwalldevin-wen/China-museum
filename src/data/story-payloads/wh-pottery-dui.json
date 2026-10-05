@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "wh-pottery-dui",
+  "hook": "盖子翻过来也是一只碗",
+  "summary": "武汉博物馆藏战国黑陶敦，通高29厘米，武汉市新洲区辛冲出土。敦是古代盛黍、稷的器具；这件为泥质黑陶，器盖与器身同形，合之成圆球状，盖可取下倒置使用，盖钮与器足为三个S形组成。出土年份、墓号与物主未知。",
+  "summaryRefs": [
+   "t05-wh-pottery-dui-official"
+  ],
+  "sections": [
+   {
+    "title": "合起来是一个球",
+    "text": "馆方描述：器盖和器身同形，合之成圆球状。上下两半形状一致，说明制器时器盖与器身按同一套做法成型，扣合之后轮廓连续。通高29厘米，是盖上之后的总高。",
+    "refs": [
+     "t05-wh-pottery-dui-official"
+    ]
+   },
+   {
+    "title": "盖子取下来还能用",
+    "text": "记录写明盖可取下倒置使用。盖翻转过来，原本的钮朝下成为支点，原先朝上的面成为盛放空间，一件器因此有两处可以装东西。这个用法由结构决定，不需要另配附件。",
+    "refs": [
+     "t05-wh-pottery-dui-official"
+    ]
+   },
+   {
+    "title": "S形的钮与足",
+    "text": "馆方记录写明盖钮和器足为三个S形组成。构件数量与形状以馆方记录为准；这一组配图均为 AI 示意图，不据示意图判断构件数目与纹样细节。",
+    "refs": [
+     "t05-wh-pottery-dui-official"
+    ]
+   },
+   {
+    "title": "今天再看：楚地的典型器",
+    "text": "馆方称敦是战国时期楚国的典型器，这是类型背景，说明这类器形在楚地常见。这一件出土于武汉市新洲区辛冲，材质为泥质黑陶；出土年份、墓号与物主未知，它属于谁、随葬在哪一处，记录里没有交代。",
+    "refs": [
+     "t05-wh-pottery-dui-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与材质",
+    "text": "战国；泥质黑陶；通高29厘米。",
+    "refs": [
+     "t05-wh-pottery-dui-official"
+    ]
+   },
+   {
+    "title": "出土",
+    "text": "武汉市新洲区辛冲出土；出土年份未载。",
+    "refs": [
+     "t05-wh-pottery-dui-official"
+    ]
+   },
+   {
+    "title": "用途",
+    "text": "敦是古代盛黍、稷的器具（馆方描述）。",
+    "refs": [
+     "t05-wh-pottery-dui-official"
+    ]
+   },
+   {
+    "title": "结构",
+    "text": "器盖与器身同形，合之成圆球状；盖可取下倒置使用。",
+    "refs": [
+     "t05-wh-pottery-dui-official"
+    ]
+   },
+   {
+    "title": "构件与未载",
+    "text": "盖钮和器足为三个S形组成，数量依馆方记录，不据示意图判断；墓号与物主未知。",
+    "refs": [
+     "t05-wh-pottery-dui-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "盖与身做成同形，省下了什么？",
+   "answer": "省了一套做法。两半同形意味着同一种成型与修整手法可以用两次，坏了一半也容易配补。对使用者来说，每一半各自是一件容器，合起来又是一只完整的球，一件与两件的界限因此变得模糊。",
+   "refs": [
+    "t05-wh-pottery-dui-official"
+   ]
+  },
+  "uncertainty": "出土年份、墓号与物主未知；构件数量依馆方记录，不据示意图判断；胎料与烧成工艺未载；使用与修补痕迹未核；其是否为楚国典型器的判断属类型背景；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "wh-drum-pot",
+    "reason": "两件陶器都借了别的器物的外壳：一件让盖与身合成球状，一件把壶身做成鼓形，可比较轮廓的来历与器物的开合方式。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "wh-pottery-yan",
+    "reason": "同为武汉地区先秦陶器：一件盖身同形、翻过来还能用，一件把甑与鬲上下连成一体，可比较部件之间怎样接合成为整器。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-wh-pottery-dui-official": {
+   "id": "t05-wh-pottery-dui-official",
+   "title": "官方逐件记录：陶敦（exhibitId=f31376077d2c04b38d4b13bb0ae2ee1a）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/f31376077d2c04b38d4b13bb0ae2ee1a",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：战国、武汉市新洲区辛冲出土、通高29厘米、泥质黑陶、器盖与器身同形合之成圆球状、盖可取下倒置使用、盖钮与器足为三个S形组成；未载：出土年份、墓号与物主，构件数量以馆方记录为准而不据示意图判断，敦属楚国典型器一并记为类型背景；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "wh-shield-figure",
+  "hook": "跪着的青瓷武士，手里一面兽面盾",
+  "summary": "武汉博物馆藏青瓷执盾俑，三国吴时期，1986年出土于武汉黄陂县滠口镇三国墓M68，高28.9厘米。俑作跪姿，头戴盔帽、身穿铠甲，一手持盾，一手持兵器；盾为长方形兽面盾，牌中起脊。属国家一级文物。",
+  "summaryRefs": [
+   "t05-wh-shield-figure-official"
+  ],
+  "sections": [
+   {
+    "title": "先看姿态与装备",
+    "text": "俑作跪姿状。头戴盔帽，身穿铠甲，一手持盾，一手持兵器；整体施青釉。跪姿让整个人物低下来、稳下来，盾与兵器各占一手，动作因此交代得清楚。俑的烧成方式与铠甲细部工艺，记录未载。",
+    "refs": [
+     "t05-wh-shield-figure-official"
+    ]
+   },
+   {
+    "title": "盾上的兽面",
+    "text": "馆方记录写得很细：盾牌为长方形兽面盾，牌中起脊，脊上的两侧饰饼状目，中部两旁有对称弯月形撩牙。兽面由目与牙两类构件组成。盾面纹样的线条走向与构件数量，不依据示意图判断。",
+    "refs": [
+     "t05-wh-shield-figure-official"
+    ]
+   },
+   {
+    "title": "同墓还出了什么",
+    "text": "此件1986年出土于武汉黄陂县滠口镇三国墓M68；同时出土的还有大量与坞堡相关的鸡圈、鸭圈、猪圈及武士俑、生活劳动俑等。伴出物给墓葬组合提供了线索：军事形象与生活设施模型出现在同一座墓里。它们是同墓伴出关系，各组器物在墓中的摆放位置记录未载。",
+    "refs": [
+     "t05-wh-shield-figure-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，这尊俑承担的是墓中的守卫者形象。馆方说明不能从模型服饰确认实际军衔或个人姓名，因此盔帽与铠甲说明的是形象类型，指不到某个真实士兵。俑由谁塑造、兵器具体形制如何，记录未载；逐次保护修复档案未核。",
+    "refs": [
+     "t05-wh-shield-figure-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与类别",
+    "text": "三国吴；青瓷（陶俑）。",
+    "refs": [
+     "t05-wh-shield-figure-official"
+    ]
+   },
+   {
+    "title": "出土与墓号",
+    "text": "1986年出土于武汉黄陂县滠口镇三国墓M68。",
+    "refs": [
+     "t05-wh-shield-figure-official"
+    ]
+   },
+   {
+    "title": "尺寸与釉",
+    "text": "高28.9厘米；整体施青釉。",
+    "refs": [
+     "t05-wh-shield-figure-official"
+    ]
+   },
+   {
+    "title": "形象与装备",
+    "text": "跪姿，头戴盔帽、身穿铠甲，一手持盾、一手持兵器；盾为长方形兽面盾，牌中起脊。",
+    "refs": [
+     "t05-wh-shield-figure-official"
+    ]
+   },
+   {
+    "title": "等级与边界",
+    "text": "属国家一级文物；军衔与个人姓名不能由服饰确认；部件数量不依据示意图判断。",
+    "refs": [
+     "t05-wh-shield-figure-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么墓里要放执盾的俑？",
+   "answer": "随葬俑常被理解为替墓主站岗的形象。这座墓同时出土鸡圈、鸭圈、猪圈等模型，生活与守卫被一并安排进墓中。守卫的对象是墓主还是墓室本身，记录没有说明；俑的实际身份也无法从服饰读出。",
+   "refs": [
+    "t05-wh-shield-figure-official"
+   ]
+  },
+  "uncertainty": "墓主、军衔与个人姓名未载；兵器具体形制、铠甲与盾的部件数量不依据示意图判断；同墓各组器物的摆放位置未载；塑造工匠未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "wh-fortress-model",
+    "reason": "同为黄陂滠口一带的三国吴遗存：这尊陶俑用人体摆出守卫姿态，那组模型用围墙与望楼搭出防御空间，比较军事形象与建筑模型两种表达的分工。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "wh-mother-candlestick",
+    "reason": "两件陶塑都让人形承担实际功能：一件把跪姿武士塑成执盾的形象，一件把抱子的妇人塑成可插烛的座，比较人形在墓中承担的不同角色。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-wh-shield-figure-official": {
+   "id": "t05-wh-shield-figure-official",
+   "title": "官方逐件记录：青瓷执盾俑（exhibitId=e6ec605238d437715bdcf46a0214ed7a）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/e6ec605238d437715bdcf46a0214ed7a",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：三国吴年代、1986年武汉黄陂县滠口镇三国墓M68出土，高28.9厘米；跪姿，头戴盔帽、身穿铠甲，一手持盾、一手持兵器，盾为长方形兽面盾，整体施青釉；同墓伴出鸡圈、鸭圈、猪圈及武士俑、生活劳动俑；国家一级文物。未载：墓主、军衔与个人姓名；铠甲与盾的部件数量不据AI示意图判断；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-marble-pillow",
+  "hook": "绿釉下有一层交错胎纹",
+  "summary": "深圳博物馆藏巩义芝田窑绿釉绞胎枕，长21厘米，馆方定为北宋，1991年由深圳市公安局边防分局移交入藏。绿釉之下可见深浅色胎泥交错成纹。“巩义芝田窑”为馆方定名，本件窑坑与完整生产档案未见。",
+  "summaryRefs": [
+   "t03-sz-marble-pillow-official"
+  ],
+  "sections": [
+   {
+    "title": "枕的体量",
+    "text": "馆方记录只给出长度21厘米。枕面的弧度、宽度与高度未载，因此不据 AI 示意图补测形状。作为寝具，尺寸直接关系到怎样承托头部，这一层信息在本件上并不完整。",
+    "refs": [
+     "t03-sz-marble-pillow-official"
+    ]
+   },
+   {
+    "title": "釉色与胎纹分看",
+    "text": "馆方提示釉色与交错胎纹可以分开观察：釉层覆盖在表面，纹路出自胎体本身。两者叠在一起，看到的是叠加之后的效果，分开看才能辨认各自的来源。",
+    "refs": [
+     "t03-sz-marble-pillow-official"
+    ]
+   },
+   {
+    "title": "定名与产地的距离",
+    "text": "巩义芝田窑的窑口定名来自馆方，已经查到本件窑坑与完整生产档案则未记载。装烧工序、烧成温度与窑具组合也未载；把它当作某个窑场的确证标本，证据还不够。",
+    "refs": [
+     "t03-sz-marble-pillow-official"
+    ]
+   },
+   {
+    "title": "移交与今天再看",
+    "text": "1991年由深圳市公安局边防分局移交入藏，属现代入藏路径；它原先的出土情况未载。今天再看，绿釉与绞胎靠的是两层材料的配合：纹样在釉下，光泽在釉上。",
+    "refs": [
+     "t03-sz-marble-pillow-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "名称与年代",
+    "text": "巩义芝田窑绿釉绞胎枕；馆方定为北宋。",
+    "refs": [
+     "t03-sz-marble-pillow-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长21厘米；宽度与高度未载。",
+    "refs": [
+     "t03-sz-marble-pillow-official"
+    ]
+   },
+   {
+    "title": "移交",
+    "text": "1991年由深圳市公安局边防分局移交入藏。",
+    "refs": [
+     "t03-sz-marble-pillow-official"
+    ]
+   },
+   {
+    "title": "观察方式",
+    "text": "釉色与交错胎纹可分开观察。",
+    "refs": [
+     "t03-sz-marble-pillow-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "原出土地、装烧工序与窑坑记录未载；窑口定名来自馆方。",
+    "refs": [
+     "t03-sz-marble-pillow-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把花纹做进胎体，再盖上绿釉？",
+   "answer": "绿釉半透，胎里的交错纹路因此还能透出来：釉面提供光泽与手感，胎纹提供图形。这样做的前提是泥料本身可拼可叠。这一件是否出于这样的考虑，记录没有说明，能确认的是釉与胎纹两层并存。",
+   "refs": [
+    "t03-sz-marble-pillow-official"
+   ]
+  },
+  "uncertainty": "原出土地与装烧工序未载；宽度、高度未载，不据 AI 示意图补测；巩义芝田窑为馆方定名，本件窑坑尚未查实；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-ding-child-pillow",
+    "reason": "两件都是枕：一件把人物塑成枕面支撑，一件让釉下胎纹充当装饰，比较造型与纹饰两种不同的经营方式。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-marble-bowl",
+    "reason": "两件都是绞胎器：一件是枕，一件是盂，比较同一类胎纹在不同器形上的展开方式与观感差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-marble-pillow-official": {
+   "id": "t03-sz-marble-pillow-official",
+   "title": "官方逐件记录：巩义芝田窑绿釉绞胎枕（9804a421f51e4e8699299ca5f418e3ea）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9804a421f51e4e8699299ca5f418e3ea",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：巩义芝田窑绿釉绞胎枕，长21厘米，馆方定为北宋；1991年由深圳市公安局边防分局移交；釉色与交错胎纹可分开观察。未载：原出土地与装烧工序；窑口定名来自馆方，与已核实的窑坑记录并列区分；不构成照片授权。"
+  }
+ }
+}

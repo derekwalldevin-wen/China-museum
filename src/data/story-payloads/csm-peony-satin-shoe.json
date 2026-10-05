@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-peony-satin-shoe",
+  "hook": "只有一只",
+  "summary": "中国丝绸博物馆藏明永乐缎鞋。官方登记数量为**1只**：黄色素缎为面，缎地上刺绣牡丹花纹；长24.5、高5厘米。本条保留单只状态，不为画面好看虚构另一只；素缎起源的概说也不构成本件的发现史。",
+  "summaryRefs": [
+   "t04-csm-peony-satin-shoe-official"
+  ],
+  "sections": [
+   {
+    "title": "数量就是一只",
+    "text": "官方记录写的是：数量1只。这就要求本条从头到尾按一只讲——不写“一双”，也不写“另一只已散佚”（那同样是编造）。在服饰类藏品里，单只鞋、单只袜并不罕见：可能是原件就只剩这一只，也可能另一只未入藏。原因未载，就只记结果。",
+    "refs": [
+     "t04-csm-peony-satin-shoe-official"
+    ]
+   },
+   {
+    "title": "素缎是什么",
+    "text": "面料采用素缎。官方解释：素缎即不提花的缎织物。缎的组织使表面光滑、反光明显，因此素缎虽然无花，却有很强的质感；花纹靠绣上去——这里是缎地上刺绣牡丹花纹。",
+    "refs": [
+     "t04-csm-peony-satin-shoe-official"
+    ]
+   },
+   {
+    "title": "一句“一般认为”不能当发现史",
+    "text": "官方记录提到素缎的起源“一般认为是宋末元初”。这是关于织物类型的一般性知识，属于概说；它说明不了这只鞋的制作年代，也说明不了这只实物的发现与流传过程。本条因此把这句放在讲解里，而不是写进它的“身世”。",
+    "refs": [
+     "t04-csm-peony-satin-shoe-official"
+    ]
+   },
+   {
+    "title": "尺寸与缺口",
+    "text": "长24.5、高5厘米；底长字段在官方记录中空缺。逐次保护修复档案未核。站内配图是 AI 概括示意，牡丹纹的针法、素缎的光泽与鞋底的形状都不能据图判断——尤其不能据图“补出”另一只鞋的样子。",
+    "refs": [
+     "t04-csm-peony-satin-shoe-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "数量",
+    "text": "官方登记为1只（不可写作一双）。",
+    "refs": [
+     "t04-csm-peony-satin-shoe-official"
+    ]
+   },
+   {
+    "title": "面料与纹样",
+    "text": "黄色素缎为地，缎地上刺绣牡丹花纹。",
+    "refs": [
+     "t04-csm-peony-satin-shoe-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长24.5、高5厘米；底长字段空缺。",
+    "refs": [
+     "t04-csm-peony-satin-shoe-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "素缎起源的概说不作本件发现史；不虚构另一只。",
+    "refs": [
+     "t04-csm-peony-satin-shoe-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "只剩一只的鞋，还能告诉我们什么？",
+   "answer": "能告诉的仍然很多：它是用什么料、绣了什么花、多大尺寸、什么年代的做法。看不到的是“成双时的样子”和它穿在谁脚上。研究常常就是这样——把能确定的部分说清楚，把缺的部分标出来，而不是把画面补满。",
+   "refs": [
+    "t04-csm-peony-satin-shoe-official"
+   ]
+  },
+  "uncertainty": "另一只是否存在或未入藏，官方记录未载；底长字段空缺；工匠、物主、入藏经过未载；素缎起源为一般性概说；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；数量依官方登记保持一只。",
+  "related": [
+   {
+    "id": "csm-ruyi-shoes",
+    "reason": "同为明永乐绣鞋：一双与一只并列展示，比较数量差异带来的不同研究条件。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-gold-peony-shoes",
+    "reason": "同为黄色缎地牡丹纹绣鞋：一件为素缎地刺绣，一件以五枚素缎为地钉金绣，比较地组织与绣法。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-peony-satin-shoe-official": {
+   "id": "t04-csm-peony-satin-shoe-official",
+   "title": "官方逐件记录：刺绣牡丹花纹缎鞋（itemid=1899）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1899",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明永乐、质地丝、色泽黄、数量**1只**；面料采用素缎（即不提花的缎织物），缎地上刺绣牡丹花纹；长24.5、高5厘米（底长字段官方空缺）。馆方对素缎起源的一般说法（一般认为在宋末元初）属概说，不构成本件的发现史。未载：另一只是否存在、物主与入藏经过；数量按官方登记保持为一只；不构成照片授权。"
+  }
+ }
+}

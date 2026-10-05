@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gg-chrysanthemum-lacquer-dish",
+  "hook": "一只很轻的菊瓣漆盘",
+  "summary": "故宫博物院藏清乾隆脱胎朱漆菊瓣式盘。口径14厘米、高3.5厘米，浅腹配矮圈足，轮廓作菊瓣式。盘心御题署乾隆甲午，即1774年；馆方结合清宫档案说明曾命苏州制作此类盘。",
+  "summaryRefs": [
+   "t02-gg-chrysanthemum-lacquer-dish-official"
+  ],
+  "sections": [
+   {
+    "title": "先量尺寸",
+    "text": "口径14厘米、高3.5厘米。浅腹配矮圈足，盘身因此不深，轮廓沿菊瓣的起伏一转一收。这两组数字与形制描述都出自馆方逐件记录。观察可以从这里开始：先看口沿的弧线，再看底下的圈足占了多少比例，一件小盘的比例关系就出来了。",
+    "refs": [
+     "t02-gg-chrysanthemum-lacquer-dish-official"
+    ]
+   },
+   {
+    "title": "脱胎这一层",
+    "text": "馆方记录把脱胎、朱漆、刀刻填金与黑漆外底逐项写明。名称里的“脱胎”指向成形方式；脱胎的通行做法是在漆层成形后脱去内模，属漆工艺的类型背景。本件胎体如何一层层做出、上了多少道漆、填金的凹槽怎样刻出，记录未详，留待专门的工艺检测。",
+    "refs": [
+     "t02-gg-chrysanthemum-lacquer-dish-official"
+    ]
+   },
+   {
+    "title": "盘心那首御题诗",
+    "text": "盘心有一处御题，署乾隆甲午，即1774年。馆方结合清宫档案说明，曾命苏州制作此类盘。诗中称许本朝制品超越前朝，这一句属御诗表达，是宫廷语气，未可当作工艺技术的实测排名；把皇帝的评价与今天的材料检测结论分开放，才看得清各自能回答什么。",
+    "refs": [
+     "t02-gg-chrysanthemum-lacquer-dish-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，14厘米的小盘摆在展柜里，最先入眼的是菊瓣的曲线与刀刻填金的字迹。它当年在宫中作何使用、是否成组陈设，馆方记录没有说明；本件逐次保护修复档案未核。御题文字的具体内容与瓣数不据示意图判读，需要看原件或正式著录。",
+    "refs": [
+     "t02-gg-chrysanthemum-lacquer-dish-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与器名",
+    "text": "清乾隆；脱胎朱漆菊瓣式盘。",
+    "refs": [
+     "t02-gg-chrysanthemum-lacquer-dish-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "口径14厘米、高3.5厘米。",
+    "refs": [
+     "t02-gg-chrysanthemum-lacquer-dish-official"
+    ]
+   },
+   {
+    "title": "形制",
+    "text": "浅腹、矮圈足；轮廓作菊瓣式。",
+    "refs": [
+     "t02-gg-chrysanthemum-lacquer-dish-official"
+    ]
+   },
+   {
+    "title": "工艺与款识",
+    "text": "脱胎、朱漆、刀刻填金、黑漆外底；盘心御题署乾隆甲午（1774年）。",
+    "refs": [
+     "t02-gg-chrysanthemum-lacquer-dish-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "胎体制作步骤、宫中用途与逐次修复档案未载；不据AI示意图读取御题文字或点算瓣数。",
+    "refs": [
+     "t02-gg-chrysanthemum-lacquer-dish-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么宫廷漆器上要写明制作年份？",
+   "answer": "署年让一件器物在宫中留下可查的时间坐标：御题上的甲午对应1774年，后世的档案与著录因此能把它放回具体年份。另一面，署年也只回答“何时”——谁做的、经过哪几道工序、当年陈设在哪里，仍需别的材料来补。年份是起点，它的解答范围有限。",
+   "refs": [
+    "t02-gg-chrysanthemum-lacquer-dish-official"
+   ]
+  },
+  "uncertainty": "胎体制作步骤与漆层数未载；清宫档案具体条目未核；宫中用途与陈设情况未载；本件逐次保护修复档案未核；御题文字与瓣数不据AI示意图判读。",
+  "correction": "2026年10月新增条目，按故宫博物院逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-lacquer-dou",
+    "reason": "一件以木胎成器、盘面涂朱，一件以脱胎成形、刀刻填金，可比较两种胎体做法在器壁厚薄与装饰位置上的差别。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-bamboo-brushpot",
+    "reason": "同为案头小器：一件口径14厘米的漆盘以刀刻填金成纹，一件高11.7厘米的竹笔筒以刻字为饰，可比较漆、竹两种材料对细小器面的处理手法。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t02-gg-chrysanthemum-lacquer-dish-official": {
+   "id": "t02-gg-chrysanthemum-lacquer-dish-official",
+   "title": "官方逐件记录：脱胎朱漆菊瓣式盘（/collection/lacquerware/232150.html）",
+   "institution": "故宫博物院",
+   "url": "https://www.dpm.org.cn/collection/lacquerware/232150.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：清乾隆脱胎朱漆菊瓣式盘，口径14厘米、高3.5厘米，浅腹与矮圈足构成轻巧轮廓；盘心御题署乾隆甲午（1774年）；馆方结合清宫档案说明曾命苏州制作此类盘，并载脱胎、朱漆、刀刻填金与黑漆外底。未载：胎体制作步骤、宫中用途与逐次修复工单；御诗称许属宫廷表达，未作技术排名；不构成照片授权。"
+  }
+ }
+}

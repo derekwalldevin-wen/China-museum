@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cz-phagspa-bowl",
+  "hook": "圈足内侧藏着一个朱书八思巴文字",
+  "summary": "常州博物馆藏元代漆碗，高8.4、口径19.6、底径8.4厘米，1976年江苏常州武进区卜弋元墓出土。木胎口微敛、弧腹、圈足，内外髹暗黄色漆，口缘及底以黑漆镶边，圈足内朱书八思巴文“陈”字。",
+  "summaryRefs": [
+   "t05-cz-phagspa-bowl-official"
+  ],
+  "sections": [
+   {
+    "title": "尺寸与器形",
+    "text": "高8.4、口径19.6、底径8.4厘米。口径是底径的两倍多，高度居中，形状是敛口的碗；木胎口微敛、弧腹、圈足，馆方形容造型稳重朴实。",
+    "refs": [
+     "t05-cz-phagspa-bowl-official"
+    ]
+   },
+   {
+    "title": "两种漆色配边",
+    "text": "内外髹暗黄色漆，口缘及底以黑漆镶边。深色边线把口沿与底缘勾出来，器身的暗黄与边的黑形成对比；记录未提纹饰，装饰集中在这道边和圈足内的字上。",
+    "refs": [
+     "t05-cz-phagspa-bowl-official"
+    ]
+   },
+   {
+    "title": "“陈”字与八思巴文",
+    "text": "圈足内朱书八思巴文“陈”字。八思巴文是元代由朝廷推行的文字系统，属类型背景；这个字在这件碗上是标记所属、作坊还是使用者，记录未给结论。官网另有同名一件，其尺寸不并入本件，这条只对应id413这一只碗。",
+    "refs": [
+     "t05-cz-phagspa-bowl-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，这只碗的看点落在圈足里。那个位置平放时几乎不入眼，却留下了全器唯一的文字。本件图像为AI示意图，八思巴文字形与口沿黑漆镶边的做法不据示意图判断，需核对实物。",
+    "refs": [
+     "t05-cz-phagspa-bowl-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "尺寸",
+    "text": "高8.4、口径19.6、底径8.4厘米。",
+    "refs": [
+     "t05-cz-phagspa-bowl-official"
+    ]
+   },
+   {
+    "title": "器形",
+    "text": "木胎；口微敛，弧腹，圈足。",
+    "refs": [
+     "t05-cz-phagspa-bowl-official"
+    ]
+   },
+   {
+    "title": "漆色",
+    "text": "内外髹暗黄色漆，口缘及底以黑漆镶边。",
+    "refs": [
+     "t05-cz-phagspa-bowl-official"
+    ]
+   },
+   {
+    "title": "铭文",
+    "text": "圈足内朱书八思巴文“陈”字。",
+    "refs": [
+     "t05-cz-phagspa-bowl-official"
+    ]
+   },
+   {
+    "title": "未载与不据图",
+    "text": "同名另一件的尺寸不并入本件；墓号、发现者、流转经过未载；本件图像为AI示意图，八思巴文字形与镶边漆层需核对实物；逐次保护修复档案未核。",
+    "refs": [
+     "t05-cz-phagspa-bowl-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "一个写在圈足里的字，是给谁看的？",
+   "answer": "圈足朝下，平放时几乎不入眼。把标记放在那里，通常与使用、记账或作坊归属有关，但记录没有说明。能看到的是对比：器身漆色朴素，全器唯一的文字却藏在底面。",
+   "refs": [
+    "t05-cz-phagspa-bowl-official"
+   ]
+  },
+  "uncertainty": "铭文单字的具体作用无结论；同名另一件的尺寸不并入本件；墓号、发现者、流转经过未载；本件图像为AI示意图，字形与镶边做法需核对实物；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cz-yuan-black-bowl",
+    "reason": "同为元代常州漆碗，一件圈足弧腹配八思巴文单字，一件平底浅腹配朱书汉字作坊款，比较器底做法与铭文位置的差异。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cz-lacquer-teacup",
+    "reason": "同为常州出土的漆木茶食器，一件是口径偏大的碗，一件是小盏连着圆形托盘，比较口沿与托圈怎样配合各自的使用方式。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-cz-phagspa-bowl-official": {
+   "id": "t05-cz-phagspa-bowl-official",
+   "title": "官方逐件记录：“八思巴文”漆碗（id=413）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=413&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：官方逐件记录给出元代定年、木胎口微敛弧腹圈足、高8.4、口径19.6、底径8.4厘米，1976年江苏常州武进区卜弋元墓出土，内外髹暗黄色漆、口缘及底以黑漆镶边，圈足内朱书八思巴文“陈”字。未载：官网同名另一件的尺寸不并入本件，墓号、发现者与流转经过亦无记录；不构成照片授权。"
+  }
+ }
+}

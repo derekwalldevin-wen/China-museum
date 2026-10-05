@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-basin-stand",
+  "hook": "一米八高的洗脸盆架",
+  "summary": "中国国家博物馆藏清中期黄花梨雕花六足高面盆架。高182厘米、直径63厘米，六条腿与直枨交叉联结，上部有雕花背架，构件间另有牙角与透雕。馆方定名指向洗漱家具，配套面盆与使用房间没有被确认，记录也未给出主人与入藏经过。",
+  "summaryRefs": [
+   "t02-gb-basin-stand-official"
+  ],
+  "sections": [
+   {
+    "title": "先看它有多高",
+    "text": "高182厘米，直径63厘米。这个高度接近成年人的肩部，架体要放面盆，盆位大约在腰腹之间，取水与俯身都顺手。63厘米的直径给足了下盘空间，重心落在六条腿的分布范围里。",
+    "refs": [
+     "t02-gb-basin-stand-official"
+    ]
+   },
+   {
+    "title": "六个支撑点",
+    "text": "普通的架子四条腿，这一件用六条。馆方记录写明腿与直枨交叉联结，构件间另有牙角加固。腿数增加，着地面积随之增大，架子不容易被碰倒；直枨把相邻的腿牵在一起，受力分散到整圈。稳定在这里是算出来的，不是加料堆出来的。",
+    "refs": [
+     "t02-gb-basin-stand-official"
+    ]
+   },
+   {
+    "title": "上部的雕花背架",
+    "text": "架体上部有雕花背架，馆方记录提到透雕做法。背架的位置在盆位之上，起到围护与挡水的作用。装饰集中在这一带：既是结构的一部分，也面向使用者的正前方，因此透雕纹样值得细看。木材产地与具体雕工记录未载。",
+    "refs": [
+     "t02-gb-basin-stand-official"
+    ]
+   },
+   {
+    "title": "今天再看：它身旁少了一只盆",
+    "text": "馆方没有确认配套面盆，也没有说明它原本安放在哪一间屋里，因此本条不虚构完整的室内陈设与摆设组合。它具体何时入藏、主人是谁、经历过哪些修复，记录同样未载，逐次保护修复档案未核。",
+    "refs": [
+     "t02-gb-basin-stand-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与尺寸",
+    "text": "馆方定为清中期；高182厘米、直径63厘米。",
+    "refs": [
+     "t02-gb-basin-stand-official"
+    ]
+   },
+   {
+    "title": "支撑结构",
+    "text": "六足；腿与直枨交叉联结，另有牙角加固。",
+    "refs": [
+     "t02-gb-basin-stand-official"
+    ]
+   },
+   {
+    "title": "上部构件",
+    "text": "上部有雕花背架，见透雕做法。",
+    "refs": [
+     "t02-gb-basin-stand-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "配套面盆、使用房间、主人与入藏经过未载；木材产地未载。",
+    "refs": [
+     "t02-gb-basin-stand-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "生活用途来自馆方定名，不虚构完整室内陈设。",
+    "refs": [
+     "t02-gb-basin-stand-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么洗漱用的架子要做得这么高？",
+   "answer": "因为站着洗最省力。盆位放在腰腹上下，不用深弯腰就能舀水、搓洗；高架同时把水汽与地面隔开一些。稳固、省力和挡水，都压在这182厘米里。",
+   "refs": [
+    "t02-gb-basin-stand-official"
+   ]
+  },
+  "uncertainty": "配套面盆与使用房间未确认；入藏经过、主人与木作工匠未载；木材产地未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gb-folding-table",
+    "reason": "两件木家具的支撑方式各走一路：一件以转轴折腿换取收拢，一件以六足和直枨换取高架稳定，比较支撑点与连接方式，不推断家具演化顺序。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-red-embroidered-skirt",
+    "reason": "同馆清代生活器具：一件处理木构的受力与围护，一件处理裙面褶裥与边饰的分布，比较实用结构与装饰安排各自的空间逻辑。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t02-gb-basin-stand-official": {
+   "id": "t02-gb-basin-stand-official",
+   "title": "官方逐件记录：黄花梨雕花六足高面盆架（zp/zpml/csp/202208/t20220812_256943）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256943.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方定为清中期；高182厘米、直径63厘米；六足，腿与直枨交叉联结，另有牙角与上部雕花背架。未载：配套面盆、使用房间、入藏经过与主人；木材产地与保护史未载，不虚构完整室内陈设；不构成照片授权。"
+  }
+ }
+}

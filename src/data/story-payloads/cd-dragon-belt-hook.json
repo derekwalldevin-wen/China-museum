@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cd-dragon-belt-hook",
+  "hook": "一枚带钩上，大龙身后跟着小龙",
+  "summary": "成都博物馆藏明代苍龙教子玉带钩。成都猛追湾出土，长11.9厘米，钩身以大小两龙组成装饰。馆方从父子教养的角度解释这一题材，玉材产地与工匠姓名未载。",
+  "summaryRefs": [
+   "t03-cd-dragon-belt-hook-official"
+  ],
+  "sections": [
+   {
+    "title": "带钩怎么用",
+    "text": "带钩是束带时用来勾连的构件，钩首回折，钩身固定在带的一头，这属于器名的类型背景。本件长11.9厘米，出土于成都猛追湾，馆方定为明代。",
+    "refs": [
+     "t03-cd-dragon-belt-hook-official"
+    ]
+   },
+   {
+    "title": "一大一小两条龙",
+    "text": "钩身的装饰由大小两条龙组成，馆方给出的名称是“苍龙教子”。这一类题材在明清工艺品上反复出现，它的含义来自后世的解释传统，属于题材的类型背景。",
+    "refs": [
+     "t03-cd-dragon-belt-hook-official"
+    ]
+   },
+   {
+    "title": "解释停在哪里",
+    "text": "馆方从父子教养的角度解释主题，这是研究解读。题材讲的是教化之意，真实家族史是另一回事：没有材料能说明某一对父子用过这件带钩。玉材产地与工匠姓名，记录同样未载。",
+    "refs": [
+     "t03-cd-dragon-belt-hook-official"
+    ]
+   },
+   {
+    "title": "今天再看：细节留给实物",
+    "text": "器物配图为生成图，龙首的五官、爪的数量与钩钮结构都不据它判断。玉料的色泽与沁色是否经过处理，要以检测结论与保护档案为准，本轮未核。",
+    "refs": [
+     "t03-cd-dragon-belt-hook-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与尺寸",
+    "text": "成都猛追湾出土；长11.9厘米。",
+    "refs": [
+     "t03-cd-dragon-belt-hook-official"
+    ]
+   },
+   {
+    "title": "年代",
+    "text": "明代。",
+    "refs": [
+     "t03-cd-dragon-belt-hook-official"
+    ]
+   },
+   {
+    "title": "题材",
+    "text": "大小两龙组成装饰；馆方从父子教养解释。",
+    "refs": [
+     "t03-cd-dragon-belt-hook-official"
+    ]
+   },
+   {
+    "title": "材质",
+    "text": "玉；玉料矿源未核。",
+    "refs": [
+     "t03-cd-dragon-belt-hook-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "出土年月、工匠姓名与原使用者未载。",
+    "refs": [
+     "t03-cd-dragon-belt-hook-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把两条龙刻成一大一小？",
+   "answer": "一大一小先是构图上的安排：钩身窄长，两龙并置才填得满又不挤；小的跟在大的身后，一个“带着走”的动作就出来了。教子之名是否出自工匠本意无法确知，形状先给出了读法。",
+   "refs": [
+    "t03-cd-dragon-belt-hook-official"
+   ]
+  },
+  "uncertainty": "出土年月未载；玉材产地与工匠姓名未载；原使用者未知；父子教养属题材解读；龙形细节不据生成图确认；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按成都博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-agate-snuff-bottle",
+    "reason": "两件雕刻小品：一件循玉材琢出龙形，一件借玛瑙天然色块雕出玩童与虎，比较雕刻对石材颜色与纹理的两种用法。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cd-attendant-figure",
+    "reason": "同馆两件明代器物：一件是长11.9厘米的玉带钩，一件是高35.1厘米的彩釉陶俑，比较玉雕与陶塑在体量、材质与塑形手法上的差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-cd-dragon-belt-hook-official": {
+   "id": "t03-cd-dragon-belt-hook-official",
+   "title": "官方逐件记录：苍龙教子玉带钩（/mq/201901/55.html）",
+   "institution": "成都博物馆",
+   "url": "https://www.cdmuseum.com/mq/201901/55.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：成都猛追湾出土，明代苍龙教子玉带钩长11.9厘米，大小两龙组成装饰，馆方从父子教养解释主题。未载：出土年月、玉材产地、工匠姓名与原使用者；题材解读与真实家族史并列区分；不构成照片授权。"
+  }
+ }
+}

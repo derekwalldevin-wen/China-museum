@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gsjd-chicken-register",
+  "hook": "一年吃了多少只鸡，有人记账",
+  "summary": "甘肃简牍博物馆藏西汉简牍一册（本组计一条）。1990年出土于悬泉置遗址。馆方释读为一名叫“时”的厨房负责人（啬夫）上报的悬泉置一年内入鸡、吃鸡的统计，可用于了解驿站的钱物来源、消费与招待规模。",
+  "summaryRefs": [
+   "t04-gsjd-chicken-register-official"
+  ],
+  "sections": [
+   {
+    "title": "记账的人有名字",
+    "text": "简文里出现了一个叫“时”的人，身份是厨房负责人（啬夫）。他上报的内容很具体：一年之内，悬泉置进了多少鸡、吃了多少鸡。这份统计因此有两个方向——进来的和消耗掉的。记账的人有名有姓，是这类文书里少见的“普通职员”。",
+    "refs": [
+     "t04-gsjd-chicken-register-official"
+    ]
+   },
+   {
+    "title": "鸡从哪里来，到哪里去",
+    "text": "馆方指出这组简可用于研究悬泉置钱、物的来源与消费情况，也可用于了解过往客人的身份构成与招待规模。也就是说，鸡不只是食物：它是驿站开支的一部分，而开支的多少与来客的等级、数量相关。一只鸡背后连着一整套接待制度。",
+    "refs": [
+     "t04-gsjd-chicken-register-official"
+    ]
+   },
+   {
+    "title": "账面的数字，本条不写",
+    "text": "鸡只总数是多少、什么季节吃得多、有没有菜谱记载——本条资料未列，因此不补。这类账簿在出土文献中往往有残缺，逐条数据需要回到原件与整理本。把不知道的数字写成确切的说法，是对史料的伤害。",
+    "refs": [
+     "t04-gsjd-chicken-register-official"
+    ]
+   },
+   {
+    "title": "它为什么值得看",
+    "text": "因为它写的是日常。边塞研究常关注烽火、戍守、战争，而这份简册记录的是吃饭：一年里有多少只鸡进了驿站，又有多少只被吃掉。它把“招待”这个抽象词，落到了可以数的实物上。",
+    "refs": [
+     "t04-gsjd-chicken-register-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与年代",
+    "text": "1990年悬泉置遗址出土；元康四年（简册纪年，见条目标题）。",
+    "refs": [
+     "t04-gsjd-chicken-register-official"
+    ]
+   },
+   {
+    "title": "记账人",
+    "text": "厨房负责人（啬夫）“时”。",
+    "refs": [
+     "t04-gsjd-chicken-register-official"
+    ]
+   },
+   {
+    "title": "内容",
+    "text": "一年内入鸡、吃鸡的统计。",
+    "refs": [
+     "t04-gsjd-chicken-register-official"
+    ]
+   },
+   {
+    "title": "研究用途",
+    "text": "钱物来源与消费、来客身份构成与招待规模。",
+    "refs": [
+     "t04-gsjd-chicken-register-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "鸡只总数与菜谱未载；本组计一条。",
+    "refs": [
+     "t04-gsjd-chicken-register-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么一本“吃鸡账”也能当史料？",
+   "answer": "因为它记录的是制度的实际运转。驿站要接待来往的人，接待要花钱花物；钱物从哪来、用掉多少，必须有人登记。这本账让人看到：招待在这里落实成一串可以核对的数量。",
+   "refs": [
+    "t04-gsjd-chicken-register-official"
+   ]
+  },
+  "uncertainty": "鸡只总数、季节分布、菜谱与逐条开支未载；简册残缺情况未在本条资料中说明；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；全组计一条。",
+  "related": [
+   {
+    "id": "gsjd-changluo-expenses",
+    "reason": "同馆两册账：一册记外交过境的接待费用，一册记一年鸡的出入——比较驿站开支的两种记法。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-drum-protocol",
+    "reason": "接待的两面：一面是敲几下鼓提示来客职级，一面是账上吃了多少只鸡，比较制度与消耗。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-chicken-register-official": {
+   "id": "t04-gsjd-chicken-register-official",
+   "title": "官方逐件记录：悬泉置元康四年尽十二月丁卯鸡出入簿（exhibit_id=16）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=16",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1990年悬泉置遗址出土；馆方释读为一名叫“时”的厨房负责人（啬夫）上报的悬泉置一年内入鸡、吃鸡的统计；馆方认为该组简为了解悬泉置钱物来源与消费、过往客人身份构成与招待规模提供依据。未载：鸡只总数、菜谱与逐条开支；本组计一条；不构成照片授权。"
+  }
+ }
+}

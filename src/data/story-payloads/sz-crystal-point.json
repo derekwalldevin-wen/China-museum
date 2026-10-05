@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-crystal-point",
+  "hook": "一枚透光的水晶尖",
+  "summary": "深圳博物馆藏商周水晶石尖状器，长10.32厘米、重0.17千克。晶体材料与尖状轮廓在馆方记录中有据；它当年用作工具、装饰还是别的，记录里没有说明。",
+  "summaryRefs": [
+   "t03-sz-crystal-point-official"
+  ],
+  "sections": [
+   {
+    "title": "两项确定的数字",
+    "text": "馆方记录给出的数字有两项：长10.32厘米，重0.17千克。10厘米出头、170克上下，是一枚能稳稳握住的石头。这两个数字属于资料里最确定的部分——出土地、入藏经过与使用史，记录都没有写。",
+    "refs": [
+     "t03-sz-crystal-point-official"
+    ]
+   },
+   {
+    "title": "水晶，以及那个尖",
+    "text": "材质是水晶石，外形收成一个尖。晶体本身有通透感，尖部由石料收缩而成，这两点都写在馆方记录里。尖是怎么加工出来的、要不要打磨，加工工序未详。",
+    "refs": [
+     "t03-sz-crystal-point-official"
+    ]
+   },
+   {
+    "title": "馆方没有给用途判断",
+    "text": "工具、装饰，还是别的用途，馆方记录没有说明。水晶的光泽容易引出联想，光泽属于外观，与用途判断之间还缺证据。这类判断通常需要出土情境、使用痕迹或共存器物，这一件的这三项都没有。",
+    "refs": [
+     "t03-sz-crystal-point-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，它是一件把注意力引向材料本身的器物：透明、坚硬、形状简单，放在光下会亮起来。当代观众容易先被光泽吸引，再回头找它的功能；当年的使用者关心什么，记录没有留下线索。尖部的具体转折与工作面，一并不据AI示意图判断。",
+    "refs": [
+     "t03-sz-crystal-point-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与类别",
+    "text": "商周；馆方登记为杂项。",
+    "refs": [
+     "t03-sz-crystal-point-official"
+    ]
+   },
+   {
+    "title": "尺寸与重量",
+    "text": "长10.32厘米、重0.17千克。",
+    "refs": [
+     "t03-sz-crystal-point-official"
+    ]
+   },
+   {
+    "title": "材质与轮廓",
+    "text": "水晶石质，尖状轮廓；两项均有馆方记录依据。",
+    "refs": [
+     "t03-sz-crystal-point-official"
+    ]
+   },
+   {
+    "title": "加工",
+    "text": "加工工序未详；尖部细节不据AI示意图判断。",
+    "refs": [
+     "t03-sz-crystal-point-official"
+    ]
+   },
+   {
+    "title": "出土地与档案",
+    "text": "出土地、入藏经过与使用史未载；逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-crystal-point-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么一枚小石器的用途这么难确定？",
+   "answer": "因为用途往往靠组合证据：出土情境、使用痕迹、共存的器物。这一件只留下材料与外形两项，其他都空着。要往前推一步，需要发掘记录与痕迹检测补上资料；眼下能做的，是把已知的两项说准。",
+   "refs": [
+    "t03-sz-crystal-point-official"
+   ]
+  },
+  "uncertainty": "出土地、入藏经过与使用史未载；加工工序未详；用途无说明；不据AI示意图判断尖部细节；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-grooved-stone",
+    "reason": "同馆两件石质器物：一件是水晶尖状器，一件是长方形刻槽石器，材料、体量与刃部形态各不相同，适合并置观察。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-stone-adze",
+    "reason": "两件都属商周石器：水晶尖状器只留下尖，石锛则记录了长、宽与重量，对照两条记录能看出详略的差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-crystal-point-official": {
+   "id": "t03-sz-crystal-point-official",
+   "title": "官方逐件记录：水晶石尖状器（resId=514dd460…）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=514dd4607a8843c8a7b9d217f05c3838",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：商周水晶石尖状器，长10.32厘米、重0.17千克；晶体材料与尖状轮廓有据，指向深圳馆的具体藏品。未载：出土地点、入藏经过、加工工序与使用史均未载，用途无说明；材料光泽属外观，边界在于光泽不构成用途证据；不据AI示意图判断尖部细节；不构成照片授权。"
+  }
+ }
+}

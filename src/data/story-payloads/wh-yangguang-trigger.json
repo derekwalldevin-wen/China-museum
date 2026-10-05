@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "wh-yangguang-trigger",
+  "hook": "一件刻着年份的小机件",
+  "summary": "武汉博物馆藏东汉“延光三年”鎏金铭文弩机，臂长11厘米。弩机是木弩的铜质机件，板机及臂部均刻有铭文，馆方据所刻铭文定它为东汉延光三年（公元124年）所制。",
+  "summaryRefs": [
+   "t05-wh-yangguang-trigger-official"
+  ],
+  "sections": [
+   {
+    "title": "弩机是弩的哪一部分",
+    "text": "馆方解释：弩是用机械力射箭的弓，由弓发展而来；弩机是木弩的铜质机件，装置于弩的后部，用来增强远射和杀伤力。弩出现于春秋晚期，战国、秦汉、三国时已普遍使用。这段是类型背景，说明机件在整具弩里的位置。臂长11厘米，记录只涉及机件本身，木臂与弓弦不在其中。",
+    "refs": [
+     "t05-wh-yangguang-trigger-official"
+    ]
+   },
+   {
+    "title": "鎏金的机件",
+    "text": "馆方称这件弩机精致工巧，并有鎏金。鎏金的具体用料与操作未载，金层的厚薄与附着情况留待检测。机件由几个部件组成、彼此怎样配合安装，这批配图均为AI示意图，不据此判断部件数量与安装关系。",
+    "refs": [
+     "t05-wh-yangguang-trigger-official"
+    ]
+   },
+   {
+    "title": "铭文定出的年份",
+    "text": "板机及臂部均刻有铭文。馆方根据所刻铭文可知，此弩机为东汉延光三年（公元124年）所制。器物上自带年份，让“什么时候做的”这个问题有了直接答案。铭文的全文字数与内容，官方逐件记录只交代了年份，其余未载。",
+    "refs": [
+     "t05-wh-yangguang-trigger-official"
+    ]
+   },
+   {
+    "title": "今天再看这件机件",
+    "text": "出土地点、墓号、工匠身份与完整安装关系都没有记录，它今天是一件可以独立观看的机械部件：结构紧凑，转角分明。延光三年（公元124年）这个年份把它放进具体的时间坐标，而它曾经装在哪具弩上、由谁使用，仍是空白。",
+    "refs": [
+     "t05-wh-yangguang-trigger-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与尺寸",
+    "text": "东汉；臂长11厘米。",
+    "refs": [
+     "t05-wh-yangguang-trigger-official"
+    ]
+   },
+   {
+    "title": "器类",
+    "text": "弩机为木弩的铜质机件，装置于弩的后部；不作完整木弩。",
+    "refs": [
+     "t05-wh-yangguang-trigger-official"
+    ]
+   },
+   {
+    "title": "表面",
+    "text": "鎏金；馆方称精致工巧。",
+    "refs": [
+     "t05-wh-yangguang-trigger-official"
+    ]
+   },
+   {
+    "title": "铭文",
+    "text": "板机及臂部均刻有铭文；馆方据铭文定为东汉延光三年（公元124年）所制。",
+    "refs": [
+     "t05-wh-yangguang-trigger-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "出土地点与墓号未载；工匠身份与完整安装关系未载；鎏金工艺参数未载；逐次保护修复档案未核。",
+    "refs": [
+     "t05-wh-yangguang-trigger-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "一件小机件为什么值得刻上年份？",
+   "answer": "因为机件是消耗品，坏了要换，刻上年份日后追溯来历就有依据。馆方据铭文把年代定在延光三年（公元124年），这行字让一件小铜件有了确切的时间位置。至于它由谁装、由谁用，记录里没有留下线索。",
+   "refs": [
+    "t05-wh-yangguang-trigger-official"
+   ]
+  },
+  "uncertainty": "出土地点、墓号与发现经过未载；工匠身份、完整安装关系与后续流转未载；鎏金工艺参数与部件数量留待检测；铭文全文未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "wh-zhaozhuo-trigger",
+    "reason": "同为铜弩机：一件以刻铭记下制造年份，一件以板机两侧的铭文留下多位使用者之名，比较铭文在纪年与使用信息上的两种用途，两件的机件相似出自同类结构。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "wh-measuring-ding",
+    "reason": "两件都靠刻铸文字提供关键信息：一件记下制造年份，一件记下容量与重量，比较铭文在机件与量器上各自要交代的内容，年代与用途不同。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-wh-yangguang-trigger-official": {
+   "id": "t05-wh-yangguang-trigger-official",
+   "title": "官方逐件记录：“延光三年”鎏金铭文弩机（exhibitId=81c701e6892e9551b884bfbbb01c131f）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/铜器/81c701e6892e9551b884bfbbb01c131f",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：东汉鎏金弩机、臂长11厘米、板机及臂部均刻有铭文，馆方据铭文定为东汉延光三年（公元124年）所制，属官方逐件记录明列。未载：出土地点、墓号、工匠身份与完整安装关系；弩机为木弩的铜质机件，不作完整木弩。不构成照片授权。"
+  }
+ }
+}

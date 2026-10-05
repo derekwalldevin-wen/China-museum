@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-padded-trousers",
+  "hook": "裤腿肥阔的一条绵裤",
+  "summary": "中国丝绸博物馆藏明代绵裤。黄色，裤腿肥阔，面料为黄色缠枝花卉暗花缎；长90、腰宽60厘米。实际穿用者与发现、保护经过均未载。",
+  "summaryRefs": [
+   "t04-csm-padded-trousers-official"
+  ],
+  "sections": [
+   {
+    "title": "形与料",
+    "text": "官方记录只有两句：裤腿肥阔；面料为黄色缠枝花卉暗花缎。裤腿宽大，说明活动量留得足；暗花缎是在缎地上以组织变化显花的织物，缠枝花卉纹是常见的连续纹样。缎面光滑，暗花在光下才显出层次。",
+    "refs": [
+     "t04-csm-padded-trousers-official"
+    ]
+   },
+   {
+    "title": "“绵裤”意味着保暖",
+    "text": "条目名称中的“绵”提示它与填充保暖有关；官方记录对裤子的描述集中在形制与面料，没有说明絮的是什么、多少层。因此本条只写“绵裤”这一登记名称，填充工艺留待检测说明。要讨论保暖结构，需要检测与更详细的记录。",
+    "refs": [
+     "t04-csm-padded-trousers-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长90、腰宽60厘米。这个比例在传统裤装中属于宽松型：裤腿肥阔、腰部留有余地，便于活动与叠穿。与之对照，同馆的绢面绵袜记录尺寸为长22.5厘米——下身保暖的两件，一个在外、一个贴身。",
+    "refs": [
+     "t04-csm-padded-trousers-official"
+    ]
+   },
+   {
+    "title": "缺的是身世",
+    "text": "物主、出土地、墓葬、制作与保护修复经过，官方记录均未载。逐次保护修复档案未核。站内配图是 AI 概括示意，裤形的具体裁剪、暗花纹样与颜色都不能据图判断。它现在能说明的，是明代确实存在这样一类丝质保暖裤装。",
+    "refs": [
+     "t04-csm-padded-trousers-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "形制",
+    "text": "绵裤，裤腿肥阔；长90、腰宽60厘米。",
+    "refs": [
+     "t04-csm-padded-trousers-official"
+    ]
+   },
+   {
+    "title": "面料",
+    "text": "黄色缠枝花卉暗花缎。",
+    "refs": [
+     "t04-csm-padded-trousers-official"
+    ]
+   },
+   {
+    "title": "时代与质地",
+    "text": "明代；丝。",
+    "refs": [
+     "t04-csm-padded-trousers-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "穿用者、出土地、墓葬与保护修复经过未载。",
+    "refs": [
+     "t04-csm-padded-trousers-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么连裤子也要用暗花缎？",
+   "answer": "因为讲究已经渗到贴身衣物。外衣要体面，里衣也未必将就——暗花不张扬，光下才显，正好适合穿在里面或半露的场合。这也说明当时丝织品的供应与消费范围比我们想象的更宽。",
+   "refs": [
+    "t04-csm-padded-trousers-official"
+   ]
+  },
+  "uncertainty": "填充材料与层数未载；穿用者、出土地、墓葬、制作与保护修复经过未载；纹样与裁剪细节不据AI图判断；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "csm-padded-socks",
+    "reason": "贴身保暖的两件：一条绵裤与一双绢面绵袜，比较同一需求在不同部位的做法。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-plain-skirt",
+    "reason": "下身的两种选择：一条裙子与一条肥阔绵裤，比较形制与季节场合的差异。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-padded-trousers-official": {
+   "id": "t04-csm-padded-trousers-official",
+   "title": "官方逐件记录：黄色缠枝花卉暗花缎绵裤（itemid=1891）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1891",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明代、质地丝、色泽黄、数量1件；此绵裤裤腿肥阔，面料为黄色缠枝花卉暗花缎；长90、腰宽60厘米。未载：物主、出土地、墓葬与保护修复经过；不构成照片授权。"
+  }
+ }
+}

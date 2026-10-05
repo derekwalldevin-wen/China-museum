@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-birch-milk-tube",
+  "hook": "一只桦树皮做的奶筒",
+  "summary": "中国国家博物馆藏桦皮奶筒，馆方年代字段定为清，族属记为鄂伦春族。器物以桦树皮制成，名称指向容器用途；尺寸、制作者与采集地点，记录未载。",
+  "summaryRefs": [
+   "t03-gb-birch-milk-tube-official"
+  ],
+  "sections": [
+   {
+    "title": "材料先说话",
+    "text": "器名里带了材料：桦皮。桦树皮在北方森林地区是常见的天然材料，这属于类型背景，用来说明这类材料的使用范围，不指向这一件的具体来处。缝缀、防水与接底的做法，记录未载。",
+    "refs": [
+     "t03-gb-birch-milk-tube-official"
+    ]
+   },
+   {
+    "title": "族属是馆方编目",
+    "text": "馆方字段把族属记为鄂伦春族。编目里的族属用于归类，属于馆方记录的一项；它落不到具体制作者身上，器物的制作者与使用者，资料里都没有名字。",
+    "refs": [
+     "t03-gb-birch-milk-tube-official"
+    ]
+   },
+   {
+    "title": "没有尺寸，也没有采集地点",
+    "text": "页面没有给出尺寸、制作者与采集地点。名称里的“奶筒”指出容器用途，具体装过什么、在哪里使用，记录未载。缝纫工序与家庭故事一类细节，资料里找不到依据，这里也不补。",
+    "refs": [
+     "t03-gb-birch-milk-tube-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，一只树皮容器把森林材料与日常饮食联系起来。它简单、轻，没有装饰焦点；观众在展柜前容易追问它属于谁、怎么用，而这两问在资料里都空着。",
+    "refs": [
+     "t03-gb-birch-milk-tube-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代",
+    "text": "馆方年代字段定为清。",
+    "refs": [
+     "t03-gb-birch-milk-tube-official"
+    ]
+   },
+   {
+    "title": "族属",
+    "text": "馆方编目记为鄂伦春族；编目不落具体制作者。",
+    "refs": [
+     "t03-gb-birch-milk-tube-official"
+    ]
+   },
+   {
+    "title": "材料",
+    "text": "桦树皮制；容器定名可用。",
+    "refs": [
+     "t03-gb-birch-milk-tube-official"
+    ]
+   },
+   {
+    "title": "尺寸与采集",
+    "text": "尺寸、制作者与采集地点未载。",
+    "refs": [
+     "t03-gb-birch-milk-tube-official"
+    ]
+   },
+   {
+    "title": "工序与档案",
+    "text": "缝缀、防水与接底工序未载；采集与入藏经过未载；逐次保护修复档案未核。",
+    "refs": [
+     "t03-gb-birch-milk-tube-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "一件没有采集地点的容器，能告诉我们什么？",
+   "answer": "能说的是材料、器名与馆方编目中的族属；缺的是它由谁制作、在哪里使用、装过什么。信息少的时候，把已知的三项说准，比补出一段完整的生活场景更靠得住；后一类材料目前没有。",
+   "refs": [
+    "t03-gb-birch-milk-tube-official"
+   ]
+  },
+  "uncertainty": "尺寸、制作者与采集地点未载；缝缀、防水与接底工序未载；采集与入藏经过未载；使用状况未知；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-tin-gourd-ewer",
+    "reason": "两件清代容器：一件用桦树皮，一件用锡，材料与成器方式相差很远，适合并看容器在材料上的不同选择。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-dade-coin",
+    "reason": "同馆两件藏品：一件是桦皮容器，一件是直径2.95厘米的西夏铜钱，材料与体量差别很大，对照两条记录的详略。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-gb-birch-milk-tube-official": {
+   "id": "t03-gb-birch-milk-tube-official",
+   "title": "官方逐件记录：桦皮奶筒（t20190406_104206）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/201904/t20190406_104206.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：桦皮奶筒，馆方年代字段定为清，族属记为鄂伦春族；桦树皮材料与容器名称可用。未载：尺寸、制作者、采集地点、缝缀与防水工序、采集与入藏经过均未载；边界在于族属属馆方编目，不构成具体制作者身份记录；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-wuzhu-mould",
+  "hook": "一块长24.1厘米的铸钱铜范",
+  "summary": "中国国家博物馆藏五铢钱铜范。山东寿光出土，长24.1厘米、宽9.5厘米。馆方把它作为汉武帝把铸币收归专营以前、地方铸钱的实证。范上的铸腔数量、实际产量与工坊位置，记录都没有给出。",
+  "summaryRefs": [
+   "t03-gb-wuzhu-mould-official"
+  ],
+  "sections": [
+   {
+    "title": "先看尺寸",
+    "text": "馆方记录给出长24.1厘米、宽9.5厘米。铸范是浇铸钱币的模具，铜液进入范腔后成形，这属于铸钱工序的通行背景；本件的具体铸腔数量与排列，记录没有给出数字，也不据AI示意图核对。",
+    "refs": [
+     "t03-gb-wuzhu-mould-official"
+    ]
+   },
+   {
+    "title": "它证明什么",
+    "text": "馆方把它作为汉武帝货币专铸以前地方铸钱的实证，这一句属于馆方的研究解释：一件有明确出土地的铸范，可以说明在专营之前，铸钱的来源不止一处。实际产量与工坊位置仍未载，官署身份也不由尺寸推算。",
+    "refs": [
+     "t03-gb-wuzhu-mould-official"
+    ]
+   },
+   {
+    "title": "工具也进入视野",
+    "text": "收藏铜钱，看到的是结果；有了铸范，制作工具这一环也跟着进入视野。铸钱通常还要经过配铜、制范、浇铸、修整等多道环节，这是类型背景；本件的记录只写到范本身。",
+    "refs": [
+     "t03-gb-wuzhu-mould-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "山东寿光的这次出土没有留下日期与发掘经过。今天再看这件铜范，它把货币史的一小段从“用了什么钱”推到“钱怎么做出来”；至于它浇过多少枚钱、属于哪一处工坊，答案还缺。",
+    "refs": [
+     "t03-gb-wuzhu-mould-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土",
+    "text": "山东寿光出土；日期与发掘经过未载。",
+    "refs": [
+     "t03-gb-wuzhu-mould-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长24.1厘米、宽9.5厘米。",
+    "refs": [
+     "t03-gb-wuzhu-mould-official"
+    ]
+   },
+   {
+    "title": "定位",
+    "text": "馆方作为汉武帝货币专铸以前地方铸钱的实证。",
+    "refs": [
+     "t03-gb-wuzhu-mould-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "铸腔数量、一次浇铸的产量与工坊位置未载。",
+    "refs": [
+     "t03-gb-wuzhu-mould-official"
+    ]
+   },
+   {
+    "title": "图示边界",
+    "text": "铸腔与排列不据AI示意图核对。",
+    "refs": [
+     "t03-gb-wuzhu-mould-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么一件铸钱用的范也值得看？",
+   "answer": "因为它把货币史从成品推到工序。只看铜钱，能谈的是形制、重量与钱名；有了范，可以谈浇铸这一环怎么做。腔数与排列仍要回到馆方记录，不由示意图核对。",
+   "refs": [
+    "t03-gb-wuzhu-mould-official"
+   ]
+  },
+  "uncertainty": "出土日期与发掘经过未载；铸腔数量、一次浇铸的产量与工坊位置未载；铜范的合金配比与使用次数未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gb-small-banliang",
+    "reason": "一件是铸钱用的范、一件是铸成的半两钱：范有长宽而没有腔数，钱有直径而没有称重，比较两件记录各缺什么。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-guobao-coin",
+    "reason": "同为铸币相关的青铜器：一件是工序里的范，一件是形制特殊、用途并列几种解释的钱形器，比较两者被记录下来的确定程度。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-gb-wuzhu-mould-official": {
+   "id": "t03-gb-wuzhu-mould-official",
+   "title": "官方逐件记录：五铢钱铜范（t20181218_25608）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25608.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：寿光出土，长24.1厘米、宽9.5厘米；馆方将它作为汉武帝货币专铸以前地方铸钱的实证。未载：出土日期、铸腔数量、实际产量与工坊位置。边界：铜范用于铸钱属馆方解释，不据尺寸估算日产量或官署身份，不据AI示意图核对腔数。不构成照片授权。"
+  }
+ }
+}

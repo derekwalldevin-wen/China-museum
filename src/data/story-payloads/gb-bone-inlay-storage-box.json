@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-bone-inlay-storage-box",
+  "hook": "一只带五个抽屉的黑漆小箱",
+  "summary": "中国国家博物馆藏晚明黑漆嵌骨山水人物纹五屉官皮箱。长35、宽22、高35厘米，是一只手可搬动的收纳小箱：前面两扇门开合，门内分三层、共五个抽屉，每个抽屉有铜吊牌便于拉开。黑漆表面的嵌骨图像与箱内的葫芦、花卉装饰是观察线索，嵌骨上的具体人物故事没有被逐一释读。",
+  "summaryRefs": [
+   "t02-gb-bone-inlay-storage-box-official"
+  ],
+  "sections": [
+   {
+    "title": "先量一量它有多大",
+    "text": "长35、宽22、高35厘米，大致相当于一件能抱在身前的小箱。这个体量与它的名目相符：官皮箱是随人搬运的收纳器具，箱体做得方正，正是为了方便叠放和搬动。馆方把话说得很直白——它是可移动的收纳小箱。",
+    "refs": [
+     "t02-gb-bone-inlay-storage-box-official"
+    ]
+   },
+   {
+    "title": "门、层与抽屉",
+    "text": "箱子前面是双门，门内分三层，安放五个抽屉，铜吊牌用来把抽屉拉开。三种收纳方式叠在一只箱子里：门管大件，层分上下，抽屉收细小物件。铜活既是提手也是拉手，长年使用处最容易磨损，因此用金属加固。观察开合路线，就能看出取物顺序是被结构安排好的。",
+    "refs": [
+     "t02-gb-bone-inlay-storage-box-official"
+    ]
+   },
+   {
+    "title": "黑漆面上的嵌骨",
+    "text": "箱外用黑漆，漆面上嵌骨形成山水与人物一类的图像。骨片与深色漆面形成明暗对照，图像因而在暗底上显出来。馆方记录描述了这层装饰，也留下一句限定：嵌骨上的人物故事并未被逐一释读。观看时可以先看构图与片段如何拼接，是否真能读出一段具体情节，留待材料检测与进一步比对。",
+    "refs": [
+     "t02-gb-bone-inlay-storage-box-official"
+    ]
+   },
+   {
+    "title": "箱内的葫芦与花卉",
+    "text": "与外部图像相对，箱内另有葫芦、花卉装饰。外部讲究画面，内部讲究秩序，两者的观看方式并不相同。今天再看这只箱子，人们容易先被黑漆与骨片的对比吸引，却少有机会看到抽屉拉开之后的里面——这也是它需要实物观察的原因。",
+    "refs": [
+     "t02-gb-bone-inlay-storage-box-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与尺寸",
+    "text": "馆方定为晚明；长35、宽22、高35厘米。",
+    "refs": [
+     "t02-gb-bone-inlay-storage-box-official"
+    ]
+   },
+   {
+    "title": "外部结构",
+    "text": "前面双门；边抹及连接处用铜活加固；铜吊牌便于拉开抽屉。",
+    "refs": [
+     "t02-gb-bone-inlay-storage-box-official"
+    ]
+   },
+   {
+    "title": "内部结构",
+    "text": "门内分三层，共五个抽屉。",
+    "refs": [
+     "t02-gb-bone-inlay-storage-box-official"
+    ]
+   },
+   {
+    "title": "装饰",
+    "text": "黑漆表面嵌骨作山水人物一类图像；箱内另有葫芦、花卉装饰。",
+    "refs": [
+     "t02-gb-bone-inlay-storage-box-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "制作地、使用者与保护史未载；嵌骨人物故事未逐一释读；逐次保护修复档案未核。",
+    "refs": [
+     "t02-gb-bone-inlay-storage-box-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么一只小箱要同时用门、层和抽屉？",
+   "answer": "因为要收的东西大小不一。衣物或卷册放得进门后的层，零碎小件放进抽屉，各归其位，找的时候不必翻动整箱。结构越细分，搬动时越不容易乱——收纳的功夫，多数花在分格上。",
+   "refs": [
+    "t02-gb-bone-inlay-storage-box-official"
+   ]
+  },
+  "uncertainty": "制作地、使用者、征集与保护史未载；嵌骨人物故事未逐一释读，不写成确定的历史人物；木材与骨片材质鉴定未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gb-linghua-lian",
+    "reason": "同为收纳器具：一件靠门、层与五屉分格，一件以菱花形轮廓安置多层套盒，比较两种分隔日常物品的思路，不推出发展序列。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-folding-table",
+    "reason": "同馆明代晚期木器：一件以抽屉与门收纳物品，一件以转轴折起桌腿来收拢体量，比较两者如何为搬动和存放腾出空间。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t02-gb-bone-inlay-storage-box-official": {
+   "id": "t02-gb-bone-inlay-storage-box-official",
+   "title": "官方逐件记录：黑漆嵌骨山水人物纹五屉官皮箱（zp/zpml/csp/202208/t20220812_256941）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256941.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方定为晚明；长35、宽22、高35厘米；可移动收纳小箱，前有双门，内分三层、五个抽屉，铜吊牌便于拉开；黑漆表面嵌骨，箱内另有葫芦、花卉装饰。未载：制作地、使用者与保护史；嵌骨人物故事未被逐一释读，不构成历史人物肖像；不构成照片授权。"
+  }
+ }
+}

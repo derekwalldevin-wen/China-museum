@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-jade-crab-inkstone",
+  "hook": "碧玉做的一枚小砚",
+  "summary": "中国国家博物馆藏清代碧玉荷花螃蟹纹砚。长8.2厘米。椭圆荷花形的器身上有较平的砚膛与带蟹纹的砚池，背面还有叶脉与蜘蛛纹。材质与装饰由馆方记录；使用痕迹、作者与旧藏经历未见记载。",
+  "summaryRefs": [
+   "t03-gb-jade-crab-inkstone-official"
+  ],
+  "sections": [
+   {
+    "title": "砚的两个部位",
+    "text": "砚膛是磨墨的地方，本件这一处较平；砚池用来蓄墨，上面有蟹纹。背面刻叶脉与蜘蛛纹。部位与纹样的内容来自馆方记录；纹样的具体线条与构图，本条不据AI示意图核对。",
+    "refs": [
+     "t03-gb-jade-crab-inkstone-official"
+    ]
+   },
+   {
+    "title": "碧玉与荷花形",
+    "text": "材质为碧玉，器身取椭圆荷花形。装饰把蟹与荷花组织在一件小器上，题材含义属于解释层面：馆方记录给出的是纹样内容，没有说明用意；玉矿来源未载。",
+    "refs": [
+     "t03-gb-jade-crab-inkstone-official"
+    ]
+   },
+   {
+    "title": "材料与磨墨",
+    "text": "玉质坚硬致密，与常见的石砚在磨墨手感上不同，这是类型背景。本件是否实际用于磨墨、砚膛的磨损到什么程度，记录没有给出，留待检测。",
+    "refs": [
+     "t03-gb-jade-crab-inkstone-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "8.2厘米，放在掌上正合适。今天再看它，是一件把材料、器用与装饰叠在一处的清代文房器：既是一件砚，也是一件可以拿在手里细看的玉作。它曾属于谁、用得勤不勤，记录没有交代。",
+    "refs": [
+     "t03-gb-jade-crab-inkstone-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与材质",
+    "text": "清代；碧玉。",
+    "refs": [
+     "t03-gb-jade-crab-inkstone-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长8.2厘米。",
+    "refs": [
+     "t03-gb-jade-crab-inkstone-official"
+    ]
+   },
+   {
+    "title": "器身与部位",
+    "text": "椭圆荷花形；有较平砚膛与带蟹纹的砚池。",
+    "refs": [
+     "t03-gb-jade-crab-inkstone-official"
+    ]
+   },
+   {
+    "title": "背面",
+    "text": "刻叶脉与蜘蛛纹。",
+    "refs": [
+     "t03-gb-jade-crab-inkstone-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "使用痕迹、作者、旧藏经历与玉矿来源未载；纹样细部不据示意图核对。",
+    "refs": [
+     "t03-gb-jade-crab-inkstone-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "纹样刻在砚池与背面，说明了什么？",
+   "answer": "砚池蓄墨，背面平时朝下。蟹纹与叶脉安排在这两处，装饰并不全落在最先被看到的位置。能确定的是纹样的位置与内容；馈赠还是自用，记录没有给出，留待检测。",
+   "refs": [
+    "t03-gb-jade-crab-inkstone-official"
+   ]
+  },
+  "uncertainty": "使用痕迹、作者与旧藏经历未载；玉矿来源未载；蟹纹与蜘蛛纹的用意无结论；砚膛磨损与实用效果留待检测；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gb-jade-bamboo-brushpot",
+    "reason": "同为国博藏玉制文房器：一件是笔筒、一件是砚，比较同一材料在案头两类器物上的做法与装饰题材。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-linghua-lian",
+    "reason": "两件都把器身做成花形：一件是荷花形玉砚，一件是菱花形漆奁，比较花形轮廓如何同时承担外观与内部结构。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-gb-jade-crab-inkstone-official": {
+   "id": "t03-gb-jade-crab-inkstone-official",
+   "title": "官方逐件记录：玉荷花螃蟹纹砚（t20181218_24666）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24666.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：清代碧玉，长8.2厘米；椭圆荷花形器上有较平砚膛与带蟹纹的砚池，背面刻叶脉与蜘蛛纹。未载：使用痕迹、作者、旧藏经历与玉矿来源。边界：材料与装饰不等同实用磨墨效果，纹样细部不据AI示意图核对。不构成照片授权。"
+  }
+ }
+}

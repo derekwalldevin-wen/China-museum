@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-03T03:53:13.247Z",
+ "generatedAt": "2026-10-05T07:21:17.398Z",
  "inputs": [
   {
    "path": "src/data/stories.json",
@@ -335,19 +335,59 @@
    "path": "src/data/stories-batch70.json",
    "bytes": 12857,
    "sha256": "d04ec2431422e57a2a6df5d7e05a7f3c16d509baf50e49e786b1308dfca43c2b"
+  },
+  {
+   "path": "src/data/stories-batch71.json",
+   "bytes": 100848,
+   "sha256": "2ef50830df0a8369d6722631b79ffda46955891e0a5c3be333d21a6bdf60fa6b"
+  },
+  {
+   "path": "src/data/stories-batch72.json",
+   "bytes": 94138,
+   "sha256": "2f298ab39d20080de14fe17dff0e7b3da6821f84cd29546850c0b1c2509c4b66"
+  },
+  {
+   "path": "src/data/stories-batch73.json",
+   "bytes": 26157,
+   "sha256": "c55a2b84c6935231afad119994616b684758e4e9b32819266e72f8daaa017f37"
+  },
+  {
+   "path": "src/data/stories-batch74.json",
+   "bytes": 45707,
+   "sha256": "fae2efa098b5405d6fee0b0aad7d13029d7ae75134fb8726ce1ed869bfd96fca"
+  },
+  {
+   "path": "src/data/stories-batch75.json",
+   "bytes": 103137,
+   "sha256": "5164d6e801b48bb5c3bf433fa75257ffb96ee0b7e1bd11e01ccd0cfd7cbad60e"
+  },
+  {
+   "path": "src/data/stories-batch76.json",
+   "bytes": 218939,
+   "sha256": "1a03925272aef8b3fd6b8627ed895831f07dbfca1a615a9570f2c0869fc23452"
+  },
+  {
+   "path": "src/data/stories-batch77.json",
+   "bytes": 23324,
+   "sha256": "3615fdb1a127f61db2d506718ef96983689dc2f1c3e3e341e301ed15ea2f406a"
+  },
+  {
+   "path": "src/data/stories-batch78.json",
+   "bytes": 235406,
+   "sha256": "e75556ee14ef48b0b8a00189f993a256b83a924b2b1dcacb6f0b9c1b310eaba7"
   }
  ],
  "catalog": {
   "path": "src/data/story-catalog.json",
-  "bytes": 21502,
-  "sha256": "9cb840bf59e180de4be2de543743c2d134465c712a26d09f057542975977a588",
-  "stories": 218,
+  "bytes": 33528,
+  "sha256": "e7533f00ca17e6dc8d169c7e306d33ee31803fa8ef221614efb39c9808468a6e",
+  "stories": 388,
   "trails": 6
  },
  "payloads": {
   "directory": "src/data/story-payloads",
-  "count": 218,
-  "totalBytes": 1450704,
+  "count": 388,
+  "totalBytes": 2291614,
   "maxBytes": 15841,
   "files": [
    {
@@ -1875,6 +1915,1196 @@
     "bytes": 7497,
     "sha256": "dca7d6de102500954d323db4dff75ea64a6f01503bd8d9c03caf7cacfd897bf6",
     "sources": 2
+   },
+   {
+    "id": "gsjd-medicine-paper",
+    "path": "src/data/story-payloads/gsjd-medicine-paper.json",
+    "bytes": 5693,
+    "sha256": "5ccf75bfc242c814bc051fb9ae1e739769c8139c5693fb9b2d5adbca25ec33e0",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-maquan-brush",
+    "path": "src/data/story-payloads/gsjd-maquan-brush.json",
+    "bytes": 5288,
+    "sha256": "bcfc1cfde05eae1b0b234ad8e073adb4f9d9eb9d23922f09f20dfe864cf70055",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-maquan-gauze",
+    "path": "src/data/story-payloads/gsjd-maquan-gauze.json",
+    "bytes": 5374,
+    "sha256": "b0d500805a383125e5b2370849df6cb3acc3e7a17db16d9d479f24b85dd17cd0",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-changluo-expenses",
+    "path": "src/data/story-payloads/gsjd-changluo-expenses.json",
+    "bytes": 5414,
+    "sha256": "79638ffe66834537299d54c0480ca64ac5989354fb53bfd54eeec6aa6babf866",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-sick-leave",
+    "path": "src/data/story-payloads/gsjd-sick-leave.json",
+    "bytes": 4991,
+    "sha256": "98fec0cb0a58babbe39cc0ae651fc95002cf3f0aff9e7ca4b3208f6d0603218c",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-seasonal-ban",
+    "path": "src/data/story-payloads/gsjd-seasonal-ban.json",
+    "bytes": 4950,
+    "sha256": "7fa9fc52b9d0525a91bf4fdaca3cce8c77e5f7adc6db008e4340524aa75fd775",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-document-cover",
+    "path": "src/data/story-payloads/gsjd-document-cover.json",
+    "bytes": 4528,
+    "sha256": "ada3f79af3da61e0ad0bb501d2d21baebc5dba00c31d10c9fdc86538a6fef167",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-discipline-stick",
+    "path": "src/data/story-payloads/gsjd-discipline-stick.json",
+    "bytes": 4981,
+    "sha256": "6598e6e3dbd12423c0ba18578a88d67fc4bd474d4ac32e421a73b7b520acf871",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-gate-pass",
+    "path": "src/data/story-payloads/gsjd-gate-pass.json",
+    "bytes": 4625,
+    "sha256": "1fb92861bd335c1b96c88761fed45c1d5499c93055ba8aeb56472223c455f0a8",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-written-hemp-paper",
+    "path": "src/data/story-payloads/gsjd-written-hemp-paper.json",
+    "bytes": 5098,
+    "sha256": "603eecb4d770f40ef0e8db98f91ca14e67a5f3b538f822c3ed69cf88ef04b673",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-wan-letter",
+    "path": "src/data/story-payloads/gsjd-wan-letter.json",
+    "bytes": 4694,
+    "sha256": "52841dec83d0f002ea3e71804c1857e1ceef49c52110ed5bf9f9f6d640a2d6f9",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-imperial-search",
+    "path": "src/data/story-payloads/gsjd-imperial-search.json",
+    "bytes": 4951,
+    "sha256": "6bdb248b9cdf0e0df3c3b0befe5b38e3169352ab3f0c259ca0e9390d5e03a6e5",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-grain-loan",
+    "path": "src/data/story-payloads/gsjd-grain-loan.json",
+    "bytes": 4519,
+    "sha256": "d3dadf9991136dde86da137e20685ddb2fdef668b3939dc4613b88b6b6fd8614",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-qin-wood-map",
+    "path": "src/data/story-payloads/gsjd-qin-wood-map.json",
+    "bytes": 5145,
+    "sha256": "288a8582d654aa9dd26294193a2d9aaa2c588c8d2809e89c666cdc7f3e7ea0b8",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-qin-daybook",
+    "path": "src/data/story-payloads/gsjd-qin-daybook.json",
+    "bytes": 5268,
+    "sha256": "508b3cdb1bfa9e6094dd67cc9bb5ba6579c8da57f7a434daf8419f4a6fd9c78a",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-chicken-register",
+    "path": "src/data/story-payloads/gsjd-chicken-register.json",
+    "bytes": 4980,
+    "sha256": "32f9a23d2e892eef4b5019e17b89a953cec30e9e67f12ea6a2871002237531a2",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-silk-credential",
+    "path": "src/data/story-payloads/gsjd-silk-credential.json",
+    "bytes": 4451,
+    "sha256": "60a6a839b86755a69fa1c15609f43ec1e1bb84d2657bc0f44f7697dc59714184",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-sword-appraisal",
+    "path": "src/data/story-payloads/gsjd-sword-appraisal.json",
+    "bytes": 5023,
+    "sha256": "ba35e0908082a68cfb6b2483c2282507e07f3550b3ae9ac4ec01a3196f17f834",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-drum-protocol",
+    "path": "src/data/story-payloads/gsjd-drum-protocol.json",
+    "bytes": 4558,
+    "sha256": "233821d051e0f38e06d130e817d139518f13f39752e2362c8b9b94de1791844f",
+    "sources": 1
+   },
+   {
+    "id": "gsjd-camel-dispute",
+    "path": "src/data/story-payloads/gsjd-camel-dispute.json",
+    "bytes": 5109,
+    "sha256": "8a577fc705992b3840e56342782de825e4c664890e94244e737d60b7d8b11323",
+    "sources": 1
+   },
+   {
+    "id": "csm-lion-pouches",
+    "path": "src/data/story-payloads/csm-lion-pouches.json",
+    "bytes": 4659,
+    "sha256": "d5921f841ed808daadfaaba1af273cf5e4f92e9cc66fb559feaba1373de045e4",
+    "sources": 1
+   },
+   {
+    "id": "csm-yellow-knots-pouch",
+    "path": "src/data/story-payloads/csm-yellow-knots-pouch.json",
+    "bytes": 4748,
+    "sha256": "ed67f2e558aef4e8275c547d0df60a97448e74e013042439820eea0a544385f0",
+    "sources": 1
+   },
+   {
+    "id": "csm-blue-waist-pouch",
+    "path": "src/data/story-payloads/csm-blue-waist-pouch.json",
+    "bytes": 4778,
+    "sha256": "ea4049caa12dc4701dc66cc8bf9b4892fa8c1f9dc40954a06dcf189fce9e79a9",
+    "sources": 1
+   },
+   {
+    "id": "csm-go-waist-pouch",
+    "path": "src/data/story-payloads/csm-go-waist-pouch.json",
+    "bytes": 4473,
+    "sha256": "a3e0c01043f2ec33c025af6e49d5583f9500a0fe3bcd98e4f56c308e4c189d9d",
+    "sources": 1
+   },
+   {
+    "id": "csm-bell-ornament",
+    "path": "src/data/story-payloads/csm-bell-ornament.json",
+    "bytes": 4436,
+    "sha256": "43317116f08def479e6a300f725151146d06e1ed8865fd74a41dbe94e2143eb3",
+    "sources": 1
+   },
+   {
+    "id": "csm-calling-card-bag",
+    "path": "src/data/story-payloads/csm-calling-card-bag.json",
+    "bytes": 4534,
+    "sha256": "b71b5360ecbb7a56ab182f7573fff01c5181d26ef73edcbf4c56df24c2c18677",
+    "sources": 1
+   },
+   {
+    "id": "csm-double-pouch",
+    "path": "src/data/story-payloads/csm-double-pouch.json",
+    "bytes": 4760,
+    "sha256": "40bea93cbd50d68481462a71533f5ecd35372797f4803dfd69d7296928be919b",
+    "sources": 1
+   },
+   {
+    "id": "csm-moth-pouch",
+    "path": "src/data/story-payloads/csm-moth-pouch.json",
+    "bytes": 4663,
+    "sha256": "6897233d0137b8f2ef6915d024fe0ad1471e76848199e24bcf1c2f818ef29608",
+    "sources": 1
+   },
+   {
+    "id": "csm-plum-money-pouch",
+    "path": "src/data/story-payloads/csm-plum-money-pouch.json",
+    "bytes": 4728,
+    "sha256": "bc2aa5b7fda8f549b3b7d726e09ecbf3b970e4d54f49cd2d82a6c172c2befffa",
+    "sources": 1
+   },
+   {
+    "id": "csm-ming-yesa",
+    "path": "src/data/story-payloads/csm-ming-yesa.json",
+    "bytes": 5035,
+    "sha256": "7808d89870c093a11de434d7f8aeb821e9db688f17d8ab6d87d6b60e3cf6e979",
+    "sources": 1
+   },
+   {
+    "id": "csm-cloud-fragment",
+    "path": "src/data/story-payloads/csm-cloud-fragment.json",
+    "bytes": 4697,
+    "sha256": "c0285159c97dc4d5c026c93120edcdb9e0a97e1416f3961acae08a0717e553f1",
+    "sources": 1
+   },
+   {
+    "id": "csm-padded-socks",
+    "path": "src/data/story-payloads/csm-padded-socks.json",
+    "bytes": 4343,
+    "sha256": "bfaad771182c8f8e6e8896b925e9e5a296b069154008b56ba2bd71779544e196",
+    "sources": 1
+   },
+   {
+    "id": "csm-ruyi-shoes",
+    "path": "src/data/story-payloads/csm-ruyi-shoes.json",
+    "bytes": 4953,
+    "sha256": "e1c2b96834af8986fadeb964fa3b326c9487a4335edd9de84315ac5412bf4d0d",
+    "sources": 1
+   },
+   {
+    "id": "csm-peony-satin-shoe",
+    "path": "src/data/story-payloads/csm-peony-satin-shoe.json",
+    "bytes": 4831,
+    "sha256": "832aa3ae77cee29851209a7d33aca29f9d8550e76027dd7bfa461bb66a95e5d0",
+    "sources": 1
+   },
+   {
+    "id": "csm-gold-peony-shoes",
+    "path": "src/data/story-payloads/csm-gold-peony-shoes.json",
+    "bytes": 4570,
+    "sha256": "1554d5fd95437ff1546e60ed7079191160f338855860de0e4239addc945a14c5",
+    "sources": 1
+   },
+   {
+    "id": "csm-plain-skirt",
+    "path": "src/data/story-payloads/csm-plain-skirt.json",
+    "bytes": 4906,
+    "sha256": "12565e9c99e8c48077ebb14e8533d2f0570746559bdec0b96c34299a33d7d83b",
+    "sources": 1
+   },
+   {
+    "id": "csm-long-jacket",
+    "path": "src/data/story-payloads/csm-long-jacket.json",
+    "bytes": 4592,
+    "sha256": "83f8fc226cc659f7dc89889ff3043db4d6c5a75c0a69786c98f04fb13174711a",
+    "sources": 1
+   },
+   {
+    "id": "csm-short-jacket",
+    "path": "src/data/story-payloads/csm-short-jacket.json",
+    "bytes": 4731,
+    "sha256": "d63ccd83ca2168e95a97b83598a1e5c2e3a0f40d2723603bea34abdb384949cf",
+    "sources": 1
+   },
+   {
+    "id": "csm-patched-robe",
+    "path": "src/data/story-payloads/csm-patched-robe.json",
+    "bytes": 4740,
+    "sha256": "72a456422870f20bcd8fa0e3730998aedeb18478f140ad4fd91e7aada265ca0d",
+    "sources": 1
+   },
+   {
+    "id": "csm-padded-trousers",
+    "path": "src/data/story-payloads/csm-padded-trousers.json",
+    "bytes": 4350,
+    "sha256": "e8606fc0bf2c271b9525f9094c2088bd746571755392db6cb98255059ac9e3ea",
+    "sources": 1
+   },
+   {
+    "id": "cs-yuyang-cup-box",
+    "path": "src/data/story-payloads/cs-yuyang-cup-box.json",
+    "bytes": 5263,
+    "sha256": "6224531ce66fe6fddc1218b9f6834d675042aefe0398a62c622c05a1f8bf131b",
+    "sources": 1
+   },
+   {
+    "id": "cs-yuyang-triangle-cup",
+    "path": "src/data/story-payloads/cs-yuyang-triangle-cup.json",
+    "bytes": 5107,
+    "sha256": "cdc3c9c1f09ee02d5e33cc17f0e8ac0eb015cef911d10dfc8809925f48cf9525",
+    "sources": 1
+   },
+   {
+    "id": "cs-yuyang-phoenix-cup",
+    "path": "src/data/story-payloads/cs-yuyang-phoenix-cup.json",
+    "bytes": 4967,
+    "sha256": "529750e3185a63d41889a2bd61b6a34e686f8fba83b9bfde4498104a8ade0b7e",
+    "sources": 1
+   },
+   {
+    "id": "cs-changsha-seal-case",
+    "path": "src/data/story-payloads/cs-changsha-seal-case.json",
+    "bytes": 5275,
+    "sha256": "2c220837a5f4c166aeed6bb007cb001e45193508ea7233f5816b3ddf5fb3a86a",
+    "sources": 1
+   },
+   {
+    "id": "cs-yuyang-game-board",
+    "path": "src/data/story-payloads/cs-yuyang-game-board.json",
+    "bytes": 5328,
+    "sha256": "df17e63e7a3f981912d544cba0bac2d0ae3c551e0bdd18af8a7bbab2465fe6c7",
+    "sources": 1
+   },
+   {
+    "id": "gb-jade-rabbit",
+    "path": "src/data/story-payloads/gb-jade-rabbit.json",
+    "bytes": 4591,
+    "sha256": "fefb4a19e631128e1e8846b741b4cdabb4e3a3c0bfc6ce46a9ce45e917f80e1f",
+    "sources": 1
+   },
+   {
+    "id": "gb-jade-fish",
+    "path": "src/data/story-payloads/gb-jade-fish.json",
+    "bytes": 4383,
+    "sha256": "88083d7bf6e117250fbe698c6b240d95cbc01334c6cc9db9e6f140e5f42c0d7f",
+    "sources": 1
+   },
+   {
+    "id": "cd-hunting-pot",
+    "path": "src/data/story-payloads/cd-hunting-pot.json",
+    "bytes": 4557,
+    "sha256": "ad38dcb44e042c9304735d7de3dec0200221be02d5e6a92f08227b9bf6250f87",
+    "sources": 1
+   },
+   {
+    "id": "cd-silkworm-ge",
+    "path": "src/data/story-payloads/cd-silkworm-ge.json",
+    "bytes": 4260,
+    "sha256": "9a84f522a59b39967064a1b1e812364e7d9eac8a26807f49b9c0b35078d89f4f",
+    "sources": 1
+   },
+   {
+    "id": "cd-bashu-ladle",
+    "path": "src/data/story-payloads/cd-bashu-ladle.json",
+    "bytes": 4415,
+    "sha256": "84f8a4a95dc8b791aa469c280214f88cb8f9ed48dc32be3d4bdd5beab490224c",
+    "sources": 1
+   },
+   {
+    "id": "cd-stone-rhino",
+    "path": "src/data/story-payloads/cd-stone-rhino.json",
+    "bytes": 4847,
+    "sha256": "e527b590d57503a6396975b63600d2c0543d94321801734a3a40549106029de7",
+    "sources": 1
+   },
+   {
+    "id": "sz-proto-he",
+    "path": "src/data/story-payloads/sz-proto-he.json",
+    "bytes": 4630,
+    "sha256": "7b2ec638141c19046c0c342e8f759ea2125c78c8ef4546e845552a498ff23af1",
+    "sources": 1
+   },
+   {
+    "id": "sz-shufu-bowl",
+    "path": "src/data/story-payloads/sz-shufu-bowl.json",
+    "bytes": 4712,
+    "sha256": "33d63eecb2bad547121ad9976f029614cd27fd9dfc1cf1b25df3d77b4e066e07",
+    "sources": 1
+   },
+   {
+    "id": "sz-tricolor-horse",
+    "path": "src/data/story-payloads/sz-tricolor-horse.json",
+    "bytes": 4365,
+    "sha256": "697d3c4a4e36c5a5c7bbcf3882c9b3d66de301dc69b8fb574d2a5f3ab15909f7",
+    "sources": 1
+   },
+   {
+    "id": "sz-black-pot",
+    "path": "src/data/story-payloads/sz-black-pot.json",
+    "bytes": 4556,
+    "sha256": "14cb873cf76c72be6cf0c1bb0d05a8c01c74e2578b17e0ecf833589d1b10bcc2",
+    "sources": 1
+   },
+   {
+    "id": "cd-lacquer-dou",
+    "path": "src/data/story-payloads/cd-lacquer-dou.json",
+    "bytes": 5245,
+    "sha256": "fe3f162e4cfdc2769c124bf340640b2cf75a6661fdd05ddf72258b1d940128ba",
+    "sources": 1
+   },
+   {
+    "id": "cd-meridian-lacquer-model",
+    "path": "src/data/story-payloads/cd-meridian-lacquer-model.json",
+    "bytes": 5438,
+    "sha256": "2fd5059130ad684ec573c339ff848397bb9952939102a658d28fe3b09166144e",
+    "sources": 1
+   },
+   {
+    "id": "gb-linghua-lian",
+    "path": "src/data/story-payloads/gb-linghua-lian.json",
+    "bytes": 5031,
+    "sha256": "a0ec76dbff1a262248e8e424c37d8eb89308404b4745816b2f5eee9b21ce4792",
+    "sources": 1
+   },
+   {
+    "id": "gb-landscape-brushpot",
+    "path": "src/data/story-payloads/gb-landscape-brushpot.json",
+    "bytes": 5068,
+    "sha256": "325c4b48e2171bc17fdcad268c91b663766e9779a941053171bb6be5ca152d34",
+    "sources": 1
+   },
+   {
+    "id": "gb-medicine-lacquer-cabinet",
+    "path": "src/data/story-payloads/gb-medicine-lacquer-cabinet.json",
+    "bytes": 5405,
+    "sha256": "99c117ed2d00c8a4d8f3b664a4415d31ad181fc5cef8809ec74febe38095d83d",
+    "sources": 1
+   },
+   {
+    "id": "gb-bone-inlay-storage-box",
+    "path": "src/data/story-payloads/gb-bone-inlay-storage-box.json",
+    "bytes": 5512,
+    "sha256": "d851a20780bb78070b5d47801369cb35098edec87fa731ff54fc963020473e83",
+    "sources": 1
+   },
+   {
+    "id": "gb-red-panpipes",
+    "path": "src/data/story-payloads/gb-red-panpipes.json",
+    "bytes": 5214,
+    "sha256": "62fe53f41a55b6fa469f5ab2bea60fb931d5f038af171b8ad165ca72cbbe74aa",
+    "sources": 1
+   },
+   {
+    "id": "gb-folding-table",
+    "path": "src/data/story-payloads/gb-folding-table.json",
+    "bytes": 5009,
+    "sha256": "76228944c0e067d307ce710c8756a87aa06dd95360ca1e1b84c541fed3acc8f8",
+    "sources": 1
+   },
+   {
+    "id": "gb-basin-stand",
+    "path": "src/data/story-payloads/gb-basin-stand.json",
+    "bytes": 4855,
+    "sha256": "1ee1ab1862cfb72fa929fab323ab3bcd44109c49da677acf2be765e7c4dd0082",
+    "sources": 1
+   },
+   {
+    "id": "gb-red-embroidered-skirt",
+    "path": "src/data/story-payloads/gb-red-embroidered-skirt.json",
+    "bytes": 5198,
+    "sha256": "a0c04bec2b44b4711d6827ed64ca68a956163b9e161d3e3110ae445482c767a9",
+    "sources": 1
+   },
+   {
+    "id": "gb-blue-gauze-jacket",
+    "path": "src/data/story-payloads/gb-blue-gauze-jacket.json",
+    "bytes": 5004,
+    "sha256": "4932ae975fb096d27d4dfdf5182c21570eb2a20805a23dc944cdc06143334d02",
+    "sources": 1
+   },
+   {
+    "id": "gb-fish-embroidered-shoes",
+    "path": "src/data/story-payloads/gb-fish-embroidered-shoes.json",
+    "bytes": 5034,
+    "sha256": "f6d5f96764a1508a8e42fe456d59d28dfe91684416a010ce8c187c75df5c8046",
+    "sources": 1
+   },
+   {
+    "id": "gb-goose-kesi",
+    "path": "src/data/story-payloads/gb-goose-kesi.json",
+    "bytes": 4968,
+    "sha256": "dfc044b4fb9607d6b8288513584c9a67652b9e06341e05116ea43a1b57c749f1",
+    "sources": 1
+   },
+   {
+    "id": "gg-shen-meique-kesi",
+    "path": "src/data/story-payloads/gg-shen-meique-kesi.json",
+    "bytes": 5022,
+    "sha256": "3bd0089c4b59cb89fdbe40de7361d8ef9f0b8bae074215441655a510a39f3d46",
+    "sources": 1
+   },
+   {
+    "id": "gb-peony-gold-satin",
+    "path": "src/data/story-payloads/gb-peony-gold-satin.json",
+    "bytes": 5018,
+    "sha256": "56603f9ad476a4263ec48f72f52b9fa65d99e4db8c77a6efe9f53fa25659b79f",
+    "sources": 1
+   },
+   {
+    "id": "gg-chrysanthemum-lacquer-dish",
+    "path": "src/data/story-payloads/gg-chrysanthemum-lacquer-dish.json",
+    "bytes": 5453,
+    "sha256": "b244a3360401d84686bc8703bce32fc6551518a6c8da7dbb4c24e2480452222c",
+    "sources": 1
+   },
+   {
+    "id": "hb-heifu-letter",
+    "path": "src/data/story-payloads/hb-heifu-letter.json",
+    "bytes": 5106,
+    "sha256": "75e7b3a9f51794bf7147efa8d62e1f882cc2e0e44cbc27058c338f6808eed266",
+    "sources": 1
+   },
+   {
+    "id": "hb-xiaolv-slips",
+    "path": "src/data/story-payloads/hb-xiaolv-slips.json",
+    "bytes": 4969,
+    "sha256": "ca1873f5e5e76170a0c195e362aa9d9d14969eb306f5b942ff47a2ee3f46b2f0",
+    "sources": 1
+   },
+   {
+    "id": "hb-longgang-tablet",
+    "path": "src/data/story-payloads/hb-longgang-tablet.json",
+    "bytes": 4849,
+    "sha256": "19db1fc05a0e61e0ba59f752341b044ac873b24a16b2e40da75522bb3c7a1c6f",
+    "sources": 1
+   },
+   {
+    "id": "sz-bamboo-brushpot",
+    "path": "src/data/story-payloads/sz-bamboo-brushpot.json",
+    "bytes": 5030,
+    "sha256": "72a93383283be4fcfc6414ac168f935346afd2fac6e0b19012cf179aee4a7f67",
+    "sources": 1
+   },
+   {
+    "id": "cd-comic-figure",
+    "path": "src/data/story-payloads/cd-comic-figure.json",
+    "bytes": 5221,
+    "sha256": "afd2252ccedb2a2cb6ecdb5a0d000cf35ec35be663935679d0ad6dbd5be03fa1",
+    "sources": 1
+   },
+   {
+    "id": "cd-stone-bear",
+    "path": "src/data/story-payloads/cd-stone-bear.json",
+    "bytes": 5105,
+    "sha256": "a92f84f24e4e0ada646633077f35706a313f070f6205a948ac0d64454ef42f23",
+    "sources": 1
+   },
+   {
+    "id": "cd-chenghan-figure",
+    "path": "src/data/story-payloads/cd-chenghan-figure.json",
+    "bytes": 5361,
+    "sha256": "941b5807d84eb11c986bf9861affd1240f5ec94a7a832f41349b871b89c58667",
+    "sources": 1
+   },
+   {
+    "id": "cd-pottery-courtyard",
+    "path": "src/data/story-payloads/cd-pottery-courtyard.json",
+    "bytes": 5465,
+    "sha256": "1a62ea4132a88284d0c50394d62a8f46134101d30500f502bee830831b6ece0b",
+    "sources": 1
+   },
+   {
+    "id": "cd-qiong-kiln-censer",
+    "path": "src/data/story-payloads/cd-qiong-kiln-censer.json",
+    "bytes": 5390,
+    "sha256": "0ae8afb5a102dddae267c15a419b26167608434375828c5b5036e883aa6fefd1",
+    "sources": 1
+   },
+   {
+    "id": "cd-bronze-chess",
+    "path": "src/data/story-payloads/cd-bronze-chess.json",
+    "bytes": 5256,
+    "sha256": "0fff7f0ae6e582858ada4696dec135448093aa48c1881c70dd1c4a2ad8024bb7",
+    "sources": 1
+   },
+   {
+    "id": "cd-ding-child-pillow",
+    "path": "src/data/story-payloads/cd-ding-child-pillow.json",
+    "bytes": 5069,
+    "sha256": "11231d80b39f1a20f6272c90fe51b2c3e7b7d4631df5938af1a5086d57f2da21",
+    "sources": 1
+   },
+   {
+    "id": "cd-gold-hairpin",
+    "path": "src/data/story-payloads/cd-gold-hairpin.json",
+    "bytes": 4926,
+    "sha256": "f1ff92dd1bb00e4f8889242bb94f35d2693930faffa780645732df91ba1b10c5",
+    "sources": 1
+   },
+   {
+    "id": "cd-agate-snuff-bottle",
+    "path": "src/data/story-payloads/cd-agate-snuff-bottle.json",
+    "bytes": 5120,
+    "sha256": "b11d4757a4defee708fa4975a6cee30b3f69f92b55517405624b0d376008ac79",
+    "sources": 1
+   },
+   {
+    "id": "cd-peacock-bowl",
+    "path": "src/data/story-payloads/cd-peacock-bowl.json",
+    "bytes": 4945,
+    "sha256": "f9bb2ae415da36aef116a78602c5f86c55f31c19cce2ad0ae3a8372cade05873",
+    "sources": 1
+   },
+   {
+    "id": "cd-ge-ewer",
+    "path": "src/data/story-payloads/cd-ge-ewer.json",
+    "bytes": 4622,
+    "sha256": "9cd1274d636bfb43e7c0680612c85bc3bfefebfa6aa290086baf470b7b58c0b8",
+    "sources": 1
+   },
+   {
+    "id": "cd-bat-vase",
+    "path": "src/data/story-payloads/cd-bat-vase.json",
+    "bytes": 4362,
+    "sha256": "a283fd5ead1cf365fb61ff8f283a73b6aad9bd097d45ed8cd1cd37cb5a594043",
+    "sources": 1
+   },
+   {
+    "id": "cd-dragon-belt-hook",
+    "path": "src/data/story-payloads/cd-dragon-belt-hook.json",
+    "bytes": 4418,
+    "sha256": "fd88e41227ae36c4b93d87ddc1b10c8b46d09d1a8e3ae655ed0ac8af4d25b137",
+    "sources": 1
+   },
+   {
+    "id": "cd-attendant-figure",
+    "path": "src/data/story-payloads/cd-attendant-figure.json",
+    "bytes": 4514,
+    "sha256": "012aa9738cc8c1cdd1aa779368d95cbd5e2866cd40c566d975fee1550ee62fac",
+    "sources": 1
+   },
+   {
+    "id": "cd-beast-lei",
+    "path": "src/data/story-payloads/cd-beast-lei.json",
+    "bytes": 4430,
+    "sha256": "09e4b35f8904abfe57f4a5a43af172cf697c32ee7482c48562f40aff76f35739",
+    "sources": 1
+   },
+   {
+    "id": "sz-pottery-well",
+    "path": "src/data/story-payloads/sz-pottery-well.json",
+    "bytes": 4747,
+    "sha256": "a4e4031d0481e06b5834cadbdeb73bc741830fc9e4209e1aab16a4bbb9f1b5ad",
+    "sources": 1
+   },
+   {
+    "id": "sz-double-box",
+    "path": "src/data/story-payloads/sz-double-box.json",
+    "bytes": 4520,
+    "sha256": "c2c8c37fecde545e59a3b9672955741aa10403695e825fc66ab40dd3893739c2",
+    "sources": 1
+   },
+   {
+    "id": "sz-incense-burner",
+    "path": "src/data/story-payloads/sz-incense-burner.json",
+    "bytes": 4515,
+    "sha256": "8ae1407c74d64c0ba9fef1f87d9c2fabe397b069406c960cddf18733602ceae6",
+    "sources": 1
+   },
+   {
+    "id": "sz-marble-bowl",
+    "path": "src/data/story-payloads/sz-marble-bowl.json",
+    "bytes": 4558,
+    "sha256": "47f5581cda84cfba321b0eac659cd97d28a9cc67d113f98d1ecd862463d9902c",
+    "sources": 1
+   },
+   {
+    "id": "sz-marble-pillow",
+    "path": "src/data/story-payloads/sz-marble-pillow.json",
+    "bytes": 4597,
+    "sha256": "12cd984cea7c3f477ae987ac0ec4829930f0cfc912ca083ba4e874b7b02ef921",
+    "sources": 1
+   },
+   {
+    "id": "sz-pottery-dog",
+    "path": "src/data/story-payloads/sz-pottery-dog.json",
+    "bytes": 5120,
+    "sha256": "fa440cacc960705035a20faebaf23f99d2a41d73317889fc1d1d080fc9ba521d",
+    "sources": 1
+   },
+   {
+    "id": "sz-ewer-basin",
+    "path": "src/data/story-payloads/sz-ewer-basin.json",
+    "bytes": 5093,
+    "sha256": "96d8cc6146f732c6167e5a6916c391aba2ca0259b5e5ccff7431a415714df5ad",
+    "sources": 1
+   },
+   {
+    "id": "sz-oil-lamp",
+    "path": "src/data/story-payloads/sz-oil-lamp.json",
+    "bytes": 4849,
+    "sha256": "648307d83e862428e12d05c4475e5195bdc927a947adf2bbe8165b328d8a5b6a",
+    "sources": 1
+   },
+   {
+    "id": "sz-inlaid-table",
+    "path": "src/data/story-payloads/sz-inlaid-table.json",
+    "bytes": 4986,
+    "sha256": "81366037d5404f0dd57139e0af3031f06d46011f9ac092fd3613f42c440109ff",
+    "sources": 1
+   },
+   {
+    "id": "sz-stone-paddle",
+    "path": "src/data/story-payloads/sz-stone-paddle.json",
+    "bytes": 5163,
+    "sha256": "7de0caff9d427c0b43327ac4332505662e755cef261c4c9421967a4376e15a82",
+    "sources": 1
+   },
+   {
+    "id": "sz-tin-gourd-ewer",
+    "path": "src/data/story-payloads/sz-tin-gourd-ewer.json",
+    "bytes": 5045,
+    "sha256": "cb31e82af01404eda215688aac93f91515839fad7a427c53b4220e256902c32e",
+    "sources": 1
+   },
+   {
+    "id": "sz-carved-brushpot",
+    "path": "src/data/story-payloads/sz-carved-brushpot.json",
+    "bytes": 4871,
+    "sha256": "69159920ac00b447b6076c9d1d483168a0737ebeda6fcd1b0a627e08c8173091",
+    "sources": 1
+   },
+   {
+    "id": "sz-warming-copper-stove",
+    "path": "src/data/story-payloads/sz-warming-copper-stove.json",
+    "bytes": 4970,
+    "sha256": "75a6ca14b3cf4abcc3932aaed62e09f5d1e077bf07df402166c01ab38c46a52b",
+    "sources": 1
+   },
+   {
+    "id": "sz-grooved-stone",
+    "path": "src/data/story-payloads/sz-grooved-stone.json",
+    "bytes": 4762,
+    "sha256": "656fb9a47c21d3b263058d9465cf6a7a606efb209c0905f85690c6ee7fa9288a",
+    "sources": 1
+   },
+   {
+    "id": "sz-perforated-shovel",
+    "path": "src/data/story-payloads/sz-perforated-shovel.json",
+    "bytes": 4675,
+    "sha256": "f26382ef9f710e4d1b47e910ffacc0c9927b5d3dc88b3a1dde76e9559acf47f2",
+    "sources": 1
+   },
+   {
+    "id": "sz-crystal-point",
+    "path": "src/data/story-payloads/sz-crystal-point.json",
+    "bytes": 4780,
+    "sha256": "46d8e0c99d39bbebb31182bf2f41cb0bac862d17866b744199d8463f31b02619",
+    "sources": 1
+   },
+   {
+    "id": "sz-stone-adze",
+    "path": "src/data/story-payloads/sz-stone-adze.json",
+    "bytes": 4578,
+    "sha256": "ae403e4f531e0f373c25de0305cad5da79554231468d5616d17075e3e0ea5dca",
+    "sources": 1
+   },
+   {
+    "id": "sz-paper-cut-bowl",
+    "path": "src/data/story-payloads/sz-paper-cut-bowl.json",
+    "bytes": 4538,
+    "sha256": "dab4529c5b2e9859bd4ed3346dc9b56b647c27bfaa44fb67ec15b58444b8e540",
+    "sources": 1
+   },
+   {
+    "id": "sz-yue-box",
+    "path": "src/data/story-payloads/sz-yue-box.json",
+    "bytes": 4483,
+    "sha256": "f7a52d7a3e0c28f0a35360afb2aa7b0829ecb953b15f3d92718197af81c9bc60",
+    "sources": 1
+   },
+   {
+    "id": "gb-birch-milk-tube",
+    "path": "src/data/story-payloads/gb-birch-milk-tube.json",
+    "bytes": 4565,
+    "sha256": "20bb677803f307abf0b0f20bf049b99052992936cc9cb1d97ffaa26da66c1519",
+    "sources": 1
+   },
+   {
+    "id": "gb-dade-coin",
+    "path": "src/data/story-payloads/gb-dade-coin.json",
+    "bytes": 4871,
+    "sha256": "cbd7df3a0fadf7b01250635a80ca27892eb0e1b975d0c7b2f32048c7be6f7b98",
+    "sources": 1
+   },
+   {
+    "id": "gb-guobao-coin",
+    "path": "src/data/story-payloads/gb-guobao-coin.json",
+    "bytes": 4707,
+    "sha256": "154950512fb7d5e25439f525f9d9f1dd07319e560003d8eb8305dbaa4ca9e943",
+    "sources": 1
+   },
+   {
+    "id": "gb-wuzhu-mould",
+    "path": "src/data/story-payloads/gb-wuzhu-mould.json",
+    "bytes": 4618,
+    "sha256": "381f0bcea9998dc0782d9bf9c5a1b535e702987abebfe2e75ebbb1f1f40ddf82",
+    "sources": 1
+   },
+   {
+    "id": "gb-small-banliang",
+    "path": "src/data/story-payloads/gb-small-banliang.json",
+    "bytes": 4406,
+    "sha256": "29321256a3252468fbfaf9c492c9dbfd93f274622f74186bbccd02889a479eb8",
+    "sources": 1
+   },
+   {
+    "id": "gb-jade-crab-inkstone",
+    "path": "src/data/story-payloads/gb-jade-crab-inkstone.json",
+    "bytes": 4527,
+    "sha256": "603e6565651936b2145935b7553ec629de283c48d22a44f3228da668aa5a60f0",
+    "sources": 1
+   },
+   {
+    "id": "gb-jade-bamboo-brushpot",
+    "path": "src/data/story-payloads/gb-jade-bamboo-brushpot.json",
+    "bytes": 5051,
+    "sha256": "b73e913f203095731dde0822dcc20ae8bd49aea58a5311bc803125c2821d5052",
+    "sources": 1
+   },
+   {
+    "id": "sz-white-dragon-ewer",
+    "path": "src/data/story-payloads/sz-white-dragon-ewer.json",
+    "bytes": 4908,
+    "sha256": "925a7bc4c2aa79fd15a2e7b9d705c3036890a2aaa9e185be1a377642c4c85a90",
+    "sources": 1
+   },
+   {
+    "id": "sz-tricolor-flat-flask",
+    "path": "src/data/story-payloads/sz-tricolor-flat-flask.json",
+    "bytes": 4908,
+    "sha256": "1bd3240b765838abecd816036918438570e0742cbd6e980160fec0e6ccfca373",
+    "sources": 1
+   },
+   {
+    "id": "sz-celadon-ewer",
+    "path": "src/data/story-payloads/sz-celadon-ewer.json",
+    "bytes": 4682,
+    "sha256": "7cb59a74ba6c62dbf2d6a461ac50abe60ca3343186dc484ad1aced06a710edf6",
+    "sources": 1
+   },
+   {
+    "id": "sz-changsha-ewer",
+    "path": "src/data/story-payloads/sz-changsha-ewer.json",
+    "bytes": 5024,
+    "sha256": "e97737c0fe29ff994c766ec4a21da99f675f60f5b893f802e6ed8174d145cf63",
+    "sources": 1
+   },
+   {
+    "id": "sy-wyc",
+    "path": "src/data/story-payloads/sy-wyc.json",
+    "bytes": 4848,
+    "sha256": "97b47aad49ab6095d8f5422ed32cd5cbeb3cf092a4389a7c3be21d03e45295b3",
+    "sources": 1
+   },
+   {
+    "id": "hain-hhl",
+    "path": "src/data/story-payloads/hain-hhl.json",
+    "bytes": 4561,
+    "sha256": "90c88fd121b8fbf2f42029c150488ac4dd5d90868bcb68be0b7273a649c8b4ed",
+    "sources": 1
+   },
+   {
+    "id": "xz-byj",
+    "path": "src/data/story-payloads/xz-byj.json",
+    "bytes": 4437,
+    "sha256": "6f115c134ad1f0bc5bff4a7330762112eafd4fdea26b5dead7d261268aafa302",
+    "sources": 1
+   },
+   {
+    "id": "qh-tk",
+    "path": "src/data/story-payloads/qh-tk.json",
+    "bytes": 4521,
+    "sha256": "f2add87c2358c2971381135dfa11473ff4dd26f447a7d5568e5b5c31789c2614",
+    "sources": 1
+   },
+   {
+    "id": "mo-wxh",
+    "path": "src/data/story-payloads/mo-wxh.json",
+    "bytes": 4627,
+    "sha256": "6ef649b678927e7a7044bd48616e6c6b70e40e71cc997cede96d2caa6a79683c",
+    "sources": 1
+   },
+   {
+    "id": "wh-stone-spade",
+    "path": "src/data/story-payloads/wh-stone-spade.json",
+    "bytes": 5629,
+    "sha256": "2f67e0f7f920afb4fe0f8c7a0d04ec32ac16c1a3a7f4412257c44c34d138b2cb",
+    "sources": 1
+   },
+   {
+    "id": "wh-drum-pot",
+    "path": "src/data/story-payloads/wh-drum-pot.json",
+    "bytes": 4804,
+    "sha256": "e74ab0f6af095053068121ea71abc43d9d6dc59fa08da0ee743a5e453d06043b",
+    "sources": 1
+   },
+   {
+    "id": "wh-pottery-yan",
+    "path": "src/data/story-payloads/wh-pottery-yan.json",
+    "bytes": 5152,
+    "sha256": "359dc67baea7d0f67a73cadc6a19d6ffad6edb21da8675e7366c59942466291b",
+    "sources": 1
+   },
+   {
+    "id": "wh-pottery-dui",
+    "path": "src/data/story-payloads/wh-pottery-dui.json",
+    "bytes": 4838,
+    "sha256": "96abaa68fad82f2b2a9988b74135b74f6af55227016750aee49699fc87a7446b",
+    "sources": 1
+   },
+   {
+    "id": "wh-pigsty-latrine",
+    "path": "src/data/story-payloads/wh-pigsty-latrine.json",
+    "bytes": 5056,
+    "sha256": "13ac41212026b5b577d2c7d54d99a945dd996ccc48f3ea98de6956978f2f1cfc",
+    "sources": 1
+   },
+   {
+    "id": "wh-mother-candlestick",
+    "path": "src/data/story-payloads/wh-mother-candlestick.json",
+    "bytes": 5716,
+    "sha256": "66c52e2dd00f9e98faa6758c0a35bd4efda3ad54f5f9aaff9becec5b3b3129d3",
+    "sources": 1
+   },
+   {
+    "id": "wh-dabu-coin",
+    "path": "src/data/story-payloads/wh-dabu-coin.json",
+    "bytes": 5538,
+    "sha256": "ef93d6fbf349d758d946194715148cf202da444f10df2b61bc0d1410728b8f6d",
+    "sources": 1
+   },
+   {
+    "id": "wh-measuring-ding",
+    "path": "src/data/story-payloads/wh-measuring-ding.json",
+    "bytes": 5188,
+    "sha256": "7d7358a60878b592c91f72f7d330a13add8d0667ca6ff573b72db03da4518347",
+    "sources": 1
+   },
+   {
+    "id": "wh-people-mirror",
+    "path": "src/data/story-payloads/wh-people-mirror.json",
+    "bytes": 5255,
+    "sha256": "03147e6cc70a28e5546ad50e7b56f2ba674825b1670bd8b77811a4c6d26a61da",
+    "sources": 1
+   },
+   {
+    "id": "wh-yangguang-trigger",
+    "path": "src/data/story-payloads/wh-yangguang-trigger.json",
+    "bytes": 5265,
+    "sha256": "2059166fc4687740d5a3ebb4dca2ab35eee7bdf469801ed7a4088f195ebf6433",
+    "sources": 1
+   },
+   {
+    "id": "wh-lushi-mirror",
+    "path": "src/data/story-payloads/wh-lushi-mirror.json",
+    "bytes": 5370,
+    "sha256": "a401def3c9c384479ffdd1bd46011f58d10178fd7ef0c2b5f38ec9921ae6962e",
+    "sources": 1
+   },
+   {
+    "id": "wh-fortress-model",
+    "path": "src/data/story-payloads/wh-fortress-model.json",
+    "bytes": 5340,
+    "sha256": "ede80fa5747ef3c8d6a8288190499e9f8d70bf7c7cbfc6b282593c3fae3eda34",
+    "sources": 1
+   },
+   {
+    "id": "wh-shield-figure",
+    "path": "src/data/story-payloads/wh-shield-figure.json",
+    "bytes": 5237,
+    "sha256": "575f749d3aa48fc763a15cc714058a4e3a1dee6f054f61c58a539281c254ce78",
+    "sources": 1
+   },
+   {
+    "id": "wh-zhaozhuo-trigger",
+    "path": "src/data/story-payloads/wh-zhaozhuo-trigger.json",
+    "bytes": 5486,
+    "sha256": "e7d34d2d0e1a987f690051391fcb483c9a4f125ec9a8990b1dbd5bea4cea74c4",
+    "sources": 1
+   },
+   {
+    "id": "wh-tiger-vessel",
+    "path": "src/data/story-payloads/wh-tiger-vessel.json",
+    "bytes": 5176,
+    "sha256": "50f767c05f94bbba7482fccdfce1c44c5ede2ecaa3a05a3ee66dd9dd85ca97c3",
+    "sources": 1
+   },
+   {
+    "id": "wh-well-model",
+    "path": "src/data/story-payloads/wh-well-model.json",
+    "bytes": 5162,
+    "sha256": "64d944ffb4410a7c95f9c4716d1a0ec6e120764a02b6e45e9a4676cec5195c6f",
+    "sources": 1
+   },
+   {
+    "id": "wh-many-foot-inkstone",
+    "path": "src/data/story-payloads/wh-many-foot-inkstone.json",
+    "bytes": 5099,
+    "sha256": "5ff325bbe6ccb1cb6dcc6e4e18aac4402724afe0f804d934869b941b2f359034",
+    "sources": 1
+   },
+   {
+    "id": "wh-snake-seal",
+    "path": "src/data/story-payloads/wh-snake-seal.json",
+    "bytes": 4834,
+    "sha256": "871a82225e774f6e4dbe2f09424851c042147754e9903a98fd176bcb289c8314",
+    "sources": 1
+   },
+   {
+    "id": "wh-chicken-ewer",
+    "path": "src/data/story-payloads/wh-chicken-ewer.json",
+    "bytes": 5039,
+    "sha256": "6fc79db34b0418bad67fe91533a922fb87ec350dbd0bf1cd8c6ec25a63c91c96",
+    "sources": 1
+   },
+   {
+    "id": "wh-chengni-inkstone",
+    "path": "src/data/story-payloads/wh-chengni-inkstone.json",
+    "bytes": 5325,
+    "sha256": "319df8237931116b10ed0e24a5a4404cb961ae6f08f1feee13afa3e3a6de2fd6",
+    "sources": 1
+   },
+   {
+    "id": "cz-gold-lotus-box",
+    "path": "src/data/story-payloads/cz-gold-lotus-box.json",
+    "bytes": 6376,
+    "sha256": "a48107d18e2fc6ea2a78ef90877fd71da6077491ab1e1be893da4d6a1a925736",
+    "sources": 1
+   },
+   {
+    "id": "cz-trumpet-lacquer",
+    "path": "src/data/story-payloads/cz-trumpet-lacquer.json",
+    "bytes": 5705,
+    "sha256": "03bc8784b40a3872ee5ad245b01d4044ad5f5203987356e2aaa65732fbcc42fd",
+    "sources": 1
+   },
+   {
+    "id": "cz-carved-cup",
+    "path": "src/data/story-payloads/cz-carved-cup.json",
+    "bytes": 5300,
+    "sha256": "86f8db229859e7245d3f9b323daffdc0ea6c44506fea94cf3cdfc5403e6478f5",
+    "sources": 1
+   },
+   {
+    "id": "cz-wood-cane",
+    "path": "src/data/story-payloads/cz-wood-cane.json",
+    "bytes": 5146,
+    "sha256": "5034253b8964e805928ebeb1478bf358e4f78c46208ea53f91994a29c07c79fe",
+    "sources": 1
+   },
+   {
+    "id": "cz-wood-spoon",
+    "path": "src/data/story-payloads/cz-wood-spoon.json",
+    "bytes": 4994,
+    "sha256": "5e3faf325a133be0faa8c85179b61ff6894e4ad80fba1e5031e0527a61fbe8e7",
+    "sources": 1
+   },
+   {
+    "id": "cz-wood-chopstick",
+    "path": "src/data/story-payloads/cz-wood-chopstick.json",
+    "bytes": 5037,
+    "sha256": "2f7a12ce697c52e4af93bbe60622f166207d0089743eef0a22a2ccb3f72ab47b",
+    "sources": 1
+   },
+   {
+    "id": "cz-yuan-black-bowl",
+    "path": "src/data/story-payloads/cz-yuan-black-bowl.json",
+    "bytes": 4883,
+    "sha256": "03c75ecad82739bc07040a87772d35feb3b746a794d1be8e914b1d0b05c6bb75",
+    "sources": 1
+   },
+   {
+    "id": "cz-phagspa-bowl",
+    "path": "src/data/story-payloads/cz-phagspa-bowl.json",
+    "bytes": 4817,
+    "sha256": "cddb8d219342f857bee4395b2f7dfab766a7b5eade95a059bab70e43fab25917",
+    "sources": 1
+   },
+   {
+    "id": "cz-bamboo-comb",
+    "path": "src/data/story-payloads/cz-bamboo-comb.json",
+    "bytes": 4802,
+    "sha256": "4c4aad4f9cf725f402b774d265c9fd1b3fbfa74d942d74d778c74988cda438a6",
+    "sources": 1
+   },
+   {
+    "id": "cz-pearl-comb",
+    "path": "src/data/story-payloads/cz-pearl-comb.json",
+    "bytes": 4542,
+    "sha256": "3ee5ebdd1573880f32d2e8beb53cfe50d648cac9103f79d00132979964d4082d",
+    "sources": 1
+   },
+   {
+    "id": "cz-wood-roller",
+    "path": "src/data/story-payloads/cz-wood-roller.json",
+    "bytes": 5141,
+    "sha256": "59b6ef5bf450aeccabdd23abde0ff0bd3b1233ae71f530b920e78d780b0376ab",
+    "sources": 1
+   },
+   {
+    "id": "cz-lacquer-brush",
+    "path": "src/data/story-payloads/cz-lacquer-brush.json",
+    "bytes": 4979,
+    "sha256": "66cff68ab8477de141f11366a3704455ecd87f3073d2e3847950a00bc81de368",
+    "sources": 1
+   },
+   {
+    "id": "cz-wood-chair",
+    "path": "src/data/story-payloads/cz-wood-chair.json",
+    "bytes": 5026,
+    "sha256": "90204cb4895ac3f4c9de645789a9295ea2a80aa7a5ed5314be49f8887c3fccad",
+    "sources": 1
+   },
+   {
+    "id": "cz-wood-table",
+    "path": "src/data/story-payloads/cz-wood-table.json",
+    "bytes": 5052,
+    "sha256": "61ef645971083992a976eea0f9277721a9650e76b90e4dd79b62fe3ae3163926",
+    "sources": 1
+   },
+   {
+    "id": "cz-lacquer-teacup",
+    "path": "src/data/story-payloads/cz-lacquer-teacup.json",
+    "bytes": 5181,
+    "sha256": "db28c129eef8073126ccf1adf9c70c73929a73cb29a40526c387d54417f562b9",
+    "sources": 1
+   },
+   {
+    "id": "cz-petal-dish",
+    "path": "src/data/story-payloads/cz-petal-dish.json",
+    "bytes": 5062,
+    "sha256": "9741dd5e140ecb56967ad87cfa9edbed743c374597f0cbbb1247f07c6238fb2d",
+    "sources": 1
+   },
+   {
+    "id": "cz-black-washer",
+    "path": "src/data/story-payloads/cz-black-washer.json",
+    "bytes": 5097,
+    "sha256": "334bc66fa2f4ee683de2feb748d18a1c2cb5a9dbf08f3fc943f0f02d17ee8964",
+    "sources": 1
+   },
+   {
+    "id": "cz-mirror-case",
+    "path": "src/data/story-payloads/cz-mirror-case.json",
+    "bytes": 5096,
+    "sha256": "2ac8b81b6ad091219b7f4128da852c9fa920c76ddb50ae42c88e139968aa399f",
+    "sources": 1
+   },
+   {
+    "id": "cz-red-rect-box",
+    "path": "src/data/story-payloads/cz-red-rect-box.json",
+    "bytes": 5560,
+    "sha256": "c973c9b66e3789c22f7813c085739cc80648c1bac9ccd2f9964ad457ceedf587",
+    "sources": 1
+   },
+   {
+    "id": "cz-willow-box",
+    "path": "src/data/story-payloads/cz-willow-box.json",
+    "bytes": 5423,
+    "sha256": "f419aaeb3179609bd616b094501b3ecb0b241fdb7f6ff6da1033638f6acc2e86",
+    "sources": 1
+   },
+   {
+    "id": "cz-silk-brush",
+    "path": "src/data/story-payloads/cz-silk-brush.json",
+    "bytes": 4864,
+    "sha256": "bc9d16ab51fcbbbe9755945b6917f018e38a5008fdbb27437bd1cad6df01aede",
+    "sources": 1
+   },
+   {
+    "id": "cz-red-hairpick",
+    "path": "src/data/story-payloads/cz-red-hairpick.json",
+    "bytes": 5244,
+    "sha256": "ee6e87f86bc3111ca2f12df04708eea14ebb4212b0ef5479160cf88502910cd0",
+    "sources": 1
+   },
+   {
+    "id": "cz-changzhou-bowl",
+    "path": "src/data/story-payloads/cz-changzhou-bowl.json",
+    "bytes": 5261,
+    "sha256": "be91cd8d67e262006de7fe6cf50fb900c335fa8a936782c009522a950081e20e",
+    "sources": 1
+   },
+   {
+    "id": "cz-wood-paddle",
+    "path": "src/data/story-payloads/cz-wood-paddle.json",
+    "bytes": 5255,
+    "sha256": "023ac8c571ceb0ac97f2f9698a0acf946d33f65a9eb1acf0bb043f3c42d8cf0e",
+    "sources": 1
+   },
+   {
+    "id": "cz-wood-scull",
+    "path": "src/data/story-payloads/cz-wood-scull.json",
+    "bytes": 5392,
+    "sha256": "3f7db45741935730d42b2d84a4cf85e311c723505bbf74fec9187ee28425c23f",
+    "sources": 1
    }
   ]
  }

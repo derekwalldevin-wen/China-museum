@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gsjd-camel-dispute",
+  "hook": "使者上书：驼被评贱了",
+  "summary": "甘肃简牍博物馆藏西汉简册（整册计一条）。1990年出土于悬泉置遗址，两道编绳尚存，字迹清晰、内容完整。简文记康居王使者五人从敦煌入关贡献骆驼，在酒泉评估时发生纠纷；政府下令严查，最终调查结果简中未载。",
+  "summaryRefs": [
+   "t04-gsjd-camel-dispute-official"
+  ],
+  "sections": [
+   {
+    "title": "礼物怎么算价钱",
+    "text": "官方摘录列出评估涉及的几项：毛色、肥瘦、年齿、价值。也就是说，贡献的骆驼要按一套标准折算价值——颜色、胖瘦、年龄都影响估价。进入汉境之后，这五个人带着骆驼从敦煌往内走，到酒泉再评估时出了问题。",
+    "refs": [
+     "t04-gsjd-camel-dispute-official"
+    ]
+   },
+   {
+    "title": "纠纷的两条理由",
+    "text": "简文说到：使者称入境后没有得到应有的膳食；边关官吏又在使者不在场的情况下私自评估骆驼价值，把肥的说成瘦的、白的说成黄的。这两点性质不同——一个是待遇问题，一个是程序与评估问题。使者为此上书。",
+    "refs": [
+     "t04-gsjd-camel-dispute-official"
+    ]
+   },
+   {
+    "title": "然后呢？没有然后",
+    "text": "简文中政府下令严查此事；至于最终的调查结果，简里没有记载。本条因此不写“后来查明”“使者获得补偿”之类的续文——那是编造。能确定的是：一起涉外纠纷被写下来，并进入了下令查办的流程。",
+    "refs": [
+     "t04-gsjd-camel-dispute-official"
+    ]
+   },
+   {
+    "title": "两道编绳还在",
+    "text": "官方记录特别提到：两道编绳尚存，字迹清晰、内容完整。对简册而言这是难得的状态——绳子还在，说明编连关系可以直接观察，不必靠锲口与推测复原。它也是本册能被完整释读的原因之一。",
+    "refs": [
+     "t04-gsjd-camel-dispute-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与保存",
+    "text": "1990年悬泉置遗址出土；两道编绳尚存，字迹清晰、内容完整。",
+    "refs": [
+     "t04-gsjd-camel-dispute-official"
+    ]
+   },
+   {
+    "title": "事由",
+    "text": "康居王使者五人从敦煌入关贡献骆驼，在酒泉评估时发生纠纷。",
+    "refs": [
+     "t04-gsjd-camel-dispute-official"
+    ]
+   },
+   {
+    "title": "申诉内容",
+    "text": "未得应有膳食；官吏在其不在场时私自评估，变肥为瘦、变白为黄。",
+    "refs": [
+     "t04-gsjd-camel-dispute-official"
+    ]
+   },
+   {
+    "title": "处理",
+    "text": "政府下令严查；最终调查结果简中未载。",
+    "refs": [
+     "t04-gsjd-camel-dispute-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "不编造结局，不把原册画成骆驼。",
+    "refs": [
+     "t04-gsjd-camel-dispute-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么一次估价纠纷会被郑重写成简册？",
+   "answer": "因为涉及外来使者。接待与评估有既定规矩，规矩被指违反，就必须查。文书既是申诉的记录，也是下令查办的凭证。写下来，这件事就进入了可以被追问的程序——这对当时的人，比一时的结果更重要。",
+   "refs": [
+    "t04-gsjd-camel-dispute-official"
+   ]
+  },
+  "uncertainty": "最终调查结果、五名使者姓名与后续行程、骆驼数量与具体估价均未载；不编造结局；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；整册计一条。",
+  "related": [
+   {
+    "id": "gsjd-changluo-expenses",
+    "reason": "丝路往来的两种文书：一册记使者过境的接待开支，一册记使者对贡献物估价的申诉，比较驿站账目与涉外纠纷。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-imperial-search",
+    "reason": "都涉及“上面下令”：一件要各地追查某人，一件要查估价纠纷，比较政令启动的两种缘由。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-camel-dispute-official": {
+   "id": "t04-gsjd-camel-dispute-official",
+   "title": "官方逐件记录：永光五年康居王使者自言献驼直不如实册（exhibit_id=6）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=6",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1990年悬泉置遗址出土；两道编绳尚存，字迹清晰、内容完整；记康居王使者五人从敦煌入关后贡献骆驼，评估涉及毛色、肥瘦、年齿与价值；在酒泉评估时发生纠纷，使者称未得应有膳食、边关官吏在其不在场时私自评估；政府下令严查；简中未载最终调查结果。不编造结局，不将原册画成骆驼；不构成照片授权。"
+  }
+ }
+}

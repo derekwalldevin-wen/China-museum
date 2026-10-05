@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-perforated-shovel",
+  "hook": "残长八厘米多的石铲，上面有一个穿孔",
+  "summary": "深圳博物馆藏商周穿孔石铲，残长8.65厘米、宽6.51厘米。穿孔、石材与残存刃部是可观察的线索；原装柄方式、完整轮廓与出土地点，官方记录没有给出。残长指现存部分的长度，完整长度未知。",
+  "summaryRefs": [
+   "t03-sz-perforated-shovel-official"
+  ],
+  "sections": [
+   {
+    "title": "先读两个数字",
+    "text": "穿孔石铲残长8.65厘米、宽6.51厘米。残长指现存部分的长度，完整长度并未记录；把残长当整体尺寸去想象它的原貌，等于凭空补上缺失的那一段。这两个数字是记录的边线，也是观察的起点。",
+    "refs": [
+     "t03-sz-perforated-shovel-official"
+    ]
+   },
+   {
+    "title": "穿孔",
+    "text": "器身上有一处穿孔。穿孔在同类石器中常与装柄或系绳有关，这属类型背景；本件的孔开在什么位置、孔径多少，记录未载。生成图只概括穿孔的存在，不据示意图判断孔的数量与位置。原装柄方式同样没有材料。",
+    "refs": [
+     "t03-sz-perforated-shovel-official"
+    ]
+   },
+   {
+    "title": "石材与残存的刃部",
+    "text": "石材与残存刃部是可核的观察项：一块石料被打磨成薄片，边缘保留刃口。残件能看的部分有限，超出残存范围的完整轮廓属于未载，不按生成图做测绘。",
+    "refs": [
+     "t03-sz-perforated-shovel-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看一件残器，能看到的是它被使用过的痕迹与它断掉之后的形状。这层感受属当代阐释。出土地点、入藏经过、石材产地与制作时间依据，官方记录未载；逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-perforated-shovel-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代",
+    "text": "馆方定为商周。",
+    "refs": [
+     "t03-sz-perforated-shovel-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "残长8.65厘米、宽6.51厘米；残长指现存部分长度。",
+    "refs": [
+     "t03-sz-perforated-shovel-official"
+    ]
+   },
+   {
+    "title": "形态",
+    "text": "石材；器身有穿孔与残存刃部。",
+    "refs": [
+     "t03-sz-perforated-shovel-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "原装柄方式与完整轮廓未载；缺失部分不据示意图补全。",
+    "refs": [
+     "t03-sz-perforated-shovel-official"
+    ]
+   },
+   {
+    "title": "入藏",
+    "text": "出土地点与入藏经过未载。",
+    "refs": [
+     "t03-sz-perforated-shovel-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "一件残器，为什么还要记录它的宽与长？",
+   "answer": "因为尺寸是可以在残件上直接量到的数据，不需要猜测完整器形。宽6.51厘米说明现存部分的体量，残长8.65厘米说明它断在何处。把这两个数字写清楚，比复原一个想象中的完整石铲更有用。",
+   "refs": [
+    "t03-sz-perforated-shovel-official"
+   ]
+  },
+  "uncertainty": "完整轮廓与原装柄方式未载；出土地点与入藏经过未载；穿孔位置与数量不据示意图判断；石材产地未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-stone-adze",
+    "reason": "同为商周石器：一件残存刃部与穿孔，一件长7.2厘米、宽4.59厘米并记有重量，比较两件器体尺寸记录的完整程度。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-grooved-stone",
+    "reason": "两件深圳馆藏石器的关键记录都缺：一件缺完整轮廓与出土地，一件缺尺寸与功能，比较残缺状态下仍可观察的部位。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-perforated-shovel-official": {
+   "id": "t03-sz-perforated-shovel-official",
+   "title": "官方逐件记录：穿孔石铲（563e820a32b547d5809c989ebd2c6c7e）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=563e820a32b547d5809c989ebd2c6c7e",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方定为商周；残长8.65厘米、宽6.51厘米；器身有穿孔与残存刃部，石材可辨。未载：原装柄方式、完整轮廓与出土地点；缺失部分不据生成图补全；不构成照片授权。"
+  }
+ }
+}

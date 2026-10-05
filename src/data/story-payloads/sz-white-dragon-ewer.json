@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-white-dragon-ewer",
+  "hook": "壶的把手是一条龙",
+  "summary": "深圳博物馆藏唐代白瓷龙柄壶，高24.8厘米，2010年由日本某友好团体捐赠入藏。白瓷质地与龙形把手是馆方定名的依据；原窑口、出土地点与具体功能没有记录。",
+  "summaryRefs": [
+   "t03-sz-white-dragon-ewer-official"
+  ],
+  "sections": [
+   {
+    "title": "把手做成龙",
+    "text": "馆方把这件壶定名为白瓷龙柄壶。壶身圆鼓，一侧伸出流，用来倾倒；另一侧是抬起的柄，被塑成龙形，龙首朝上探向壶口。高24.8厘米，属于可以单手提起的体量。柄在这里同时承担两件事：手要握住它，眼睛要看它。",
+    "refs": [
+     "t03-sz-white-dragon-ewer-official"
+    ]
+   },
+   {
+    "title": "白瓷说的是胎与釉",
+    "text": "白瓷这一名称指的是胎、釉的颜色取向，馆方以此定名。至于胎土的产地、釉料的配比和烧成温度，记录没有给出，需要另找检测资料。名称只说清了它属于哪一类器物，没有交代它在哪一座窑里烧成。",
+    "refs": [
+     "t03-sz-white-dragon-ewer-official"
+    ]
+   },
+   {
+    "title": "龙柄不等于御用",
+    "text": "龙在后世常与皇权联系在一起，但唐代龙纹的使用范围要比这宽。把龙形柄直接读成宫廷专用，需要更多证据，馆方记录没有提及使用者身份。属研究解释的一层是：龙形柄便于抓握、又能形成醒目的轮廓，实用与造型在同一部位汇合；具体功能仍未知。",
+    "refs": [
+     "t03-sz-white-dragon-ewer-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，它的看点集中在那条柄上：一头是手，一头是龙。2010年由日本某友好团体捐赠深圳博物馆，这条记录说明的是现代入藏途径，与原窑口、出土地点无关。示意图为AI生成，龙首五官与把手连接的结构细节要以馆方文字记录为准，不据它判断。逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-white-dragon-ewer-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "馆藏与年代",
+    "text": "深圳博物馆藏；馆方定为唐代。",
+    "refs": [
+     "t03-sz-white-dragon-ewer-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高24.8厘米。",
+    "refs": [
+     "t03-sz-white-dragon-ewer-official"
+    ]
+   },
+   {
+    "title": "入藏",
+    "text": "2010年由日本某友好团体捐赠深圳博物馆。",
+    "refs": [
+     "t03-sz-white-dragon-ewer-official"
+    ]
+   },
+   {
+    "title": "定名依据",
+    "text": "白瓷质地与龙形柄可核；原窑口未载。",
+    "refs": [
+     "t03-sz-white-dragon-ewer-official"
+    ]
+   },
+   {
+    "title": "未载与提示",
+    "text": "出土地点、具体功能与使用者未载；示意图为AI生成，龙首五官与烧造细节不据它判断。",
+    "refs": [
+     "t03-sz-white-dragon-ewer-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把柄做成龙的样子？",
+   "answer": "柄是手要握住的地方，做成龙形，等于把最实用的部位也当成装饰面来做。龙的轮廓能不能握得舒服，烧成之后会不会变形，都是烧窑时要一起解决的问题。这一件的原窑口未载，具体做法还缺工序记录。",
+   "refs": [
+    "t03-sz-white-dragon-ewer-official"
+   ]
+  },
+  "uncertainty": "原窑口与出土地点未载；具体功能与使用者未载；胎釉配比与烧成温度未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-celadon-ewer",
+    "reason": "同为执壶，一件以白釉配龙形柄，一件以青釉配瓜棱器身，可以比较柄、流与器身线条的安排。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-tricolor-flat-flask",
+    "reason": "一件立身带龙柄，一件扁身、正面绶带纹凸起，可以比较器身厚度与拿握部位的处理差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-white-dragon-ewer-official": {
+   "id": "t03-sz-white-dragon-ewer-official",
+   "title": "官方逐件记录：白瓷龙柄壶（9621130cb129472b9826f64d64a21204）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9621130cb129472b9826f64d64a21204",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方逐件记录给出唐代年代、高24.8厘米、白瓷龙柄壶定名，2010年由日本某友好团体捐赠深圳博物馆。未载：原窑口、出土地点与具体功能；AI示意图只概括把手结构，龙首五官未核；不构成照片授权。"
+  }
+ }
+}

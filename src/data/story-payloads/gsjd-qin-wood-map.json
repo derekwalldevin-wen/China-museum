@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gsjd-qin-wood-map",
+  "hook": "四块木板，七幅地图",
+  "summary": "甘肃简牍博物馆藏秦代木板地图（本组计一条）。1986年6月出土于天水放马滩1号秦墓：4块木板绘7幅地图，其中1幅未完成；6幅可分可合，大体反映今天水、秦安、清水一带地形。馆方称其为考古发掘的最早木板地图。",
+  "summaryRefs": [
+   "t04-gsjd-qin-wood-map-official"
+  ],
+  "sections": [
+   {
+    "title": "四块板，七幅图",
+    "text": "官方摘录给出明细：4块木板，共绘7幅地图；其中3块正反两面绘制，1块只一面绘制；7幅里有1幅尚未完成，只绘部分线条、未标地名，完整的有6幅。第一块木板还是由3块拼接而成。全组按一件文物计，不拆成7件。",
+    "refs": [
+     "t04-gsjd-qin-wood-map-official"
+    ]
+   },
+   {
+    "title": "图上有什么",
+    "text": "按官方记录：第一块正面绘山脉河流并标地名10处，背面标8处；第二块单面绘山川地形与关隘道路，标地名10处，另有大小关口5处及林木资源、道里；第三块正面标地名12处，背面未完成；第四块正面标地名18处。这些数字来自馆方逐板的清点。",
+    "refs": [
+     "t04-gsjd-qin-wood-map-official"
+    ]
+   },
+   {
+    "title": "分与合",
+    "text": "馆方的表述是：6幅地图单则为分幅图，合则可拼为一幅整图，大体反映今天水、秦安、清水一带的地形地貌。这是对图面关系的判断——分幅绘制、合观成图。至于原使用者的具体用途（行军、行政还是田猎），本条资料未载。",
+    "refs": [
+     "t04-gsjd-qin-wood-map-official"
+    ]
+   },
+   {
+    "title": "不能拿示意图当原件",
+    "text": "站内配图是 AI 概括示意，不是照片，也不是可量测的底图。图上的山川走向、地名位置与比例都不能用来做任何测量或推论；能引用的只有馆方记录中的文字与数字。这一点在讨论“最早的木板地图”时尤其重要：结论必须建立在原件上。",
+    "refs": [
+     "t04-gsjd-qin-wood-map-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土",
+    "text": "1986年6月，天水市北道区党川乡放马滩1号秦墓。",
+    "refs": [
+     "t04-gsjd-qin-wood-map-official"
+    ]
+   },
+   {
+    "title": "数量",
+    "text": "4块木板、7幅地图（1幅未完成）；全组计一条。",
+    "refs": [
+     "t04-gsjd-qin-wood-map-official"
+    ]
+   },
+   {
+    "title": "地名标注",
+    "text": "各板分别标注10、8、10、12、18处等。",
+    "refs": [
+     "t04-gsjd-qin-wood-map-official"
+    ]
+   },
+   {
+    "title": "地理范围",
+    "text": "大体反映今天水、秦安、清水一带地形。",
+    "refs": [
+     "t04-gsjd-qin-wood-map-official"
+    ]
+   },
+   {
+    "title": "使用限制",
+    "text": "AI示意图不作测量依据，不拆计为多件。",
+    "refs": [
+     "t04-gsjd-qin-wood-map-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么古人把地图画在木板上？",
+   "answer": "木板平、硬、易得，可以两面使用，也能拼接成更大的画面。放马滩这四块板正反画了七幅图，第一块还由三块拼起来——说明绘制者在有限的材料上设法画出更大的范围。至于它具体用在哪里，本条资料没有说。",
+   "refs": [
+    "t04-gsjd-qin-wood-map-official"
+   ]
+  },
+  "uncertainty": "地图的具体用途、绘制者与使用方式未载；1幅未完成图未标地名；全部内容以馆方记录为准，不据AI示意复原山川与地名；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；全组计一条。",
+  "related": [
+   {
+    "id": "gsjd-qin-daybook",
+    "reason": "同墓出土的两类知识：一类是把地形画下来，一类是择日避凶，比较秦人记录世界的两种方式。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-imperial-search",
+    "reason": "都涉及“地点与人”：一幅地图标出山川关隘，一封文书要求各地查人，比较空间信息在行政中的用法。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-qin-wood-map-official": {
+   "id": "t04-gsjd-qin-wood-map-official",
+   "title": "官方逐件记录：天水放马滩秦木板地图（exhibit_id=21）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=21",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1986年6月出土于天水市北道区党川乡放马滩1号秦墓；4块木板绘7幅地图（3块双面、1块单面），1幅未完成未标地名、完整者6幅；各板标注地名10、8、10、12、18处等具体项；6幅可分可合，大体反映今天水、秦安、清水一带地形；馆方称其为考古发掘的最早木板地图。本件全组计一条；AI示意图非可量测原件；不构成照片授权。"
+  }
+ }
+}

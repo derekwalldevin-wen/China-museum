@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-landscape-brushpot",
+  "hook": "黑漆笔筒上有一片金色山水",
+  "summary": "中国国家博物馆藏清代黑漆描金山水大笔筒。高22.8厘米，馆方记录为日本制作、赠送清朝的礼物，器面以金色山水装饰。赠送年份、使者与制造者未载。",
+  "summaryRefs": [
+   "t02-gb-landscape-brushpot-official"
+  ],
+  "sections": [
+   {
+    "title": "先看高度与观看方式",
+    "text": "高22.8厘米，立在桌面上，装几支毛笔正合适。山水画面绕着器身一圈展开，看的人要转着看，才能把整幅景致走完。把画面安排在圆柱面上，观看就多了一个动作：不转，就只看到一段。",
+    "refs": [
+     "t02-gb-landscape-brushpot-official"
+    ]
+   },
+   {
+    "title": "黑漆与金色山水",
+    "text": "器面是黑的，山水用金色描出。深色底子托着金色，明暗差别大，画面从远处就能看清。馆方明确这件笔筒由日本制作，并使用描金漆工艺；具体的制作配方没有记录。官方页面把这类工艺写作“商绘”，写作资料指出应为“莳绘”，两说并列，本条按馆方的描金漆定名叙述。",
+    "refs": [
+     "t02-gb-landscape-brushpot-official"
+    ]
+   },
+   {
+    "title": "被记录为一件礼物",
+    "text": "馆方记录这件笔筒是日本制作、赠送清朝的礼物。分层来看：日本制作与赠送，是馆方记录的来源信息；赠送发生在哪一年、由谁带来、由谁制造，记录里都没有给出，一段完整的外交情节因此无从落实。入藏时间与修复工单同样未知。",
+    "refs": [
+     "t02-gb-landscape-brushpot-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看这件笔筒，它把两件事放在同一件器物上：一片山水画在写字的用具上，器物本身又是一件跨海而来的礼物，表面因此同时承担欣赏与交往两种功能。金色山水的构图细节与题字内容，AI 图像只作概括表现，本条不据示意图判断。",
+    "refs": [
+     "t02-gb-landscape-brushpot-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与名称",
+    "text": "清；黑漆描金山水大笔筒。",
+    "refs": [
+     "t02-gb-landscape-brushpot-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高22.8厘米。",
+    "refs": [
+     "t02-gb-landscape-brushpot-official"
+    ]
+   },
+   {
+    "title": "来源记录",
+    "text": "馆方记录为日本制作、赠送清朝的礼物。",
+    "refs": [
+     "t02-gb-landscape-brushpot-official"
+    ]
+   },
+   {
+    "title": "装饰与工艺",
+    "text": "器面以金色山水装饰；馆方明确描金漆工艺，具体配方未载。",
+    "refs": [
+     "t02-gb-landscape-brushpot-official"
+    ]
+   },
+   {
+    "title": "未载与名称分歧",
+    "text": "赠送年份、使者、制造者未载；入藏时间未知；官网“商绘”与“莳绘”两说并列。",
+    "refs": [
+     "t02-gb-landscape-brushpot-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把山水画在笔筒上？",
+   "answer": "笔筒是天天要看的东西。画面围着器身一圈，写字的人抬头就能看见几块石头、几棵树，视线有地方停。器物不只看一次，图像因此可以慢慢被看熟，这是案头用具在功能之外留给自己的一点余地。",
+   "refs": [
+    "t02-gb-landscape-brushpot-official"
+   ]
+  },
+  "uncertainty": "赠送年份、使者与制造者未载；制作配方未载；入藏时间与修复工单未知；官网“商绘”与写作资料的“莳绘”两说并列；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。工艺名称两说并列保留。",
+  "related": [
+   {
+    "id": "sz-bamboo-brushpot",
+    "reason": "两件笔筒材质不同：一件是黑漆描金的圆柱，一件是刻字的竹筒，比较漆面与竹面各自适合承载什么样的装饰。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-linghua-lian",
+    "reason": "两件国博漆器的来处都留有余地：一件是南宋传世品，一件记录为日本制作并赠送清朝，比较来源信息的多寡如何影响对器物的理解。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t02-gb-landscape-brushpot-official": {
+   "id": "t02-gb-landscape-brushpot-official",
+   "title": "官方逐件记录：黑漆描金山水大笔筒（t20181218_25639）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25639.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：清代；高22.8厘米；馆方记录为日本制作并赠送清朝的礼物；器面以金色山水装饰，描金漆工艺明确。未载：赠送年份、使者与制造者、制作配方；官网“商绘”与“莳绘”两说并列；不构成照片授权。"
+  }
+ }
+}

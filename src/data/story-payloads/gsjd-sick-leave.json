@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gsjd-sick-leave",
+  "hook": "一封请假条，走了三道手续",
+  "summary": "甘肃简牍博物馆藏东汉木简三枚（本组计一条）。馆方登记出土地为居延破城子，具体发现年月未载。内容为城北隧长党请病假、守候长匡上报、候官批示并请都尉府同意其就医。",
+  "summaryRefs": [
+   "t04-gsjd-sick-leave-official"
+  ],
+  "sections": [
+   {
+    "title": "三道手续，三个人名",
+    "text": "官方摘录把三项内容列得清楚：城北隧长党因病向候长请病假；城北守候长匡将病书上报候官；候官作出处理批示，上报都尉府请同意隧长党去就医治病。三枚简上出现了三个人名与两级机构，一件私人的病假，走的是完整的文书流程。",
+    "refs": [
+     "t04-gsjd-sick-leave-official"
+    ]
+   },
+   {
+    "title": "病是什么病",
+    "text": "资料没有写。馆方释读给出的是“因病”与“就医治病”，病种未知——本条不补。能确定的是流程：当事人陈述、上级代报、机关批示，且就医需要更高一级同意。戍边吏卒的医疗不是个人说了算的事，这一层由文书本身证明。",
+    "refs": [
+     "t04-gsjd-sick-leave-official"
+    ]
+   },
+   {
+    "title": "出土地与年份",
+    "text": "馆方登记出土地为居延破城子，具体发现年月未载。这一点需要照实说：我们不知道这三枚简是哪一年出土的，也不知道原始出土编号。若把它当成有确切发掘记录的档案来引用，就超出了本条资料的范围。",
+    "refs": [
+     "t04-gsjd-sick-leave-official"
+    ]
+   },
+   {
+    "title": "三枚简的分量",
+    "text": "居延一带出土的简牍以行政文书为主：名籍、簿册、诏书、爰书。三枚病书夹在其中并不显眼，却让人看到制度运行的最低处——一个守隧的基层小吏生病了，需要请假、需要上报、需要批准。今天读它，读到的是汉代边塞的日常节奏。",
+    "refs": [
+     "t04-gsjd-sick-leave-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "简数与内容",
+    "text": "三枚木简：请病假陈述、上报行文、候官批示。",
+    "refs": [
+     "t04-gsjd-sick-leave-official"
+    ]
+   },
+   {
+    "title": "人物",
+    "text": "城北隧长党、城北守候长匡，及候官、都尉府两级。",
+    "refs": [
+     "t04-gsjd-sick-leave-official"
+    ]
+   },
+   {
+    "title": "时代",
+    "text": "东汉，建武三年（简册纪年，见条目标题）。",
+    "refs": [
+     "t04-gsjd-sick-leave-official"
+    ]
+   },
+   {
+    "title": "出土地",
+    "text": "馆方登记居延破城子；具体发现年月未载。",
+    "refs": [
+     "t04-gsjd-sick-leave-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "病种、人物生平、简文之外的结局均未载。",
+    "refs": [
+     "t04-gsjd-sick-leave-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么请病假要惊动都尉府？",
+   "answer": "按这三枚简的流程，就医需要候官上报、都尉府同意。戍卒在边塞承担警戒与值守，人一离开岗位就影响防务，所以离岗要逐级报批。规矩看似严格，实际是把“人在不在岗”写进了制度。",
+   "refs": [
+    "t04-gsjd-sick-leave-official"
+   ]
+  },
+  "uncertainty": "病种未知；出土地为馆方登记（居延破城子），具体发现年月与出土号未载；人物生平与事件结局不补；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gsjd-discipline-stick",
+    "reason": "同一支边防军的奖惩两面：一份是请假就医的三道手续，一份是因失职被责打并通报的檄文，比较制度怎样对待“人”的两种情形。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-grain-loan",
+    "reason": "戍卒生活的两处窘迫：一处为生病请假奔走，一处为缺粮向同袍求助，比较边塞日常的真实压力。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-sick-leave-official": {
+   "id": "t04-gsjd-sick-leave-official",
+   "title": "官方逐件记录：建武三年隧长病书（exhibit_id=42）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=42",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：三枚木简，含城北隧长党请病假的陈述、城北守候长匡向候官上报的行文、候官处理批示并上报都尉府请同意就医；馆方登记出土地为居延破城子，具体发现年月未载；馆方认为对研究戍边吏卒日常生活与疾病医疗有意义。未载：病种、人物生平与事件结局；本组计一条；不构成照片授权。"
+  }
+ }
+}

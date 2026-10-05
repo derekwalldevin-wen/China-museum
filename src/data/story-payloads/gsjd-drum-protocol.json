@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "gsjd-drum-protocol",
+  "hook": "敲几下鼓，就知道来了谁",
+  "summary": "甘肃简牍博物馆藏汉代木简（整册计一条）。悬泉置出土。馆方记录鼓用于接待：以敲鼓次数提示来使与官吏的职级——不持节使节15下、守丞到悬泉置6下、较低级别官员3下。本件是文书而不是鼓。",
+  "summaryRefs": [
+   "t04-gsjd-drum-protocol-official"
+  ],
+  "sections": [
+   {
+    "title": "把等级写成了次数",
+    "text": "官方摘录给出三档：不持节使节15下，守丞到悬泉置6下，较低级别官员3下。鼓声是听得到的，次数是可数的——用一套可数的信号，把“来的是谁”提前告诉里面的人。文书本身不是鼓，它记录的是这套约定。",
+    "refs": [
+     "t04-gsjd-drum-protocol-official"
+    ]
+   },
+   {
+    "title": "为什么需要一个信号",
+    "text": "驿站要接待来往的使者与官吏，接待的规格依身份而不同。人还在路上，里面就要知道该按什么标准准备：住哪里、吃什么、谁来迎。鼓声承担了“预报”的功能，把准备的时间提前。",
+    "refs": [
+     "t04-gsjd-drum-protocol-official"
+    ]
+   },
+   {
+    "title": "不要把三档说成全国通则",
+    "text": "馆方给出的是悬泉置的记录。三档数字是否通行于其他驿站、是否长期不变，本条资料没有说明——因此不推为全国统一或永久有效的规则。更稳妥的说法是：在悬泉置，接待用鼓声来提示等级，这是一个具体的做法。",
+    "refs": [
+     "t04-gsjd-drum-protocol-official"
+    ]
+   },
+   {
+    "title": "简与鼓的关系",
+    "text": "我们今天看到的是简，不是鼓。鼓多半早已腐朽无存，但**规则被写下来了**：这正说明文书在制度里的位置——口头约定容易走样，写进简册就能按册执行、也有人可以核对。",
+    "refs": [
+     "t04-gsjd-drum-protocol-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "内容",
+    "text": "以敲鼓次数提示来使与官吏职级。",
+    "refs": [
+     "t04-gsjd-drum-protocol-official"
+    ]
+   },
+   {
+    "title": "三档",
+    "text": "不持节使节15下、守丞6下、较低级别官员3下。",
+    "refs": [
+     "t04-gsjd-drum-protocol-official"
+    ]
+   },
+   {
+    "title": "性质",
+    "text": "本件是文书，不是鼓。",
+    "refs": [
+     "t04-gsjd-drum-protocol-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "接待规则为馆方解释，不推为全国统一永久规则。",
+    "refs": [
+     "t04-gsjd-drum-protocol-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么用敲鼓来通报，而不是直接喊话或写字？",
+   "answer": "鼓声传得远，不挑听者的位置，也不需要照明或识字。在驿站这样的场所，白天黑夜都可能有人到，鼓是最省事的信号。至于具体为什么定15、6、3这三档，资料没有解释。",
+   "refs": [
+    "t04-gsjd-drum-protocol-official"
+   ]
+  },
+  "uncertainty": "三档规则是否通行于其他驿站、是否长期不变未载；鼓的形制未载；本册完整条文与残缺情况未在本条资料中说明；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；整册计一条。",
+  "related": [
+   {
+    "id": "gsjd-chicken-register",
+    "reason": "接待的规则与消耗：一份规定敲几下鼓提示等级，一份记一年吃掉多少只鸡，比较制度与实际。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-seasonal-ban",
+    "reason": "同为边塞管理办法：一份管来客接待，一份管季节禁令，比较两类日常规则的写法。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-drum-protocol-official": {
+   "id": "t04-gsjd-drum-protocol-official",
+   "title": "官方逐件记录：鼓令册（exhibit_id=9）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=9",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：悬泉置出土木简；馆方记录鼓用于接待，以敲鼓次数提示来使与官吏的职级——不持节使节15下、守丞到悬泉置6下、较低级别官员3下。接待规则为馆方解释；本件是文书而非鼓；不推为全国统一永久规则；不构成照片授权。"
+  }
+ }
+}

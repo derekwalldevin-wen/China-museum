@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-calling-card-bag",
+  "hook": "装名片的袋子",
+  "summary": "中国丝绸博物馆藏民国名片袋。质地丝，外观呈长形、上端略圆并有开口，用以放置名片；以品蓝色素缎为主要面料，粉色花边镶边，其上彩绣花卉纹样。长9.5、宽6.4厘米。名片内容与物主未载。",
+  "summaryRefs": [
+   "t04-csm-calling-card-bag-official"
+  ],
+  "sections": [
+   {
+    "title": "它有一个明确的用途",
+    "text": "官方记录直说：上端略圆，有开口，用以放置名片。这一件用途最清楚：装名片。佩饰、钱袋都不是它的身份。名片是近代交往里的物件：见面递上一张，写上姓名与身份，认识就从这里开始。",
+    "refs": [
+     "t04-csm-calling-card-bag-official"
+    ]
+   },
+   {
+    "title": "尺码与形式",
+    "text": "长9.5、宽6.4厘米，正好能装下当时常见尺寸的名片并留出余量。上端略圆的形状是为了取放方便，开口在上，抽取时不必整个翻过来。这个尺寸也便于随身携带——放在衣袋里，或与其他小件一起收着。",
+    "refs": [
+     "t04-csm-calling-card-bag-official"
+    ]
+   },
+   {
+    "title": "装饰的做法",
+    "text": "以品蓝色素缎为主要面料，用粉色花边镶边，其上彩绣花卉纹样。蓝色地子沉稳，粉色边与彩色绣线在边缘形成对比；整体做法与同时期其他小袋一致：素缎为地、彩绣为饰、镶边收口。工艺上没有特殊之处，这正是它的价值所在——它是一件日常用品。",
+    "refs": [
+     "t04-csm-calling-card-bag-official"
+    ]
+   },
+   {
+    "title": "看不到的部分",
+    "text": "名片里写了什么、袋子属于谁、什么时候做的，官方记录未载。逐次保护修复档案未核。站内配图是 AI 概括示意，不能据图判断花卉种类或绣线配色。我们能说的只是：在民国，有人需要用这样一个袋子来装名片。",
+    "refs": [
+     "t04-csm-calling-card-bag-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "用途",
+    "text": "放置名片的袋子，上端略圆、有开口。",
+    "refs": [
+     "t04-csm-calling-card-bag-official"
+    ]
+   },
+   {
+    "title": "面料与装饰",
+    "text": "品蓝色素缎为地，粉色花边镶边，彩绣花卉纹。",
+    "refs": [
+     "t04-csm-calling-card-bag-official"
+    ]
+   },
+   {
+    "title": "尺寸与年代",
+    "text": "长9.5、宽6.4厘米；民国。",
+    "refs": [
+     "t04-csm-calling-card-bag-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "名片内容、物主与入藏经过未载。",
+    "refs": [
+     "t04-csm-calling-card-bag-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么装名片的袋子也要绣花？",
+   "answer": "因为名片本身是体面的东西。递名片是社交场合的动作，装它的袋子也会被看见。用素缎、彩绣与花边做一个讲究的小袋，是把“尊重对方”这件事，做到了手上的物件里。",
+   "refs": [
+    "t04-csm-calling-card-bag-official"
+   ]
+  },
+  "uncertainty": "名片内容、物主、制作人与入藏经过未载；花卉种类与配色不据AI图核对；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "csm-bell-ornament",
+    "reason": "同为民国小件：一件装名片，一件是钟形饰件，比较实用器物与装饰器物的差别。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-plum-money-pouch",
+    "reason": "随身收纳的两类：一件装名片、一件装钱并系于腰间，比较用途决定的形式。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-calling-card-bag-official": {
+   "id": "t04-csm-calling-card-bag-official",
+   "title": "官方逐件记录：品蓝缎彩绣花卉名片袋（itemid=3283）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3283",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；外观呈长形、上端略圆并有开口，用以放置名片；以品蓝色素缎为主要面料，用粉色花边镶边，其上以彩色丝线绣花卉纹样；长9.5、宽6.4厘米。未载：名片内容、物主与入藏经过；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cz-bamboo-comb",
+  "hook": "两片竹梁夹住细齿，用棉线绑住",
+  "summary": "常州博物馆藏南宋竹篦，长8.4、宽4.9厘米，1976年江苏常州武进区村前蒋塘南宋墓出土。竹质，属双齿篦类；两面单排齿细而密集，两片竹篦梁夹住篦齿与篦档并以棉线捆绑，两端档子现仅存其一。",
+  "summaryRefs": [
+   "t05-cz-bamboo-comb-official"
+  ],
+  "sections": [
+   {
+    "title": "没有钉，也没有胶",
+    "text": "记录下来的是装配办法：两片竹质篦梁把篦齿及篦档夹在中间，再用棉线捆绑。竹齿薄、梁也薄，打钉容易开裂，胶在潮湿环境里未必牢靠；夹与绑把受力分摊到整条梁上。这是一种可以拆开重绑的结构。",
+    "refs": [
+     "t05-cz-bamboo-comb-official"
+    ]
+   },
+   {
+    "title": "齿的密度",
+    "text": "两面单排齿，齿细而密集，馆方据此把它归入双齿篦类。记录未给齿数，本件图像为AI示意图，齿的根数与排列不据示意图数，需核对实物。",
+    "refs": [
+     "t05-cz-bamboo-comb-official"
+    ]
+   },
+   {
+    "title": "缺了的一端",
+    "text": "馆方说明篦齿两端均应有档子，现仅存其一。缺失的一端按现存状况描述，不补绘成完器；原貌如何，只能由实物与同类器比较来推定。",
+    "refs": [
+     "t05-cz-bamboo-comb-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，这件小竹器能保存下来靠的是竹材与棉线的组合，以及墓葬内的条件。谁用它、用于何时，记录未载。它的价值不在贵重，而在结构完整可读：梁、齿、档、绑四个环节都能看出来。",
+    "refs": [
+     "t05-cz-bamboo-comb-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "尺寸",
+    "text": "长8.4、宽4.9厘米。",
+    "refs": [
+     "t05-cz-bamboo-comb-official"
+    ]
+   },
+   {
+    "title": "材质与类别",
+    "text": "竹质，属双齿篦类。",
+    "refs": [
+     "t05-cz-bamboo-comb-official"
+    ]
+   },
+   {
+    "title": "齿部",
+    "text": "两面单排齿，齿细而密集。",
+    "refs": [
+     "t05-cz-bamboo-comb-official"
+    ]
+   },
+   {
+    "title": "装配",
+    "text": "两片竹质篦梁夹住篦齿及篦档，辅以棉线捆绑。",
+    "refs": [
+     "t05-cz-bamboo-comb-official"
+    ]
+   },
+   {
+    "title": "缺损与不据图",
+    "text": "两端档子现仅存其一，缺失一端不补绘成完好；齿数、墓号、发现者与流转经过未载；本件图像为AI示意图，不据示意图数齿或判断棉线走向；逐次保护修复档案未核。",
+    "refs": [
+     "t05-cz-bamboo-comb-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么用夹与绑代替钉子和胶？",
+   "answer": "因为竹篦最怕在薄处受力。齿根要夹紧又不能开裂，胶在湿度变化下也难长期稳定；两片梁把压力分散在整条边上，棉线再把梁固定住，出问题还能重绑。缺了一端的现状里，这套做法仍然读得出来。",
+   "refs": [
+    "t05-cz-bamboo-comb-official"
+   ]
+  },
+  "uncertainty": "齿数与具体排列未载；缺失档子的原貌未载；墓号、发现者、流转经过未载；本件图像为AI示意图，齿部细节需核对实物；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cz-pearl-comb",
+    "reason": "同为村前蒋塘南宋墓出土的梳具，一件竹质双面细齿靠竹梁夹绑，一件黄杨木半月形在背沿镶一排珍珠，比较实用结构与装饰投入的分配。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cz-red-hairpick",
+    "reason": "同为南宋梳妆相关小件，一件是密集细齿的篦，一件是八齿朱漆长条而发插与茶筅两说并存，比较齿部形态与用途判断的确定程度。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-cz-bamboo-comb-official": {
+   "id": "t05-cz-bamboo-comb-official",
+   "title": "官方逐件记录：竹篦（id=410）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=410&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：官方逐件记录给出南宋定年、竹质属双齿篦类、长8.4、宽4.9厘米，1976年江苏常州武进区村前蒋塘南宋墓出土，两面单排齿细而密集，两片竹质篦梁夹住篦齿及篦档并以棉线捆绑。未载：齿数、缺失档子的原貌、墓号与流转经过；两端档子现仅存其一，缺失情形与完好形并列保留；不构成照片授权。"
+  }
+ }
+}

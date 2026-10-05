@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-paper-cut-bowl",
+  "hook": "黑釉上留下一层浅色花纹",
+  "summary": "深圳博物馆藏南宋吉州窑黑釉剪纸贴花盏，口径12厘米、高6厘米。吉州窑、黑釉与剪纸贴花三项来自馆方定名；纹样释义与出土、收藏经过，记录未载。",
+  "summaryRefs": [
+   "t03-sz-paper-cut-bowl-official"
+  ],
+  "sections": [
+   {
+    "title": "先看两项尺寸",
+    "text": "口径12厘米，高6厘米。两个数字放在一起，口径明显大于高度，器形开阔。这两项来自馆方记录；胎厚、釉层厚度一类细节，记录没有写。",
+    "refs": [
+     "t03-sz-paper-cut-bowl-official"
+    ]
+   },
+   {
+    "title": "黑釉与剪纸贴花",
+    "text": "馆方给这件盏的定名里有吉州窑、黑釉与剪纸贴花。剪纸贴花描述的是装饰做法，名字里带出工序；这类名称属于馆方定名，用来比对做法，具体到这一件的施釉与贴饰步骤，工序未详。",
+    "refs": [
+     "t03-sz-paper-cut-bowl-official"
+    ]
+   },
+   {
+    "title": "纹样留给记录空白",
+    "text": "浅色花纹的具体内容与含义，逐件页没有释义。纹样涉及人物、花鸟还是文字，一并不据AI示意图判断——生成图只概括釉地与浅色花纹的分布，不充当原纹样的图版。",
+    "refs": [
+     "t03-sz-paper-cut-bowl-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，黑釉的深与花纹的浅形成一层对比，光线下釉面还会泛起反光。观众在这样的表面上先看到色块的跳动，再追问图案讲了什么；后者在资料里是空的。",
+    "refs": [
+     "t03-sz-paper-cut-bowl-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与窑口",
+    "text": "南宋；馆方定为吉州窑。",
+    "refs": [
+     "t03-sz-paper-cut-bowl-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "口径12厘米、高6厘米。",
+    "refs": [
+     "t03-sz-paper-cut-bowl-official"
+    ]
+   },
+   {
+    "title": "装饰定名",
+    "text": "黑釉剪纸贴花，名称来自馆方。",
+    "refs": [
+     "t03-sz-paper-cut-bowl-official"
+    ]
+   },
+   {
+    "title": "工序",
+    "text": "施釉与贴饰的具体工序未详。",
+    "refs": [
+     "t03-sz-paper-cut-bowl-official"
+    ]
+   },
+   {
+    "title": "出土与档案",
+    "text": "纹样释义、出土与收藏经过未载；纹样内容不据AI示意图判断；逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-paper-cut-bowl-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么装饰的名称常来自做法，而少来自图案内容？",
+   "answer": "做法的名字可以观察、可以比对，花纹的含义却往往没有共识。这一件留下的正是做法的名字：剪纸贴花。纸样怎么贴、贴出什么图案，需要实物细看与专门研究，资料里都没有。",
+   "refs": [
+    "t03-sz-paper-cut-bowl-official"
+   ]
+  },
+  "uncertainty": "纹样释义未载；出土与入藏经过未载；施釉与贴饰工序未详；不据AI示意图判断纹样内容；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-marble-bowl",
+    "reason": "同馆两件唐宋陶瓷：一件把深浅色泥绞进胎里成纹，一件在黑釉上贴出浅色花纹，装饰发生的层次不同，适合并看。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-yue-box",
+    "reason": "两件宋代瓷器都以装饰定名入档：一件剪纸贴花，一件划花，对照来看馆方给装饰起名的方式。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-paper-cut-bowl-official": {
+   "id": "t03-sz-paper-cut-bowl-official",
+   "title": "官方逐件记录：吉州窑黑釉剪纸贴花盏（resId=e6558632…）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=e655863245cf4080a858a1ffd26db41b",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋吉州窑黑釉剪纸贴花盏，口径12厘米、高6厘米；吉州窑、黑釉、剪纸贴花三项来自馆方定名。未载：纹样释义、出土与收藏经过未载，施釉与贴饰工序未详；边界在于AI图只概括釉地与浅色花纹，不构成原纹样图版；不构成照片授权。"
+  }
+ }
+}

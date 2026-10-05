@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-go-waist-pouch",
+  "hook": "围棋和桃子，绣在腰包上",
+  "summary": "中国丝绸博物馆藏民国腰包。质地丝，中央白色绸料上用黑色丝线绣桃子与围棋纹样，白绸周围镶黑色素缎，长17.3、宽30.5厘米。围棋图像不能证明它曾装棋子或属于某位棋手。",
+  "summaryRefs": [
+   "t04-csm-go-waist-pouch-official"
+  ],
+  "sections": [
+   {
+    "title": "黑与白的一件小物",
+    "text": "官方记录很简洁：中央白色绸料上用黑色丝线绣桃子围棋纹样；白绸周围镶黑色素缎。黑与白是这件腰包的全部配色——素缎的边框、白绸的地、黑线的纹。这样的配色让纹样成为视觉中心，也让整个包看起来克制、干净。",
+    "refs": [
+     "t04-csm-go-waist-pouch-official"
+    ]
+   },
+   {
+    "title": "围棋纹样意味着什么",
+    "text": "围棋是棋类，桃子是果品，两者被绣在同一件腰包上。它们是纹样题材，不说明这件包曾经装过棋子，也不说明它的主人是棋手。把图案当作物主职业或内装物的证据，是常见但站不住的推断。",
+    "refs": [
+     "t04-csm-go-waist-pouch-official"
+    ]
+   },
+   {
+    "title": "腰包的尺码",
+    "text": "长17.3、宽30.5厘米，横向展开的面积不小，适合系在腰间。民国时期，腰包是随身收纳的常见物件：钱、票、小物件都可能有专门的袋子。官方记录没有说明这件腰包装什么。",
+    "refs": [
+     "t04-csm-go-waist-pouch-official"
+    ]
+   },
+   {
+    "title": "明确的与不明确的",
+    "text": "明确的是：年代民国、质地丝、尺寸、纹样题材与镶边方式。不明确的是：制作人、物主、入藏经过与内装物。逐次保护修复档案未核。站内配图是 AI 概括示意，围棋纹的具体棋形与桃子纹的针法都不能据此核对。",
+    "refs": [
+     "t04-csm-go-waist-pouch-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "纹样与配色",
+    "text": "白绸地上以黑丝线绣桃子围棋纹；四周镶黑色素缎。",
+    "refs": [
+     "t04-csm-go-waist-pouch-official"
+    ]
+   },
+   {
+    "title": "尺寸与年代",
+    "text": "长17.3、宽30.5厘米；民国。",
+    "refs": [
+     "t04-csm-go-waist-pouch-official"
+    ]
+   },
+   {
+    "title": "不能做的推断",
+    "text": "围棋纹不等于装棋子或物主为棋手。",
+    "refs": [
+     "t04-csm-go-waist-pouch-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "制作人、物主与内装物未载。",
+    "refs": [
+     "t04-csm-go-waist-pouch-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么人们喜欢把“棋”绣在随身的小包上？",
+   "answer": "纹样常常取的是联想：棋有布局、较量、闲趣的意思，桃子有长寿、丰美的意思，绣在日常用物上，是把这些愿望带在身边。至于具体某个人为什么选这个图案，本条资料没有说明，我们不替他解释。",
+   "refs": [
+    "t04-csm-go-waist-pouch-official"
+   ]
+  },
+  "uncertainty": "制作人、物主、入藏经过与内装物未载；纹样细节不据AI图核对；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "csm-blue-waist-pouch",
+    "reason": "同为民国腰包：一件绣石榴飞雁并有圈金边，一件绣桃子围棋、黑白相间，比较题材与配色。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-double-pouch",
+    "reason": "都是收纳用具：腰包横向系腰，褡裢两端成袋搭在肩上，比较形制与携带方式。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-go-waist-pouch-official": {
+   "id": "t04-csm-go-waist-pouch-official",
+   "title": "官方逐件记录：白绸绣桃子围棋腰包（itemid=3279）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3279",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；中央白色绸料上用黑色丝线绣桃子围棋纹样，白绸周围镶黑色素缎；长17.3、宽30.5厘米。未载：物主、制作人与入藏经过；纹样不直接等于内装物或物主职业；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-tin-gourd-ewer",
+  "hook": "一把锡壶做成葫芦形，底款写着同治",
+  "summary": "深圳博物馆藏清同治款葫芦锡壶，通高21.2厘米，1996年由九龙海关移交入藏。馆方记下部龙纹、上部花卉寿字纹，底部有“同治年制”款。款识文字以馆方记录为准；锡材比例与这件壶的使用经过，官方页面没有留下材料。",
+  "summaryRefs": [
+   "t03-sz-tin-gourd-ewer-official"
+  ],
+  "sections": [
+   {
+    "title": "先看形状与尺寸",
+    "text": "葫芦锡壶通高21.2厘米。壶身分上下两段，中间收腰，这类轮廓在器物定名中被写作葫芦形。馆方以“清同治款葫芦锡壶”命名，形状、材质与尺寸三项都有记录，是目前最实在的一层信息。",
+    "refs": [
+     "t03-sz-tin-gourd-ewer-official"
+    ]
+   },
+   {
+    "title": "谁把它交给博物馆",
+    "text": "1996年，九龙海关将这件锡壶移交深圳博物馆。这是现代入藏记录，说明它如何进入馆藏，与它在清代的流传属于两件事。海关移交的具体背景、此前它在谁手上，官方页面没有写。",
+    "refs": [
+     "t03-sz-tin-gourd-ewer-official"
+    ]
+   },
+   {
+    "title": "馆方记下的纹饰与底款",
+    "text": "馆方描述为：下部龙纹，上部花卉寿字纹，底部有“同治年制”款。年代字段与款识都指向同治，两条线索并列且一致。款识属文字记录，其释读以馆方记录为准；生成图只概括器形与纹样的分布，不据示意图认读款字。",
+    "refs": [
+     "t03-sz-tin-gourd-ewer-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "锡材的合金比例、制作地点与工坊、原使用者与使用经过，都没有材料。今天再看这件壶：锡质偏软、熔点低，能留下完整的葫芦壶身与可辨的底款，说明它长期被当作需要照看的器物。这层感受属当代阐释，不改变记录里的空白。逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-tin-gourd-ewer-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与款识",
+    "text": "馆方定为清同治；底有“同治年制”款，款字释读依馆方记录。",
+    "refs": [
+     "t03-sz-tin-gourd-ewer-official"
+    ]
+   },
+   {
+    "title": "尺寸与材质",
+    "text": "通高21.2厘米；锡质。",
+    "refs": [
+     "t03-sz-tin-gourd-ewer-official"
+    ]
+   },
+   {
+    "title": "纹饰",
+    "text": "馆方记下部龙纹、上部花卉寿字纹。",
+    "refs": [
+     "t03-sz-tin-gourd-ewer-official"
+    ]
+   },
+   {
+    "title": "入藏",
+    "text": "1996年九龙海关移交深圳博物馆；属现代收藏史。",
+    "refs": [
+     "t03-sz-tin-gourd-ewer-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "锡材比例与合金成分、原使用者与使用经过未载；款字不据示意图认读。",
+    "refs": [
+     "t03-sz-tin-gourd-ewer-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "葫芦形的锡壶，为什么要在上下两段各安排一套纹饰？",
+   "answer": "馆方记录只给出下部龙纹、上部花卉寿字纹的位置。葫芦形本身把壶身分成两段，纹饰顺着这两段安排，看的时候视线自然从下往上看。这是形状给出的分栏，用意没有更多材料可以确认。",
+   "refs": [
+    "t03-sz-tin-gourd-ewer-official"
+   ]
+  },
+  "uncertainty": "锡材比例、合金成分与产地未载；原使用者与流传经过未载；纹饰含义无馆方解释；款识文字未从示意图认读；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-warming-copper-stove",
+    "reason": "同为清代金属器：一件用上下两层容水容炭加温，一件以葫芦形壶身盛液体，比较结构分层与纹饰安排各自承担的部分。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-carved-brushpot",
+    "reason": "两件都于1996年由九龙海关移交入藏：锡壶的年代靠底款呈现，木笔筒的图像靠雕刻呈现，比较器身上两类可核信息的读法差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-tin-gourd-ewer-official": {
+   "id": "t03-sz-tin-gourd-ewer-official",
+   "title": "官方逐件记录：清同治款葫芦锡壶（277c51eae2424a2cb5ea4703cf4938c0）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=277c51eae2424a2cb5ea4703cf4938c0",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方定为清同治；通高21.2厘米；1996年由九龙海关移交深圳博物馆；下部龙纹、上部花卉寿字纹，底有“同治年制”款。未载：锡材比例与合金成分、原使用者与使用经过；款识文字不外推；不构成照片授权。"
+  }
+ }
+}

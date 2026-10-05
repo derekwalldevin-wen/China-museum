@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "cd-bashu-ladle",
+  "hook": "勺子里面画着鱼、鸟和龟",
+  "summary": "成都博物馆藏战国巴蜀图语铜勺。成都三洞桥出土，勺内刻有鱼、鸟、龟等图案。这些图案的完整释读，官方记录没有提供；本条把观察与解释分开写。",
+  "summaryRefs": [
+   "t01-cd-bashu-ladle-official"
+  ],
+  "sections": [
+   {
+    "title": "一件日常器具",
+    "text": "勺是取食或取液的器具，形制简单。这一件出自成都三洞桥，年代为战国。它的特别之处不在器形，而在勺内：那处平时多半朝下、不被注视的面，刻上了图案。",
+    "refs": [
+     "t01-cd-bashu-ladle-official"
+    ]
+   },
+   {
+    "title": "鱼、鸟、龟",
+    "text": "馆方记录写明勺内刻有鱼、鸟、龟等图案。观察这三类形象并不困难——有鳍、有翅、有甲壳的轮廓各自可辨。真正困难的是它们的含义：这类被称为巴蜀图语的符号，至今没有得到完整释读。",
+    "refs": [
+     "t01-cd-bashu-ladle-official"
+    ]
+   },
+   {
+    "title": "不要把图语当成已破解的文字",
+    "text": "有些图案看起来像字，容易让人直接读成语句。本条明确不这样做：巴蜀图语没有被完整破解，任何把某组符号翻译成确定文句的说法，都超出了现有证据。能说的是：它们是一套**被反复使用的图像系统**，出现在同一地区的多类器物上。",
+    "refs": [
+     "t01-cd-bashu-ladle-official"
+    ]
+   },
+   {
+    "title": "尺寸与出土细节的空缺",
+    "text": "官方页面没有给出明确单位的尺寸信息，本条因此不写具体尺寸数字，也不自行换算。三洞桥的具体发掘日期未载；刻制图案所用的工具，记录也未说明。逐次保护修复档案未核。",
+    "refs": [
+     "t01-cd-bashu-ladle-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与年代",
+    "text": "成都三洞桥出土；战国。",
+    "refs": [
+     "t01-cd-bashu-ladle-official"
+    ]
+   },
+   {
+    "title": "图案",
+    "text": "勺内刻有鱼、鸟、龟等图案。",
+    "refs": [
+     "t01-cd-bashu-ladle-official"
+    ]
+   },
+   {
+    "title": "释读边界",
+    "text": "巴蜀图语未完整释读，本条不写成已破解的文字。",
+    "refs": [
+     "t01-cd-bashu-ladle-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "尺寸单位未明故不扩写；发掘日期、刻制工具未载。",
+    "refs": [
+     "t01-cd-bashu-ladle-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把图案刻在勺子里侧？",
+   "answer": "一种可能是：这些图案属于使用者自己知道意义的标记，不必给外人看；另一种可能是器物的用途与图案有关。两种都可能，本条资料没有给出答案。有意思的是位置本身——最私密的那一面，往往正是记号出现的地方。",
+   "refs": [
+    "t01-cd-bashu-ladle-official"
+   ]
+  },
+  "uncertainty": "尺寸单位未明不扩写；发掘日期与刻制工具未载；图案含义无释读；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按成都博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-stone-rhino",
+    "reason": "同一座城市的两类发现：一件是随手可握的小勺，一件是重约八吨的石兽，比较器物尺度对证据解读的影响。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cd-hunting-pot",
+    "reason": "都是战国蜀地器物上的图像：一组是可辨认的狩猎与仙鹤场面，一组是尚未释读的图语符号，比较“看得懂”与“读不出”的差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t01-cd-bashu-ladle-official": {
+   "id": "t01-cd-bashu-ladle-official",
+   "title": "官方逐件记录：巴蜀图语铜勺（xianqin/201909/992）",
+   "institution": "成都博物馆",
+   "url": "https://www.cdmuseum.com/xianqin/201909/992.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：战国年代；成都三洞桥出土；勺内刻有鱼、鸟、龟等图案。未载：尺寸（原页单位未明，本条不扩写单位）、具体发掘日期；巴蜀图语未获完整释读，不写成已破解文字；不构成照片授权。"
+  }
+ }
+}

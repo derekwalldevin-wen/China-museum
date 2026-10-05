@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "cd-silkworm-ge",
+  "hook": "兵器上有蚕",
+  "summary": "成都博物馆藏战国蚕纹铜戈。成都交通巷出土，长25.2、宽6.3厘米。援部两面饰兽面纹，内的两面可见蚕形图像。馆方将蚕纹联系养蚕史，属研究解释。",
+  "summaryRefs": [
+   "t01-cd-silkworm-ge-official"
+  ],
+  "sections": [
+   {
+    "title": "先认戈的两个部位",
+    "text": "戈是先秦常见的兵器。馆方记录里出现了两个术语：援与内。援是横向伸出的刃部，内是后面接柄的部分。这件戈的援部两面饰兽面纹，内的两面可见蚕形图像——也就是说，一件兵器上同时安排了两种图像。",
+    "refs": [
+     "t01-cd-silkworm-ge-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长25.2、宽6.3厘米。这个体量适合装在木柄上使用。戈在实战之外也常作为仪仗或身份标识，但本件属于哪一种用途，本条资料没有说明。",
+    "refs": [
+     "t01-cd-silkworm-ge-official"
+    ]
+   },
+   {
+    "title": "蚕形图像与养蚕史",
+    "text": "馆方把蚕形图像与蜀地的养蚕历史联系起来——这是研究解释。要分清层次：图像本身是观察对象（内有蚕形），联系养蚕史是解释。仅凭一件铜戈上的纹样，不能复原当时的纺织生产流程，也不能确定它是为养蚕者所做。",
+    "refs": [
+     "t01-cd-silkworm-ge-official"
+    ]
+   },
+   {
+    "title": "空白处",
+    "text": "出土地点为成都交通巷，但墓号与出土年份未载；铸造与镶嵌工艺也未载。逐次保护修复档案未核。因此这件戈的年代来自馆方定年，具体出土情境仍缺。",
+    "refs": [
+     "t01-cd-silkworm-ge-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与尺寸",
+    "text": "成都交通巷出土；长25.2、宽6.3厘米。",
+    "refs": [
+     "t01-cd-silkworm-ge-official"
+    ]
+   },
+   {
+    "title": "图像",
+    "text": "援部两面兽面纹；内两面可见蚕形图像。",
+    "refs": [
+     "t01-cd-silkworm-ge-official"
+    ]
+   },
+   {
+    "title": "研究解释",
+    "text": "馆方将蚕纹联系养蚕史；图像与产业的关系属解释。",
+    "refs": [
+     "t01-cd-silkworm-ge-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "墓号、出土年份、铸造与镶嵌工艺未载。",
+    "refs": [
+     "t01-cd-silkworm-ge-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么兵器上会刻蚕？",
+   "answer": "蚕在先秦蜀地是重要的物产，也是常被描绘的对象。把它的形象放在随身使用的兵器上，可能出于标识、祈福或纯粹的装饰——具体是哪种用意，本条资料没有说明。可见的是：蚕进入了当时的图像世界。",
+   "refs": [
+    "t01-cd-silkworm-ge-official"
+   ]
+  },
+  "uncertainty": "墓号与出土年份未载；铸造与镶嵌工艺未载；蚕纹的用意无结论；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按成都博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-hunting-pot",
+    "reason": "同为蜀地战国铜器上的动物图像：一件把场面铺满壶身，一件把蚕形收在兵器的小面上，比较图像经营的两种尺度。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cd-bashu-ladle",
+    "reason": "都出自成都战国遗存：一件是兵器上的兽面与蚕纹，一件是勺内的鱼鸟龟图案，比较纹样与图语在用途上的差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t01-cd-silkworm-ge-official": {
+   "id": "t01-cd-silkworm-ge-official",
+   "title": "官方逐件记录：蚕纹铜戈（xianqin/201901/42）",
+   "institution": "成都博物馆",
+   "url": "https://www.cdmuseum.com/xianqin/201901/42.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：战国年代；成都交通巷出土；长25.2、宽6.3厘米；援部两面饰兽面纹，内的两面可见蚕形图像。馆方将蚕纹联系养蚕史，属研究解释。未载：墓号与出土年份、铸造与镶嵌工艺；不构成照片授权。"
+  }
+ }
+}

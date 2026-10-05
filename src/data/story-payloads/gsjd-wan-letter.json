@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "gsjd-wan-letter",
+  "hook": "写在丝上的家书",
+  "summary": "甘肃简牍博物馆藏书信。1990年出土于敦煌悬泉置遗址，时代为西汉末至东汉初。馆方登记质地为丝，正背面书写、隶书，是万写给子恩的一封私人书信。两人的完整身份与本条资料所载之外的内容未说明。",
+  "summaryRefs": [
+   "t04-gsjd-wan-letter-official"
+  ],
+  "sections": [
+   {
+    "title": "它是一件丝织品",
+    "text": "馆方登记的类别是丝，形制按织物处理。这一点需要强调：不能因为它出土于简牍博物馆、又写着字，就改称木简。材质决定了它的保存状态、展陈方式与研究路径，也是本条能确定的事实之一。",
+    "refs": [
+     "t04-gsjd-wan-letter-official"
+    ]
+   },
+   {
+    "title": "正背面都写字",
+    "text": "官方摘录说：正背面书写，隶书。也就是说，写信的人把两面都用上了——这既说明信有相当的内容量，也说明书写材料当时是要珍惜的。字写在丝帛上，与写在木简上的手感、墨迹扩散都不同，这一点可以从工艺角度去讨论，但本条资料没有给出检测结果。",
+    "refs": [
+     "t04-gsjd-wan-letter-official"
+    ]
+   },
+   {
+    "title": "万写给子恩",
+    "text": "简文可知是“万”写给“子恩”的一封私人书信。两个人名，一封私信——在悬泉置出土的文书里，行政文书占多数，私人书信是另一种声音。他们是什么关系、信里说了什么，本条资料未载，因此不补也不推测。",
+    "refs": [
+     "t04-gsjd-wan-letter-official"
+    ]
+   },
+   {
+    "title": "关于年代的说明",
+    "text": "“西汉末至东汉初”是馆方给出的时代范围，跨度有限但并非单一纪年。信中没有留下确切的年月信息（至少在本条资料范围内没有），所以我们把年代写成区间。这也是看待出土文献的常态：年代常常来自形制、字体与共存关系的综合判断。",
+    "refs": [
+     "t04-gsjd-wan-letter-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与年代",
+    "text": "1990年悬泉置遗址出土；西汉末至东汉初。",
+    "refs": [
+     "t04-gsjd-wan-letter-official"
+    ]
+   },
+   {
+    "title": "材质",
+    "text": "依馆方登记为丝（织物），不作木简处理。",
+    "refs": [
+     "t04-gsjd-wan-letter-official"
+    ]
+   },
+   {
+    "title": "书写",
+    "text": "正背面书写，隶书。",
+    "refs": [
+     "t04-gsjd-wan-letter-official"
+    ]
+   },
+   {
+    "title": "关系",
+    "text": "为万写给子恩的私人书信；两人完整身份未载。",
+    "refs": [
+     "t04-gsjd-wan-letter-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么有人把信写在丝上，而不是木简上？",
+   "answer": "材料各有长短。丝帛轻薄、柔韧，能写较长的内容，也便于携带；木简结实、容易获得，但沉重、编连麻烦。写一封私人信件，选择丝帛，是当时的人根据自己的条件做出的决定——至于这封信为什么用丝，本件资料没有说明。",
+   "refs": [
+    "t04-gsjd-wan-letter-official"
+   ]
+  },
+  "uncertainty": "万与子恩的完整身份与关系、信件内容、丝帛产地均未载；年代为区间判断；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；类别依馆方登记为丝。",
+  "related": [
+   {
+    "id": "gsjd-written-hemp-paper",
+    "reason": "同为日常书写载体：一封写在丝上的私信，两行写在粗麻纸上的字，比较材质与用途。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-silk-credential",
+    "reason": "同为丝帛且都写字：一件是私人书信，一件是写有官名的棨信，比较同一材质承担的私与公。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-wan-letter-official": {
+   "id": "t04-gsjd-wan-letter-official",
+   "title": "官方逐件记录：万致子恩书（exhibit_id=33）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=33",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1990年敦煌悬泉置遗址出土；时代西汉末至东汉初；馆方登记质地为丝；正背面书写、隶书；为万写给子恩的一封私人书信。未载：两人的完整身份、关系与信件内容；不构成照片授权。类别依馆方登记，不改作木简。"
+  }
+ }
+}

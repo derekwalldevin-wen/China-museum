@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-red-embroidered-skirt",
+  "hook": "两侧各十二道褶的红纱裙",
+  "summary": "中国国家博物馆藏清代红实地纱打籽彩绣花鸟裙。通长104.5厘米，下摆145厘米；前方有马面，两侧各12褶；纱地上用打籽绣作花鸟纹样，另有螳螂、促织与杂花，并见补花与机织绦边。馆方记录没有本件穿着者的姓名。",
+  "summaryRefs": [
+   "t02-gb-red-embroidered-skirt-official"
+  ],
+  "sections": [
+   {
+    "title": "先看平面与褶",
+    "text": "通长104.5厘米，下摆145厘米。下摆比裙长宽出不少，多出来的部分被褶收起来：前方留出一段平整的马面，两侧各打12道褶。同样的布料，靠褶裥把围度收到腰身，走动时褶再松开，裙摆因此有起伏。",
+    "refs": [
+     "t02-gb-red-embroidered-skirt-official"
+    ]
+   },
+   {
+    "title": "打籽绣的颗粒",
+    "text": "纱地上用打籽绣。这种绣法把线在针上绕成小颗粒再钉在底布上，图案因此有细密凸起。馆方记录写明纹样有花鸟，另见螳螂、促织与杂花——草虫与花卉并置，视线在裙面上移动时会遇到不同尺度的小景。绣线的具体走向与织物组织不据AI示意判断。",
+    "refs": [
+     "t02-gb-red-embroidered-skirt-official"
+    ]
+   },
+   {
+    "title": "边饰与补花",
+    "text": "除刺绣之外，记录还提到补花与机织绦边。绦边沿裙面边缘走线，负责界分装饰区；补花则以另行裁制的片料贴附成形。三种做法各有各的边界：针法密处显得厚，绦边整齐划一，补花留有拼贴的轮廓。分清这些区域，就能看出装饰是被分段安排的。",
+    "refs": [
+     "t02-gb-red-embroidered-skirt-official"
+    ]
+   },
+   {
+    "title": "今天再看：谁穿过它",
+    "text": "馆方记录没有给出穿着者的姓名，也未说明收购与使用经过。蝙蝠、灵芝一类纹样常被用来联想身份，本条不据此确定穿着人。它属传世品，流传与保护史未载，逐次保护修复档案未核。",
+    "refs": [
+     "t02-gb-red-embroidered-skirt-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与尺寸",
+    "text": "馆方定为清代；通长104.5厘米，下摆145厘米。",
+    "refs": [
+     "t02-gb-red-embroidered-skirt-official"
+    ]
+   },
+   {
+    "title": "结构",
+    "text": "前方为马面，两侧各12褶。",
+    "refs": [
+     "t02-gb-red-embroidered-skirt-official"
+    ]
+   },
+   {
+    "title": "装饰",
+    "text": "纱地打籽绣花鸟；另见螳螂、促织与杂花；并有补花与机织绦边。",
+    "refs": [
+     "t02-gb-red-embroidered-skirt-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "穿着者姓名、收购与使用经过未载；刺绣工序与绣线走向未载。",
+    "refs": [
+     "t02-gb-red-embroidered-skirt-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "蝙蝠与灵芝纹不自动确定穿着人身份；织物组织不据AI示意判断。",
+    "refs": [
+     "t02-gb-red-embroidered-skirt-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么要在最容易起褶的地方绣花？",
+   "answer": "因为褶会让图案时隐时现。平铺时看到的是完整的小景，走动起来褶裥开合，花鸟与草虫忽明忽暗。刺绣跟着结构走，衣服动起来才算绣完。",
+   "refs": [
+    "t02-gb-red-embroidered-skirt-official"
+   ]
+  },
+  "uncertainty": "穿着者姓名、收购与流传经过未载；绣线与染料检测未载；织物组织结构不据AI图判断；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gb-blue-gauze-jacket",
+    "reason": "两件清代纱地衣物都靠边缘安置纹样：一件把花鸟分布在裙摆与边饰、以褶裥收腰，一件在上衣领口袖口镶宽花边，比较装饰位置与结构的关系，不称两者配套。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-basin-stand",
+    "reason": "同属清代日常生活用物：一件为衣装安排褶裥与绣饰，一件为洗漱安排六足与雕花背架，比较实用结构与装饰在同一件器物上如何分工。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t02-gb-red-embroidered-skirt-official": {
+   "id": "t02-gb-red-embroidered-skirt-official",
+   "title": "官方逐件记录：红实地纱打籽彩绣花鸟裙（zp/zpml/csp/202112/t20211221_253258）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253258.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方定为清代；通长104.5厘米，下摆145厘米；前方有马面，两侧各12褶；纱地打籽绣，花鸟边饰之外另见螳螂、促织与杂花；另见补花与机织绦边。未载：穿着者姓名、收购与使用经过；蝙蝠与灵芝纹不自动确定穿着人身份；绣线走向与织物组织不据AI图判断，不构成照片授权。"
+  }
+ }
+}

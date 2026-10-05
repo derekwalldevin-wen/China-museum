@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "gsjd-grain-loan",
+  "hook": "一封信，只为借点粮",
+  "summary": "甘肃简牍博物馆藏汉代简牍。1979年出土于敦煌马圈湾汉代烽燧遗址。简文可知田子渊是久守边塞的戍卒，友人称其“起居无它”，在自己粮食短缺时希望田子渊借粮；馆方据此谈边塞戍卒生活的窘迫。借粮结果未载。",
+  "summaryRefs": [
+   "t04-gsjd-grain-loan-official"
+  ],
+  "sections": [
+   {
+    "title": "写信的人缺粮了",
+    "text": "官方摘录给出简文的关键：写信的人在粮食短缺的时候，希望田子渊能借些粮食。这一句就是全部要点——没有慷慨的陈情，也不必解释太多，因为收信人是他认识的田子渊。",
+    "refs": [
+     "t04-gsjd-grain-loan-official"
+    ]
+   },
+   {
+    "title": "“起居无它”这四个字",
+    "text": "友人对田子渊的评价是“起居无它”——日常起居没什么异样，也就是一切照常、身体还好。这四个字是借粮信里少见的温度：先问候，再说难处。它也说明写信人与田子渊之间是熟人关系，而不是公事往来。",
+    "refs": [
+     "t04-gsjd-grain-loan-official"
+    ]
+   },
+   {
+    "title": "久守边塞的戍卒",
+    "text": "简文可知田子渊是一名久守边塞的戍卒。边塞的粮食依靠官府配给与转运，一旦补给不继或配给不足，个人的口粮就会紧张。馆方据此称简文“道出了边塞戍卒生活窘迫和心酸”，这是研究层面的解读，依据的是简文本身呈现的处境。",
+    "refs": [
+     "t04-gsjd-grain-loan-official"
+    ]
+   },
+   {
+    "title": "借到没有，我们不知道",
+    "text": "借粮的结果没有记载；写信人与田子渊的关系细节也没有。本条因此不写“田子渊慷慨应允”，也不写“信没有回音”。在出土文献里，这样的缺口很常见——能读到的部分已经足够珍贵，读不到的必须留着。",
+    "refs": [
+     "t04-gsjd-grain-loan-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土",
+    "text": "1979年敦煌马圈湾汉代烽燧遗址。",
+    "refs": [
+     "t04-gsjd-grain-loan-official"
+    ]
+   },
+   {
+    "title": "人物",
+    "text": "田子渊，久守边塞的戍卒；写信人为其友人。",
+    "refs": [
+     "t04-gsjd-grain-loan-official"
+    ]
+   },
+   {
+    "title": "简文要点",
+    "text": "友人称其“起居无它”，因粮食短缺希望借粮。",
+    "refs": [
+     "t04-gsjd-grain-loan-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "借粮结果与两人关系细节未载。",
+    "refs": [
+     "t04-gsjd-grain-loan-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么边塞戍卒会缺粮？",
+   "answer": "边塞不产粮，靠内地转运与官府配给。运输远、消耗大，一遇调度不畅或配给不足，个人口粮就会紧张。这封信说明：在那样的地方，向熟人借一点粮食，是一件需要开口的事。",
+   "refs": [
+    "t04-gsjd-grain-loan-official"
+   ]
+  },
+  "uncertainty": "借粮结果、两人关系细节、写信人姓名未载；田子渊其余生平未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gsjd-sick-leave",
+    "reason": "戍卒生活里的两种难处：一人缺粮向熟人求助，一人患病要走三道手续，比较个人处境与制度回应。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-chicken-register",
+    "reason": "粮食的另一面：一封私人的借粮信，一册官方的鸡只出入账，比较个人与机构对“吃”的记录方式。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-grain-loan-official": {
+   "id": "t04-gsjd-grain-loan-official",
+   "title": "官方逐件记录：田子渊借粮食（exhibit_id=23）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=23",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1979年敦煌马圈湾汉代烽燧遗址出土；简文可知田子渊为久守边塞的戍卒，友人称其“起居无它”，在粮食短缺时希望田子渊借粮；馆方据此谈边塞戍卒生活的窘迫。未载：借粮结果与两人关系；不构成照片授权。"
+  }
+ }
+}

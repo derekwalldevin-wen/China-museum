@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "gsjd-imperial-search",
+  "hook": "一封追查令，往下传了四级",
+  "summary": "甘肃简牍博物馆藏西汉简牍。馆方登记出于肩水金关。文书分四部分：御史书对丽戎经历与相貌的描述及严查要求、张掖太守传达、肩水都尉府下达、肩水候官向部隧下达执行；同类残文在甲渠候官也有发现。",
+  "summaryRefs": [
+   "t04-gsjd-imperial-search-official"
+  ],
+  "sections": [
+   {
+    "title": "四层文件叠在一册里",
+    "text": "官方摘录把结构列得很清楚：御史书—张掖太守—肩水都尉府—肩水候官。同一件事，从中央的御史，经郡、都尉府，一路传到最基层的候官与部隧。这册简牍因此不只是一道命令，而是**命令如何旅行**的实物证据。",
+    "refs": [
+     "t04-gsjd-imperial-search-official"
+    ]
+   },
+   {
+    "title": "它在找什么人",
+    "text": "御史书的内容包括对丽戎基本经历与相貌特征的描述，以及要求各地严加追查。相貌特征被写进文书，说明追查需要凭这些线索在关口、驿站等处辨认。至于丽戎究竟做了什么、后来有没有被找到，本条资料未载，不补。",
+    "refs": [
+     "t04-gsjd-imperial-search-official"
+    ]
+   },
+   {
+    "title": "“通缉令”是现代说法",
+    "text": "馆方在说明里用了“通缉令”一词，并加了引号。这是一个便于现代人理解的说明语，不是汉代文书的自称。本条保留这个提醒：把古代文书直接对应到现代制度名称，容易带来误解——相似的是一部分功能，不是整套制度。",
+    "refs": [
+     "t04-gsjd-imperial-search-official"
+    ]
+   },
+   {
+    "title": "另一处残文说明了什么",
+    "text": "官方摘录提到：相关内容残文在甲渠候官遗址也有发现，并据此认为这份文书是发往全国各地的。这是研究者的推论，依据是两地都有残文。它给出的图景是：一份要求追查的文书被复制、下发到不同防区，而不是只送到某一个关口。",
+    "refs": [
+     "t04-gsjd-imperial-search-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "传递层级",
+    "text": "御史书→张掖太守→肩水都尉府→肩水候官→部隧。",
+    "refs": [
+     "t04-gsjd-imperial-search-official"
+    ]
+   },
+   {
+    "title": "内容",
+    "text": "对丽戎经历与相貌的描述及严加追查的要求。",
+    "refs": [
+     "t04-gsjd-imperial-search-official"
+    ]
+   },
+   {
+    "title": "出土地",
+    "text": "馆方登记肩水金关；甲渠候官遗址亦发现相关残文。",
+    "refs": [
+     "t04-gsjd-imperial-search-official"
+    ]
+   },
+   {
+    "title": "用语提醒",
+    "text": "“通缉令”为现代说明语，非原文自称。",
+    "refs": [
+     "t04-gsjd-imperial-search-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么一道命令要一层层往下抄？",
+   "answer": "因为政令要到达最末端才算生效。御史的要求经郡、都尉府、候官，最后到部隧，每一步都要转写与转达。居延出土的这份文书正好把这条链条保存下来——它让我们看到的不只是命令内容，还有命令的路径。",
+   "refs": [
+    "t04-gsjd-imperial-search-official"
+   ]
+  },
+  "uncertainty": "丽戎案由与结局、文书全文、涉案人身份均未载；“发往全国各地”为研究者依两地残文的推论；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；现代说明语已标注。",
+  "related": [
+   {
+    "id": "gsjd-document-cover",
+    "reason": "文书从封缄到逐级下达：一件管“怎么封”，一件看“怎么传”，比较文书运行的两端。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-gate-pass",
+    "reason": "一追一放：一件要求各地严查某人，一件记录某人被允许出关，比较关口在同一套制度里的两种动作。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-imperial-search-official": {
+   "id": "t04-gsjd-imperial-search-official",
+   "title": "官方逐件记录：甘露二年御史书（exhibit_id=26）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=26",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方登记出土地为肩水金关；文书分四部分——御史书对丽戎经历与相貌的描述及严查要求、张掖太守向下传达、肩水都尉府下达、肩水候官向部隧下达执行；相关残文在甲渠候官遗址也有发现，说明发往各地。馆方所称“通缉令”为现代说明语；不含全文释文与保护修复档案；不构成照片授权。"
+  }
+ }
+}

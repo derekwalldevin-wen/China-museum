@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "wh-chengni-inkstone",
+  "hook": "一块陶砚上刻着177字",
+  "summary": "武汉博物馆藏宋代抄手澄泥砚，长18.5厘米，属陶质。馆方记录砚额及两侧镌有陆游、高凤翰、黄易、金农等名家款识，篆、楷、行、隶诸体共计177字。题款人物跨越时代，与砚的宋代年代分属两个时间层次；两说并列。",
+  "summaryRefs": [
+   "t05-wh-chengni-inkstone-official"
+  ],
+  "sections": [
+   {
+    "title": "四大名砚里唯一的陶",
+    "text": "馆方写明端、歙、洮、澄泥并称四大名砚，其中只有澄泥砚属陶质，其余都是石质；流传至今的古澄泥砚很少。这方砚长18.5厘米，制作手法简洁，造型古朴。抄手是砚式术语，指砚底留出手位的一类做法，属器形背景。",
+    "refs": [
+     "t05-wh-chengni-inkstone-official"
+    ]
+   },
+   {
+    "title": "177字的题款",
+    "text": "砚额及两侧分别镌刻陆游、高凤翰、黄易、金农等名家的款识，篆、楷、行、隶各体都有，合计177字。名字与字数都依官方记录。示意图像不含可读的题款，不据示意图认字，也不据示意图核对字数。",
+    "refs": [
+     "t05-wh-chengni-inkstone-official"
+    ]
+   },
+   {
+    "title": "两说并列：砚的年代与题款的年代",
+    "text": "砚的年代字段作宋。写作包指出题款涉及的这些人物跨越时代，177字与砚的宋代制作不在同一时间层；两说并列，本条采用字段的宋作为砚的年代，题款则依官方记录所列为后世名家所刻。题款的先后次序、真伪与入藏经过都没有核过，留待检测与档案比对。",
+    "refs": [
+     "t05-wh-chengni-inkstone-official"
+    ]
+   },
+   {
+    "title": "未载的部分与今天再看",
+    "text": "出土地点、墓号与入藏经过未载；陶质配方、烧成温度与制砚工匠未载；题款次序与真伪也没有核过。今天再看，这方砚把制砚与后来者的题咏叠在同一块陶上：先有砚，后有字。",
+    "refs": [
+     "t05-wh-chengni-inkstone-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与尺寸",
+    "text": "宋；长18.5厘米。",
+    "refs": [
+     "t05-wh-chengni-inkstone-official"
+    ]
+   },
+   {
+    "title": "材质",
+    "text": "属陶质；四大名砚中其余为石质。",
+    "refs": [
+     "t05-wh-chengni-inkstone-official"
+    ]
+   },
+   {
+    "title": "形制",
+    "text": "抄手式；制作手法简洁，造型古朴。",
+    "refs": [
+     "t05-wh-chengni-inkstone-official"
+    ]
+   },
+   {
+    "title": "题款",
+    "text": "砚额及两侧有陆游、高凤翰、黄易、金农等名家款识，篆、楷、行、隶诸体共177字。",
+    "refs": [
+     "t05-wh-chengni-inkstone-official"
+    ]
+   },
+   {
+    "title": "两说",
+    "text": "砚年代作宋，题款人物跨越时代，与宋代制作不在同一时间层；分歧并列保留。",
+    "refs": [
+     "t05-wh-chengni-inkstone-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "砚上的字为什么会越刻越多？",
+   "answer": "砚是长期使用的文具，一方好砚会在不同人手里传下去。后人得到它，常在砚上留名或题记，款识因此层层累积。馆方列出的人名跨越时代，正与这种现象相符；哪一次在前、哪一次在后，题款次序未核，留待检测。",
+   "refs": [
+    "t05-wh-chengni-inkstone-official"
+   ]
+  },
+  "uncertainty": "出土地点、墓号与入藏经过未载；题款次序、真伪与题刻者身份未核；陶质配方、烧成温度与制砚工匠未载；题款文字与字数不据示意图判断；题款时代与砚的年代分歧并列保留；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。题款与制砚时代分歧并列保留。",
+  "related": [
+   {
+    "id": "wh-many-foot-inkstone",
+    "reason": "同为武汉博物馆藏砚类器物：一方是南北朝多足青瓷砚，一方是宋代抄手陶砚，看研磨面的处理与底部结构怎样各不相同。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "wh-yangguang-trigger",
+    "reason": "同为带铭文的器物：一方砚上层层累积后世题款，一件东汉弩机在臂部刻出制造纪年，看文字分别记录留名与年代。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-wh-chengni-inkstone-official": {
+   "id": "t05-wh-chengni-inkstone-official",
+   "title": "官方逐件记录：抄手澄泥砚（exhibitId=178752855674be902f8d03102c75ab70）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/178752855674be902f8d03102c75ab70",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：宋代抄手澄泥砚，长18.5厘米，属陶质砚；制作手法简洁、造型古朴，砚额及两侧镌有陆游、高凤翰、黄易、金农等名家款识，篆、楷、行、隶诸体共计177字。未载：出土地点、墓号与入藏经过；题款次序、真伪与题刻者身份未核；文字与字数不据示意图判断；题款时代与砚的年代分歧并列保留；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "gsjd-written-hemp-paper",
+  "hook": "两行隶书，写在粗纸上",
+  "summary": "甘肃简牍博物馆藏东汉初期麻纸。1990年出土于敦煌悬泉置遗址，不规则长方形，黄色间灰，厚而重、质地松疏粗糙、表面留有残渣；上有隶书两行“巨阳大利 上缮皂五匹”。定年依馆方对同出简牍与地层的判断。",
+  "summaryRefs": [
+   "t04-gsjd-written-hemp-paper-official"
+  ],
+  "sections": [
+   {
+    "title": "纸的样子，先看清楚",
+    "text": "官方摘录描述得很实：不规则长方形，黄色间灰，厚而重，质地松疏，粗糙，表面留有残渣。这与今天平整洁白的纸完全不同——早期的麻纸就是这样：纤维粗、厚薄不匀，能写字，但不精致。",
+    "refs": [
+     "t04-gsjd-written-hemp-paper-official"
+    ]
+   },
+   {
+    "title": "两行隶书写了什么",
+    "text": "“巨阳大利 上缮皂五匹。”这是官方摘录给出的释文。这类字句在出土文献里常与货物、吉语或账簿有关，但本条资料没有对含义作出解释，所以只把文字列出，不做翻译性推断。另外要说明：站内配图是 AI 概括示意，图上的字形与行款不能用来核对原字。",
+    "refs": [
+     "t04-gsjd-written-hemp-paper-official"
+    ]
+   },
+   {
+    "title": "年代是怎么定的",
+    "text": "馆方的判断依据是同出简牍与地层：由此定在东汉初期。这是考古学上常见的方法——器物本身不易直接测年时，靠共存关系与层位推断。它属于研究解释，因此本条把它写成“馆方依同出简牍与地层定年为东汉初期”，而不是“纸上写着东汉初期”。",
+    "refs": [
+     "t04-gsjd-written-hemp-paper-official"
+    ]
+   },
+   {
+    "title": "一片纸能说明什么",
+    "text": "它说明在悬泉置这样的驿站，纸已经被用来写字，而且写的是成行成句的内容。至于这张纸是本地抄造还是外地带来、由谁写下这两行字、纸上的“皂五匹”指向哪笔交易，本条资料均未载。我们知道的与不知道的，界线就在这里。",
+    "refs": [
+     "t04-gsjd-written-hemp-paper-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与年代",
+    "text": "1990年悬泉置遗址出土；馆方依同出简牍与地层定为东汉初期。",
+    "refs": [
+     "t04-gsjd-written-hemp-paper-official"
+    ]
+   },
+   {
+    "title": "纸面特征",
+    "text": "不规则长方形，黄色间灰，厚而重，松疏粗糙，表面有残渣。",
+    "refs": [
+     "t04-gsjd-written-hemp-paper-official"
+    ]
+   },
+   {
+    "title": "墨迹",
+    "text": "隶书两行：“巨阳大利 上缮皂五匹。”",
+    "refs": [
+     "t04-gsjd-written-hemp-paper-official"
+    ]
+   },
+   {
+    "title": "不能做的推断",
+    "text": "AI示意图不用于核字；纸的产地、抄造工序未载。",
+    "refs": [
+     "t04-gsjd-written-hemp-paper-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "在木简为主的年代，为什么有人用纸写字？",
+   "answer": "因为不同材料各有用处。木简结实、便于编连成册，适合正式与长篇记录；纸轻薄、面积可裁，写几行短句很方便。悬泉置的这片纸上写着两行隶书，正说明当时的人在按需要选材料——不是“木简的时代”与“纸的时代”截然分开。",
+   "refs": [
+    "t04-gsjd-written-hemp-paper-official"
+   ]
+  },
+  "uncertainty": "“巨阳大利 上缮皂五匹”的含义、纸张产地与抄造工序、书写者均未载；定年依据为馆方对同出简牍与地层的判断；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gsjd-medicine-paper",
+    "reason": "同馆两件有字麻纸：一件写着两味药名并被推断为包药纸，一件写着两行货物或祝语，比较纸面质地与书写内容。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-wan-letter",
+    "reason": "同为书写载体：一片粗纸上两行隶书，一封丝帛上的私人书信，比较材质、文字与用途。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-written-hemp-paper-official": {
+   "id": "t04-gsjd-written-hemp-paper-official",
+   "title": "官方逐件记录：“巨阳大利 上缮皂五匹”汉代麻纸（exhibit_id=34）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=34",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1990年敦煌悬泉置遗址出土；馆方依同出简牍与地层定年为东汉初期；纸张呈不规则长方形，黄色间灰，厚而重、质地松疏粗糙、表面留有残渣；上有隶书两行“巨阳大利 上缮皂五匹”。定年依据属馆方解释；不含纤维检测与制作工序；不构成照片授权。"
+  }
+ }
+}

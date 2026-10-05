@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-patched-robe",
+  "hook": "胸前一块方补，不写官阶",
+  "summary": "中国丝绸博物馆藏明代交领袍。黄色，主体面料为黄色素罗，袍服前胸有一块方补；该袍比较残破，但还能辨认为交领袍。长126、通袖长210厘米。方补的等级身份与纹样未详，本条不据此推断官阶与人物。",
+  "summaryRefs": [
+   "t04-csm-patched-robe-official"
+  ],
+  "sections": [
+   {
+    "title": "残破，但还认得出",
+    "text": "官方记录的描述很谨慎：比较残破，但还能辨认为一交领袍。也就是说，形制是从残存结构中辨认出来的，而不是完整保存。长126、通袖长210厘米——这是一件大件袍服，尺寸与规格都不小。",
+    "refs": [
+     "t04-csm-patched-robe-official"
+    ]
+   },
+   {
+    "title": "素罗与方补",
+    "text": "主体面料采用黄色素罗；前胸有一块方补。方补是缝在衣服前胸与后背的方形织绣饰块，在明清官服体系里常与品级相关。但在本件上，方补的内容与等级，官方记录未详——所以本条只写“有一块方补”，不写它代表几品、属于哪一类官员。",
+    "refs": [
+     "t04-csm-patched-robe-official"
+    ]
+   },
+   {
+    "title": "为什么不推断官阶",
+    "text": "因为推断需要依据：补子的纹样（禽或兽）、尺寸、颜色与袍服颜色的搭配，都是判断品级的线索。本件残破，且官方记录没有给出这些信息。凭轮廓就编出“某品官员的朝服”，是把想象写成了史料——这正是本条要避免的。",
+    "refs": [
+     "t04-csm-patched-robe-official"
+    ]
+   },
+   {
+    "title": "还缺什么",
+    "text": "物主、出土地、缝制工匠、方补的具体纹样与尺寸、逐次保护修复档案，官方记录均未载。站内配图是 AI 概括示意，不能据图辨认补子的内容。它现在能确定的身份，是一件明代黄色素罗交领袍，胸前缝过一方补。",
+    "refs": [
+     "t04-csm-patched-robe-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "形制与状态",
+    "text": "交领袍；比较残破但可辨认。",
+    "refs": [
+     "t04-csm-patched-robe-official"
+    ]
+   },
+   {
+    "title": "面料与方补",
+    "text": "黄色素罗；前胸有一块方补（内容与等级未详）。",
+    "refs": [
+     "t04-csm-patched-robe-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长126、通袖长210厘米；数量1件。",
+    "refs": [
+     "t04-csm-patched-robe-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "不按方补推断官阶与人物故事。",
+    "refs": [
+     "t04-csm-patched-robe-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么衣服上要缝一块方补？",
+   "answer": "在明清的制度里，补子是标明身份的一种方式：不同纹样对应不同品级，穿在身上，别人一眼就能看出。但这套对应关系需要具体纹样才能判断——本件的补子内容未详，所以我们只知道“有补”，不知道“是哪一等”。",
+   "refs": [
+    "t04-csm-patched-robe-official"
+   ]
+  },
+  "uncertainty": "方补纹样、尺寸、等级未详；物主、出土地、工匠与入藏经过未载；残破程度的具体描述未在本条资料中给出；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；不推断官阶。",
+  "related": [
+   {
+    "id": "csm-ming-yesa",
+    "reason": "两件明代袍服：一件腰下打褶、款式与乘马相关，一件残破并带方补，比较款式与身份标识两类信息。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-cloud-fragment",
+    "reason": "都涉及残缺材料：一件袍服残破但仍可辨认形制，一件只剩一块织物残片，比较“残”对研究的不同限制。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-patched-robe-official": {
+   "id": "t04-csm-patched-robe-official",
+   "title": "官方逐件记录：黄色素罗绣花方补交领袍（itemid=1890）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1890",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明代、质地丝、色泽黄、数量1件；该袍服比较残破，但还能辨认为交领袍；主体面料采用黄色素罗，袍服前胸有一块方补；长126、通袖长210厘米。方补的等级身份与纹样未详，馆方记录未说明，本条不据此推断官阶；不构成照片授权。"
+  }
+ }
+}

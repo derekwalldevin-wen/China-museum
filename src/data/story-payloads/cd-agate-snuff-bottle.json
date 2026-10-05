@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cd-agate-snuff-bottle",
+  "hook": "石头的杂色，变成了画里的老虎",
+  "summary": "成都博物馆藏清代玛瑙鼻烟壶，成都四川宾馆出土，高5.9厘米。馆方记录其两面利用石材杂色巧雕，一面为玩童牵狗，一面为三虎嬉戏。作者、使用者与出土年月均未载。",
+  "summaryRefs": [
+   "t03-cd-agate-snuff-bottle-official"
+  ],
+  "sections": [
+   {
+    "title": "小巧的一件随身器",
+    "text": "这件鼻烟壶高5.9厘米，成都四川宾馆出土。玛瑙本身有杂色，磨成壶身之后，色块在表面留下深浅不一的分布。器形不大，适合握在掌心，两面都有可看的图像。",
+    "refs": [
+     "t03-cd-agate-snuff-bottle-official"
+    ]
+   },
+   {
+    "title": "依色下刀",
+    "text": "馆方记其两面利用杂色巧雕：一面是玩童牵狗，一面是三虎嬉戏。所谓巧雕，是按石材天然的色块位置安排形象，让深浅不同的部分各自承担画面的一角。因此图像的一部分由石头预先给出，雕刻者顺着它构形。石材的色块在这里成为图像线索，而不是被磨平之后另行描绘。卡片上的AI示意图只概括器形与巧色，不复刻原雕人物。",
+    "refs": [
+     "t03-cd-agate-snuff-bottle-official"
+    ]
+   },
+   {
+    "title": "内容说了什么",
+    "text": "玩童牵狗、三虎嬉戏，这两组题材来自馆方的辨认——这是对画面的描述。至于题材是否带有特定寓意，记录没有说明。鼻烟壶是随身用品，但它的使用者是谁、从事什么行业，资料未载；据一件烟具去推断某人的生活习惯或职业，缺少依据。",
+    "refs": [
+     "t03-cd-agate-snuff-bottle-official"
+    ]
+   },
+   {
+    "title": "今天再看这块石头",
+    "text": "玉材与玛瑙的雕刻，关键在于怎么和材料商量。这块石头给出了杂色，雕刻者把杂色用成了画面的一半。它的具体作者、使用者和琢磨工具都未载，出土年月也未载；逐次保护修复档案未核。",
+    "refs": [
+     "t03-cd-agate-snuff-bottle-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代",
+    "text": "清代。",
+    "refs": [
+     "t03-cd-agate-snuff-bottle-official"
+    ]
+   },
+   {
+    "title": "尺寸与出土",
+    "text": "高5.9厘米；成都四川宾馆出土，年月未载。",
+    "refs": [
+     "t03-cd-agate-snuff-bottle-official"
+    ]
+   },
+   {
+    "title": "图像",
+    "text": "两面利用杂色巧雕：玩童牵狗、三虎嬉戏。",
+    "refs": [
+     "t03-cd-agate-snuff-bottle-official"
+    ]
+   },
+   {
+    "title": "材质与工艺",
+    "text": "玛瑙巧色雕刻；琢磨工具与工期未载；石材天然色块成为图像线索，原雕人物不据AI示意图复刻。",
+    "refs": [
+     "t03-cd-agate-snuff-bottle-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "不据鼻烟壶推定使用者职业或吸烟习惯；原雕人物不据AI示意图复刻。",
+    "refs": [
+     "t03-cd-agate-snuff-bottle-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "材料给了限制，雕刻者为什么顺势而为？",
+   "answer": "因为杂色磨掉之后就只剩一片均匀的石面，天然的深浅一旦消失，再也补不回来；顺着它的位置安排形象，颜色本身就成了画面。这样做既有不得已，也有选择：石头先出题，人再作答。至于这件壶的作者是谁，记录没有留下名字。",
+   "refs": [
+    "t03-cd-agate-snuff-bottle-official"
+   ]
+  },
+  "uncertainty": "出土年月未载；具体作者、使用者未载；琢磨工具与工期未载；题材寓意无结论；雕刻细节不据AI示意图判断；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按成都博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-dragon-belt-hook",
+    "reason": "两件都在成都出土，材质与年代不同，一件顺着玛瑙杂色安排人物，一件在玉材上成器，比较巧色与琢玉的两种思路。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cd-gold-hairpin",
+    "reason": "两件小型佩饰的取径不同：一件在薄金片上镂出字形，一件在玛瑙色块间雕出人物，比较减法与依色各自的限制。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-cd-agate-snuff-bottle-official": {
+   "id": "t03-cd-agate-snuff-bottle-official",
+   "title": "官方逐件记录：玛瑙鼻烟壶（/mq/201901/59.html）",
+   "institution": "成都博物馆",
+   "url": "https://www.cdmuseum.com/mq/201901/59.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：清代；成都四川宾馆出土的玛瑙鼻烟壶高5.9厘米；馆方记两面利用杂色巧雕玩童牵狗与三虎嬉戏，石材天然色块成为图像线索。未载：出土年月、具体作者、使用者、琢磨工具与工期。边界：不据鼻烟壶推定使用者职业或吸烟习惯；不构成照片授权。"
+  }
+ }
+}

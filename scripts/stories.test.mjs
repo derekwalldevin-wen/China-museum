@@ -74,12 +74,13 @@ for (const batch of [batch2, batch3, batch4, batch5, batch6, batch7, batch8, bat
 data.stories = [...new Map(data.stories.map(story => [story.id, story])).values()];
 const source = readFileSync(new URL('../src/data/story-routes.ts', import.meta.url), 'utf8');
 const js = ts.transpileModule(source, { compilerOptions: { module: ts.ModuleKind.ESNext, target: ts.ScriptTarget.ES2022 } }).outputText;
-const { defaultTrailId, readGuideRoute, storyTeaserIndex, writeGuideRoute } = await import(`data:text/javascript;base64,${Buffer.from(js).toString('base64')}`);
+const { defaultTrailId, readGuideRoute, writeGuideRoute } = await import(`data:text/javascript;base64,${Buffer.from(js).toString('base64')}`);
 const teaserSource = readFileSync(new URL('../src/data/story-teaser-hooks.ts', import.meta.url), 'utf8');
 const teaserJs = ts.transpileModule(teaserSource, { compilerOptions: { module: ts.ModuleKind.ESNext, target: ts.ScriptTarget.ES2022 } }).outputText;
 const { storyTeaserHooks } = await import(`data:text/javascript;base64,${Buffer.from(teaserJs).toString('base64')}`);
 const objects = new Map(museums.flatMap(m => m.artifacts.map(a => [a.id, a])));
 const sources = new Map(data.sources.map(s => [s.id, s]));
+const storyCatalog = JSON.parse(readFileSync(new URL('../src/data/story-catalog.json', import.meta.url), 'utf8'));
 
 test('140 real collection IDs, six curated trails and discoverable standalone stories', () => {
   assert.equal(data.stories.length, 218); assert.equal(data.trails.length, 6);
@@ -105,9 +106,16 @@ test('all story summaries are actually corrected in the original museum collecti
   assert.doesNotMatch(objects.get('hain-lj').story, /三千年|黄道婆/);
 });
 test('lightweight route manifest matches every full story without loading the story payload', () => {
-  assert.equal(Object.keys(storyTeaserIndex).length, data.stories.length);
+  // The manifest must cover every story in the generated catalog: 218 originals grew to 343 when
+  // the tranche 01-04 backfill landed, so the count is pinned to the catalog, not to stories.json.
+  // Routability is shape-validated in story-routes and resolved against the deferred catalog, so
+  // the manifest check is "every catalog story routes by URL and carries a teaser hook".
+  for (const { id } of storyCatalog.stories) {
+    assert.equal(readGuideRoute(`?story=${id}`)?.storyId, id, id);
+    assert.ok(storyTeaserHooks[id], id);
+  }
   for (const story of data.stories) {
-    assert.ok(storyTeaserIndex[story.id]);
+    assert.equal(readGuideRoute(`?story=${story.id}`)?.storyId, story.id);
     assert.equal(storyTeaserHooks[story.id], story.hook);
     assert.equal(defaultTrailId(story.id), data.trails.find(trail => trail.ids.includes(story.id))?.id ?? null);
   }
@@ -515,9 +523,13 @@ test('story URLs preserve the original museum, artifact, filters and unrelated p
   assert.deepEqual([...params], [...new URLSearchParams(search)]);
 });
 test('invalid story IDs and incompatible trails are safely normalized', () => {
-  assert.equal(readGuideRoute('?story=not-an-artifact&trail=unknown'), null);
+  // Unknown-but-well-formed ids are accepted here and resolved against the deferred story catalog,
+  // which shows the reader's "无法载入" state; malformed ids are ignored outright.
+  assert.deepEqual(readGuideRoute('?story=not-an-artifact&trail=unknown'), { storyId:'not-an-artifact', trailId:null });
+  assert.equal(readGuideRoute('?story=Not/An Id'), null);
+  assert.equal(readGuideRoute('?story=../../etc'), null);
   assert.deepEqual(readGuideRoute('?story=gg-qmsh&trail=light'), { storyId:'gg-qmsh', trailId:'ink' });
-  assert.deepEqual(readGuideRoute('?guide=1&story=not-an-artifact'), { storyId:null, trailId:null });
+  assert.deepEqual(readGuideRoute('?guide=1&story=Not/An Id'), { storyId:null, trailId:null });
   assert.deepEqual(readGuideRoute('?trail=music'), { storyId:null, trailId:'music' });
   assert.deepEqual(readGuideRoute('?story=sb-jd&trail=ink'), { storyId:'sb-jd', trailId:null });
 });
@@ -1825,7 +1837,7 @@ test('batch 65 adds two artifacts photographed on site at the Hubei Provincial M
     const artifact = objects.get(story.id);
     assert.ok(artifact, `${story.id} exists in the atlas`);
     assert.equal(artifact.story, story.summary, `${story.id} card and story summaries match`);
-    assert.ok(storyTeaserIndex[story.id], `${story.id} is routable`);
+    assert.ok((readGuideRoute(`?story=${story.id}`)?.storyId === story.id), `${story.id} is routable`);
     assert.ok(storyTeaserHooks[story.id], `${story.id} has a teaser hook`);
   }
   // Zeng Zhong You-fu hu: museum-official figures and inscription locations.
@@ -1852,7 +1864,7 @@ test('the home beacon rotates over field-visit stories instead of repeating one 
   // The beacon ids must all be real, routable stories with a museum behind them.
   for (const id of ['hub-zhy', 'hub-zzs', 'hub-ymh', 'hub-hjd', 'hub-hjs', 'hub-hjy', 'hub-zbh', 'hub-zbl', 'hub-hyy', 'hub-qqw', 'hub-nnd', 'hub-xd', 'hub-fcb', 'hub-jjj', 'hub-czd', 'hub-lgd', 'hub-yzc', 'hub-jb']) {
     assert.ok(objects.has(id), `${id} is an atlas artifact`);
-    assert.ok(storyTeaserIndex[id], `${id} is a routable story`);
+    assert.ok((readGuideRoute(`?story=${id}`)?.storyId === id), `${id} is a routable story`);
   }
 });
 
@@ -1863,7 +1875,7 @@ test('batch 70 adds three name-only label objects and says so plainly', () => {
     const artifact = objects.get(story.id);
     assert.ok(artifact, `${story.id} exists in the atlas`);
     assert.equal(artifact.story, story.summary, `${story.id} card and story summaries match`);
-    assert.ok(storyTeaserIndex[story.id] && storyTeaserHooks[story.id], `${story.id} is routable with a hook`);
+    assert.ok(readGuideRoute(`?story=${story.id}`)?.storyId === story.id && storyTeaserHooks[story.id], `${story.id} is routable with a hook`);
     // Name-only labels: the era field must stay explicitly undetermined, not guessed.
     assert.equal(artifact.dynasty, '未定', `${story.id} dynasty must stay undetermined`);
     assert.match(story.uncertainty, /未标/);
@@ -1886,7 +1898,7 @@ test('batch 69 adds the square you, the Xi-halberd and the Chu-zi Chao ding', ()
     const artifact = objects.get(story.id);
     assert.ok(artifact, `${story.id} exists in the atlas`);
     assert.equal(artifact.story, story.summary, `${story.id} card and story summaries match`);
-    assert.ok(storyTeaserIndex[story.id] && storyTeaserHooks[story.id], `${story.id} is routable with a hook`);
+    assert.ok(readGuideRoute(`?story=${story.id}`)?.storyId === story.id && storyTeaserHooks[story.id], `${story.id} is routable with a hook`);
   }
   // Square you: the missing handle is presented as an inference from the ring ears.
   assert.match(batch69.stories[0].summary, /盖呈四面坡屋顶形/);
@@ -1913,7 +1925,7 @@ test('batch 68 adds the Sujialong ding group, the buffalo-knob ding and the jade
     const artifact = objects.get(story.id);
     assert.ok(artifact, `${story.id} exists in the atlas`);
     assert.equal(artifact.story, story.summary, `${story.id} card and story summaries match`);
-    assert.ok(storyTeaserIndex[story.id] && storyTeaserHooks[story.id], `${story.id} is routable with a hook`);
+    assert.ok(readGuideRoute(`?story=${story.id}`)?.storyId === story.id && storyTeaserHooks[story.id], `${story.id} is routable with a hook`);
   }
   // Sujialong group: nine ding, two with inscriptions, and the missing gui is recorded.
   assert.match(batch68.stories[0].summary, /九鼎器型与纹饰基本相同/);
@@ -1941,7 +1953,7 @@ test('batch 67 adds the Guojiamiao paired bronzes and the Marquis Yu yong-bell',
     const artifact = objects.get(story.id);
     assert.ok(artifact, `${story.id} exists in the atlas`);
     assert.equal(artifact.story, story.summary, `${story.id} card and story summaries match`);
-    assert.ok(storyTeaserIndex[story.id] && storyTeaserHooks[story.id], `${story.id} is routable with a hook`);
+    assert.ok(readGuideRoute(`?story=${story.id}`)?.storyId === story.id && storyTeaserHooks[story.id], `${story.id} is routable with a hook`);
   }
   // Paired hu: two identical vessels, label wording preserved.
   assert.match(batch67.stories[0].summary, /两件铜壶形制、大小、纹饰相同/);
@@ -1969,7 +1981,7 @@ test('batch 66 adds the Yejiashan Zeng bronzes and the Huang Ji Ying ding from f
     const artifact = objects.get(story.id);
     assert.ok(artifact, `${story.id} exists in the atlas`);
     assert.equal(artifact.story, story.summary, `${story.id} card and story summaries match`);
-    assert.ok(storyTeaserIndex[story.id] && storyTeaserHooks[story.id], `${story.id} is routable with a hook`);
+    assert.ok(readGuideRoute(`?story=${story.id}`)?.storyId === story.id && storyTeaserHooks[story.id], `${story.id} is routable with a hook`);
   }
   // Zeng Hou Jian ding: paired casting split across tombs 2 and 28.
   assert.match(batch66.stories[0].summary, /2011年随州叶家山墓地2号墓出土/);

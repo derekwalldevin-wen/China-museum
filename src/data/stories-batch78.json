@@ -1,0 +1,4779 @@
+{
+ "version": 1,
+ "reviewedAt": "2026-10-05",
+ "sources": [
+  {
+   "id": "t05-wh-stone-spade-official",
+   "title": "官方逐件记录：屈家岭文化石耜（exhibitId=7ce30e5b2580a4a95f5880983d0ad66f）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/玉石器/7ce30e5b2580a4a95f5880983d0ad66f",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：屈家岭文化年代、武汉市江夏区潘柳村遗址发掘出土、长38.5厘米、耜为原始翻土农具耒耜的下端且形状接近今铁锹与铧、材质属石制农具；未载：具体发现年月、墓号、发现者、制作者与使用痕迹，官网玉石器目录与记录所写石质两说并列而不据此改材质；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-drum-pot-official",
+   "title": "官方逐件记录：灰陶鼓形壶（exhibitId=6bab0a546a2070fbd7ffa77c9bbd6734）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/6bab0a546a2070fbd7ffa77c9bbd6734",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：商代、1988年由武汉市考古工作者在黄陂盘龙城杨家湾发掘出土、器身为鼓形、两侧饰乳钉纹两周、高24.4厘米、馆方称其为湖北地区迄今发现时代最早的乐器造型陶器；未载：墓号、发现者姓名、流转经过与实际使用痕迹，盛装用途与敲击乐器两说并列；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-pottery-yan-official",
+   "title": "官方逐件记录：陶甗（exhibitId=4edb65118f7ed4c124b4a146b052e531）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/4edb65118f7ed4c124b4a146b052e531",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：商代、出土于武汉市黄陂区盘龙城遗址、高44.5厘米、上部为透气的甑而下部为鬲且上下相连为一体、馆方称其为商代具有代表性的炊器；未载：发掘年份、墓号、发现者与流转经过，具体炊食内容与蒸煮实验列作边界而不补造；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-pottery-dui-official",
+   "title": "官方逐件记录：陶敦（exhibitId=f31376077d2c04b38d4b13bb0ae2ee1a）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/f31376077d2c04b38d4b13bb0ae2ee1a",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：战国、武汉市新洲区辛冲出土、通高29厘米、泥质黑陶、器盖与器身同形合之成圆球状、盖可取下倒置使用、盖钮与器足为三个S形组成；未载：出土年份、墓号与物主，构件数量以馆方记录为准而不据示意图判断，敦属楚国典型器一并记为类型背景；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-pigsty-latrine-official",
+   "title": "官方逐件记录：陶圈厕（exhibitId=eece3d959ff9dfc768ba57dc9223e0ea）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/eece3d959ff9dfc768ba57dc9223e0ea",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：汉代、1986年在武汉市新洲区红山嘴东汉墓中出土、高23厘米、厕所与养猪积肥相结合的单体方形猪圈厕模型、保存较为完整；未载：墓号、发现者与流转经过，模型与当时家庭卫生水平之间留有边界，馆方对养殖方式与雕塑艺术的评价属解释；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-mother-candlestick-official",
+   "title": "官方逐件记录：青釉妇人抱子陶烛台（exhibitId=6cfefb213f334407a27b97773729d1f1）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/6cfefb213f334407a27b97773729d1f1",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：汉代、泥质红陶、座作人形、髻成筒形可插烛、通体施铅釉呈银色，属官方逐件记录明列；馆方解释其为汉代低温铅釉陶器应用推广的实例。未载：出土地点、墓号与发现过程、工匠姓名；题名青釉与正文所记银色两说并列保留。不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-dabu-coin-official",
+   "title": "官方逐件记录：“大布黄千”铜币（exhibitId=dbf5a639e4826e185bb1fb1a8d6f4052）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/铜器/dbf5a639e4826e185bb1fb1a8d6f4052",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：新洲区肖家洼汉墓葬出土、名称“大布黄千”与长5.7厘米，属官方逐件记录明列；正文记王莽时期四次改革币制、莽钱铸造精致且数量稀少。未载：出土年月、墓号与铸造工艺、工匠姓名；时代字段作新莽而正文写西汉王莽时期，两说并列保留。不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-measuring-ding-official",
+   "title": "官方逐件记录：“菅邑家”鼎（exhibitId=9035e09f767bcd01680bd5c6a74d3c6c）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/铜器/9035e09f767bcd01680bd5c6a74d3c6c",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：汉代青铜鼎、通高17厘米、口沿铸有铭文“菅邑家鼎容一斗重十斤四两”，属官方逐件记录明列；馆方解释其为度量衡器，并记鼎兼有宴飨、祭祀与度量作用。未载：出土地点、墓号与铸造工艺；古单位不擅自换算为现代唯一数值。不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-people-mirror-official",
+   "title": "官方逐件记录：“中国人民”五乳神兽镜（exhibitId=15e17b4ca076bde7a168e5303360e2d2）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/铜器/15e17b4ca076bde7a168e5303360e2d2",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：汉代铜镜、直径18厘米、1972年于湖北省更生仓库拣选所得，主题纹饰外围铭文出现“中国人民”，属官方逐件记录明列，并经定为国家一级文物。未载：出土地点、拣选经过细节与铭文全文；拣选与考古发掘的边界须区分。不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-yangguang-trigger-official",
+   "title": "官方逐件记录：“延光三年”鎏金铭文弩机（exhibitId=81c701e6892e9551b884bfbbb01c131f）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/铜器/81c701e6892e9551b884bfbbb01c131f",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：东汉鎏金弩机、臂长11厘米、板机及臂部均刻有铭文，馆方据铭文定为东汉延光三年（公元124年）所制，属官方逐件记录明列。未载：出土地点、墓号、工匠身份与完整安装关系；弩机为木弩的铜质机件，不作完整木弩。不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-lushi-mirror-official",
+   "title": "官方逐件记录：鲁诗铭文重列式神兽镜（exhibitId=ee6812427eacb8acdfc9857d26ecf564）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/铜器/ee6812427eacb8acdfc9857d26ecf564",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：东汉年代、直径14.7厘米、神兽主题纹饰与镜缘一圈隶书铭文、国家一级文物；馆方引金石学家罗福颐考证，认为铭文与《诗经·卫风·硕人》章略有差异，属失传多年的“鲁诗”。未载：出土地点、墓葬、出土时间与取得方式；鲁诗归属按馆方所引研究解释表述，原论文未附；铭文字形不据AI示意图判断；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-fortress-model-official",
+   "title": "官方逐件记录：青瓷坞堡（exhibitId=da92870a4cb6ff81e7bfb9b0cc6f9e03）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/da92870a4cb6ff81e7bfb9b0cc6f9e03",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：三国吴年代、青瓷坞堡，出土于黄陂区滠口三国吴墓，高30、长62、宽48厘米；封闭式建筑，外围高围墙，大门为唯一通道，四角有望楼，院内有谷仓与厢房；馆方解释其以实物形式再现当时坞堡的形态与结构。未载：墓号、出土年月与发现者；与执盾俑同地区不等于同墓；建筑细部属AI概括；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-shield-figure-official",
+   "title": "官方逐件记录：青瓷执盾俑（exhibitId=e6ec605238d437715bdcf46a0214ed7a）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/e6ec605238d437715bdcf46a0214ed7a",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：三国吴年代、1986年武汉黄陂县滠口镇三国墓M68出土，高28.9厘米；跪姿，头戴盔帽、身穿铠甲，一手持盾、一手持兵器，盾为长方形兽面盾，整体施青釉；同墓伴出鸡圈、鸭圈、猪圈及武士俑、生活劳动俑；国家一级文物。未载：墓主、军衔与个人姓名；铠甲与盾的部件数量不据AI示意图判断；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-zhaozhuo-trigger-official",
+   "title": "官方逐件记录：“赵濯”铭文青铜弩机（exhibitId=24c09eeed03f4aa350742644b4b3db15）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/铜器/24c09eeed03f4aa350742644b4b3db15",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：三国年代、长20厘米，出土于武汉市洪山区石咀一座大型券顶砖室墓；弩机为木弩的铜质机件，板机两侧刻有缪曜、郑贵、赵濯三处“私弩”铭文，馆方据刻铭认为至少三人使用过，并联系孙吴世袭领兵制度；国家一级文物。未载：完整墓号、出土年月与使用次序；铸造工匠与作坊未载；铭文字形不据AI示意图判断；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-tiger-vessel-official",
+   "title": "官方逐件记录：青瓷虎子（exhibitId=963c36c0042448a99001a6ad33057b89）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/963c36c0042448a99001a6ad33057b89",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：西晋年代、长28.5厘米；塑成伏地仰头长啸的虎，虎口大张为圆形，四足曲蹬，虎尾上翘至近颈部形成提梁，通体施釉；此类器物流行于汉至南北朝的墓葬中。未载：出土地点、墓葬与出土年月；水器与便壶两说并列保留，不定单一用途；使用痕迹与残留物检测未见；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-well-model-official",
+   "title": "官方逐件记录：青瓷井（exhibitId=9aa35f07ba74ab67c546c4c7aea61b9a）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/9aa35f07ba74ab67c546c4c7aea61b9a",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：西晋青瓷井模型，高17.2厘米，出土于武汉市武昌区中山路的一座墓葬；通体施青釉，上部为四角攒尖式屋顶，由四根圆柱形井栏支撑在井口之上，井沿塑一人手提水桶倚柱打水。未载：发现年份、墓号与对应家庭；构件数量不据示意图清点；随葬模型不构成实用井原件的使用证据；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-many-foot-inkstone-official",
+   "title": "官方逐件记录：多足青瓷砚（exhibitId=ec457ba22a1bc41a36c0841574a10293）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/ec457ba22a1bc41a36c0841574a10293",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南北朝多足青瓷砚，直径22.5厘米；浅盘式砚堂中心微微向上隆起且不施釉，砚边施釉，砚身下方有多只兽足环绕支撑。馆方称多足砚是隋唐“辟雍砚”的雏形，属形制比较。未载：出土地点、墓号与发现者；兽足只数不据示意图清点；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-snake-seal-official",
+   "title": "官方逐件记录：蛇钮金印（exhibitId=ef48d98ea58d0e83717b3177e2b96155）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/其它/ef48d98ea58d0e83717b3177e2b96155",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：西晋蛇钮金印，纯金制成，长宽高均为2.2厘米，重85.5克；钮作蛇状，印文“晋蛮夷归义侯”，阴文大篆，布局严谨，馆方描述为端庄稳重、古朴雄浑。馆方解释该印为朝廷颁给归顺部落首领的印信，属研究解释。未载：出土地点、墓号与具体受印人；印文与钮形不据示意图判断；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-chicken-ewer-official",
+   "title": "官方逐件记录：青瓷龙柄鸡首壶（exhibitId=75ac577b1961832baedc748cab0d73f3）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/75ac577b1961832baedc748cab0d73f3",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：隋代青瓷龙柄鸡首壶，高12.5厘米，出土于武昌区岳家嘴；胎体厚重，釉色透明，前附一鸡首流，后附一龙形柄，龙首向上至壶口并口衔盘沿。馆方称鸡首壶一类流行于三国两晋南北朝至隋唐，属类型背景。未载：出土年份、墓号与墓主；鸡首与龙柄细部不据示意图判断；不构成照片授权。"
+  },
+  {
+   "id": "t05-wh-chengni-inkstone-official",
+   "title": "官方逐件记录：抄手澄泥砚（exhibitId=178752855674be902f8d03102c75ab70）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/178752855674be902f8d03102c75ab70",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：宋代抄手澄泥砚，长18.5厘米，属陶质砚；制作手法简洁、造型古朴，砚额及两侧镌有陆游、高凤翰、黄易、金农等名家款识，篆、楷、行、隶诸体共计177字。未载：出土地点、墓号与入藏经过；题款次序、真伪与题刻者身份未核；文字与字数不据示意图判断；题款时代与砚的年代分歧并列保留；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-gold-lotus-box-official",
+   "title": "官方逐件记录：朱漆戗金莲瓣式人物花卉纹奁（id=369）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=369&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋（1127年~1279年）；通高21.3厘米、外径19.2厘米；1978年江苏常州武进区村前蒋塘南宋墓出土；木胎，六出莲瓣筒形，分盖、盘、中、底四层，浅圈足，合口处镶银扣；外髹朱漆、内髹黑漆；盖面为戗金仕女消夏图，器壁以同一工艺饰牡丹、莲花、梅花、芙蓉等六组折枝花；盒内朱书温州新河金念五郎上牢十字；馆方记其被国家文物鉴定委员会定为国宝级文物。未载：墓号、发现者、流转经过、仕女身份、用漆温度、工具与材料检测；铭款与纹样不由AI复刻。不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-trumpet-lacquer-official",
+   "title": "官方逐件记录：喇叭形漆器（id=44）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=44&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：新石器时代马家浜文化（约公元前4500年~前3900年）；高6、最大径10.7厘米；1976年江苏常州圩墩遗址出土；上端稍细、下呈喇叭状、器内空，有烧灼痕迹；器表涂黑色涂料，出土时仍有光泽。未载：具体用途、墓号、发现者与流转经过、涂料成分与髹涂遍数；官方原文称其为中国最早的漆器，该排名的范围与标准未交代，属并列保留的表述。不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-carved-cup-official",
+   "title": "官方逐件记录：雕花漆杯（id=417）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=417&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：明代（1368年~1644年）；高8厘米；竹质，依竹子根部形状雕刻而成，器形不规整；杯外壁浮雕松树，馆方称刻画细腻；杯内与杯外原本都髹漆，现大部脱落。未载：出土与入藏经过、墓号、发现者、流转经过、工匠姓名、原漆颜色与髹涂遍数；松树株数与漆层残存范围不据AI示意。不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-wood-cane-official",
+   "title": "官方逐件记录：木手杖（id=418）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=418&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：元（1271年~1368年）；长126.5厘米；1976年江苏常州武进区卜弋元墓出土；木质，把手与杖身以榫卯相接，通体雕成竹节状，馆方称做工精细、在国内出土文物中极为少见。未载：墓号、发现者、流转经过、树种与木材鉴定、工匠姓名、榫头形状与卯眼深浅；竹节属雕刻造型，材质记录仍作木质。不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-wood-spoon-official",
+   "title": "官方逐件记录：木勺（id=416）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=416&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：元（1271年~1368年）；长22厘米；1976年江苏常州武进区卜弋元墓出土；楠木质，勺柄微弧，勺头扁弧形；馆方称保存完美、制作精细、用料考究，是研究元代饮食用具的难得实物。未载：墓号、发现者、流转经过、具体食物、物主与使用痕迹、木材产地与加工方法。不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-wood-chopstick-official",
+   "title": "官方逐件记录：木筷（id=415）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=415&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：官方逐件记录给出元代定年、楠木质地、圆柱形且一头稍粗、长27.2厘米，并记1976年江苏常州武进区卜弋元墓出土，以“保存完美，制作精细”描述其状况。未载：原套数量未明确，墓号、发现者、随葬组合与流转经过均无记录；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-yuan-black-bowl-official",
+   "title": "官方逐件记录：黑漆碗（id=414）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=414&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：官方逐件记录给出元代定年、木胎直口浅腹微折平底、高5、口径15.5、底径10.5厘米，1981年江苏常州武进区礼河元墓出土，内外皆髹黑漆且漆面光亮，外壁朱书“辛卯湖州苏上”六字。未载：铭款所指匠人生平、墓号与流转经过；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-phagspa-bowl-official",
+   "title": "官方逐件记录：“八思巴文”漆碗（id=413）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=413&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：官方逐件记录给出元代定年、木胎口微敛弧腹圈足、高8.4、口径19.6、底径8.4厘米，1976年江苏常州武进区卜弋元墓出土，内外髹暗黄色漆、口缘及底以黑漆镶边，圈足内朱书八思巴文“陈”字。未载：官网同名另一件的尺寸不并入本件，墓号、发现者与流转经过亦无记录；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-bamboo-comb-official",
+   "title": "官方逐件记录：竹篦（id=410）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=410&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：官方逐件记录给出南宋定年、竹质属双齿篦类、长8.4、宽4.9厘米，1976年江苏常州武进区村前蒋塘南宋墓出土，两面单排齿细而密集，两片竹质篦梁夹住篦齿及篦档并以棉线捆绑。未载：齿数、缺失档子的原貌、墓号与流转经过；两端档子现仅存其一，缺失情形与完好形并列保留；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-pearl-comb-official",
+   "title": "官方逐件记录：半月形镶珠木梳（id=409）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=409&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：官方逐件记录给出南宋定年、黄杨木质半月形、长9.2、宽4.1厘米，1976年江苏常州武进区村前蒋塘南宋墓出土，梳齿紧密，环梳背镶一排细小珍珠，以“制作工艺精湛”评价做工。未载：珍珠颗数与镶接做法、物主与使用场合、墓号与流转经过；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-wood-roller-official",
+   "title": "官方逐件记录：木卷轴（id=408）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=408&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋年代、木质圆柱形卷轴、长29厘米、两端镶嵌玉质构件且玉件温润色白、出土时已有斑驳沁痕，1978年江苏常州武进区村前蒋塘南宋墓出土；馆方并记卷轴在出土文物中罕见。未载：原配书画内容、玉料产地、制作工匠与墓号；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-lacquer-brush-official",
+   "title": "官方逐件记录：黑漆刻花竹毛刷（id=382）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=382&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋年代、长14.8厘米宽2厘米、竹质长方形、周身髹黑漆、刷柄浅刻花卉纹、刷毛三列八行共二十四束且毛束为黑色猪鬃，1978年江苏常州武进区村前蒋塘南宋墓出土；洁具一项由馆方据伴出梳妆用器解释，属组合判断。未载：原主人身份与具体使用场合；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-wood-chair-official",
+   "title": "官方逐件记录：木椅（id=380）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=380&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋年代、高30.4厘米、白坯无漆、后背较宽且直、搭脑出头较长、靠背板略弧、椅座采用步步高赶枨（踏脚枨最低，两侧稍高，后枨最高），1978年江苏常州武进区村前蒋塘南宋墓出土；馆方记为随葬明器并与木桌配套成组。未载：使用者身份与身高、墓号；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-wood-table-official",
+   "title": "官方逐件记录：木桌（id=379）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=379&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋年代、高22厘米、桌面长27.5厘米宽23厘米、白坯无漆、圆柱形腿、腿上端出榫、顺枨一横枨二，出土时桌面有明显安放锡明器的器底痕迹，1978年江苏常州武进区村前蒋塘南宋墓出土；供桌一项由馆方据器痕解释。未载：祭品清单、物主与墓号；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-lacquer-teacup-official",
+   "title": "官方逐件记录：漆托盏（id=378）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=378&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋年代、高4.5厘米、盏口径6.5厘米、托口径12厘米、底径5.7厘米、木胎、上为敛口小碗、中为圆形托盘、下为圈足、周身髹深褐色漆，1982年江苏常州武进区村前庄桥头南宋墓出土；馆方形容其造型凝重中不失清丽并与宋代瓷质托盏相似。未载：饮茶方式、物主与墓号；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-petal-dish-official",
+   "title": "官方逐件记录：花瓣式漆盘（id=377）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=377&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋年代；1983年江苏常州丽华新村工地出土；木胎，高4.5、口径23.5、底径16.5厘米；敞口、盘壁二十八瓣花形、平底；内髹黑漆、外髹赭色漆，漆层较厚、光润匀和；盘内底朱书“湖州西王上三”六字。未载：具体墓号、发现者与流转经过；瓣数与铭文字样不据AI示意图核对；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-black-washer-official",
+   "title": "官方逐件记录：黑漆洗（id=375）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=375&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋年代；1974年江苏常州武进区成章南宋墓出土；木胎，高7.3、口径27.2、底径19.5厘米；敞口、口沿突出唇边、浅腹微鼓、大假圈足；内外均髹黑漆，漆面光亮。未载：具体墓号与墓主；具体用途与使用痕迹未核，器名“洗”与文房砚洗一说两说并列；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-mirror-case-official",
+   "title": "官方逐件记录：剔犀执镜盒（id=373）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=373&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋年代；1978年江苏常州武进区村前蒋塘南宋墓出土；木胎，通高3.4、长27.3、盒外径16厘米；盒造型随执镜形状，盒面、柄部及周缘雕八组云纹；剔犀技法，表面黑漆、盒里黄漆，断面朱、黄、黑三色更叠；出土时内置双鱼纹执镜一面。未载：具体墓号；镜与盒分别计数，原镜纹饰不补绘；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-red-rect-box-official",
+   "title": "官方逐件记录：朱漆戗金人物花卉纹长方盒（id=372）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=372&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋年代；1978年江苏常州武进区村前蒋塘南宋墓出土；木胎长方形、子母口、口内套一浅盘，通高11.6、长15.2、宽8.1厘米；髹漆内黑外朱、细钩戗金；盖面绘老者袒腹荷杖、杖头挂钱，远处茅屋似酒家；盒四周细钩牡丹、茶花、芍药、栀子纹；盖内朱书“丁酉温州五马鐘念二郎上牢”十二字。未载：具体墓号；典故对应属馆方图像解释，画面不写作阮修写实像；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-willow-box-official",
+   "title": "官方逐件记录：黑地戗金细钩填柳塘纹长方漆盒（id=371）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=371&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋年代；1978年江苏常州武进区村前蒋塘南宋墓出土；木胎长方形、子母口、口内套一黑漆浅盘，通高11、长15.4、宽8.3厘米；器身黑漆地、细钩戗金；盖面柳塘小景，盖四周及立墙细刻山茶、牡丹、菊花、梅花等四季花卉纹；纹饰空隙处用攒犀技法錾孔填朱漆磨光；盖内朱书“庚申温州丁字桥巷解七叔上牢”十三字。未载：具体墓号；细纹不据AI示意图辨识原工艺微痕；不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-silk-brush-official",
+   "title": "官方逐件记录：毛笔（id=367）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=367&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋；1978年江苏常州武进区村前蒋塘南宋墓出土；通长26.5厘米；笔杆与笔套用芦杆制作，笔头用细丝捻成，接入笔管的一端以丝带包裹，便于更换。未载：墓号、发现者、工匠姓名与流转经过；细丝属馆方记录，不据示意图判断动物毛。不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-red-hairpick-official",
+   "title": "官方逐件记录：朱漆发插（id=365）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=365&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：南宋；1978年江苏常州武进区村前蒋塘南宋墓出土；长11.7、宽1.9厘米；木胎通体髹朱漆，圆弧面扁平长条，插顶透雕“万”字纹，下列八个长齿。未载：墓号、发现者与工匠；发插与茶筅两说并列保留，尚未定论，纹样与齿数不据示意图判断。不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-changzhou-bowl-official",
+   "title": "官方逐件记录：“常州”铭花瓣式黑漆碗（id=360）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=360&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：宋；1984年江苏常州清潭体育场工地出土；高10、口径19、底径10厘米；木胎直口深腹，圈足宽大，口沿十瓣花形，内外髹黑漆，腹外壁朱书“常州嵇嗣上牢”六字，旁有小字“甲戌”。未载：墓号、发现者与作坊人物生平；“甲戌”为干支，不据干支单独定为唯一公元年。不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-wood-paddle-official",
+   "title": "官方逐件记录：木桨（id=239）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=239&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：新石器时代马家浜文化（约公元前4500年~前3900年）；1985年江苏常州圩墩遗址出土；通长74、桨面长27.2、残宽6.4厘米；整块原木砍削，桨叶与桨杆一体，桨叶扁平有缺损，把手三角形中空，近把手处阴刻线两条。未载：墓号、发现者、工匠与制作温度；系绳用途属推测，桨叶缺损不补写。不构成照片授权。"
+  },
+  {
+   "id": "t05-cz-wood-scull-official",
+   "title": "官方逐件记录：木橹（id=238）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=238&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：新石器时代马家浜文化（约公元前4500年~前3900年）；1981年江苏常州圩墩遗址出土；长120、最宽18厘米；由较粗原木砍削，橹背面斜削、橹尾渐薄，橹把与橹面结合处保留宽约4厘米原木圆体，两侧对应处凿一长方形凹坑。未载：墓号、发现者与工匠；“天下第一橹”属传播称誉，不作排他排名。不构成照片授权。"
+  }
+ ],
+ "trails": [],
+ "stories": [
+  {
+   "id": "wh-stone-spade",
+   "hook": "石头磨成的翻土工具",
+   "summary": "武汉博物馆藏屈家岭文化石耜。长38.5厘米，是原始翻土农具耒耜的下端，形状接近今天的铁锹和铧，用于翻土。发掘出土于武汉市江夏区潘柳村遗址；具体发现年月与制作者未载。官网把它放入玉石器目录，而记录写明它属于石制农具。",
+   "summaryRefs": [
+    "t05-wh-stone-spade-official"
+   ],
+   "sections": [
+    {
+     "title": "先认这件器物的部位",
+     "text": "耜是原始翻土农具耒耜的下端，形状接近今天的铁锹和铧，这是馆方原文给出的说明。它只承担整件农具接触土壤、翻动土块的那一段工作：耒是上端的柄，耜是接触地面的刃，分开之后各自的名字还留着。长38.5厘米，这个体量适合双手推压。",
+     "refs": [
+      "t05-wh-stone-spade-official"
+     ]
+    },
+    {
+     "title": "屈家岭文化的名字从哪里来",
+     "text": "馆方说明，屈家岭文化是我国长江中游地区一支重要的新石器时代文化，因首先发现于湖北省京山县屈家岭遗址而得名。这段属于类型背景，交代的是文化归属与命名地；这件石耜本身的出土地点在武汉市江夏区潘柳村遗址，两处地点互不相同，不能合成一处。",
+     "refs": [
+      "t05-wh-stone-spade-official"
+     ]
+    },
+    {
+     "title": "石耜与当时的农业",
+     "text": "馆方记录写明，这件石耜发掘出土于武汉市江夏区潘柳村遗址，表明当时的农业生产已经达到一定水平。前半句是可以核对的事实，后半句是对生产水平的研究解释。仅凭一件石耜，无从知道当时种什么作物、投入多少人力；这些问题留待检测与研究。",
+     "refs": [
+      "t05-wh-stone-spade-official"
+     ]
+    },
+    {
+     "title": "今天再看：目录里的石与玉",
+     "text": "官网把这件石耜放在玉石器目录下，材质一项记作石，两种信息并列时以记录文字为准。今天再看这件器物，看点在磨出来的工作边缘：长期翻土会把石刃磨光磨钝，痕迹留在石料上。本件的使用痕迹与制作工艺尚未核，具体发现年月、墓号与制作者也未载。",
+     "refs": [
+      "t05-wh-stone-spade-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与文化",
+     "text": "新石器时代屈家岭文化；该文化属长江中游地区，因首先发现于湖北省京山县屈家岭遗址而得名（馆方描述，属类型背景）。",
+     "refs": [
+      "t05-wh-stone-spade-official"
+     ]
+    },
+    {
+     "title": "出土与尺寸",
+     "text": "发掘出土于武汉市江夏区潘柳村遗址；长38.5厘米。",
+     "refs": [
+      "t05-wh-stone-spade-official"
+     ]
+    },
+    {
+     "title": "形制与用途",
+     "text": "耜是原始翻土农具耒耜的下端，形状接近今天的铁锹和铧，用于翻土。",
+     "refs": [
+      "t05-wh-stone-spade-official"
+     ]
+    },
+    {
+     "title": "材质与目录",
+     "text": "官网列入玉石器目录，记录写明属于石制农具；两处并列，材质以记录为准。",
+     "refs": [
+      "t05-wh-stone-spade-official"
+     ]
+    },
+    {
+     "title": "未载",
+     "text": "具体发现年月、墓号、发现者、制作者与使用痕迹未载；逐次保护修复档案未核。",
+     "refs": [
+      "t05-wh-stone-spade-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "一件农具能告诉我们多少当时的生活？",
+    "answer": "能告诉一部分。石耜的形状与尺寸说明当时已有专门的翻土工具，馆方据此认为农业生产达到一定水平；至于种什么、怎么安排人力、一年收多少，这件器物答不上来。工具的答案通常停在“怎么用”，再往前推要靠别的证据。",
+    "refs": [
+     "t05-wh-stone-spade-official"
+    ]
+   },
+   "uncertainty": "具体发现年月、墓号、发现者与制作者未载；使用痕迹与制作工艺未核；文化命名地京山屈家岭与出土地江夏潘柳村并列而互不相同；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-wood-paddle",
+     "reason": "两件都是长条形手持工具：石耜靠磨出刃口翻土，马家浜文化木桨靠砍削出桨叶与握把，可比较石料与木料各自形成工作边缘的办法。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-pottery-yan",
+     "reason": "同为武汉一带先秦遗存中的实用器：一件是石质农具，一件是把甑与鬲连成一体的陶质炊器，可比较石作与陶作在成形上的差别。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-drum-pot",
+   "hook": "一只做成鼓形的陶壶",
+   "summary": "武汉博物馆藏商代灰陶鼓形壶。1988年由武汉市考古工作者在黄陂盘龙城杨家湾发掘出土；器身为鼓形，两侧饰乳钉纹两周，高24.4厘米。馆方称它是湖北地区迄今发现时代最早的乐器造型陶器；实际使用痕迹与用途未核。",
+   "summaryRefs": [
+    "t05-wh-drum-pot-official"
+   ],
+   "sections": [
+    {
+     "title": "壶的轮廓照着鼓来做",
+     "text": "馆方记录写明器身为鼓形，高24.4厘米。鼓的轮廓特点在两端收、中间鼓；壶要能盛装，还得有口和底。形状借来了，功能仍按壶来安排：这是一件陶壶，鼓只是它模仿的外形。",
+     "refs": [
+      "t05-wh-drum-pot-official"
+     ]
+    },
+    {
+     "title": "乳钉纹两周",
+     "text": "乳钉纹是成排的小圆凸起，两周就是环绕器身的两圈。纹样名称与周数依馆方记录；这一组配图均为 AI 示意图，纹样细节不据示意图判断。",
+     "refs": [
+      "t05-wh-drum-pot-official"
+     ]
+    },
+    {
+     "title": "1988年的那次发掘",
+     "text": "馆方原文写道，该陶壶于1988年由武汉市考古工作者在黄陂盘龙城杨家湾发掘出土。墓号、发现者姓名与流转经过未载，因此它随葬在哪一处、由谁经手，记录里没有交代。",
+     "refs": [
+      "t05-wh-drum-pot-official"
+     ]
+    },
+    {
+     "title": "今天再看：像鼓与是鼓",
+     "text": "馆方把它称为湖北地区迄今发现时代最早的乐器造型陶器，落点在“造型”二字。这件器物有壶的口与腹，能盛装；鼓靠敲击发声。外形像鼓，仍不足以证明它曾被敲击：实际使用痕迹未核，敲击一事留待检测。",
+     "refs": [
+      "t05-wh-drum-pot-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代",
+     "text": "商代。",
+     "refs": [
+      "t05-wh-drum-pot-official"
+     ]
+    },
+    {
+     "title": "出土",
+     "text": "1988年由武汉市考古工作者在黄陂盘龙城杨家湾发掘出土。",
+     "refs": [
+      "t05-wh-drum-pot-official"
+     ]
+    },
+    {
+     "title": "器形与尺寸",
+     "text": "器身为鼓形；高24.4厘米。",
+     "refs": [
+      "t05-wh-drum-pot-official"
+     ]
+    },
+    {
+     "title": "装饰",
+     "text": "两侧饰乳钉纹两周；纹样与周数依馆方记录，不据示意图判断。",
+     "refs": [
+      "t05-wh-drum-pot-official"
+     ]
+    },
+    {
+     "title": "未载与评价",
+     "text": "墓号、发现者姓名、流转经过与实际使用痕迹未载；乐器造型的说法来自馆方，属形态评述。",
+     "refs": [
+      "t05-wh-drum-pot-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么把容器做成乐器的样子？",
+    "answer": "可能出于审美，也可能与礼仪场合有关，两种解释记录都没有给出结论。能确认的是当时的人熟悉鼓的轮廓，才会把它搬到陶壶上。借形本身就留下线索：那件被借用的器物，在当时应当常见。",
+    "refs": [
+     "t05-wh-drum-pot-official"
+    ]
+   },
+   "uncertainty": "墓号、发现者姓名与流转经过未载；实际使用痕迹与敲击用途未核，是否曾作为乐器无结论；两说并列时本条按壶类容器叙述；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-pottery-dui",
+     "reason": "两件陶器都借了别的器物的外壳：一件让壶身做成鼓形，一件让盖与身合成球状，可比较轮廓的来历与开合方式。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-pottery-yan",
+     "reason": "两件都出自盘龙城遗址一带的商代遗存：一件模仿鼓形，一件把甑与鬲上下连成一体，可比较器形来源与结构组合；是否出自同一遗迹单位未载。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-pottery-yan",
+   "hook": "上面透气、下面烧火的陶器",
+   "summary": "武汉博物馆藏商代陶甗，高44.5厘米。甗是我国古代流行的蒸煮炊具，上部为透气的甑，下部为鬲，上下相连成一体，作用如同现在的蒸锅。这一件出土于武汉市黄陂区盘龙城遗址，馆方称其为商代具有代表性的炊器；发掘年份未在记录中说明。",
+   "summaryRefs": [
+    "t05-wh-pottery-yan-official"
+   ],
+   "sections": [
+    {
+     "title": "一件器分两段",
+     "text": "馆方原文写得很清楚：甗的上部是透气的甑，下部是鬲，上下相连为一体。甑负责盛放食物并让蒸汽穿过，鬲在下承受火力；同一个整体里，两段各自有职责。高44.5厘米，这个高度大体由两段相加而成。",
+     "refs": [
+      "t05-wh-pottery-yan-official"
+     ]
+    },
+    {
+     "title": "甗与甑这两个字",
+     "text": "甗读作“yǎn”，甑读作“zèng”。馆方说明甗是我国古代流行的一种蒸煮炊具，陶甗出现于新石器时代晚期。这段属于类型背景，交代的是一类器物的时代跨度，并不给出这一件的年代细部。",
+     "refs": [
+      "t05-wh-pottery-yan-official"
+     ]
+    },
+    {
+     "title": "这一件出自盘龙城",
+     "text": "馆方记录写明这件陶甗出土于武汉市黄陂区盘龙城遗址，是商代具有代表性的炊器。出土地点明确；发掘年份未在记录中说明，墓号、发现者与流转经过同样未载，因此它出自哪一处遗迹单位仍不知道。",
+     "refs": [
+      "t05-wh-pottery-yan-official"
+     ]
+    },
+    {
+     "title": "今天再看：蒸锅的思路",
+     "text": "把加热与盛放分成上下两段，让蒸汽从下面穿过食物，这个思路今天还在用。这一件的具体炊食内容、使用时长与修补情况都没有记录；蒸煮实验不做，器表的使用痕迹与胎料检测留待检测。",
+     "refs": [
+      "t05-wh-pottery-yan-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代",
+     "text": "商代。",
+     "refs": [
+      "t05-wh-pottery-yan-official"
+     ]
+    },
+    {
+     "title": "出土与尺寸",
+     "text": "出土于武汉市黄陂区盘龙城遗址；高44.5厘米；发掘年份未在记录中说明。",
+     "refs": [
+      "t05-wh-pottery-yan-official"
+     ]
+    },
+    {
+     "title": "结构",
+     "text": "上部为透气的甑，下部为鬲，上下相连为一体，作用如同现在的蒸锅（馆方原文）。",
+     "refs": [
+      "t05-wh-pottery-yan-official"
+     ]
+    },
+    {
+     "title": "类型背景",
+     "text": "馆方说明陶甗出现于新石器时代晚期，甗是古代流行的蒸煮炊具；这是关于一类器物的背景。",
+     "refs": [
+      "t05-wh-pottery-yan-official"
+     ]
+    },
+    {
+     "title": "未载",
+     "text": "发掘年份、墓号、发现者与流转经过未载；具体炊食内容与蒸煮实验未做；逐次保护修复档案未核。",
+     "refs": [
+      "t05-wh-pottery-yan-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "把两件用具连成一个整体，得到什么、失去什么？",
+    "answer": "分开的甑与鬲需要对合严密，蒸汽才不会从接缝跑掉；连成一体省掉了密封的问题，搬动时也少一件。代价是任何一段损坏都可能影响整器使用。整体成形的好处，馆方记录里没有展开讲，这里只能从结构上推测。",
+    "refs": [
+     "t05-wh-pottery-yan-official"
+    ]
+   },
+   "uncertainty": "发掘年份未载；墓号、发现者与流转经过未载；具体炊食内容与蒸煮实验未做；胎料与烧成工艺、使用痕迹未核；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-measuring-ding",
+     "reason": "两件都是下层带足、上部成器身的炊器形制：一件靠甑与鬲上下连通完成蒸煮，一件在口沿铸铭记下容量与重量，可比较器形与用途各自取证的线索。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-pottery-dui",
+     "reason": "同为武汉地区先秦陶器：一件上下两段连成一体，一件盖与身同形合成球状，可比较轮廓怎样由两三个部件接合而成。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-pottery-dui",
+   "hook": "盖子翻过来也是一只碗",
+   "summary": "武汉博物馆藏战国黑陶敦，通高29厘米，武汉市新洲区辛冲出土。敦是古代盛黍、稷的器具；这件为泥质黑陶，器盖与器身同形，合之成圆球状，盖可取下倒置使用，盖钮与器足为三个S形组成。出土年份、墓号与物主未知。",
+   "summaryRefs": [
+    "t05-wh-pottery-dui-official"
+   ],
+   "sections": [
+    {
+     "title": "合起来是一个球",
+     "text": "馆方描述：器盖和器身同形，合之成圆球状。上下两半形状一致，说明制器时器盖与器身按同一套做法成型，扣合之后轮廓连续。通高29厘米，是盖上之后的总高。",
+     "refs": [
+      "t05-wh-pottery-dui-official"
+     ]
+    },
+    {
+     "title": "盖子取下来还能用",
+     "text": "记录写明盖可取下倒置使用。盖翻转过来，原本的钮朝下成为支点，原先朝上的面成为盛放空间，一件器因此有两处可以装东西。这个用法由结构决定，不需要另配附件。",
+     "refs": [
+      "t05-wh-pottery-dui-official"
+     ]
+    },
+    {
+     "title": "S形的钮与足",
+     "text": "馆方记录写明盖钮和器足为三个S形组成。构件数量与形状以馆方记录为准；这一组配图均为 AI 示意图，不据示意图判断构件数目与纹样细节。",
+     "refs": [
+      "t05-wh-pottery-dui-official"
+     ]
+    },
+    {
+     "title": "今天再看：楚地的典型器",
+     "text": "馆方称敦是战国时期楚国的典型器，这是类型背景，说明这类器形在楚地常见。这一件出土于武汉市新洲区辛冲，材质为泥质黑陶；出土年份、墓号与物主未知，它属于谁、随葬在哪一处，记录里没有交代。",
+     "refs": [
+      "t05-wh-pottery-dui-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与材质",
+     "text": "战国；泥质黑陶；通高29厘米。",
+     "refs": [
+      "t05-wh-pottery-dui-official"
+     ]
+    },
+    {
+     "title": "出土",
+     "text": "武汉市新洲区辛冲出土；出土年份未载。",
+     "refs": [
+      "t05-wh-pottery-dui-official"
+     ]
+    },
+    {
+     "title": "用途",
+     "text": "敦是古代盛黍、稷的器具（馆方描述）。",
+     "refs": [
+      "t05-wh-pottery-dui-official"
+     ]
+    },
+    {
+     "title": "结构",
+     "text": "器盖与器身同形，合之成圆球状；盖可取下倒置使用。",
+     "refs": [
+      "t05-wh-pottery-dui-official"
+     ]
+    },
+    {
+     "title": "构件与未载",
+     "text": "盖钮和器足为三个S形组成，数量依馆方记录，不据示意图判断；墓号与物主未知。",
+     "refs": [
+      "t05-wh-pottery-dui-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "盖与身做成同形，省下了什么？",
+    "answer": "省了一套做法。两半同形意味着同一种成型与修整手法可以用两次，坏了一半也容易配补。对使用者来说，每一半各自是一件容器，合起来又是一只完整的球，一件与两件的界限因此变得模糊。",
+    "refs": [
+     "t05-wh-pottery-dui-official"
+    ]
+   },
+   "uncertainty": "出土年份、墓号与物主未知；构件数量依馆方记录，不据示意图判断；胎料与烧成工艺未载；使用与修补痕迹未核；其是否为楚国典型器的判断属类型背景；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-drum-pot",
+     "reason": "两件陶器都借了别的器物的外壳：一件让盖与身合成球状，一件把壶身做成鼓形，可比较轮廓的来历与器物的开合方式。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-pottery-yan",
+     "reason": "同为武汉地区先秦陶器：一件盖身同形、翻过来还能用，一件把甑与鬲上下连成一体，可比较部件之间怎样接合成为整器。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-pigsty-latrine",
+   "hook": "厕所与猪圈合在一处的陶模型",
+   "summary": "武汉博物馆藏汉代陶圈厕。1986年在武汉市新洲区红山嘴东汉墓中出土，是汉代墓葬中常见的厕所与养猪积肥相结合的单体方形猪圈厕模型，高23厘米，保存较为完整。它提供生活设施的图像线索，属于随葬明器。",
+   "summaryRefs": [
+    "t05-wh-pigsty-latrine-official"
+   ],
+   "sections": [
+    {
+     "title": "模型的样子",
+     "text": "馆方描述：单体方形，厕所与养猪积肥相结合，高23厘米，保存较为完整。方形与单体是就模型本身说的。它属于随葬明器，供墓中使用，并不承担实用厕所的功能。",
+     "refs": [
+      "t05-wh-pigsty-latrine-official"
+     ]
+    },
+    {
+     "title": "它出土在哪里",
+     "text": "馆方原文写明，这件汉代陶圈厕1986年在武汉市新洲区红山嘴东汉墓中出土。年月、地点与墓葬名称都有记录；墓号、发现者与流转经过未载，因此它在墓中的位置与出土时的组合关系不清楚。",
+     "refs": [
+      "t05-wh-pigsty-latrine-official"
+     ]
+    },
+    {
+     "title": "馆方怎样解释它",
+     "text": "馆方解释为：陶圈厕展示了古代较为科学的养殖方式，也为研究汉代建筑雕塑艺术提供了珍贵的实物资料。前半句是关于养殖方式的评价，后半句是关于雕塑艺术价值的评价，两处都属馆方解释，而不是可以逐项核对的事实。",
+     "refs": [
+      "t05-wh-pigsty-latrine-official"
+     ]
+    },
+    {
+     "title": "今天再看：模型能推到哪里",
+     "text": "一个模型能说明当时的人把厕所与猪圈安排在一处，养猪积肥这件事被当作值得随葬的内容。它推不出当时所有家庭的卫生水平，也推不出这户人家的具体条件。建筑细部与构件不据示意图判断，器物的保护修复档案未核。",
+     "refs": [
+      "t05-wh-pigsty-latrine-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与出土",
+     "text": "汉代；1986年在武汉市新洲区红山嘴东汉墓中出土。",
+     "refs": [
+      "t05-wh-pigsty-latrine-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "高23厘米。",
+     "refs": [
+      "t05-wh-pigsty-latrine-official"
+     ]
+    },
+    {
+     "title": "形制",
+     "text": "厕所与养猪积肥相结合的单体方形猪圈厕模型。",
+     "refs": [
+      "t05-wh-pigsty-latrine-official"
+     ]
+    },
+    {
+     "title": "保存状况",
+     "text": "馆方记录写明保存较为完整。",
+     "refs": [
+      "t05-wh-pigsty-latrine-official"
+     ]
+    },
+    {
+     "title": "解释与未载",
+     "text": "养殖方式与雕塑艺术价值的评价属馆方解释；墓号、发现者与流转经过未载；建筑细部不据示意图判断，逐次保护修复档案未核。",
+     "refs": [
+      "t05-wh-pigsty-latrine-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么把猪圈和厕所放进墓里？",
+    "answer": "随葬明器常把生前看重的东西缩小带走，土地、粮食、牲畜与居所都在其中。把厕所和猪圈做成模型，说明这套设施在当时的生活里占着位置。至于这一件属于谁、为何随葬，记录没有交代。",
+    "refs": [
+     "t05-wh-pigsty-latrine-official"
+    ]
+   },
+   "uncertainty": "墓号、发现者与流转经过未载；模型与当时家庭卫生水平之间留有边界；建筑细部与构件不据示意图判断；是否原有附属围栏或院落未载；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-well-model",
+     "reason": "两件都是随葬建筑模型：一件把厕所与猪圈合成方形单体，一件做出井栏、屋顶与打水的人，可比较模型怎样表达养殖与取水两种场景。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-shield-figure",
+     "reason": "同为随葬明器：一件把日常的厕所与猪圈缩成模型，一件塑出跪姿执盾的武士，可比较生活场景与军事场景各自的表达方式。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-mother-candlestick",
+   "hook": "烛台是一个抱着孩子的妇人",
+   "summary": "武汉博物馆藏汉代青釉妇人抱子陶烛台。泥质红陶，座作人形：妇人头梳高髻，髻做成筒形，可插烛；身姿直立，一腿下蹲、一腿曲起，双手拽着一童子坐于怀中。馆方记通体施铅釉、呈银色，题名中的青釉与现存银色观感需要分别说明。",
+   "summaryRefs": [
+    "t05-wh-mother-candlestick-official"
+   ],
+   "sections": [
+    {
+     "title": "座就是一个人",
+     "text": "馆方记录写得很具体：座为人形，妇人身姿直立，双目平视，面带微笑，亲切随和；一腿下蹲、一腿曲起，双手拽着一童子坐于怀中。陶塑在这里同时承担两件事，一是把烛台稳稳落在地上，二是把“抱子”这个动作交代完整。看这件器物，先看姿态，材质与釉色的信息排在后面。",
+     "refs": [
+      "t05-wh-mother-candlestick-official"
+     ]
+    },
+    {
+     "title": "插烛的孔来自发型",
+     "text": "妇人头梳高髻，髻造型成筒形，馆方明确说它可作插烛之用。烛台的插孔由人的发型变来，功能与形象合成一处：筒形髻既是汉代妇女的发式，也是插放蜡烛的槽口。蜡烛实物与器表的烧灼、使用痕迹，官方记录没有说明，留待检测。",
+     "refs": [
+      "t05-wh-mother-candlestick-official"
+     ]
+    },
+    {
+     "title": "题名说青釉，正文说银色",
+     "text": "两说并列：器物题名作“青釉”，馆方正文则记“通体施铅釉，呈银色”。题名依釉色分类，正文依现存观感描述，两者说的不是同一层信息。原釉的呈色与埋藏过程中发生的变化，不宜只凭AI示意图定色；这批配图均为AI示意图，不据此判断釉色、铅釉成分与人物细部。",
+     "refs": [
+      "t05-wh-mother-candlestick-official"
+     ]
+    },
+    {
+     "title": "低温铅釉的一件实例",
+     "text": "馆方解释这件器物是“汉代创烧的低温铅釉陶器应用与推广的实例”，属工艺史的类型背景。烧成温度、胎釉配比与检测数据未载，是否随葬、出自哪座墓也未载。今天再看，它的身份有两重：一件可以插烛的照明用具，也是一件有姿态的陶塑，两者在同一件器物上并存。",
+     "refs": [
+      "t05-wh-mother-candlestick-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "材质与成型",
+     "text": "泥质红陶，座作人形。",
+     "refs": [
+      "t05-wh-mother-candlestick-official"
+     ]
+    },
+    {
+     "title": "人物姿态",
+     "text": "头梳高髻，双目平视，面带微笑；一腿下蹲、一腿曲起，双手拽童子坐于怀中。",
+     "refs": [
+      "t05-wh-mother-candlestick-official"
+     ]
+    },
+    {
+     "title": "功能部件",
+     "text": "髻造型成筒形，可作插烛之用。",
+     "refs": [
+      "t05-wh-mother-candlestick-official"
+     ]
+    },
+    {
+     "title": "表面两说",
+     "text": "馆方记通体施铅釉、呈银色；题名作青釉。两说并列保留。",
+     "refs": [
+      "t05-wh-mother-candlestick-official"
+     ]
+    },
+    {
+     "title": "未载",
+     "text": "发现过程、出土地点与墓号、工匠姓名、烧成温度与材料检测均未载；逐次保护修复档案未核。",
+     "refs": [
+      "t05-wh-mother-candlestick-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "插烛只需要一个孔，为什么把烛台做成一个人？",
+    "answer": "因为人形让器物在蜡烛熄灭之后还有姿态。抱子的样子本身就能被观看，筒形的髻顺手成了插孔，造型与功能合成一处。馆方把它归入汉代低温铅釉陶器推广的实例，至于当初为什么选这个形象，记录没有交代。",
+    "refs": [
+     "t05-wh-mother-candlestick-official"
+    ]
+   },
+   "uncertainty": "发现过程、出土地点与墓号未载；工匠姓名未载；烧成温度、胎釉配比与材料检测未载；题名青釉与正文所记银色两说并列，原釉呈色留待检测；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。青釉题名与铅釉呈银色两说并列保留。",
+   "related": [
+    {
+     "id": "wh-shield-figure",
+     "reason": "同为武汉博物馆藏陶俑：一件用人体塑形承接插烛的孔，一件用跪姿、铠甲与兽面盾表达军士形象，比较人物姿态与器物功用怎样各自安排，两件出土地点并不相同。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-people-mirror",
+     "reason": "同为汉代器物：一件靠立体人形塑出插烛的孔，一件靠镜背神兽与外围铭文组织圆形画面，比较立体造型与平面纹饰各自的经营办法，两件来源与用途不同。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-dabu-coin",
+   "hook": "一枚铲状的铜币，名字叫“大布黄千”",
+   "summary": "武汉博物馆藏新莽“大布黄千”铜币，出土于武汉市新洲区肖家洼汉墓葬，长5.7厘米。馆方正文记它是王莽时期铸行的高额货币，逐件时代字段作新莽；两处口径需要分开说明。",
+   "summaryRefs": [
+    "t05-wh-dabu-coin-official"
+   ],
+   "sections": [
+    {
+     "title": "名称与尺寸",
+     "text": "馆方逐件记录给出的名称是“大布黄千”，长5.7厘米，出土地点为武汉市新洲区肖家洼的一处汉墓葬。名称本身是器物上标示币值的文字。穿孔的位置、足部的形状这类细部，这批配图均为AI示意图，不据此判断铭文与形制，形制描述以馆方记录为准。",
+     "refs": [
+      "t05-wh-dabu-coin-official"
+     ]
+    },
+    {
+     "title": "时代的两说",
+     "text": "两说并列：逐件时代字段作“新莽”，馆方正文却写“西汉王莽时期”。本条采用新莽限定，理由是这枚币的铸行属于王莽改制期间的事，字段把它单列成一个朝代；正文用“西汉”是就王莽在西汉末年掌权的时间背景而言。字面上的“汉墓葬”是记录用语，不据此改写年代。",
+     "refs": [
+      "t05-wh-dabu-coin-official"
+     ]
+    },
+    {
+     "title": "莽钱与四次币制改革",
+     "text": "馆方原文记：王莽时期曾四次改革货币制度，造成国内币制混乱；钱币学界把王莽时期铸造的铜币称为“莽钱”，并称莽钱铸造精致、数量稀少，有较高的收藏和欣赏价值。这些都是馆方陈述。铸造精致是对成品的评价，具体工艺如合金配比与铸造方法未载，留待检测。",
+     "refs": [
+      "t05-wh-dabu-coin-official"
+     ]
+    },
+    {
+     "title": "今天再看这枚币",
+     "text": "馆方说它有较高的收藏和欣赏价值，看重的是存世数量与铸造水平；而在铸行当时，它的身份是流通中的高额货币，币值由制度规定。同一件东西，在两个不同时期承担的角色并不相同。这种角色转换，也是它进入博物馆记录的原因之一。",
+     "refs": [
+      "t05-wh-dabu-coin-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "名称与尺寸",
+     "text": "名称“大布黄千”；长5.7厘米。",
+     "refs": [
+      "t05-wh-dabu-coin-official"
+     ]
+    },
+    {
+     "title": "出土",
+     "text": "武汉市新洲区肖家洼汉墓葬出土。",
+     "refs": [
+      "t05-wh-dabu-coin-official"
+     ]
+    },
+    {
+     "title": "时代两说",
+     "text": "字段作新莽，正文写“西汉王莽时期”。两说并列，本条采用新莽限定。",
+     "refs": [
+      "t05-wh-dabu-coin-official"
+     ]
+    },
+    {
+     "title": "币制背景",
+     "text": "馆方记王莽时期四次改革货币制度、造成币制混乱；钱币学界称王莽时期铜币为“莽钱”，铸造精致、数量稀少。",
+     "refs": [
+      "t05-wh-dabu-coin-official"
+     ]
+    },
+    {
+     "title": "未载",
+     "text": "出土年月、墓号、发现者与流转经过未载；合金配比与铸造工艺未载；逐次保护修复档案未核。",
+     "refs": [
+      "t05-wh-dabu-coin-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "一枚钱币的价值为什么会从流通转向收藏？",
+    "answer": "因为衡量它的标准换了。铸行时它的身份由制度规定，是流通中的高额货币；存世到今天，馆方看重的是铸造精致与数量稀少，把它当作可以欣赏和收藏的实物。同一个物件，在不同制度与不同眼光里承担的角色并不一样。",
+    "refs": [
+     "t05-wh-dabu-coin-official"
+    ]
+   },
+   "uncertainty": "出土年月、墓号、发现者与流转经过未载；合金配比、铸造工艺与工匠姓名未载；时代字段新莽与正文西汉王莽时期两说并列；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。字段新莽与正文西汉王莽时期两说并列保留。",
+   "related": [
+    {
+     "id": "wh-snake-seal",
+     "reason": "都靠器物上的文字表达制度含义：一枚铸币用名称标示币值，一方金印用印文标示授封，比较文字在货币与印信上各自承担的功能，两件年代与使用者不同。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-measuring-ding",
+     "reason": "两件都让文字说明自身规格：一枚铜币的名字交代币值，一件铜鼎的口沿铭出容量与重量，比较文字在货币与量器上要交代的内容，年代与材质并不相同。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-measuring-ding",
+   "hook": "鼎的口沿上铸着它的容量和重量",
+   "summary": "武汉博物馆藏汉代“菅邑家”鼎，青铜质，通高17厘米。器壁口沿处铸有铭文，其中有“菅邑家鼎容一斗重十斤四两”，把容量与重量写在器物自己身上；馆方解释它为度量衡器。",
+   "summaryRefs": [
+    "t05-wh-measuring-ding-official"
+   ],
+   "sections": [
+    {
+     "title": "先看器形与体量",
+     "text": "这是一件青铜鼎，通高17厘米，形制字段作鼎。馆方记录里交代了鼎的两重来历：青铜鼎在商周时期是十分重要的礼器，不仅用以宴飨、祭祀，还有度量的作用。这两层用途在同一器类上并存，这件汉鼎按馆方定名归入度量衡器一类。",
+     "refs": [
+      "t05-wh-measuring-ding-official"
+     ]
+    },
+    {
+     "title": "口沿那行铭文",
+     "text": "馆方记录写明：器壁口沿处铸有铭文，其中有“菅邑家鼎容一斗重十斤四两”。铭文自己报出容量与重量，器物因此既是容器，也是衡量别物的依据。铭文的行款、字数与笔画，这批配图均为AI示意图，不据此核对铭文；铭文内容依馆方逐件记录。",
+     "refs": [
+      "t05-wh-measuring-ding-official"
+     ]
+    },
+    {
+     "title": "古单位与现代数值",
+     "text": "一斗、十斤四两都是汉代单位。馆方没有给出换算，本条也不擅自把它们折成唯一的现代数值：不同时期、不同地区的容量与权衡标准并不一致，硬折一个数字反而会把问题掩盖掉。这层研究留待度量衡学的实测与比较。",
+     "refs": [
+      "t05-wh-measuring-ding-official"
+     ]
+    },
+    {
+     "title": "从礼器到量器",
+     "text": "馆方解释：战国以后铜制度量衡器出现并大量使用，这件汉鼎就是一件度量衡器，为度量衡史研究提供了实物资料。这是馆方解释，属器物功能的类型背景。今天再看，它的分量不在纹饰，而在那行能让后来者与汉代单位对齐的铭文。",
+     "refs": [
+      "t05-wh-measuring-ding-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与材质",
+     "text": "汉代；青铜。",
+     "refs": [
+      "t05-wh-measuring-ding-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "通高17厘米。",
+     "refs": [
+      "t05-wh-measuring-ding-official"
+     ]
+    },
+    {
+     "title": "铭文",
+     "text": "器壁口沿处铸有铭文，其中有“菅邑家鼎容一斗重十斤四两”。",
+     "refs": [
+      "t05-wh-measuring-ding-official"
+     ]
+    },
+    {
+     "title": "性质",
+     "text": "馆方解释为度量衡器；鼎在商周兼有宴飨、祭祀与度量作用，属类型背景。",
+     "refs": [
+      "t05-wh-measuring-ding-official"
+     ]
+    },
+    {
+     "title": "未载",
+     "text": "出土地点与墓号未载；铸造工艺与铜锡配比未载；一斗、十斤四两未换算为现代数值；逐次保护修复档案未核。",
+     "refs": [
+      "t05-wh-measuring-ding-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "容量和重量为什么要铸在器物自己身上？",
+    "answer": "因为器物要被反复使用。铸在口沿，每次取用都能看见，一斗与十斤四两既是规格，也是标准。馆方把它解释为度量衡器，依据正在这行铭文：它让后来的研究者能把汉代的单位与一件实物对应起来。",
+    "refs": [
+     "t05-wh-measuring-ding-official"
+    ]
+   },
+   "uncertainty": "出土地点、墓号与发现经过未载；铸造工艺、铜锡配比与工匠姓名未载；一斗与十斤四两未换算为唯一现代数值；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-pottery-yan",
+     "reason": "器类与用途分别取证：一件青铜鼎在口沿铭出容量与重量，一件陶甗以上下相连的甑与鬲完成蒸煮，比较青铜量器与陶质炊器各自的结构重点。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-yangguang-trigger",
+     "reason": "两件都靠刻铸文字提供关键信息：一件记下容量与重量，一件在板机与臂部刻出制造年份，比较铭文在量器与机件上各自要交代的内容。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-people-mirror",
+   "hook": "镜铭里有四个字：中国人民",
+   "summary": "武汉博物馆藏汉代“中国人民”五乳神兽镜，直径18厘米，1972年于湖北省更生仓库拣选所得，为国家一级文物。镜以神兽纹为主题，主题纹饰外围所铸铭文中出现“中国人民”四字。",
+   "summaryRefs": [
+    "t05-wh-people-mirror-official"
+   ],
+   "sections": [
+    {
+     "title": "拣选所得的一面镜",
+     "text": "馆方记该镜1972年于湖北省更生仓库拣选所得。拣选是从既有收藏或存留物中选入博物馆，与考古发掘处在不同的记录条件下：镜的原始出土环境因此没有留下。直径18厘米，这个体量在汉镜中算中等偏大。",
+     "refs": [
+      "t05-wh-people-mirror-official"
+     ]
+    },
+    {
+     "title": "神兽纹与“五乳”",
+     "text": "馆方记它以神兽纹为主题，神兽是汉代铜镜较多见的装饰题材。器名中的“五乳”指镜背的乳状凸起，具体数量与排布，这批配图均为AI示意图，不据此核对；乳钉与神兽的形象以馆方记录与实物为准。",
+     "refs": [
+      "t05-wh-people-mirror-official"
+     ]
+    },
+    {
+     "title": "铭文中的四个字",
+     "text": "馆方原文：其镜主题纹饰外围所铸铭文中出现了“中国人民”，并称这个词在一千多年前的汉代铜镜铭文中出现十分难得。位置值得留意：铭文在主题纹饰外围，属镜铭的一部分。至于是谁写的、写给谁看，记录没有交代。",
+     "refs": [
+      "t05-wh-people-mirror-official"
+     ]
+    },
+    {
+     "title": "词义的时代距离",
+     "text": "“中国人民”今天是一个国家与公民的称谓；汉代镜铭里的同一组字，处在当时的语言习惯中。字面相同，含义与用法要分别放在各自的时代里看，两者不对等处理，也不直接相扣。馆方对它的珍视，正与“难得”二字有关。今天再看，它提供的是一条词语出现的实物线索。",
+     "refs": [
+      "t05-wh-people-mirror-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与尺寸",
+     "text": "汉代；直径18厘米。",
+     "refs": [
+      "t05-wh-people-mirror-official"
+     ]
+    },
+    {
+     "title": "取得方式",
+     "text": "1972年于湖北省更生仓库拣选所得；拣选与考古发掘不同。",
+     "refs": [
+      "t05-wh-people-mirror-official"
+     ]
+    },
+    {
+     "title": "纹饰",
+     "text": "以神兽纹为主题，属汉代铜镜较多见的装饰题材；器名作“五乳”。",
+     "refs": [
+      "t05-wh-people-mirror-official"
+     ]
+    },
+    {
+     "title": "铭文与级别",
+     "text": "主题纹饰外围所铸铭文中出现“中国人民”；为国家一级文物。",
+     "refs": [
+      "t05-wh-people-mirror-official"
+     ]
+    },
+    {
+     "title": "未载",
+     "text": "出土地点与原藏、拣选经过细节未载；铭文字数与全文未载；逐次保护修复档案未核。",
+     "refs": [
+      "t05-wh-people-mirror-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "四个字的铭文为什么让人在意？",
+    "answer": "因为今天的人认得这四个字，字面对应会立刻带来联想。但判断含义要看铭文出现的位置、上下文和当时的用法，馆方称其难得，指的是它在一千多年前的铜镜铭文中出现。要把它当作词语有连续历史的证据，还需要更多材料。",
+    "refs": [
+     "t05-wh-people-mirror-official"
+    ]
+   },
+   "uncertainty": "出土地点、原藏单位与拣选经过细节未载；镜铭字数与全文未载；器名“五乳”的乳钉数量留待实物核对；词义的时代边界保留；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-lushi-mirror",
+     "reason": "同为汉代有铭铜镜：一面铭文里出现“中国人民”，一面镜缘隶书铭文被馆方引研究解释为鲁诗遗文，比较镜铭各提供怎样的词语与文本线索，两者的释读性质不同。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-dabu-coin",
+     "reason": "都把文字留在器物表面：一面镜的铭文出现四个字，一枚币的名称标示币值，比较文字在镜铭与货币上各自的功能，两件年代与材质不同。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-yangguang-trigger",
+   "hook": "一件刻着年份的小机件",
+   "summary": "武汉博物馆藏东汉“延光三年”鎏金铭文弩机，臂长11厘米。弩机是木弩的铜质机件，板机及臂部均刻有铭文，馆方据所刻铭文定它为东汉延光三年（公元124年）所制。",
+   "summaryRefs": [
+    "t05-wh-yangguang-trigger-official"
+   ],
+   "sections": [
+    {
+     "title": "弩机是弩的哪一部分",
+     "text": "馆方解释：弩是用机械力射箭的弓，由弓发展而来；弩机是木弩的铜质机件，装置于弩的后部，用来增强远射和杀伤力。弩出现于春秋晚期，战国、秦汉、三国时已普遍使用。这段是类型背景，说明机件在整具弩里的位置。臂长11厘米，记录只涉及机件本身，木臂与弓弦不在其中。",
+     "refs": [
+      "t05-wh-yangguang-trigger-official"
+     ]
+    },
+    {
+     "title": "鎏金的机件",
+     "text": "馆方称这件弩机精致工巧，并有鎏金。鎏金的具体用料与操作未载，金层的厚薄与附着情况留待检测。机件由几个部件组成、彼此怎样配合安装，这批配图均为AI示意图，不据此判断部件数量与安装关系。",
+     "refs": [
+      "t05-wh-yangguang-trigger-official"
+     ]
+    },
+    {
+     "title": "铭文定出的年份",
+     "text": "板机及臂部均刻有铭文。馆方根据所刻铭文可知，此弩机为东汉延光三年（公元124年）所制。器物上自带年份，让“什么时候做的”这个问题有了直接答案。铭文的全文字数与内容，官方逐件记录只交代了年份，其余未载。",
+     "refs": [
+      "t05-wh-yangguang-trigger-official"
+     ]
+    },
+    {
+     "title": "今天再看这件机件",
+     "text": "出土地点、墓号、工匠身份与完整安装关系都没有记录，它今天是一件可以独立观看的机械部件：结构紧凑，转角分明。延光三年（公元124年）这个年份把它放进具体的时间坐标，而它曾经装在哪具弩上、由谁使用，仍是空白。",
+     "refs": [
+      "t05-wh-yangguang-trigger-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与尺寸",
+     "text": "东汉；臂长11厘米。",
+     "refs": [
+      "t05-wh-yangguang-trigger-official"
+     ]
+    },
+    {
+     "title": "器类",
+     "text": "弩机为木弩的铜质机件，装置于弩的后部；不作完整木弩。",
+     "refs": [
+      "t05-wh-yangguang-trigger-official"
+     ]
+    },
+    {
+     "title": "表面",
+     "text": "鎏金；馆方称精致工巧。",
+     "refs": [
+      "t05-wh-yangguang-trigger-official"
+     ]
+    },
+    {
+     "title": "铭文",
+     "text": "板机及臂部均刻有铭文；馆方据铭文定为东汉延光三年（公元124年）所制。",
+     "refs": [
+      "t05-wh-yangguang-trigger-official"
+     ]
+    },
+    {
+     "title": "未载",
+     "text": "出土地点与墓号未载；工匠身份与完整安装关系未载；鎏金工艺参数未载；逐次保护修复档案未核。",
+     "refs": [
+      "t05-wh-yangguang-trigger-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "一件小机件为什么值得刻上年份？",
+    "answer": "因为机件是消耗品，坏了要换，刻上年份日后追溯来历就有依据。馆方据铭文把年代定在延光三年（公元124年），这行字让一件小铜件有了确切的时间位置。至于它由谁装、由谁用，记录里没有留下线索。",
+    "refs": [
+     "t05-wh-yangguang-trigger-official"
+    ]
+   },
+   "uncertainty": "出土地点、墓号与发现经过未载；工匠身份、完整安装关系与后续流转未载；鎏金工艺参数与部件数量留待检测；铭文全文未载；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-zhaozhuo-trigger",
+     "reason": "同为铜弩机：一件以刻铭记下制造年份，一件以板机两侧的铭文留下多位使用者之名，比较铭文在纪年与使用信息上的两种用途，两件的机件相似出自同类结构。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-measuring-ding",
+     "reason": "两件都靠刻铸文字提供关键信息：一件记下制造年份，一件记下容量与重量，比较铭文在机件与量器上各自要交代的内容，年代与用途不同。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-lushi-mirror",
+   "hook": "镜缘上铸着一圈隶书",
+   "summary": "武汉博物馆藏东汉鲁诗铭文重列式神兽镜，直径14.7厘米。镜以神兽纹为主题，镜缘铸有一圈隶书铭文。馆方引金石学家罗福颐的考证，认为铭文与《诗经·卫风·硕人》章略有差异，属失传多年的“鲁诗”；这一归属按研究解释表述。",
+   "summaryRefs": [
+    "t05-wh-lushi-mirror-official"
+   ],
+   "sections": [
+    {
+     "title": "先看这面镜子",
+     "text": "直径14.7厘米。馆方记录写明：这面镜子铸造精良、纹饰清晰、保存完好，主题纹饰为神兽，镜缘铸有一圈隶书铭文。铜镜是古人照面饰容的生活用具，汉代是铜镜发展的鼎盛时期——这两句属馆方给出的时代背景，说明它来自一个铸镜兴盛的时代。",
+     "refs": [
+      "t05-wh-lushi-mirror-official"
+     ]
+    },
+    {
+     "title": "镜缘上的那圈字",
+     "text": "让这面镜子被记住的是边缘那圈字。馆方引罗福颐的考证：铭文与《诗经·卫风·硕人》章略有差异，是我国失传多年的“鲁诗”。这一判断来自学者的释读，罗福颐的原论文没有随记录附出；铭文字数与逐字释文，不依据示意图判断。",
+     "refs": [
+      "t05-wh-lushi-mirror-official"
+     ]
+    },
+    {
+     "title": "鲁诗这两个字的分量",
+     "text": "鲁诗是汉代《诗经》的一种传本，后来失传。镜缘文字若确为鲁诗，这面镜子就提供了一条文本线索。归属要分清：把铭文认作鲁诗的是罗福颐的考证，馆方转述这一研究解释；至于这圈字是工匠据文本抄写、还是另有来源，记录没有说明。",
+     "refs": [
+      "t05-wh-lushi-mirror-official"
+     ]
+    },
+    {
+     "title": "今天再看",
+     "text": "今天再看，一面镜子同时是日用品与文字载体。它照过谁的脸、随葬在哪座墓里，记录没有交代；镜铭能与传世文献对上，靠的是学者对字形的比对，出土情境这一侧仍是空白。逐次保护修复档案未核。",
+     "refs": [
+      "t05-wh-lushi-mirror-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与类别",
+     "text": "东汉；青铜器（铜镜）。",
+     "refs": [
+      "t05-wh-lushi-mirror-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "直径14.7厘米。",
+     "refs": [
+      "t05-wh-lushi-mirror-official"
+     ]
+    },
+    {
+     "title": "纹饰与铭文",
+     "text": "主题纹饰为神兽，重列式布局；镜缘铸有一圈隶书铭文。",
+     "refs": [
+      "t05-wh-lushi-mirror-official"
+     ]
+    },
+    {
+     "title": "研究解释",
+     "text": "馆方引罗福颐考证，认为铭文与《诗经·卫风·硕人》章略有差异，属失传的“鲁诗”。",
+     "refs": [
+      "t05-wh-lushi-mirror-official"
+     ]
+    },
+    {
+     "title": "等级与空白",
+     "text": "国家一级文物；出土时间、地点、墓葬与取得方式未载。",
+     "refs": [
+      "t05-wh-lushi-mirror-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "一面镜子为什么能成为文献证据？",
+    "answer": "因为有的文字只靠传抄流传，原件早已失去。镜缘这圈隶书若确为鲁诗的一种抄写，器物就成了文本的实物见证——它把纸帛上留不住的字铸在青铜上。这条线索由学者的字形比对建立，罗福颐之后是否还有别的释读，记录未载。",
+    "refs": [
+     "t05-wh-lushi-mirror-official"
+    ]
+   },
+   "uncertainty": "出土时间、地点与墓葬未载；取得方式与入藏经过未载；罗福颐原论文未附，鲁诗归属按研究解释表述；铭文字数与逐字释文不依据示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-people-mirror",
+     "reason": "两面汉代铜镜都以铭文提供文本线索：一面缘刻隶书诗句，一面在主题纹饰外围铸出“中国人民”四字，比较两段文字的来源可考程度与释读依据。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-dabu-coin",
+     "reason": "同以器物表面文字为证据：一面是镜缘隶书，一枚是新莽“大布黄千”币值铭文，比较文字在两件器物上分别承担的诗句记录与币值标示功能。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-fortress-model",
+   "hook": "一座围墙围起来的小城",
+   "summary": "武汉博物馆藏青瓷坞堡，三国吴时期，出土于黄陂区滠口三国吴墓，高30、长62、宽48厘米。器作封闭式建筑：外围高墙，大门为唯一通道，四角有望楼，院内有谷仓与厢房。它属随葬建筑模型，与遗址实测图是两回事。",
+   "summaryRefs": [
+    "t05-wh-fortress-model-official"
+   ],
+   "sections": [
+    {
+     "title": "先量它的规模",
+     "text": "高30、长62、宽48厘米，青瓷质地。这个体量摆在案上是一组小型建筑群：围墙把院落围起来，四角起楼，院里再安排谷仓与厢房。三个尺寸给的是外廓，院内各间的具体开间记录未载。",
+     "refs": [
+      "t05-wh-fortress-model-official"
+     ]
+    },
+    {
+     "title": "门、墙与望楼",
+     "text": "馆方记录写得很具体：坞堡为封闭式建筑，外围筑有高高的围墙，大门是进出坞堡的唯一通道；在围墙的四角高耸着用于观察周边情况的望楼，院内则有谷仓和厢房等。墙、门、楼三个要素合起来，构成一个既能住人又能瞭望的单元。",
+     "refs": [
+      "t05-wh-fortress-model-official"
+     ]
+    },
+    {
+     "title": "馆方怎样解释它",
+     "text": "馆方解释为：东汉以后是地主庄园经济大发展时期，青瓷坞堡的发掘出土，以实物形式再现了当时社会坞堡的形态与结构。这段属研究解释。至于这类坞堡在现实中分布在哪里、规模如何，记录没有给出对应实例，模型与真实建筑之间的差距也未见说明。",
+     "refs": [
+      "t05-wh-fortress-model-official"
+     ]
+    },
+    {
+     "title": "今天再看",
+     "text": "今天再看，这件模型给出的是当时人对安全居所的设想：墙要高，门要少，楼上能看见四面。它出自滠口一带的三国吴墓，与同地区出土的青瓷执盾俑分属不同记录，两者的出土关系没有证据把它们并作一组。角楼层数、构件数量一类的建筑细部，不依据示意图判断；逐次保护修复档案未核。",
+     "refs": [
+      "t05-wh-fortress-model-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与类别",
+     "text": "三国吴；青瓷（陶瓷）。",
+     "refs": [
+      "t05-wh-fortress-model-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "高30、长62、宽48厘米。",
+     "refs": [
+      "t05-wh-fortress-model-official"
+     ]
+    },
+    {
+     "title": "结构",
+     "text": "封闭式建筑：外围高围墙，大门为唯一通道，四角有望楼，院内有谷仓与厢房。",
+     "refs": [
+      "t05-wh-fortress-model-official"
+     ]
+    },
+    {
+     "title": "出土",
+     "text": "黄陂区滠口三国吴墓出土；墓号、出土年月与发现者未载。",
+     "refs": [
+      "t05-wh-fortress-model-official"
+     ]
+    },
+    {
+     "title": "属性",
+     "text": "随葬建筑模型，与遗址实测图性质不同；建筑细部不依据示意图判断。",
+     "refs": [
+      "t05-wh-fortress-model-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么随葬品里要放一座房子？",
+    "answer": "把住宅做成模型随葬，等于把日常生活的格局一起搬进墓里。墙、门、望楼被缩小以后仍按原来的排布安排，说明当时人看重的是格局。这套模型由谁设计、陶工怎样烧成、烧成温度多少，记录未载。",
+    "refs": [
+     "t05-wh-fortress-model-official"
+    ]
+   },
+   "uncertainty": "墓号、出土年月、发现者与发掘经过未载；坞堡在现实中的对应遗址未载；与执盾俑同地区，是否同墓无证据；角楼层数与构件数量不依据示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-shield-figure",
+     "reason": "同出黄陂滠口一带的三国吴遗存：一件用围墙与望楼搭出空间，一件用跪姿执盾的人形摆出守卫姿态，比较两种做法各自交代防御场景的方式。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-well-model",
+     "reason": "两件随葬青瓷模型分别指向居住与取水：一件围出院落与角楼，一件用四柱攒尖顶盖住井口，比较缩小的生活场景在墓葬里有哪些差别。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-shield-figure",
+   "hook": "跪着的青瓷武士，手里一面兽面盾",
+   "summary": "武汉博物馆藏青瓷执盾俑，三国吴时期，1986年出土于武汉黄陂县滠口镇三国墓M68，高28.9厘米。俑作跪姿，头戴盔帽、身穿铠甲，一手持盾，一手持兵器；盾为长方形兽面盾，牌中起脊。属国家一级文物。",
+   "summaryRefs": [
+    "t05-wh-shield-figure-official"
+   ],
+   "sections": [
+    {
+     "title": "先看姿态与装备",
+     "text": "俑作跪姿状。头戴盔帽，身穿铠甲，一手持盾，一手持兵器；整体施青釉。跪姿让整个人物低下来、稳下来，盾与兵器各占一手，动作因此交代得清楚。俑的烧成方式与铠甲细部工艺，记录未载。",
+     "refs": [
+      "t05-wh-shield-figure-official"
+     ]
+    },
+    {
+     "title": "盾上的兽面",
+     "text": "馆方记录写得很细：盾牌为长方形兽面盾，牌中起脊，脊上的两侧饰饼状目，中部两旁有对称弯月形撩牙。兽面由目与牙两类构件组成。盾面纹样的线条走向与构件数量，不依据示意图判断。",
+     "refs": [
+      "t05-wh-shield-figure-official"
+     ]
+    },
+    {
+     "title": "同墓还出了什么",
+     "text": "此件1986年出土于武汉黄陂县滠口镇三国墓M68；同时出土的还有大量与坞堡相关的鸡圈、鸭圈、猪圈及武士俑、生活劳动俑等。伴出物给墓葬组合提供了线索：军事形象与生活设施模型出现在同一座墓里。它们是同墓伴出关系，各组器物在墓中的摆放位置记录未载。",
+     "refs": [
+      "t05-wh-shield-figure-official"
+     ]
+    },
+    {
+     "title": "今天再看",
+     "text": "今天再看，这尊俑承担的是墓中的守卫者形象。馆方说明不能从模型服饰确认实际军衔或个人姓名，因此盔帽与铠甲说明的是形象类型，指不到某个真实士兵。俑由谁塑造、兵器具体形制如何，记录未载；逐次保护修复档案未核。",
+     "refs": [
+      "t05-wh-shield-figure-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与类别",
+     "text": "三国吴；青瓷（陶俑）。",
+     "refs": [
+      "t05-wh-shield-figure-official"
+     ]
+    },
+    {
+     "title": "出土与墓号",
+     "text": "1986年出土于武汉黄陂县滠口镇三国墓M68。",
+     "refs": [
+      "t05-wh-shield-figure-official"
+     ]
+    },
+    {
+     "title": "尺寸与釉",
+     "text": "高28.9厘米；整体施青釉。",
+     "refs": [
+      "t05-wh-shield-figure-official"
+     ]
+    },
+    {
+     "title": "形象与装备",
+     "text": "跪姿，头戴盔帽、身穿铠甲，一手持盾、一手持兵器；盾为长方形兽面盾，牌中起脊。",
+     "refs": [
+      "t05-wh-shield-figure-official"
+     ]
+    },
+    {
+     "title": "等级与边界",
+     "text": "属国家一级文物；军衔与个人姓名不能由服饰确认；部件数量不依据示意图判断。",
+     "refs": [
+      "t05-wh-shield-figure-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么墓里要放执盾的俑？",
+    "answer": "随葬俑常被理解为替墓主站岗的形象。这座墓同时出土鸡圈、鸭圈、猪圈等模型，生活与守卫被一并安排进墓中。守卫的对象是墓主还是墓室本身，记录没有说明；俑的实际身份也无法从服饰读出。",
+    "refs": [
+     "t05-wh-shield-figure-official"
+    ]
+   },
+   "uncertainty": "墓主、军衔与个人姓名未载；兵器具体形制、铠甲与盾的部件数量不依据示意图判断；同墓各组器物的摆放位置未载；塑造工匠未载；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-fortress-model",
+     "reason": "同为黄陂滠口一带的三国吴遗存：这尊陶俑用人体摆出守卫姿态，那组模型用围墙与望楼搭出防御空间，比较军事形象与建筑模型两种表达的分工。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-mother-candlestick",
+     "reason": "两件陶塑都让人形承担实际功能：一件把跪姿武士塑成执盾的形象，一件把抱子的妇人塑成可插烛的座，比较人形在墓中承担的不同角色。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-zhaozhuo-trigger",
+   "hook": "一台弩机上刻着三个人的名字",
+   "summary": "武汉博物馆藏“赵濯”铭文青铜弩机，三国时期，出土于武汉市洪山区石咀的一座大型券顶砖室墓，长20厘米。弩机是木弩的铜质机件，板机两侧刻有缪曜、郑贵、赵濯三处“私弩”铭文。馆方据刻铭认为这件弩机至少被三个人使用过。",
+   "summaryRefs": [
+    "t05-wh-zhaozhuo-trigger-official"
+   ],
+   "sections": [
+    {
+     "title": "先认这台机件",
+     "text": "弩机是木弩的铜质机件，装置于弩的后部，以增强射程和杀伤力，这段是馆方给出的定义。这件弩机长20厘米，出土于武汉市洪山区石咀的一座大型券顶砖室墓。它只是一件机件，木弩的弩臂与弓弦没有保存下来。",
+     "refs": [
+      "t05-wh-zhaozhuo-trigger-official"
+     ]
+    },
+    {
+     "title": "板机两侧的刻铭",
+     "text": "弩机板机两侧刻有铭文，分别出现“郎吏缪曜私弩”“将军郑贵私弩”“将军赵濯私弩”等字样。名字前面带有郎吏、将军一类称谓。铭文的字形细节与刻写位置，不依据示意图判断。",
+     "refs": [
+      "t05-wh-zhaozhuo-trigger-official"
+     ]
+    },
+    {
+     "title": "三个人用过的推断",
+     "text": "馆方从刻铭判断，这件弩机至少被三个人使用过，这是依据铭文作出的解读。这类刻铭特点被馆方联系到孙吴的世袭领兵制度：武器可能随职务与部曲转移，名字因此一层层留下，属研究解释。三人使用的先后次序与各自经历，记录没有说明。",
+     "refs": [
+      "t05-wh-zhaozhuo-trigger-official"
+     ]
+    },
+    {
+     "title": "今天再看",
+     "text": "今天再看，一件兵器把使用者的名字留在了机器上，器物因此带上了人的信息，后来的研究者也就能顺着名字讨论制度。至于赵濯为何成为器名，记录未作解释。铸造这台弩机的工匠与作坊，记录未载；逐次保护修复档案未核。",
+     "refs": [
+      "t05-wh-zhaozhuo-trigger-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与类别",
+     "text": "三国；青铜器（弩机机件）。",
+     "refs": [
+      "t05-wh-zhaozhuo-trigger-official"
+     ]
+    },
+    {
+     "title": "出土与尺寸",
+     "text": "武汉市洪山区石咀大型券顶砖室墓出土；长20厘米；完整墓号与出土年月未载。",
+     "refs": [
+      "t05-wh-zhaozhuo-trigger-official"
+     ]
+    },
+    {
+     "title": "铭文",
+     "text": "板机两侧刻铭，含缪曜、郑贵、赵濯三处“私弩”字样，名字前有郎吏、将军一类称谓。",
+     "refs": [
+      "t05-wh-zhaozhuo-trigger-official"
+     ]
+    },
+    {
+     "title": "研究解释",
+     "text": "馆方据刻铭认为至少三人使用过，并联系孙吴世袭领兵制度；制度含义属研究解释。",
+     "refs": [
+      "t05-wh-zhaozhuo-trigger-official"
+     ]
+    },
+    {
+     "title": "等级与空白",
+     "text": "国家一级文物；三人使用次序与各自经历未载，铸造工匠与作坊未载。",
+     "refs": [
+      "t05-wh-zhaozhuo-trigger-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么把名字刻在弩机上？",
+    "answer": "对使用者来说，刻名是标记归属；对孙吴的领兵者来说，武器可能随职务与部曲转移，名字因此被一次次留下。这台器物上至少三个名字，说明它换过手。谁先谁后、几次刻写是否有先后，记录未载。",
+    "refs": [
+     "t05-wh-zhaozhuo-trigger-official"
+    ]
+   },
+   "uncertainty": "完整墓号、出土年月与使用次序未载；缪曜、郑贵、赵濯三人的身份与实际经历未载；铭文字形与刻写次序不依据示意图判断；铸造工匠与作坊未载；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-yangguang-trigger",
+     "reason": "同为青铜弩机：一件以板机与臂部刻铭记下东汉延光三年的制造年份，一件以三处“私弩”字样记下使用者，比较铭文承担的时间信息与人事信息。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-measuring-ding",
+     "reason": "两件器物都靠铭文补充用途：一件记下使用者的姓名与身份，一件在口沿记下容量与重量，比较刻铭各自记录了哪一类内容以及能推出什么。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-tiger-vessel",
+   "hook": "一只卧着的虎，尾巴翘成了提梁",
+   "summary": "武汉博物馆藏西晋青瓷虎子，长28.5厘米。器塑成伏地仰头的虎：虎口大张为圆形，四足曲蹬，虎尾向上翘至近颈部形成提梁；通体施釉，色泽莹润。馆方并列两说——一说水器，一说便壶；用途仍存争议。",
+   "summaryRefs": [
+    "t05-wh-tiger-vessel-official"
+   ],
+   "sections": [
+    {
+     "title": "先看这只虎的形状",
+     "text": "器物通体塑成虎形：伏地仰头，作长啸状；虎口大张，成为一个圆形的口；四足曲蹬；虎尾向上翘到接近颈部，弯成提梁。通体施釉，色泽莹润，体型健硕。虎形与实用部件合在一处：口用于进出，尾用于提携。",
+     "refs": [
+      "t05-wh-tiger-vessel-official"
+     ]
+    },
+    {
+     "title": "水器与便壶，两说并列",
+     "text": "馆方对用途给了两种说法：一说水器，一说便壶；器物因形似卧伏的老虎而得名，流行于汉至南北朝的墓葬中。两说并列保留。本条把用途写作未定，理由是记录本身同时列出两说，器物形制不足以单独判定其中一说。",
+     "refs": [
+      "t05-wh-tiger-vessel-official"
+     ]
+    },
+    {
+     "title": "为什么难判定",
+     "text": "判定用途通常要看使用痕迹与出土位置，这两类证据在记录中都没有出现。虎口的大小、腹腔的深浅是否适合盛水或盛溺，需要实物测量与残留物检测；只看外观与图像得不出结论。釉色与原釉状态同样不依据示意图判断。",
+     "refs": [
+      "t05-wh-tiger-vessel-official"
+     ]
+    },
+    {
+     "title": "今天再看",
+     "text": "今天再看，这件器物有意思的地方正是它没有被定死：一只虎撑起了容器，容器保留了两种解释。它出自哪座墓、与什么器物同出，记录未载；是否有过器盖、容积多少，也不在记录之内。逐次保护修复档案未核。",
+     "refs": [
+      "t05-wh-tiger-vessel-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与类别",
+     "text": "西晋；青瓷（陶瓷）。",
+     "refs": [
+      "t05-wh-tiger-vessel-official"
+     ]
+    },
+    {
+     "title": "尺寸与形制",
+     "text": "长28.5厘米；塑成伏地仰头长啸的虎形。",
+     "refs": [
+      "t05-wh-tiger-vessel-official"
+     ]
+    },
+    {
+     "title": "结构",
+     "text": "虎口大张为圆形；四足曲蹬；虎尾上翘至近颈部形成提梁。",
+     "refs": [
+      "t05-wh-tiger-vessel-official"
+     ]
+    },
+    {
+     "title": "釉与外观",
+     "text": "通体施釉，色泽莹润，体型健硕，虎形逼真。",
+     "refs": [
+      "t05-wh-tiger-vessel-official"
+     ]
+    },
+    {
+     "title": "用途两说",
+     "text": "馆方并列水器与便壶两说，此类器物流行于汉至南北朝墓葬；用途未写定论。",
+     "refs": [
+      "t05-wh-tiger-vessel-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "一件器物为什么会有两种差别很大的用途解释？",
+    "answer": "因为命名与功能常常来自后世的研究习惯。这件器物以虎形得名，名字本身没有说明用途；盛水与便溺两种推测都能从形制上找到各自的理由。要择一而定，需要残留物检测与出土位置一类证据，记录没有提供。",
+    "refs": [
+     "t05-wh-tiger-vessel-official"
+    ]
+   },
+   "uncertainty": "出土地点、墓葬与出土年月未载；使用痕迹与残留物检测未见；原釉与埋藏变化不依据示意图判断；是否有器盖、容积多少未载；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-chicken-ewer",
+     "reason": "两件青瓷都把动物形象接进器物结构：一件让虎口成为圆形开口、虎尾成为提梁，一件让鸡首作流、龙首衔口沿作柄，比较动物部件各自承担的功能。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-mother-candlestick",
+     "reason": "动物形与人物形的两种塑法：一件把虎身拉长成容器与提梁，一件把妇人抱子的身姿固定成插烛的座，比较造型怎样服从使用需要。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-well-model",
+   "hook": "井口上方撑起一座小屋顶",
+   "summary": "武汉博物馆藏西晋青瓷井模型，高17.2厘米。出土于武汉市武昌区中山路的一座墓葬；通体施青釉，上部为四角攒尖式屋顶，由四根圆柱形井栏支撑在井口之上，井沿塑一人手提水桶倚柱打水。它出自墓葬，属于随葬的生活场景模型。",
+   "summaryRefs": [
+    "t05-wh-well-model-official"
+   ],
+   "sections": [
+    {
+     "title": "屋顶撑在井口上",
+     "text": "馆方记录的这件青瓷井高17.2厘米，通体施青釉。上部为四角攒尖式屋顶，屋顶由四根圆柱形井栏支撑在井口之上。四角攒尖是屋顶四面坡向中心收成一个尖顶的做法，属建筑术语背景；在这里，它被缩小到可以托在掌上的尺度。",
+     "refs": [
+      "t05-wh-well-model-official"
+     ]
+    },
+    {
+     "title": "井沿提水的人",
+     "text": "井沿塑一人手提水桶，倚柱打水。人物只有小小一处，却让这件器物不只是一个井圈：井与提水的人同时出现，取水的场景就完整了。人物的面目、衣纹与桶的形状，官方文字没有细说，也不据示意图去补；示意图属 AI 生成，不作为辨认依据。",
+     "refs": [
+      "t05-wh-well-model-official"
+     ]
+    },
+    {
+     "title": "它出自墓葬",
+     "text": "馆方写明这件青瓷井出土于武汉市武昌区中山路的一座墓葬，属随葬的建筑模型一类：把取水的场景做成可以放进墓中的小件。发现年份、墓号与它对应的家庭，记录里都没有，这些空白留待档案补充。",
+     "refs": [
+      "t05-wh-well-model-official"
+     ]
+    },
+    {
+     "title": "未载的部分与今天再看",
+     "text": "墓主、发现者与流转经过未载；烧制温度、工具与工匠姓名也未载。四根井栏与屋顶的做法依官方文字，不据示意图清点构件。今天再看，这件小井把一个每天都会发生的动作固定了下来：有人弯身，桶顺着绳下去，再提上来。",
+     "refs": [
+      "t05-wh-well-model-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与尺寸",
+     "text": "西晋；高17.2厘米。",
+     "refs": [
+      "t05-wh-well-model-official"
+     ]
+    },
+    {
+     "title": "出土",
+     "text": "武汉市武昌区中山路的一座墓葬；发现年份未载。",
+     "refs": [
+      "t05-wh-well-model-official"
+     ]
+    },
+    {
+     "title": "结构",
+     "text": "通体施青釉；四角攒尖式屋顶由四根圆柱形井栏支撑在井口之上。",
+     "refs": [
+      "t05-wh-well-model-official"
+     ]
+    },
+    {
+     "title": "人物",
+     "text": "井沿塑一人手提水桶，倚柱打水。",
+     "refs": [
+      "t05-wh-well-model-official"
+     ]
+    },
+    {
+     "title": "未载",
+     "text": "墓号、发现者与对应家庭未载；构件数量不据示意图清点。",
+     "refs": [
+      "t05-wh-well-model-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么要把一口井做成随葬的小模型？",
+    "answer": "井是聚落里取水的所在。把它缩小放进墓中，属于当时随葬模型的一类做法：日常生活的场景随器物一起安放。馆方称这件青瓷井真实再现了倚井打水的生活场景，是就它的塑造效果而言；它在具体墓葬中的位置与含义，记录没有说明。",
+    "refs": [
+     "t05-wh-well-model-official"
+    ]
+   },
+   "uncertainty": "发现年份、墓号、发现者与对应家庭未载；烧制温度、工具与工匠姓名未载；构件数量不据示意图清点；随葬模型不作实用井的使用痕迹推断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-pigsty-latrine",
+     "reason": "同为随葬建筑模型：一口井与一座猪圈，看模型怎样分别表达取水与养殖，并留意两者各自留下的未知项。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-fortress-model",
+     "reason": "同为墓葬出土的模型类青瓷：井的体量小巧，坞堡高30厘米、院内设谷仓与厢房，看模型篇幅与生活场景范围如何对应。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-many-foot-inkstone",
+   "hook": "砚面中间留出一块不施釉的地方",
+   "summary": "武汉博物馆藏南北朝多足青瓷砚，直径22.5厘米。用来研墨的浅盘式砚堂中心微微向上隆起，不施釉以便研磨；砚边施釉，馆方解释为保护墨汁使其不干燥；砚身下方有多只兽足环绕支撑。馆方称多足砚是隋唐“辟雍砚”的雏形，属形制比较。",
+   "summaryRefs": [
+    "t05-wh-many-foot-inkstone-official"
+   ],
+   "sections": [
+    {
+     "title": "隆起的那块面",
+     "text": "砚堂是砚上研墨的地方。馆方描述为浅盘式，中心微微向上隆起，并且不施釉，写明这是为了便于研磨；砚面与釉面的手感差别，可以从这一点去理解。这处隆起与四周的釉面形成两种表面。",
+     "refs": [
+      "t05-wh-many-foot-inkstone-official"
+     ]
+    },
+    {
+     "title": "砚边为什么上釉",
+     "text": "砚边施釉。馆方解释为保护墨汁、使其不干燥，属器具使用上的解释。于是砚面分成两处：中间留出无釉的研磨面，边缘收一圈釉。",
+     "refs": [
+      "t05-wh-many-foot-inkstone-official"
+     ]
+    },
+    {
+     "title": "下方一圈兽足",
+     "text": "砚身下方有多只兽足环绕支撑。兽足以环列的方式托起砚身，属器形的一部分；它们的只数与每一只的造型，官方文字没有给出数目，不据示意图清点。",
+     "refs": [
+      "t05-wh-many-foot-inkstone-official"
+     ]
+    },
+    {
+     "title": "两说并列与今天再看",
+     "text": "朝代字段作南北朝，馆方正文则泛称魏晋南北朝时期；两说并列，本条采用字段的南北朝作为限缩表述。馆方又称多足砚是隋唐“辟雍砚”的雏形，这是形制上的比较，属类型背景，并未建立本件与某一具体隋唐砚之间的直接传承关系。出土地点与墓号未载。今天再看，一圈小足把砚台托成了带器座的小盘。",
+     "refs": [
+      "t05-wh-many-foot-inkstone-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与尺寸",
+     "text": "南北朝；直径22.5厘米。正文泛称魏晋南北朝时期，两说并列。",
+     "refs": [
+      "t05-wh-many-foot-inkstone-official"
+     ]
+    },
+    {
+     "title": "砚面",
+     "text": "浅盘式砚堂中心微微向上隆起，不施釉以便研磨。",
+     "refs": [
+      "t05-wh-many-foot-inkstone-official"
+     ]
+    },
+    {
+     "title": "边缘",
+     "text": "砚边施釉；馆方解释为保护墨汁使其不干燥。",
+     "refs": [
+      "t05-wh-many-foot-inkstone-official"
+     ]
+    },
+    {
+     "title": "底座",
+     "text": "砚身下方有多只兽足环绕支撑。",
+     "refs": [
+      "t05-wh-many-foot-inkstone-official"
+     ]
+    },
+    {
+     "title": "形制比较",
+     "text": "馆方称多足砚是隋唐“辟雍砚”的雏形，属形制比较。",
+     "refs": [
+      "t05-wh-many-foot-inkstone-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "砚面为什么留出一块不上釉的地方？",
+    "answer": "墨要在粗糙一些的面上才好研开。馆方写明这处不施釉是为了方便研磨，砚边施釉则为了让墨汁不干。同一件器物上，两种表面各自完成一件事：中间留住墨锭，边缘护住墨汁。",
+    "refs": [
+     "t05-wh-many-foot-inkstone-official"
+    ]
+   },
+   "uncertainty": "出土地点、墓号与发现者未载；烧制温度、工具、工匠姓名与釉料检测未载；兽足只数不据示意图清点；与隋唐辟雍砚的关系属形制比较；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。年代字段与正文表述分歧并列保留。",
+   "related": [
+    {
+     "id": "wh-chengni-inkstone",
+     "reason": "同为武汉博物馆藏砚类器物：一件是南北朝多足青瓷砚，一件是宋代抄手陶砚，看研磨面的处理与底部支撑结构怎样各成一路。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-tiger-vessel",
+     "reason": "同属青瓷日用器：一件以多只兽足托起研磨面，一件把虎形包住开口并让虎尾卷成提梁，看动物形与器用结构怎样结合。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-snake-seal",
+   "hook": "一方金印，钮上盘着蛇",
+   "summary": "武汉博物馆藏西晋蛇钮金印，长宽高均为2.2厘米，重85.5克，纯金制成。钮作蛇状，印文为“晋蛮夷归义侯”，阴文大篆，布局严谨。馆方解释它是西晋朝廷颁给归顺的部落首领的印信；具体受印人未在记录中指名。",
+   "summaryRefs": [
+    "t05-wh-snake-seal-official"
+   ],
+   "sections": [
+    {
+     "title": "小到可以含在手里",
+     "text": "长宽高均为2.2厘米，重85.5克，纯金制成，三项都出自官方记录。这样的小块在手里并不压手，印面承载的却是名号。",
+     "refs": [
+      "t05-wh-snake-seal-official"
+     ]
+    },
+    {
+     "title": "钮上的一条蛇",
+     "text": "馆方描述为钮作蛇状。钮是印背上的抓手，蛇形盘在印顶，既便于持握，也让这方印在众多器物中一眼可辨。蛇的盘曲方式与钮的高度，官方文字没有细说，不据示意图判断。",
+     "refs": [
+      "t05-wh-snake-seal-official"
+     ]
+    },
+    {
+     "title": "印文与书体",
+     "text": "印文为“晋蛮夷归义侯”，阴文大篆，馆方描述为布局严谨、整体端庄稳重、古朴雄浑。阴文是印面文字刻成凹口的一类做法。逐字辨认以官方记录为准；示意图不含可读的印面，不据示意图辨认文字。",
+     "refs": [
+      "t05-wh-snake-seal-official"
+     ]
+    },
+    {
+     "title": "谁收下了这方印",
+     "text": "馆方解释该印是西晋朝廷颁给归顺于晋室的部落首领的印信，属制度层面的解释；称它对研究古代民族关系史有实物参考价值，也是馆方的评述。具体受印人是谁，记录没有指名。“蛮夷”是当时文书里的称谓，需要放回时代语境来读，不据此推断今人的族属。今天再看，这方小印把一段授受关系凝在金属上。",
+     "refs": [
+      "t05-wh-snake-seal-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与材质",
+     "text": "西晋；纯金制成。",
+     "refs": [
+      "t05-wh-snake-seal-official"
+     ]
+    },
+    {
+     "title": "尺寸与重量",
+     "text": "长宽高均为2.2厘米；重85.5克。",
+     "refs": [
+      "t05-wh-snake-seal-official"
+     ]
+    },
+    {
+     "title": "钮",
+     "text": "钮作蛇状。",
+     "refs": [
+      "t05-wh-snake-seal-official"
+     ]
+    },
+    {
+     "title": "印文",
+     "text": "“晋蛮夷归义侯”，阴文大篆，布局严谨。",
+     "refs": [
+      "t05-wh-snake-seal-official"
+     ]
+    },
+    {
+     "title": "馆方解释",
+     "text": "释为朝廷颁给归顺部落首领的印信；受印人未指名。",
+     "refs": [
+      "t05-wh-snake-seal-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "印钮为什么要做成动物的样子？",
+    "answer": "钮是抓手，做成动物形让它好用，也让它好认。蛇形在印顶起伏，持握时有可着力处，放在案上也自成标志。至于这方印为什么选蛇，馆方记录没有说明。",
+    "refs": [
+     "t05-wh-snake-seal-official"
+    ]
+   },
+   "uncertainty": "出土地点、墓号与入藏经过未载；具体受印人、铸印工匠与熔铸温度未载；印文与蛇钮细节不据示意图判断；“蛮夷”一类古代称谓不用于推断今人族属；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-dabu-coin",
+     "reason": "同为武汉博物馆藏带文字的小件：一方金印把文字用在授封名号，一枚铜币把文字用在标示币值，看文字承担的任务怎样分开。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-lushi-mirror",
+     "reason": "同为文字器物：一方印面以篆书刻出封授名号，一面东汉镜的镜缘以隶书铸出一圈铭文，看书体、字数与载体的差别。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-chicken-ewer",
+   "hook": "前面伸出鸡头，后面盘着龙",
+   "summary": "武汉博物馆藏隋代青瓷龙柄鸡首壶，高12.5厘米，出土于武昌区岳家嘴。胎体厚重，釉色透明；前附一鸡首流，后附一龙形柄，龙首向上至壶口，口衔盘沿。馆方称鸡首壶一类流行于三国两晋南北朝至隋唐，属类型背景。",
+   "summaryRefs": [
+    "t05-wh-chicken-ewer-official"
+   ],
+   "sections": [
+    {
+     "title": "一件小壶",
+     "text": "高12.5厘米，胎体厚重，釉色透明，三项都出自官方记录。壶的体量不大，拿在手里合适；胎厚使它比同尺寸的薄胎器更压手，透明的釉层盖在胎上。",
+     "refs": [
+      "t05-wh-chicken-ewer-official"
+     ]
+    },
+    {
+     "title": "前面的鸡首",
+     "text": "前附一鸡首流。流是壶上出水的口，做成鸡首的形状，倒水时水从鸡嘴的位置出去。鸡首的具体塑法与冠、喙等细部，官方文字没有细说，不据示意图判断。",
+     "refs": [
+      "t05-wh-chicken-ewer-official"
+     ]
+    },
+    {
+     "title": "后面的龙柄",
+     "text": "后附一龙形柄，龙首向上到壶口，口衔盘沿。柄是提握的地方，做成龙形之后，龙首与壶口相接，手柄与壶身连成一体。馆方描述为把动物造型融入实用器器体之中，属对造型手法的评述。",
+     "refs": [
+      "t05-wh-chicken-ewer-official"
+     ]
+    },
+    {
+     "title": "流行的器形与这一件",
+     "text": "馆方称鸡首壶是壶体流部塑成鸡首状的一类器物的统称，从三国两晋南北朝到隋唐都比较流行；这是类型背景，说明这类壶出现过的时间跨度，与这一件的年代是两件事，本条年代依字段作隋。这件壶出土于武昌区岳家嘴，出土年份、墓号与墓主未载，不虚构具体墓主。今天再看，鸡头与龙柄各自拟形，倒水与提握仍是壶要做的事。",
+     "refs": [
+      "t05-wh-chicken-ewer-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与尺寸",
+     "text": "隋；高12.5厘米。",
+     "refs": [
+      "t05-wh-chicken-ewer-official"
+     ]
+    },
+    {
+     "title": "出土",
+     "text": "武昌区岳家嘴；出土年份未载。",
+     "refs": [
+      "t05-wh-chicken-ewer-official"
+     ]
+    },
+    {
+     "title": "胎釉",
+     "text": "胎体厚重，釉色透明。",
+     "refs": [
+      "t05-wh-chicken-ewer-official"
+     ]
+    },
+    {
+     "title": "结构",
+     "text": "前附鸡首流，后附龙形柄；龙首向上至壶口，口衔盘沿。",
+     "refs": [
+      "t05-wh-chicken-ewer-official"
+     ]
+    },
+    {
+     "title": "类型背景",
+     "text": "馆方称鸡首壶流行于三国两晋南北朝至隋唐，属类型背景。",
+     "refs": [
+      "t05-wh-chicken-ewer-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么把壶做成动物的样子？",
+    "answer": "鸡首的位置正是出水的口，龙柄的位置正是手要握的地方。动物形落在这两处，造型与功能就对上了：一个负责倒水，一个负责提壶。馆方称这类做法把动物造型融入实用器器体；当时人是否另有寓意，记录没有说明。",
+    "refs": [
+     "t05-wh-chicken-ewer-official"
+    ]
+   },
+   "uncertainty": "出土年份、墓号、墓主与发现者未载；烧制温度、釉料检测与工匠姓名未载；鸡首与龙柄的细部不据示意图判断；鸡首壶一类流行的时段属类型背景；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "wh-tiger-vessel",
+     "reason": "同属青瓷动物形器物：一件以鸡首作出水口、以龙首作柄，一件把虎口张成圆孔、虎尾卷成提梁，看动物形分别落在壶的哪一处结构上。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-mother-candlestick",
+     "reason": "同为把形象接到实用器物上的做法：一件让鸡首与龙首服务于倒水和提握，一件把妇人抱子的形象做成烛台座与插烛的筒形高髻。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "wh-chengni-inkstone",
+   "hook": "一块陶砚上刻着177字",
+   "summary": "武汉博物馆藏宋代抄手澄泥砚，长18.5厘米，属陶质。馆方记录砚额及两侧镌有陆游、高凤翰、黄易、金农等名家款识，篆、楷、行、隶诸体共计177字。题款人物跨越时代，与砚的宋代年代分属两个时间层次；两说并列。",
+   "summaryRefs": [
+    "t05-wh-chengni-inkstone-official"
+   ],
+   "sections": [
+    {
+     "title": "四大名砚里唯一的陶",
+     "text": "馆方写明端、歙、洮、澄泥并称四大名砚，其中只有澄泥砚属陶质，其余都是石质；流传至今的古澄泥砚很少。这方砚长18.5厘米，制作手法简洁，造型古朴。抄手是砚式术语，指砚底留出手位的一类做法，属器形背景。",
+     "refs": [
+      "t05-wh-chengni-inkstone-official"
+     ]
+    },
+    {
+     "title": "177字的题款",
+     "text": "砚额及两侧分别镌刻陆游、高凤翰、黄易、金农等名家的款识，篆、楷、行、隶各体都有，合计177字。名字与字数都依官方记录。示意图像不含可读的题款，不据示意图认字，也不据示意图核对字数。",
+     "refs": [
+      "t05-wh-chengni-inkstone-official"
+     ]
+    },
+    {
+     "title": "两说并列：砚的年代与题款的年代",
+     "text": "砚的年代字段作宋。写作包指出题款涉及的这些人物跨越时代，177字与砚的宋代制作不在同一时间层；两说并列，本条采用字段的宋作为砚的年代，题款则依官方记录所列为后世名家所刻。题款的先后次序、真伪与入藏经过都没有核过，留待检测与档案比对。",
+     "refs": [
+      "t05-wh-chengni-inkstone-official"
+     ]
+    },
+    {
+     "title": "未载的部分与今天再看",
+     "text": "出土地点、墓号与入藏经过未载；陶质配方、烧成温度与制砚工匠未载；题款次序与真伪也没有核过。今天再看，这方砚把制砚与后来者的题咏叠在同一块陶上：先有砚，后有字。",
+     "refs": [
+      "t05-wh-chengni-inkstone-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与尺寸",
+     "text": "宋；长18.5厘米。",
+     "refs": [
+      "t05-wh-chengni-inkstone-official"
+     ]
+    },
+    {
+     "title": "材质",
+     "text": "属陶质；四大名砚中其余为石质。",
+     "refs": [
+      "t05-wh-chengni-inkstone-official"
+     ]
+    },
+    {
+     "title": "形制",
+     "text": "抄手式；制作手法简洁，造型古朴。",
+     "refs": [
+      "t05-wh-chengni-inkstone-official"
+     ]
+    },
+    {
+     "title": "题款",
+     "text": "砚额及两侧有陆游、高凤翰、黄易、金农等名家款识，篆、楷、行、隶诸体共177字。",
+     "refs": [
+      "t05-wh-chengni-inkstone-official"
+     ]
+    },
+    {
+     "title": "两说",
+     "text": "砚年代作宋，题款人物跨越时代，与宋代制作不在同一时间层；分歧并列保留。",
+     "refs": [
+      "t05-wh-chengni-inkstone-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "砚上的字为什么会越刻越多？",
+    "answer": "砚是长期使用的文具，一方好砚会在不同人手里传下去。后人得到它，常在砚上留名或题记，款识因此层层累积。馆方列出的人名跨越时代，正与这种现象相符；哪一次在前、哪一次在后，题款次序未核，留待检测。",
+    "refs": [
+     "t05-wh-chengni-inkstone-official"
+    ]
+   },
+   "uncertainty": "出土地点、墓号与入藏经过未载；题款次序、真伪与题刻者身份未核；陶质配方、烧成温度与制砚工匠未载；题款文字与字数不据示意图判断；题款时代与砚的年代分歧并列保留；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。题款与制砚时代分歧并列保留。",
+   "related": [
+    {
+     "id": "wh-many-foot-inkstone",
+     "reason": "同为武汉博物馆藏砚类器物：一方是南北朝多足青瓷砚，一方是宋代抄手陶砚，看研磨面的处理与底部结构怎样各不相同。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "wh-yangguang-trigger",
+     "reason": "同为带铭文的器物：一方砚上层层累积后世题款，一件东汉弩机在臂部刻出制造纪年，看文字分别记录留名与年代。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-gold-lotus-box",
+   "hook": "一只四层叠合的莲瓣漆奁，口沿包着银片",
+   "summary": "常州博物馆藏南宋朱漆戗金莲瓣式人物花卉纹奁。1978年江苏常州武进区村前蒋塘南宋墓出土；木胎，六出莲瓣筒形，分盖、盘、中、底四层，浅圈足，合口处镶银扣。外髹朱漆、内髹黑漆；盖面为戗金仕女消夏图，器壁以同一工艺饰六组折枝花；盒内朱书十字铭款。",
+   "summaryRefs": [
+    "t05-cz-gold-lotus-box-official"
+   ],
+   "sections": [
+    {
+     "title": "先看它怎么叠",
+     "text": "馆方记录写明：木胎，六出莲瓣筒形，分盖、盘、中、底四层，浅圈足，合口处镶银扣。四层结构把器身分成上下四个部分，收口的地方用银片包住，口沿因此有了一道硬边。通高21.3厘米、外径19.2厘米，六出莲瓣的轮廓让圆形器身在外缘出现六个浅浅的起伏。各层原本分装什么，记录没有写。",
+     "refs": [
+      "t05-cz-gold-lotus-box-official"
+     ]
+    },
+    {
+     "title": "盖面上的二主一仆",
+     "text": "盖面是戗金仕女消夏图。馆方描述为：二主一仆在石径上漫步，两位主人着襦裙背子、梳高髻、着花罗直领对襟衫、长裙曳地；一位持折扇，一位抱团扇，挽臂喁喁私语；侍女手捧玉壶春瓶恭立一旁；左侧放一绣墩，四周以假山、草木、花卉点缀，突出了时令气息。三个人各有动作，画面交代的是夏日出行的一个片段。仕女的身份，馆方没有指认。",
+     "refs": [
+      "t05-cz-gold-lotus-box-official"
+     ]
+    },
+    {
+     "title": "戗金与器壁的六组花",
+     "text": "盖面与器壁用的是同一种装饰办法：戗金。属类型背景，这类工艺大致是在漆地上刻出细线，再把金填入刻痕，线条因此细而亮。馆方记录器壁以同样工艺饰牡丹、莲花、梅花、芙蓉等六组折枝花。花瓣层次与线条走向不依配图判断，配图来源记为AI示意，纹样只以馆方文字描述为据。",
+     "refs": [
+      "t05-cz-gold-lotus-box-official"
+     ]
+    },
+    {
+     "title": "今天再看这只奁",
+     "text": "盒内朱书十字铭款：温州新河金念五郎上牢。这行字把器物与温州的一处名号联系起来，是记录中唯一指向制作者的信息。今天再看，这只奁的完整性很显眼，四层、银扣、满身画面都还在，馆方也记载它被国家文物鉴定委员会定为国宝级文物。缺的部分同样明显：墓号、发现者、流转经过、工匠姓名、用漆温度与材料检测都没有，仕女的真实身份只能停在画面里。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-gold-lotus-box-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与尺寸",
+     "text": "南宋（1127年~1279年）；通高21.3厘米、外径19.2厘米。",
+     "refs": [
+      "t05-cz-gold-lotus-box-official"
+     ]
+    },
+    {
+     "title": "出土",
+     "text": "1978年江苏常州武进区村前蒋塘南宋墓出土。",
+     "refs": [
+      "t05-cz-gold-lotus-box-official"
+     ]
+    },
+    {
+     "title": "形制与胎骨",
+     "text": "木胎，六出莲瓣筒形；分盖、盘、中、底四层，浅圈足，合口处镶银扣。",
+     "refs": [
+      "t05-cz-gold-lotus-box-official"
+     ]
+    },
+    {
+     "title": "装饰",
+     "text": "外髹朱漆、内髹黑漆；盖面戗金仕女消夏图，器壁饰牡丹、莲花、梅花、芙蓉等六组折枝花。",
+     "refs": [
+      "t05-cz-gold-lotus-box-official"
+     ]
+    },
+    {
+     "title": "铭款与定级",
+     "text": "盒内朱书温州新河金念五郎上牢十字；馆方记其被国家文物鉴定委员会定为国宝级文物。",
+     "refs": [
+      "t05-cz-gold-lotus-box-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "四层的奁为什么在合口处包银？",
+    "answer": "合口处是反复开合、最容易磕碰的地方。银片把口沿箍住，既护边，也让层与层的界线更清楚。馆方记录只把它列为形制描述，没有说明用意；这一层解释属于结构上的推测。银扣的厚度与固定方式，记录未载。",
+    "refs": [
+     "t05-cz-gold-lotus-box-official"
+    ]
+   },
+   "uncertainty": "墓号、发现者与流转经过未载；仕女身份未载；用漆温度、工具、材料检测与工匠姓名未载；银扣厚度与固定方式未载；铭款笔画、人物衣纹与六组花的花瓣层次不依AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-willow-box",
+     "reason": "两件南宋漆盒都以漆地配细钩戗金：一件盖面画仕女消夏、器壁饰六组折枝花，一件盖面为柳塘小景、纹饰空隙用攒犀填朱并磨光，比较漆地上的画面组织与装饰层次。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-carved-cup",
+     "reason": "两件漆器的画面交给不同办法：一件以戗金细线画人物与花卉，漆面基本完整；一件随竹根形状浮雕松树，漆层大部脱落，比较漆面保存状况怎样改变观看的重点。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-trumpet-lacquer",
+   "hook": "一只空心的小喇叭，内壁有烧灼痕",
+   "summary": "常州博物馆藏新石器时代马家浜文化喇叭形漆器。1976年江苏常州圩墩遗址出土；高6、最大径10.7厘米。上端稍细，下呈喇叭状，器内空，有烧灼痕迹；器表涂有黑色涂料，出土时仍有光泽。具体用途，官方记录没有说明。",
+   "summaryRefs": [
+    "t05-cz-trumpet-lacquer-official"
+   ],
+   "sections": [
+    {
+     "title": "先看形状与尺寸",
+     "text": "馆方记录给了几项：高6厘米、最大径10.7厘米；上端稍细，下呈喇叭状；器内空。三个线索放在一起，是一个空心的筒形器，从细的一端到张开的一端，轮廓逐渐放开。哪一端在使用时朝上，记录没有说明；器壁的厚薄也未载。",
+     "refs": [
+      "t05-cz-trumpet-lacquer-official"
+     ]
+    },
+    {
+     "title": "黑色涂料与那层光泽",
+     "text": "器表涂有黑色涂料，出土时仍有光泽。馆方描述为直观上与现代漆没有差别，这是观感层面的比较，说明涂层当年保存得不错。涂料的成分、髹涂的遍数、是否分层，记录都没有写，留待检测。",
+     "refs": [
+      "t05-cz-trumpet-lacquer-official"
+     ]
+    },
+    {
+     "title": "内壁的烧灼痕迹",
+     "text": "记录写明器内有烧灼痕迹。痕迹出现在内壁，说明这件器物曾与火或高温物接触；是使用留下的，还是埋藏或后来的处理造成的，记录没有区分。痕迹的位置与范围不依配图判断，配图来源记为AI示意，只据馆方文字描述来写。",
+     "refs": [
+      "t05-cz-trumpet-lacquer-official"
+     ]
+    },
+    {
+     "title": "今天再看这只小器",
+     "text": "馆方原文有一句评价：它是继河姆渡文化时期漆器后中国最早的漆器。这句既给排名也给限定，须连着河姆渡的漆器一起读；排名按什么范围和标准来定，原文没有交代，属并列保留的表述。今天再看，这件小器拿得出三条信息：年代、出土地点、以及一层出土时仍然发亮的黑色涂层。它做什么用仍是空的，墓号、发现者与流转经过也未载。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-trumpet-lacquer-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与遗址",
+     "text": "新石器时代马家浜文化（约公元前4500年~前3900年）；1976年江苏常州圩墩遗址出土。",
+     "refs": [
+      "t05-cz-trumpet-lacquer-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "高6、最大径10.7厘米。",
+     "refs": [
+      "t05-cz-trumpet-lacquer-official"
+     ]
+    },
+    {
+     "title": "形制",
+     "text": "上端稍细、下呈喇叭状；器内空。",
+     "refs": [
+      "t05-cz-trumpet-lacquer-official"
+     ]
+    },
+    {
+     "title": "表面",
+     "text": "器表涂黑色涂料，出土时仍有光泽；器内有烧灼痕迹。",
+     "refs": [
+      "t05-cz-trumpet-lacquer-official"
+     ]
+    },
+    {
+     "title": "未载",
+     "text": "具体用途、墓号、发现者与流转经过未载；涂料成分与髹涂遍数留待检测；官方最早排名缺少范围限定。",
+     "refs": [
+      "t05-cz-trumpet-lacquer-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "一只不知道用途的空心小器，还能提供什么信息？",
+    "answer": "能提供年代、地点与表面状况。它的年代落在马家浜文化，出土地点是圩墩遗址，器表黑色涂层出土时仍有光泽，这三项都是记录里直接写明的内容。用途停在未知，并不会让这三项失效；至于它当年怎样被使用，属于推测范围。",
+    "refs": [
+     "t05-cz-trumpet-lacquer-official"
+    ]
+   },
+   "uncertainty": "具体用途、墓号、发现者与流转经过未载；涂料成分、髹涂遍数与烧灼成因未载；官方最早表述缺少范围限定，两说并列保留；器形细节、器壁厚薄与烧灼位置不依AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。最早排名范围分歧并列保留。",
+   "related": [
+    {
+     "id": "cz-carved-cup",
+     "reason": "两件漆器相隔数千年：一件是马家浜文化涂黑色涂料的小器，出土时涂层仍有光泽、内壁见烧灼痕；一件是明代竹根杯，内外髹漆而大部脱落，比较胎材与涂层留存状况的关系。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-gold-lotus-box",
+     "reason": "一件只有单层空腔、连用途都未说明，一件分四层、口沿包银并布满戗金画面，比较器物复杂度与记录信息量之间的落差怎样影响解读。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-carved-cup",
+   "hook": "杯子顺着竹根长，漆掉了一大半",
+   "summary": "常州博物馆藏明代雕花漆杯。高8厘米；竹质，依竹子根部形状雕刻而成，杯体并不规整；外壁浮雕松树，馆方称刻画细腻；杯内与杯外原本都髹漆，现大部脱落。出土与入藏经过未载。",
+   "summaryRefs": [
+    "t05-cz-carved-cup-official"
+   ],
+   "sections": [
+    {
+     "title": "顺材料的形状做",
+     "text": "馆方记录写明：竹质，依竹子根部形状雕刻而成，虽不规整，却自然成趣。竹根本来就不匀称，杯体因此没有标准的圆或方；雕刻顺着材料的原形走，竹根的结节与转折留在杯身上。这种做法的取舍很清楚：放弃规整，换来一件独一份的器形。",
+     "refs": [
+      "t05-cz-carved-cup-official"
+     ]
+    },
+    {
+     "title": "外壁的松树",
+     "text": "杯外壁浮雕松树，馆方描述为刻画细腻。浮雕意味着松树从杯壁上凸起，与杯体共用一块材料。松树的株数、枝叶的分布与刀口的深浅，记录没有写，也不依配图点数，配图来源记为AI示意，纹样只以馆方文字为据。",
+     "refs": [
+      "t05-cz-carved-cup-official"
+     ]
+    },
+    {
+     "title": "漆掉了一大半",
+     "text": "杯内与杯外都髹过漆，馆方记录为惜大部脱落。今天看到的表面是残存的漆层与竹质并存；原漆的颜色、髹涂遍数与是否加过其它装饰，记录未载。完好漆器上的鲜亮颜色，不适合移用到这里。",
+     "refs": [
+      "t05-cz-carved-cup-official"
+     ]
+    },
+    {
+     "title": "今天再看这只杯子",
+     "text": "今天再看，它的看点恰恰来自不完整：竹根的结节、松树的高下、漆层的残断共处一个表面。该有的信息也缺了几块，出土与入藏经过未载，墓号、发现者与工匠姓名未载，这只杯子在明代被谁使用、盛过什么，记录没有交代。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-carved-cup-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与尺寸",
+     "text": "明（1368年~1644年）；高8厘米。",
+     "refs": [
+      "t05-cz-carved-cup-official"
+     ]
+    },
+    {
+     "title": "材质与成形",
+     "text": "竹质，依竹子根部形状雕刻而成，器形不规整。",
+     "refs": [
+      "t05-cz-carved-cup-official"
+     ]
+    },
+    {
+     "title": "雕刻",
+     "text": "杯外壁浮雕松树，馆方称刻画细腻。",
+     "refs": [
+      "t05-cz-carved-cup-official"
+     ]
+    },
+    {
+     "title": "漆层",
+     "text": "杯内与杯外原本都髹漆，现大部脱落；原漆颜色与髹涂遍数未载。",
+     "refs": [
+      "t05-cz-carved-cup-official"
+     ]
+    },
+    {
+     "title": "未载",
+     "text": "出土与入藏经过、墓号、发现者、工匠姓名未载；松树株数与漆层残存范围不依AI示意图判断。",
+     "refs": [
+      "t05-cz-carved-cup-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "顺着材料的长势成形，得到了什么，又失去了什么？",
+    "answer": "得到的是独一份的样子与更少的浪费：竹根的走向已经定好，顺着它下刀，材料用得充分，器形也带着自然的起伏。失去的是成套的可能，每一件都不一样，无法做成整齐的一套。馆方给这件杯子的评价是造型生动活泼、堪称佳作，这样的评价正建立在它不规整这一点上。",
+    "refs": [
+     "t05-cz-carved-cup-official"
+    ]
+   },
+   "uncertainty": "出土与入藏经过未载；墓号、发现者与流转经过未载；原漆颜色、髹涂遍数与所用工具未载；松树株数、枝叶布局与刀口深浅不依AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-trumpet-lacquer",
+     "reason": "两件器物的表面都曾覆盖深色涂装：一件是马家浜文化的小器，黑色涂料出土时仍有光泽；一件是明代竹根杯，内外髹漆而大部脱落，比较胎材与涂层留存状况的关系。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-wood-cane",
+     "reason": "两件器物的造型都与原材有关：一件依竹根形状雕出杯体再浮雕松树，一件以木质杖身通体雕成竹节状，比较顺材料原形与仿另一种材料两种做法。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-cane",
+   "hook": "一根一米多长的木杖，通身是竹节",
+   "summary": "常州博物馆藏元代木手杖。1976年江苏常州武进区卜弋元墓出土；长126.5厘米。木质，把手与杖身以榫卯相接，通体雕成竹节状；馆方称做工精细，在国内出土文物中极为少见。",
+   "summaryRefs": [
+    "t05-cz-wood-cane-official"
+   ],
+   "sections": [
+    {
+     "title": "先看它的长度与分节",
+     "text": "长126.5厘米，比多数人的腰还高。通体雕成竹节状，一节一节之间的起伏是刻出来的，馆方称做工精细。把手与杖身并不连续，是两段木料接起来的。节的疏密与高低，记录没有描述。",
+     "refs": [
+      "t05-cz-wood-cane-official"
+     ]
+    },
+    {
+     "title": "像竹，记录写的却是木",
+     "text": "这一件最容易看错的是材质：外形像竹，馆方记录明确写木质。竹节的造型可以雕，材质以记录为准。原文只写木质，没有交代树种，木材鉴定也未载；节的间距是否均匀，不依配图判断，配图来源记为AI示意。",
+     "refs": [
+      "t05-cz-wood-cane-official"
+     ]
+    },
+    {
+     "title": "榫卯：两段接成一根杖",
+     "text": "把手与杖身以榫卯相接，一段出榫头，一段留卯眼，靠咬合固定。接合处是否另有加固、能不能承受多大力量，记录没有写；榫头的形状与卯眼的深浅也未载。从工艺上看，这种接法把长料的问题拆成两段短料来处理，选料时余地更大。",
+     "refs": [
+      "t05-cz-wood-cane-official"
+     ]
+    },
+    {
+     "title": "今天再看一根长杖",
+     "text": "馆方说这类长木器在国内出土文物中极为少见，并给了较高的文物价值评价。今天再看，它留下的信息是选料、接合与雕刻三件事；至于墓主是否真的拄过它、它在随葬器物里扮演什么角色，记录没有说明。墓号、发现者与流转经过未载。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-wood-cane-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与出土",
+     "text": "元（1271年~1368年）；1976年江苏常州武进区卜弋元墓出土。",
+     "refs": [
+      "t05-cz-wood-cane-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "长126.5厘米。",
+     "refs": [
+      "t05-cz-wood-cane-official"
+     ]
+    },
+    {
+     "title": "材质与结构",
+     "text": "木质；把手与杖身以榫卯相接。",
+     "refs": [
+      "t05-cz-wood-cane-official"
+     ]
+    },
+    {
+     "title": "造型",
+     "text": "通体雕成竹节状，馆方称做工精细。",
+     "refs": [
+      "t05-cz-wood-cane-official"
+     ]
+    },
+    {
+     "title": "未载",
+     "text": "墓号、发现者、流转经过、树种与工匠姓名未载；竹节属雕刻造型，材质以木质记录为准。",
+     "refs": [
+      "t05-cz-wood-cane-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "把木头雕成竹节，图的是什么？",
+    "answer": "竹节的起伏对握持是有用的，手落在凹处不容易滑，这属于功能上的推测。另一种可能是样式上的偏好，当时的人喜欢竹的形态，于是把它刻在木杖上。记录没有给出原因，能确定的只有做法：节是刻出来的，材料是木。",
+    "refs": [
+     "t05-cz-wood-cane-official"
+    ]
+   },
+   "uncertainty": "墓号、发现者与流转经过未载；树种、木材检测与工匠姓名未载；榫头形状、卯眼深浅与接合处是否加固未载；竹节间距与起伏不依AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-wood-scull",
+     "reason": "两件长木器都靠砍削与接合成形：一件把手与杖身榫卯相接、通体雕成竹节，一件由整块原木砍出橹面并在结合处开凿凹坑，比较连接方式与工作端的处理。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-wood-roller",
+     "reason": "两件细长木器把看点安排在不同位置：一件通体雕竹节、注意力落在整根杖身，一件在两端镶嵌玉质构件、重点收在尽头，比较长条形器物的装饰分布。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-spoon",
+   "hook": "一把形制清楚的元代楠木勺",
+   "summary": "常州博物馆藏元代木勺。1976年江苏常州武进区卜弋元墓出土；长22厘米。楠木质，勺柄微弧，勺头扁弧形；馆方称保存完美、制作精细、用料考究，是研究元代饮食用具的实物。",
+   "summaryRefs": [
+    "t05-cz-wood-spoon-official"
+   ],
+   "sections": [
+    {
+     "title": "先看勺形",
+     "text": "长22厘米。勺柄微弧，勺头扁弧形，柄带一个缓慢的弯，勺头扁而含弧，能兜住一点东西。馆方只记形制，没有写它的具体用途；从器形上看，微弧的柄与扁弧的勺头都朝着好握、好取的方向做，这属于功能上的推测。",
+     "refs": [
+      "t05-cz-wood-spoon-official"
+     ]
+    },
+    {
+     "title": "楠木与用料",
+     "text": "材质记作楠木。馆方把楠木与用料考究、制作精细放在同一段里评述，属于馆方评价。木材的产地、干燥与加工方法未载；保存状况的详细检测也未载。",
+     "refs": [
+      "t05-cz-wood-spoon-official"
+     ]
+    },
+    {
+     "title": "随葬的日常用具",
+     "text": "它1976年出土于江苏常州武进区卜弋元墓。同一处元墓还出有木手杖、木筷等木器，各项单独登记，它们在实际生活里的搭配关系未载。具体盛过什么食物、由谁使用，记录没有交代，使用痕迹也没有描述。",
+     "refs": [
+      "t05-cz-wood-spoon-official"
+     ]
+    },
+    {
+     "title": "今天再看这把勺子",
+     "text": "今天再看，它的价值落在平常两个字上：放进一整套饮食用具里，它不起眼；单独一件保存较好、形制清楚的元代木勺，就成了判断当时用料与加工水平的参照。器物能提供选料与做法两条线索，食物与物主这两项仍是空白。墓号、发现者与流转经过未载。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-wood-spoon-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与出土",
+     "text": "元（1271年~1368年）；1976年江苏常州武进区卜弋元墓出土。",
+     "refs": [
+      "t05-cz-wood-spoon-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "长22厘米。",
+     "refs": [
+      "t05-cz-wood-spoon-official"
+     ]
+    },
+    {
+     "title": "材质",
+     "text": "楠木质。",
+     "refs": [
+      "t05-cz-wood-spoon-official"
+     ]
+    },
+    {
+     "title": "形制",
+     "text": "勺柄微弧，勺头扁弧形；馆方称保存完美、制作精细、用料考究。",
+     "refs": [
+      "t05-cz-wood-spoon-official"
+     ]
+    },
+    {
+     "title": "未载",
+     "text": "墓号、发现者、流转经过、具体食物与物主未载；使用痕迹未描述。",
+     "refs": [
+      "t05-cz-wood-spoon-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "一件饮食用具能告诉我们多少当时的生活？",
+    "answer": "能确定的是用料与做法：楠木、柄带弧度、勺头扁弧、保存较好，馆方据此把它看作研究元代饮食用具的实物佐证。食物与使用者这两项，记录里没有。把同类用具的记录放在一起看，才可能往前多走一步。",
+    "refs": [
+     "t05-cz-wood-spoon-official"
+    ]
+   },
+   "uncertainty": "墓号、发现者与流转经过未载；具体食物、物主与用餐场合未载；使用痕迹未描述；木材产地、干燥与加工方法未载；勺头弧度与柄的弯曲不依AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-wood-chopstick",
+     "reason": "两件元代楠木饮食用具：一件有扁弧的勺头与微弧的柄，一件是圆柱形、一头稍粗的长杆，比较取食器具在握持端与入口端的不同处理。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-wood-cane",
+     "reason": "两件元代木器的长度相差很大：一件长22厘米、柄带弧度、端头扁弧，一件长126.5厘米、把手以榫卯相接并雕出竹节，比较体量与加工重点怎样对应不同的日常动作。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-chopstick",
+   "hook": "一根长27.2厘米的楠木筷，一头稍粗",
+   "summary": "常州博物馆藏元代楠木筷，长27.2厘米，圆柱形、一头稍粗，1976年江苏常州武进区卜弋元墓出土。官网按单件逐条登记，原套数量未明确；本件图像为AI示意图，不用于判断杆身断面与粗细比例。",
+   "summaryRefs": [
+    "t05-cz-wood-chopstick-official"
+   ],
+   "sections": [
+    {
+     "title": "三句话交代一根筷子",
+     "text": "官方逐件记录写得很省：楠木制作，圆柱形，一头稍粗，长27.2厘米。三句话把材质、轮廓和长度交代完。记录里没有纹饰描述，表面处理只用“制作精细”四字概括，这件器物的看点因此落在杆身的匀称与完好上。",
+     "refs": [
+      "t05-cz-wood-chopstick-official"
+     ]
+    },
+    {
+     "title": "出土与定年",
+     "text": "记录给出1976年江苏常州武进区卜弋元墓出土，年代记为元（1271年~1368年）。博物馆定年是本件年代依据。墓号、发现者与流转经过未载，它出自哪一座墓、入藏前经过谁手，仍无记录可查。",
+     "refs": [
+      "t05-cz-wood-chopstick-official"
+     ]
+    },
+    {
+     "title": "一根，还是一双",
+     "text": "官网逐件记录未明确原套数量，长27.2厘米也只对应登记的这一件，馆方描述为单件。这里采用单件记录的说法，理由是登记与具体器物一一对应；同时保留另一种可能：随葬或使用时本就不止一根，只是未见记录，两说并列。",
+     "refs": [
+      "t05-cz-wood-chopstick-official"
+     ]
+    },
+    {
+     "title": "今天再看",
+     "text": "今天再看这根筷子，容易被忽略的是它的保存状况。竹木饮食用具在地下很难留存，馆方以“保存完美”形容，完好本身也是它进入藏品的原因。这类平常物件能提供元代饮食用具的实物线索，属馆方记录给出的价值判断。本件图像为AI示意图，杆身断面与粗细比例不据示意图判断，需核对实物。",
+     "refs": [
+      "t05-cz-wood-chopstick-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "名称与质地",
+     "text": "木筷；楠木制作。",
+     "refs": [
+      "t05-cz-wood-chopstick-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "长27.2厘米。",
+     "refs": [
+      "t05-cz-wood-chopstick-official"
+     ]
+    },
+    {
+     "title": "形制",
+     "text": "圆柱形，一头稍粗。",
+     "refs": [
+      "t05-cz-wood-chopstick-official"
+     ]
+    },
+    {
+     "title": "出土记录",
+     "text": "1976年江苏常州武进区卜弋元墓出土。",
+     "refs": [
+      "t05-cz-wood-chopstick-official"
+     ]
+    },
+    {
+     "title": "未载与不据图",
+     "text": "原套数量、墓号、发现者、流转经过未载；本件图像为AI示意图，不据示意图判断断面形状与粗细比例；逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-wood-chopstick-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么一根木筷也要单独登记？",
+    "answer": "因为竹木饮食用具的实物本就少见。材质易朽，能留下来的往往是墓内条件较好的例子。一件长度、材质、形制都清楚的木筷，可以当作元代这类器具的参照点；它说明不了谁用过它，却能说明当时有这样一件东西。",
+    "refs": [
+     "t05-cz-wood-chopstick-official"
+    ]
+   },
+   "uncertainty": "原套数量未载；墓号、发现者、流转经过未载；制作工匠与加工工具未载；本件图像为AI示意图，断面与粗细比例需核对实物；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-wood-spoon",
+     "reason": "同为卜弋元墓出土的楠木饮食用具，一件是细长杆身、一头稍粗的筷，一件是微弧勺柄配扁弧勺头，比较两种入口端的成形办法与保存状况。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-wood-cane",
+     "reason": "同为元代木质长杆器物，一件用于取食，一件雕成竹节状供扶握，比较杆身造型与其实际用途之间的距离。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-yuan-black-bowl",
+   "hook": "一只外壁写着六个朱字的黑漆碗",
+   "summary": "常州博物馆藏元代黑漆碗，高5、口径15.5、底径10.5厘米，1981年江苏常州武进区礼河元墓出土。木胎直口、浅腹微折、平底，内外皆髹黑漆，碗外壁朱书“辛卯湖州苏上”六字。",
+   "summaryRefs": [
+    "t05-cz-yuan-black-bowl-official"
+   ],
+   "sections": [
+    {
+     "title": "口、腹、底",
+     "text": "记录给出三处尺寸：高5、口径15.5、底径10.5厘米。高度只及口径的三分之一上下，形状因此偏浅；木胎直口、浅腹微折、平底。三处数字加上三处形制描述，这件碗的轮廓基本可以复原。",
+     "refs": [
+      "t05-cz-yuan-black-bowl-official"
+     ]
+    },
+    {
+     "title": "内外都是黑漆",
+     "text": "内外皆髹黑漆，漆面光亮。馆方以“造型优美”形容整体观感，属于对器形的评价。木胎上髹漆既能护木，也统一了表面颜色；这件碗走光素一路，记录未提纹饰。",
+     "refs": [
+      "t05-cz-yuan-black-bowl-official"
+     ]
+    },
+    {
+     "title": "外壁的六个字",
+     "text": "碗外壁有朱书“辛卯湖州苏上”六字。辛卯是干支年款，湖州当指产地或作坊所在，后两字所指未获说明；干支年款单独不足以定出公元年份，这是干支纪年的通例。馆方记录未提供铭款所指匠人的生平，这六个字的确切含义留待专门研究。",
+     "refs": [
+      "t05-cz-yuan-black-bowl-official"
+     ]
+    },
+    {
+     "title": "今天再看",
+     "text": "今天再看，碗形与漆色之外最耐读的就是那行朱书。产地、年款与作坊信息被留在器物自己身上。本件图像为AI示意图，铭文字形、行款位置与漆面光泽不据示意图判断，需核对实物。",
+     "refs": [
+      "t05-cz-yuan-black-bowl-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "尺寸",
+     "text": "高5、口径15.5、底径10.5厘米。",
+     "refs": [
+      "t05-cz-yuan-black-bowl-official"
+     ]
+    },
+    {
+     "title": "器形",
+     "text": "木胎；直口，浅腹微折，平底。",
+     "refs": [
+      "t05-cz-yuan-black-bowl-official"
+     ]
+    },
+    {
+     "title": "漆面",
+     "text": "内外皆髹黑漆，漆面光亮。",
+     "refs": [
+      "t05-cz-yuan-black-bowl-official"
+     ]
+    },
+    {
+     "title": "铭款",
+     "text": "碗外壁朱书“辛卯湖州苏上”六字。",
+     "refs": [
+      "t05-cz-yuan-black-bowl-official"
+     ]
+    },
+    {
+     "title": "未载与不据图",
+     "text": "铭款所指匠人生平、墓号、发现者、流转经过未载；本件图像为AI示意图，铭文字形与漆面微痕需核对实物；逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-yuan-black-bowl-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么漆碗把作坊信息写在碗的外壁？",
+    "answer": "外壁是使用者日常会看到的一面。把产地、年款与作坊名留在这一面，器物便自带出处；对当时的作坊来说这是一行招牌，对今天的研究来说它成了断代与流通的线索。这六个字各指什么，仍有待核对。",
+    "refs": [
+     "t05-cz-yuan-black-bowl-official"
+    ]
+   },
+   "uncertainty": "铭款所指匠人生平未载；“湖州苏上”各字所指未获说明；墓号、发现者、流转经过未载；本件图像为AI示意图，铭文字形与漆面状态需核对实物；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-phagspa-bowl",
+     "reason": "同为元代常州漆碗，一件平底浅腹配朱书汉字作坊款，一件圈足弧腹配八思巴文单字，比较器底处理与铭文所落位置的差别。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-changzhou-bowl",
+     "reason": "同为本地出土的漆碗，一件光素平底并记作坊与干支年款，一件口沿起十瓣并记“常州”款，比较装饰取向与款识写法的变化。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-phagspa-bowl",
+   "hook": "圈足内侧藏着一个朱书八思巴文字",
+   "summary": "常州博物馆藏元代漆碗，高8.4、口径19.6、底径8.4厘米，1976年江苏常州武进区卜弋元墓出土。木胎口微敛、弧腹、圈足，内外髹暗黄色漆，口缘及底以黑漆镶边，圈足内朱书八思巴文“陈”字。",
+   "summaryRefs": [
+    "t05-cz-phagspa-bowl-official"
+   ],
+   "sections": [
+    {
+     "title": "尺寸与器形",
+     "text": "高8.4、口径19.6、底径8.4厘米。口径是底径的两倍多，高度居中，形状是敛口的碗；木胎口微敛、弧腹、圈足，馆方形容造型稳重朴实。",
+     "refs": [
+      "t05-cz-phagspa-bowl-official"
+     ]
+    },
+    {
+     "title": "两种漆色配边",
+     "text": "内外髹暗黄色漆，口缘及底以黑漆镶边。深色边线把口沿与底缘勾出来，器身的暗黄与边的黑形成对比；记录未提纹饰，装饰集中在这道边和圈足内的字上。",
+     "refs": [
+      "t05-cz-phagspa-bowl-official"
+     ]
+    },
+    {
+     "title": "“陈”字与八思巴文",
+     "text": "圈足内朱书八思巴文“陈”字。八思巴文是元代由朝廷推行的文字系统，属类型背景；这个字在这件碗上是标记所属、作坊还是使用者，记录未给结论。官网另有同名一件，其尺寸不并入本件，这条只对应id413这一只碗。",
+     "refs": [
+      "t05-cz-phagspa-bowl-official"
+     ]
+    },
+    {
+     "title": "今天再看",
+     "text": "今天再看，这只碗的看点落在圈足里。那个位置平放时几乎不入眼，却留下了全器唯一的文字。本件图像为AI示意图，八思巴文字形与口沿黑漆镶边的做法不据示意图判断，需核对实物。",
+     "refs": [
+      "t05-cz-phagspa-bowl-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "尺寸",
+     "text": "高8.4、口径19.6、底径8.4厘米。",
+     "refs": [
+      "t05-cz-phagspa-bowl-official"
+     ]
+    },
+    {
+     "title": "器形",
+     "text": "木胎；口微敛，弧腹，圈足。",
+     "refs": [
+      "t05-cz-phagspa-bowl-official"
+     ]
+    },
+    {
+     "title": "漆色",
+     "text": "内外髹暗黄色漆，口缘及底以黑漆镶边。",
+     "refs": [
+      "t05-cz-phagspa-bowl-official"
+     ]
+    },
+    {
+     "title": "铭文",
+     "text": "圈足内朱书八思巴文“陈”字。",
+     "refs": [
+      "t05-cz-phagspa-bowl-official"
+     ]
+    },
+    {
+     "title": "未载与不据图",
+     "text": "同名另一件的尺寸不并入本件；墓号、发现者、流转经过未载；本件图像为AI示意图，八思巴文字形与镶边漆层需核对实物；逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-phagspa-bowl-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "一个写在圈足里的字，是给谁看的？",
+    "answer": "圈足朝下，平放时几乎不入眼。把标记放在那里，通常与使用、记账或作坊归属有关，但记录没有说明。能看到的是对比：器身漆色朴素，全器唯一的文字却藏在底面。",
+    "refs": [
+     "t05-cz-phagspa-bowl-official"
+    ]
+   },
+   "uncertainty": "铭文单字的具体作用无结论；同名另一件的尺寸不并入本件；墓号、发现者、流转经过未载；本件图像为AI示意图，字形与镶边做法需核对实物；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-yuan-black-bowl",
+     "reason": "同为元代常州漆碗，一件圈足弧腹配八思巴文单字，一件平底浅腹配朱书汉字作坊款，比较器底做法与铭文位置的差异。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-lacquer-teacup",
+     "reason": "同为常州出土的漆木茶食器，一件是口径偏大的碗，一件是小盏连着圆形托盘，比较口沿与托圈怎样配合各自的使用方式。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-bamboo-comb",
+   "hook": "两片竹梁夹住细齿，用棉线绑住",
+   "summary": "常州博物馆藏南宋竹篦，长8.4、宽4.9厘米，1976年江苏常州武进区村前蒋塘南宋墓出土。竹质，属双齿篦类；两面单排齿细而密集，两片竹篦梁夹住篦齿与篦档并以棉线捆绑，两端档子现仅存其一。",
+   "summaryRefs": [
+    "t05-cz-bamboo-comb-official"
+   ],
+   "sections": [
+    {
+     "title": "没有钉，也没有胶",
+     "text": "记录下来的是装配办法：两片竹质篦梁把篦齿及篦档夹在中间，再用棉线捆绑。竹齿薄、梁也薄，打钉容易开裂，胶在潮湿环境里未必牢靠；夹与绑把受力分摊到整条梁上。这是一种可以拆开重绑的结构。",
+     "refs": [
+      "t05-cz-bamboo-comb-official"
+     ]
+    },
+    {
+     "title": "齿的密度",
+     "text": "两面单排齿，齿细而密集，馆方据此把它归入双齿篦类。记录未给齿数，本件图像为AI示意图，齿的根数与排列不据示意图数，需核对实物。",
+     "refs": [
+      "t05-cz-bamboo-comb-official"
+     ]
+    },
+    {
+     "title": "缺了的一端",
+     "text": "馆方说明篦齿两端均应有档子，现仅存其一。缺失的一端按现存状况描述，不补绘成完器；原貌如何，只能由实物与同类器比较来推定。",
+     "refs": [
+      "t05-cz-bamboo-comb-official"
+     ]
+    },
+    {
+     "title": "今天再看",
+     "text": "今天再看，这件小竹器能保存下来靠的是竹材与棉线的组合，以及墓葬内的条件。谁用它、用于何时，记录未载。它的价值不在贵重，而在结构完整可读：梁、齿、档、绑四个环节都能看出来。",
+     "refs": [
+      "t05-cz-bamboo-comb-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "尺寸",
+     "text": "长8.4、宽4.9厘米。",
+     "refs": [
+      "t05-cz-bamboo-comb-official"
+     ]
+    },
+    {
+     "title": "材质与类别",
+     "text": "竹质，属双齿篦类。",
+     "refs": [
+      "t05-cz-bamboo-comb-official"
+     ]
+    },
+    {
+     "title": "齿部",
+     "text": "两面单排齿，齿细而密集。",
+     "refs": [
+      "t05-cz-bamboo-comb-official"
+     ]
+    },
+    {
+     "title": "装配",
+     "text": "两片竹质篦梁夹住篦齿及篦档，辅以棉线捆绑。",
+     "refs": [
+      "t05-cz-bamboo-comb-official"
+     ]
+    },
+    {
+     "title": "缺损与不据图",
+     "text": "两端档子现仅存其一，缺失一端不补绘成完好；齿数、墓号、发现者与流转经过未载；本件图像为AI示意图，不据示意图数齿或判断棉线走向；逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-bamboo-comb-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么用夹与绑代替钉子和胶？",
+    "answer": "因为竹篦最怕在薄处受力。齿根要夹紧又不能开裂，胶在湿度变化下也难长期稳定；两片梁把压力分散在整条边上，棉线再把梁固定住，出问题还能重绑。缺了一端的现状里，这套做法仍然读得出来。",
+    "refs": [
+     "t05-cz-bamboo-comb-official"
+    ]
+   },
+   "uncertainty": "齿数与具体排列未载；缺失档子的原貌未载；墓号、发现者、流转经过未载；本件图像为AI示意图，齿部细节需核对实物；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-pearl-comb",
+     "reason": "同为村前蒋塘南宋墓出土的梳具，一件竹质双面细齿靠竹梁夹绑，一件黄杨木半月形在背沿镶一排珍珠，比较实用结构与装饰投入的分配。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-red-hairpick",
+     "reason": "同为南宋梳妆相关小件，一件是密集细齿的篦，一件是八齿朱漆长条而发插与茶筅两说并存，比较齿部形态与用途判断的确定程度。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-pearl-comb",
+   "hook": "梳背上镶着一排细小珍珠",
+   "summary": "常州博物馆藏南宋黄杨木梳，长9.2、宽4.1厘米，1976年江苏常州武进区村前蒋塘南宋墓出土。梳作半月形，梳齿紧密，环梳背镶一排细小珍珠，馆方称其制作工艺精湛。",
+   "summaryRefs": [
+    "t05-cz-pearl-comb-official"
+   ],
+   "sections": [
+    {
+     "title": "半月形的轮廓",
+     "text": "黄杨木质，半月形，长9.2、宽4.1厘米。弧形梳背便于握持，弧线也贴合头形；材质选黄杨，木性细密，适合做出薄而密的齿。馆方以“制作工艺精湛”评价这件梳子的做工。",
+     "refs": [
+      "t05-cz-pearl-comb-official"
+     ]
+    },
+    {
+     "title": "齿说得很简",
+     "text": "记录只写梳齿紧密，未给齿数。本件图像为AI示意图，齿的根数与疏密不据示意图判断，需核对实物。",
+     "refs": [
+      "t05-cz-pearl-comb-official"
+     ]
+    },
+    {
+     "title": "珍珠镶在哪一面",
+     "text": "环梳背镶一排细小珍珠，馆方描述其布置沿梳背弧线成排。珍珠的颗数、大小与固定方式（钻孔、嵌槽还是粘接）记录未给，本条留待检测；能确定的是装饰集中在梳背而非齿部。",
+     "refs": [
+      "t05-cz-pearl-comb-official"
+     ]
+    },
+    {
+     "title": "今天再看",
+     "text": "今天再看，梳子的本体是日用品，镶珠之后多了一层可见的装饰意味。物主与使用场合未载，它究竟用于日常梳理、随身佩带还是随葬备物，三种可能并列保留。",
+     "refs": [
+      "t05-cz-pearl-comb-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "尺寸",
+     "text": "长9.2、宽4.1厘米。",
+     "refs": [
+      "t05-cz-pearl-comb-official"
+     ]
+    },
+    {
+     "title": "材质与形制",
+     "text": "黄杨木质，半月形。",
+     "refs": [
+      "t05-cz-pearl-comb-official"
+     ]
+    },
+    {
+     "title": "齿部",
+     "text": "梳齿紧密。",
+     "refs": [
+      "t05-cz-pearl-comb-official"
+     ]
+    },
+    {
+     "title": "装饰",
+     "text": "环梳背镶一排细小珍珠。",
+     "refs": [
+      "t05-cz-pearl-comb-official"
+     ]
+    },
+    {
+     "title": "未载与不据图",
+     "text": "珍珠颗数、大小与固定方式未载；物主、使用场合、墓号与流转经过未载；本件图像为AI示意图，珍珠排列与镶接做法需核对实物；逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-pearl-comb-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "把珍珠镶在梳背上，实用在哪里？",
+    "answer": "梳齿负责顺发，梳背平时朝外。装饰放在朝外的一面，日用品便同时成了随身可见的饰件；如果珍珠以钻孔或嵌槽固定，还会牵动梳背的强度。具体做法记录未给，留待实物检测。",
+    "refs": [
+     "t05-cz-pearl-comb-official"
+    ]
+   },
+   "uncertainty": "珍珠颗数、大小与固定方式未载；物主与使用场合未载；墓号、发现者、流转经过未载；本件图像为AI示意图，镶珠细节需核对实物；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-bamboo-comb",
+     "reason": "同为村前蒋塘南宋墓出土的梳具，一件竹篦靠竹梁夹绑细齿，一件黄杨木梳在背沿镶一排珍珠，比较日用结构与装饰工艺的组合方式。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-mirror-case",
+     "reason": "同为南宋梳妆用具，一件是随身梳理的镶珠木梳，一件是随执镜轮廓成形的剔犀镜盒，比较小件器物在梳理与收纳上的分工。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-roller",
+   "hook": "一根木轴，两头镶着白玉",
+   "summary": "常州博物馆藏南宋木卷轴，1978年江苏常州武进区村前蒋塘南宋墓出土，长29厘米。圆柱形木轴，两端镶嵌玉质构件，玉件温润色白，出土时已有斑驳沁痕。它是书画卷的构件，原配书画内容在官方记录中没有说明。",
+   "summaryRefs": [
+    "t05-cz-wood-roller-official"
+   ],
+   "sections": [
+    {
+     "title": "先看这根轴",
+     "text": "记录给得很干净：木质，圆柱形，长29厘米，1978年江苏常州武进区村前蒋塘南宋墓出土。轴身上没有画面、没有题字，能看见的只有木料本身的圆整和两端的镶件。",
+     "refs": [
+      "t05-cz-wood-roller-official"
+     ]
+    },
+    {
+     "title": "玉件与沁痕",
+     "text": "馆方描述为两端镶嵌玉质构件，玉件温润色白，出土时已有斑驳沁痕。沁痕来自长期埋藏中矿物与玉材的相互作用，是文物出土时的状态，与它当年在书房里的样子并不相同。玉构件的具体数量与沁痕分布，本条不据AI示意图判断。",
+     "refs": [
+      "t05-cz-wood-roller-official"
+     ]
+    },
+    {
+     "title": "它是整卷书画的一个部件",
+     "text": "卷轴是书画装具的零件之一：轴心承卷，轴头便于持握与旋转。这件器物留存下来的是轴体本身，记录未载画心、题跋、签条与包首的任何信息，也没有说明它原本配的是哪一卷。想复原那卷内容，现有材料不足。",
+     "refs": [
+      "t05-cz-wood-roller-official"
+     ]
+    },
+    {
+     "title": "今天再看",
+     "text": "今天的人看到一根玉轴头，容易先想到它卷起过什么名迹。这种联想很自然，只是没有证据落地：玉料产地、制作工匠、墓号与流转经过都未载。可以让它保留为一个明确的空缺——一件讲究的装具，配着一卷不知道内容的画。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-wood-roller-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土与年代",
+     "text": "1978年江苏常州武进区村前蒋塘南宋墓出土；南宋（1127年—1279年）。",
+     "refs": [
+      "t05-cz-wood-roller-official"
+     ]
+    },
+    {
+     "title": "尺寸与材质",
+     "text": "长29厘米；木质，圆柱形。",
+     "refs": [
+      "t05-cz-wood-roller-official"
+     ]
+    },
+    {
+     "title": "结构",
+     "text": "两端镶嵌玉质构件；玉件温润色白，出土时已有斑驳沁痕。",
+     "refs": [
+      "t05-cz-wood-roller-official"
+     ]
+    },
+    {
+     "title": "馆方评价",
+     "text": "馆方记述卷轴在出土文物中极为罕见，是研究书画用品的实物。",
+     "refs": [
+      "t05-cz-wood-roller-official"
+     ]
+    },
+    {
+     "title": "未载与边界",
+     "text": "原配书画内容未知；玉料产地、工匠、墓号、发现者与流转经过未载；玉构件数量与沁痕细节不据AI示意图判断。",
+     "refs": [
+      "t05-cz-wood-roller-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么卷轴的两端要用玉，而不是全用木？",
+    "answer": "轴头是整卷最常被手触碰、也最容易被架格磕碰的部位。换成更硬更细的玉件，既耐磨，也让卷子两端有一点压手的重量，展开与收卷时更稳。馆方记录只写了材质、颜色与沁痕，没有说明当时的用意，这一层解释属于从器物结构出发的推测。",
+    "refs": [
+     "t05-cz-wood-roller-official"
+    ]
+   },
+   "uncertainty": "原配书画内容未知；玉料产地、制作工匠、墓号、发现者与流转经过未载；玉构件数量与沁痕形态不据AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-silk-brush",
+     "reason": "同为书画用具：一件是承卷的木轴并镶玉端，一件是芦杆作管与套、笔头以细丝捻成的毛笔，可对照木、玉、芦杆与丝线四种用料的差别。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-wood-cane",
+     "reason": "两者都是常州出土的木器：一件是圆柱卷轴并镶玉端，一件是通体雕成竹节状的手杖，可对照圆材加工与榫卯相接两种做法。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-lacquer-brush",
+   "hook": "一把刷毛排成三列八行的小刷",
+   "summary": "常州博物馆藏南宋黑漆刻花竹毛刷，1978年江苏常州武进区村前蒋塘南宋墓出土，长14.8厘米、宽2厘米。竹质长方形，周身髹黑漆，刷柄浅刻花卉纹；刷毛三列八行共二十四束，毛束为黑色猪鬃。馆方依据它与大量梳妆用器同出，解释为修饰仪表的洁具。",
+   "summaryRefs": [
+    "t05-cz-lacquer-brush-official"
+   ],
+   "sections": [
+    {
+     "title": "一手可握的尺寸",
+     "text": "长14.8厘米、宽2厘米，竹质，长方形。这个体量刚好握在掌心里，柄与刷面在同一块材料上做出，没有另接的把手。",
+     "refs": [
+      "t05-cz-lacquer-brush-official"
+     ]
+    },
+    {
+     "title": "黑漆与浅刻",
+     "text": "馆方描述为周身髹黑漆，刷柄部位浅刻花卉纹。黑漆做底，刻线处露出下面较浅的竹色或漆层，纹样因此显出来。花卉的具体样式与刀口深浅，本条不据AI示意图判断。",
+     "refs": [
+      "t05-cz-lacquer-brush-official"
+     ]
+    },
+    {
+     "title": "二十四束毛",
+     "text": "刷毛三列八行，共二十四束，毛束为黑色猪鬃。这个排法在很小的面积上把毛分得整齐，每一束独立受力，刷起来不容易结块。束数与行列依馆方记录，不据图像核对。",
+     "refs": [
+      "t05-cz-lacquer-brush-official"
+     ]
+    },
+    {
+     "title": "用途从哪里来",
+     "text": "馆方解释它为修饰仪表的洁具，依据是这件毛刷与大量梳妆用器一同出土——属伴出组合引起的判断。原主人的身份与具体使用场合都没有写定。今天再看：梳妆用具的功能常常彼此接近，一把小刷在什么场合被拿起来，记录没有交代。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-lacquer-brush-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土与年代",
+     "text": "1978年江苏常州武进区村前蒋塘南宋墓出土；南宋（1127年—1279年）。",
+     "refs": [
+      "t05-cz-lacquer-brush-official"
+     ]
+    },
+    {
+     "title": "尺寸与器形",
+     "text": "长14.8厘米、宽2厘米；竹质，长方形。",
+     "refs": [
+      "t05-cz-lacquer-brush-official"
+     ]
+    },
+    {
+     "title": "髹漆与刻花",
+     "text": "周身髹黑漆；刷柄部位浅刻花卉纹。",
+     "refs": [
+      "t05-cz-lacquer-brush-official"
+     ]
+    },
+    {
+     "title": "刷毛结构",
+     "text": "三列八行共二十四束；毛束为黑色猪鬃。",
+     "refs": [
+      "t05-cz-lacquer-brush-official"
+     ]
+    },
+    {
+     "title": "未载与边界",
+     "text": "洁具用途属伴出组合解释，原主人身份未写定；猪鬃与纹样细节不据AI示意图判断。",
+     "refs": [
+      "t05-cz-lacquer-brush-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "一把小刷上的花卉纹，值得费工去刻吗？",
+    "answer": "值得与否要看它被放在哪里。若它常出现在梳妆的场合，柄上的花卉纹就参与了那套用具的整体观感：黑漆压住颜色，刻线在光下显出花的轮廓。这是装饰与实用叠在同一件小器物上。至于当时的人是否这样理解，记录未载。",
+    "refs": [
+     "t05-cz-lacquer-brush-official"
+    ]
+   },
+   "uncertainty": "洁具用途属伴出组合解释，原主人身份与具体使用场合未载；髹漆层数、猪鬃产地与工艺细节未载；刷毛束数与花卉纹不据AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-red-hairpick",
+     "reason": "同为南宋漆木小器：一件是竹柄黑漆毛刷，一件是八齿朱漆长条器，可对照髹漆与束状、齿状两种结构，后者的用途两说并存。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-pearl-comb",
+     "reason": "两件都与修容相关：一件是黑漆竹柄毛刷，一件是环背镶一排细小珍珠的黄杨木半月梳，可对照漆木与镶珠两种装饰手法。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-chair",
+   "hook": "一把三十厘米高的小椅子",
+   "summary": "常州博物馆藏南宋木椅，1978年江苏常州武进区村前蒋塘南宋墓出土，高30.4厘米，白坯无漆。后背较宽且直，搭脑出头较长，靠背板略弧；椅座采用步步高赶枨，踏脚枨最低、两侧稍高、后枨最高。馆方记述它与木桌同时出土、配套成组，属随葬明器。",
+   "summaryRefs": [
+    "t05-cz-wood-chair-official"
+   ],
+   "sections": [
+    {
+     "title": "尺寸先摆出来",
+     "text": "高30.4厘米。以成人座椅的比例衡量，这个高度落在小腿附近，坐不进去。它白坯无漆，木料的表面就是原来的样子，没有漆层遮住接合与刀痕。",
+     "refs": [
+      "t05-cz-wood-chair-official"
+     ]
+    },
+    {
+     "title": "椅背的几处交代",
+     "text": "馆方记录写得很具体：后背较宽且直，搭脑出头较长，靠背板略弧。搭脑是椅背最上方那根横构件，出头指的是它向两侧伸出的部分。宽而直的背、微弯的靠背板，两者一硬一柔地搭配在一起。",
+     "refs": [
+      "t05-cz-wood-chair-official"
+     ]
+    },
+    {
+     "title": "步步高赶枨",
+     "text": "椅座下方的横枨按高度分层：踏脚枨最低，两侧稍高，后枨最高。这种排法让四条腿在不同高度上被拉住，正面给脚留出空间。枨的具体数量与高差，本条不据AI示意图判断。",
+     "refs": [
+      "t05-cz-wood-chair-official"
+     ]
+    },
+    {
+     "title": "明器与实际使用",
+     "text": "馆方记述木椅与木桌同时出土、配套成组，并解释这反映了南宋木制家具的实际使用情况——这是研究解释。坐者的身份与身高，记录没有说明；按比例缩小的器物不能用来推算真人尺寸。今天再看：它像一份随葬的木作样本，把当时的做法缩印下来。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-wood-chair-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土与年代",
+     "text": "1978年江苏常州武进区村前蒋塘南宋墓出土；南宋（1127年—1279年）。",
+     "refs": [
+      "t05-cz-wood-chair-official"
+     ]
+    },
+    {
+     "title": "尺寸与漆面",
+     "text": "高30.4厘米；白坯无漆。",
+     "refs": [
+      "t05-cz-wood-chair-official"
+     ]
+    },
+    {
+     "title": "椅背",
+     "text": "后背较宽且直；搭脑出头较长；靠背板略弧。",
+     "refs": [
+      "t05-cz-wood-chair-official"
+     ]
+    },
+    {
+     "title": "椅座枨",
+     "text": "采用步步高赶枨：踏脚枨最低，两侧稍高，后枨最高。",
+     "refs": [
+      "t05-cz-wood-chair-official"
+     ]
+    },
+    {
+     "title": "未载与边界",
+     "text": "使用者身份与身高未载；随葬小家具不用于推算成人尺寸；枨的数量与高差不据AI示意图判断。",
+     "refs": [
+      "t05-cz-wood-chair-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么踏脚枨最低、后枨最高？",
+    "answer": "横枨的作用是把几条腿连成一体，位置越高，越能约束腿的上段；而正前方要留出脚的位置，所以踏脚枨放得最低。两侧稍高、后枨最高，是在稳定与使用之间找平衡。这套安排来自木作经验，馆方记录只描述位置，未说明匠人的取舍理由。",
+    "refs": [
+     "t05-cz-wood-chair-official"
+    ]
+   },
+   "uncertainty": "使用者身份与身高未载；墓号、发现者与流转经过未载；木料树种与制作工具未载；枨件数量与高差不据AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-wood-table",
+     "reason": "两件都是随葬小家具：一件是步步高赶枨的直背椅，一件是圆腿长方桌，可对照腿间横枨与榫接的处理方式，尺寸都按比例缩小。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-wood-cane",
+     "reason": "都是木作连接做法的例子：一件是家具腿间的赶枨，一件是把手与杖身的榫卯相接，可对照两处对圆材与接头的不同处理。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-table",
+   "hook": "二十二厘米高的桌子上留着器底印痕",
+   "summary": "常州博物馆藏南宋木桌，1978年江苏常州武进区村前蒋塘南宋墓出土，高22厘米、桌面长27.5厘米、宽23厘米。桌面长方形，白坯无漆，圆柱形腿，腿上端出榫，顺枨一、横枨二。出土时桌面上有明显安放锡明器的器底痕迹，馆方据此解释为随葬供桌。",
+   "summaryRefs": [
+    "t05-cz-wood-table-official"
+   ],
+   "sections": [
+    {
+     "title": "先量这张桌",
+     "text": "高22厘米、桌面长27.5厘米、宽23厘米。白坯无漆，圆柱形腿。桌面不算薄，四条腿的间距与台面尺寸相称，整体是实用家具缩小之后的匀称比例。",
+     "refs": [
+      "t05-cz-wood-table-official"
+     ]
+    },
+    {
+     "title": "榫与枨",
+     "text": "馆方记录：腿上端出榫，顺枨一、横枨二。出榫指的是腿顶伸出的一段榫头，用来与桌面相接；枨是腿与腿之间的横构件，分纵向与横向布置，把四条腿拉成一个稳定的框。枨件的具体数量与位置，本条不据AI示意图核对。",
+     "refs": [
+      "t05-cz-wood-table-official"
+     ]
+    },
+    {
+     "title": "桌面上的痕迹",
+     "text": "出土时桌面上有明显的安放锡明器的器底痕迹。锡明器是随葬用的锡制模型器，器底压在木面上，久了便留下圈痕。痕迹是实物状态，不是图像推测出来的。",
+     "refs": [
+      "t05-cz-wood-table-official"
+     ]
+    },
+    {
+     "title": "供桌之说落在哪里",
+     "text": "馆方解释它应作为供桌使用——依据正是这些器底痕迹，属研究解释。摆的是什么器、按什么次序、有无仪式，记录里都没有，本条也不去补一份祭品清单。今天再看：桌面留下的是一组摆放过的印记。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-wood-table-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土与年代",
+     "text": "1978年江苏常州武进区村前蒋塘南宋墓出土；南宋（1127年—1279年）。",
+     "refs": [
+      "t05-cz-wood-table-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "高22厘米；桌面长27.5厘米、宽23厘米。",
+     "refs": [
+      "t05-cz-wood-table-official"
+     ]
+    },
+    {
+     "title": "器形与结构",
+     "text": "桌面长方形，白坯无漆；圆柱形腿，腿上端出榫；顺枨一、横枨二。",
+     "refs": [
+      "t05-cz-wood-table-official"
+     ]
+    },
+    {
+     "title": "桌面痕迹",
+     "text": "出土时桌面有明显安放锡明器的器底痕迹；馆方据此解释为供桌。",
+     "refs": [
+      "t05-cz-wood-table-official"
+     ]
+    },
+    {
+     "title": "未载与边界",
+     "text": "祭品清单、物主、墓号与木料树种未载；供桌用途为馆方解释；枨件数量不据AI示意图判断。",
+     "refs": [
+      "t05-cz-wood-table-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么小家具上要费工做出榫卯？",
+    "answer": "因为榫卯不需要钉与胶，靠构件彼此的咬合承力，也便于拆装。即便被做成随葬的缩小件，木匠仍沿用了实做的连接办法：腿上出榫接桌面，横枨把腿拉住。这既是工艺习惯，也让模型在外观上贴近真家具。逐次保护修复档案未核。",
+    "refs": [
+     "t05-cz-wood-table-official"
+    ]
+   },
+   "uncertainty": "祭品清单、物主、墓号、发现者与流转经过未载；木料树种与制作工具未载；供桌用途为馆方依据器痕的解释；枨件数量与器底痕迹形状不据AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-wood-chair",
+     "reason": "同为随葬小家具：一件是圆腿长方桌并留器底痕迹，一件是直背椅并作步步高赶枨，可对照桌面与椅座两种构造的处理。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-wood-spoon",
+     "reason": "都是常州出土的木器：一件是榫接的随葬长方桌，一件是楠木勺，可对照大件家具与小件日用器在用料和加工上的区别。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-lacquer-teacup",
+   "hook": "碗、托和圈足连成一体的漆器",
+   "summary": "常州博物馆藏南宋漆托盏，1982年江苏常州武进区村前庄桥头南宋墓出土，高4.5厘米、盏口径6.5厘米、托口径12厘米、底径5.7厘米。木胎；上为敛口小碗，中为圆形托盘，下为圈足，周身髹深褐色漆。馆方描述它造型于凝重中不失清丽，与宋代瓷质托盏相似。",
+   "summaryRefs": [
+    "t05-cz-lacquer-teacup-official"
+   ],
+   "sections": [
+    {
+     "title": "三部分连成一体",
+     "text": "馆方记录拆得很清楚：上为敛口小碗，中为圆形托盘，下为圈足。三者在同一件器物上连续做出，不是分开的两件再叠起来。抬起来是一整件，放下时托盘落在桌面上。",
+     "refs": [
+      "t05-cz-lacquer-teacup-official"
+     ]
+    },
+    {
+     "title": "尺寸与漆色",
+     "text": "高4.5厘米，盏口径6.5厘米，托口径12厘米，底径5.7厘米。托口的直径将近盏口的两倍，托出的那圈边沿正合手指的位置。木胎，周身髹深褐色漆，颜色压得很沉。",
+     "refs": [
+      "t05-cz-lacquer-teacup-official"
+     ]
+    },
+    {
+     "title": "馆方的形制比较",
+     "text": "馆方形容它造型于凝重中不失清丽，并指出与宋代瓷质托盏造型相似——前半是描述，后半是形制之间的比较：同一时期，瓷与漆两种材料都在做带托的盏。记录未说明这两类器物之间是否有直接的联系。器形的各部分，本条不据AI示意图判断。",
+     "refs": [
+      "t05-cz-lacquer-teacup-official"
+     ]
+    },
+    {
+     "title": "托盏与另一件托",
+     "text": "本馆另藏一件带葵花托的托盏，编号、尺寸与本件不同，两者分别计数，不合并为一件。托的设计要点是承稳与隔热：盏底落在托盘上，手拿托沿即可移盏。今天再看的兴趣在于漆匠如何处理盏、托、足三处曲面的接合。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-lacquer-teacup-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土与年代",
+     "text": "1982年江苏常州武进区村前庄桥头南宋墓出土；南宋（1127年—1279年）。",
+     "refs": [
+      "t05-cz-lacquer-teacup-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "高4.5厘米；盏口径6.5厘米；托口径12厘米；底径5.7厘米。",
+     "refs": [
+      "t05-cz-lacquer-teacup-official"
+     ]
+    },
+    {
+     "title": "器形",
+     "text": "上为敛口小碗，中为圆形托盘，下为圈足。",
+     "refs": [
+      "t05-cz-lacquer-teacup-official"
+     ]
+    },
+    {
+     "title": "胎与漆",
+     "text": "木胎；周身髹深褐色漆。",
+     "refs": [
+      "t05-cz-lacquer-teacup-official"
+     ]
+    },
+    {
+     "title": "未载与边界",
+     "text": "饮茶方式、物主、墓号与漆层做法未载；不写成另一件葵花托；与瓷质托盏的相似属形制比较；器形部件不据AI示意图判断。",
+     "refs": [
+      "t05-cz-lacquer-teacup-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "托盘那圈多出来的边沿是做什么的？",
+    "answer": "盏里盛热饮，直接捧盏会烫手；托盘把盏垫高，手指搭在托沿上，受力分散，也稳当。托口径12厘米、盏口径6.5厘米，多出的宽度正好容纳手指。这层解释从尺寸与结构推来，馆方记录只写形制，未载当时的饮茶习惯。",
+    "refs": [
+     "t05-cz-lacquer-teacup-official"
+    ]
+   },
+   "uncertainty": "饮茶方式、物主、墓号、发现者与流转经过未载；漆层道数与髹涂工具未载；与瓷质托盏的相似属形制比较，未载直接关联；器形部件不据AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-petal-dish",
+     "reason": "两件都是南宋漆器：一件把盏、托与圈足合成一体，一件作二十八瓣盘壁，可对照扶托结构与多瓣边缘两种设计。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-black-washer",
+     "reason": "同为南宋木胎漆器：一件是深褐色漆的小托盏，一件是敞口浅腹的黑漆洗，可对照口沿、腹部与圈足的不同处理。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-petal-dish",
+   "hook": "一只盘口开成二十八瓣",
+   "summary": "常州博物馆藏南宋花瓣式漆盘。1983年江苏常州丽华新村工地出土，木胎，敞口，盘壁作二十八瓣花形，平底。高4.5、口径23.5、底径16.5厘米；内髹黑漆，外髹赭色漆，漆层较厚，光润匀和；盘内底朱书“湖州西王上三”六字，馆方摘要称其为作坊铭款。",
+   "summaryRefs": [
+    "t05-cz-petal-dish-official"
+   ],
+   "sections": [
+    {
+     "title": "先看那道花瓣口",
+     "text": "馆方记录写的是：敞口，盘壁为二十八瓣花形，平底。高4.5厘米，口径23.5厘米，底径16.5厘米——浅而宽的一只盘。二十八瓣沿盘壁一周起伏，口沿因此是一圈连续的小弧，边缘的节奏全靠这道起伏。",
+     "refs": [
+      "t05-cz-petal-dish-official"
+     ]
+    },
+    {
+     "title": "黑漆朝里，赭漆朝外",
+     "text": "内髹黑漆，外髹赭色漆，漆层较厚，光润匀和，这几句出自馆方描述。一只盘子有内外两面，两面各用一种颜色：朝上的一面是深黑，朝下与侧面偏赭。木胎先成形，漆再一层层髹上去，厚处因此匀而不薄。",
+     "refs": [
+      "t05-cz-petal-dish-official"
+     ]
+    },
+    {
+     "title": "底心的六个字",
+     "text": "盘内底朱书“湖州西王上三”六字，馆方摘要把这类字称为作坊铭款，属研究解释。字写在盘底，日常盛放时被遮住；它留下的是一个城名与一个名号，指向漆器与作坊之间的关联。字样与瓣数不据AI示意图核对。",
+     "refs": [
+      "t05-cz-petal-dish-official"
+     ]
+    },
+    {
+     "title": "今天再看：记录走到了哪一步",
+     "text": "出土信息记到1983年江苏常州丽华新村工地——工地出土的一件，具体墓号未载，发现者与流转经过同样未知。今天再看这只盘，能确定的是一组尺寸、一种瓣形、两种漆色和六个字；它原本摆在哪里、由谁使用，记录没有回答。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-petal-dish-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与出土",
+     "text": "南宋；1983年江苏常州丽华新村工地出土。",
+     "refs": [
+      "t05-cz-petal-dish-official"
+     ]
+    },
+    {
+     "title": "材质与尺寸",
+     "text": "木胎；高4.5、口径23.5、底径16.5厘米。",
+     "refs": [
+      "t05-cz-petal-dish-official"
+     ]
+    },
+    {
+     "title": "形制",
+     "text": "敞口，盘壁二十八瓣花形，平底。",
+     "refs": [
+      "t05-cz-petal-dish-official"
+     ]
+    },
+    {
+     "title": "漆色",
+     "text": "内髹黑漆，外髹赭色漆，漆层较厚，光润匀和。",
+     "refs": [
+      "t05-cz-petal-dish-official"
+     ]
+    },
+    {
+     "title": "铭款",
+     "text": "盘内底朱书“湖州西王上三”六字；馆方摘要称作坊铭款。",
+     "refs": [
+      "t05-cz-petal-dish-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么作坊把名号写在盘底？",
+    "answer": "盘底朝下，摆放时看不见，盛放时又被器身与食物挡住。标记留在这里，既记下了出处，也不打扰盘面那层黑漆。作坊要人知道东西出自何处，也希望日常使用时几乎注意不到这行字——两件事落在一处。",
+    "refs": [
+     "t05-cz-petal-dish-official"
+    ]
+   },
+   "uncertainty": "具体墓号未载；发现者与流转经过未载；作坊铭款所指匠人的生平未载；瓣数与铭文字样不据AI示意图核对；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-lacquer-teacup",
+     "reason": "同馆南宋漆器：一件是多瓣平底盘，一件由敛口小碗、圆形托盘与圈足相连；看边缘起伏与托扶结构怎样各自成形，也看两件记录的尺寸写法。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-black-washer",
+     "reason": "同为南宋漆器：一件口径23.5厘米、口沿二十八瓣，一件口径27.2厘米、口沿突出唇边；并列看两件的口沿处理与内外漆色差别。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-black-washer",
+   "hook": "一只很宽的浅腹黑漆器，被叫作“洗”",
+   "summary": "常州博物馆藏南宋黑漆洗。1974年江苏常州武进区成章南宋墓出土，木胎，敞口，口沿突出唇边，浅腹微鼓，大假圈足。高7.3、口径27.2、底径19.5厘米；内外均髹黑漆，漆面至今光亮如新。",
+   "summaryRefs": [
+    "t05-cz-black-washer-official"
+   ],
+   "sections": [
+    {
+     "title": "先看唇边与浅腹",
+     "text": "馆方描述为：敞口，口沿突出唇边，浅腹微鼓，大假圈足。口径27.2厘米、高7.3厘米，宽而浅是这只器物的基本比例。口沿向外突出一道唇，端持或倾倒时手有落点；底下的大假圈足把器身稳稳托住。",
+     "refs": [
+      "t05-cz-black-washer-official"
+     ]
+    },
+    {
+     "title": "“洗”这个字与它的用途",
+     "text": "器名作“洗”。洗可以指盛水洗涤之器；也有把这类浅腹宽口的木胎漆器归入文房砚洗的一说，两说并列。本条依馆方摘要的定名与形制描述，采用日常用器一说，砚洗一层留待使用痕迹检测，不宜由器名单独坐实。",
+     "refs": [
+      "t05-cz-black-washer-official"
+     ]
+    },
+    {
+     "title": "内外同一种黑漆",
+     "text": "内外均髹黑漆，漆面至今光亮如新，出自馆方描述。木胎坚固，漆把木质封在下面，颜色只有一种，形状本身就是全部的看头。漆面有没有长期使用的磨痕，记录未载，也不据AI示意图判断。",
+     "refs": [
+      "t05-cz-black-washer-official"
+     ]
+    },
+    {
+     "title": "今天再看：墓里出来的一件家常器",
+     "text": "1974年武进成章南宋墓出土，墓号未载，墓主与随葬组合同样未知。官方原文在“口径”后比摘要多一处顿号，本条按摘要采用口径27.2厘米。今天再看这只洗，能确定的是一件宽口浅腹器、一组尺寸与内外黑漆；它当年是盛水、涤笔还是另有他用，留待检测。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-black-washer-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与出土",
+     "text": "南宋；1974年江苏常州武进区成章南宋墓出土。",
+     "refs": [
+      "t05-cz-black-washer-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "高7.3、口径27.2、底径19.5厘米。",
+     "refs": [
+      "t05-cz-black-washer-official"
+     ]
+    },
+    {
+     "title": "形制",
+     "text": "木胎，敞口，口沿突出唇边，浅腹微鼓，大假圈足。",
+     "refs": [
+      "t05-cz-black-washer-official"
+     ]
+    },
+    {
+     "title": "漆面",
+     "text": "内外均髹黑漆，漆面至今光亮如新。",
+     "refs": [
+      "t05-cz-black-washer-official"
+     ]
+    },
+    {
+     "title": "定名与采用",
+     "text": "器名作“洗”；用途两说并列，本条采用日常用器一说。",
+     "refs": [
+      "t05-cz-black-washer-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "一件器物只有一个名字，为什么这个名字会让人犹豫？",
+    "answer": "“洗”说的是它能盛水洗涤，馆方摘要又提示它可能与文房有关。形制相近而用途不同的器物，在出土记录里常常共用一类名称。要把它们分开，得看使用痕迹——这件器物的痕迹没有公布，名字因此留下了余地。",
+    "refs": [
+     "t05-cz-black-washer-official"
+    ]
+   },
+   "uncertainty": "具体墓号、墓主与随葬组合未载；具体用途与使用痕迹未核；官方原文该处标点与摘要不同，本条按摘要取口径27.2厘米；漆面磨痕不据AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-changzhou-bowl",
+     "reason": "同为南宋黑漆木器：一件口径27.2厘米、浅腹大假圈足，一件口径19厘米、深腹宽圈足且口沿十瓣；并列看两件的腹部深浅与圈足宽窄。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-petal-dish",
+     "reason": "两件宽口漆器：一件口沿突唇、内外同黑，一件平底盘壁二十八瓣、外髹赭色；并列看口沿的两种做法与漆色层数。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-mirror-case",
+   "hook": "一只盒子按镜子的形状做，全长27.3厘米",
+   "summary": "常州博物馆藏南宋剔犀执镜盒。1978年江苏常州武进区村前蒋塘南宋墓出土，木胎，盒造型随执镜形状；通高3.4、长27.3、盒外径16厘米。盒面、柄部及周缘雕八组云纹，堆漆肥厚致密；表面髹黑漆，盒里黄色漆，断面呈朱、黄、黑三色更叠。出土时内置双鱼纹执镜一面。",
+   "summaryRefs": [
+    "t05-cz-mirror-case-official"
+   ],
+   "sections": [
+    {
+     "title": "盒形跟着镜子走",
+     "text": "馆方记录写明：造型随执镜形状；通高3.4、长27.3、盒外径16厘米。执镜一类为带柄镜，属类型背景；盒身因此有圆的一段和细长的一段，27.3厘米对应的正是整面带柄镜的轮廓。",
+     "refs": [
+      "t05-cz-mirror-case-official"
+     ]
+    },
+    {
+     "title": "八组云纹与剔犀",
+     "text": "盒面、柄部及周缘雕八组云纹图案，堆漆肥厚致密，运刀圆润，藏锋回旋——这些描述出自馆方记录。馆方把此器归入剔犀技法，并列为三色漆剔犀的实例，属研究解释。",
+     "refs": [
+      "t05-cz-mirror-case-official"
+     ]
+    },
+    {
+     "title": "断面上的三种颜色",
+     "text": "表面髹黑漆，盒里为黄色漆，断面呈现朱、黄、黑三色更叠。剔犀的做法是在胎上多次髹漆，再以刀剔出图案，漆层的堆叠会在刀口处露出来。层与层的厚度、刀痕的微迹不据AI示意图判断。",
+     "refs": [
+      "t05-cz-mirror-case-official"
+     ]
+    },
+    {
+     "title": "今天再看：盒里那面镜另算一件",
+     "text": "出土时盒内放着一面双鱼纹执镜；镜与盒在馆藏记录里各自成条，本条只写镜盒，镜的纹饰不补绘。墓葬为1978年村前蒋塘南宋墓，墓号未载。今天再看这只盒，能确定的是一组尺寸、八组云纹与三色漆层；它随镜入葬时的摆法，记录没有说明。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-mirror-case-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与出土",
+     "text": "南宋；1978年江苏常州武进区村前蒋塘南宋墓出土。",
+     "refs": [
+      "t05-cz-mirror-case-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "通高3.4、长27.3、盒外径16厘米。",
+     "refs": [
+      "t05-cz-mirror-case-official"
+     ]
+    },
+    {
+     "title": "形制",
+     "text": "木胎；盒造型随执镜形状。",
+     "refs": [
+      "t05-cz-mirror-case-official"
+     ]
+    },
+    {
+     "title": "纹饰与漆层",
+     "text": "盒面、柄部及周缘雕八组云纹；剔犀，表面黑漆、盒里黄漆，断面朱黄黑三色更叠。",
+     "refs": [
+      "t05-cz-mirror-case-official"
+     ]
+    },
+    {
+     "title": "内置与计数",
+     "text": "出土时内置双鱼纹执镜一面；镜与盒分别计数，原镜纹饰不补绘。",
+     "refs": [
+      "t05-cz-mirror-case-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么盒子的断面能看到三种颜色？",
+    "answer": "剔犀要一层层髹漆，再动刀剔刻。刀口切下去，先前堆起的漆层就露在断面，朱、黄、黑依次排开。颜色因此是工序留下的刻度：看断面能数出漆髹过几轮，看表面只见到最后那层黑。",
+    "refs": [
+     "t05-cz-mirror-case-official"
+    ]
+   },
+   "uncertainty": "具体墓号、墓主与随葬组合未载；镜与盒的原始摆放关系未载；云纹刀法与漆层厚度不据AI示意图测量；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-red-rect-box",
+     "reason": "同地区出土的两件南宋漆盒：一件随镜形作圆头长柄、雕漆分层露三色，一件长方形、内黑外朱、细钩戗金；并列看两种装饰手法与器形轮廓。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-gold-lotus-box",
+     "reason": "同馆南宋漆器：一件以剔犀雕云纹、表面黑漆，一件作六出莲瓣筒形、朱漆戗金仕女花卉；并列看分层雕漆与戗金线条两种做法。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-red-rect-box",
+   "hook": "盖面上，一个老人把一串钱挂在杖头",
+   "summary": "常州博物馆藏南宋朱漆戗金人物花卉纹长方盒。1978年江苏常州武进区村前蒋塘南宋墓出土，木胎，长方形，子母口，口内套一浅盘；通高11.6、长15.2、宽8.1厘米。髹漆内黑外朱，细钩戗金为纹；盖面绘一山间老者袒腹荷杖、杖头挂一串钱，远处茅屋好似酒家，盒四周细钩牡丹、茶花、芍药、栀子纹。",
+   "summaryRefs": [
+    "t05-cz-red-rect-box-official"
+   ],
+   "sections": [
+    {
+     "title": "长方形，里头还有一层",
+     "text": "木胎，长方形，子母口，口内套一浅盘。子母口是盖与身相扣的做法；盒里再放一只浅盘，收纳的东西可以分层摆放。通高11.6、长15.2、宽8.1厘米，是能单手托住的大小。",
+     "refs": [
+      "t05-cz-red-rect-box-official"
+     ]
+    },
+    {
+     "title": "盖面上的一天",
+     "text": "馆方描述盖面：一山间老者袒腹荷杖，杖头挂一串钱；远处一茅屋好似酒家。人物、钱串与屋舍组成一个场面，行路、沽酒的意思在读画时最先出来。细部的数目与笔画不据AI示意图辨认。",
+     "refs": [
+      "t05-cz-red-rect-box-official"
+     ]
+    },
+    {
+     "title": "画面与一句古书",
+     "text": "馆方把构图、意境与技法与《晋书·阮修传》“常步行，以百钱挂杖头，至酒店便独酣畅”的句意联系起来，属馆方图像解释。画中老者与阮修之间是取意关系，画面不写作阮修的写实肖像；典故落在盖上，是这层意思的来源。",
+     "refs": [
+      "t05-cz-red-rect-box-official"
+     ]
+    },
+    {
+     "title": "今天再看：盒外的花与盒内的字",
+     "text": "盒四周细钩牡丹、茶花、芍药、栀子纹，髹漆内黑外朱，细钩戗金为纹。盖内朱书“丁酉温州五马鐘念二郎上牢”十二字；纪年“丁酉”未在记录中换算为公元某年，本条保留字样。墓葬为1978年村前蒋塘南宋墓，墓号未载。今天再看这只盒，能确定的是一组尺寸、一层戗金画面与一行朱书；典故所指的那顿饭，仍属解释。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-red-rect-box-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与出土",
+     "text": "南宋；1978年江苏常州武进区村前蒋塘南宋墓出土。",
+     "refs": [
+      "t05-cz-red-rect-box-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "通高11.6、长15.2、宽8.1厘米。",
+     "refs": [
+      "t05-cz-red-rect-box-official"
+     ]
+    },
+    {
+     "title": "形制与结构",
+     "text": "木胎，长方形，子母口，口内套一浅盘。",
+     "refs": [
+      "t05-cz-red-rect-box-official"
+     ]
+    },
+    {
+     "title": "漆饰与花纹",
+     "text": "髹漆内黑外朱，细钩戗金为纹；盒四周细钩牡丹、茶花、芍药、栀子纹。",
+     "refs": [
+      "t05-cz-red-rect-box-official"
+     ]
+    },
+    {
+     "title": "盖面与铭款",
+     "text": "盖面绘老者袒腹荷杖、杖头挂钱，远处茅屋似酒家；盖内朱书“丁酉温州五马鐘念二郎上牢”十二字。",
+     "refs": [
+      "t05-cz-red-rect-box-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么把一句古书的句意画在盒盖上？",
+    "answer": "盒盖是收纳器物上最常被看见的一面。把“百钱挂杖头”的场面放在这里，用的人每次开盒都会遇到它。画面与句子互相点明，一件存放杂物的盒子因此带上文意；其中寄托了什么心思，记录没有说明。",
+    "refs": [
+     "t05-cz-red-rect-box-official"
+    ]
+   },
+   "uncertainty": "具体墓号、墓主与随葬组合未载；典故对应属馆方图像解释；“丁酉”未换算为唯一公元年；人物、钱串与花卉细部不据AI示意图辨认；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-mirror-case",
+     "reason": "同地区出土的两件南宋漆盒：一件长方形、内黑外朱、细钩戗金人物花卉，一件随镜形、雕八组云纹、剔犀露三色漆层；并列看戗金线条与雕漆分层。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-willow-box",
+     "reason": "两件长方形南宋戗金漆盒：一件朱地绘老者与酒家，一件黑地作柳塘小景并錾孔填朱漆；并列看画意、底色与装饰工序的差别。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-willow-box",
+   "hook": "黑漆盖上是一片柳塘",
+   "summary": "常州博物馆藏南宋黑地戗金细钩填柳塘纹长方漆盒。1978年江苏常州武进区村前蒋塘南宋墓出土，木胎，长方形，子母口，口内套一黑漆浅盘；通高11、长15.4、宽8.3厘米。器身黑漆地，细钩戗金；盖面为一幅柳塘小景图，盖四周及立墙细刻山茶、牡丹、菊花、梅花等四季花卉纹，纹饰空隙处以攒犀技法錾孔填朱漆磨光。",
+   "summaryRefs": [
+    "t05-cz-willow-box-official"
+   ],
+   "sections": [
+    {
+     "title": "黑地上的柳塘",
+     "text": "馆方描述盖面为一幅柳塘小景图，远近虚实结合，布局均衡。黑漆做地，细钩戗金的线条落在上面，画面靠线的疏密分出远近，水岸与柳枝都在同一层黑底上。",
+     "refs": [
+      "t05-cz-willow-box-official"
+     ]
+    },
+    {
+     "title": "四季花绕着盒壁",
+     "text": "盖四周及立墙细刻山茶、牡丹、菊花、梅花等四季花卉纹。四时的花沿盒身排一圈，柳塘景只留在盖面；打开盒子之前先遇到的是花，看到画面要等盖子翻过来。",
+     "refs": [
+      "t05-cz-willow-box-official"
+     ]
+    },
+    {
+     "title": "小孔里的朱漆",
+     "text": "在纹饰空隙处采用攒犀技法，錾出许多圆形小孔，内填朱漆加以磨光，这是馆方明列的工序。孔开在纹样之间，填上朱色再磨平，黑地上便多出一层细密的红点。孔的大小与分布不据AI示意图测量。",
+     "refs": [
+      "t05-cz-willow-box-official"
+     ]
+    },
+    {
+     "title": "今天再看：一条温州作坊的款",
+     "text": "盖内朱书“庚申温州丁字桥巷解七叔上牢”十三字；干支“庚申”未在记录中换算为公元某年，本条保留字样。墓葬为1978年村前蒋塘南宋墓，墓号未载。馆方称此盒工艺考究、器身满布纹饰，属研究评价。今天再看这只盒，能确定的是一组尺寸、一片柳塘与十几个字；它当年的用途与物主，记录没有说明。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-willow-box-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与出土",
+     "text": "南宋；1978年江苏常州武进区村前蒋塘南宋墓出土。",
+     "refs": [
+      "t05-cz-willow-box-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "通高11、长15.4、宽8.3厘米。",
+     "refs": [
+      "t05-cz-willow-box-official"
+     ]
+    },
+    {
+     "title": "形制与结构",
+     "text": "木胎，长方形，子母口，口内套一黑漆浅盘。",
+     "refs": [
+      "t05-cz-willow-box-official"
+     ]
+    },
+    {
+     "title": "纹饰",
+     "text": "盖面柳塘小景；盖四周及立墙细刻山茶、牡丹、菊花、梅花等四季花卉纹；器身黑漆地、细钩戗金。",
+     "refs": [
+      "t05-cz-willow-box-official"
+     ]
+    },
+    {
+     "title": "工序与铭款",
+     "text": "纹饰空隙处用攒犀技法錾孔填朱漆磨光；盖内朱书“庚申温州丁字桥巷解七叔上牢”十三字。",
+     "refs": [
+      "t05-cz-willow-box-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么要在花纹的空当里再錾小孔？",
+    "answer": "柳塘与四时花已经占满器身，剩下的是纹样之间的缝隙。在这些小空当里錾孔填朱，黑地上就有了疏疏的红点，画面因此多一层肌理。工序加在不易被注意到的地方，效果却整天看得见。",
+    "refs": [
+     "t05-cz-willow-box-official"
+    ]
+   },
+   "uncertainty": "具体墓号、墓主与随葬组合未载；“庚申”未换算为唯一公元年；攒犀小孔的大小与分布不据AI示意图测量；馆方对工艺的评价属研究表述；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-gold-lotus-box",
+     "reason": "同馆南宋漆器：一件黑地戗金作柳塘小景并錾孔填朱漆，一件朱漆戗金饰仕女人物花卉；并列看两种底色、两种画面与装饰工序的组合。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-red-rect-box",
+     "reason": "两件长方形南宋漆盒尺寸接近：一件长15.2、宽8.1厘米作朱地老者画面，一件长15.4、宽8.3厘米作黑地柳塘；并列看底色与画意安排。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-silk-brush",
+   "hook": "一支芦杆做的毛笔",
+   "summary": "常州博物馆藏南宋毛笔，1978年江苏常州武进区村前蒋塘南宋墓出土，通长26.5厘米。笔杆与笔套用芦杆制作，笔头用细丝捻成，笔头接入笔管的一端用丝带包裹，便于更换。毛笔实物出土较少，馆方记录这一件保存比较完整。",
+   "summaryRefs": [
+    "t05-cz-silk-brush-official"
+   ],
+   "sections": [
+    {
+     "title": "先看它的三部分",
+     "text": "馆方记录把结构交代得很清楚：笔杆、笔套用芦杆制作，笔头用细丝捻成。一支笔在这里分成管、套、头三件。芦杆中空、质轻，做成笔管与笔套都很顺手；细丝捻合之后形成笔头。整支通长26.5厘米。",
+     "refs": [
+      "t05-cz-silk-brush-official"
+     ]
+    },
+    {
+     "title": "丝带包住的那一头",
+     "text": "笔头接入笔管的一端用丝带包裹。馆方说这样便于更换——这句话把使用方式点了出来：笔头可以换，笔管可以继续用。丝带既是固定件，也是可以拆开重绑的接头。",
+     "refs": [
+      "t05-cz-silk-brush-official"
+     ]
+    },
+    {
+     "title": "材质只说细丝",
+     "text": "馆方原文写的是笔头用细丝捻成，没有写毛。示意图由 AI 生成，笔头材料与部件数量不据图判断，这里依据馆方著录。至于为什么用丝，记录没有解释，留待材料检测。",
+     "refs": [
+      "t05-cz-silk-brush-official"
+     ]
+    },
+    {
+     "title": "今天再看这支笔",
+     "text": "毛笔实物出土较少，这一件保存比较完整，这是馆方给出的价值判断。今天再看一支芦杆毛笔，容易想到书房与书写；至于它当年由谁使用、写过什么，官方记录未载，留待后续研究。墓号、发现者与流转经过也未载；逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-silk-brush-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与尺寸",
+     "text": "南宋；通长26.5厘米。",
+     "refs": [
+      "t05-cz-silk-brush-official"
+     ]
+    },
+    {
+     "title": "出土",
+     "text": "1978年江苏常州武进区村前蒋塘南宋墓出土。",
+     "refs": [
+      "t05-cz-silk-brush-official"
+     ]
+    },
+    {
+     "title": "材质",
+     "text": "笔杆、笔套用芦杆制作；笔头用细丝捻成。",
+     "refs": [
+      "t05-cz-silk-brush-official"
+     ]
+    },
+    {
+     "title": "结构",
+     "text": "笔头接入笔管的一端以丝带包裹，便于更换。",
+     "refs": [
+      "t05-cz-silk-brush-official"
+     ]
+    },
+    {
+     "title": "未载",
+     "text": "墓号、发现者、工匠姓名与流转经过未载；动物毛归属未载，材料与部件数量不据示意图判断。",
+     "refs": [
+      "t05-cz-silk-brush-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "一支可以更换笔头的毛笔，说明什么？",
+    "answer": "说明使用者在意笔锋的消耗。笔杆用芦杆，笔头用丝捻，两者寿命不同：管与套可以用很久，笔头磨钝了就得换。丝带包裹的接头因此有了实际意义，把易耗的部分做成可拆装的。这种安排在出土毛笔里少见，馆方也因此说它相当罕见。",
+    "refs": [
+     "t05-cz-silk-brush-official"
+    ]
+   },
+   "uncertainty": "墓号、发现者、流转经过未载；工匠姓名与制作温度未载；笔头细丝的材质来源未载；部件数量与材料不据AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-wood-roller",
+     "reason": "同馆两件南宋文房类遗物：卷轴以木为杆、两端镶玉，毛笔以芦杆为管与套、笔头细丝捻成，比较两类接合做法。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-lacquer-brush",
+     "reason": "南宋两件小工具：毛笔以细丝捻成笔头再用丝带包裹接口，黑漆竹毛刷在竹柄上排出猪鬃束，比较纤维束的固定办法。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-red-hairpick",
+   "hook": "一条朱漆木条，下面有八个长齿",
+   "summary": "常州博物馆藏南宋朱漆发插，1978年江苏常州武进区村前蒋塘南宋墓出土，长11.7、宽1.9厘米。木胎，通体髹朱漆，器作圆弧面扁平长条，插顶透雕“万”字纹，下列八个长齿。馆方将其写作妇女发饰，同时记录有研究者认为它是南宋茶筅实物，用途尚无定论。",
+   "summaryRefs": [
+    "t05-cz-red-hairpick-official"
+   ],
+   "sections": [
+    {
+     "title": "形制交代得清楚",
+     "text": "馆方记录写明：木胎，通体髹朱漆，器呈圆弧面，扁平长条，长11.7、宽1.9厘米。插顶透雕“万”字纹，下面列八个长齿。弧面贴合发髻与手指，长条便于插入；八个长齿是这件器物最引人注意的部分。",
+     "refs": [
+      "t05-cz-red-hairpick-official"
+     ]
+    },
+    {
+     "title": "发插与茶筅，两说并存",
+     "text": "馆方原文先把它写作妇女发饰，并说漆器制品以往出土较少，因此这件发插文物价值较高。同一页面又记录另一种看法：有研究者认为它是南宋茶筅实物，目前尚未有定论。两说并列保留——按发饰理解，它插在发间；按茶筅理解，它用于点茶时击拂茶汤。哪一种成立，记录没有裁定。",
+     "refs": [
+      "t05-cz-red-hairpick-official"
+     ]
+    },
+    {
+     "title": "纹样与齿数怎么读",
+     "text": "插顶的“万”字纹与八齿的说法都来自馆方文字。示意图由 AI 生成，纹样细部与齿数不据图判断，需以实物观察或馆方著录为准。今天再看这类小器，用途之争往往比形状更难定：形状可以量，用法要靠伴随出土情境与文献对照。",
+     "refs": [
+      "t05-cz-red-hairpick-official"
+     ]
+    },
+    {
+     "title": "出处与空白",
+     "text": "地点与年份明确：1978年，江苏常州武进区村前蒋塘南宋墓。墓号、发现者与流转经过，官方记录未载；制作工匠未载。若按茶筅理解，配套茶盏与使用场合记录未载；若按发饰理解，佩用者的身份同样未载。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-red-hairpick-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与尺寸",
+     "text": "南宋；长11.7、宽1.9厘米。",
+     "refs": [
+      "t05-cz-red-hairpick-official"
+     ]
+    },
+    {
+     "title": "出土",
+     "text": "1978年江苏常州武进区村前蒋塘南宋墓出土。",
+     "refs": [
+      "t05-cz-red-hairpick-official"
+     ]
+    },
+    {
+     "title": "胎与漆",
+     "text": "木胎；通体髹朱漆。",
+     "refs": [
+      "t05-cz-red-hairpick-official"
+     ]
+    },
+    {
+     "title": "形制",
+     "text": "圆弧面扁平长条；插顶透雕“万”字纹，下列八个长齿。",
+     "refs": [
+      "t05-cz-red-hairpick-official"
+     ]
+    },
+    {
+     "title": "用途两说",
+     "text": "馆方记作妇女发饰；另有研究者认为属南宋茶筅，尚未定论。",
+     "refs": [
+      "t05-cz-red-hairpick-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "一件小器为什么会有两种完全不同的用途解释？",
+    "answer": "因为形状能提供的线索有限。长条、弧面、八齿，既可以插进发髻，也可以用来击拂茶汤；两种解释各自都有一段生活史支持。定论需要更多证据：伴随器物、使用痕迹或者同类器物的组合关系。在证据到齐之前，两说都能成立，也都不完整。",
+    "refs": [
+     "t05-cz-red-hairpick-official"
+    ]
+   },
+   "uncertainty": "用途尚无定论，发饰与茶筅两说并列；墓号、发现者、流转经过未载；制作工匠未载；纹样与齿数不据AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。发插与茶筅分歧并列保留。",
+   "related": [
+    {
+     "id": "cz-lacquer-brush",
+     "reason": "同馆两件南宋小器：一件在竹柄上排二十四束黑色猪鬃，一件在朱漆木条下刻八个长齿，比较束状与齿状两种结构如何对应不同用途。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-bamboo-comb",
+     "reason": "南宋两件齿状器：竹篦用两片竹梁夹住细齿再以棉线捆绑，朱漆器在整条木料上直接刻出长齿，比较齿的固定方式与材料差别。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-changzhou-bowl",
+   "hook": "碗外壁写着“常州”两个字",
+   "summary": "常州博物馆藏宋代黑漆碗，1984年江苏常州清潭体育场工地出土，高10、口径19、底径10厘米。木胎，直口、深腹、圈足宽大，口沿作十瓣花形；内外髹黑漆，腹外壁朱书“常州嵇嗣上牢”六字，旁有小字“甲戌”年款。",
+   "summaryRefs": [
+    "t05-cz-changzhou-bowl-official"
+   ],
+   "sections": [
+    {
+     "title": "器形与漆层",
+     "text": "馆方记录写明：木胎，直口，深腹，圈足宽大，口沿为十瓣花形。内外都髹黑漆。高10、口径19、底径10厘米。花形口沿给直口添了一点变化，深腹与宽圈足让它在案上站得稳，器形规整大方是馆方的描述。",
+     "refs": [
+      "t05-cz-changzhou-bowl-official"
+     ]
+    },
+    {
+     "title": "腹外壁的字",
+     "text": "腹外壁有朱书“常州嵇嗣上牢”六字，旁边还有小字“甲戌”年款。字写在碗的外壁，不妨碍盛放，又容易被看见，它标记的是产地与作坊。示意图由 AI 生成，字迹内容与笔画不据图判断，这里依据馆方著录。",
+     "refs": [
+      "t05-cz-changzhou-bowl-official"
+     ]
+    },
+    {
+     "title": "甲戌的读法",
+     "text": "“甲戌”是干支纪年，对应宋代不止一个年份。官方记录没有把它换成公元年，这里也不加换算：在没有更多证据时，干支只能提示一个时间范围，不能单独确定到某一年。宋代漆器上出现干支与作坊名，说明这类日用器有明确的制作方与标记习惯，这是文字留下的线索。",
+     "refs": [
+      "t05-cz-changzhou-bowl-official"
+     ]
+    },
+    {
+     "title": "今天再看这只碗",
+     "text": "出土地点明确：1984年江苏常州清潭体育场工地。工地出土意味着它并非经科学发掘的墓葬组合，具体墓号与同出器物情况，官方记录未载。今天再看它，可以把它看作宋代常州本地漆作业的一件实物标记——产地名与作坊名都写在碗上。至于作坊的规模、工匠的生活，记录未载，留待研究。",
+     "refs": [
+      "t05-cz-changzhou-bowl-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代与尺寸",
+     "text": "宋；高10、口径19、底径10厘米。",
+     "refs": [
+      "t05-cz-changzhou-bowl-official"
+     ]
+    },
+    {
+     "title": "出土",
+     "text": "1984年江苏常州清潭体育场工地出土。",
+     "refs": [
+      "t05-cz-changzhou-bowl-official"
+     ]
+    },
+    {
+     "title": "器形",
+     "text": "木胎；直口、深腹、圈足宽大，口沿十瓣花形。",
+     "refs": [
+      "t05-cz-changzhou-bowl-official"
+     ]
+    },
+    {
+     "title": "髹漆与铭文",
+     "text": "内外髹黑漆；腹外壁朱书“常州嵇嗣上牢”六字，旁有小字“甲戌”。",
+     "refs": [
+      "t05-cz-changzhou-bowl-official"
+     ]
+    },
+    {
+     "title": "释读边界",
+     "text": "干支“甲戌”不换算为唯一公元年；字迹与瓣数不据AI示意图判断。",
+     "refs": [
+      "t05-cz-changzhou-bowl-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么把作坊名写在碗的外壁？",
+    "answer": "外壁是取用时最容易看到的位置，写在这里等于让每个拿起碗的人都知道它出自何处。宋代的手工作坊已有明确的标记习惯，产地加作坊加人名，既是质量承诺，也可以理解成一种署名。碗在案上、在人手里，字就在视线里。",
+    "refs": [
+     "t05-cz-changzhou-bowl-official"
+    ]
+   },
+   "uncertainty": "墓号与同出器物情况未载；发现者、流转经过未载；作坊人物生平未载；“甲戌”不换算为唯一公元年；铭文字迹与瓣数不据AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-black-washer",
+     "reason": "同馆两件宋代漆木器：一件是敞口浅腹的黑漆洗，一件是深腹宽圈足的花瓣碗，比较口径、腹部深浅与漆层做法。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-yuan-black-bowl",
+     "reason": "两件带作坊铭款的漆碗：一件外壁朱书常州产地与作坊名，一件外壁朱书含湖州作坊信息，比较铭款的写法与位置。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-paddle",
+   "hook": "一块原木削成的短桨",
+   "summary": "常州博物馆藏新石器时代马家浜文化木桨，1985年江苏常州圩墩遗址出土。通长74、桨面长27.2、残宽6.4厘米。由一整块原木砍削加工而成，桨叶与桨杆一体；桨叶扁平且有缺损，桨杆呈扁圆柱体，把手呈三角形、中间掏空。",
+   "summaryRefs": [
+    "t05-cz-wood-paddle-official"
+   ],
+   "sections": [
+    {
+     "title": "一整块原木",
+     "text": "馆方记录写明：此桨由一整块原木砍削加工而成，桨叶与桨杆连为一体。桨叶扁平，桨杆呈扁圆柱体，方便手持、不易滑动。通长74厘米，桨面长27.2、残宽6.4厘米。短小是它的特点，馆方因此说它短小精悍，实用价值颇高。",
+     "refs": [
+      "t05-cz-wood-paddle-official"
+     ]
+    },
+    {
+     "title": "把手与两道刻线",
+     "text": "把手呈三角形，中间掏空。桨杆靠近把手处有阴刻线两条，馆方疑为系绳之用，这是推测，记录没有给出定论。如果线是用来系绳的，绳子可能绕在把手附近固定桨杆或附加握柄；也可能只是加工留下的痕迹。两种理解都留在这里。",
+     "refs": [
+      "t05-cz-wood-paddle-official"
+     ]
+    },
+    {
+     "title": "缺损处不补写",
+     "text": "桨叶扁平有缺损，官方记录如实写出，未说明缺口的来由与修补情况。示意图由 AI 生成，桨叶轮廓、刻线位置与残损程度不据图判断，需以实物与馆方著录为准。今天再看这件桨，残损本身也是信息：它属于出土状态的一部分，补成完整的桨叶就丢掉了这层证据。",
+     "refs": [
+      "t05-cz-wood-paddle-official"
+     ]
+    },
+    {
+     "title": "出处与空白",
+     "text": "地点与年份明确：1985年，江苏常州圩墩遗址，属新石器时代马家浜文化，约公元前4500年至前3900年。墓号、发现者与流转经过未载；制作温度、工具与工匠姓名未载。馆方提到此桨与木橹同出于圩墩遗址，这是同一遗址的出土关系。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-wood-paddle-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代",
+     "text": "新石器时代马家浜文化，约公元前4500年~前3900年。",
+     "refs": [
+      "t05-cz-wood-paddle-official"
+     ]
+    },
+    {
+     "title": "出土",
+     "text": "1985年江苏常州圩墩遗址出土。",
+     "refs": [
+      "t05-cz-wood-paddle-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "通长74、桨面长27.2、残宽6.4厘米。",
+     "refs": [
+      "t05-cz-wood-paddle-official"
+     ]
+    },
+    {
+     "title": "结构与工艺",
+     "text": "整块原木砍削；桨叶与桨杆一体；桨杆扁圆柱体；把手三角形中空；近把手处阴刻线两条。",
+     "refs": [
+      "t05-cz-wood-paddle-official"
+     ]
+    },
+    {
+     "title": "边界",
+     "text": "桨叶有缺损，不补写为完整器；系绳用途属推测；轮廓与刻线不据AI示意图判断。",
+     "refs": [
+      "t05-cz-wood-paddle-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么桨杆要做成扁圆柱体？",
+    "answer": "为的是握住不打滑。圆杆在手里会转动，扁的形状贴合掌心，用力划水时方向更好控制。把手掏空成三角形，既减轻重量，也让手指有扣住的位置。这些处理都很朴素，却是长期使用之后留下的经验。",
+    "refs": [
+     "t05-cz-wood-paddle-official"
+    ]
+   },
+   "uncertainty": "墓号、发现者、流转经过未载；制作温度、工具与工匠姓名未载；两条阴刻线的系绳用途属推测，未成定论；桨叶缺损的范围与来由未载；轮廓与刻线不据AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-wood-scull",
+     "reason": "同出圩墩遗址的两件木质舟具：木桨整块削成桨叶与桨杆，木橹橹背面斜削、橹尾渐薄，比较工作端与握持端的成形办法。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-wood-cane",
+     "reason": "两件长木器的接合做法：木桨桨叶与桨杆连为一体、整料砍削，木手杖的把手与杖身以榫卯相接，比较整料与分件两条路线。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-scull",
+   "hook": "一根原木砍成的长橹",
+   "summary": "常州博物馆藏新石器时代马家浜文化木橹，1981年江苏常州圩墩遗址出土，长120、最宽18厘米。由较粗大的原木砍削加工而成，橹背面斜削，至橹尾渐薄；橹把与橹面结合处保留宽约4厘米的原木圆体，两边对应处开凿一个长方形凹坑。",
+   "summaryRefs": [
+    "t05-cz-wood-scull-official"
+   ],
+   "sections": [
+    {
+     "title": "砍削出来的形状",
+     "text": "馆方记录写明：由较粗大的原木砍削加工而成，橹背面斜削，至橹尾渐薄。长120、最宽18厘米。馆方从外形结构判断它与现代木橹基本相似，并据此认为当时常州地区的先民已掌握较先进的水上交通技术，这属于馆方的解释。",
+     "refs": [
+      "t05-cz-wood-scull-official"
+     ]
+    },
+    {
+     "title": "结合部的圆体与凹坑",
+     "text": "橹把与橹面结合处，保留了一段宽约4厘米的原木圆体；在两边对应处，各开凿一个长方形凹坑。馆方把这两处写进记录，说明它们在观察中格外清楚。凹坑成对出现、位置对应，可能用于穿绳或固定支撑件；具体装接方式，官方记录没有说明。",
+     "refs": [
+      "t05-cz-wood-scull-official"
+     ]
+    },
+    {
+     "title": "“天下第一橹”的说法",
+     "text": "记录里有一句称誉：因其填补了国内同时代这方面实物资料的空白，被誉为“天下第一橹”。这句话交代了称誉的来由，也说明它属于传播中的评价与称誉，学术上的排他排名并未由此成立。今天再看这类称号，可以把它读成对材料空缺的强调：在同时代的实物里，它出现得早，保存得好。",
+     "refs": [
+      "t05-cz-wood-scull-official"
+     ]
+    },
+    {
+     "title": "出处与空白",
+     "text": "地点与年份明确：1981年，江苏常州圩墩遗址，属新石器时代马家浜文化，约公元前4500年至前3900年。墓号、发现者与流转经过未载；制作温度、工具与工匠姓名未载。木橹与木桨同出于圩墩遗址，这是同一遗址的出土关系。逐次保护修复档案未核。",
+     "refs": [
+      "t05-cz-wood-scull-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "年代",
+     "text": "新石器时代马家浜文化，约公元前4500年~前3900年。",
+     "refs": [
+      "t05-cz-wood-scull-official"
+     ]
+    },
+    {
+     "title": "出土",
+     "text": "1981年江苏常州圩墩遗址出土。",
+     "refs": [
+      "t05-cz-wood-scull-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "长120、最宽18厘米。",
+     "refs": [
+      "t05-cz-wood-scull-official"
+     ]
+    },
+    {
+     "title": "结构与工艺",
+     "text": "较粗原木砍削；橹背面斜削、橹尾渐薄；结合处保留宽约4厘米原木圆体；两侧对应处凿长方形凹坑。",
+     "refs": [
+      "t05-cz-wood-scull-official"
+     ]
+    },
+    {
+     "title": "称誉边界",
+     "text": "“天下第一橹”属传播称誉，不作排他排名；与现代木橹的相似属馆方解释。",
+     "refs": [
+      "t05-cz-wood-scull-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "橹尾为什么要削薄？",
+    "answer": "薄的一端入水阻力小，来回摇动时更省力，也更容易在水里形成推力。厚的一端留在把手附近，承受手上的力量。一根木头因此有了两种性格：靠人的地方结实，靠水的地方轻巧。这种厚薄分配由使用方式决定，与装饰无关。",
+    "refs": [
+     "t05-cz-wood-scull-official"
+    ]
+   },
+   "uncertainty": "墓号、发现者、流转经过未载；制作温度、工具与工匠姓名未载；结合部凹坑的装接用途未载；“天下第一橹”属称誉，不作排他排名；轮廓与凹坑数量不据AI示意图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "cz-wood-paddle",
+     "reason": "同出圩墩遗址的两件木质舟具：木橹橹尾渐薄、结合部留圆体并凿凹坑，木桨桨叶与桨杆一体、把手三角形中空，比较工作端与残损状况。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "cz-trumpet-lacquer",
+     "reason": "同属圩墩遗址出土的马家浜文化器物：木橹以整料砍削成形，喇叭形漆器在器表涂黑色涂料并留有烧灼痕迹，比较两类加工痕迹的读法。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  }
+ ]
+}

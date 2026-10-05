@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-padded-socks",
+  "hook": "一双绢面绵袜",
+  "summary": "中国丝绸博物馆藏明永乐绢面绵袜一双。以绢为面、内衬绵；长22.5厘米、高15.5厘米（官方记录中底长字段空缺）。原物主、出土地与现代修复经过在这条记录中未载。",
+  "summaryRefs": [
+   "t04-csm-padded-socks-official"
+  ],
+  "sections": [
+   {
+    "title": "一双，两只",
+    "text": "官方记录写明：数量1双，该袜一对，绢料为面、内衬绵。这一条按一双计：两只同属一对，不各自独立成件。在明代服饰的出土与传世材料里，成双的袜并不常见，成对保存本身就是信息。",
+    "refs": [
+     "t04-csm-padded-socks-official"
+    ]
+   },
+   {
+    "title": "绢面与衬绵",
+    "text": "外层是绢，里面衬绵。绢是平纹丝织物，平整、贴身；绵提供厚度与保暖。这样的组合在功能上很清楚：把丝织物的舒适与绵的保暖叠在一起。至于绵的种类、层数与缝制方式，官方记录没有写，本条不补。",
+    "refs": [
+     "t04-csm-padded-socks-official"
+    ]
+   },
+   {
+    "title": "尺寸与空缺",
+    "text": "长22.5厘米、高15.5厘米；底长字段在官方记录中空缺。空缺也是信息：它说明这条记录并没有把袜子量全。站内配图是 AI 概括示意，袜形、袜口收束方式与绵的厚薄都不能据图判断。",
+    "refs": [
+     "t04-csm-padded-socks-official"
+    ]
+   },
+   {
+    "title": "穿戴者是谁",
+    "text": "未载。年代定为明永乐，质地为丝，均来自官方登记；而物主、出土地、入藏经过与现代修复经过，官方记录未提供。逐次保护修复档案未核。因此这条只讲“这是一双什么样的袜子”，不讲它是谁的。",
+    "refs": [
+     "t04-csm-padded-socks-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "数量与结构",
+    "text": "1双（一对），绢料为面、内衬绵。",
+    "refs": [
+     "t04-csm-padded-socks-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长22.5厘米、高15.5厘米；底长字段官方空缺。",
+    "refs": [
+     "t04-csm-padded-socks-official"
+    ]
+   },
+   {
+    "title": "时代与质地",
+    "text": "明永乐；丝。",
+    "refs": [
+     "t04-csm-padded-socks-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "物主、出土地、入藏与现代修复经过未载。",
+    "refs": [
+     "t04-csm-padded-socks-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么一双袜子也值得进博物馆？",
+   "answer": "因为它记录了一种穿法。外衣看得见，袜子看不见，却直接反映当时的保暖需求、材料条件与缝制水平。而且丝织品极难保存，成双留存更是少见——它让“当时的脚上穿着什么”这个问题，有了一个可以回答的实物。",
+   "refs": [
+    "t04-csm-padded-socks-official"
+   ]
+  },
+  "uncertainty": "底长等尺寸字段官方空缺；物主、出土地、入藏经过与现代修复经过未载；绵的种类与层数未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；一双计一条。",
+  "related": [
+   {
+    "id": "csm-ruyi-shoes",
+    "reason": "脚上的配套：一双绢面绵袜与一双如意纹缎鞋，比较两者在保暖与外观上的分工。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-padded-trousers",
+    "reason": "同为贴身保暖物：一件绵袜、一条绵裤，比较丝绵组合在不同部位的用法。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-padded-socks-official": {
+   "id": "t04-csm-padded-socks-official",
+   "title": "官方逐件记录：绢面绵袜（itemid=1898）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1898",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明永乐、质地丝、数量1双；该袜一对，绢料为面、内衬绵；长22.5厘米、高15.5厘米（底长字段官方空缺）。未载：物主、出土地、入藏经过与现代修复经过；不构成照片授权。"
+  }
+ }
+}

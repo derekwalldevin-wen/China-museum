@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-marble-bowl",
+  "hook": "胎泥的两种颜色拧在一起",
+  "summary": "深圳博物馆藏唐代绞胎盂，高6.5厘米，1992年由深圳武警边防六支队移交入藏。馆方介绍绞胎工艺：深浅两色胎泥交混成纹，并称盂可能是文房水器，该项用途仍属解释。",
+  "summaryRefs": [
+   "t03-sz-marble-bowl-official"
+  ],
+  "sections": [
+   {
+    "title": "小盂一件",
+    "text": "高6.5厘米，年代定为唐，器类署名盂。盂是盛水器形的通名，本件的口径与容量记录未载，不据 AI 示意图补测。它的小尺寸提示随身或案上使用，这条推断要靠使用痕迹来验证。",
+    "refs": [
+     "t03-sz-marble-bowl-official"
+    ]
+   },
+   {
+    "title": "绞胎怎么看",
+    "text": "馆方介绍绞胎工艺：深浅两色的胎泥交混，纹样随之出现在胎体里，并不止停留在表面。本件胎泥配方与烧成温度未核，纹路的走向也不据 AI 示意图判断。",
+    "refs": [
+     "t03-sz-marble-bowl-official"
+    ]
+   },
+   {
+    "title": "文房水器属可能解释",
+    "text": "馆方称盂可能是文房水器，即砚旁注水之用。这是解释，归属馆方；是否真用于文房，需要笔痕、水垢一类使用痕迹，或同类器物的组合关系来支持，官方记录未提供这些材料。",
+    "refs": [
+     "t03-sz-marble-bowl-official"
+    ]
+   },
+   {
+    "title": "移交经过与今天再看",
+    "text": "1992年由深圳武警边防六支队移交入藏，属现代入藏路径；它此前在哪里、怎样被发现，记录未载。今天再看，绞胎让人注意的是泥料本身成了图案，而不靠笔画上去。",
+    "refs": [
+     "t03-sz-marble-bowl-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "名称与年代",
+    "text": "绞胎盂；馆方定为唐。",
+    "refs": [
+     "t03-sz-marble-bowl-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高6.5厘米。",
+    "refs": [
+     "t03-sz-marble-bowl-official"
+    ]
+   },
+   {
+    "title": "移交",
+    "text": "1992年由深圳武警边防六支队移交入藏。",
+    "refs": [
+     "t03-sz-marble-bowl-official"
+    ]
+   },
+   {
+    "title": "工艺",
+    "text": "馆方介绍深浅色泥交混成纹的绞胎工艺；本件配方与温度未核。",
+    "refs": [
+     "t03-sz-marble-bowl-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "原出土地与移交前经过未载；口径、容量未载；文房用途属解释。",
+    "refs": [
+     "t03-sz-marble-bowl-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "纹样长在胎里，和画在表面有什么不同？",
+   "answer": "表面装饰会磨损，胎体里的色泥跟着器物一起存在，断面也能看到交错。绞胎因此把难度转到泥料准备上：两色泥要拼、要叠，再切片或条使用。这一件具体怎么做，记录只给了工艺名称。",
+   "refs": [
+    "t03-sz-marble-bowl-official"
+   ]
+  },
+  "uncertainty": "胎泥配方与烧成温度未载；原出土地与移交前经过未载；口径与容量未载，不据 AI 示意图补测；文房用途属馆方解释；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "sz-marble-pillow",
+    "reason": "两件都是绞胎器：一件是盂，一件是枕，比较同一类胎纹怎样适配不同器形与面积，看纹路在各自曲面上的呈现。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-paper-cut-bowl",
+    "reason": "两件都靠装饰手法改变器表观感：一件纹样生在胎体里，一件纹样属表面装饰，比较两种做法所处的层位。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-marble-bowl-official": {
+   "id": "t03-sz-marble-bowl-official",
+   "title": "官方逐件记录：绞胎盂（9fcd040894134b7993c577c8be4f4054）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9fcd040894134b7993c577c8be4f4054",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：唐代绞胎盂，高6.5厘米；1992年由深圳武警边防六支队移交；馆方介绍深浅色泥交混成纹的绞胎工艺，并称盂可能是文房水器。未载：本件胎泥配方与烧成温度、原出土地；文房用途属解释；不构成照片授权。"
+  }
+ }
+}

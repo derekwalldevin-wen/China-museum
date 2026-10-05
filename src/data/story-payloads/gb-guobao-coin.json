@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gb-guobao-coin",
+  "hook": "上圆下方的一件钱形铜器",
+  "summary": "中国国家博物馆藏“国宝金匮直万”铜钱。上圆下方，长6.2厘米。馆方记载它传1921年在陕西西安未央宫遗址出土，并把货币、符节、祭祀物等几种用途解释并列。出土信息前保留了“传”字。",
+  "summaryRefs": [
+   "t03-gb-guobao-coin-official"
+  ],
+  "sections": [
+   {
+    "title": "形制与尺寸",
+    "text": "上圆下方：上部是方孔圆钱的形状，下部接一块方形结构，通长6.2厘米。铸造成形的工序没有记录。钱文与下部方形结构的细部，本条不据AI示意图判断。",
+    "refs": [
+     "t03-gb-guobao-coin-official"
+    ]
+   },
+   {
+    "title": "一个“传”字",
+    "text": "馆方写作传1921年在未央宫遗址出土。“传”字标出这条信息的层次：它来自传闻记载。1921年的那次发现有没有留下发掘记录，本条的官方摘录没有给出。把传闻写成发掘档案，就会超出现有材料。",
+    "refs": [
+     "t03-gb-guobao-coin-official"
+    ]
+   },
+   {
+    "title": "用途的几种解释并列",
+    "text": "馆方把它的用途与货币、符节、祭祀物等几种解释并列，这是研究解释的层面。它可能作为货币，也可能属于别的用途，实物流通方式没有记录。把它讲成一枚日常大额支付的钱，材料撑不住。",
+    "refs": [
+     "t03-gb-guobao-coin-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "钱名里带“国宝”与“直万”，听起来像一段传奇。能核的是上圆下方的形制、6.2厘米的长度，以及馆方并列的几种用途解释。其余部分，包括它是否真的在未央宫一带出土，都还留在传闻层面。",
+    "refs": [
+     "t03-gb-guobao-coin-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "形制",
+    "text": "上圆下方：上方孔圆钱形状与下方形结构相接。",
+    "refs": [
+     "t03-gb-guobao-coin-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长6.2厘米。",
+    "refs": [
+     "t03-gb-guobao-coin-official"
+    ]
+   },
+   {
+    "title": "出土记载",
+    "text": "馆方记传1921年在陕西西安未央宫遗址出土。",
+    "refs": [
+     "t03-gb-guobao-coin-official"
+    ]
+   },
+   {
+    "title": "用途解释",
+    "text": "货币、符节、祭祀物等解释并列保留。",
+    "refs": [
+     "t03-gb-guobao-coin-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "发掘记录、实物流通方式与铸造工序未载；钱文不据示意图摹读。",
+    "refs": [
+     "t03-gb-guobao-coin-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么馆方要在出土年份前保留一个“传”字？",
+   "answer": "因为这条出土信息来自传闻，没有可核的发掘记录。保留“传”，信息的层次就一目了然；去掉它，一段传闻会被读成档案事实。材料的来源层次，与研究结论一样要写在明处。",
+   "refs": [
+    "t03-gb-guobao-coin-official"
+   ]
+  },
+  "uncertainty": "出土经过仅记为传、发掘记录未载；用途与实物流通方式无定论；铸造工序与铜料来源未载；钱文与下部方形结构的细部留待检测；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国国家博物馆逐件官方记录补全。出土传闻与用途分歧并列保留。",
+  "related": [
+   {
+    "id": "gb-wuzhu-mould",
+    "reason": "一件是成币、一件是铸钱用的铜范，比较成形器物与制作工具各能提供什么证据，并留意前者用途尚有争议。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gb-dade-coin",
+    "reason": "两件国博青铜钱币：一件上圆下方且用途并列几种解释，一件形制规整、重量明确，比较两类记录留下的空白分别在哪里。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-gb-guobao-coin-official": {
+   "id": "t03-gb-guobao-coin-official",
+   "title": "官方逐件记录：“国宝金匮直万”铜钱（t20181218_25694）",
+   "institution": "中国国家博物馆",
+   "url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25694.shtml",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：上圆下方，长6.2厘米；馆方记传1921年在陕西西安未央宫遗址出土。未载：发掘记录与确切出土经过；钱文不由AI示意图摹读。边界：货币、符节、祭祀物等用途解释并列保留，实物流通方式未载。不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "cz-wood-chopstick",
+  "hook": "一根长27.2厘米的楠木筷，一头稍粗",
+  "summary": "常州博物馆藏元代楠木筷，长27.2厘米，圆柱形、一头稍粗，1976年江苏常州武进区卜弋元墓出土。官网按单件逐条登记，原套数量未明确；本件图像为AI示意图，不用于判断杆身断面与粗细比例。",
+  "summaryRefs": [
+   "t05-cz-wood-chopstick-official"
+  ],
+  "sections": [
+   {
+    "title": "三句话交代一根筷子",
+    "text": "官方逐件记录写得很省：楠木制作，圆柱形，一头稍粗，长27.2厘米。三句话把材质、轮廓和长度交代完。记录里没有纹饰描述，表面处理只用“制作精细”四字概括，这件器物的看点因此落在杆身的匀称与完好上。",
+    "refs": [
+     "t05-cz-wood-chopstick-official"
+    ]
+   },
+   {
+    "title": "出土与定年",
+    "text": "记录给出1976年江苏常州武进区卜弋元墓出土，年代记为元（1271年~1368年）。博物馆定年是本件年代依据。墓号、发现者与流转经过未载，它出自哪一座墓、入藏前经过谁手，仍无记录可查。",
+    "refs": [
+     "t05-cz-wood-chopstick-official"
+    ]
+   },
+   {
+    "title": "一根，还是一双",
+    "text": "官网逐件记录未明确原套数量，长27.2厘米也只对应登记的这一件，馆方描述为单件。这里采用单件记录的说法，理由是登记与具体器物一一对应；同时保留另一种可能：随葬或使用时本就不止一根，只是未见记录，两说并列。",
+    "refs": [
+     "t05-cz-wood-chopstick-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看这根筷子，容易被忽略的是它的保存状况。竹木饮食用具在地下很难留存，馆方以“保存完美”形容，完好本身也是它进入藏品的原因。这类平常物件能提供元代饮食用具的实物线索，属馆方记录给出的价值判断。本件图像为AI示意图，杆身断面与粗细比例不据示意图判断，需核对实物。",
+    "refs": [
+     "t05-cz-wood-chopstick-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "名称与质地",
+    "text": "木筷；楠木制作。",
+    "refs": [
+     "t05-cz-wood-chopstick-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "长27.2厘米。",
+    "refs": [
+     "t05-cz-wood-chopstick-official"
+    ]
+   },
+   {
+    "title": "形制",
+    "text": "圆柱形，一头稍粗。",
+    "refs": [
+     "t05-cz-wood-chopstick-official"
+    ]
+   },
+   {
+    "title": "出土记录",
+    "text": "1976年江苏常州武进区卜弋元墓出土。",
+    "refs": [
+     "t05-cz-wood-chopstick-official"
+    ]
+   },
+   {
+    "title": "未载与不据图",
+    "text": "原套数量、墓号、发现者、流转经过未载；本件图像为AI示意图，不据示意图判断断面形状与粗细比例；逐次保护修复档案未核。",
+    "refs": [
+     "t05-cz-wood-chopstick-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么一根木筷也要单独登记？",
+   "answer": "因为竹木饮食用具的实物本就少见。材质易朽，能留下来的往往是墓内条件较好的例子。一件长度、材质、形制都清楚的木筷，可以当作元代这类器具的参照点；它说明不了谁用过它，却能说明当时有这样一件东西。",
+   "refs": [
+    "t05-cz-wood-chopstick-official"
+   ]
+  },
+  "uncertainty": "原套数量未载；墓号、发现者、流转经过未载；制作工匠与加工工具未载；本件图像为AI示意图，断面与粗细比例需核对实物；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按常州博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cz-wood-spoon",
+    "reason": "同为卜弋元墓出土的楠木饮食用具，一件是细长杆身、一头稍粗的筷，一件是微弧勺柄配扁弧勺头，比较两种入口端的成形办法与保存状况。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cz-wood-cane",
+    "reason": "同为元代木质长杆器物，一件用于取食，一件雕成竹节状供扶握，比较杆身造型与其实际用途之间的距离。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-cz-wood-chopstick-official": {
+   "id": "t05-cz-wood-chopstick-official",
+   "title": "官方逐件记录：木筷（id=415）",
+   "institution": "常州博物馆",
+   "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=415&cid=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：官方逐件记录给出元代定年、楠木质地、圆柱形且一头稍粗、长27.2厘米，并记1976年江苏常州武进区卜弋元墓出土，以“保存完美，制作精细”描述其状况。未载：原套数量未明确，墓号、发现者、随葬组合与流转经过均无记录；不构成照片授权。"
+  }
+ }
+}

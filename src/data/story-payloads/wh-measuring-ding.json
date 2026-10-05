@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "wh-measuring-ding",
+  "hook": "鼎的口沿上铸着它的容量和重量",
+  "summary": "武汉博物馆藏汉代“菅邑家”鼎，青铜质，通高17厘米。器壁口沿处铸有铭文，其中有“菅邑家鼎容一斗重十斤四两”，把容量与重量写在器物自己身上；馆方解释它为度量衡器。",
+  "summaryRefs": [
+   "t05-wh-measuring-ding-official"
+  ],
+  "sections": [
+   {
+    "title": "先看器形与体量",
+    "text": "这是一件青铜鼎，通高17厘米，形制字段作鼎。馆方记录里交代了鼎的两重来历：青铜鼎在商周时期是十分重要的礼器，不仅用以宴飨、祭祀，还有度量的作用。这两层用途在同一器类上并存，这件汉鼎按馆方定名归入度量衡器一类。",
+    "refs": [
+     "t05-wh-measuring-ding-official"
+    ]
+   },
+   {
+    "title": "口沿那行铭文",
+    "text": "馆方记录写明：器壁口沿处铸有铭文，其中有“菅邑家鼎容一斗重十斤四两”。铭文自己报出容量与重量，器物因此既是容器，也是衡量别物的依据。铭文的行款、字数与笔画，这批配图均为AI示意图，不据此核对铭文；铭文内容依馆方逐件记录。",
+    "refs": [
+     "t05-wh-measuring-ding-official"
+    ]
+   },
+   {
+    "title": "古单位与现代数值",
+    "text": "一斗、十斤四两都是汉代单位。馆方没有给出换算，本条也不擅自把它们折成唯一的现代数值：不同时期、不同地区的容量与权衡标准并不一致，硬折一个数字反而会把问题掩盖掉。这层研究留待度量衡学的实测与比较。",
+    "refs": [
+     "t05-wh-measuring-ding-official"
+    ]
+   },
+   {
+    "title": "从礼器到量器",
+    "text": "馆方解释：战国以后铜制度量衡器出现并大量使用，这件汉鼎就是一件度量衡器，为度量衡史研究提供了实物资料。这是馆方解释，属器物功能的类型背景。今天再看，它的分量不在纹饰，而在那行能让后来者与汉代单位对齐的铭文。",
+    "refs": [
+     "t05-wh-measuring-ding-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与材质",
+    "text": "汉代；青铜。",
+    "refs": [
+     "t05-wh-measuring-ding-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "通高17厘米。",
+    "refs": [
+     "t05-wh-measuring-ding-official"
+    ]
+   },
+   {
+    "title": "铭文",
+    "text": "器壁口沿处铸有铭文，其中有“菅邑家鼎容一斗重十斤四两”。",
+    "refs": [
+     "t05-wh-measuring-ding-official"
+    ]
+   },
+   {
+    "title": "性质",
+    "text": "馆方解释为度量衡器；鼎在商周兼有宴飨、祭祀与度量作用，属类型背景。",
+    "refs": [
+     "t05-wh-measuring-ding-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "出土地点与墓号未载；铸造工艺与铜锡配比未载；一斗、十斤四两未换算为现代数值；逐次保护修复档案未核。",
+    "refs": [
+     "t05-wh-measuring-ding-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "容量和重量为什么要铸在器物自己身上？",
+   "answer": "因为器物要被反复使用。铸在口沿，每次取用都能看见，一斗与十斤四两既是规格，也是标准。馆方把它解释为度量衡器，依据正在这行铭文：它让后来的研究者能把汉代的单位与一件实物对应起来。",
+   "refs": [
+    "t05-wh-measuring-ding-official"
+   ]
+  },
+  "uncertainty": "出土地点、墓号与发现经过未载；铸造工艺、铜锡配比与工匠姓名未载；一斗与十斤四两未换算为唯一现代数值；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "wh-pottery-yan",
+    "reason": "器类与用途分别取证：一件青铜鼎在口沿铭出容量与重量，一件陶甗以上下相连的甑与鬲完成蒸煮，比较青铜量器与陶质炊器各自的结构重点。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "wh-yangguang-trigger",
+    "reason": "两件都靠刻铸文字提供关键信息：一件记下容量与重量，一件在板机与臂部刻出制造年份，比较铭文在量器与机件上各自要交代的内容。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-wh-measuring-ding-official": {
+   "id": "t05-wh-measuring-ding-official",
+   "title": "官方逐件记录：“菅邑家”鼎（exhibitId=9035e09f767bcd01680bd5c6a74d3c6c）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/铜器/9035e09f767bcd01680bd5c6a74d3c6c",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：汉代青铜鼎、通高17厘米、口沿铸有铭文“菅邑家鼎容一斗重十斤四两”，属官方逐件记录明列；馆方解释其为度量衡器，并记鼎兼有宴飨、祭祀与度量作用。未载：出土地点、墓号与铸造工艺；古单位不擅自换算为现代唯一数值。不构成照片授权。"
+  }
+ }
+}

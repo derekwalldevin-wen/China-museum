@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-stone-paddle",
+  "hook": "正面有槽、断成两块又粘上的石拍",
+  "summary": "深圳博物馆藏新石器时代条纹石拍，扁薄圆角长方形，正面刻平行凹槽，背面磨光，断成两块后粘合。官网一处记1992年大梅沙遗址，另一处称咸头岭遗址；出土地两说并列保留，具体用途缺少实验资料。",
+  "summaryRefs": [
+   "t03-sz-stone-paddle-official"
+  ],
+  "sections": [
+   {
+    "title": "先看器身的两面",
+    "text": "石拍扁而薄，轮廓是圆角长方形，一只手可以握住。正面刻着平行凹槽，背面磨光。凹槽与磨光是两套不同的表面处理：一套留下定向的线条，一套把石面打磨平整。凹槽的条数与深度，记录未载，也不从示意图点数。",
+    "refs": [
+     "t03-sz-stone-paddle-official"
+    ]
+   },
+   {
+    "title": "断成两块，又粘合",
+    "text": "记录写明它断成两块后粘合。断裂是器物经历的一部分，粘合则是后来的处理；哪一次修复、用什么材料，记录没有交代。看这件器物时，断裂的位置与拼接的痕迹同样值得留意，它们把两段不同的时间留在了同一块石头上。",
+    "refs": [
+     "t03-sz-stone-paddle-official"
+    ]
+   },
+   {
+    "title": "出土地点的两种记法",
+    "text": "官网一处记1992年大梅沙遗址，另一处写作咸头岭遗址，两说并列。两处指向的遗址不同。能确认的是1992年这个年份；具体地点本条不选其一，理由是没有材料能判断哪一处出自逐件页原文。它如何进入博物馆，同样未载。",
+    "refs": [
+     "t03-sz-stone-paddle-official"
+    ]
+   },
+   {
+    "title": "用途为什么不宜写定",
+    "text": "从形状看，它容易让人想到制陶时拍打坯体一类工序，名称里也带一个“拍”字。但没有使用痕迹分析与实验资料，这一用途只能停在可能性上。今天再看，它更像一个待检测的观察对象：凹槽的间距、背面的磨光、断裂的位置，都还留有可以继续做的检测。",
+    "refs": [
+     "t03-sz-stone-paddle-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与类别",
+    "text": "新石器时代；馆方类别登记为杂项，名称指向石器。",
+    "refs": [
+     "t03-sz-stone-paddle-official"
+    ]
+   },
+   {
+    "title": "形态",
+    "text": "扁薄圆角长方形；正面平行凹槽，背面磨光。",
+    "refs": [
+     "t03-sz-stone-paddle-official"
+    ]
+   },
+   {
+    "title": "保存状况",
+    "text": "断成两块后粘合；修复次数与材料未载。",
+    "refs": [
+     "t03-sz-stone-paddle-official"
+    ]
+   },
+   {
+    "title": "出土地点",
+    "text": "官网两种记法：1992年大梅沙遗址与咸头岭遗址，两说并列。",
+    "refs": [
+     "t03-sz-stone-paddle-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "尺寸、出土经过与使用痕迹分析未载；逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-stone-paddle-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "同一件器物出现两个出土地点，该怎么写？",
+   "answer": "把两种记法都写出来，注明来源不同，不让其中一说顶替另一说。年份可以共用，地点先悬置。等到馆方修订记录或找到发掘报告，再作取舍；把不确定留在明处，本身就是准确的一部分。",
+   "refs": [
+    "t03-sz-stone-paddle-official"
+   ]
+  },
+  "uncertainty": "出土地点两说并列待核；尺寸、出土经过与使用痕迹分析未载；制陶等用途缺实验资料；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。出土地点分歧并列保留。",
+  "related": [
+   {
+    "id": "sz-grooved-stone",
+    "reason": "同馆两件早期石器：一件正面是平行凹槽、背面磨光，一件下端有单面刃、上部留打制痕迹，比较凹槽、刃部与加工痕迹，也不把两种工具的用途合成一种。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-stone-adze",
+    "reason": "另一件商周石锛有明确的长度与重量记录，本件连尺寸都未载，两件的记录完整度可以对照，比较器体与刃部之外，资料条件本身的差别同样明显。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-stone-paddle-official": {
+   "id": "t03-sz-stone-paddle-official",
+   "title": "官方逐件记录：条纹石拍（resId=b34b5f7a…）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=b34b5f7a056842ec9467fbb39245ce54",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方定为新石器时代；扁薄圆角长方形；正面平行凹槽，背面磨光；断成两块后粘合。边界：官网一处记1992年大梅沙遗址，另一处称咸头岭遗址，出土地两说并列保留；尺寸与用途实验资料未载；不构成照片授权。"
+  }
+ }
+}

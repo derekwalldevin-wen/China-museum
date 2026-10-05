@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "sz-pottery-well",
+  "hook": "一口二十七厘米半高的陶井",
+  "summary": "深圳博物馆藏战国灰陶井，高27.5厘米，2010年由日本某友好团体捐赠入藏。馆方解释它是随葬用的模型明器，用来反映日常取水设施。捐赠地点属现代入藏记录，原出土地点未载。",
+  "summaryRefs": [
+   "t03-sz-pottery-well-official"
+  ],
+  "sections": [
+   {
+    "title": "缩小的井",
+    "text": "馆方记录里可核的项很清楚：灰陶，年代定为战国，高27.5厘米，器名为井。真井要往地下挖到几米深，这一件却能收在案上，尺寸本身已经说明它是缩小的模型。井栏与支架一类构件在记录里没有逐项说明，它们的形状也不据 AI 示意图判断。",
+    "refs": [
+     "t03-sz-pottery-well-official"
+    ]
+   },
+   {
+    "title": "馆方对用途的解释",
+    "text": "馆方解释为随葬模型明器，反映日常取水设施。这属于解释，归属馆方：把生活里必需的水井缩成陶件随葬，指向的是一套关于墓内继续生活的设想。同类明器在战国各地的使用范围，记录未给。",
+    "refs": [
+     "t03-sz-pottery-well-official"
+    ]
+   },
+   {
+    "title": "捐赠与出土要分开",
+    "text": "2010年由日本某友好团体捐赠深圳博物馆。这条信息说明的是它怎样进入馆藏，与它原先埋在哪里并不相干；原出土地点未载，因此无法凭捐赠情形去推深圳一带的墓葬发现。",
+    "refs": [
+     "t03-sz-pottery-well-official"
+    ]
+   },
+   {
+    "title": "今天再看",
+    "text": "今天再看，这类小陶件的意义不在手艺精细，而在于它把一套地上的设施固定成可以随葬的形状。烧成工艺、陶土来源未载；逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-pottery-well-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "名称与年代",
+    "text": "灰陶井；馆方定为战国。",
+    "refs": [
+     "t03-sz-pottery-well-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高27.5厘米。",
+    "refs": [
+     "t03-sz-pottery-well-official"
+    ]
+   },
+   {
+    "title": "入藏",
+    "text": "2010年由日本某友好团体捐赠深圳博物馆，属现代入藏记录。",
+    "refs": [
+     "t03-sz-pottery-well-official"
+    ]
+   },
+   {
+    "title": "馆方解释",
+    "text": "随葬模型明器，反映日常取水设施；解释归属馆方。",
+    "refs": [
+     "t03-sz-pottery-well-official"
+    ]
+   },
+   {
+    "title": "未载",
+    "text": "原出土地点、烧成工艺未载；构件做法不据示意图判断；逐次保护修复档案未核。",
+    "refs": [
+     "t03-sz-pottery-well-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么墓里要放一口缩小的井？",
+   "answer": "一种思路是让墓内继续保有日常设施，馆方的明器解释正对应这一点。真实取水器具与随葬明器要分开看：前者服务于汲水，后者服务于丧葬安排。当时是否各地都这样做，记录没有回答。",
+   "refs": [
+    "t03-sz-pottery-well-official"
+   ]
+  },
+  "uncertainty": "原出土地点未载；烧成工艺与陶土来源未载；井栏、支架等构件做法未载，不据 AI 示意图判断；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按深圳博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-pottery-courtyard",
+    "reason": "同为随葬缩影：一件是独立的井模型，一件把大门、楼阁、后房与灶井围成院落，比较单件器具与成套空间在体量与组合上的差别。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "sz-pottery-dog",
+    "reason": "两件都是陶质小件：一件是器物模型，一件是动物形象，比较陶塑怎样用有限的高度交代对象的结构与姿态。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t03-sz-pottery-well-official": {
+   "id": "t03-sz-pottery-well-official",
+   "title": "官方逐件记录：灰陶井（ee2444a22e2547df962d3370b7ef1a69）",
+   "institution": "深圳博物馆",
+   "url": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ee2444a22e2547df962d3370b7ef1a69",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：灰陶井定名，馆方定为战国，高27.5厘米；2010年由日本某友好团体捐赠深圳博物馆；馆方解释为随葬模型明器，反映日常取水设施。未载：原出土地点、烧成工艺；捐赠属现代入藏记录，与考古出土地并列区分；不构成照片授权。"
+  }
+ }
+}

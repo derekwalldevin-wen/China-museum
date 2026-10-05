@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "csm-cloud-fragment",
+  "hook": "一块残片，和一句“推断”",
+  "summary": "中国丝绸博物馆藏明代丝织物残片一块。面料采用四合云纹绮；馆方记录该织物已经相当残破，并“推断其原件为寿衣一部分”。这是推断语气，出土墓葬与墓主均未知，本条不据名字复原完整衣物。",
+  "summaryRefs": [
+   "t04-csm-cloud-fragment-official"
+  ],
+  "sections": [
+   {
+    "title": "先说“推断”这两个字",
+    "text": "官方记录的原话是“推断其原件为寿衣一部分”。推断是有依据的猜测，不是结论：依据可能是织物类型、残存形制或同类出土物；而馆方没有把话说死。本条严格跟着这个语气走——不写成“这是一件寿衣”，也不写它属于谁。",
+    "refs": [
+     "t04-csm-cloud-fragment-official"
+    ]
+   },
+   {
+    "title": "四合云纹绮是什么",
+    "text": "面料是“四合云纹绮”。绮属于平纹地上起斜纹花的提花织物；四合云纹是云纹的一种排布方式，四个方向对称展开。纹样与织法都写在官方记录里，至于它在当时的具体使用场合，本条资料没有说明。",
+    "refs": [
+     "t04-csm-cloud-fragment-official"
+    ]
+   },
+   {
+    "title": "它残破到什么程度",
+    "text": "官方描述是“已经相当残破”，登记数量为一块。也就是说，我们手上是织物残片，不是衣服。站内配图是 AI 概括示意，纹样的完整循环、织造密度与残片的实际形状都不能据图判断——残片的边界与经纬方向，必须回到原件。",
+    "refs": [
+     "t04-csm-cloud-fragment-official"
+    ]
+   },
+   {
+    "title": "为什么仍值得看",
+    "text": "因为它保存了一种织物的实物：四合云纹绮的质地、颜色与花纹，在传世纺织品里并不容易见到完整样本。哪怕只剩一块，只要记录清楚它是什么、残到什么程度，它就能进入研究。墓主与完整衣形，属于还不知道的部分。",
+    "refs": [
+     "t04-csm-cloud-fragment-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "数量与状态",
+    "text": "一块，相当残破。",
+    "refs": [
+     "t04-csm-cloud-fragment-official"
+    ]
+   },
+   {
+    "title": "面料",
+    "text": "四合云纹绮；时代明、质地丝。",
+    "refs": [
+     "t04-csm-cloud-fragment-official"
+    ]
+   },
+   {
+    "title": "用途",
+    "text": "馆方推断原件为寿衣一部分（推断语气）。",
+    "refs": [
+     "t04-csm-cloud-fragment-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "墓葬与墓主、完整形制、入藏经过未载。",
+    "refs": [
+     "t04-csm-cloud-fragment-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么博物馆要保留“推断”这样的说法？",
+   "answer": "因为它是诚实的表达。残片能证明的只是它是什么织物、残到什么程度；至于是不是寿衣的一部分，需要更多证据。把推断写成结论，后来的研究者就失去了判断的空间；写下“推断”，后来的人才知道该往哪里去找证据。",
+   "refs": [
+    "t04-csm-cloud-fragment-official"
+   ]
+  },
+  "uncertainty": "寿衣用途为馆方推断；出土墓葬、墓主、完整衣物形制与入藏经过未载；纹样与残片形状不据AI图判断；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；推断语气保留。",
+  "related": [
+   {
+    "id": "csm-padded-trousers",
+    "reason": "明代织物的两种存在形态：一件是可辨形的绵裤，一件是只剩残片的绮，比较完整与残缺对研究的影响。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "csm-long-jacket",
+    "reason": "同为平纹地起花的织物使用：一件做成夹衣，一件只剩残片，比较织物与成衣的关系。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-csm-cloud-fragment-official": {
+   "id": "t04-csm-cloud-fragment-official",
+   "title": "官方逐件记录：四合云纹绮寿衣（itemid=1904）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1904",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明、质地丝、数量一块；该织物已经相当残破，面料采用四合云纹绮；馆方“推断其原件为寿衣一部分”，属推断语气。未载：出土墓葬与墓主、完整衣物形制、入藏经过；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "gsjd-seasonal-ban",
+  "hook": "四时禁：一张上报底稿",
+  "summary": "甘肃简牍博物馆藏东汉初年简牍。1974年出土于甲渠候官遗址第22号房址。馆方将它解释为东汉初年窦融统治河西时期“四时簿”的上报底稿，可用于讨论季节禁令；本条不把它等同于现代环保制度。",
+  "summaryRefs": [
+   "t04-gsjd-seasonal-ban-official"
+  ],
+  "sections": [
+   {
+    "title": "出土地点很具体",
+    "text": "1974年，甲渠候官遗址第22号房址内。甲渠候官是居延边塞体系中的一处候官治所，房址编号说明这枚简是在一处室内空间被发现的——它被存放或遗落在那里，而不是随手扔在野外。这一点由官方记录直接给出。",
+    "refs": [
+     "t04-gsjd-seasonal-ban-official"
+    ]
+   },
+   {
+    "title": "“四时簿”是什么意思",
+    "text": "馆方的解释是：这是东汉初年窦融统治河西时期四时簿的上报底稿。四时指四季；簿是登记册；上报底稿说明它是要往上送的文书的草底。把这些放回当时的行政场景，可以推断这类文书记录的是按季节施行的禁令与相应情况。需要说清：这是研究解释，简册本身未在本条资料里全文公布。",
+    "refs": [
+     "t04-gsjd-seasonal-ban-official"
+    ]
+   },
+   {
+    "title": "别把它读成今天的法规",
+    "text": "官方摘要明确提醒：可讨论季节禁令，但不等同现代环保制度。两者有相似之处——都在特定时段对取用自然资源作出限制；但制度的目的、执行方式与法律地位完全不同。把汉代边塞的一份簿册直接翻译成“环境保护法”，是把现代概念套到古人身上。",
+    "refs": [
+     "t04-gsjd-seasonal-ban-official"
+    ]
+   },
+   {
+    "title": "还没读到的部分",
+    "text": "禁条的具体内容、执行记录、违犯后果，本条资料未载，因此不补。它的价值并不因此减少：在居延出土的行政文书中，能看到“按季节办事”这一类管理方式的存在，本身就已经说明边塞治理有比戍守更细的层面。",
+    "refs": [
+     "t04-gsjd-seasonal-ban-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土",
+    "text": "1974年甲渠候官遗址第22号房址。",
+    "refs": [
+     "t04-gsjd-seasonal-ban-official"
+    ]
+   },
+   {
+    "title": "馆方定性",
+    "text": "东汉初年窦融时期四时簿的上报底稿。",
+    "refs": [
+     "t04-gsjd-seasonal-ban-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "不套用现代法规概念，不把研究解释写成简文原文。",
+    "refs": [
+     "t04-gsjd-seasonal-ban-official"
+    ]
+   },
+   {
+    "title": "未知",
+    "text": "禁条全文、执行记录、违犯处理均未载。",
+    "refs": [
+     "t04-gsjd-seasonal-ban-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么古代边塞要按季节规定哪些事不能做？",
+   "answer": "按馆方的解释，这类簿册与四时禁令有关。边塞的资源有限：林木、草场、水源都要长期使用，什么时候取、取多少，需要有人管。至于当时的具体规定与理由，本条资料没有给出，我们只能说到“存在这样一套按季节施行的管理”。",
+   "refs": [
+    "t04-gsjd-seasonal-ban-official"
+   ]
+  },
+  "uncertainty": "简册全文、禁条内容、执行与违犯记录未载；四时簿的性质为馆方研究解释；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "gsjd-drum-protocol",
+    "reason": "同为边塞管理文书：一份按季节立禁，一份按敲鼓次数分等级接待，比较制度如何把日常事务写成规则。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-chicken-register",
+    "reason": "管理文书与账册的两种面貌：一件讲该禁什么，一件记吃了多少只鸡，比较规章与流水账的差别。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-seasonal-ban-official": {
+   "id": "t04-gsjd-seasonal-ban-official",
+   "title": "官方逐件记录：建武六年毋犯四时禁者书（exhibit_id=40）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=40",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：名称、材质（简牍）、年代（东汉初年）、出土地（1974年甲渠候官遗址第22号房址）与馆方定性（东汉初年窦融统治河西时期四时簿的上报底稿）。馆方对其意义的表述（对研究河西生态保护有重要意义）属研究解释。不含：禁条全文、执行记录与保护修复档案；不构成照片授权。"
+  }
+ }
+}

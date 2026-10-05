@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "gsjd-maquan-gauze",
+  "hook": "细到每厘米64根经线",
+  "summary": "甘肃简牍博物馆藏汉代丝织品。1979年出土于敦煌马圈湾烽燧遗址，出土号79DMT12:062，长13、宽11厘米。馆方识别为湖绿色四经绞罗：经丝密度每厘米64根、纬丝40根，经多织入二梭平绞，呈现横向条状效应。",
+  "summaryRefs": [
+   "t04-gsjd-maquan-gauze-official"
+  ],
+  "sections": [
+   {
+    "title": "什么是四经绞罗",
+    "text": "官方摘录给了一段织物学解释：传统的四经绞罗，以四根经线为一组，左右绞转，形成较大的孔眼；汉代主要盛行无固定绞组型罗。马圈湾这一件是在传统四经绞罗中多织入二梭平绞，于是整块面料出现横向的条状效果。这段话属于馆方研究解释，不是织造现场的记录。",
+    "refs": [
+     "t04-gsjd-maquan-gauze-official"
+    ]
+   },
+   {
+    "title": "数字从哪里来",
+    "text": "经丝密度每厘米64根、纬丝密度每厘米40根，经纬丝均为无拈——这些数字来自馆方研究文本。本条不根据站内 AI 示意图的纹理去验证组织：示意图是概括画法，孔眼大小、光泽与织纹走向都不能当证据。要讨论密度，只能回到馆方的测量。",
+    "refs": [
+     "t04-gsjd-maquan-gauze-official"
+    ]
+   },
+   {
+    "title": "湖绿色，13乘11厘米",
+    "text": "它很小：长13厘米、宽11厘米，颜色被记为湖绿。这样一块残片能留下，靠的是埋藏环境与后来的保护处理。它在马圈湾烽燧出土——同一边塞遗址里既有简牍、也有笔墨，还有丝织品，说明这里的生活用品并不只有粗布与木器。",
+    "refs": [
+     "t04-gsjd-maquan-gauze-official"
+    ]
+   },
+   {
+    "title": "馆方为什么称它少见",
+    "text": "官方摘录说它是“不多见的品种”“少见的精品”。这是馆方的评价，依据是组织与密度。至于它的用途——衣料、包裹还是别的——资料没有说；织造它的工匠与作坊，同样未载。一块残片能确定的，是它的组织、尺寸和出土位置。",
+    "refs": [
+     "t04-gsjd-maquan-gauze-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土信息",
+    "text": "1979年敦煌马圈湾汉代烽燧遗址，出土号79DMT12:062。",
+    "refs": [
+     "t04-gsjd-maquan-gauze-official"
+    ]
+   },
+   {
+    "title": "尺寸与颜色",
+    "text": "长13厘米、宽11厘米；湖绿色。",
+    "refs": [
+     "t04-gsjd-maquan-gauze-official"
+    ]
+   },
+   {
+    "title": "组织",
+    "text": "四经绞罗，多织入二梭平绞，呈横向条状效应。",
+    "refs": [
+     "t04-gsjd-maquan-gauze-official"
+    ]
+   },
+   {
+    "title": "密度",
+    "text": "经丝每厘米64根、纬丝每厘米40根（馆方测量）。",
+    "refs": [
+     "t04-gsjd-maquan-gauze-official"
+    ]
+   },
+   {
+    "title": "不能做的推断",
+    "text": "不用AI图验证组织，不推断用途、工匠与作坊。",
+    "refs": [
+     "t04-gsjd-maquan-gauze-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么要用“绞”的方式织布，而不是简单平织？",
+   "answer": "按馆方研究，绞经会在织物上留下孔眼，并能在传统四经绞罗里通过多织平绞形成横向条状效果——组织一变，面料的透孔与外观就变。至于当时的人具体为了透气、为了好看还是两者兼有，本件资料没有说明，我们不下判断。",
+   "refs": [
+    "t04-gsjd-maquan-gauze-official"
+   ]
+  },
+  "uncertainty": "用途、织造工匠与作坊、丝线产地均未载；组织与密度为馆方研究结论，未经本条复核；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；织物描述属馆方研究解释。",
+  "related": [
+   {
+    "id": "gsjd-maquan-brush",
+    "reason": "同址同年的两类实物：一件是细密到每厘米64根经的罗，一件是竹杆丝线做成的笔——比较边塞遗址里并存的书写与织物，不据此推断同一工坊。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "gsjd-silk-credential",
+    "reason": "同为丝质：一件是织造的残片，一件是写有“张掖都尉棨信”的缯帛，比较织物在同一环境中承担的两种角色。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t04-gsjd-maquan-gauze-official": {
+   "id": "t04-gsjd-maquan-gauze-official",
+   "title": "官方逐件记录：马圈湾丝织品（exhibit_id=47）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=47",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1979年敦煌马圈湾汉代烽燧遗址出土，出土号79DMT12:062；湖绿色四经绞罗，长13、宽11厘米；馆方研究：汉代盛行无固定绞组型罗，此件在传统四经绞罗中多织入二梭平绞、呈横向条状效应；经丝密度每厘米64根、纬丝密度每厘米40根，经纬丝均无拈；馆方称其为少见精品。未载：用途、织造工匠与作坊、丝线产地；组织与密度属馆方研究，不据AI示意验证；不构成照片授权。"
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "story": {
+  "id": "wh-pigsty-latrine",
+  "hook": "厕所与猪圈合在一处的陶模型",
+  "summary": "武汉博物馆藏汉代陶圈厕。1986年在武汉市新洲区红山嘴东汉墓中出土，是汉代墓葬中常见的厕所与养猪积肥相结合的单体方形猪圈厕模型，高23厘米，保存较为完整。它提供生活设施的图像线索，属于随葬明器。",
+  "summaryRefs": [
+   "t05-wh-pigsty-latrine-official"
+  ],
+  "sections": [
+   {
+    "title": "模型的样子",
+    "text": "馆方描述：单体方形，厕所与养猪积肥相结合，高23厘米，保存较为完整。方形与单体是就模型本身说的。它属于随葬明器，供墓中使用，并不承担实用厕所的功能。",
+    "refs": [
+     "t05-wh-pigsty-latrine-official"
+    ]
+   },
+   {
+    "title": "它出土在哪里",
+    "text": "馆方原文写明，这件汉代陶圈厕1986年在武汉市新洲区红山嘴东汉墓中出土。年月、地点与墓葬名称都有记录；墓号、发现者与流转经过未载，因此它在墓中的位置与出土时的组合关系不清楚。",
+    "refs": [
+     "t05-wh-pigsty-latrine-official"
+    ]
+   },
+   {
+    "title": "馆方怎样解释它",
+    "text": "馆方解释为：陶圈厕展示了古代较为科学的养殖方式，也为研究汉代建筑雕塑艺术提供了珍贵的实物资料。前半句是关于养殖方式的评价，后半句是关于雕塑艺术价值的评价，两处都属馆方解释，而不是可以逐项核对的事实。",
+    "refs": [
+     "t05-wh-pigsty-latrine-official"
+    ]
+   },
+   {
+    "title": "今天再看：模型能推到哪里",
+    "text": "一个模型能说明当时的人把厕所与猪圈安排在一处，养猪积肥这件事被当作值得随葬的内容。它推不出当时所有家庭的卫生水平，也推不出这户人家的具体条件。建筑细部与构件不据示意图判断，器物的保护修复档案未核。",
+    "refs": [
+     "t05-wh-pigsty-latrine-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "年代与出土",
+    "text": "汉代；1986年在武汉市新洲区红山嘴东汉墓中出土。",
+    "refs": [
+     "t05-wh-pigsty-latrine-official"
+    ]
+   },
+   {
+    "title": "尺寸",
+    "text": "高23厘米。",
+    "refs": [
+     "t05-wh-pigsty-latrine-official"
+    ]
+   },
+   {
+    "title": "形制",
+    "text": "厕所与养猪积肥相结合的单体方形猪圈厕模型。",
+    "refs": [
+     "t05-wh-pigsty-latrine-official"
+    ]
+   },
+   {
+    "title": "保存状况",
+    "text": "馆方记录写明保存较为完整。",
+    "refs": [
+     "t05-wh-pigsty-latrine-official"
+    ]
+   },
+   {
+    "title": "解释与未载",
+    "text": "养殖方式与雕塑艺术价值的评价属馆方解释；墓号、发现者与流转经过未载；建筑细部不据示意图判断，逐次保护修复档案未核。",
+    "refs": [
+     "t05-wh-pigsty-latrine-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么把猪圈和厕所放进墓里？",
+   "answer": "随葬明器常把生前看重的东西缩小带走，土地、粮食、牲畜与居所都在其中。把厕所和猪圈做成模型，说明这套设施在当时的生活里占着位置。至于这一件属于谁、为何随葬，记录没有交代。",
+   "refs": [
+    "t05-wh-pigsty-latrine-official"
+   ]
+  },
+  "uncertainty": "墓号、发现者与流转经过未载；模型与当时家庭卫生水平之间留有边界；建筑细部与构件不据示意图判断；是否原有附属围栏或院落未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按武汉博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "wh-well-model",
+    "reason": "两件都是随葬建筑模型：一件把厕所与猪圈合成方形单体，一件做出井栏、屋顶与打水的人，可比较模型怎样表达养殖与取水两种场景。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "wh-shield-figure",
+    "reason": "同为随葬明器：一件把日常的厕所与猪圈缩成模型，一件塑出跪姿执盾的武士，可比较生活场景与军事场景各自的表达方式。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t05-wh-pigsty-latrine-official": {
+   "id": "t05-wh-pigsty-latrine-official",
+   "title": "官方逐件记录：陶圈厕（exhibitId=eece3d959ff9dfc768ba57dc9223e0ea）",
+   "institution": "武汉博物馆",
+   "url": "http://www.whmuseum.com.cn/collection/陶瓷/eece3d959ff9dfc768ba57dc9223e0ea",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：汉代、1986年在武汉市新洲区红山嘴东汉墓中出土、高23厘米、厕所与养猪积肥相结合的单体方形猪圈厕模型、保存较为完整；未载：墓号、发现者与流转经过，模型与当时家庭卫生水平之间留有边界，馆方对养殖方式与雕塑艺术的评价属解释；不构成照片授权。"
+  }
+ }
+}

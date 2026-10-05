@@ -1,0 +1,103 @@
+{
+ "story": {
+  "id": "cd-hunting-pot",
+  "hook": "一只壶上有七段画",
+  "summary": "成都博物馆藏战国狩猎纹铜壶。成都青羊小区出土，高41.4厘米，长颈、椭圆腹，两肩各有铺首衔环。器身分七段装饰，馆方辨认出狩猎、羽人仙鹤、三足鸟向日等主题。",
+  "summaryRefs": [
+   "t01-cd-hunting-pot-official"
+  ],
+  "sections": [
+   {
+    "title": "先看器形",
+    "text": "高41.4厘米，长颈、椭圆腹，两肩各有铺首衔环。铺首是衔着圆环的兽面装饰，环可以穿绳提系；这件壶因此既是容器，也是一件可以悬挂或提携的器物。长颈与椭圆腹的比例，让它在放置时显得修长。",
+    "refs": [
+     "t01-cd-hunting-pot-official"
+    ]
+   },
+   {
+    "title": "分七段的图像",
+    "text": "馆方记录写明：器身分七段装饰，并辨认出狩猎、羽人仙鹤、三足鸟向日等主题。分段装饰是这类铜壶的常见办法——用几何纹样作间隔，把不同的场面一层层排布，观者可以自上而下依次看过去。",
+    "refs": [
+     "t01-cd-hunting-pot-official"
+    ]
+   },
+   {
+    "title": "图案说了什么，谁在说",
+    "text": "狩猎、羽人、三足鸟，这些名称来自馆方的辨认。要分清：辨认的是图像主题（画了什么），至于图像背后的信仰或仪式含义，记录没有给出结论。仙鹤与羽人的组合容易让人联想到神仙思想，但把图案演绎成确定的宗教活动，超出了本条资料能支持的范围。",
+    "refs": [
+     "t01-cd-hunting-pot-official"
+    ]
+   },
+   {
+    "title": "还不知道的部分",
+    "text": "出土地点明确为成都青羊小区，但出土年份与发掘经过未载；铸造方法也需要另找研究资料。至于它原本属于谁、随葬在哪座墓里，本条资料没有说明。逐次保护修复档案未核。",
+    "refs": [
+     "t01-cd-hunting-pot-official"
+    ]
+   }
+  ],
+  "details": [
+   {
+    "title": "出土与尺寸",
+    "text": "成都青羊小区出土；高41.4厘米。",
+    "refs": [
+     "t01-cd-hunting-pot-official"
+    ]
+   },
+   {
+    "title": "器形",
+    "text": "长颈、椭圆腹；两肩各有铺首衔环。",
+    "refs": [
+     "t01-cd-hunting-pot-official"
+    ]
+   },
+   {
+    "title": "装饰",
+    "text": "器身分七段；主题含狩猎、羽人仙鹤、三足鸟向日。",
+    "refs": [
+     "t01-cd-hunting-pot-official"
+    ]
+   },
+   {
+    "title": "边界",
+    "text": "主题名依馆方；不作宗教仪式演绎；铸造方法未载。",
+    "refs": [
+     "t01-cd-hunting-pot-official"
+    ]
+   }
+  ],
+  "reflection": {
+   "question": "为什么古人喜欢把画面分成一层一层？",
+   "answer": "因为弧面不好讲故事。壶身是圆的，画面绕一圈就没有明确的起止；用横带把器身分成几段，每一段自成一个小场面，从上往下看等于一页页翻过去。分段是容器逼出来的构图办法。",
+   "refs": [
+    "t01-cd-hunting-pot-official"
+   ]
+  },
+  "uncertainty": "出土年份与发掘经过未载；铸造工艺未载；纹饰含义无结论；物主与墓葬未载；逐次保护修复档案未核。",
+  "correction": "2026年10月新增条目，按成都博物馆逐件官方记录补全。",
+  "related": [
+   {
+    "id": "cd-silkworm-ge",
+    "reason": "同为战国蜀地铜器：一件把图像分层排在壶身上，一件把兽面与蚕形留在兵器上，比较图像在两种器物上的位置。",
+    "type": "curatorial-comparison"
+   },
+   {
+    "id": "cd-bashu-ladle",
+    "reason": "图像空间的两种尺度：一件是成组的分段叙事，一件只在勺内刻下小鱼小鸟，比较画面大小与释读难度。",
+    "type": "curatorial-comparison"
+   }
+  ]
+ },
+ "sources": {
+  "t01-cd-hunting-pot-official": {
+   "id": "t01-cd-hunting-pot-official",
+   "title": "官方逐件记录：狩猎纹铜壶（xianqin/201901/43）",
+   "institution": "成都博物馆",
+   "url": "https://www.cdmuseum.com/xianqin/201901/43.html",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：战国年代；成都青羊小区出土；高41.4厘米，长颈、椭圆腹，两肩各有铺首衔环；器身分七段装饰，馆方辨认出狩猎、羽人仙鹤、三足鸟向日等主题。未载：出土年份与发掘经过；铸造方法需另找研究资料；主题名称依馆方命名，不把图像演绎为确定仪式；不构成照片授权。"
+  }
+ }
+}
