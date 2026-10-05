@@ -332,6 +332,15 @@
       "visualReview": "approved",
       "historicalReview": "pending",
       "reviewNote": "仅审核文字约束内的概括器形、独立画面与无可读伪造文字；图案、人物、数量及原貌细部不作历史证据。"
+    },
+    {
+      "id": "njc-gilded-silver-boxes",
+      "prompt": "Use case: scientific-educational. Museum AI illustration NOT photograph. Two square gilded silver reliquary boxes, large box with trapezoidal roof lid and small flat-lid box, no contents. Two gilded-silver square miniature reliquary boxes, larger with low truncated pyramid trapezoidal roof lid, smaller with flat lid. Closed, no contents, no readable inscriptions, no colored gems. Approximate restrained Buddhist engraving only. Warm ivory square hand-painted full-color archaeological rendering, complete isolated pair with padding, no extra pedestal.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-fee66da6-0351-47f4-910c-504e9563a88c.png",
+      "generatedAt": "2026-10-05T15:18:56.502Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核文字约束内的概括器形、独立画面与无可读伪造文字；图案、人物、数量及原貌细部不作历史证据。"
     }
   ]
 }
