@@ -1,0 +1,1601 @@
+{
+ "museumId": "shenzhen-city",
+ "records": {
+  "sz-proto-he": {
+   "image": {
+    "src": "/artifact-expansion/tranche-01/sz-proto-he-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/19c560726e61bf9e-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/19c560726e61bf9e-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/19c560726e61bf9e-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-01/sz-proto-he-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/15f77c88d19a59cb-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/15f77c88d19a59cb-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/15f77c88d19a59cb-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/15f77c88d19a59cb-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-shufu-bowl": {
+   "image": {
+    "src": "/artifact-expansion/tranche-01/sz-shufu-bowl-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/d9b82d0b42940a95-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/d9b82d0b42940a95-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/d9b82d0b42940a95-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-01/sz-shufu-bowl-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/26ed5f624c9dc0bf-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/26ed5f624c9dc0bf-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/26ed5f624c9dc0bf-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/26ed5f624c9dc0bf-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-tricolor-horse": {
+   "image": {
+    "src": "/artifact-expansion/tranche-01/sz-tricolor-horse-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/69d74dbb0617ac5c-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/69d74dbb0617ac5c-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/69d74dbb0617ac5c-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-01/sz-tricolor-horse-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/a98df067114aedb1-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/a98df067114aedb1-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/a98df067114aedb1-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/a98df067114aedb1-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-black-pot": {
+   "image": {
+    "src": "/artifact-expansion/tranche-01/sz-black-pot-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/df3ba3e082927b83-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/df3ba3e082927b83-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/df3ba3e082927b83-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-01/sz-black-pot-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/357b86f9324387d1-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/357b86f9324387d1-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/357b86f9324387d1-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/357b86f9324387d1-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-bamboo-brushpot": {
+   "image": {
+    "src": "/artifact-expansion/tranche-02/sz-bamboo-brushpot-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/e6224286c23e4021-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/e6224286c23e4021-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/e6224286c23e4021-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-02/sz-bamboo-brushpot-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/9560d28148057066-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/9560d28148057066-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/9560d28148057066-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/9560d28148057066-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-pottery-well": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-pottery-well-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/5105d3e0a839da0a-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/5105d3e0a839da0a-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/5105d3e0a839da0a-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-pottery-well-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/a5eebc69bb381291-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/a5eebc69bb381291-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/a5eebc69bb381291-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/a5eebc69bb381291-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-double-box": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-double-box-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/9254e398e0491525-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/9254e398e0491525-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/9254e398e0491525-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-double-box-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/10f6bf85226af26d-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/10f6bf85226af26d-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/10f6bf85226af26d-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/10f6bf85226af26d-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-incense-burner": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-incense-burner-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/31c3f1bd2dad5b4a-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/31c3f1bd2dad5b4a-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/31c3f1bd2dad5b4a-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-incense-burner-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/77cfe9e8b2376f68-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/77cfe9e8b2376f68-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/77cfe9e8b2376f68-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/77cfe9e8b2376f68-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-marble-bowl": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-marble-bowl-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/97bbb8101779172b-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/97bbb8101779172b-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/97bbb8101779172b-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-marble-bowl-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/1be804952e59f6c9-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/1be804952e59f6c9-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/1be804952e59f6c9-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/1be804952e59f6c9-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-marble-pillow": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-marble-pillow-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/55946c4653218b79-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/55946c4653218b79-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/55946c4653218b79-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-marble-pillow-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/a52005505c908f65-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/a52005505c908f65-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/a52005505c908f65-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/a52005505c908f65-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-pottery-dog": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-pottery-dog-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/95a0b23e5e61026c-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/95a0b23e5e61026c-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/95a0b23e5e61026c-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-pottery-dog-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/3fe27de1a1dc416a-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/3fe27de1a1dc416a-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/3fe27de1a1dc416a-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/3fe27de1a1dc416a-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-ewer-basin": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-ewer-basin-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/09588153802b12b7-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/09588153802b12b7-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/09588153802b12b7-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-ewer-basin-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/71ce0d81b1de75e7-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/71ce0d81b1de75e7-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/71ce0d81b1de75e7-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/71ce0d81b1de75e7-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-oil-lamp": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-oil-lamp-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/1295df51a3b8fc41-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/1295df51a3b8fc41-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/1295df51a3b8fc41-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-oil-lamp-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/6437f2ecfc71aabf-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/6437f2ecfc71aabf-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/6437f2ecfc71aabf-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/6437f2ecfc71aabf-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-inlaid-table": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-inlaid-table-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/c4d5fabe2b05aee0-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/c4d5fabe2b05aee0-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/c4d5fabe2b05aee0-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-inlaid-table-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/0308df0d2392894f-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/0308df0d2392894f-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/0308df0d2392894f-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/0308df0d2392894f-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-stone-paddle": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-stone-paddle-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/5ec08237a5983304-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/5ec08237a5983304-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/5ec08237a5983304-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-stone-paddle-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/bc04d773a97b8615-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/bc04d773a97b8615-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/bc04d773a97b8615-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/bc04d773a97b8615-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-tin-gourd-ewer": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-tin-gourd-ewer-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/5d2a2f41ffe2a77d-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/5d2a2f41ffe2a77d-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/5d2a2f41ffe2a77d-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-tin-gourd-ewer-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/1de26574d73c21d3-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/1de26574d73c21d3-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/1de26574d73c21d3-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/1de26574d73c21d3-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-carved-brushpot": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-carved-brushpot-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/d66ff0ba88bfa261-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/d66ff0ba88bfa261-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/d66ff0ba88bfa261-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-carved-brushpot-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/9915e8bda79dbb45-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/9915e8bda79dbb45-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/9915e8bda79dbb45-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/9915e8bda79dbb45-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-warming-copper-stove": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-warming-copper-stove-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/440f39c507942be8-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/440f39c507942be8-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/440f39c507942be8-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-warming-copper-stove-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/d9331a1e1fb3b25b-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/d9331a1e1fb3b25b-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/d9331a1e1fb3b25b-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/d9331a1e1fb3b25b-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-grooved-stone": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-grooved-stone-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/fda127d36abe2e7d-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/fda127d36abe2e7d-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/fda127d36abe2e7d-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-grooved-stone-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/52570269e916a2fb-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/52570269e916a2fb-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/52570269e916a2fb-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/52570269e916a2fb-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-perforated-shovel": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-perforated-shovel-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/0f3701e45bbcfc61-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/0f3701e45bbcfc61-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/0f3701e45bbcfc61-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-perforated-shovel-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/fc1bab0af0608e47-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/fc1bab0af0608e47-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/fc1bab0af0608e47-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/fc1bab0af0608e47-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-crystal-point": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-crystal-point-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/dc4d2d7e216dc4f5-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/dc4d2d7e216dc4f5-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/dc4d2d7e216dc4f5-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-crystal-point-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/1cd619ec4b3ed3d1-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/1cd619ec4b3ed3d1-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/1cd619ec4b3ed3d1-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/1cd619ec4b3ed3d1-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-stone-adze": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-stone-adze-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/79de9212817c789c-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/79de9212817c789c-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/79de9212817c789c-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-stone-adze-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/bfbdfc866e66fbb5-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/bfbdfc866e66fbb5-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/bfbdfc866e66fbb5-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/bfbdfc866e66fbb5-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-paper-cut-bowl": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-paper-cut-bowl-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/eed3975fd188e871-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/eed3975fd188e871-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/eed3975fd188e871-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-paper-cut-bowl-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/16c153a72697bef4-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/16c153a72697bef4-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/16c153a72697bef4-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/16c153a72697bef4-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-yue-box": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-yue-box-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/863568e033f9bf3a-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/863568e033f9bf3a-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/863568e033f9bf3a-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-yue-box-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/999336f15ffbe366-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/999336f15ffbe366-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/999336f15ffbe366-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/999336f15ffbe366-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-white-dragon-ewer": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-white-dragon-ewer-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/fe16f215258f1248-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/fe16f215258f1248-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/fe16f215258f1248-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-white-dragon-ewer-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/02cec051c4999b6b-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/02cec051c4999b6b-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/02cec051c4999b6b-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/02cec051c4999b6b-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-tricolor-flat-flask": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-tricolor-flat-flask-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/17bad482644e1638-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/17bad482644e1638-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/17bad482644e1638-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-tricolor-flat-flask-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/834cca254818233e-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/834cca254818233e-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/834cca254818233e-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/834cca254818233e-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-celadon-ewer": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-celadon-ewer-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/725628fa348c7549-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/725628fa348c7549-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/725628fa348c7549-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-celadon-ewer-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/c6707c30389a5e09-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/c6707c30389a5e09-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/c6707c30389a5e09-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/c6707c30389a5e09-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-changsha-ewer": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/sz-changsha-ewer-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/488471f5e644b936-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/488471f5e644b936-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/488471f5e644b936-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/sz-changsha-ewer-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/7ce867262f3334c9-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/7ce867262f3334c9-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/7ce867262f3334c9-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/7ce867262f3334c9-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  }
+ }
+}

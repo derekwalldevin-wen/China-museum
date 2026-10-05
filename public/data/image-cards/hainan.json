@@ -1,0 +1,86 @@
+{
+ "museumId": "hainan",
+ "records": {
+  "hain-hgj": {
+   "image": {
+    "src": "/artifacts/hain-hgj.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/cb9f02b8b0042552-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/cb9f02b8b0042552-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/cb9f02b8b0042552-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "hain-lj": {
+   "image": {
+    "src": "/artifacts/hain-lj.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/2b3aa901a69d4faf-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/2b3aa901a69d4faf-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/2b3aa901a69d4faf-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "hain-hhl": {
+   "image": {
+    "src": "/artifacts/hain-hhl.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/bdfcacf20dbf5bb8-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/bdfcacf20dbf5bb8-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/bdfcacf20dbf5bb8-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  }
+ }
+}

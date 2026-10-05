@@ -1,0 +1,1917 @@
+{
+ "records": {
+  "cd-hunting-pot": {
+   "src": "/artifact-expansion/tranche-01/cd-hunting-pot-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-01/cd-hunting-pot-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/xianqin/201901/43.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-01/cd-hunting-pot-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/xianqin/201901/43.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/xianqin/201901/43.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-silkworm-ge": {
+   "src": "/artifact-expansion/tranche-01/cd-silkworm-ge-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-01/cd-silkworm-ge-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/xianqin/201901/42.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-01/cd-silkworm-ge-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/xianqin/201901/42.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/xianqin/201901/42.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-bashu-ladle": {
+   "src": "/artifact-expansion/tranche-01/cd-bashu-ladle-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-01/cd-bashu-ladle-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/xianqin/201909/992.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-01/cd-bashu-ladle-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/xianqin/201909/992.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/xianqin/201909/992.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-stone-rhino": {
+   "src": "/artifact-expansion/tranche-01/cd-stone-rhino-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-01/cd-stone-rhino-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/xianqin/201909/991.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-01/cd-stone-rhino-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/xianqin/201909/991.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/xianqin/201909/991.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-lacquer-dou": {
+   "src": "/artifact-expansion/tranche-02/cd-lacquer-dou-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/cd-lacquer-dou-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/xianqin/201901/41.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/cd-lacquer-dou-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/xianqin/201901/41.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/xianqin/201901/41.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-meridian-lacquer-model": {
+   "src": "/artifact-expansion/tranche-02/cd-meridian-lacquer-model-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/cd-meridian-lacquer-model-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://cdmuseum.com/xinwen/202109/2453.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/cd-meridian-lacquer-model-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://cdmuseum.com/xinwen/202109/2453.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://cdmuseum.com/xinwen/202109/2453.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-comic-figure": {
+   "src": "/artifact-expansion/tranche-03/cd-comic-figure-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-comic-figure-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:54:03.128Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/lianghan/201901/48.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-comic-figure-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:54:03.128Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/lianghan/201901/48.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/lianghan/201901/48.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-stone-bear": {
+   "src": "/artifact-expansion/tranche-03/cd-stone-bear-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-stone-bear-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:48:30.694Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/lianghan/201901/47.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-stone-bear-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:48:30.694Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/lianghan/201901/47.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/lianghan/201901/47.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-chenghan-figure": {
+   "src": "/artifact-expansion/tranche-03/cd-chenghan-figure-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-chenghan-figure-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:48:52.354Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/lianghan/201901/44.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-chenghan-figure-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:48:52.354Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/lianghan/201901/44.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/lianghan/201901/44.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-pottery-courtyard": {
+   "src": "/artifact-expansion/tranche-03/cd-pottery-courtyard-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-pottery-courtyard-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:49:15.513Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/tangsong/201901/52.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-pottery-courtyard-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:49:15.513Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/tangsong/201901/52.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/tangsong/201901/52.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-qiong-kiln-censer": {
+   "src": "/artifact-expansion/tranche-03/cd-qiong-kiln-censer-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-qiong-kiln-censer-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:49:44.532Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/tangsong/201901/51.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-qiong-kiln-censer-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:49:44.532Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/tangsong/201901/51.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/tangsong/201901/51.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-bronze-chess": {
+   "src": "/artifact-expansion/tranche-03/cd-bronze-chess-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-bronze-chess-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:54:35.753Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/tangsong/201901/50.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-bronze-chess-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:54:35.753Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/tangsong/201901/50.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/tangsong/201901/50.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-ding-child-pillow": {
+   "src": "/artifact-expansion/tranche-03/cd-ding-child-pillow-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-ding-child-pillow-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:08:38.201Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/tangsong/201901/49.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-ding-child-pillow-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:08:38.201Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/tangsong/201901/49.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/tangsong/201901/49.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-gold-hairpin": {
+   "src": "/artifact-expansion/tranche-03/cd-gold-hairpin-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-gold-hairpin-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:55:17.029Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/60.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-gold-hairpin-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:55:17.029Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/60.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/mq/201901/60.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-agate-snuff-bottle": {
+   "src": "/artifact-expansion/tranche-03/cd-agate-snuff-bottle-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-agate-snuff-bottle-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:55:45.213Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/59.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-agate-snuff-bottle-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:55:45.213Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/59.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/mq/201901/59.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-peacock-bowl": {
+   "src": "/artifact-expansion/tranche-03/cd-peacock-bowl-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-peacock-bowl-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:56:05.311Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/58.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-peacock-bowl-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:56:05.311Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/58.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/mq/201901/58.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-ge-ewer": {
+   "src": "/artifact-expansion/tranche-03/cd-ge-ewer-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-ge-ewer-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:08:59.036Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/57.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-ge-ewer-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:08:59.036Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/57.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/mq/201901/57.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-bat-vase": {
+   "src": "/artifact-expansion/tranche-03/cd-bat-vase-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-bat-vase-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:56:55.572Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/56.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-bat-vase-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:56:55.572Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/56.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/mq/201901/56.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-dragon-belt-hook": {
+   "src": "/artifact-expansion/tranche-03/cd-dragon-belt-hook-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-dragon-belt-hook-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:57:17.395Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/55.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-dragon-belt-hook-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:57:17.395Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/55.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/mq/201901/55.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-attendant-figure": {
+   "src": "/artifact-expansion/tranche-03/cd-attendant-figure-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-attendant-figure-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:56:34.858Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/54.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-attendant-figure-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:56:34.858Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/mq/201901/54.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/mq/201901/54.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cd-beast-lei": {
+   "src": "/artifact-expansion/tranche-03/cd-beast-lei-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/cd-beast-lei-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:56:57.559Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/xianqin/201901/40.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/cd-beast-lei-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:56:57.559Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.cdmuseum.com/xianqin/201901/40.html",
+        "credit": "成都博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.cdmuseum.com/xianqin/201901/40.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  }
+ },
+ "delivery": {
+  "cd-hunting-pot": {
+   "src": "/artifact-expansion/tranche-01/cd-hunting-pot-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f2a8fd92f6a7b9a6-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/f2a8fd92f6a7b9a6-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/f2a8fd92f6a7b9a6-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-silkworm-ge": {
+   "src": "/artifact-expansion/tranche-01/cd-silkworm-ge-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/998b35e45b1c22c5-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/998b35e45b1c22c5-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/998b35e45b1c22c5-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-bashu-ladle": {
+   "src": "/artifact-expansion/tranche-01/cd-bashu-ladle-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/51833a95c610bbe0-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/51833a95c610bbe0-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/51833a95c610bbe0-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-stone-rhino": {
+   "src": "/artifact-expansion/tranche-01/cd-stone-rhino-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/16374ed864533576-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/16374ed864533576-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/16374ed864533576-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-lacquer-dou": {
+   "src": "/artifact-expansion/tranche-02/cd-lacquer-dou-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/bd9fac1fe84eeb71-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/bd9fac1fe84eeb71-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/bd9fac1fe84eeb71-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-meridian-lacquer-model": {
+   "src": "/artifact-expansion/tranche-02/cd-meridian-lacquer-model-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1523e88dc091c13f-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/1523e88dc091c13f-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1523e88dc091c13f-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-comic-figure": {
+   "src": "/artifact-expansion/tranche-03/cd-comic-figure-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/45abe543c6c091f4-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/45abe543c6c091f4-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/45abe543c6c091f4-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-stone-bear": {
+   "src": "/artifact-expansion/tranche-03/cd-stone-bear-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/25ac5a818bf6fa22-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/25ac5a818bf6fa22-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/25ac5a818bf6fa22-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-chenghan-figure": {
+   "src": "/artifact-expansion/tranche-03/cd-chenghan-figure-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ecc05f196078727d-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/ecc05f196078727d-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/ecc05f196078727d-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-pottery-courtyard": {
+   "src": "/artifact-expansion/tranche-03/cd-pottery-courtyard-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/061e1570b6ae73e9-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/061e1570b6ae73e9-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/061e1570b6ae73e9-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-qiong-kiln-censer": {
+   "src": "/artifact-expansion/tranche-03/cd-qiong-kiln-censer-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/aab69fb2d2b8f9fd-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/aab69fb2d2b8f9fd-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/aab69fb2d2b8f9fd-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-bronze-chess": {
+   "src": "/artifact-expansion/tranche-03/cd-bronze-chess-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/e98d61fce3816a9f-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/e98d61fce3816a9f-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/e98d61fce3816a9f-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-ding-child-pillow": {
+   "src": "/artifact-expansion/tranche-03/cd-ding-child-pillow-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/e8f62eef9eab3ce5-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/e8f62eef9eab3ce5-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/e8f62eef9eab3ce5-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-gold-hairpin": {
+   "src": "/artifact-expansion/tranche-03/cd-gold-hairpin-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/cb2fd651549ed7cd-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/cb2fd651549ed7cd-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/cb2fd651549ed7cd-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-agate-snuff-bottle": {
+   "src": "/artifact-expansion/tranche-03/cd-agate-snuff-bottle-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/33d2b36d9ed1e12c-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/33d2b36d9ed1e12c-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/33d2b36d9ed1e12c-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-peacock-bowl": {
+   "src": "/artifact-expansion/tranche-03/cd-peacock-bowl-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d12a00210b2191e7-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/d12a00210b2191e7-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/d12a00210b2191e7-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-ge-ewer": {
+   "src": "/artifact-expansion/tranche-03/cd-ge-ewer-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/3964a87e1dfdd0ea-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/3964a87e1dfdd0ea-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/3964a87e1dfdd0ea-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-bat-vase": {
+   "src": "/artifact-expansion/tranche-03/cd-bat-vase-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/570a7055b645bcc2-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/570a7055b645bcc2-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/570a7055b645bcc2-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-dragon-belt-hook": {
+   "src": "/artifact-expansion/tranche-03/cd-dragon-belt-hook-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/311b04501da1de7e-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/311b04501da1de7e-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/311b04501da1de7e-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-attendant-figure": {
+   "src": "/artifact-expansion/tranche-03/cd-attendant-figure-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/051a1bbbbdaaabd9-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/051a1bbbbdaaabd9-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/051a1bbbbdaaabd9-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cd-beast-lei": {
+   "src": "/artifact-expansion/tranche-03/cd-beast-lei-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7278884cd4c647db-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/7278884cd4c647db-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7278884cd4c647db-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

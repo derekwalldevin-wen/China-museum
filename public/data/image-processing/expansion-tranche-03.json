@@ -1,0 +1,1629 @@
+{
+  "version": "expansion-tranche-03-20261004",
+  "generator": "OpenAI built-in imagegen",
+  "note": "原始文件为AI生成，不是馆藏照片；网页派生仅缩放编码。历史细节未核，不能用于认读纹饰或铭文。",
+  "items": [
+    {
+      "id": "cd-comic-figure",
+      "prompt": "Use case: historical-scene. Asset: independent AI conceptual illustration for a museum catalogue, NOT a photograph of the real collection. Subject: East Han terracotta comic performer, Chengdu Museum 陶俳优俑: seated on a round cushion, headscarf, bare torso and trousered legs, barefoot; left hand holds a small drum, right fist raised as if with a drumstick, right foot kicks outward, left foot curled, head lifted with broad laughing expression. Full object alone centered on warm off-white paper background, realistic sculpted earthen material, muted brown, soft diffuse museum-like light and gentle shadow, coherent elegant catalogue style. No labels, text, watermark, people or extra props. Do not invent readable inscriptions. This is approximate educational visualization; exact facial details and surface condition are not claimed. Square composition, entire silhouette visible with generous margins.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-comic-figure.png",
+      "generatedAt": "2026-10-04T09:54:03.128Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "bb68245931b032cf1a63b6f70df0757b4912e1345fdf41a9e6b511dfa26439f7",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-comic-figure-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "3979017df7fdcd6f8ac96af1641cccac173ea0eee99c6ee26a4d67224ea91084",
+          "bytes": 68933,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-comic-figure-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "45abe543c6c091f4f7c1cadcb86d2f8fc9fdd3f6ffc2e0198ba7b52d1c440e50",
+          "bytes": 211294,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-stone-bear",
+      "prompt": "Use case: historical-scene. Independent AI educational object illustration for Huaxia museum catalogue, NOT original collection photography. Scene: warm off-white paper background, entire object centered with generous margins, realistic material render, softly diffused lighting and mild shadow, elegant restrained muted catalogue style, square framing. Subject: East Han carved stone bear, squat sitting posture, rear paws on ground, left forepaw on knee and right forepaw placed behind head, open mouth, small ears, visible round socket at shoulder. Grey weathered stone, subtle traces of muted red near ears and mouth. Constraints: no text, labels, watermark, museum logos, humans, extra props or readable inscriptions. Exact ornament, corrosion, shape details are approximate, never scientific reconstruction.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-stone-bear.png",
+      "generatedAt": "2026-10-04T09:48:30.694Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "a1aa988133295cc795bff4dbc06647b9c170172a7dfe6aa433f1229498bb0e22",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-stone-bear-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "6165626b521bff0652f60d7223a896bde68a8de340610de5b651d8ec08487d7e",
+          "bytes": 87869,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-stone-bear-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "25ac5a818bf6fa2241dd66a2aff32c2f2e558c9fdb66da2f85a2f23c2888fcd3",
+          "bytes": 278557,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-chenghan-figure",
+      "prompt": "Use case: historical-scene. Independent AI educational object illustration for Huaxia museum catalogue, NOT original collection photography. Scene: warm off-white paper background, entire object centered with generous margins, realistic material render, softly diffused lighting and mild shadow, elegant restrained muted catalogue style, square framing. Subject: Cheng-Han terracotta whistle-playing figure, expressive protruding eyes, broad mouth and large ears, wearing simple cap, hands held near mouth holding a small whistle. Muted earthen clay. Not caricatured ethnic portrait; approximate form, no claimed original facial likeness. Constraints: no text, labels, watermark, museum logos, humans, extra props or readable inscriptions. Exact ornament, corrosion, shape details are approximate, never scientific reconstruction.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-chenghan-figure.png",
+      "generatedAt": "2026-10-04T09:48:52.354Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "20b404f3e5b5338b520bb4de3c98dc23b06945c46b96653a0469f90526d9a5f3",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-chenghan-figure-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "def9cb7a3f98b3c124a011655058e33e3bd62a1c43309dca1ea4ff345f20f203",
+          "bytes": 62543,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-chenghan-figure-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "ecc05f196078727d17a6de38515feff36884410419df3215b768df533e3f67fa",
+          "bytes": 203006,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-pottery-courtyard",
+      "prompt": "Use case: historical-scene. Independent AI educational object illustration for Huaxia museum catalogue, NOT original collection photography. Scene: warm off-white paper background, entire object centered with generous margins, realistic material render, softly diffused lighting and mild shadow, elegant restrained muted catalogue style, square framing. Subject: Five Dynasties Later Shu terracotta architectural courtyard model, enclosing gate, side towers and rear rooms, central pavilion, small model stove and well, a few tiny attendant forms. Muted clay with subtle remnants of paint. Overall architectural concept only, not a measured reconstruction of Zhao Tingyin's actual residence; no modern highrise or fantasy palace. Constraints: no text, labels, watermark, museum logos, humans, extra props or readable inscriptions. Exact ornament, corrosion, shape details are approximate, never scientific reconstruction.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-pottery-courtyard.png",
+      "generatedAt": "2026-10-04T09:49:15.513Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "5301ac7e2ecc21deccc1952ef1105f648bd512a5eb7edccc53a61eb1e90cac50",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-pottery-courtyard-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "2f8b5182d8fa2c71bef68a44dc8ab3c6800c4e1d498785f040da9af820ea12f6",
+          "bytes": 115262,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-pottery-courtyard-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "061e1570b6ae73e9bde058dc7c31e49c8ea388a30b709a5282491d4675e908d1",
+          "bytes": 357690,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-qiong-kiln-censer",
+      "prompt": "Use case: historical-scene. Independent AI educational object illustration for Huaxia museum catalogue, NOT original collection photography. Scene: warm off-white paper background, entire object centered with generous margins, realistic material render, softly diffused lighting and mild shadow, elegant restrained muted catalogue style, square framing. Subject: Late Tang to Five Dynasties Qiong kiln ceramic incense burner WITHOUT lid: shallow bowl on tall stem foot like a dou vessel, yellow-glazed rim and foot, three overlapping tiers of raised curled lotus petals on green glazed body. Only abstract small relief accents on petals, no invented readable details. Constraints: no text, labels, watermark, museum logos, humans, extra props or readable inscriptions. Exact ornament, corrosion, shape details are approximate, never scientific reconstruction.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-qiong-kiln-censer.png",
+      "generatedAt": "2026-10-04T09:49:44.532Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "157b696cca93d5584fd68f3bc5f69b16ad9fd07ca7a24b44ab814502b94d06f8",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-qiong-kiln-censer-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "4316da8718e36d7efc184962f4fc1a2248479b799a24fd51c738fb66012ce891",
+          "bytes": 76713,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-qiong-kiln-censer-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "aab69fb2d2b8f9fd5f28947544cf45b3c23fd4c4f7e21815aef48abb36d0bc7d",
+          "bytes": 235429,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-bronze-chess",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT photography of an original collection artifact. Full subject alone centered against warm ivory paper, generous margins, realistic sculpted material, muted earth palette, soft diffuse light and gentle shadow, coherent elegant catalogue aesthetic, square image. Subject: A group of small round aged bronze chess counters loosely arranged, no board, worn blank faces rather than invented readable characters; conceptual group not exact original count arrangement. Constraints: no text, labels, watermark, logos, human visitors, extra props or readable inscriptions. Ornament and condition are approximate, not a measured replica. Never invent legible historical characters.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-bronze-chess.png",
+      "generatedAt": "2026-10-04T09:54:35.753Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "484f00a7d79077f107c6746776f5433d5c773e21ac33792ca67dbd632d89558b",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-bronze-chess-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "9feb94da7b8f64e8aaecf8d658494cf5e62af49e0afa9d9d522f08f68d4ba2e0",
+          "bytes": 84431,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-bronze-chess-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "e98d61fce3816a9fbc60fa21d98af319719b850aca54fbc9585a445bd0218a4c",
+          "bytes": 267182,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-ding-child-pillow",
+      "prompt": "Independent AI educational object illustration, not an original museum photograph or measured replica. Square composition on warm ivory paper, whole object centered with generous margins, softly lit, muted colours, coherent elegant museum catalogue style. An ivory-glazed ceramic pillow with a small fully clothed reclining ceramic attendant supporting an elevated flat pillow pad. Plain undecorated pottery surface, no flowers or painted motifs. Sculptural educational approximation. No text, logos, watermarks or readable inscriptions. Do not invent details; simplify unknown decoration.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-ding-child-pillow.png",
+      "generatedAt": "2026-10-04T10:08:38.201Z",
+      "iterationNote": "Rejected first version for unsupported floral decoration; simplified revision.",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "023ef4bd06667c761c03d35add2d66593c0c8ed7c3e31069af0c85060381e751",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-ding-child-pillow-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "bc48fabb76362b86b5c3149288d30c1a1e3cbfa4c749d634712da076cc6709bc",
+          "bytes": 45975,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-ding-child-pillow-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "e8f62eef9eab3ce544e0769a0dc0c2719241b2c52b38e1edccffc5ca52ec26cc",
+          "bytes": 140379,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-gold-hairpin",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT photography of an original collection artifact. Full subject alone centered against warm ivory paper, generous margins, realistic sculpted material, muted earth palette, soft diffuse light and gentle shadow, coherent elegant catalogue aesthetic, square image. Subject: Small delicate gold hairpin with thin openwork cloud-like abstract longevity ornament, no readable copied character. Constraints: no text, labels, watermark, logos, human visitors, extra props or readable inscriptions. Ornament and condition are approximate, not a measured replica. Never invent legible historical characters.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-gold-hairpin.png",
+      "generatedAt": "2026-10-04T09:55:17.029Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "54340ec146ff3351c13fc1629fc7aecda11ed03a743f6a8f8fd7c59cd284f9a2",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-gold-hairpin-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "11405d08f2bf81925430e377de96df7fb07eb5c7c1123ae7b69bdea91b7d084d",
+          "bytes": 45845,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-gold-hairpin-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "cb2fd651549ed7cdfce1b11c1f376f94f51238b52c37b63969ba5ed170824dda",
+          "bytes": 171074,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-agate-snuff-bottle",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT photography of an original collection artifact. Full subject alone centered against warm ivory paper, generous margins, realistic sculpted material, muted earth palette, soft diffuse light and gentle shadow, coherent elegant catalogue aesthetic, square image. Subject: Small flattened agate snuff bottle, mottled honey and cream stone with understated abstract carved relief, short neck; no exact figure replication. Constraints: no text, labels, watermark, logos, human visitors, extra props or readable inscriptions. Ornament and condition are approximate, not a measured replica. Never invent legible historical characters.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-agate-snuff-bottle.png",
+      "generatedAt": "2026-10-04T09:55:45.213Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "4471b61002a2d3599e73934ba24c160c89f222934f82a9b60ae119dce4c909c4",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-agate-snuff-bottle-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "2e6564c294f37bef8958ef6c4665144506a3dec7990a75bfba72b27fa41be98a",
+          "bytes": 57072,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-agate-snuff-bottle-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "33d2b36d9ed1e12c11fe98901accb5e3bfb3d480cfc0a2035de0080f9a656b35",
+          "bytes": 175153,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-peacock-bowl",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT photography of an original collection artifact. Full subject alone centered against warm ivory paper, generous margins, realistic sculpted material, muted earth palette, soft diffuse light and gentle shadow, coherent elegant catalogue aesthetic, square image. Subject: Simple shallow ceramic bowl with luminous turquoise peacock-blue glaze and subtle fine crackle. Constraints: no text, labels, watermark, logos, human visitors, extra props or readable inscriptions. Ornament and condition are approximate, not a measured replica. Never invent legible historical characters.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-peacock-bowl.png",
+      "generatedAt": "2026-10-04T09:56:05.311Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "e972a42943bbbf0de6af19adc7354211f2661ccd6eea0ce269980d6c0d27da0f",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-peacock-bowl-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "b90704baf26ba90ad9188888457e69d4f5e6a445ca9dc3a66d87e1bea3ecfef0",
+          "bytes": 69285,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-peacock-bowl-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "d12a00210b2191e753a9f45cd6acfe5ab6d99e46074b190afb6fc03afcc5a9a5",
+          "bytes": 211232,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-ge-ewer",
+      "prompt": "Independent AI educational object illustration, not an original museum photograph or measured replica. Square composition on warm ivory paper, whole object centered with generous margins, softly lit, muted colours, coherent elegant museum catalogue style. A plain octagonal ceramic ewer, grey-green glossy crackle glaze, curved spout and handle, entirely undecorated facets, no flowers, no relief motifs, no marks. No text, logos, watermarks or readable inscriptions. Do not invent details; simplify unknown decoration.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-ge-ewer.png",
+      "generatedAt": "2026-10-04T10:08:59.036Z",
+      "iterationNote": "Rejected first version for unsupported floral decoration; simplified revision.",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "5656bf437da624ba995a5c503ec64ebd869fec403976bdae3c5359c7bb78b35a",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-ge-ewer-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "911eae4b1cc86cbb219866b913fb57e060eb476a212dcc4d49a1398ce23e28b1",
+          "bytes": 57204,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-ge-ewer-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "3964a87e1dfdd0eaca2f9cb4891d7542ceaf008fe03d131750b5269206d61de8",
+          "bytes": 194361,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-bat-vase",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT photography of an original collection artifact. Full subject alone centered against warm ivory paper, generous margins, realistic sculpted material, muted earth palette, soft diffuse light and gentle shadow, coherent elegant catalogue aesthetic, square image. Subject: Qing porcelain reward-vase silhouette, soft pastel clouds and small bat-like ornament, floral shoulder band, white ground, approximate decoration. Constraints: no text, labels, watermark, logos, human visitors, extra props or readable inscriptions. Ornament and condition are approximate, not a measured replica. Never invent legible historical characters.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-bat-vase.png",
+      "generatedAt": "2026-10-04T09:56:55.572Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "4e0d35abc3d7596f3730466d8f7f2fc87767455d3792d3b09cc58bd0a5092f2d",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-bat-vase-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "a419a7ba25063ccada572a410ced2e98a4099f662141fee2461c94c7ff6d3114",
+          "bytes": 76943,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-bat-vase-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "570a7055b645bcc2a63e1bceafc034d402effe1f9c4ff747663ef76127298271",
+          "bytes": 239095,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-dragon-belt-hook",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT photography of an original collection artifact. Full subject alone centered against warm ivory paper, generous margins, realistic sculpted material, muted earth palette, soft diffuse light and gentle shadow, coherent elegant catalogue aesthetic, square image. Subject: Pale jade elongated belt hook, larger dragon-head hook and smaller dragon relief on shaft, restrained carving. Constraints: no text, labels, watermark, logos, human visitors, extra props or readable inscriptions. Ornament and condition are approximate, not a measured replica. Never invent legible historical characters.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-dragon-belt-hook.png",
+      "generatedAt": "2026-10-04T09:57:17.395Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "e51dffbf7cfc9b002e6b096be3cac1e4448de4a2de30baa6703968bbba8be660",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-dragon-belt-hook-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "ce0a9a03a4da92fb346db56273e7448b65a976445d543be5cbb075323c994e62",
+          "bytes": 45535,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-dragon-belt-hook-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "311b04501da1de7ea3a5dc521549894fafd6dfdb6598de50b030d9b7b5a9540c",
+          "bytes": 154457,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-attendant-figure",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Standing terracotta attendant in sky-blue glazed narrow-sleeved robe, round hat, unglazed face and hands, one hand raised, other at belt, square blue base. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-attendant-figure.png",
+      "generatedAt": "2026-10-04T09:56:34.858Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "ba0154073bd4ca24f262498b06272cffa0432dda803aa541f2c03aadf097a69e",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-attendant-figure-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "bdc0321f3f9867002efd86ab5ce11a09a3f3dc4717e17cdd0598c53fe36445fa",
+          "bytes": 45042,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-attendant-figure-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "051a1bbbbdaaabd976789d73337ad81b8cdeba1875b51fc5827f6a2ce1704d15",
+          "bytes": 141531,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-beast-lei",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Large Western Zhou bronze lei jar with broad shoulders and two beast-head handles, subdued dark patina, no invented inscription. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "assets/expansion/originals/tranche-03/cd-beast-lei.png",
+      "generatedAt": "2026-10-04T09:56:57.559Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "944f410db3debbd10bafdcf86d384b9f5eae626f784810a55d71547cea0e42f8",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/cd-beast-lei-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "ce5e03ad91aab6cb7c27127571e104345dfdfae2560b5d006b76be6b2805609c",
+          "bytes": 97207,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/cd-beast-lei-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "7278884cd4c647db2d2c9d1e7198b9ee996a4c8ad8e6c27254a9da4554c14a6d",
+          "bytes": 307063,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-pottery-well",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: A grey terracotta miniature well model, cylindrical well wall with modest upright support frame; conceptual form, no modern machinery. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-pottery-well.png",
+      "generatedAt": "2026-10-04T09:57:17.084Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "8e31ba1b035488c54f90d6f325cd9502f293801fee42ee024f391fc517caa60e",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-pottery-well-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "5105d3e0a839da0ae80b1f859ab727a32ecfa76401c567e5ad145fdf2418a832",
+          "bytes": 61770,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-pottery-well-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "a5eebc69bb38129116f946343df4d17af90f5765e111c1811c54cb7685fd9d08",
+          "bytes": 208282,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-double-box",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Small pale bluish-white glazed ceramic nesting boxes, outer round lidded box with smaller inset box, subtle abstract impressed ornament. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-double-box.png",
+      "generatedAt": "2026-10-04T09:57:44.309Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "2062dc9d0ff1b0813068c5908cf86e2f07ef148c47e49aebc29eb56126b7f9ff",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-double-box-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "9254e398e04915256887bfbd9ff91e8843c05e8d5d8dbb5b78e78e64c94f28af",
+          "bytes": 48682,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-double-box-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "10f6bf85226af26dc056cfdfca5d19952702d34b60480e05750871d8f71f46b0",
+          "bytes": 160546,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-incense-burner",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Pale blue-white ceramic incense burner with pierced rounded cover and footed lower bowl, abstract openings, no burning incense. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-incense-burner.png",
+      "generatedAt": "2026-10-04T09:58:11.466Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "577204773ca5d20e23a47fc749fe9f5ae0e1dffd43e556cecc54c686b1054260",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-incense-burner-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "31c3f1bd2dad5b4a2bfe3af5bbf5221a435bd93da9cd47ff6d3367db27427450",
+          "bytes": 47693,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-incense-burner-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "77cfe9e8b2376f68960e3510655980a49038d85b815c98393800131424e102ae",
+          "bytes": 146883,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-marble-bowl",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Small rounded marbled-clay ceramic water vessel with narrow opening, brown and cream interwoven clay pattern under light glaze. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-marble-bowl.png",
+      "generatedAt": "2026-10-04T09:58:30.544Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "555f301ab45151fb560f32d654b87b5f0fa9735663c0eb8242893ccdc0edbb66",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-marble-bowl-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "97bbb8101779172bee34acc8e0ec27966e1209aec258a053b3b1456d36e685bd",
+          "bytes": 69654,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-marble-bowl-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "1be804952e59f6c92707e00bf386e4be85adb509327f0d7c2bde2b9b2477e179",
+          "bytes": 214098,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-marble-pillow",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Low rectangular ceramic pillow with softened corners, green glaze over marbled brown and cream clay pattern. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-marble-pillow.png",
+      "generatedAt": "2026-10-04T09:58:51.683Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "b51675d740086905191ecdc7eb0505da93e6501362a615fe251ba44dc8fc3dad",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-marble-pillow-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "55946c4653218b79a12d4b6e4d4dc739f99fa6a02c07703d28a1c3fb4b025ed7",
+          "bytes": 69557,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-marble-pillow-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "a52005505c908f655c5e7e84b2717ec89de8ef197dd70c46779ea4e1450db302",
+          "bytes": 227825,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-pottery-dog",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Han brown-glazed terracotta dog, squat watchful posture, earthen sculpted surface, no modern collar or leash. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-pottery-dog.png",
+      "generatedAt": "2026-10-04T09:59:11.513Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "ecbf42d0bbe1641093b9e2b74300f05572b421c95853e22e6f123e7772969f5f",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-pottery-dog-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "95a0b23e5e61026c17d1602a69e7e1264a2ad3288c01daa7d373c292fbbd4653",
+          "bytes": 71475,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-pottery-dog-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "3fe27de1a1dc416a76c6e7b92fb3b4e2e73309ccae3c67601089aa7df01bee3b",
+          "bytes": 223437,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-ewer-basin",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Pale blue-white ceramic ewer with slender spout and handle placed beside matching deep rounded bowl, a two-piece set. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-ewer-basin.png",
+      "generatedAt": "2026-10-04T09:57:45.725Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "d0bac9840eaa0ffe7c4abb033406dfd19de71cddc708d703f730ff4e80600f26",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-ewer-basin-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "09588153802b12b71e7cbd49ccf8fcbdc2d7f88983c8eaac80d111df55469f34",
+          "bytes": 43394,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-ewer-basin-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "71ce0d81b1de75e7cb9fe92f811317f28e40d142f05bbade7debd0bffe52bb08",
+          "bytes": 151405,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-oil-lamp",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Celadon lamp bowl on three short hoof-like feet connected to a wide circular drip tray, no flame or fuel. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-oil-lamp.png",
+      "generatedAt": "2026-10-04T09:58:15.370Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "af0568c5ee5be504869b90252fd76317ba5d6246e567053cd6ad3e2e671c6998",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-oil-lamp-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "1295df51a3b8fc41cb9319f5fd1473246e1ace806a01a0ece79369ace77d06ea",
+          "bytes": 53662,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-oil-lamp-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "6437f2ecfc71aabf9c00a039fa7f0ddef375b780692070aa314c7faa4e176405",
+          "bytes": 170054,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-inlaid-table",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Small narrow redwood tabletop candle stand, four holes on top, a tiny drawer, subtle mother-of-pearl grape and squirrel motif. No candles. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-inlaid-table.png",
+      "generatedAt": "2026-10-04T09:58:35.564Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "0c6d78f07361d032145ad0b725b6ccca093b0de114a399615dcb0e96409761a1",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-inlaid-table-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "c4d5fabe2b05aee037278a8d932391a67919e72e068ac54a3b3ecea467f0aebe",
+          "bytes": 68146,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-inlaid-table-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "0308df0d2392894f022339765ca54d09ba3d30038380756b094ab3928dfe62bd",
+          "bytes": 224053,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-stone-paddle",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Flat rounded rectangular stone paddle with parallel longitudinal grooves on front and a visible repaired transverse break, grey stone. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-stone-paddle.png",
+      "generatedAt": "2026-10-04T09:58:55.419Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "8602e204ed348be7b9a846d18af1900c45319e3352c7dfbbeb5d5388aaeded92",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-stone-paddle-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "5ec08237a59833041b54ab639b9d908337b8a315775a9476534776939604adc4",
+          "bytes": 87428,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-stone-paddle-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "bc04d773a97b8615d39351858c7204437ddfa557203b2c41b374d58a75e56958",
+          "bytes": 294432,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-tin-gourd-ewer",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Gourd-shaped tin vessel with lid, restrained silver-grey surface and abstract floral dragon-like relief, no readable marks. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-tin-gourd-ewer.png",
+      "generatedAt": "2026-10-04T09:59:39.722Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "5328a8241c9ca8dfdfe722e4f9b1e57a8c0644a769e19f03d2873b29e52280b9",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-tin-gourd-ewer-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "5d2a2f41ffe2a77ddd64f6f574fa81aaecd4a0d5cdacd7b992ff7cf055f36b9a",
+          "bytes": 77332,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-tin-gourd-ewer-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "1de26574d73c21d31f121ceb64f80f07bc24e7266b445dd6ef007cf5ddaa7586",
+          "bytes": 248332,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-carved-brushpot",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Small cylindrical brown wooden brush pot with abstract carved human figures in low relief, no brushes, inscriptions or specific famous character. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-carved-brushpot.png",
+      "generatedAt": "2026-10-04T09:59:18.909Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "02c918be73ddbdc656f2d8d654c07d262996797cdf4ee82c090661bb6ee72d1d",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-carved-brushpot-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "d66ff0ba88bfa261d99e42643f07d4ff6e08c6b9510844a09c988e6f148b4a89",
+          "bytes": 74744,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-carved-brushpot-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "9915e8bda79dbb453b857a826ee365d17075ce18c3ed20fdc84c3b3ef9420c12",
+          "bytes": 247808,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-warming-copper-stove",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Small copper warming stove with lidded upper liquid container, arched carrying handle and ventilated lower charcoal chamber, abstract auspicious openings not legible text. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-warming-copper-stove.png",
+      "generatedAt": "2026-10-04T10:00:01.388Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "83fadc97d58617612a6fa10310c1bb8fc3f885e40528f7dcfcdd1d06e5e74382",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-warming-copper-stove-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "440f39c507942be857372ec26fc4238b7dbc9901fcaa1395af7438a253c0fd15",
+          "bytes": 73712,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-warming-copper-stove-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "d9331a1e1fb3b25b7a9a4bfe83394523a049df9d78350ed8bdbb3ff37d8c1369",
+          "bytes": 232666,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-grooved-stone",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Rectangular ground stone tool with gently curved ends, single bevel lower edge, residual chipped marks near top and a transverse crack, muted grey. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-grooved-stone.png",
+      "generatedAt": "2026-10-04T10:00:21.810Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "b311045b3842389e2a39a486cd9a6e2586555a1d2b56136508a39e8d77ea7bad",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-grooved-stone-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "fda127d36abe2e7d3c42a247a1bd20ee36cf5ce1ca7b88ae4c2439c1136b43bf",
+          "bytes": 82162,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-grooved-stone-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "52570269e916a2fb6c2d5eb214edb41a6d141670bdc4876abb3fc8473c3479e0",
+          "bytes": 293405,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-perforated-shovel",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: Fragmentary flat stone shovel with one perforation near upper portion and surviving broad beveled lower edge, broken irregular edge, no wooden shaft. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-perforated-shovel.png",
+      "generatedAt": "2026-10-04T09:59:02.442Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "ce41f2fd301f5c38acb1362f65930eabf50be2c0fb042eb71217311273907205",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-perforated-shovel-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "0f3701e45bbcfc6174fc69923a0fd990c075bcf897c4fcfcd2064cc828ef97b3",
+          "bytes": 86348,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-perforated-shovel-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "fc1bab0af0608e47bbfa54e20cc373da3ba1c53cbaac15ef786e724a18873c02",
+          "bytes": 299641,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-crystal-point",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: Small irregular translucent rock-crystal pointed stone artifact with rough worked facets and a tapered point, not a modern polished crystal wand. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-crystal-point.png",
+      "generatedAt": "2026-10-04T09:59:29.955Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "e0eb9fc13c8e9bfd537225f54525bdc92f1673d079b4e6a79ded72c4c743f6fa",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-crystal-point-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "dc4d2d7e216dc4f5578718d883c178d4efd054576023e32003d13fba7680ad9f",
+          "bytes": 56736,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-crystal-point-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "1cd619ec4b3ed3d128df17c223ad86b555f928c460cec183792ae93f53b3f003",
+          "bytes": 163434,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-stone-adze",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: Compact grey stone adze head, rectangular tapered body and beveled cutting edge, no handle, no modern axe shape. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-stone-adze.png",
+      "generatedAt": "2026-10-04T10:00:02.306Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "d30a9c8ebde6d97e10f7da8d67c3e64ba4ab4cccf72cb2bce4302ca166548b65",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-stone-adze-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "79de9212817c789c9912e9b97f5506b495b07be6fd2bf8e7db1cd2a4cb27e538",
+          "bytes": 77384,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-stone-adze-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "bfbdfc866e66fbb53bb0812f3efbb2926e7437b70949fb2418171c5c13adf7ce",
+          "bytes": 260808,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-paper-cut-bowl",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: Southern Song dark glazed tea bowl with subtle pale abstract paper-cut floral silhouette decoration, small foot, no readable characters. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-paper-cut-bowl.png",
+      "generatedAt": "2026-10-04T10:00:22.564Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "59e35c1452f8405397771968bbcd1076f3ede87c505bec05596f647ffcb7f918",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-paper-cut-bowl-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "eed3975fd188e871b4ae8f61d385d0e696b00cd40cb3aad0ce7fe9a7abc59d07",
+          "bytes": 59370,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-paper-cut-bowl-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "16c153a72697bef4e065aacecc21b02d941ba0ed1dafa9464bcb9e414bebda54",
+          "bytes": 189738,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-yue-box",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: Low round lidded celadon box with restrained incised floral lines, muted green glaze, simple full silhouette. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-yue-box.png",
+      "generatedAt": "2026-10-04T10:00:47.863Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "135b6605c5b7281486488be89018c72d8b443637cad3822f6f474e258b685377",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-yue-box-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "863568e033f9bf3a5f75d8303ae40e3acdb034cfa89ac521f966be811c275b30",
+          "bytes": 54980,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-yue-box-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "999336f15ffbe366c3300c0369022534cf6d5adf88479bd1cf78c792eb8cd8ab",
+          "bytes": 185176,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-birch-milk-tube",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: A simple cylindrical birch-bark milk vessel, pale bark with natural horizontal markings and restrained seam, no invented ornaments, conceptual construction. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "assets/expansion/originals/tranche-03/gb-birch-milk-tube.png",
+      "generatedAt": "2026-10-04T10:01:08.091Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "95e28b829b3e03190983ff4497ecbf863fa792eeb66862baa4d936b392b3a431",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/gb-birch-milk-tube-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "bd5d9c2c17ce26ea84d86aac31c5c332bf6714f6cb776c10dfe6094f45ff44d6",
+          "bytes": 71758,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/gb-birch-milk-tube-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "b3ef36bfb3cc5e23efacf56f1f6d31dd90281c23ef35837fbe10beb0e0877174",
+          "bytes": 223181,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-dade-coin",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: A single aged bronze round coin with central square hole, subtle worn relief, no readable invented characters, not Yuan attribution. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "assets/expansion/originals/tranche-03/gb-dade-coin.png",
+      "generatedAt": "2026-10-04T10:01:29.241Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "7f390d7b735fc051363c6b1405e7231af94a00989b30d8227740fcd491210f45",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/gb-dade-coin-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "cee762c41decb3fe34416362abeb5088e2f82f7baef5ba8a0c0a10af759c59ec",
+          "bytes": 119174,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/gb-dade-coin-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "c58a9679be3ecd6e2cdd6aa21f9387a1328d2701697e76873c29e30122ad3b01",
+          "bytes": 408295,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-guobao-coin",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: Bronze artifact shaped as a round square-holed coin joined to a lower square panel, worn blank relief not invented legible inscriptions. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "assets/expansion/originals/tranche-03/gb-guobao-coin.png",
+      "generatedAt": "2026-10-04T10:02:02.928Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "2d8d30df8cd620ab492ef75eed6afa5cd5dfba56bee679802ee809e784c41fb2",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/gb-guobao-coin-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "87142111b71be15d999541cc9fed07fecb3dbd5507ba38b1b6223099f7ef8983",
+          "bytes": 90966,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/gb-guobao-coin-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "1657c7e9cddf5d933047c9280f7d10e1284f68ca659362aa57506511c829cdbc",
+          "bytes": 294930,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-wuzhu-mould",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Long rectangular aged bronze coin casting mould with several round cavities and feeding channels, approximate cavity arrangement only, no readable coin inscriptions. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "assets/expansion/originals/tranche-03/gb-wuzhu-mould.png",
+      "generatedAt": "2026-10-04T09:59:24.723Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "b71e6b8075f9d7ba5175e984845424780d52168daa4376174c48f9617a16f93d",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/gb-wuzhu-mould-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "9bc318d07993b8bbcca53f714dcaff6651a0ac709d243a5743cff1d36f9b23d7",
+          "bytes": 77743,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/gb-wuzhu-mould-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "daa4bd113c0c78e37761045e876a0fd034df6deb9750fa6f5412b0089468c460",
+          "bytes": 266060,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-small-banliang",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: A small thin aged bronze round coin with central square hole, worn blank surface rather than fake readable Banliang writing. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "assets/expansion/originals/tranche-03/gb-small-banliang.png",
+      "generatedAt": "2026-10-04T09:59:53.606Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "5faad60c3deecd402d019d2f9f0b5fd5b62379e7456004bb7414ec62fde2e798",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/gb-small-banliang-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "cd83c0400366085df8a9c15cf06d5c1043e4a17d29c916a139d6ef15eee48d47",
+          "bytes": 99973,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/gb-small-banliang-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "37c8deda1fddcb0b5c1127212778f2adce6984bd37b3405a14ac7fdcc4b05c1b",
+          "bytes": 327284,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-jade-crab-inkstone",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Small dark green jade oval lotus-leaf inkstone, flat grinding area and recessed pool with understated crab motif, no text. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "assets/expansion/originals/tranche-03/gb-jade-crab-inkstone.png",
+      "generatedAt": "2026-10-04T10:00:16.258Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "6c76a7cc33f21e2b32a03ac3259b9e6d4cf9429aef5010ac8ce6a79d28dd2a2d",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/gb-jade-crab-inkstone-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "4658a663f6cdafc4ef92a6ce9a41d56c59e13af9c1096fe2d548916b0962df86",
+          "bytes": 73948,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/gb-jade-crab-inkstone-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "07581207778d7ea1ed4e1766677602a0cc5847ff5e61bd80d2bcd395af887aa1",
+          "bytes": 244516,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-jade-bamboo-brushpot",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Green jade cylindrical brush pot with seven bamboo-like horizontal sections and three short cloud-like feet, plain interior, no brushes. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "assets/expansion/originals/tranche-03/gb-jade-bamboo-brushpot.png",
+      "generatedAt": "2026-10-04T10:00:38.567Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "b93cfcad950163cb5506c66fbf35609a0c0b0097a07666be392e36dc750e35ce",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/gb-jade-bamboo-brushpot-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "e223889237d2fd5326f3767dae8de2407d82a4dae8a479f076d96cb99bcf1282",
+          "bytes": 62343,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/gb-jade-bamboo-brushpot-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "0ea6c2078b25b22345c3ee8ffb90c427ac9ee9ff761e5ffa2048238644689415",
+          "bytes": 193781,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-white-dragon-ewer",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Tang white ceramic ewer, dragon-shaped arched handle, plain rounded body and pouring lip, ivory glaze, restrained abstract dragon head. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-white-dragon-ewer.png",
+      "generatedAt": "2026-10-04T10:01:01.320Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "666a30493d742a2c8149305dd4c2e051eb3bb75181d7c2b56b64a8ab1f76a648",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-white-dragon-ewer-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "fe16f215258f1248c346206b32599867e5572075e3195b50e1471be25228473f",
+          "bytes": 50853,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-white-dragon-ewer-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "02cec051c4999b6b5c392f03f86997264553b1418a1217b6369f95a12aa89f97",
+          "bytes": 175313,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-tricolor-flat-flask",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Tang tricolor ceramic flattened flask, flat back and rounded front, raised abstract knotted-ribbon ornament, amber green cream glaze, no strap. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-tricolor-flat-flask.png",
+      "generatedAt": "2026-10-04T10:01:23.304Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "ca6f3a9a31e29fd88fbe6bc4fc006a03f4641897999e4f741915086f7594eb31",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-tricolor-flat-flask-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "17bad482644e16380fc106d0bedf937f9ac58e70dfe9b1392d863b4488092c05",
+          "bytes": 81740,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-tricolor-flat-flask-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "834cca254818233e8086adeb395cbaac860e29a0f42aeeaf623a9e18dce74470",
+          "bytes": 260202,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-celadon-ewer",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Northern Song celadon ewer, rounded melon-ribbed body, curved spout and loop handle, muted green glaze. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-celadon-ewer.png",
+      "generatedAt": "2026-10-04T10:01:55.426Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "dfbfc8c49aa3d5b58ba0457a4b63bfea715f5c34bcb6d12305fcd53ff4e54ceb",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-celadon-ewer-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "725628fa348c75490cb85424e7a6a5b479c5be45bc64210781ec487eb83190da",
+          "bytes": 51632,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-celadon-ewer-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "c6707c30389a5e0966f42bcb32b94097fdb1b19ee704e190d7e931e5a61da012",
+          "bytes": 159513,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-changsha-ewer",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Tang Changsha kiln ceramic ewer, pale celadon glaze with brown splash accents and simple applied date-palm-like relief, rounded body, curved spout and handle. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "assets/expansion/originals/tranche-03/sz-changsha-ewer.png",
+      "generatedAt": "2026-10-04T10:02:18.589Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。",
+      "originalSha256": "d2770446036670259d377da1ab9deb2fbf79a491d5d200ecee8f34b4a9302f73",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-03/sz-changsha-ewer-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "488471f5e644b9365f4217ae3e448e474354aa26cabfcf2552e4238e36c462f0",
+          "bytes": 67245,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-03/sz-changsha-ewer-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "7ce867262f3334c955a2bae007f49d5f3a82af2c079c58e193eacbaf28193af8",
+          "bytes": 212801,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    }
+  ]
+}

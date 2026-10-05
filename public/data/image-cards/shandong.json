@@ -1,0 +1,113 @@
+{
+ "museumId": "shandong",
+ "records": {
+  "sd-acy": {
+   "image": {
+    "src": "/artifacts/sd-acy.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/6f524d7b44602ad2-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/6f524d7b44602ad2-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/6f524d7b44602ad2-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "sd-lgdy": {
+   "image": {
+    "src": "/artifacts/sd-lgdy.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/5cafe8e510461838-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/5cafe8e510461838-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/5cafe8e510461838-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "sd-hts": {
+   "image": {
+    "src": "/artifacts/sd-hts.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/f63827a7a81524aa-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/f63827a7a81524aa-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/f63827a7a81524aa-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "sd-szb": {
+   "image": {
+    "src": "/artifacts/sd-szb.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/70d1cd74f14c1c28-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/70d1cd74f14c1c28-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/70d1cd74f14c1c28-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  }
+ }
+}

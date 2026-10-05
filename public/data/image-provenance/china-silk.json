@@ -1,0 +1,1826 @@
+{
+ "records": {
+  "csm-lion-pouches": {
+   "src": "/artifact-expansion/tranche-04/csm-lion-pouches-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-lion-pouches-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:19:56.724Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3282",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-lion-pouches-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:19:56.724Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3282",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3282",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-yellow-knots-pouch": {
+   "src": "/artifact-expansion/tranche-04/csm-yellow-knots-pouch-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-yellow-knots-pouch-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:20:56.633Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3281",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-yellow-knots-pouch-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:20:56.633Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3281",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3281",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-blue-waist-pouch": {
+   "src": "/artifact-expansion/tranche-04/csm-blue-waist-pouch-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-blue-waist-pouch-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:21:20.000Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3280",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-blue-waist-pouch-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:21:20.000Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3280",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3280",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-go-waist-pouch": {
+   "src": "/artifact-expansion/tranche-04/csm-go-waist-pouch-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-go-waist-pouch-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:21:41.785Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3279",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-go-waist-pouch-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:21:41.785Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3279",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3279",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-bell-ornament": {
+   "src": "/artifact-expansion/tranche-04/csm-bell-ornament-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-bell-ornament-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:22:03.056Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3284",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-bell-ornament-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:22:03.056Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3284",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3284",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-calling-card-bag": {
+   "src": "/artifact-expansion/tranche-04/csm-calling-card-bag-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-calling-card-bag-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:22:24.852Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3283",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-calling-card-bag-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:22:24.852Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3283",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3283",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-double-pouch": {
+   "src": "/artifact-expansion/tranche-04/csm-double-pouch-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-double-pouch-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:22:47.984Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3274",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-double-pouch-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:22:47.984Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3274",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3274",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-moth-pouch": {
+   "src": "/artifact-expansion/tranche-04/csm-moth-pouch-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-moth-pouch-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:23:10.219Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3275",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-moth-pouch-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:23:10.219Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3275",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3275",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-plum-money-pouch": {
+   "src": "/artifact-expansion/tranche-04/csm-plum-money-pouch-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-plum-money-pouch-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:23:32.771Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3272",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-plum-money-pouch-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:23:32.771Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3272",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3272",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-ming-yesa": {
+   "src": "/artifact-expansion/tranche-04/csm-ming-yesa-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-ming-yesa-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:27:03.415Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1900",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-ming-yesa-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:27:03.415Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1900",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1900",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-cloud-fragment": {
+   "src": "/artifact-expansion/tranche-04/csm-cloud-fragment-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-cloud-fragment-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:27:34.906Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1904",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-cloud-fragment-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:27:34.906Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1904",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1904",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-padded-socks": {
+   "src": "/artifact-expansion/tranche-04/csm-padded-socks-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-padded-socks-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:28:21.059Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1898",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-padded-socks-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:28:21.059Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1898",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1898",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-ruyi-shoes": {
+   "src": "/artifact-expansion/tranche-04/csm-ruyi-shoes-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-ruyi-shoes-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:28:01.124Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1897",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-ruyi-shoes-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:28:01.124Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1897",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1897",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-peony-satin-shoe": {
+   "src": "/artifact-expansion/tranche-04/csm-peony-satin-shoe-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-peony-satin-shoe-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:28:41.197Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1899",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-peony-satin-shoe-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:28:41.197Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1899",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1899",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-gold-peony-shoes": {
+   "src": "/artifact-expansion/tranche-04/csm-gold-peony-shoes-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-gold-peony-shoes-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:29:01.974Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1894",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-gold-peony-shoes-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:29:01.974Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1894",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1894",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-plain-skirt": {
+   "src": "/artifact-expansion/tranche-04/csm-plain-skirt-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-plain-skirt-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:29:22.186Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1896",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-plain-skirt-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:29:22.186Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1896",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1896",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-long-jacket": {
+   "src": "/artifact-expansion/tranche-04/csm-long-jacket-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-long-jacket-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:29:42.947Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1901",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-long-jacket-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:29:42.947Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1901",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1901",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-short-jacket": {
+   "src": "/artifact-expansion/tranche-04/csm-short-jacket-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-short-jacket-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:31:12.673Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1892",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-short-jacket-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:31:12.673Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1892",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1892",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-patched-robe": {
+   "src": "/artifact-expansion/tranche-04/csm-patched-robe-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-patched-robe-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:31:35.026Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1890",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-patched-robe-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:31:35.026Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1890",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1890",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "csm-padded-trousers": {
+   "src": "/artifact-expansion/tranche-04/csm-padded-trousers-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/csm-padded-trousers-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:31:55.167Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1891",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/csm-padded-trousers-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:31:55.167Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1891",
+        "credit": "中国丝绸博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1891",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  }
+ },
+ "delivery": {
+  "csm-lion-pouches": {
+   "src": "/artifact-expansion/tranche-04/csm-lion-pouches-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/450421b8a34827be-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/450421b8a34827be-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/450421b8a34827be-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-yellow-knots-pouch": {
+   "src": "/artifact-expansion/tranche-04/csm-yellow-knots-pouch-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/50bd4d744c951296-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/50bd4d744c951296-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/50bd4d744c951296-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-blue-waist-pouch": {
+   "src": "/artifact-expansion/tranche-04/csm-blue-waist-pouch-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f0ecfae729280f29-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/f0ecfae729280f29-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/f0ecfae729280f29-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-go-waist-pouch": {
+   "src": "/artifact-expansion/tranche-04/csm-go-waist-pouch-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/5b89971dc7f1a47f-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/5b89971dc7f1a47f-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/5b89971dc7f1a47f-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-bell-ornament": {
+   "src": "/artifact-expansion/tranche-04/csm-bell-ornament-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/999cd6f2bb1b7cce-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/999cd6f2bb1b7cce-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/999cd6f2bb1b7cce-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-calling-card-bag": {
+   "src": "/artifact-expansion/tranche-04/csm-calling-card-bag-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0cc2ea83b626e109-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/0cc2ea83b626e109-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/0cc2ea83b626e109-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-double-pouch": {
+   "src": "/artifact-expansion/tranche-04/csm-double-pouch-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7638c46cf14c8417-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/7638c46cf14c8417-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7638c46cf14c8417-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-moth-pouch": {
+   "src": "/artifact-expansion/tranche-04/csm-moth-pouch-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/60afa1932b652e24-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/60afa1932b652e24-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/60afa1932b652e24-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-plum-money-pouch": {
+   "src": "/artifact-expansion/tranche-04/csm-plum-money-pouch-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c127ff9c3329f82f-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/c127ff9c3329f82f-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/c127ff9c3329f82f-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-ming-yesa": {
+   "src": "/artifact-expansion/tranche-04/csm-ming-yesa-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ee7bfd693704fced-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/ee7bfd693704fced-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/ee7bfd693704fced-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-cloud-fragment": {
+   "src": "/artifact-expansion/tranche-04/csm-cloud-fragment-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/82e942325a9aff6d-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/82e942325a9aff6d-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/82e942325a9aff6d-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-padded-socks": {
+   "src": "/artifact-expansion/tranche-04/csm-padded-socks-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/864766c92d2697b8-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/864766c92d2697b8-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/864766c92d2697b8-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-ruyi-shoes": {
+   "src": "/artifact-expansion/tranche-04/csm-ruyi-shoes-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d90d7771a745be24-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/d90d7771a745be24-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/d90d7771a745be24-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-peony-satin-shoe": {
+   "src": "/artifact-expansion/tranche-04/csm-peony-satin-shoe-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a7d59c17d3471765-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/a7d59c17d3471765-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/a7d59c17d3471765-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-gold-peony-shoes": {
+   "src": "/artifact-expansion/tranche-04/csm-gold-peony-shoes-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d36a913eeec8a133-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/d36a913eeec8a133-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/d36a913eeec8a133-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-plain-skirt": {
+   "src": "/artifact-expansion/tranche-04/csm-plain-skirt-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/3b3a4535b4a17c12-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/3b3a4535b4a17c12-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/3b3a4535b4a17c12-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-long-jacket": {
+   "src": "/artifact-expansion/tranche-04/csm-long-jacket-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d5c3f2c36157b2e9-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/d5c3f2c36157b2e9-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/d5c3f2c36157b2e9-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-short-jacket": {
+   "src": "/artifact-expansion/tranche-04/csm-short-jacket-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/aceb624e40b46aa9-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/aceb624e40b46aa9-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/aceb624e40b46aa9-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-patched-robe": {
+   "src": "/artifact-expansion/tranche-04/csm-patched-robe-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/62542d84563da4f1-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/62542d84563da4f1-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/62542d84563da4f1-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "csm-padded-trousers": {
+   "src": "/artifact-expansion/tranche-04/csm-padded-trousers-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1962fc2f335fd2f6-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/1962fc2f335fd2f6-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1962fc2f335fd2f6-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

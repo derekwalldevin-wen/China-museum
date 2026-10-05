@@ -1,0 +1,461 @@
+{
+ "museumId": "gugong",
+ "records": {
+  "gg-qmsh": {
+   "image": {
+    "src": "/artifact-sources/user-qingming/gg-qmsh-hongqiao-card.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/c73cf96aa9955e61-card-w240.webp",
+       "width": 240,
+       "height": 184
+      },
+      {
+       "src": "/artifact-responsive/c73cf96aa9955e61-card-w400.webp",
+       "width": 400,
+       "height": 307
+      },
+      {
+       "src": "/artifact-responsive/c73cf96aa9955e61-card-w640.webp",
+       "width": 640,
+       "height": 491
+      },
+      {
+       "src": "/artifact-responsive/c73cf96aa9955e61-card-w960.webp",
+       "width": 960,
+       "height": 737
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifact-sources/user-qingming/gg-qmsh-reading.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/52420153f1afc0c9-card-w240.webp",
+        "width": 240,
+        "height": 12
+       },
+       {
+        "src": "/artifact-responsive/52420153f1afc0c9-card-w400.webp",
+        "width": 400,
+        "height": 19
+       },
+       {
+        "src": "/artifact-responsive/52420153f1afc0c9-card-w640.webp",
+        "width": 640,
+        "height": 31
+       },
+       {
+        "src": "/artifact-responsive/52420153f1afc0c9-card-w960.webp",
+        "width": 960,
+        "height": 46
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "gg-qljs": {
+   "image": {
+    "src": "/artifact-sources/verified/gg-qljs-card-pd.jpg",
+    "kind": "source",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/f48850ed6bcdc52c-card-w240.webp",
+       "width": 240,
+       "height": 173
+      },
+      {
+       "src": "/artifact-responsive/f48850ed6bcdc52c-card-w400.webp",
+       "width": 400,
+       "height": 288
+      },
+      {
+       "src": "/artifact-responsive/f48850ed6bcdc52c-card-w640.webp",
+       "width": 640,
+       "height": 461
+      },
+      {
+       "src": "/artifact-responsive/f48850ed6bcdc52c-card-w960.webp",
+       "width": 960,
+       "height": 691
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifact-sources/verified/gg-qljs-detail-pd.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/53ce65584b7a8ebb-card-w240.webp",
+        "width": 240,
+        "height": 10
+       },
+       {
+        "src": "/artifact-responsive/53ce65584b7a8ebb-card-w400.webp",
+        "width": 400,
+        "height": 16
+       },
+       {
+        "src": "/artifact-responsive/53ce65584b7a8ebb-card-w640.webp",
+        "width": 640,
+        "height": 26
+       },
+       {
+        "src": "/artifact-responsive/53ce65584b7a8ebb-card-w960.webp",
+        "width": 960,
+        "height": 38
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "gg-pft": {
+   "image": {
+    "src": "/artifacts-v2/p1/gg-pft.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/0e52e33eb514adae-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/0e52e33eb514adae-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/0e52e33eb514adae-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/0e52e33eb514adae-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifacts/gg-pft.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/540f6438d1234270-card-w240.webp",
+        "width": 240,
+        "height": 127
+       },
+       {
+        "src": "/artifact-responsive/540f6438d1234270-card-w400.webp",
+        "width": 400,
+        "height": 211
+       },
+       {
+        "src": "/artifact-responsive/540f6438d1234270-card-w640.webp",
+        "width": 640,
+        "height": 338
+       },
+       {
+        "src": "/artifact-responsive/540f6438d1234270-card-w900.webp",
+        "width": 900,
+        "height": 475
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "gg-jgyg": {
+   "image": {
+    "src": "/artifacts-v2/ai-pending-20260923/gg-jgyg.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/26e06e717e2c21f5-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/26e06e717e2c21f5-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/26e06e717e2c21f5-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/26e06e717e2c21f5-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "contain"
+   },
+   "hold": false
+  },
+  "gg-gzdc": {
+   "image": {
+    "src": "/artifacts-v2/p1/gg-gzdc.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/ceb7d27ef26bc7b5-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/ceb7d27ef26bc7b5-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/ceb7d27ef26bc7b5-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/ceb7d27ef26bc7b5-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifacts/gg-gzdc.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/e1475fa788ed9c3e-card-w240.webp",
+        "width": 240,
+        "height": 362
+       },
+       {
+        "src": "/artifact-responsive/e1475fa788ed9c3e-card-w400.webp",
+        "width": 400,
+        "height": 603
+       },
+       {
+        "src": "/artifact-responsive/e1475fa788ed9c3e-card-w597.webp",
+        "width": 597,
+        "height": 900
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "gg-jgb": {
+   "image": {
+    "src": "/artifacts-v2/ai-pending-20260923/gg-jgb.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/9adefabf9e1f3e15-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/9adefabf9e1f3e15-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/9adefabf9e1f3e15-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/9adefabf9e1f3e15-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "contain"
+   },
+   "hold": false
+  },
+  "gg-ryzl": {
+   "image": {
+    "src": "/artifacts-v2/ai-pending-20260923/gg-ryzl.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/4a5ae37198349e34-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/4a5ae37198349e34-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/4a5ae37198349e34-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/4a5ae37198349e34-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "contain"
+   },
+   "hold": false
+  },
+  "gg-shen-meique-kesi": {
+   "image": {
+    "src": "/artifact-expansion/tranche-02/gg-shen-meique-kesi-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/e09d1ac392e7a75f-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/e09d1ac392e7a75f-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/e09d1ac392e7a75f-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-02/gg-shen-meique-kesi-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/9546daf289a5545d-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/9546daf289a5545d-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/9546daf289a5545d-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/9546daf289a5545d-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "gg-chrysanthemum-lacquer-dish": {
+   "image": {
+    "src": "/artifact-expansion/tranche-02/gg-chrysanthemum-lacquer-dish-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/b41ad0519171dae8-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/b41ad0519171dae8-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/b41ad0519171dae8-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-02/gg-chrysanthemum-lacquer-dish-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/d0f8ec2a1a49d760-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/d0f8ec2a1a49d760-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/d0f8ec2a1a49d760-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/d0f8ec2a1a49d760-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  }
+ }
+}

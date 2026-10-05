@@ -1,0 +1,86 @@
+{
+ "museumId": "baoji",
+ "records": {
+  "bj-hz": {
+   "image": {
+    "src": "/artifacts/bj-hz.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/9fa823587521f5d1-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/9fa823587521f5d1-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/9fa823587521f5d1-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "bj-lp": {
+   "image": {
+    "src": "/artifacts/bj-lp.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/ed0a08b6370cfe98-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/ed0a08b6370cfe98-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/ed0a08b6370cfe98-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "bj-hg": {
+   "image": {
+    "src": "/artifacts/bj-hg.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/f4dad75c5f656cd2-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/f4dad75c5f656cd2-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/f4dad75c5f656cd2-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  }
+ }
+}

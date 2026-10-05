@@ -509,6 +509,1392 @@
    "src": "/artifacts/qh-gyq.jpg",
    "credit": "AI 生成示意",
    "ai": true
+  },
+  "gb-jade-rabbit": {
+   "src": "/artifact-expansion/tranche-01/gb-jade-rabbit-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-01/gb-jade-rabbit-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_28415.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-01/gb-jade-rabbit-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_28415.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_28415.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-jade-fish": {
+   "src": "/artifact-expansion/tranche-01/gb-jade-fish-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-01/gb-jade-fish-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_28413.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-01/gb-jade-fish-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_28413.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_28413.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-linghua-lian": {
+   "src": "/artifact-expansion/tranche-02/gb-linghua-lian-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gb-linghua-lian-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26113.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gb-linghua-lian-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26113.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26113.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-landscape-brushpot": {
+   "src": "/artifact-expansion/tranche-02/gb-landscape-brushpot-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gb-landscape-brushpot-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25639.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gb-landscape-brushpot-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25639.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25639.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-medicine-lacquer-cabinet": {
+   "src": "/artifact-expansion/tranche-02/gb-medicine-lacquer-cabinet-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gb-medicine-lacquer-cabinet-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256940.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gb-medicine-lacquer-cabinet-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256940.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256940.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-bone-inlay-storage-box": {
+   "src": "/artifact-expansion/tranche-02/gb-bone-inlay-storage-box-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gb-bone-inlay-storage-box-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256941.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gb-bone-inlay-storage-box-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256941.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256941.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-red-panpipes": {
+   "src": "/artifact-expansion/tranche-02/gb-red-panpipes-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gb-red-panpipes-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26920.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gb-red-panpipes-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26920.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26920.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-folding-table": {
+   "src": "/artifact-expansion/tranche-02/gb-folding-table-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gb-folding-table-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256942.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gb-folding-table-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256942.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256942.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-basin-stand": {
+   "src": "/artifact-expansion/tranche-02/gb-basin-stand-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gb-basin-stand-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256943.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gb-basin-stand-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256943.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256943.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-red-embroidered-skirt": {
+   "src": "/artifact-expansion/tranche-02/gb-red-embroidered-skirt-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gb-red-embroidered-skirt-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253258.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gb-red-embroidered-skirt-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253258.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253258.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-blue-gauze-jacket": {
+   "src": "/artifact-expansion/tranche-02/gb-blue-gauze-jacket-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gb-blue-gauze-jacket-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211220_253253.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gb-blue-gauze-jacket-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211220_253253.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211220_253253.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-fish-embroidered-shoes": {
+   "src": "/artifact-expansion/tranche-02/gb-fish-embroidered-shoes-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gb-fish-embroidered-shoes-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211220_253254.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gb-fish-embroidered-shoes-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211220_253254.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211220_253254.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-goose-kesi": {
+   "src": "/artifact-expansion/tranche-02/gb-goose-kesi-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gb-goose-kesi-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253284.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gb-goose-kesi-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253284.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253284.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-peony-gold-satin": {
+   "src": "/artifact-expansion/tranche-02/gb-peony-gold-satin-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gb-peony-gold-satin-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253272.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gb-peony-gold-satin-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253272.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253272.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-birch-milk-tube": {
+   "src": "/artifact-expansion/tranche-03/gb-birch-milk-tube-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/gb-birch-milk-tube-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:01:08.091Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201904/t20190406_104206.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/gb-birch-milk-tube-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:01:08.091Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201904/t20190406_104206.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/201904/t20190406_104206.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-dade-coin": {
+   "src": "/artifact-expansion/tranche-03/gb-dade-coin-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/gb-dade-coin-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:01:29.241Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_27800.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/gb-dade-coin-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:01:29.241Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_27800.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_27800.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-guobao-coin": {
+   "src": "/artifact-expansion/tranche-03/gb-guobao-coin-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/gb-guobao-coin-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:02:02.928Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25694.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/gb-guobao-coin-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:02:02.928Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25694.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25694.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-wuzhu-mould": {
+   "src": "/artifact-expansion/tranche-03/gb-wuzhu-mould-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/gb-wuzhu-mould-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:24.723Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25608.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/gb-wuzhu-mould-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:24.723Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25608.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25608.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-small-banliang": {
+   "src": "/artifact-expansion/tranche-03/gb-small-banliang-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/gb-small-banliang-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:53.606Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25547.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/gb-small-banliang-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:53.606Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25547.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25547.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-jade-crab-inkstone": {
+   "src": "/artifact-expansion/tranche-03/gb-jade-crab-inkstone-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/gb-jade-crab-inkstone-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:16.258Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24666.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/gb-jade-crab-inkstone-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:16.258Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24666.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24666.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gb-jade-bamboo-brushpot": {
+   "src": "/artifact-expansion/tranche-03/gb-jade-bamboo-brushpot-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/gb-jade-bamboo-brushpot-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:38.567Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24622.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/gb-jade-bamboo-brushpot-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:38.567Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24622.shtml",
+        "credit": "中国国家博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24622.shtml",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
   }
  },
  "delivery": {
@@ -743,6 +2129,531 @@
      }
     ]
    }
+  },
+  "gb-jade-rabbit": {
+   "src": "/artifact-expansion/tranche-01/gb-jade-rabbit-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7091ed68cb5118a3-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/7091ed68cb5118a3-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7091ed68cb5118a3-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-jade-fish": {
+   "src": "/artifact-expansion/tranche-01/gb-jade-fish-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/974f5880add1f647-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/974f5880add1f647-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/974f5880add1f647-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-linghua-lian": {
+   "src": "/artifact-expansion/tranche-02/gb-linghua-lian-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1a2986451b7ae9b6-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/1a2986451b7ae9b6-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1a2986451b7ae9b6-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-landscape-brushpot": {
+   "src": "/artifact-expansion/tranche-02/gb-landscape-brushpot-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9bf4b9ff95135ade-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/9bf4b9ff95135ade-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/9bf4b9ff95135ade-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-medicine-lacquer-cabinet": {
+   "src": "/artifact-expansion/tranche-02/gb-medicine-lacquer-cabinet-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7d312f395a2fe58f-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/7d312f395a2fe58f-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7d312f395a2fe58f-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-bone-inlay-storage-box": {
+   "src": "/artifact-expansion/tranche-02/gb-bone-inlay-storage-box-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d79e83ce236cda15-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/d79e83ce236cda15-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/d79e83ce236cda15-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-red-panpipes": {
+   "src": "/artifact-expansion/tranche-02/gb-red-panpipes-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/08ba1de874f5abbe-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/08ba1de874f5abbe-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/08ba1de874f5abbe-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-folding-table": {
+   "src": "/artifact-expansion/tranche-02/gb-folding-table-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/86c74a679f38ed9c-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/86c74a679f38ed9c-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/86c74a679f38ed9c-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-basin-stand": {
+   "src": "/artifact-expansion/tranche-02/gb-basin-stand-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/e920fe879ce29a15-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/e920fe879ce29a15-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/e920fe879ce29a15-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-red-embroidered-skirt": {
+   "src": "/artifact-expansion/tranche-02/gb-red-embroidered-skirt-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7ac3c6acf0cd4026-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/7ac3c6acf0cd4026-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7ac3c6acf0cd4026-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-blue-gauze-jacket": {
+   "src": "/artifact-expansion/tranche-02/gb-blue-gauze-jacket-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7a4b24a9dc626164-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/7a4b24a9dc626164-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7a4b24a9dc626164-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-fish-embroidered-shoes": {
+   "src": "/artifact-expansion/tranche-02/gb-fish-embroidered-shoes-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/af83af4df1538c28-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/af83af4df1538c28-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/af83af4df1538c28-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-goose-kesi": {
+   "src": "/artifact-expansion/tranche-02/gb-goose-kesi-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7dc7e39c47327d7f-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/7dc7e39c47327d7f-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7dc7e39c47327d7f-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-peony-gold-satin": {
+   "src": "/artifact-expansion/tranche-02/gb-peony-gold-satin-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/3af6397741a924ef-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/3af6397741a924ef-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/3af6397741a924ef-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-birch-milk-tube": {
+   "src": "/artifact-expansion/tranche-03/gb-birch-milk-tube-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b3ef36bfb3cc5e23-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/b3ef36bfb3cc5e23-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/b3ef36bfb3cc5e23-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-dade-coin": {
+   "src": "/artifact-expansion/tranche-03/gb-dade-coin-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c58a9679be3ecd6e-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/c58a9679be3ecd6e-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/c58a9679be3ecd6e-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-guobao-coin": {
+   "src": "/artifact-expansion/tranche-03/gb-guobao-coin-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1657c7e9cddf5d93-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/1657c7e9cddf5d93-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1657c7e9cddf5d93-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-wuzhu-mould": {
+   "src": "/artifact-expansion/tranche-03/gb-wuzhu-mould-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/daa4bd113c0c78e3-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/daa4bd113c0c78e3-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/daa4bd113c0c78e3-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-small-banliang": {
+   "src": "/artifact-expansion/tranche-03/gb-small-banliang-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/37c8deda1fddcb0b-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/37c8deda1fddcb0b-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/37c8deda1fddcb0b-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-jade-crab-inkstone": {
+   "src": "/artifact-expansion/tranche-03/gb-jade-crab-inkstone-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/07581207778d7ea1-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/07581207778d7ea1-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/07581207778d7ea1-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gb-jade-bamboo-brushpot": {
+   "src": "/artifact-expansion/tranche-03/gb-jade-bamboo-brushpot-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0ea6c2078b25b223-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/0ea6c2078b25b223-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/0ea6c2078b25b223-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
   }
  }
 }

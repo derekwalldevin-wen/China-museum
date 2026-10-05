@@ -1,0 +1,116 @@
+{
+ "museumId": "suzhou",
+ "records": {
+  "sz-lhw": {
+   "image": {
+    "src": "/artifacts/sz-lhw.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/ddc4a1d2764ee431-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/ddc4a1d2764ee431-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/ddc4a1d2764ee431-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "sz-bz": {
+   "image": {
+    "src": "/artifacts-v2/p2-source/sz-bz.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/cf2eb6e12e0fc1f7-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/cf2eb6e12e0fc1f7-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/cf2eb6e12e0fc1f7-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/cf2eb6e12e0fc1f7-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifacts/sz-bz.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/8ffa301c154d64cc-card-w240.webp",
+        "width": 240,
+        "height": 359
+       },
+       {
+        "src": "/artifact-responsive/8ffa301c154d64cc-card-w400.webp",
+        "width": 400,
+        "height": 599
+       },
+       {
+        "src": "/artifact-responsive/8ffa301c154d64cc-card-w601.webp",
+        "width": 601,
+        "height": 900
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sz-jx": {
+   "image": {
+    "src": "/artifacts/sz-jx.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/b0299614f8b55349-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/b0299614f8b55349-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/b0299614f8b55349-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  }
+ }
+}

@@ -1,5 +1,5 @@
-import cardManifestJson from './image-card-manifest.json';
-import type { DisplayArtifactImage, ResolvedCardImage } from './image-types';
+import { getCachedCardEntry } from './image-card-loader';
+import type { ResolvedCardImage } from './image-types';
 
 export type {
   AiProvenance,
@@ -22,15 +22,8 @@ export type {
 } from './image-types';
 export { getArtifactImageLabel, resolveArtifactImageInfo } from './image-types';
 
-interface CardManifestEntry {
-  image: (DisplayArtifactImage & { fallback?: DisplayArtifactImage }) | null;
-  hold: boolean;
-}
-
-const cardManifest = cardManifestJson as Record<string, CardManifestEntry>;
-
-export function getArtifactCardEntry(id: string): CardManifestEntry | null {
-  return cardManifest[id] ?? null;
+export function getArtifactCardEntry(id: string) {
+  return getCachedCardEntry(id);
 }
 
 export function resolveArtifactCardImage(id: string): ResolvedCardImage | null {

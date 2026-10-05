@@ -88,3 +88,11 @@ test('Hong Kong and Macao keep dedicated label leaders and touch radii in the re
   assert.match(source, /china-provinces\.compact\.json/);
   assert.match(source, /china-provinces\.standard\.json/);
 });
+
+test('new Hangzhou and Lanzhou museum coordinates are inside their named province in all tiers',()=>{
+  for(const id of ['china-silk','gansu-jiandu']){const museum=museums.find(m=>m.id===id);assert.ok(museum);for(const tier of [rawByName,standardByName,compactByName])assert.ok(contains(tier.get(museum.province),museum.coord),id);}
+});
+
+test('Wuhan and Changzhou city museum coordinates stay in their correct province across tiers',()=>{
+ for(const id of ['wuhan-city','changzhou-city']){const m=museums.find(m=>m.id===id);assert.ok(m);for(const tier of [rawByName,standardByName,compactByName])assert.ok(contains(tier.get(m.province),m.coord),id);}
+});

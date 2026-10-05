@@ -1,0 +1,10 @@
+{
+  "url": "https://www.czmuseum.cn/api/supreme/achieve_supreme?page=1&pageSize=100&title=&cid=678232055317794816&cate_title=",
+  "finalUrl": "https://www.czmuseum.cn/api/supreme/achieve_supreme?page=1&pageSize=100&title=&cid=678232055317794816&cate_title=",
+  "requestProtocol": "official-public-client-get",
+  "publicClientScript": "https://www.czmuseum.cn/static/js/app.19cead91231158f1e80f.js",
+  "checkedAt": "2026-10-05T04:25:43.106Z",
+  "sha256": "c5a20839f109b7e36669350b0f09ed8a4decc3fdcad13388a133aa24e9d5ebc1",
+  "bytes": 7317,
+  "contentType": "application/json; charset=utf-8"
+}

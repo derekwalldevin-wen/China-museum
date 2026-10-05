@@ -1,0 +1,1826 @@
+{
+ "records": {
+  "gsjd-medicine-paper": {
+   "src": "/artifact-expansion/tranche-04/gsjd-medicine-paper-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-medicine-paper-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:10:38.286Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=49",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-medicine-paper-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:10:38.286Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=49",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=49",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-maquan-brush": {
+   "src": "/artifact-expansion/tranche-04/gsjd-maquan-brush-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-maquan-brush-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:11:04.341Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=48",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-maquan-brush-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:11:04.341Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=48",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=48",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-maquan-gauze": {
+   "src": "/artifact-expansion/tranche-04/gsjd-maquan-gauze-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-maquan-gauze-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:11:26.509Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=47",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-maquan-gauze-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:11:26.509Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=47",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=47",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-changluo-expenses": {
+   "src": "/artifact-expansion/tranche-04/gsjd-changluo-expenses-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-changluo-expenses-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:11:49.194Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=46",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-changluo-expenses-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:11:49.194Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=46",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=46",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-sick-leave": {
+   "src": "/artifact-expansion/tranche-04/gsjd-sick-leave-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-sick-leave-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:12:10.034Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=42",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-sick-leave-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:12:10.034Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=42",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=42",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-seasonal-ban": {
+   "src": "/artifact-expansion/tranche-04/gsjd-seasonal-ban-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-seasonal-ban-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:13:02.677Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=40",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-seasonal-ban-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:13:02.677Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=40",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=40",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-document-cover": {
+   "src": "/artifact-expansion/tranche-04/gsjd-document-cover-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-document-cover-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:13:24.230Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=38",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-document-cover-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:13:24.230Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=38",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=38",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-discipline-stick": {
+   "src": "/artifact-expansion/tranche-04/gsjd-discipline-stick-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-discipline-stick-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:13:46.784Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=36",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-discipline-stick-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:13:46.784Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=36",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=36",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-gate-pass": {
+   "src": "/artifact-expansion/tranche-04/gsjd-gate-pass-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-gate-pass-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:14:07.449Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=35",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-gate-pass-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:14:07.449Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=35",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=35",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-written-hemp-paper": {
+   "src": "/artifact-expansion/tranche-04/gsjd-written-hemp-paper-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-written-hemp-paper-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:14:30.436Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=34",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-written-hemp-paper-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:14:30.436Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=34",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=34",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-wan-letter": {
+   "src": "/artifact-expansion/tranche-04/gsjd-wan-letter-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-wan-letter-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:14:51.304Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=33",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-wan-letter-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:14:51.304Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=33",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=33",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-imperial-search": {
+   "src": "/artifact-expansion/tranche-04/gsjd-imperial-search-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-imperial-search-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:15:18.070Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=26",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-imperial-search-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:15:18.070Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=26",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=26",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-grain-loan": {
+   "src": "/artifact-expansion/tranche-04/gsjd-grain-loan-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-grain-loan-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:15:39.962Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=23",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-grain-loan-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:15:39.962Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=23",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=23",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-qin-wood-map": {
+   "src": "/artifact-expansion/tranche-04/gsjd-qin-wood-map-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-qin-wood-map-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:17:07.066Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=21",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-qin-wood-map-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:17:07.066Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=21",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=21",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-qin-daybook": {
+   "src": "/artifact-expansion/tranche-04/gsjd-qin-daybook-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-qin-daybook-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:17:27.438Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=20",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-qin-daybook-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:17:27.438Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=20",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=20",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-chicken-register": {
+   "src": "/artifact-expansion/tranche-04/gsjd-chicken-register-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-chicken-register-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:17:48.212Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=16",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-chicken-register-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:17:48.212Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=16",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=16",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-silk-credential": {
+   "src": "/artifact-expansion/tranche-04/gsjd-silk-credential-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-silk-credential-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:18:16.583Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=14",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-silk-credential-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:18:16.583Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=14",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=14",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-sword-appraisal": {
+   "src": "/artifact-expansion/tranche-04/gsjd-sword-appraisal-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-sword-appraisal-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:18:43.357Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=12",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-sword-appraisal-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:18:43.357Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=12",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-drum-protocol": {
+   "src": "/artifact-expansion/tranche-04/gsjd-drum-protocol-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-drum-protocol-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:19:09.521Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=9",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-drum-protocol-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:19:09.521Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=9",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=9",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gsjd-camel-dispute": {
+   "src": "/artifact-expansion/tranche-04/gsjd-camel-dispute-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/gsjd-camel-dispute-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:19:34.783Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=6",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/gsjd-camel-dispute-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:19:34.783Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=6",
+        "credit": "甘肃简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=6",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  }
+ },
+ "delivery": {
+  "gsjd-medicine-paper": {
+   "src": "/artifact-expansion/tranche-04/gsjd-medicine-paper-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1a49331866e2a4f8-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/1a49331866e2a4f8-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1a49331866e2a4f8-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-maquan-brush": {
+   "src": "/artifact-expansion/tranche-04/gsjd-maquan-brush-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f4733d52fe0586e8-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/f4733d52fe0586e8-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/f4733d52fe0586e8-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-maquan-gauze": {
+   "src": "/artifact-expansion/tranche-04/gsjd-maquan-gauze-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f0d04037d1480fe8-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/f0d04037d1480fe8-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/f0d04037d1480fe8-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-changluo-expenses": {
+   "src": "/artifact-expansion/tranche-04/gsjd-changluo-expenses-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/490130094dce3afc-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/490130094dce3afc-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/490130094dce3afc-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-sick-leave": {
+   "src": "/artifact-expansion/tranche-04/gsjd-sick-leave-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/bf6e2839db0953c3-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/bf6e2839db0953c3-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/bf6e2839db0953c3-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-seasonal-ban": {
+   "src": "/artifact-expansion/tranche-04/gsjd-seasonal-ban-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/74c5dcfb8015d4f4-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/74c5dcfb8015d4f4-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/74c5dcfb8015d4f4-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-document-cover": {
+   "src": "/artifact-expansion/tranche-04/gsjd-document-cover-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/cf053b9a8b3f65ec-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/cf053b9a8b3f65ec-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/cf053b9a8b3f65ec-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-discipline-stick": {
+   "src": "/artifact-expansion/tranche-04/gsjd-discipline-stick-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/76f4174c1980ea17-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/76f4174c1980ea17-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/76f4174c1980ea17-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-gate-pass": {
+   "src": "/artifact-expansion/tranche-04/gsjd-gate-pass-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/dc34f6f06280d929-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/dc34f6f06280d929-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/dc34f6f06280d929-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-written-hemp-paper": {
+   "src": "/artifact-expansion/tranche-04/gsjd-written-hemp-paper-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9807ec2cd3c51d4c-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/9807ec2cd3c51d4c-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/9807ec2cd3c51d4c-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-wan-letter": {
+   "src": "/artifact-expansion/tranche-04/gsjd-wan-letter-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a751d2dbcaae79e9-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/a751d2dbcaae79e9-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/a751d2dbcaae79e9-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-imperial-search": {
+   "src": "/artifact-expansion/tranche-04/gsjd-imperial-search-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b8ed5292dce28fda-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/b8ed5292dce28fda-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/b8ed5292dce28fda-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-grain-loan": {
+   "src": "/artifact-expansion/tranche-04/gsjd-grain-loan-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ef2d5b9bd8b3773d-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/ef2d5b9bd8b3773d-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/ef2d5b9bd8b3773d-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-qin-wood-map": {
+   "src": "/artifact-expansion/tranche-04/gsjd-qin-wood-map-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1ace7e14cb4fb367-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/1ace7e14cb4fb367-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1ace7e14cb4fb367-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-qin-daybook": {
+   "src": "/artifact-expansion/tranche-04/gsjd-qin-daybook-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c6528bf71a8a65d5-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/c6528bf71a8a65d5-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/c6528bf71a8a65d5-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-chicken-register": {
+   "src": "/artifact-expansion/tranche-04/gsjd-chicken-register-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ee3eb285f3d6d6d3-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/ee3eb285f3d6d6d3-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/ee3eb285f3d6d6d3-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-silk-credential": {
+   "src": "/artifact-expansion/tranche-04/gsjd-silk-credential-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/41f68f31f156689b-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/41f68f31f156689b-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/41f68f31f156689b-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-sword-appraisal": {
+   "src": "/artifact-expansion/tranche-04/gsjd-sword-appraisal-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/e5495b6106088d76-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/e5495b6106088d76-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/e5495b6106088d76-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-drum-protocol": {
+   "src": "/artifact-expansion/tranche-04/gsjd-drum-protocol-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/e82c835f1233ba34-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/e82c835f1233ba34-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/e82c835f1233ba34-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gsjd-camel-dispute": {
+   "src": "/artifact-expansion/tranche-04/gsjd-camel-dispute-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f80f52d895eb3329-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/f80f52d895eb3329-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/f80f52d895eb3329-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

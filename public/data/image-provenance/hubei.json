@@ -1202,6 +1202,204 @@
    "src": "/artifacts/hub-sat.jpg",
    "credit": "AI 生成示意",
    "ai": true
+  },
+  "hb-heifu-letter": {
+   "src": "/artifact-expansion/tranche-02/hb-heifu-letter-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/hb-heifu-letter-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://m-www.hbww.org.cn/p/5381.html",
+        "credit": "湖北省博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/hb-heifu-letter-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://m-www.hbww.org.cn/p/5381.html",
+        "credit": "湖北省博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://m-www.hbww.org.cn/p/5381.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "hb-xiaolv-slips": {
+   "src": "/artifact-expansion/tranche-02/hb-xiaolv-slips-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/hb-xiaolv-slips-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://m-www.hbww.org.cn/p/5371.html",
+        "credit": "湖北省博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/hb-xiaolv-slips-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://m-www.hbww.org.cn/p/5371.html",
+        "credit": "湖北省博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://m-www.hbww.org.cn/p/5371.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "hb-longgang-tablet": {
+   "src": "/artifact-expansion/tranche-02/hb-longgang-tablet-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/hb-longgang-tablet-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://m-www.hbww.org.cn/p/5382.html",
+        "credit": "湖北省博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/hb-longgang-tablet-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://m-www.hbww.org.cn/p/5382.html",
+        "credit": "湖北省博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://m-www.hbww.org.cn/p/5382.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
   }
  },
  "delivery": {
@@ -1850,6 +2048,81 @@
      }
     ]
    }
+  },
+  "hb-heifu-letter": {
+   "src": "/artifact-expansion/tranche-02/hb-heifu-letter-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6d38ebb8870ffa2c-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/6d38ebb8870ffa2c-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/6d38ebb8870ffa2c-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hb-xiaolv-slips": {
+   "src": "/artifact-expansion/tranche-02/hb-xiaolv-slips-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9559f1bc24badcb2-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/9559f1bc24badcb2-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/9559f1bc24badcb2-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "hb-longgang-tablet": {
+   "src": "/artifact-expansion/tranche-02/hb-longgang-tablet-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6811b05da6f1f03c-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/6811b05da6f1f03c-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/6811b05da6f1f03c-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
   }
  }
 }

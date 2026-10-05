@@ -1,0 +1,157 @@
+{
+ "museumId": "heilongjiang",
+ "records": {
+  "hlj-tzl": {
+   "image": {
+    "src": "/artifacts-v2/p2-source/hlj-tzl.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/3c8296fe03a8c0ca-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/3c8296fe03a8c0ca-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/3c8296fe03a8c0ca-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/3c8296fe03a8c0ca-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifacts/hlj-tzl.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/60d97e5e0fc42bd0-card-w240.webp",
+        "width": 240,
+        "height": 360
+       },
+       {
+        "src": "/artifact-responsive/60d97e5e0fc42bd0-card-w400.webp",
+        "width": 400,
+        "height": 600
+       },
+       {
+        "src": "/artifact-responsive/60d97e5e0fc42bd0-card-w600.webp",
+        "width": 600,
+        "height": 900
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "hlj-gys": {
+   "image": {
+    "src": "/artifacts-v2/p1/hlj-gys.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/7786922b643b8492-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/7786922b643b8492-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/7786922b643b8492-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/7786922b643b8492-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifacts/hlj-gys.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/cc163339e426f84c-card-w240.webp",
+        "width": 240,
+        "height": 160
+       },
+       {
+        "src": "/artifact-responsive/cc163339e426f84c-card-w400.webp",
+        "width": 400,
+        "height": 267
+       },
+       {
+        "src": "/artifact-responsive/cc163339e426f84c-card-w640.webp",
+        "width": 640,
+        "height": 427
+       },
+       {
+        "src": "/artifact-responsive/cc163339e426f84c-card-w900.webp",
+        "width": 900,
+        "height": 600
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "hlj-syj": {
+   "image": {
+    "src": "/artifacts-v2/ai-pending-20260923/hlj-syj.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/7856595d79a8cb76-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/7856595d79a8cb76-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/7856595d79a8cb76-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/7856595d79a8cb76-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "contain"
+   },
+   "hold": false
+  }
+ }
+}

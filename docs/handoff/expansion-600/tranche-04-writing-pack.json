@@ -1,0 +1,1805 @@
+{
+  "instructions": "未创作长篇故事。每件官方来源只支持明列事实；制作、发现、研究史的空白保留未知。AI图不作史料，关联仅用于比较，不暗示传承。",
+  "items": [
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=49",
+      "evidenceKey": "aaf856629ea9094b5383",
+      "recordIdentifier": "exhibit_id=49",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=49",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；标题付子、正文薰力；第二张表格13厘米、正文3厘米，待核。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-medicine-paper",
+        "name": "“付子 细辛”汉代麻纸",
+        "dynasty": "西汉早期",
+        "era": "秦汉",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "1990年出土于悬泉置遗址，馆方据折痕推断为包药用纸。两张纸按一组计数；标题与正文首张药名、第二张长度有冲突，本条不替馆方判定。",
+        "keywords": [
+          "“付子 细辛”汉代麻纸",
+          "杂项",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "标题付子、正文薰力；第二张表格13厘米、正文3厘米，待核。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "1990年出土于敦煌悬泉置遗址。时代据同出简牍和地层，应为西汉早期纸张。纸张色白，纸面粗而不平整，有韧性。一件出土号为90DXT212④：3，正面隶书书写“薰力”，长12厘米，宽7厘米。另一件出土号为90DXT212④:4，正面隶书书写“细辛”，长3厘米，宽4厘米。两件书写均为药名。根据纸的形状和折叠痕迹，当为包药用纸。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "Two small irregular pale coarse hemp paper fragments with folds; no legible writing.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=48",
+      "evidenceKey": "0a8e6868ae094d4dfd5f",
+      "recordIdentifier": "exhibit_id=48",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=48",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；狼毫与结构据馆方记录；不根据AI判断毛种。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-maquan-brush",
+        "name": "马圈湾汉毛笔",
+        "dynasty": "汉",
+        "era": "秦汉",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "1979年出土于敦煌马圈湾烽燧，出土号79DMT7：01。竹杆钻孔纳毛、丝线捆扎并髹漆，尾端嵌硬木，展示书写工具的复合制作。",
+        "keywords": [
+          "马圈湾汉毛笔",
+          "杂项",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "狼毫与结构据馆方记录；不根据AI判断毛种。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "1979年出土于敦煌马圈湾汉代烽燧遗址。出土号为79DMT7：01，狼毫笔毛，虽残但仍有一定的弹性。实心竹杆。在杆首钻一孔，插入笔毛，以丝线捆扎后，髹褐色漆，杆尾被截平后，镶一锥形硬木，再打磨光滑。通长19.5厘米，直径0.6厘米，笔毛残长1.2厘米。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-gauze",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "Slender brown bamboo writing brush, short worn bristle tip, dark lacquer binding and hard wooden end.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=47",
+      "evidenceKey": "2c7724524a8dcd45199c",
+      "recordIdentifier": "exhibit_id=47",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=47",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；组织与密度来自馆方研究，不用AI显微纹理验证。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-maquan-gauze",
+        "name": "马圈湾丝织品",
+        "dynasty": "汉",
+        "era": "秦汉",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "1979年出土于马圈湾烽燧，出土号79DMT12:062，长13、宽11厘米。馆方识别为湖绿色四经绞罗，细密经纬中留有孔眼。",
+        "keywords": [
+          "马圈湾丝织品",
+          "织绣",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "组织与密度来自馆方研究，不用AI显微纹理验证。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "湖绿色四经绞罗，1979年出土于敦煌马圈湾汉代烽燧遗址。长13厘米，宽11厘米。出土号为79DMT12:062。汉代主要盛行无固定绞组型罗。传统的四经绞罗，是以四根经线为一组，左右绞转而形成较大孔眼的罗。马圈湾出土的四经绞罗，是一个不多见的品种，其经纬织度极细，经丝密度为每厘米64根，纬丝密度为每厘米40根。经纬丝均为无拈，其组织结构的特点，是在传统的四经绞罗中多织入二梭平绞，使整块织物面料呈现出横向条状效应，轻薄柔美，是少见的精品。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "Small faded lake-green silk gauze fragment, visible fine open weave and slight horizontal bands.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=46",
+      "evidenceKey": "9e289353f9e4157a2933",
+      "recordIdentifier": "exhibit_id=46",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=46",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；18枚是原件记录；示意图不核对枚数与原排列。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-changluo-expenses",
+        "name": "元康五年悬泉置过长罗侯费用簿",
+        "dynasty": "西汉",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "stele",
+        "story": "1990年悬泉置出土，一册18枚木简记录常惠出使乌孙时路过军吏的接待费用。账簿让外交往来与驿站开支相遇；整册只计一条。",
+        "keywords": [
+          "元康五年悬泉置过长罗侯费用簿",
+          "简牍",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "18枚是原件记录；示意图不核对枚数与原排列。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "1990年出土于敦煌悬泉置遗址。木简18枚，每简长23、宽0.8厘米。内容为元康五年（公元前61年）长罗侯常惠出使乌孙时，悬泉置招待其路过军吏的费用记录。该册书的出土，不仅为研究悬泉置的功能和经费物品的收开支提供了第一手资料，更重要的是为研究西汉王朝与西域关系，尤其是同乌孙的关系提供了重要资料，可补传世史籍之阙载",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "One compact set of narrow weathered wooden accounting slips laid together; no readable script.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=42",
+      "evidenceKey": "11d78efa8d76e22c9aca",
+      "recordIdentifier": "exhibit_id=42",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=42",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；病书事实与人物据馆方释读，病种未知。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-sick-leave",
+        "name": "建武三年隧长病书",
+        "dynasty": "东汉",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "stele",
+        "story": "三枚木简记录隧长党请病假、候长匡上报和候官请准就医的过程。馆方登记出土地为居延破城子，具体发现年月未载；本组计一条。",
+        "keywords": [
+          "建武三年隧长病书",
+          "简牍",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "病书事实与人物据馆方释读，病种未知。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "共三枚木简，主要有三项内容：一是城北隧长党因病向候长请病假的陈述；二是城北守候长匡将隧长党的病书上报候官的行文；三是候官的处理批示，上报都尉府请同意隧长党去就医治病。对研究戍边吏卒的日常生活和疾病医疗具有重要意义。现藏甘肃简牍博物馆。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "Three broad weathered wooden writing slips arranged side by side, faint nonlegible ink traces.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=40",
+      "evidenceKey": "c794266f4306d0955b4b",
+      "recordIdentifier": "exhibit_id=40",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=40",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；制度意义是研究解释；不能套用现代法规。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-seasonal-ban",
+        "name": "建武六年毋犯四时禁者书",
+        "dynasty": "东汉",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "stele",
+        "story": "1974年出土于甲渠候官遗址22号房址。馆方将它解释为东汉初年河西四时簿的上报底稿，可讨论季节禁令，但不等同现代环保制度。",
+        "keywords": [
+          "建武六年毋犯四时禁者书",
+          "简牍",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "制度意义是研究解释；不能套用现代法规。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "1974年出土于甲渠候官遗址第22号房址内，为东汉初年窦融统治河西时期四时簿的上报底稿，对研究东汉初年河西地区生态的保护有重要意义。甘肃简牍博物馆藏。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "Small group of flat tan wooden slips, dark indistinct ink remnants, broken edges.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=38",
+      "evidenceKey": "c37c826b6321da85b282",
+      "recordIdentifier": "exhibit_id=38",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=38",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；封缄用途有据，未核原有绳泥的完整组合。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-document-cover",
+        "name": "文书检",
+        "dynasty": "汉",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "stele",
+        "story": "馆方登记出土于居延破城子，长15.3、宽4.2厘米。木检用于封缄文书，记录印章、送达时间与送达人，把书信传递与防拆联系起来。",
+        "keywords": [
+          "文书检",
+          "简牍",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "封缄用途有据，未核原有绳泥的完整组合。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "文书检，用于封缄文书。其内容包括两方面：一是印章文；二是送达时间及送达人。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "Flat rectangular wooden document cover with simple shallow channel, subdued worn brown.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=36",
+      "evidenceKey": "a0f045f3aa5eb46c96f9",
+      "recordIdentifier": "exhibit_id=36",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=36",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；不把惩罚文书画成刑具；材料是书写用树枝。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-discipline-stick",
+        "name": "侯史广德坐罪行罚檄",
+        "dynasty": "汉",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "stele",
+        "story": "1974年居延破城子出土，长90.7厘米。工匠仅刮平树枝正背两面用于书写；檄文通报广德失职与处罚，具体内容依馆方释读。",
+        "keywords": [
+          "侯史广德坐罪行罚檄",
+          "简牍",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "不把惩罚文书画成刑具；材料是书写用树枝。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "1974年出土于汉居延破城子遗址，用一根树枝做成，形制特别，俨然一根棍子。正背两面刮削写字，左右两侧未加刮治。正面写檄文标题:“候史广德，坐不循行部、涂、趣具诸当所具者，各如府都吏举。部糒不毕。又省官檄书不会会日。督五十”，背面写候史广德坐罪行罚的具体事由。檄文分22栏书写，列举了第十三、十四、十五、十六、十七、十八6个隧守御器和防御设事废弛败敝情况，十分细致。鉴于候史广德的严重失职行为，将其责打五十大板，并以檄文形式通报其它各部。檄文完整具体，对研究居延防线各部隧的防御设施及边防吏卒的管理具有重要价值。甘肃简牍博物馆藏。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "Long slender crooked wooden branch with two flattened faces and unworked sides, no readable text.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=35",
+      "evidenceKey": "01d4c71d6bd8e0663297",
+      "recordIdentifier": "exhibit_id=35",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=35",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；名称大奴不据此推断完整社会身份。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-gate-pass",
+        "name": "五凤元年大奴出入关登记文书木简",
+        "dynasty": "西汉",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "stele",
+        "story": "1973年肩水金关出土的完整出入关文书，长23.6、宽3.2厘米。它为观察申请、批复和通关流程提供实物线索；持有人更完整生平未知。",
+        "keywords": [
+          "五凤元年大奴出入关登记文书木简",
+          "简牍",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "名称大奴不据此推断完整社会身份。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "1973年出土于肩水金关遗址，是一封完整的出入关文书。汉代出入肩水金关需出具证明，该文书对究汉代传文书的申请、批复、运行具有重要的参考价值。现藏于甘肃简牍博物馆。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "One broad narrow rectangular dark wooden pass slip, faint blurred ink.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=34",
+      "evidenceKey": "9bfc8c5241c5efda4c8b",
+      "recordIdentifier": "exhibit_id=34",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=34",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；定年依据是馆方解释；AI不仿造两行原字。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-written-hemp-paper",
+        "name": "“巨阳大利 上缮皂五匹”汉代麻纸",
+        "dynasty": "东汉初期",
+        "era": "秦汉",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "1990年悬泉置出土，馆方据共存简牍与地层判为东汉初期。黄色间灰的粗厚纸张留有两行隶书，展示纸作为书写材料的使用。",
+        "keywords": [
+          "“巨阳大利 上缮皂五匹”汉代麻纸",
+          "杂项",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "定年依据是馆方解释；AI不仿造两行原字。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "1990年出土于敦煌悬泉置遗址。时代据同出简牍和地层判定应为东汉初期纸张。纸张呈不规则长方形，黄色间灰，厚而重，质地松疏，粗糙，表面留有残渣。上有隶书两行：“巨阳大利 上缮皂五匹。”",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "Irregular rectangular yellow-grey coarse hemp paper with fiber remnants; no legible calligraphy.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=33",
+      "evidenceKey": "03e05b4aa42e807449df",
+      "recordIdentifier": "exhibit_id=33",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=33",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；馆方类别丝，不能因简牍馆入口就改成木简。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-wan-letter",
+        "name": "万致子恩书",
+        "dynasty": "西汉末至东汉初",
+        "era": "秦汉",
+        "category": "书画",
+        "shape": "textile",
+        "story": "1990年悬泉置出土，馆方登记质地为丝，正背面用隶书书写，是万写给子恩的私人信件。亲密关系与两人完整身份未在本条资料中说明。",
+        "keywords": [
+          "万致子恩书",
+          "书画",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "馆方类别丝，不能因简牍馆入口就改成木简。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "1990年出土于敦煌悬泉置遗址，时代为西汉末至东汉初。 正背面书写，隶书。是万写给子恩的一封私人书信。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "Small worn pale silk letter fragment, rectangular and softly folded; no legible writing.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=26",
+      "evidenceKey": "35b4bdc9b9a661b25a7a",
+      "recordIdentifier": "exhibit_id=26",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=26",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；馆方所谓通缉令是现代说明语，不伪造原文。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-imperial-search",
+        "name": "甘露二年御史书",
+        "dynasty": "西汉",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "stele",
+        "story": "馆方登记肩水金关出土。文书依次包含御史要求追查、太守传达、都尉府下达及候官执行，显出公文分层传递；整册按一条。",
+        "keywords": [
+          "甘露二年御史书",
+          "简牍",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "馆方所谓通缉令是现代说明语，不伪造原文。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "文书内容分为四部分：一是御史书对丽戎基本经历和相貌特征的描述以及对各地严加追查的要求；二是张掖太守向下属的传达文件；三是肩水都尉府的下达文件；四是肩水候官向部隧下达要求具体执行的文件。此文书的发现，为研究西汉中、晚期一些重大历史事件提供了第一手资料。相关内容的残文，在甲渠候官遗址也有发现，说明这份“通缉令”是发往全国各地的。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "Group of very narrow wooden writing slips, faded tan, dark indistinct marks.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=23",
+      "evidenceKey": "c5ffc1b887a607a107ac",
+      "recordIdentifier": "exhibit_id=23",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=23",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；借粮结果与私人关系未知。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-grain-loan",
+        "name": "田子渊借粮食",
+        "dynasty": "汉",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "stele",
+        "story": "1979年马圈湾烽燧出土。馆方据简文解释为粮食短缺者向戍卒田子渊借粮，体现边塞生活的窘迫；不能把借粮结果写成已知。",
+        "keywords": [
+          "田子渊借粮食",
+          "简牍",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "借粮结果与私人关系未知。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "1979年出土于敦煌马圈湾汉代烽燧遗址，由简文可知，田子渊是一名久守边塞的戍卒，在友人眼中田子渊“起居无它”，故在自己粮食短缺的时候，希望田子渊能借些粮食，道出了边塞戍卒生活窘迫和心酸。现藏甘肃简牍博物馆。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "One slender uneven wooden slip with worn edges and blurred ink traces.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=21",
+      "evidenceKey": "f5c4e8766bafdf8ad559",
+      "recordIdentifier": "exhibit_id=21",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=21",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；不把概括图当可量测的秦代地图；七图四板不拆计。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-qin-wood-map",
+        "name": "天水放马滩秦木板地图",
+        "dynasty": "秦",
+        "era": "秦汉",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "1986年6月天水放马滩1号秦墓出土，四块木板绘七幅地图，其中一幅未完成。全组只计一条；AI示意不复原真实山川线和地名。",
+        "keywords": [
+          "天水放马滩秦木板地图",
+          "杂项",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "不把概括图当可量测的秦代地图；七图四板不拆计。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "天水放马滩木板地图，1986 年 6 月出土于天水市北道区党川乡放马滩1号秦墓，共有4件。在4块木板上绘制地图七幅，其中3块正反两面绘制，1块只一面绘制。7幅地图有1幅尚未完成，只绘部分线条，未标注地名，完整地图有6幅。第一块木板由3块拼接而成，正面绘山脉、河流等若干线条，标注地名10处。背面亦绘山川河流，标注地名 8 处。第二块木板，单面绘制，有山川地形和关隘道路，标注地名10处，还有大小关口 5 处和林木资源、各地道里。第三块木板，正面除绘山川道路外，标注地名 12 处，背面所绘未完成。第四块木板，正面除绘有山川地形外，标注地名 18 处。6 幅地图单则为分幅图，合则可拼为一幅整图，大体反映今天水、秦安、清水一带的地形地貌。放马滩木板地图是考古发掘的最早的木板地图，为研究地图绘制史、历史时期该地区的地貌特征等提供了重要资料。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "One display group of four weathered flat wooden boards, abstract sparse non-geographic lines; no words.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=20",
+      "evidenceKey": "4cb7a04001bc914e0130",
+      "recordIdentifier": "exhibit_id=20",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=20",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；术数属历史信仰，不为其有效性背书。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-qin-daybook",
+        "name": "放马滩甲种日书",
+        "dynasty": "秦",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "stele",
+        "story": "1986年放马滩1号秦墓出土。甲种日书记录择日趋吉避凶的术数观念，可与生活选择相对照，但不是科学预测方法；一部按一条。",
+        "keywords": [
+          "放马滩甲种日书",
+          "简牍",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "术数属历史信仰，不为其有效性背书。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "1986年出土于天水放马滩1号秦墓。日书是古代用以选择时日趋吉避凶的数术书籍，操这种选择时日技术的人被称作“日者”。根据《墨子》一书的记载，日者至少在战国时期就已经活跃于民间。至西汉时期，从事择日之术的日者流派众多。放马滩秦简《日书》分甲乙两种，是继湖北睡虎地秦墓《日书》出土后又一次先秦术数文献的重大发现，丰富了我们对于秦汉时期术数体系的认识，是研究秦人的天地观念、思想信仰、社会生活和风俗习惯的珍贵资料。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "One grouped set of thin weathered bamboo slips with subtle non-readable ink traces.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=16",
+      "evidenceKey": "ff375b85a813c7184602",
+      "recordIdentifier": "exhibit_id=16",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=16",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；不编造未载鸡只总数与菜谱。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-chicken-register",
+        "name": "悬泉置元康四年尽十二月丁卯鸡出入簿",
+        "dynasty": "西汉",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "stele",
+        "story": "1990年悬泉置出土，馆方释读为厨房负责人时上报的全年鸡入账与消费统计。一册账簿把接待规模与日常饮食联系起来；全组只计一条。",
+        "keywords": [
+          "悬泉置元康四年尽十二月丁卯鸡出入簿",
+          "简牍",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "不编造未载鸡只总数与菜谱。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "1990年出土于悬泉置遗址， 是悬泉置一名叫时的厨房负责人（啬夫）上报的有关悬泉置一年内入鸡、吃鸡的统计。该组简的出土，为研究悬泉置钱、物来源和消费情况，过往客人的身份构成和招待规模提供了依据。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "Small set of tan narrow wooden accounting slips, laid on flat surface, no legible characters.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=14",
+      "evidenceKey": "3ae5161bc0c8bcf9fad4",
+      "recordIdentifier": "exhibit_id=14",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=14",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；印字与用途不得据AI核验。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-silk-credential",
+        "name": "张掖都尉棨信",
+        "dynasty": "汉",
+        "era": "秦汉",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "1973年居延肩水金关出土，绛红色缯帛高21、宽16厘米，上端有素绂。原件篆书六字；图仅概括材质与轮廓，不用于认字。",
+        "keywords": [
+          "张掖都尉棨信",
+          "织绣",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "印字与用途不得据AI核验。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "绛红色缯帛，高21厘米，宽16厘米，上端有素绂。1973年出土于居延肩水金关遗址，篆书“张掖都尉棨信”6字。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "Faded crimson rectangular silk credential with plain cord at top, no legible script.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=12",
+      "evidenceKey": "2a1a8fbf8b7b1070bb62",
+      "recordIdentifier": "exhibit_id=12",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=12",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；不把研究用文书画成剑，编绳原件已不存。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-sword-appraisal",
+        "name": "相利善敝剑冊",
+        "dynasty": "汉",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "stele",
+        "story": "1974年居延破城子出土，共六简，原有三道编绳但已朽毁，边缘留锲口。馆方释读涉及辨识善剑、敝剑和纹饰的方法；整册一条。",
+        "keywords": [
+          "相利善敝剑冊",
+          "简牍",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "不把研究用文书画成剑，编绳原件已不存。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "1974年出土于居延破城子遗址，每简一行，原有编连三道，编绳处右侧有锲口，编绳已朽毁不存。六简容字210个。规整隶书，墨色如新。内容主要是辨识宝剑的标准和方法，提出鉴定善剑四条标准、鉴定敝剑六条标准以及辨识善剑敝剑纹饰的四条标准。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "Six slender tan wooden slips with small side notches; no attached modern binding or legible writing.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=9",
+      "evidenceKey": "93a302a10ed2f1cc4c6e",
+      "recordIdentifier": "exhibit_id=9",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=9",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；接待规则据馆方解释，不推为全国统一永久规则。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-drum-protocol",
+        "name": "鼓令册",
+        "dynasty": "汉",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "stele",
+        "story": "悬泉置出土的木简记敲鼓次数提示来客职级。馆方列出15、6、3下的不同接待情形；本件是文书而不是鼓，整册只计一条。",
+        "keywords": [
+          "鼓令册",
+          "简牍",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "接待规则据馆方解释，不推为全国统一永久规则。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "悬泉汉简中记录的鼓用于接待，用敲击鼓的次数提示工作人员来的使节和官吏所代表的职级。接待不持节使节敲鼓15下，守丞到悬泉置来敲鼓6下，较低级别官员到达敲鼓3下。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "A small grouped set of weathered wooden document slips, no drum or readable text.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gansu-jiandu",
+      "institution": "甘肃简牍博物馆",
+      "sourceUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=6",
+      "evidenceKey": "eddc6804dbd71471dcb8",
+      "recordIdentifier": "exhibit_id=6",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=6",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；不能编造申诉结局，也不将原册画成骆驼。 不构成照片许可。",
+      "artifact": {
+        "id": "gsjd-camel-dispute",
+        "name": "永光五年康居王使者自言献驼直不如实册",
+        "dynasty": "西汉",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "stele",
+        "story": "1990年悬泉置出土，两道编绳尚存。简文记康居使者对献驼估价和待遇提出申诉，政府要求查办；最终调查结果没有记载，整册计一条。",
+        "keywords": [
+          "永光五年康居王使者自言献驼直不如实册",
+          "简牍",
+          "河西书写与技术"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "不能编造申诉结局，也不将原册画成骆驼。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "1990年出土于悬泉置遗址，两道编绳尚存，简文字迹清晰、内容完整。简文主要记载的是康居王使者五人从敦煌入关后贡献骆驼之事，评估奉献的骆驼时涉及毛色、肥瘦、年齿、价值等，但在酒泉评估骆驼价值时发生纠纷。简文中说到：康居王使者一行在进入汉朝疆域后不仅没有得到应有的膳食，而且边关官吏还在使者不在场的情况下私自评估骆驼价值，变肥为瘦、变白为黄，使者为此上书，而政府下令要严查此事。至于最终的调查结果简中并没有再记载。但是从康居王使者册我们可以一窥“使者相望于道，商旅不绝于途”的古丝路盛景。",
+        "comparison": {
+          "artifactId": "gsjd-maquan-brush",
+          "reason": "比较书写材料、工具与制度文书的用途，不据同一展馆推断同一制作工坊。"
+        }
+      },
+      "visualBrief": "One bound set of thin wooden slips with two remaining plain binding cords, aged brown, no readable script.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3282",
+      "evidenceKey": "2ae219d533ee7a785800",
+      "recordIdentifier": "itemid=3282",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3282",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；工艺与数量有据；不认读或核验AI纹样。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-lion-pouches",
+        "name": "盘金彩绣狮子纹荷包",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "一对荷包打褶收口，用盘金彩绣表现狮子纹，连绳与玉环总长40.5厘米。成对只计一条，原主人和入藏经过未在记录中公布。",
+        "keywords": [
+          "盘金彩绣狮子纹荷包",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "工艺与数量有据；不认读或核验AI纹样。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "盘金彩绣狮子纹荷包 2017-12-29 时代：清 质地：丝 描述：该绣品为一对狮子纹荷包。荷包面打褶，荷包口抽紧。所用针法为盘金彩绣。1对，2只，尺寸11.5*11.5cm，含绳、玉环总长40.5cm。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "A pair of gathered silk drawstring pouches with approximate gold lion motifs, cords and small jade rings.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3281",
+      "evidenceKey": "205ed852813e36b2bbc3",
+      "recordIdentifier": "itemid=3281",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3281",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；吉愿不等于物主传记。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-yellow-knots-pouch",
+        "name": "黄绸地打籽绣多子多福荷包",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "黄色丝绸荷包用打籽绣构成多子多福纹样，长10.1、宽14.5厘米。可从细小针结看装饰组织；纹样表达吉愿，不说明实际生育经历。",
+        "keywords": [
+          "黄绸地打籽绣多子多福荷包",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "吉愿不等于物主传记。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "黄绸地打籽绣多子多福荷包 2017-12-29 尺寸：长：10.1 宽： 14.5（厘米） 时代：清 质地：丝 描述：该绣品为一荷包。主要面料为黄色绸，其上打籽绣多子多福纹样。打籽绣是采用打籽针刺绣的作品。打籽是一种比较重要的针法，用力须均匀紧密。因为籽粒细小，组合灵活，可以绣花蕊，也可以绣各种精致的图案。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "Yellow silk pouch with fine dense knotted floral embroidery, soft rounded silhouette.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3280",
+      "evidenceKey": "25a03b41774e349d724b",
+      "recordIdentifier": "itemid=3280",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3280",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；定年民国；制作人未知。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-blue-waist-pouch",
+        "name": "蓝缎圈金铺绒绣石榴飞雁腰包",
+        "dynasty": "民国",
+        "era": "近现代",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "蓝缎腰包以圈金线勾轮廓，再以铺绒绣表现石榴与飞雁。馆方定年民国，不能按传统纹样误归清代；制作人与发现过程未知。",
+        "keywords": [
+          "蓝缎圈金铺绒绣石榴飞雁腰包",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "定年民国；制作人未知。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "蓝缎圈金铺绒绣石榴飞雁腰包 2017-12-29 尺寸：长：9.9 宽： 28.1（厘米） 时代：民国 质地：丝 描述：该腰包主要采用蓝色缎，其上圈金铺绒绣石榴飞雁纹样。圈金绣，属于钉金绣，用一根金线或银线圈出纹样的外轮廓，再用丝线以其它针法绣轮廓内部的地方。铺绒绣也叫别绒或瘪绒，也就是挑花。其特征是以满铺绒线成为整个绣地，以极细的生丝线挑出图案。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "Wide blue satin waist pouch with approximate gold outlined pomegranate and flying goose motifs.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3279",
+      "evidenceKey": "4550212e5d07e0cff078",
+      "recordIdentifier": "itemid=3279",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3279",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；图案不直接等于内装物或物主职业。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-go-waist-pouch",
+        "name": "白绸绣桃子围棋腰包",
+        "dynasty": "民国",
+        "era": "近现代",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "白绸腰包中央用黑丝线绣桃子与围棋纹，外围镶黑素缎。长17.3、宽30.5厘米；围棋图像不能证明它曾装棋子或属于某位棋手。",
+        "keywords": [
+          "白绸绣桃子围棋腰包",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "图案不直接等于内装物或物主职业。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "白绸绣桃子围棋腰包 2017-12-29 尺寸：长：17.3 宽： 30.5 （厘米） 时代：民国 质地：丝 描述：该绣品为一腰包。中央白色绸料上用黑色丝线绣桃子围棋纹样。白绸周围镶黑色素缎。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "Broad white silk waist pouch edged in black satin, abstract peach and go-board embroidery.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3284",
+      "evidenceKey": "a679fe76c51c2f148d7f",
+      "recordIdentifier": "itemid=3284",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3284",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；使用场景未知。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-bell-ornament",
+        "name": "红绿缎绣花卉小饰件",
+        "dynasty": "民国",
+        "era": "近现代",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "钟形丝织小饰件两面以红、绿素缎为主要面料，彩丝绣花。馆方尺寸10.4乘8.5厘米，具体悬挂场景未说明，不能据器形编造用途。",
+        "keywords": [
+          "红绿缎绣花卉小饰件",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "使用场景未知。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "红绿缎绣花卉小饰件 2017-12-29 尺寸：长：10.4 宽：8.5 （厘米） 时代：民国 质地：丝 描述：此件小饰件外观呈钟形，两面各以红、绿色素缎做主要面料，其上用彩色丝线以绣出花卉纹样。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "Small bell-shaped embroidered silk ornament, red face and green reverse, approximate floral motif.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3283",
+      "evidenceKey": "225f9765993eba975e78",
+      "recordIdentifier": "itemid=3283",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3283",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；名片内容与物主未知。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-calling-card-bag",
+        "name": "品蓝缎彩绣花卉名片袋",
+        "dynasty": "民国",
+        "era": "近现代",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "长形名片袋上端略圆且有开口，以品蓝缎为地、粉色花边镶缘。名片与传统针线结合，说明日常物件也能成为观察近代交往的入口。",
+        "keywords": [
+          "品蓝缎彩绣花卉名片袋",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "名片内容与物主未知。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "品蓝缎彩绣花卉名片袋 2017-12-29 尺寸：长：9.5 宽：6.4 （厘米） 时代：民国 质地：丝 描述：此件绣品外观呈长形，上端略圆，有开口，用以放置名片。此名片袋以品蓝色素缎做主要面料，并用粉色花边镶边装饰，其上用彩色丝线绣出花卉纹样。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "Small long royal-blue satin calling-card pouch, rounded open top, pink edging and restrained floral embroidery.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3274",
+      "evidenceKey": "775a4bced975a5424d75",
+      "recordIdentifier": "itemid=3274",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3274",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；双袋是一件褡裢，不分成两条。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-double-pouch",
+        "name": "白缎铺绒绣桃子螃蟹褡裢",
+        "dynasty": "民国",
+        "era": "近现代",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "白缎褡裢中部有口，两端垂成两个袋囊，上绣螃蟹、下绣桃子。馆方登记铺绒绣；携带功能明确，但具体装过什么和佩用人未知。",
+        "keywords": [
+          "白缎铺绒绣桃子螃蟹褡裢",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "双袋是一件褡裢，不分成两条。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "白缎铺绒绣桃子螃蟹褡裢 2017-12-29 尺寸：长：16.9 宽：9 （厘米） 时代：民国 质地：丝 描述：此件褡裢外观呈长形，中部有口，两端下垂，成两袋，是用以携带物品的袋囊。此褡裢以白色素缎做主要面料，其上用彩色丝线以铺绒绣的技法绣出图案，其中上方为螃蟹纹样，下方则为桃子纹样。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "One double-ended white satin carrying pouch, center opening, approximate crab and peach embroidery.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3275",
+      "evidenceKey": "59fb2a72db920e0a3931",
+      "recordIdentifier": "itemid=3275",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3275",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；不据AI辨识昆虫种属。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-moth-pouch",
+        "name": "彩绸绣石榴花虫荷包",
+        "dynasty": "民国",
+        "era": "近现代",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "荷包略呈飞蛾形，红、绿、蓝、黑绸缎拼缝，上端系绳，粉绦带镶缘，绣石榴与花虫。图像名称采用馆方，不作昆虫种属认定。",
+        "keywords": [
+          "彩绸绣石榴花虫荷包",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "不据AI辨识昆虫种属。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "彩绸绣石榴花虫荷包 2017-12-29 尺寸：长：10.7 宽：16.7 （厘米） 时代：民国 质地：丝 描述：此件钱袋外观略似飞蛾形，上端有一系绳，以红、绿、蓝、黑等各色绸缎拼缝而成，其上用彩色丝线绣出石榴及花虫纹样，外圈则使用了粉色绦带镶边装饰。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "Moth-like multicolored patchwork silk pouch, pink border and small cord, approximate pomegranate and insect embroidery.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3272",
+      "evidenceKey": "d5d26322e25596dd8d13",
+      "recordIdentifier": "itemid=3272",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3272",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；系腰用途有据，实际所装钱币未知。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-plum-money-pouch",
+        "name": "彩绢圈金绣梅花钱袋",
+        "dynasty": "民国",
+        "era": "近现代",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "方形钱袋由多色素绢拼缝，白绢地绣梅花并以捻金线勾边，外缘黑缎。馆方说明使用时系于腰间，确切使用者未载。",
+        "keywords": [
+          "彩绢圈金绣梅花钱袋",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "系腰用途有据，实际所装钱币未知。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "彩绢圈金绣梅花钱袋 2017-12-29 尺寸：长：14.9 宽：11.6 （厘米） 时代：民国 质地：丝 描述：此件钱袋外观呈方形，使用时系于腰间，以桃红、白、绿、蓝、橙等各色素绢拼缝而成，其中在白色绢地上用彩色丝线绣出梅花纹样，并用捻金线勾边，外圈则使用了黑色素缎镶边装饰。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "Square multicolored silk money pouch with white center, simple plum embroidery, gold outlines and black edge.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1900",
+      "evidenceKey": "bf9d13df838c97d8e8ae",
+      "recordIdentifier": "itemid=1900",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1900",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；款式渊源属馆方解释，不建立本件个人身份。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-ming-yesa",
+        "name": "明代曲水如意云纹暗花缎曳撒袍",
+        "dynasty": "明",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "褐色暗花缎曳撒袍交领右衽、双袖平直，腰以下打褶。馆方将款式联系明代乘马服饰；本件较完整，但不能认定曾由某位君臣穿用。",
+        "keywords": [
+          "明代曲水如意云纹暗花缎曳撒袍",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "款式渊源属馆方解释，不建立本件个人身份。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "明代曲水如意云纹暗花缎曳撒袍 2017-12-29 时代 明 数量 1件 质地 丝 色泽 褐 尺寸(厘米) 长：108 宽：49 通袖长：214 形状内容描述 曳撒袍款式为交领右衽，双袖平直，最大特点是腰部以下作襞积（打褶），下裳呈裙状。其形式受元代蒙古辫线袄影响，是明代早期君臣外出乘马时所穿。此袍以暗花缎为面料，曲水如意云纹为纹样，整件服装较完整。",
+        "comparison": {
+          "artifactId": "csm-yellow-knots-pouch",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "Brown silk damask robe, crossed collar closing right, straight sleeves and pleated skirt below waist, empty garment laid flat.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1904",
+      "evidenceKey": "32d616fdaacd05803136",
+      "recordIdentifier": "itemid=1904",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1904",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；寿衣用途是推断，出土墓主未知。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-cloud-fragment",
+        "name": "四合云纹绮寿衣",
+        "dynasty": "明",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "馆方登记一块残破丝织物，织有四合云纹绮，并推断原是寿衣的一部分。保留推断语气；不能凭名字复原成一件完整衣服或确定墓主。",
+        "keywords": [
+          "四合云纹绮寿衣",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "寿衣用途是推断，出土墓主未知。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "四合云纹绮寿衣 2017-12-29 时代 明 数量 一块 质地 丝 形状内容描述 该织物已经相当残破，其面料采用四合云纹绮。推断其原件为寿衣一部分。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "One heavily fragmented silk cloth with subtle approximate four-part cloud pattern; not a complete robe.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1898",
+      "evidenceKey": "a64ff9be95ae3c44a35c",
+      "recordIdentifier": "itemid=1898",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1898",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；一双计一条，不推断物主。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-padded-socks",
+        "name": "绢面绵袜",
+        "dynasty": "明永乐",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "一双绢面袜内衬绵，馆方定为明永乐。它让我们从保暖与贴身穿用认识织物；原物主、出土地及现代修复经过在这条记录中未载。",
+        "keywords": [
+          "绢面绵袜",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "一双计一条，不推断物主。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "绢面绵袜 2017-12-29 时代 明永乐 数量 1双 质地 丝 尺寸(厘米) 长：22.5cm 底长： 高:15.5cm 形状内容描 述该袜，一对，绢料为面，内衬绵。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "A pair of low pale silk padded cloth socks, soft worn texture, no feet or mannequin.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1897",
+      "evidenceKey": "4e48399489f20119dcd0",
+      "recordIdentifier": "itemid=1897",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1897",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；官网标题辑线、正文缉线；具体线芯材质未核。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-ruyi-shoes",
+        "name": "辑线绣如意纹缎鞋",
+        "dynasty": "明永乐",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "黄色如意纹暗花缎鞋一双，上有缉线绣。馆方介绍该针法线芯可用不同材料，但没有对本双线芯给出检测结论，不选择某一种写成事实。",
+        "keywords": [
+          "辑线绣如意纹缎鞋",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "官网标题辑线、正文缉线；具体线芯材质未核。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "辑线绣如意纹缎鞋 2017-12-29 时代 明永乐 数量 1双 质地 丝 色泽 黄 尺寸(厘米) 长：23 底长：16 高:5 底宽:2.5 形状内容描述 该鞋，面料采用如意纹暗花缎，其上缉线绣。缉线绣，是京绣的一个品种，它要由特别的绣线来做，一般用有颜色的多股线，或者用马鬃、细铜丝作线芯，外面再一圈一圈绕上别的丝线。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "A pair of small yellow satin cloth shoes, low sides, approximate raised cord ruyi embroidery.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1899",
+      "evidenceKey": "a6594ff8a8f1144b2c96",
+      "recordIdentifier": "itemid=1899",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1899",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；原登记一只；AI数量必须保持。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-peony-satin-shoe",
+        "name": "刺绣牡丹花纹缎鞋",
+        "dynasty": "明永乐",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "本条官方数量为一只黄色素缎鞋，饰刺绣牡丹。保留单只状态，不为画面好看虚构另一只；织物起源的概说不能当本件发现史。",
+        "keywords": [
+          "刺绣牡丹花纹缎鞋",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "原登记一只；AI数量必须保持。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "刺绣牡丹花纹缎鞋 2017-12-29 时代 明永乐 数量 1只 质地 丝 色泽 黄 尺寸(厘米) 长：24.5 底长： 高:5 形状内容描述 该鞋，面料采用素缎。素缎，即不提花的缎织物。关于它的起源，一般认为是宋末元初。缎地上刺绣牡丹花纹。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "ONE small worn yellow satin cloth shoe with approximate embroidered peony; no second shoe.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1894",
+      "evidenceKey": "41b804aa1178200293ba",
+      "recordIdentifier": "itemid=1894",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1894",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；不凭AI验证五枚组织。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-gold-peony-shoes",
+        "name": "钉金绣牡丹花纹缎鞋",
+        "dynasty": "明永乐",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "一双黄色缎鞋以五枚素缎为地，鞋背以钉金线绣牡丹。对比普通丝线刺绣可理解线材与固定方式，但具体工匠和生产地点仍未知。",
+        "keywords": [
+          "钉金绣牡丹花纹缎鞋",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "不凭AI验证五枚组织。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "钉金绣牡丹花纹缎鞋 2017-12-29 时代 明永乐 数量 1双 质地 丝 色泽 黄色 形状内容描述 该件绣鞋共两只，以五枚素缎做地，鞋背上用钉金线绣出牡丹花卉纹样。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "A pair of yellow satin cloth shoes with approximate couching gold peony embroidery.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1896",
+      "evidenceKey": "72f5f70e0fc774538718",
+      "recordIdentifier": "itemid=1896",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1896",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；题名纱与正文绢不一致，组织待核。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-plain-skirt",
+        "name": "素纱裙",
+        "dynasty": "明永乐",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "黄色百褶裙前后片中间开衩并留大褶。馆方题名作素纱裙，正文说面料为平纹绢，两个口径并列保留，不擅自判定组织或直接传承。",
+        "keywords": [
+          "素纱裙",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "题名纱与正文绢不一致，组织待核。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "素纱裙 2017-12-29 时代 明永乐 数量 1条 质地 丝 色泽 黄色 尺寸(厘米) 长：97.5 腰宽：65 下摆宽:180 形状内容描述 裙子为百褶，前片和后片的中间开衩并留有大于其他褶一倍的一大褶，形似清代的马面裙，裙的面料为1/1平纹的绢织物。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "Yellow pleated silk skirt laid flat, wide central panels, gentle worn fabric, no mannequin.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1901",
+      "evidenceKey": "35f13a6efe45b3a1cd3a",
+      "recordIdentifier": "itemid=1901",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1901",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；传统纹样不作现代政治标识；AI不绘准确织纹。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-long-jacket",
+        "name": "卍字田格纹绮长袖夹衣",
+        "dynasty": "明永乐",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "黄色长袖夹衣对襟直领，袖缘以绢贴边，馆方记织物有卍字田格纹。卍纹为传统纹样，示意图只呈概括几何纹，不用于精确认纹。",
+        "keywords": [
+          "卍字田格纹绮长袖夹衣",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "传统纹样不作现代政治标识；AI不绘准确织纹。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "卍字田格纹绮长袖夹衣 2017-12-29 时代 明永乐 数量 1件 质地 丝 色泽 黄色 尺寸(厘米) 长：61 通袖长: 198 形状内容描述 衣服对襟、直领，袖缘用绢贴边，以用1/1平纹地上起卍字田格纹花的织物制成。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "Yellow long-sleeved open-front straight-collar silk jacket laid flat, plain edging, faint abstract geometric grid.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1892",
+      "evidenceKey": "57811f9118b4b6d3dde2",
+      "recordIdentifier": "itemid=1892",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1892",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；题名罗与正文绢不一致，组织待核。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-short-jacket",
+        "name": "绣花卉纹缘素罗短袖夹衣",
+        "dynasty": "明永乐",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "短袖夹衣对襟直领，领缘贴绣花边，门襟两根系带、腋下开衩。题名素罗而正文称平纹绢，保留材料描述冲突；物主与出土地未知。",
+        "keywords": [
+          "绣花卉纹缘素罗短袖夹衣",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "题名罗与正文绢不一致，组织待核。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "绣花卉纹缘素罗短袖夹衣 2017-12-29 时代 明永乐 数量 1件 质地 丝 色泽 黄色 尺寸(厘米) 长：61 胸围:78 通袖长: 120 下摆宽:91 形状内容描述 衣服对襟、直领，领缘贴有刺绣花卉纹花边，门襟处有两根系带，两边腋下开衩，用1/1平纹绢制成。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "Yellow short-sleeved open-front silk jacket with floral collar edging, two plain ties and side slits.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1890",
+      "evidenceKey": "42ada9e2e3775e1f7c96",
+      "recordIdentifier": "itemid=1890",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1890",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；方补身份与纹样未详，不推断官阶。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-patched-robe",
+        "name": "黄色素罗绣花方补交领袍",
+        "dynasty": "明",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "残破黄色交领袍胸前留一块方补。馆方登记素罗与绣花方补，但没说明方补等级或物主；不能按方补轮廓编造官阶和人物故事。",
+        "keywords": [
+          "黄色素罗绣花方补交领袍",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "方补身份与纹样未详，不推断官阶。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "黄色素罗绣花方补交领袍 2017-12-29 时代 明代 数量 1件 质地 丝 色泽 黄色 尺寸(厘米) 长：126 通袖长:210 形状内容描述 该袍服，比较残破，但还能辨认为一交领袍。主体面料采用黄色素罗，袍服前胸有一块方补。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "Fragmentary yellow cross-collar silk robe, worn gaps and a plain approximate square chest patch; no rank animal.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "china-silk",
+      "institution": "中国丝绸博物馆",
+      "sourceUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1891",
+      "evidenceKey": "e6a2e6382c1491664497",
+      "recordIdentifier": "itemid=1891",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1891",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；不虚构墓葬、物主或修复。 不构成照片许可。",
+      "artifact": {
+        "id": "csm-padded-trousers",
+        "name": "黄色缠枝花卉暗花缎绵裤",
+        "dynasty": "明",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "黄色暗花缎绵裤裤腿宽阔，馆方登记缠枝花卉纹，长90厘米。贴身保暖用品可以与外衣比较，但实际穿用者和发现、保护经过仍未知。",
+        "keywords": [
+          "黄色缠枝花卉暗花缎绵裤",
+          "织绣",
+          "衣物与日常"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "不虚构墓葬、物主或修复。 本件逐次保护修复档案未核。",
+        "officialExcerpt": "黄色缠枝花卉暗花缎绵裤 2017-12-29 时代 明代 数量 1件 质地 丝 色泽 黄色 尺寸(厘米) 长：90 腰宽: 60 形状内容描述 此绵裤，裤腿肥阔，面料为黄色缠枝花卉暗花缎。",
+        "comparison": {
+          "artifactId": "csm-ming-yesa",
+          "reason": "比较贴身衣物、外衣与小袋的结构及针线工艺，不建立未经证实的直接传承。"
+        }
+      },
+      "visualBrief": "Wide-legged yellow silk padded trousers with faint approximate scrolling floral damask pattern, laid flat.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "csjiandu",
+      "institution": "长沙简牍博物馆",
+      "sourceUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=255",
+      "evidenceKey": "d9f9060475e03d2a55b6",
+      "recordIdentifier": "nid=255",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=255",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；原套计一条；与其他独立耳杯的对应未证，不认定来自此盒。 不构成照片许可。",
+      "artifact": {
+        "id": "cs-yuyang-cup-box",
+        "name": "云纹漆具杯盒",
+        "dynasty": "西汉",
+        "era": "秦汉",
+        "category": "漆器",
+        "shape": "lacquer",
+        "story": "1993年长沙望城坡渔阳墓出土。椭圆木胎盒外黑内朱、两端圆把柄，内收十个耳杯。盒与杯作为一套只计一条；不要将十杯再拆开新增。",
+        "keywords": [
+          "云纹漆具杯盒",
+          "漆器",
+          "渔阳墓"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "原套计一条；与其他独立耳杯的对应未证，不认定来自此盒。 本件逐次保护修复档案未核。",
+        "officialExcerpt": " [西汉]云纹漆具杯盒 返回 基本信息： 长22.9厘米 宽18.5厘米高13.3厘米 详情： 1993年长沙望城坡西汉王后渔阳墓发掘出土。木胎，椭圆形，子母口，两端凸起为圆形把柄。内盛十个耳杯。外髹黑漆，内髹朱漆，器表朱绘云气纹，口沿绘水波，菱形纹。具杯盒是古人用来盛放耳杯器物的盒子，十个耳杯为一组成套，放在这个具杯盒里面日常保存，以方便于随时取用和收纳。 ",
+        "comparison": {
+          "artifactId": "cs-yuyang-triangle-cup",
+          "reason": "比较收纳、饮酒、封缄与游戏的漆木器结构，不认定出自同一匠人。"
+        }
+      },
+      "visualBrief": "Oval black lacquer wooden box, red interior, round end handles and small nested ear cups, muted cloud decoration.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "csjiandu",
+      "institution": "长沙简牍博物馆",
+      "sourceUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=250",
+      "evidenceKey": "c5c38fd517980e5d9dd1",
+      "recordIdentifier": "nid=250",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=250",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；具体刻字不由AI复现；不认定属于具杯盒十杯。 不构成照片许可。",
+      "artifact": {
+        "id": "cs-yuyang-triangle-cup",
+        "name": "“渔阳”三角纹漆耳杯",
+        "dynasty": "西汉",
+        "era": "秦汉",
+        "category": "漆器",
+        "shape": "cup",
+        "story": "1993年渔阳王后墓出土，长17.8厘米，椭圆木胎外黑内红，两侧有耳，朱绘三角与波折纹。底部锥刻渔阳二字；AI不仿刻字。",
+        "keywords": [
+          "“渔阳”三角纹漆耳杯",
+          "漆器",
+          "渔阳墓"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "具体刻字不由AI复现；不认定属于具杯盒十杯。 本件逐次保护修复档案未核。",
+        "officialExcerpt": " [西汉]“渔阳”三角纹漆耳杯 返回 基本信息： 长17.8厘米 宽14厘米高5.8厘米 详情： 1993年长沙望城坡西汉渔阳王后墓中出土。木胎，椭圆形，曲腹，平底。外髹黑漆，内髹红漆。耳部与外部口沿朱绘三角纹波折纹，外底锥刻“渔阳”二字。耳杯是古代的酒具，两侧分别有一个突出的把手，看上去就像两只耳朵，故名之。耳杯在战国时出现，汉代已很盛行，一直沿用到南北朝时期。 ",
+        "comparison": {
+          "artifactId": "cs-yuyang-cup-box",
+          "reason": "比较收纳、饮酒、封缄与游戏的漆木器结构，不认定出自同一匠人。"
+        }
+      },
+      "visualBrief": "Black outside and red inside oval lacquer ear cup, two flat handles, approximate red triangle border; no words.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "csjiandu",
+      "institution": "长沙简牍博物馆",
+      "sourceUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=249",
+      "evidenceKey": "da23d20f9057d55ddc6d",
+      "recordIdentifier": "nid=249",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=249",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；同名另一网页未证不同器物，排除重复。 不构成照片许可。",
+      "artifact": {
+        "id": "cs-yuyang-phoenix-cup",
+        "name": "“渔阳”凤纹漆耳杯",
+        "dynasty": "西汉",
+        "era": "秦汉",
+        "category": "漆器",
+        "shape": "cup",
+        "story": "1993年渔阳王后墓出土，长18厘米，木胎外黑内红，凤鸟与云气纹构成主题。馆方网页249为本条识别号，不把同名248未经比对再入库。",
+        "keywords": [
+          "“渔阳”凤纹漆耳杯",
+          "漆器",
+          "渔阳墓"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "同名另一网页未证不同器物，排除重复。 本件逐次保护修复档案未核。",
+        "officialExcerpt": " [西汉]“渔阳”凤纹漆耳杯 返回 基本信息： 长18厘米 宽14.3厘米高5.5厘米 详情： 1993年长沙望城坡西汉渔阳王后墓中出土。木胎，椭圆形，曲腹，平底。外髹黑漆，内髹红漆。耳部朱绘云气纹，几何纹，杯身主题纹饰为变形凤鸟纹与云气纹，外底锥刻“渔阳”二字。耳杯是古代的酒具，两侧分别有一个突出的把手，看上去就像两只耳朵，故名之。耳杯在战国时出现，汉代已很盛行，一直沿用到南北朝时期。 ",
+        "comparison": {
+          "artifactId": "cs-yuyang-cup-box",
+          "reason": "比较收纳、饮酒、封缄与游戏的漆木器结构，不认定出自同一匠人。"
+        }
+      },
+      "visualBrief": "Oval black and red lacquer ear cup, two handles, restrained approximate phoenix and cloud motif; no inscriptions.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "csjiandu",
+      "institution": "长沙简牍博物馆",
+      "sourceUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=247",
+      "evidenceKey": "64ed966affe429e0ad6e",
+      "recordIdentifier": "nid=247",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=247",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；材质未在正文明确，不擅自定木或金属。 不构成照片许可。",
+      "artifact": {
+        "id": "cs-changsha-seal-case",
+        "name": "“长沙后府”封泥匣",
+        "dynasty": "西汉",
+        "era": "秦汉",
+        "category": "杂项",
+        "shape": "seal",
+        "story": "1993年渔阳王后墓出土，长5、宽3厘米。长方形匣中凹槽容纳封泥，原印长沙后府四字；可比较文书防拆，不把印文当墓主人姓名。",
+        "keywords": [
+          "“长沙后府”封泥匣",
+          "杂项",
+          "渔阳墓"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "材质未在正文明确，不擅自定木或金属。 本件逐次保护修复档案未核。",
+        "officialExcerpt": " [西汉]“长沙后府”封泥匣 返回 基本信息： 长5厘米 宽3厘米厚1.2厘米 详情： 1993年长沙望城坡西汉渔阳王后墓中出土。封泥匣呈长方形，中间下凹以填封泥，纵断面呈凹字型。封泥上印有“长沙后府”四个字。封泥是古代印章盖在门户或包裹封口上的小块泥土，防止被别人打开或拆动，也称为“泥封”。封泥是古代印章直接打上的印痕，它的历史价值和艺术价值，与印章本身有同等的重要性。由于印章本身绝大多数没有留传下来，现在传世封泥上的印文，就是我们摹习与考证的直接资料。同时封泥上的文字也是我们断定墓葬主人身份的重要依据。 ",
+        "comparison": {
+          "artifactId": "cs-yuyang-cup-box",
+          "reason": "比较收纳、饮酒、封缄与游戏的漆木器结构，不认定出自同一匠人。"
+        }
+      },
+      "visualBrief": "Small rectangular case with central shallow recessed clay seal, worn earth tones, no legible seal characters.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "csjiandu",
+      "institution": "长沙简牍博物馆",
+      "sourceUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=253",
+      "evidenceKey": "239e5032295bf759a2d9",
+      "recordIdentifier": "nid=253",
+      "inventoryNumber": null,
+      "recordUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=253",
+      "supports": "官方逐件名称、材质、年代和摘要明列事实；六博判断属馆方解释，示意槽线不复原规则。 不构成照片许可。",
+      "artifact": {
+        "id": "cs-yuyang-game-board",
+        "name": "博局盘",
+        "dynasty": "西汉",
+        "era": "秦汉",
+        "category": "漆器",
+        "shape": "lacquer",
+        "story": "1993年渔阳墓出土，方盘边长43.2厘米、髹黑漆，局盘与底座用竹钉连接。馆方认为应为六博；完整行棋规则仍不能由本盘独立复原。",
+        "keywords": [
+          "博局盘",
+          "漆器",
+          "渔阳墓"
+        ]
+      },
+      "writingNotes": {
+        "making": "只按下列官方摘录扩写制作；未载工序、工具、温度或织物检测不补造。",
+        "discovery": "摘要和摘录明列发现过程可用；没有明列的年份、墓号和物主继续未知。",
+        "research": "六博判断属馆方解释，示意槽线不复原规则。 本件逐次保护修复档案未核。",
+        "officialExcerpt": " [西汉]博局盘 返回 基本信息： 边长43.2厘米 高4厘米 详情： 1993年长沙望城坡西汉渔阳墓出土。方形。中央方框，四周有曲道，皆刻浅槽。底座与局盘用竹钉连接。通体髹黑漆，曲尺行底座装饰云气纹。此物应是古代的六博。中国古代有六博、樗蒲、双陆等游戏形式，都是属于行棋类的骰子博戏。六博本有大博和小博之分，大博用骰六枚，称为\"箸\"，小博用骰二枚，称为“茕”。在比赛的时候，双方互掷骰子，行棋步数则主要根据博彩而定。由于博彩具有很大的偶然性，因此六博在古代时主要成为一种博戏的形式。 ",
+        "comparison": {
+          "artifactId": "cs-yuyang-cup-box",
+          "reason": "比较收纳、饮酒、封缄与游戏的漆木器结构，不认定出自同一匠人。"
+        }
+      },
+      "visualBrief": "Square black lacquer game board with shallow angular channels and raised base, approximate cloud decoration, no counters.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-05",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    }
+  ]
+}

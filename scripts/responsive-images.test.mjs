@@ -15,9 +15,9 @@ const sha256 = value => createHash('sha256').update(value).digest('hex');
 
 test('responsive evidence covers 208 records while held and text-only artifacts stay excluded', () => {
   assert.deepEqual(Object.keys(manifest.artifacts), Object.keys(images));
-  assert.equal(manifest.summary.artifactRecords, 223);
+  assert.equal(manifest.summary.artifactRecords, Object.keys(images).length);
   assert.equal(manifest.summary.illustrationOnlyArtifacts ?? 0, 0);
-  assert.equal(manifest.summary.eligibleArtifacts, 223);
+  assert.equal(manifest.summary.eligibleArtifacts, Object.values(images).filter(info => !info.imageHold && !info.illustrationOnly).length);
   assert.equal(manifest.summary.heldArtifacts, 0);
   for (const [id, info] of Object.entries(images)) {
     const artifact = manifest.artifacts[id];

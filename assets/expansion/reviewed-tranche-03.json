@@ -1,0 +1,1557 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-10-04",
+  "note": "45条逐件核读，38条来自城市馆；成组不拆零，候选不计。独立AI图仅概括展示，非原物照片。",
+  "museums": [],
+  "items": [
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/lianghan/201901/48.html",
+      "evidenceKey": "5ef64d5885475c74b7b1",
+      "recordIdentifier": "/lianghan/201901/48.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；这件陶俳优俑出土于成都金堂李家梁子汉墓，高60厘米。俑坐于圆垫，左手执鼓、右手作击鼓状，伸出的脚和仰面大笑使静止的泥土充满表演意味。它与国博说唱俑是不同出土记录，不是同一件；台词和具体演出场合未知。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-comic-figure",
+        "name": "陶俳优俑",
+        "dynasty": "东汉",
+        "era": "秦汉",
+        "category": "陶俑",
+        "shape": "figure",
+        "story": "这件陶俳优俑出土于成都金堂李家梁子汉墓，高60厘米。俑坐于圆垫，左手执鼓、右手作击鼓状，伸出的脚和仰面大笑使静止的泥土充满表演意味。它与国博说唱俑是不同出土记录，不是同一件；台词和具体演出场合未知。",
+        "keywords": [
+          "陶俳优俑",
+          "陶俑"
+        ]
+      },
+      "writingNotes": {
+        "making": "陶制与执鼓坐姿明确，制坯模具和烧成温度未载。",
+        "discovery": "金堂李家梁子汉墓出土，出土日期未载。",
+        "research": "不把表演形象当作现代曲艺直接祖先。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "gb-jgs",
+          "reason": "比较同为汉俳优形象的姿态和出土地，不暗示同一演员或工坊。"
+        }
+      },
+      "visualBrief": "Seated East Han terracotta comic drummer, round cushion, headscarf, bare torso, trousered barefoot legs, left hand holding drum, right hand raised, one leg kicking, broad laugh.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/lianghan/201901/47.html",
+      "evidenceKey": "f9052903e142e2df408c",
+      "recordIdentifier": "/lianghan/201901/47.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；东汉石熊高40厘米，出土于成都六一一所汉墓。它后肢蹲坐，一爪置膝、一爪放在脑后，肩上有圆形銎孔，耳口残留涂朱。馆方用汉墓神瑞观念解释此类熊形，但本件究竟承托何物及墓主人身份仍未知。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-stone-bear",
+        "name": "石熊",
+        "dynasty": "东汉",
+        "era": "秦汉",
+        "category": "石刻",
+        "shape": "misc",
+        "story": "东汉石熊高40厘米，出土于成都六一一所汉墓。它后肢蹲坐，一爪置膝、一爪放在脑后，肩上有圆形銎孔，耳口残留涂朱。馆方用汉墓神瑞观念解释此类熊形，但本件究竟承托何物及墓主人身份仍未知。",
+        "keywords": [
+          "石熊",
+          "石刻"
+        ]
+      },
+      "writingNotes": {
+        "making": "石雕、銎孔和残朱有据；原承托部件未知。",
+        "discovery": "成都六一一所汉墓，未载发掘年月。",
+        "research": "辟邪解释归于馆方研究，不推断实用负载。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "cd-stone-rhino",
+          "reason": "比較石雕动物的体量、姿态与语境，不把石熊的墓葬功能套给石犀。"
+        }
+      },
+      "visualBrief": "Squatting grey stone bear, one forepaw on knee and other behind head, circular shoulder socket, open mouth and faint red traces.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/lianghan/201901/44.html",
+      "evidenceKey": "7295c688cdf66dfde174",
+      "recordIdentifier": "/lianghan/201901/44.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；馆方“成汉陶俑”页具体展示陶吹哨俑，出土于成都浆洗街桓侯巷成汉墓。凸眼、阔口、大耳使它与常见汉俑不同。关于賨人形象或宗教信仰的联系只是解释；本条对应展示吹哨俑，不把同墓全部陶俑合计为多件。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-chenghan-figure",
+        "name": "成汉陶俑",
+        "dynasty": "成汉",
+        "era": "魏晋南北朝",
+        "category": "陶俑",
+        "shape": "figure",
+        "story": "馆方“成汉陶俑”页具体展示陶吹哨俑，出土于成都浆洗街桓侯巷成汉墓。凸眼、阔口、大耳使它与常见汉俑不同。关于賨人形象或宗教信仰的联系只是解释；本条对应展示吹哨俑，不把同墓全部陶俑合计为多件。",
+        "keywords": [
+          "成汉陶俑",
+          "陶俑"
+        ]
+      },
+      "writingNotes": {
+        "making": "陶制及持物造型可述，制作工序未详。",
+        "discovery": "桓侯巷成汉墓；同墓纪年砖不能直接当此俑制作日期。",
+        "research": "賨人联系属假说，不确定人物族属。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "cd-comic-figure",
+          "reason": "比较吹哨和击鼓的表达，不认定族群或表演传承。"
+        }
+      },
+      "visualBrief": "Terracotta whistle-player, capped figure, prominent eyes, broad mouth, large ears, hands near mouth; approximate expression.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/tangsong/201901/52.html",
+      "evidenceKey": "4650e31e1b547d3c24ab",
+      "recordIdentifier": "/tangsong/201901/52.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；赵廷隐墓出土的陶庭院长146厘米，属于后蜀时期模型明器。大门、楼阁、后房围出院落，内有灶、井等模型。馆方认为可能仿照墓主人住所；这是对模型的解释，不是已找到并测绘的真实住宅。本组按一条收录。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-pottery-courtyard",
+        "name": "陶庭院",
+        "dynasty": "后蜀",
+        "era": "隋唐五代",
+        "category": "陶俑",
+        "shape": "figure",
+        "story": "赵廷隐墓出土的陶庭院长146厘米，属于后蜀时期模型明器。大门、楼阁、后房围出院落，内有灶、井等模型。馆方认为可能仿照墓主人住所；这是对模型的解释，不是已找到并测绘的真实住宅。本组按一条收录。",
+        "keywords": [
+          "陶庭院",
+          "陶俑"
+        ]
+      },
+      "writingNotes": {
+        "making": "陶塑建筑及彩绘、局部描金有据；烧制装配细节未知。",
+        "discovery": "成都龙泉驿赵廷隐墓出土，发掘日期未载。",
+        "research": "仿生前住所为推测；不按模型复原完整府第。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-pottery-well",
+          "reason": "比较院落组合与单件井模型，关注随葬缩影而非共同墓主。"
+        }
+      },
+      "visualBrief": "Terracotta courtyard architectural model, gate, side towers, rear rooms, central pavilion, small stove and well, muted painted remains.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/tangsong/201901/51.html",
+      "evidenceKey": "38383367c7d57c133f9c",
+      "recordIdentifier": "/tangsong/201901/51.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；成都金河路遗址出土的邛窑瓷炉高15厘米，豆形高足，原盖已缺。黄釉口沿与足部围住绿色三重莲瓣，瓣上还模印飞天。它让人观察贴塑、模印与釉色如何叠加；缺盖不以AI补成完整原状。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-qiong-kiln-censer",
+        "name": "邛窑黄绿釉高足瓷炉",
+        "dynasty": "晚唐至五代",
+        "era": "隋唐五代",
+        "category": "陶瓷",
+        "shape": "vase",
+        "story": "成都金河路遗址出土的邛窑瓷炉高15厘米，豆形高足，原盖已缺。黄釉口沿与足部围住绿色三重莲瓣，瓣上还模印飞天。它让人观察贴塑、模印与釉色如何叠加；缺盖不以AI补成完整原状。",
+        "keywords": [
+          "邛窑黄绿釉高足瓷炉",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "三重莲瓣贴塑、模印与黄绿釉明确；配釉比例未知。",
+        "discovery": "成都金河路遗址出土，具体发掘年月未载。",
+        "research": "不能由飞天装饰确定某一次宗教仪式。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-incense-burner",
+          "reason": "比较镂孔与贴塑的装饰选择，不推断窑口传播路径。"
+        }
+      },
+      "visualBrief": "Lidless tall-stem ceramic burner, yellow rim and foot, three tiers of green curled lotus petals with abstract relief accents.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/tangsong/201901/50.html",
+      "evidenceKey": "45e52e7443466dd748f9",
+      "recordIdentifier": "/tangsong/201901/50.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；这组30枚青铜象棋子于2016年5月在成都天府新区万安镇附近宋墓发现，直径约1.8厘米。清理后发现其配置与现代棋并非完全一致。馆方据保存棋子推测玩法近似现代象棋；不将这种推测写成规则定论，30枚也只算一组。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-bronze-chess",
+        "name": "青铜象棋子",
+        "dynasty": "宋",
+        "era": "宋辽金元",
+        "category": "青铜器",
+        "shape": "misc",
+        "story": "这组30枚青铜象棋子于2016年5月在成都天府新区万安镇附近宋墓发现，直径约1.8厘米。清理后发现其配置与现代棋并非完全一致。馆方据保存棋子推测玩法近似现代象棋；不将这种推测写成规则定论，30枚也只算一组。",
+        "keywords": [
+          "青铜象棋子",
+          "青铜器"
+        ]
+      },
+      "writingNotes": {
+        "making": "青铜及清理后可辨文字有据；铸造模具未知。",
+        "discovery": "2016年5月万安镇附近宋代砖室墓发现。",
+        "research": "现代规则相近为推论，象棋起源说不在本轮核定范围。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "gb-dade-coin",
+          "reason": "比较圆形青铜物上的文字如何区别棋子与货币，不用AI辨字。"
+        }
+      },
+      "visualBrief": "A group of small round aged bronze chess counters loosely arranged, no board, worn blank faces rather than invented readable characters; conceptual group not exact original count arrangement.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/tangsong/201901/49.html",
+      "evidenceKey": "899f2fcd87f7c306ee7d",
+      "recordIdentifier": "/tangsong/201901/49.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；成都地区出土的定窑白瓷孩儿枕高12.8厘米。侧卧男孩左手枕头、右手搭胸，上方支出枕面。白中微暖的釉色与睡姿把寝具变成雕塑；它与故宫等馆同类枕不是同一件，原使用者和具体出土时间未知。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-ding-child-pillow",
+        "name": "定窑白瓷孩儿枕",
+        "dynasty": "宋",
+        "era": "宋辽金元",
+        "category": "陶瓷",
+        "shape": "misc",
+        "story": "成都地区出土的定窑白瓷孩儿枕高12.8厘米。侧卧男孩左手枕头、右手搭胸，上方支出枕面。白中微暖的釉色与睡姿把寝具变成雕塑；它与故宫等馆同类枕不是同一件，原使用者和具体出土时间未知。",
+        "keywords": [
+          "定窑白瓷孩儿枕",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "定窑、白瓷、孩儿造型有据；成型模具未知。",
+        "discovery": "成都地区出土，地点仅到地区层级。",
+        "research": "不能仅据同型器确认共同工匠。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-marble-pillow",
+          "reason": "比较人物雕塑与绞胎纹样怎样成为枕的装饰。"
+        }
+      },
+      "visualBrief": "Warm ivory ceramic pillow supported by a sideways sleeping boy on a couch, left hand under head, other hand over chest, upper small pillow surface.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/mq/201901/60.html",
+      "evidenceKey": "13731fc9d4c888fdb109",
+      "recordIdentifier": "/mq/201901/60.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；明代寿字金挑心长5.1厘米，是簪戴在发髻正中的发饰。薄金片镂刻寿字，并将卷云融入字形。文字也是器物结构的一部分，但AI只概括镂空形态，不提供字形摹本；它属于谁、在何处发现，官网未说明。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-gold-hairpin",
+        "name": "寿字金挑心",
+        "dynasty": "明",
+        "era": "明清",
+        "category": "金银器",
+        "shape": "gold",
+        "story": "明代寿字金挑心长5.1厘米，是簪戴在发髻正中的发饰。薄金片镂刻寿字，并将卷云融入字形。文字也是器物结构的一部分，但AI只概括镂空形态，不提供字形摹本；它属于谁、在何处发现，官网未说明。",
+        "keywords": [
+          "寿字金挑心",
+          "金银器"
+        ]
+      },
+      "writingNotes": {
+        "making": "薄金片镂刻寿字云纹可核；焊接及工具未知。",
+        "discovery": "出土地与入藏史未载。",
+        "research": "寿字的寓意与具体佩戴者命运分开。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "gb-jlfw",
+          "reason": "比较单件发饰和冠饰的材料、位置，不推断同一身份。"
+        }
+      },
+      "visualBrief": "Small delicate gold hairpin with thin openwork cloud-like abstract longevity ornament, no readable copied character.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/mq/201901/59.html",
+      "evidenceKey": "a45ee178ceaf96071d29",
+      "recordIdentifier": "/mq/201901/59.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；成都四川宾馆出土的玛瑙鼻烟壶高5.9厘米。馆方记其两面利用杂色巧雕玩童牵狗与三虎嬉戏，石材天然色块因此成为图像线索。AI图只概括器形和巧色，不复刻原雕人物；具体作者、使用者与保护史未知。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-agate-snuff-bottle",
+        "name": "玛瑙鼻烟壶",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "成都四川宾馆出土的玛瑙鼻烟壶高5.9厘米。馆方记其两面利用杂色巧雕玩童牵狗与三虎嬉戏，石材天然色块因此成为图像线索。AI图只概括器形和巧色，不复刻原雕人物；具体作者、使用者与保护史未知。",
+        "keywords": [
+          "玛瑙鼻烟壶",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "玛瑙巧色雕刻有据；琢磨工具及工期未载。",
+        "discovery": "成都四川宾馆出土，年月未知。",
+        "research": "不据鼻烟壶推定使用者职业或吸烟习惯。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "cd-dragon-belt-hook",
+          "reason": "比较石材色块与玉材雕刻，但不认定同一作坊。"
+        }
+      },
+      "visualBrief": "Small flattened agate snuff bottle, mottled honey and cream stone with understated abstract carved relief, short neck; no exact figure replication.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/mq/201901/58.html",
+      "evidenceKey": "05553ffdfb7e6afac70b",
+      "recordIdentifier": "/mq/201901/58.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；孔雀蓝釉瓷碗高5.8厘米、口径14.1厘米，馆方定为明代。铜着色的低温釉形成明亮蓝色，表面可见细小开片。器物事实是釉色与形态；具体烧造地点、宫廷用途和使用者没有资料，不从颜色推断。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-peacock-bowl",
+        "name": "孔雀蓝釉瓷碗",
+        "dynasty": "明",
+        "era": "明清",
+        "category": "陶瓷",
+        "shape": "bowl",
+        "story": "孔雀蓝釉瓷碗高5.8厘米、口径14.1厘米，馆方定为明代。铜着色的低温釉形成明亮蓝色，表面可见细小开片。器物事实是釉色与形态；具体烧造地点、宫廷用途和使用者没有资料，不从颜色推断。",
+        "keywords": [
+          "孔雀蓝釉瓷碗",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "馆方说明铜着色低温釉；本件温度与配方未知。",
+        "discovery": "发现及入藏史未载。",
+        "research": "不由孔雀蓝名称推断动物题材或窑口。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "cd-ge-ewer",
+          "reason": "比较单色与开片装饰，不把釉名当窑址证据。"
+        }
+      },
+      "visualBrief": "Simple shallow ceramic bowl with luminous turquoise peacock-blue glaze and subtle fine crackle.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/mq/201901/57.html",
+      "evidenceKey": "cb2a37e446af991753d1",
+      "recordIdentifier": "/mq/201901/57.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；成都和平公社出土的哥釉瓷执壶高17.3厘米，八棱壶身与均匀开片是主要特征。馆方定为明代。“哥釉”是该件定名，不能据此直接断为宋代哥窑原作；原装盛何物、烧造地点与保护过程未知。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-ge-ewer",
+        "name": "哥釉瓷执壶",
+        "dynasty": "明",
+        "era": "明清",
+        "category": "陶瓷",
+        "shape": "pot",
+        "story": "成都和平公社出土的哥釉瓷执壶高17.3厘米，八棱壶身与均匀开片是主要特征。馆方定为明代。“哥釉”是该件定名，不能据此直接断为宋代哥窑原作；原装盛何物、烧造地点与保护过程未知。",
+        "keywords": [
+          "哥釉瓷执壶",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "八棱形及哥釉开片有据；烧造窑址未载。",
+        "discovery": "成都和平公社出土，年月未载。",
+        "research": "哥釉定名不等于宋哥窑归属。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-celadon-ewer",
+          "reason": "比较八棱与瓜棱器身，关注成型线条而非直接传承。"
+        }
+      },
+      "visualBrief": "Small octagonal ceramic ewer, muted grey-green crackle glaze, curved spout and handle, no dynasty mark.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/mq/201901/56.html",
+      "evidenceKey": "00cfc80bd961bcd3e24f",
+      "recordIdentifier": "/mq/201901/56.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；清代粉彩云蝠纹赏瓶高38.6厘米。颈腹的云蝠组合与肩部花卉、底部莲纹把吉祥寓意安排在不同层次。馆方介绍赏瓶形制沿革，但未记本件受赐人；不能编造一次皇帝赏赐事件。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-bat-vase",
+        "name": "粉彩云蝠纹瓷赏瓶",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "陶瓷",
+        "shape": "vase",
+        "story": "清代粉彩云蝠纹赏瓶高38.6厘米。颈腹的云蝠组合与肩部花卉、底部莲纹把吉祥寓意安排在不同层次。馆方介绍赏瓶形制沿革，但未记本件受赐人；不能编造一次皇帝赏赐事件。",
+        "keywords": [
+          "粉彩云蝠纹瓷赏瓶",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "粉彩云蝠和分层纹饰可述，具体彩料配方未知。",
+        "discovery": "出土及入藏经过未载。",
+        "research": "器形的一般用途不能当本件经历。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "gg-gzdc",
+          "reason": "比较多层装饰的视觉安排，不用工艺数量评价优劣。"
+        }
+      },
+      "visualBrief": "Qing porcelain reward-vase silhouette, soft pastel clouds and small bat-like ornament, floral shoulder band, white ground, approximate decoration.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/mq/201901/55.html",
+      "evidenceKey": "e4993385d5fde56cbe7e",
+      "recordIdentifier": "/mq/201901/55.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；猛追湾出土的明代苍龙教子玉带钩长11.9厘米。大小两龙组成装饰，馆方从父子教养解释主题。题材含义不等于真实家族史，不能认定具体父子曾用它；玉材产地与工匠姓名未知。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-dragon-belt-hook",
+        "name": "苍龙教子玉带钩",
+        "dynasty": "明",
+        "era": "明清",
+        "category": "玉器",
+        "shape": "jade",
+        "story": "猛追湾出土的明代苍龙教子玉带钩长11.9厘米。大小两龙组成装饰，馆方从父子教养解释主题。题材含义不等于真实家族史，不能认定具体父子曾用它；玉材产地与工匠姓名未知。",
+        "keywords": [
+          "苍龙教子玉带钩",
+          "玉器"
+        ]
+      },
+      "writingNotes": {
+        "making": "玉雕大小龙主题有据，玉料矿源未核。",
+        "discovery": "成都猛追湾出土，年月未載。",
+        "research": "父子寓意是题材解读，不是人物身份记录。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "cd-agate-snuff-bottle",
+          "reason": "比较雕刻怎样利用不同石材，不推断亲属或工坊联系。"
+        }
+      },
+      "visualBrief": "Pale jade elongated belt hook, larger dragon-head hook and smaller dragon relief on shaft, restrained carving.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/mq/201901/54.html",
+      "evidenceKey": "879890bb494cfcec8045",
+      "recordIdentifier": "/mq/201901/54.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；五里墩出土的明代彩釉陶侍从俑高35.1厘米。蓝釉长袍、方台与未施釉的头手足形成材质对照，一手高举、一手扶腰带。馆方推为抬轿侍从；推测身份不等于已知主人，也不能将其配入另一件墓葬。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-attendant-figure",
+        "name": "彩釉陶侍从俑",
+        "dynasty": "明",
+        "era": "明清",
+        "category": "陶俑",
+        "shape": "figure",
+        "story": "五里墩出土的明代彩釉陶侍从俑高35.1厘米。蓝釉长袍、方台与未施釉的头手足形成材质对照，一手高举、一手扶腰带。馆方推为抬轿侍从；推测身份不等于已知主人，也不能将其配入另一件墓葬。",
+        "keywords": [
+          "彩釉陶侍从俑",
+          "陶俑"
+        ]
+      },
+      "writingNotes": {
+        "making": "蓝釉与裸胎部位、琉璃厂窑定名有据；工序未详。",
+        "discovery": "成都五里墩出土。",
+        "research": "抬轿侍从属馆方推测，墓主未知。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "cd-chenghan-figure",
+          "reason": "比较不同年代俑的服饰和姿势，不认定共同用途细节。"
+        }
+      },
+      "visualBrief": "Standing terracotta attendant in sky-blue glazed narrow-sleeved robe, round hat, unglazed face and hands, one hand raised, other at belt, square blue base.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/xianqin/201901/40.html",
+      "evidenceKey": "cdcdd6bde56c4262b482",
+      "recordIdentifier": "/xianqin/201901/40.html",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；西周兽头双耳铜罍于1978年2月21日在成都南郊工地出土，高66.3厘米。名称与尺寸明确指向这件大型青铜容器。官网没有本件铭文释读、墓主和铸造工序，资料包保留空白，不以相邻铜壶资料补齐。 不构成图片许可。",
+      "artifact": {
+        "id": "cd-beast-lei",
+        "name": "西周兽头双耳铜罍",
+        "dynasty": "西周",
+        "era": "先秦",
+        "category": "青铜器",
+        "shape": "misc",
+        "story": "西周兽头双耳铜罍于1978年2月21日在成都南郊工地出土，高66.3厘米。名称与尺寸明确指向这件大型青铜容器。官网没有本件铭文释读、墓主和铸造工序，资料包保留空白，不以相邻铜壶资料补齐。",
+        "keywords": [
+          "西周兽头双耳铜罍",
+          "青铜器"
+        ]
+      },
+      "writingNotes": {
+        "making": "青铜、兽头双耳定名有据；铸造工序未载。",
+        "discovery": "1978年2月21日成都南郊工地。",
+        "research": "不可套用邻页铜壶的纹饰、墓主或年代。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "cd-hunting-pot",
+          "reason": "比较大型罍与壶的轮廓和出土记录，不暗示同墓。"
+        }
+      },
+      "visualBrief": "Large Western Zhou bronze lei jar with broad shoulders and two beast-head handles, subdued dark patina, no invented inscription.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ee2444a22e2547df962d3370b7ef1a69",
+      "evidenceKey": "9ba51fdce74ac22f5b95",
+      "recordIdentifier": "ee2444a22e2547df962d3370b7ef1a69",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；这件战国灰陶井高27.5厘米，2010年由日本某友好团体捐赠深圳博物馆。馆方解释它是随葬模型明器，反映日常取水设施。捐赠地点不是考古出土地，不能编造深圳墓葬；原出土地点未知。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-pottery-well",
+        "name": "灰陶井",
+        "dynasty": "战国",
+        "era": "先秦",
+        "category": "陶俑",
+        "shape": "figure",
+        "story": "这件战国灰陶井高27.5厘米，2010年由日本某友好团体捐赠深圳博物馆。馆方解释它是随葬模型明器，反映日常取水设施。捐赠地点不是考古出土地，不能编造深圳墓葬；原出土地点未知。",
+        "keywords": [
+          "灰陶井",
+          "陶俑"
+        ]
+      },
+      "writingNotes": {
+        "making": "灰陶模型定名可核；烧成工艺未载。",
+        "discovery": "2010年捐赠；原出土地未知。",
+        "research": "明器解释与实际取水器具分开。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "cd-pottery-courtyard",
+          "reason": "比较单井与庭院组合怎样缩写生活空间。"
+        }
+      },
+      "visualBrief": "A grey terracotta miniature well model, cylindrical well wall with modest upright support frame; conceptual form, no modern machinery.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ad2038579ced497e85e25b5424360ef3",
+      "evidenceKey": "70cda9a28393394882ab",
+      "recordIdentifier": "ad2038579ced497e85e25b5424360ef3",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；北宋青白瓷印花子母盒高4厘米、口径7.5厘米，2010年获捐入藏深圳博物馆。印花与子母组合是观察重点，官网未说明原装物品。AI图只示意嵌套盒形，不复原具体纹样和盒内原有分隔数量。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-double-box",
+        "name": "青白瓷印花子母盒",
+        "dynasty": "北宋",
+        "era": "宋辽金元",
+        "category": "陶瓷",
+        "shape": "misc",
+        "story": "北宋青白瓷印花子母盒高4厘米、口径7.5厘米，2010年获捐入藏深圳博物馆。印花与子母组合是观察重点，官网未说明原装物品。AI图只示意嵌套盒形，不复原具体纹样和盒内原有分隔数量。",
+        "keywords": [
+          "青白瓷印花子母盒",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "青白瓷、印花及子母盒定名有据，工序未详。",
+        "discovery": "2010年日本某友好团体捐赠。",
+        "research": "不能由盒名断言香料、药物或胭脂用途。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-yue-box",
+          "reason": "比较印花与划花两个装饰定名，不推断同用途。"
+        }
+      },
+      "visualBrief": "Small pale bluish-white glazed ceramic nesting boxes, outer round lidded box with smaller inset box, subtle abstract impressed ornament.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ec55d41ae747479abdd34a0bb7314ab0",
+      "evidenceKey": "591fa5f753597bdcdd43",
+      "recordIdentifier": "ec55d41ae747479abdd34a0bb7314ab0",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；北宋青白瓷镂孔香薰高16.5厘米，2010年由日本某友好团体捐赠。镂孔让器壁形成虚实对照。官网未写具体香材、使用者与窑口，不能替它安排一次焚香情景；AI只概括孔洞器形。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-incense-burner",
+        "name": "青白瓷镂孔香薰",
+        "dynasty": "北宋",
+        "era": "宋辽金元",
+        "category": "陶瓷",
+        "shape": "misc",
+        "story": "北宋青白瓷镂孔香薰高16.5厘米，2010年由日本某友好团体捐赠。镂孔让器壁形成虚实对照。官网未写具体香材、使用者与窑口，不能替它安排一次焚香情景；AI只概括孔洞器形。",
+        "keywords": [
+          "青白瓷镂孔香薰",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "青白瓷镂孔定名有据；开孔工具和窑址未知。",
+        "discovery": "2010年捐赠，不将其当考古记录。",
+        "research": "具体香材及仪式场合未知。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "cd-qiong-kiln-censer",
+          "reason": "比较镂孔和贴塑的结构装饰，不证明窑口往来。"
+        }
+      },
+      "visualBrief": "Pale blue-white ceramic incense burner with pierced rounded cover and footed lower bowl, abstract openings, no burning incense.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9fcd040894134b7993c577c8be4f4054",
+      "evidenceKey": "68b717be734c0a9f3251",
+      "recordIdentifier": "9fcd040894134b7993c577c8be4f4054",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；唐代绞胎盂高6.5厘米，1992年由深圳武警边防六支队移交。馆方介绍深浅色泥交混成纹的绞胎工艺，并称盂可能是文房水器。文房用途是可能解释，不是已核使用记录；本件胎泥配方未知。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-marble-bowl",
+        "name": "绞胎盂",
+        "dynasty": "唐",
+        "era": "隋唐五代",
+        "category": "陶瓷",
+        "shape": "bowl",
+        "story": "唐代绞胎盂高6.5厘米，1992年由深圳武警边防六支队移交。馆方介绍深浅色泥交混成纹的绞胎工艺，并称盂可能是文房水器。文房用途是可能解释，不是已核使用记录；本件胎泥配方未知。",
+        "keywords": [
+          "绞胎盂",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "深浅泥绞合为馆方工艺介绍；本件配方及温度未核。",
+        "discovery": "1992年移交，不推断没收过程或原出土地。",
+        "research": "文房水器解释保留可能。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-marble-pillow",
+          "reason": "比较同类胎纹如何适应不同器形，不证明同窑同批。"
+        }
+      },
+      "visualBrief": "Small rounded marbled-clay ceramic water vessel with narrow opening, brown and cream interwoven clay pattern under light glaze.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9804a421f51e4e8699299ca5f418e3ea",
+      "evidenceKey": "770c95ad5e326ed25362",
+      "recordIdentifier": "9804a421f51e4e8699299ca5f418e3ea",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；巩义芝田窑绿釉绞胎枕长21厘米，馆方定为北宋。1991年深圳市公安局边防分局将它移交入藏。釉色与交错胎纹可分开观察；窑口定名来自馆方，不等于已查到本件窑坑和完整生产档案。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-marble-pillow",
+        "name": "巩义芝田窑绿釉绞胎枕",
+        "dynasty": "北宋",
+        "era": "宋辽金元",
+        "category": "陶瓷",
+        "shape": "misc",
+        "story": "巩义芝田窑绿釉绞胎枕长21厘米，馆方定为北宋。1991年深圳市公安局边防分局将它移交入藏。釉色与交错胎纹可分开观察；窑口定名来自馆方，不等于已查到本件窑坑和完整生产档案。",
+        "keywords": [
+          "巩义芝田窑绿釉绞胎枕",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "绿釉绞胎与巩义芝田窑定名可用；具体装烧工序未知。",
+        "discovery": "1991年移交，原出土地未载。",
+        "research": "不据胎纹配对其他馆藏为同批产品。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "cd-ding-child-pillow",
+          "reason": "比较枕面承托与装饰策略，不假设寝具使用者。"
+        }
+      },
+      "visualBrief": "Low rectangular ceramic pillow with softened corners, green glaze over marbled brown and cream clay pattern.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=74651e5d2a8449a392ce807c3b40349b",
+      "evidenceKey": "6110091ffc5b7af70d87",
+      "recordIdentifier": "74651e5d2a8449a392ce807c3b40349b",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；汉代褐釉陶狗高31厘米，2010年获捐入藏。馆方讨论同类陶狗所见驯养标识及看护、狩猎等用途，但不能把类例的每条细节都套给本件。本条对应独立陶狗，不虚构狗主人或一段具体生活。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-pottery-dog",
+        "name": "褐釉陶狗",
+        "dynasty": "汉",
+        "era": "秦汉",
+        "category": "陶俑",
+        "shape": "figure",
+        "story": "汉代褐釉陶狗高31厘米，2010年获捐入藏。馆方讨论同类陶狗所见驯养标识及看护、狩猎等用途，但不能把类例的每条细节都套给本件。本条对应独立陶狗，不虚构狗主人或一段具体生活。",
+        "keywords": [
+          "褐釉陶狗",
+          "陶俑"
+        ]
+      },
+      "writingNotes": {
+        "making": "陶制褐釉定名可述，模具和烧成未知。",
+        "discovery": "2010年日本某友好团体捐赠。",
+        "research": "类例用途不是本件经历，原出土地未知。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "cd-stone-bear",
+          "reason": "比较家养动物与神瑞解释的不同语境，不把两者功能合并。"
+        }
+      },
+      "visualBrief": "Han brown-glazed terracotta dog, squat watchful posture, earthen sculpted surface, no modern collar or leash.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=cb55bbc642ca434788c50dff438b947a",
+      "evidenceKey": "a3aa72e8fb076058311a",
+      "recordIdentifier": "cb55bbc642ca434788c50dff438b947a",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；北宋青白瓷注子、注碗为一套，2010年捐赠入藏深圳博物馆。注子通高28.5厘米，碗高14.7厘米。器形组合适合比较容器之间的配合，但官网未写盛装液体和具体使用方式，本条按一套计数。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-ewer-basin",
+        "name": "青白瓷注子、注碗",
+        "dynasty": "北宋",
+        "era": "宋辽金元",
+        "category": "陶瓷",
+        "shape": "pot",
+        "story": "北宋青白瓷注子、注碗为一套，2010年捐赠入藏深圳博物馆。注子通高28.5厘米，碗高14.7厘米。器形组合适合比较容器之间的配合，但官网未写盛装液体和具体使用方式，本条按一套计数。",
+        "keywords": [
+          "青白瓷注子、注碗",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "青白瓷注子和注碗组合可核，具体烧造未知。",
+        "discovery": "2010年日本某友好团体捐赠，原出土地未知。",
+        "research": "不以常见温酒解释取代本件证据。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-celadon-ewer",
+          "reason": "比较单执壶与组合器物的结构，不推定相同饮品。"
+        }
+      },
+      "visualBrief": "Pale blue-white ceramic ewer with slender spout and handle placed beside matching deep rounded bowl, a two-piece set.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=722b501234e5425aa8a157e56acf119b",
+      "evidenceKey": "bfd78baaa679047ad2c5",
+      "recordIdentifier": "722b501234e5425aa8a157e56acf119b",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；这件南朝青釉灯盏于1999年在西乡蔗园山出土，高8.5厘米。圆形灯盏下三蹄足与大底盘相连，通体青釉。可观察灯盏、支足和底盘的结构，但原用燃料、灯芯与夜间亮度没有测试证据。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-oil-lamp",
+        "name": "青釉灯盏",
+        "dynasty": "南朝",
+        "era": "魏晋南北朝",
+        "category": "陶瓷",
+        "shape": "misc",
+        "story": "这件南朝青釉灯盏于1999年在西乡蔗园山出土，高8.5厘米。圆形灯盏下三蹄足与大底盘相连，通体青釉。可观察灯盏、支足和底盘的结构，但原用燃料、灯芯与夜间亮度没有测试证据。",
+        "keywords": [
+          "青釉灯盏",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "三足与底盘一体式结构、青釉有据，成型未知。",
+        "discovery": "1999年西乡蔗园山出土。",
+        "research": "不编造油料和照明实验数据。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "gb-yygd",
+          "reason": "比较瓷灯与青铜釭灯的结构，不声称烟尘机制相同。"
+        }
+      },
+      "visualBrief": "Celadon lamp bowl on three short hoof-like feet connected to a wide circular drip tray, no flame or fuel.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=abc948294043433a87f4f486dde72fe8",
+      "evidenceKey": "e4dd1516c0ba8c620cd4",
+      "recordIdentifier": "abc948294043433a87f4f486dde72fe8",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；清代红木嵌螺钿小几长29.7厘米，1992年入藏。它其实是桌面烛具：顶部四孔插蜡烛，内有小抽屉，背面嵌松鼠葡萄纹。不要把“小几”误写为供人坐的大凳；原主人和制作地点未知。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-inlaid-table",
+        "name": "清红木嵌螺钿松鼠葡萄纹小几",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "清代红木嵌螺钿小几长29.7厘米，1992年入藏。它其实是桌面烛具：顶部四孔插蜡烛，内有小抽屉，背面嵌松鼠葡萄纹。不要把“小几”误写为供人坐的大凳；原主人和制作地点未知。",
+        "keywords": [
+          "清红木嵌螺钿松鼠葡萄纹小几",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "木、螺钿、四孔和小屉明确；木种不能超出红木定名。",
+        "discovery": "1992年深铁公安处接收。",
+        "research": "有烛孔不等于原蜡烛形状或仪式可知。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-oil-lamp",
+          "reason": "比较烛具与灯盏的承托方式，不暗示时代沿革。"
+        }
+      },
+      "visualBrief": "Small narrow redwood tabletop candle stand, four holes on top, a tiny drawer, subtle mother-of-pearl grape and squirrel motif. No candles.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=b34b5f7a056842ec9467fbb39245ce54",
+      "evidenceKey": "86addf803b0b56c9cad6",
+      "recordIdentifier": "b34b5f7a056842ec9467fbb39245ce54",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；条纹石拍呈扁薄圆角长方形，正面平行凹槽，背面磨光，断成两块后粘合。馆方一处记1992年大梅沙遗址，另一处称咸头岭遗址，本轮保留出土地冲突。没有实验资料，不能把制陶等用途写成定论。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-stone-paddle",
+        "name": "条纹石拍",
+        "dynasty": "新石器时代",
+        "era": "先秦",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "条纹石拍呈扁薄圆角长方形，正面平行凹槽，背面磨光，断成两块后粘合。馆方一处记1992年大梅沙遗址，另一处称咸头岭遗址，本轮保留出土地冲突。没有实验资料，不能把制陶等用途写成定论。",
+        "keywords": [
+          "条纹石拍",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "正面凹槽、磨光和断块粘合有据，工具用途未知。",
+        "discovery": "官网大梅沙与咸头岭两种地名冲突；待核。",
+        "research": "不抹去冲突，不用石拍名称推定制作工序。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-grooved-stone",
+          "reason": "比较凹槽、刃部与加工痕迹，不将两种工具用途定为同一。"
+        }
+      },
+      "visualBrief": "Flat rounded rectangular stone paddle with parallel longitudinal grooves on front and a visible repaired transverse break, grey stone.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=277c51eae2424a2cb5ea4703cf4938c0",
+      "evidenceKey": "ab02831153cb9f8a9072",
+      "recordIdentifier": "277c51eae2424a2cb5ea4703cf4938c0",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；同治款葫芦锡壶通高21.2厘米，1996年由九龙海关移交深圳博物馆。馆方记下部龙纹、上部花卉寿字纹，底有同治年制款。款识与馆方断代并列，不从AI图认读；锡材比例和使用史未知。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-tin-gourd-ewer",
+        "name": "清同治款葫芦锡壶",
+        "dynasty": "清同治",
+        "era": "明清",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "同治款葫芦锡壶通高21.2厘米，1996年由九龙海关移交深圳博物馆。馆方记下部龙纹、上部花卉寿字纹，底有同治年制款。款识与馆方断代并列，不从AI图认读；锡材比例和使用史未知。",
+        "keywords": [
+          "清同治款葫芦锡壶",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "锡材和葫芦形、纹饰有据，合金成分未知。",
+        "discovery": "1996年九龙海关移交。",
+        "research": "款识是文字记录，不可让AI充当款识照片。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-warming-copper-stove",
+          "reason": "比较锡壶与加热铜炉的结构，不推断同一使用者。"
+        }
+      },
+      "visualBrief": "Gourd-shaped tin vessel with lid, restrained silver-grey surface and abstract floral dragon-like relief, no readable marks.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=f27f63b26ce94e60acb38a4f2bea15d8",
+      "evidenceKey": "da1f85e6532f1bbd33fb",
+      "recordIdentifier": "f27f63b26ce94e60acb38a4f2bea15d8",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；清代雕人物纹木笔筒高12.3厘米，1996年由九龙海关移交入藏。木材与人物雕刻构成案头器物的两层观察。官网没有作者、具体人物身份与木种，不能凭AI纹饰补出文学故事或名家款。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-carved-brushpot",
+        "name": "清雕人物纹木笔筒",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "清代雕人物纹木笔筒高12.3厘米，1996年由九龙海关移交入藏。木材与人物雕刻构成案头器物的两层观察。官网没有作者、具体人物身份与木种，不能凭AI纹饰补出文学故事或名家款。",
+        "keywords": [
+          "清雕人物纹木笔筒",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "木质、人物纹和尺寸可用；木种和雕刻技法未详。",
+        "discovery": "1996年九龙海关移交。",
+        "research": "人物身份、作者未知，不依生成图认人物。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-bamboo-brushpot",
+          "reason": "比较木与竹的材料和表面处理，不确定工坊联系。"
+        }
+      },
+      "visualBrief": "Small cylindrical brown wooden brush pot with abstract carved human figures in low relief, no brushes, inscriptions or specific famous character.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=49cdb7c4aaa04f5585fd9f5641ce7fe6",
+      "evidenceKey": "35a8cec79a00fa81aab3",
+      "recordIdentifier": "49cdb7c4aaa04f5585fd9f5641ce7fe6",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；清代温水铜炉高18.7厘米，2011年由海关拨交。上层容器可装水或酒，下层容炭加热，提梁与盖便于移动；八宝和双喜纹兼有装饰意味。结构有据，但不能编造某场婚礼或把它当现代电热器。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-warming-copper-stove",
+        "name": "清“喜”字八宝纹温水铜炉",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "清代温水铜炉高18.7厘米，2011年由海关拨交。上层容器可装水或酒，下层容炭加热，提梁与盖便于移动；八宝和双喜纹兼有装饰意味。结构有据，但不能编造某场婚礼或把它当现代电热器。",
+        "keywords": [
+          "清“喜”字八宝纹温水铜炉",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "上下加热结构、铜材及镂空纹饰明确，连接工序未知。",
+        "discovery": "2011年海关拨交。",
+        "research": "具体使用场合与炭种未载。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-oil-lamp",
+          "reason": "比较热源承托和功能差异，不把灯盏当温酒器。"
+        }
+      },
+      "visualBrief": "Small copper warming stove with lidded upper liquid container, arched carrying handle and ventilated lower charcoal chamber, abstract auspicious openings not legible text.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=41d4c661935a4b93b5cda2225be6e15e",
+      "evidenceKey": "c9074054494e8cd546e9",
+      "recordIdentifier": "41d4c661935a4b93b5cda2225be6e15e",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；新石器时代刻槽石器为长方形，下端有单面刃，通体磨光，上部仍留打制痕迹和一道横裂。官网没有尺寸、出土地点和使用功能，本条只叙可核外形，不补写耕作、纺织或某种仪式。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-grooved-stone",
+        "name": "刻槽石器",
+        "dynasty": "新石器时代",
+        "era": "先秦",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "新石器时代刻槽石器为长方形，下端有单面刃，通体磨光，上部仍留打制痕迹和一道横裂。官网没有尺寸、出土地点和使用功能，本条只叙可核外形，不补写耕作、纺织或某种仪式。",
+        "keywords": [
+          "刻槽石器",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "磨光与上部打制痕迹可核，制作者与用途未知。",
+        "discovery": "具体出土地与入藏经过未载。",
+        "research": "不从形状直接确定劳动工序。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-stone-adze",
+          "reason": "比较单面刃及磨光痕迹，不认定同一任务。"
+        }
+      },
+      "visualBrief": "Rectangular ground stone tool with gently curved ends, single bevel lower edge, residual chipped marks near top and a transverse crack, muted grey.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=563e820a32b547d5809c989ebd2c6c7e",
+      "evidenceKey": "7445d01437e1ef055c12",
+      "recordIdentifier": "563e820a32b547d5809c989ebd2c6c7e",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；商周穿孔石铲残长8.65厘米，宽6.51厘米。穿孔、石材与残存刃部可作为观察线索，但原装柄方式、完整轮廓及出土地点未载。AI以残件概括显示，不将缺失部分补成所谓原貌。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-perforated-shovel",
+        "name": "穿孔石铲",
+        "dynasty": "商周",
+        "era": "先秦",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "商周穿孔石铲残长8.65厘米，宽6.51厘米。穿孔、石材与残存刃部可作为观察线索，但原装柄方式、完整轮廓及出土地点未载。AI以残件概括显示，不将缺失部分补成所谓原貌。",
+        "keywords": [
+          "穿孔石铲",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "石器定名和穿孔可核，装柄方式未知。",
+        "discovery": "出土地与入藏史未载。",
+        "research": "残长不是完整长度，禁止虚构完整器形测绘。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-stone-adze",
+          "reason": "比较穿孔与刃部，不确定共同用途或工艺传承。"
+        }
+      },
+      "visualBrief": "Fragmentary flat stone shovel with one perforation near upper portion and surviving broad beveled lower edge, broken irregular edge, no wooden shaft.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=514dd4607a8843c8a7b9d217f05c3838",
+      "evidenceKey": "0ace80d9e5cf1cbec0f8",
+      "recordIdentifier": "514dd4607a8843c8a7b9d217f05c3838",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；商周水晶石尖状器长10.32厘米、重0.17千克，记录指向深圳馆的具体藏品。晶体材料与尖状轮廓有据；是否作工具、装饰或其他用途没有说明，不能因透明光泽替它附会神秘功能。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-crystal-point",
+        "name": "水晶石尖状器",
+        "dynasty": "商周",
+        "era": "先秦",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "商周水晶石尖状器长10.32厘米、重0.17千克，记录指向深圳馆的具体藏品。晶体材料与尖状轮廓有据；是否作工具、装饰或其他用途没有说明，不能因透明光泽替它附会神秘功能。",
+        "keywords": [
+          "水晶石尖状器",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "水晶石材与尖状定名可用，加工工序未详。",
+        "discovery": "出土地、入藏与使用史未知。",
+        "research": "不推定武器、巫术或珠宝功能。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-grooved-stone",
+          "reason": "比较不同石材和刃尖形态，不把材料光泽当用途证据。"
+        }
+      },
+      "visualBrief": "Small irregular translucent rock-crystal pointed stone artifact with rough worked facets and a tapered point, not a modern polished crystal wand.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=2b57db711b24417c9599a7cb054e9224",
+      "evidenceKey": "54952a988456cb60811f",
+      "recordIdentifier": "2b57db711b24417c9599a7cb054e9224",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；商周石锛长7.2厘米、宽4.59厘米，重0.11千克。馆方名称区分了它与石铲、尖状器。本件缺少出土与使用痕迹研究，资料包不安排一次造舟或建筑场景，先比较刃部和器体。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-stone-adze",
+        "name": "石锛",
+        "dynasty": "商周",
+        "era": "先秦",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "商周石锛长7.2厘米、宽4.59厘米，重0.11千克。馆方名称区分了它与石铲、尖状器。本件缺少出土与使用痕迹研究，资料包不安排一次造舟或建筑场景，先比较刃部和器体。",
+        "keywords": [
+          "石锛",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "石锛定名有据，磨制细节和使用痕迹研究未知。",
+        "discovery": "出土地与入藏史未载。",
+        "research": "一般锛功能不能当本件作业证明。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-perforated-shovel",
+          "reason": "比较两件器体、孔洞与刃部，不认定同一工具套装。"
+        }
+      },
+      "visualBrief": "Compact grey stone adze head, rectangular tapered body and beveled cutting edge, no handle, no modern axe shape.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=e655863245cf4080a858a1ffd26db41b",
+      "evidenceKey": "9cfc8ce1d5e16e317cf5",
+      "recordIdentifier": "e655863245cf4080a858a1ffd26db41b",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；南宋吉州窑黑釉剪纸贴花盏口径12厘米、高6厘米。黑釉与贴花定名提示装饰方法，但逐件页未写纹样释义、出土与收藏经过。AI只概括釉地与浅色花纹，不能作为原纹样图版。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-paper-cut-bowl",
+        "name": "吉州窑黑釉剪纸贴花盏",
+        "dynasty": "南宋",
+        "era": "宋辽金元",
+        "category": "陶瓷",
+        "shape": "bowl",
+        "story": "南宋吉州窑黑釉剪纸贴花盏口径12厘米、高6厘米。黑釉与贴花定名提示装饰方法，但逐件页未写纹样释义、出土与收藏经过。AI只概括釉地与浅色花纹，不能作为原纹样图版。",
+        "keywords": [
+          "吉州窑黑釉剪纸贴花盏",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "吉州窑、黑釉、剪纸贴花馆方定名可用，工序未详。",
+        "discovery": "出土与入藏经过未载。",
+        "research": "不能凭生成纹样确定吉祥含义。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-marble-bowl",
+          "reason": "比较胎纹与表面装饰，不推断同窑技术传播。"
+        }
+      },
+      "visualBrief": "Southern Song dark glazed tea bowl with subtle pale abstract paper-cut floral silhouette decoration, small foot, no readable characters.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=6246c2f0ddee4a2fb56f7217de733311",
+      "evidenceKey": "cdbbd3f74c19b719f064",
+      "recordIdentifier": "6246c2f0ddee4a2fb56f7217de733311",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；北宋越窑青釉划花盒口径11.2厘米、高5.5厘米。与子母盒相看，可以辨别“划花”和“印花”两个馆方装饰定名。原装盛物、具体工匠与收藏经过未载，不由盒形推定胭脂或香料。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-yue-box",
+        "name": "越窑青釉划花盒",
+        "dynasty": "北宋",
+        "era": "宋辽金元",
+        "category": "陶瓷",
+        "shape": "misc",
+        "story": "北宋越窑青釉划花盒口径11.2厘米、高5.5厘米。与子母盒相看，可以辨别“划花”和“印花”两个馆方装饰定名。原装盛物、具体工匠与收藏经过未载，不由盒形推定胭脂或香料。",
+        "keywords": [
+          "越窑青釉划花盒",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "越窑、青釉、划花定名有据，烧造配方未知。",
+        "discovery": "出土地与入藏经过未载。",
+        "research": "用途未知，不能从同类盒推定原装物。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-double-box",
+          "reason": "比较划花与印花，不认定同一作坊或使用者。"
+        }
+      },
+      "visualBrief": "Low round lidded celadon box with restrained incised floral lines, muted green glaze, simple full silhouette.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201904/t20190406_104206.shtml",
+      "evidenceKey": "078778769f6151b8c854",
+      "recordIdentifier": "/zp/zpml/201904/t20190406_104206.shtml",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；国博的桦皮奶筒馆方字段定为清，族属为鄂伦春族。桦树皮与容器名称把观众引向森林材料和日常生活。页面没有尺寸、制作者或采集地点，本轮不编织缝纫工序与具体家庭故事，使用状况继续未知。 不构成图片许可。",
+      "artifact": {
+        "id": "gb-birch-milk-tube",
+        "name": "桦皮奶筒",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "国博的桦皮奶筒馆方字段定为清，族属为鄂伦春族。桦树皮与容器名称把观众引向森林材料和日常生活。页面没有尺寸、制作者或采集地点，本轮不编织缝纫工序与具体家庭故事，使用状况继续未知。",
+        "keywords": [
+          "桦皮奶筒",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "桦皮定名可用，缝缀、防水和接底工序未载。",
+        "discovery": "采集与入藏经过未载。",
+        "research": "族属是馆方编目，不代表具体制作者身份。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-tin-gourd-ewer",
+          "reason": "比较树皮和金属容器材料，不推定技术联系。"
+        }
+      },
+      "visualBrief": "A simple cylindrical birch-bark milk vessel, pale bark with natural horizontal markings and restrained seam, no invented ornaments, conceptual construction.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_27800.shtml",
+      "evidenceKey": "dad6f032d2dde5ebcc76",
+      "recordIdentifier": "/zp/zpml/201812/t20181218_27800.shtml",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；国博大德通宝折三铜钱直径2.95厘米、重8.4克，馆方归于西夏崇宗大德时期。方孔圆钱的形制可观察，但不能误认成元朝大德年号钱；原件文字以馆方记录为准，AI不给可读钱文。 不构成图片许可。",
+      "artifact": {
+        "id": "gb-dade-coin",
+        "name": "大德通宝折三铜钱",
+        "dynasty": "西夏大德",
+        "era": "宋辽金元",
+        "category": "青铜器",
+        "shape": "misc",
+        "story": "国博大德通宝折三铜钱直径2.95厘米、重8.4克，馆方归于西夏崇宗大德时期。方孔圆钱的形制可观察，但不能误认成元朝大德年号钱；原件文字以馆方记录为准，AI不给可读钱文。",
+        "keywords": [
+          "大德通宝折三铜钱",
+          "青铜器",
+          "钱币",
+          "铸币"
+        ]
+      },
+      "writingNotes": {
+        "making": "铜钱及方孔圆形可核，铸造工序未详。",
+        "discovery": "出土与入藏经过未载。",
+        "research": "名称中大德指西夏，不套为元代。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "gb-small-banliang",
+          "reason": "比较纪重与年号钱名，不推断面额换算。"
+        }
+      },
+      "visualBrief": "A single aged bronze round coin with central square hole, subtle worn relief, no readable invented characters, not Yuan attribution.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25694.shtml",
+      "evidenceKey": "37d853721cdb64471b83",
+      "recordIdentifier": "/zp/zpml/201812/t20181218_25694.shtml",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；国宝金匮直万铜钱上圆下方，长6.2厘米。馆方记传1921年在陕西西安未央宫遗址出土，并列货币、符节及祭祀物等解释。保留“传”和争议，不写成毫无疑问的大额日常支付工具；AI不摹钱文。 不构成图片许可。",
+      "artifact": {
+        "id": "gb-guobao-coin",
+        "name": "“国宝金匮直万”铜钱",
+        "dynasty": "新朝",
+        "era": "秦汉",
+        "category": "青铜器",
+        "shape": "misc",
+        "story": "国宝金匮直万铜钱上圆下方，长6.2厘米。馆方记传1921年在陕西西安未央宫遗址出土，并列货币、符节及祭祀物等解释。保留“传”和争议，不写成毫无疑问的大额日常支付工具；AI不摹钱文。",
+        "keywords": [
+          "“国宝金匮直万”铜钱",
+          "青铜器",
+          "钱币",
+          "铸币"
+        ]
+      },
+      "writingNotes": {
+        "making": "上部方孔圆钱与下部方形结构有据，铸造工序未知。",
+        "discovery": "传1921年未央宫遗址出土，不去掉传闻限定。",
+        "research": "用途有不同观点，实物流通方式未知。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "gb-wuzhu-mould",
+          "reason": "比较成币形制与铸币工具，不把争议用途写成定论。"
+        }
+      },
+      "visualBrief": "Bronze artifact shaped as a round square-holed coin joined to a lower square panel, worn blank relief not invented legible inscriptions.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25608.shtml",
+      "evidenceKey": "22cdc195fb8a6b8db1e8",
+      "recordIdentifier": "/zp/zpml/201812/t20181218_25608.shtml",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；寿光出土的五铢钱铜范长24.1厘米、宽9.5厘米。国博将它作为汉武帝货币专铸以前地方铸钱的实证。铸范让人看到货币不仅是成品，也有制造工具；本件铸腔数量、实际产量与工坊位置未核。 不构成图片许可。",
+      "artifact": {
+        "id": "gb-wuzhu-mould",
+        "name": "五铢钱铜范",
+        "dynasty": "西汉前期",
+        "era": "秦汉",
+        "category": "青铜器",
+        "shape": "misc",
+        "story": "寿光出土的五铢钱铜范长24.1厘米、宽9.5厘米。国博将它作为汉武帝货币专铸以前地方铸钱的实证。铸范让人看到货币不仅是成品，也有制造工具；本件铸腔数量、实际产量与工坊位置未核。",
+        "keywords": [
+          "五铢钱铜范",
+          "青铜器",
+          "钱币",
+          "铸币"
+        ]
+      },
+      "writingNotes": {
+        "making": "铜范用于铸钱为馆方解释，腔数与具体工序未知。",
+        "discovery": "山东寿光出土，日期未载。",
+        "research": "不据范的尺寸估算日产量或官署身份。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "gb-small-banliang",
+          "reason": "比较铸币工具与成币，不认定铜范铸出这枚半两。"
+        }
+      },
+      "visualBrief": "Long rectangular aged bronze coin casting mould with several round cavities and feeding channels, approximate cavity arrangement only, no readable coin inscriptions.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25547.shtml",
+      "evidenceKey": "f0341b7746125b95d292",
+      "recordIdentifier": "/zp/zpml/201812/t20181218_25547.shtml",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；小半两铜钱直径2.3厘米，1956年在河南陕县后川出土。国博说明西汉前期半两较秦半两减轻。本件缺少称重记录，不把“半两”币名直接换算为实测重量，也不编造一次购物交易。 不构成图片许可。",
+      "artifact": {
+        "id": "gb-small-banliang",
+        "name": "小半两铜钱",
+        "dynasty": "西汉前期",
+        "era": "秦汉",
+        "category": "青铜器",
+        "shape": "misc",
+        "story": "小半两铜钱直径2.3厘米，1956年在河南陕县后川出土。国博说明西汉前期半两较秦半两减轻。本件缺少称重记录，不把“半两”币名直接换算为实测重量，也不编造一次购物交易。",
+        "keywords": [
+          "小半两铜钱",
+          "青铜器",
+          "钱币",
+          "铸币"
+        ]
+      },
+      "writingNotes": {
+        "making": "铜钱与方孔圆钱类例可述，具体铸造未知。",
+        "discovery": "1956年河南陕县后川出土。",
+        "research": "名称不是重量实测，不能补造购买力。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "gb-dade-coin",
+          "reason": "比较货币命名和形制，不作未经核验的汇率换算。"
+        }
+      },
+      "visualBrief": "A small thin aged bronze round coin with central square hole, worn blank surface rather than fake readable Banliang writing.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24666.shtml",
+      "evidenceKey": "f58d175204ea7ca328b6",
+      "recordIdentifier": "/zp/zpml/201812/t20181218_24666.shtml",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；清代碧玉荷花螃蟹纹砚长8.2厘米。椭圆荷花形器上有较平砚膛和带蟹纹的砚池，背面还有叶脉与蜘蛛纹。材料与装饰不等于实用磨墨效果；本件使用痕迹、作者与旧藏经历未载。 不构成图片许可。",
+      "artifact": {
+        "id": "gb-jade-crab-inkstone",
+        "name": "玉荷花螃蟹纹砚",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "玉器",
+        "shape": "jade",
+        "story": "清代碧玉荷花螃蟹纹砚长8.2厘米。椭圆荷花形器上有较平砚膛和带蟹纹的砚池，背面还有叶脉与蜘蛛纹。材料与装饰不等于实用磨墨效果；本件使用痕迹、作者与旧藏经历未载。",
+        "keywords": [
+          "玉荷花螃蟹纹砚",
+          "玉器"
+        ]
+      },
+      "writingNotes": {
+        "making": "碧玉琢刻和砚膛、砚池有据；玉矿来源未知。",
+        "discovery": "出土及入藏史未载。",
+        "research": "不据装饰断言赠送对象或实际磨墨效率。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "gb-jade-bamboo-brushpot",
+          "reason": "比较玉制砚与笔筒的案头功能，不推定同一套文房。"
+        }
+      },
+      "visualBrief": "Small dark green jade oval lotus-leaf inkstone, flat grinding area and recessed pool with understated crab motif, no text.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24622.shtml",
+      "evidenceKey": "baafc9aab8a1dee5589d",
+      "recordIdentifier": "/zp/zpml/201812/t20181218_24622.shtml",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；明代玉竹节纹笔筒高10.5厘米，绿色圆桶器外壁分出七节，底有三足。内壁光素与外壁竹节形成对照。馆方明确本件年代，不以常见清代玉笔筒改写；作者、使用者与玉料矿源未知。 不构成图片许可。",
+      "artifact": {
+        "id": "gb-jade-bamboo-brushpot",
+        "name": "玉竹节纹笔筒",
+        "dynasty": "明",
+        "era": "明清",
+        "category": "玉器",
+        "shape": "jade",
+        "story": "明代玉竹节纹笔筒高10.5厘米，绿色圆桶器外壁分出七节，底有三足。内壁光素与外壁竹节形成对照。馆方明确本件年代，不以常见清代玉笔筒改写；作者、使用者与玉料矿源未知。",
+        "keywords": [
+          "玉竹节纹笔筒",
+          "玉器"
+        ]
+      },
+      "writingNotes": {
+        "making": "琢刻阴线竹节、三足和抛光可核，工具未载。",
+        "discovery": "旧藏和入藏经过未载。",
+        "research": "不把竹节寓意当作具体文人身份。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-bamboo-brushpot",
+          "reason": "比较真竹与玉仿竹的材质，不认定直接传承。"
+        }
+      },
+      "visualBrief": "Green jade cylindrical brush pot with seven bamboo-like horizontal sections and three short cloud-like feet, plain interior, no brushes.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9621130cb129472b9826f64d64a21204",
+      "evidenceKey": "05438d550daf9bc8efa4",
+      "recordIdentifier": "9621130cb129472b9826f64d64a21204",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；唐代白瓷龙柄壶高24.8厘米，2010年由日本某友好团体捐赠深圳博物馆。龙柄定名与白瓷材质可核，原窑口和出土地点未记。AI概括把手结构，不据它复原原件龙首五官和烧造细节。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-white-dragon-ewer",
+        "name": "白瓷龙柄壶",
+        "dynasty": "唐",
+        "era": "隋唐五代",
+        "category": "陶瓷",
+        "shape": "pot",
+        "story": "唐代白瓷龙柄壶高24.8厘米，2010年由日本某友好团体捐赠深圳博物馆。龙柄定名与白瓷材质可核，原窑口和出土地点未记。AI概括把手结构，不据它复原原件龙首五官和烧造细节。",
+        "keywords": [
+          "白瓷龙柄壶",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "白瓷龙柄定名明确，原窑口未载。",
+        "discovery": "2010年捐赠，原出土地未知。",
+        "research": "龙纹不等于皇帝专用，具体功能未知。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-celadon-ewer",
+          "reason": "比较白釉龙柄与青釉瓜棱，不推定工艺传播。"
+        }
+      },
+      "visualBrief": "Tang white ceramic ewer, dragon-shaped arched handle, plain rounded body and pouring lip, ivory glaze, restrained abstract dragon head.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=417e4bfd995d4b83978cdc332ccfee9e",
+      "evidenceKey": "50d2bd5116e068ac92fc",
+      "recordIdentifier": "417e4bfd995d4b83978cdc332ccfee9e",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；唐代三彩结带纹穿带扁壶高23.9厘米，2010年获捐。正面绶带纹与扁平背部突出，馆方认为可能用于悬挂。保留“可能”，不补出骑乘者或挂带原装方式；AI只示意扁壶和结带主题。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-tricolor-flat-flask",
+        "name": "三彩结带纹穿带扁壶",
+        "dynasty": "唐",
+        "era": "隋唐五代",
+        "category": "陶瓷",
+        "shape": "pot",
+        "story": "唐代三彩结带纹穿带扁壶高23.9厘米，2010年获捐。正面绶带纹与扁平背部突出，馆方认为可能用于悬挂。保留“可能”，不补出骑乘者或挂带原装方式；AI只示意扁壶和结带主题。",
+        "keywords": [
+          "三彩结带纹穿带扁壶",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "三彩、凸起绶带纹与扁背明确，装烧未知。",
+        "discovery": "2010年日本某友好团体捐赠。",
+        "research": "悬挂用途属解释，不是使用记录。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "sz-white-dragon-ewer",
+          "reason": "比较扁壶与立壶构造，不认定相同饮品。"
+        }
+      },
+      "visualBrief": "Tang tricolor ceramic flattened flask, flat back and rounded front, raised abstract knotted-ribbon ornament, amber green cream glaze, no strap.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=e300681790e5478e8e3fc38fa7b451d0",
+      "evidenceKey": "cc1b68f161518258952f",
+      "recordIdentifier": "e300681790e5478e8e3fc38fa7b451d0",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；北宋青瓷瓜棱执壶高21厘米，1993年由国家文物局调拨深圳博物馆。瓜棱器身与执壶定名可核；具体窑址、烧造工坊与原盛物没有记录。调拨是现代收藏史，不是器物古代流通路径。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-celadon-ewer",
+        "name": "青瓷瓜棱执壶",
+        "dynasty": "北宋",
+        "era": "宋辽金元",
+        "category": "陶瓷",
+        "shape": "pot",
+        "story": "北宋青瓷瓜棱执壶高21厘米，1993年由国家文物局调拨深圳博物馆。瓜棱器身与执壶定名可核；具体窑址、烧造工坊与原盛物没有记录。调拨是现代收藏史，不是器物古代流通路径。",
+        "keywords": [
+          "青瓷瓜棱执壶",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "青瓷瓜棱、执壶有据；窑址配方未知。",
+        "discovery": "1993年国家文物局调拨。",
+        "research": "调拨不能当原产地或出土地证据。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "cd-ge-ewer",
+          "reason": "比较瓜棱与八棱线条，不声称沿袭关系。"
+        }
+      },
+      "visualBrief": "Northern Song celadon ewer, rounded melon-ribbed body, curved spout and loop handle, muted green glaze.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=56de27238e7d440c9af63e8df92da866",
+      "evidenceKey": "952ed05f7d7de2e2cdd6",
+      "recordIdentifier": "56de27238e7d440c9af63e8df92da866",
+      "inventoryNumber": null,
+      "supports": "馆方逐件名称、收藏入口及以下明列事实；唐代长沙窑青釉褐斑贴花椰枣纹注子高26厘米，馆方将釉色、褐斑、贴花与椰枣主题并列。应先比较装饰与器形，而非仅凭植物纹样断言本件出口路线或使用者身份；官网未载原出土地与入藏经过。 不构成图片许可。",
+      "artifact": {
+        "id": "sz-changsha-ewer",
+        "name": "长沙窑青釉褐斑贴花椰枣纹注子",
+        "dynasty": "唐",
+        "era": "隋唐五代",
+        "category": "陶瓷",
+        "shape": "pot",
+        "story": "唐代长沙窑青釉褐斑贴花椰枣纹注子高26厘米，馆方将釉色、褐斑、贴花与椰枣主题并列。应先比较装饰与器形，而非仅凭植物纹样断言本件出口路线或使用者身份；官网未载原出土地与入藏经过。",
+        "keywords": [
+          "长沙窑青釉褐斑贴花椰枣纹注子",
+          "陶瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "长沙窑、青釉褐斑和贴花定名可用；窑温配方未知。",
+        "discovery": "原出土地与入藏经过未载，不将装饰视为流通证据。",
+        "research": "植物题材不能证明本件到过西亚或属于商人。 本件逐次保护与修复档案未核，不虚构现代修复史。",
+        "comparison": {
+          "artifactId": "cd-qiong-kiln-censer",
+          "reason": "比较贴塑装饰在不同器形上的安排，不证明直接传播。"
+        }
+      },
+      "visualBrief": "Tang Changsha kiln ceramic ewer, pale celadon glaze with brown splash accents and simple applied date-palm-like relief, rounded body, curved spout and handle.",
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown"
+    }
+  ]
+}

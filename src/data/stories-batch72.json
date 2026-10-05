@@ -1,0 +1,1989 @@
+{
+ "version": 1,
+ "reviewedAt": "2026-10-05",
+ "sources": [
+  {
+   "id": "t04-csm-lion-pouches-official",
+   "title": "官方逐件记录：盘金彩绣狮子纹荷包（itemid=3282）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3282",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代清、质地丝；一对狮子纹荷包，荷包面打褶、荷包口抽紧，针法为盘金彩绣；1对2只，尺寸11.5×11.5厘米，含绳与玉环总长40.5厘米。未载：原主人、入藏经过、制作人；纹样不据AI图核验；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-yellow-knots-pouch-official",
+   "title": "官方逐件记录：黄绸地打籽绣多子多福荷包（itemid=3281）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3281",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代清、质地丝；主要面料为黄色绸，其上打籽绣多子多福纹样；长10.1、宽14.5厘米；馆方对打籽绣的说明（用打籽针、用力须均匀紧密、籽粒细小组合灵活）属工艺解释。未载：物主与入藏经过；吉愿纹样不构成生育经历或人物传记；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-blue-waist-pouch-official",
+   "title": "官方逐件记录：蓝缎圈金铺绒绣石榴飞雁腰包（itemid=3280）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3280",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；以蓝色缎为主，其上圈金铺绒绣石榴飞雁纹样；长9.9、宽28.1厘米；馆方对圈金绣（属钉金绣，用金银线圈轮廓）与铺绒绣（以满铺绒线为绣地，用极细生丝线挑出图案）的说明属工艺解释。未载：制作人与发现过程；定年为民国，不按纹样误归清代；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-go-waist-pouch-official",
+   "title": "官方逐件记录：白绸绣桃子围棋腰包（itemid=3279）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3279",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；中央白色绸料上用黑色丝线绣桃子围棋纹样，白绸周围镶黑色素缎；长17.3、宽30.5厘米。未载：物主、制作人与入藏经过；纹样不直接等于内装物或物主职业；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-bell-ornament-official",
+   "title": "官方逐件记录：红绿缎绣花卉小饰件（itemid=3284）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3284",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；外观呈钟形，两面各以红、绿色素缎做主要面料，其上以彩色丝线绣花卉纹样；长10.4、宽8.5厘米。未载：具体悬挂或使用场景；不据器形编造用途；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-calling-card-bag-official",
+   "title": "官方逐件记录：品蓝缎彩绣花卉名片袋（itemid=3283）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3283",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；外观呈长形、上端略圆并有开口，用以放置名片；以品蓝色素缎为主要面料，用粉色花边镶边，其上以彩色丝线绣花卉纹样；长9.5、宽6.4厘米。未载：名片内容、物主与入藏经过；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-double-pouch-official",
+   "title": "官方逐件记录：白缎铺绒绣桃子螃蟹褡裢（itemid=3274）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3274",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；外观呈长形，中部有口、两端下垂成两袋，是用以携带物品的袋囊；以白色素缎为主要面料，其上以彩色丝线用铺绒绣技法绣出图案，上方为螃蟹纹样、下方为桃子纹样；长16.9、宽9厘米。未载：具体装过什么、佩用人；双袋为一件褡裢，不拆分；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-moth-pouch-official",
+   "title": "官方逐件记录：彩绸绣石榴花虫荷包（itemid=3275）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3275",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；外观略似飞蛾形，上端有一系绳，以红、绿、蓝、黑等各色绸缎拼缝而成，其上以彩色丝线绣石榴及花虫纹样，外圈用粉色绦带镶边；长10.7、宽16.7厘米；馆方称其为钱袋。未载：物主与入藏经过；昆虫不作种属认定；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-plum-money-pouch-official",
+   "title": "官方逐件记录：彩绢圈金绣梅花钱袋（itemid=3272）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3272",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代民国、质地丝；外观呈方形，馆方说明使用时系于腰间；以桃红、白、绿、蓝、橙等各色素绢拼缝而成，其中在白色绢地上用彩色丝线绣梅花纹样，并用捻金线勾边，外圈以黑色素缎镶边；长14.9、宽11.6厘米。未载：确切使用者、实际所装钱币；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-ming-yesa-official",
+   "title": "官方逐件记录：明代曲水如意云纹暗花缎曳撒袍（itemid=1900）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1900",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明、质地丝、色泽褐；长108、宽49、通袖长214厘米，数量1件；款式为交领右衽、双袖平直，最大特点是腰部以下作襞积（打褶），下裳呈裙状；面料为暗花缎，纹样为曲水如意云纹；整件服装较完整。馆方称其形式受元代蒙古辫线袄影响、为明代早期君臣外出乘马时所穿，属款式渊源解释，不据此认定本件个人身份；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-cloud-fragment-official",
+   "title": "官方逐件记录：四合云纹绮寿衣（itemid=1904）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1904",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明、质地丝、数量一块；该织物已经相当残破，面料采用四合云纹绮；馆方“推断其原件为寿衣一部分”，属推断语气。未载：出土墓葬与墓主、完整衣物形制、入藏经过；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-padded-socks-official",
+   "title": "官方逐件记录：绢面绵袜（itemid=1898）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1898",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明永乐、质地丝、数量1双；该袜一对，绢料为面、内衬绵；长22.5厘米、高15.5厘米（底长字段官方空缺）。未载：物主、出土地、入藏经过与现代修复经过；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-ruyi-shoes-official",
+   "title": "官方逐件记录：辑线绣如意纹缎鞋（itemid=1897）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1897",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明永乐、质地丝、色泽黄、数量1双；面料采用如意纹暗花缎，其上缉线绣；长23、底长16、高5、底宽2.5厘米；馆方对缉线绣的说明（京绣的一个品种，绣线一般用有颜色的多股线，或以马鬃、细铜丝作线芯，外面绕丝线）属工艺解释。注意：官网标题作“辑线”，正文作“缉线”，本条并列不判；具体线芯材质未核；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-peony-satin-shoe-official",
+   "title": "官方逐件记录：刺绣牡丹花纹缎鞋（itemid=1899）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1899",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明永乐、质地丝、色泽黄、数量**1只**；面料采用素缎（即不提花的缎织物），缎地上刺绣牡丹花纹；长24.5、高5厘米（底长字段官方空缺）。馆方对素缎起源的一般说法（一般认为在宋末元初）属概说，不构成本件的发现史。未载：另一只是否存在、物主与入藏经过；数量按官方登记保持为一只；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-gold-peony-shoes-official",
+   "title": "官方逐件记录：钉金绣牡丹花纹缎鞋（itemid=1894）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1894",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明永乐、质地丝、色泽黄色、数量1双；该件绣鞋共两只，以五枚素缎做地，鞋背上用钉金线绣出牡丹花卉纹样。未载：尺寸字段、工匠、生产地点、物主与入藏经过；五枚组织不据AI图验证；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-plain-skirt-official",
+   "title": "官方逐件记录：素纱裙（itemid=1896）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1896",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明永乐、质地丝、色泽黄、数量1条；裙子为百褶，前片和后片中间开衩并留有大于其他褶一倍的一大褶，形似清代马面裙；裙的面料正文记为1/1平纹的绢织物；长97.5、腰宽65、下摆宽180厘米。冲突照录：题名作“素纱裙”，正文称平纹绢，两个口径并列不判；组织待核；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-long-jacket-official",
+   "title": "官方逐件记录：卍字田格纹绮长袖夹衣（itemid=1901）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1901",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明永乐、质地丝、色泽黄、数量1件；衣服对襟、直领，袖缘用绢贴边，以1/1平纹地上起卍字田格纹花的织物制成；长61、通袖长198厘米。卍字为传统纹样，本条不作现代政治标识；AI示意不绘准确织纹；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-short-jacket-official",
+   "title": "官方逐件记录：绣花卉纹缘素罗短袖夹衣（itemid=1892）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1892",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明永乐、质地丝、色泽黄、数量1件；衣服对襟、直领，领缘贴有刺绣花卉纹花边，门襟处有两根系带，两边腋下开衩；长61、胸围78、通袖长120、下摆宽91厘米。冲突照录：题名作“素罗”，正文称用1/1平纹绢制成，两个口径并列不判；组织待核；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-patched-robe-official",
+   "title": "官方逐件记录：黄色素罗绣花方补交领袍（itemid=1890）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1890",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明代、质地丝、色泽黄、数量1件；该袍服比较残破，但还能辨认为交领袍；主体面料采用黄色素罗，袍服前胸有一块方补；长126、通袖长210厘米。方补的等级身份与纹样未详，馆方记录未说明，本条不据此推断官阶；不构成照片授权。"
+  },
+  {
+   "id": "t04-csm-padded-trousers-official",
+   "title": "官方逐件记录：黄色缠枝花卉暗花缎绵裤（itemid=1891）",
+   "institution": "中国丝绸博物馆",
+   "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1891",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：时代明代、质地丝、色泽黄、数量1件；此绵裤裤腿肥阔，面料为黄色缠枝花卉暗花缎；长90、腰宽60厘米。未载：物主、出土地、墓葬与保护修复经过；不构成照片授权。"
+  }
+ ],
+ "trails": [],
+ "stories": [
+  {
+   "id": "csm-lion-pouches",
+   "hook": "一对荷包，绳上还挂着玉环",
+   "summary": "中国丝绸博物馆藏清代荷包一对（成对计一条）。面料为丝，荷包面打褶、口部抽紧，用盘金彩绣表现狮子纹；单只11.5×11.5厘米，含绳与玉环总长40.5厘米。原主人与入藏经过未在官方记录中公布。",
+   "summaryRefs": [
+    "t04-csm-lion-pouches-official"
+   ],
+   "sections": [
+    {
+     "title": "先说清楚“一对”",
+     "text": "官方记录写的是：1对2只，尺寸11.5×11.5厘米，含绳与玉环总长40.5厘米。成对是原件登记的数量关系，本条按一对计一件，不拆开、也不把其中一只单独讲成另一件文物。两只相同的荷包并排出现，本身就说明它们原本是配套使用的。",
+     "refs": [
+      "t04-csm-lion-pouches-official"
+     ]
+    },
+    {
+     "title": "做法写在名字里",
+     "text": "“盘金彩绣狮子纹荷包”几乎把工艺说完了：盘金是针法，彩绣是配色，狮子纹是纹样。官方记录补充了形制——荷包面打褶，荷包口抽紧。打褶是为了让袋面鼓起来、容量更大；抽紧的口则可以束住里面装的东西。",
+     "refs": [
+      "t04-csm-lion-pouches-official"
+     ]
+    },
+    {
+     "title": "绳索与玉环",
+     "text": "总长40.5厘米包含了绳与玉环——也就是说，这件荷包并非只有一只袋子，还带着一整套佩挂系统。荷包要挂在身上或腰间，需要绳；绳上再配玉环，是装饰也是配重。这些部件在官方记录里被列入尺寸，说明它们与原物一同保存下来。",
+     "refs": [
+      "t04-csm-lion-pouches-official"
+     ]
+    },
+    {
+     "title": "谁用过它，不知道",
+     "text": "官方记录没有公布原主人与入藏经过。因此本条不写“某位贵妇的随身之物”这类推测。狮子纹是常见的吉祥与威仪题材，纹样本身不能告诉我们物主是谁。站内配图是 AI 概括示意，纹样的具体形态、针脚密度与金线走向都不能用来核验工艺。",
+     "refs": [
+      "t04-csm-lion-pouches-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "数量与尺寸",
+     "text": "1对2只，单只11.5×11.5厘米；含绳与玉环总长40.5厘米。",
+     "refs": [
+      "t04-csm-lion-pouches-official"
+     ]
+    },
+    {
+     "title": "工艺",
+     "text": "盘金彩绣；荷包面打褶、口部抽紧。",
+     "refs": [
+      "t04-csm-lion-pouches-official"
+     ]
+    },
+    {
+     "title": "时代与质地",
+     "text": "清；丝。",
+     "refs": [
+      "t04-csm-lion-pouches-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "原主人与入藏经过未公布；纹样不据AI核验。",
+     "refs": [
+      "t04-csm-lion-pouches-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么荷包要成对保存？",
+    "answer": "因为它们本来就是一对方便携带与替换的物件：同一款式、同一工艺，两只一起用或分别用。博物馆把一对作为一件登记，是为了保留这种“成套”的关系——拆开来，每只都只是一个袋子。",
+    "refs": [
+     "t04-csm-lion-pouches-official"
+    ]
+   },
+   "uncertainty": "原主人、入藏经过与制作人未载；金线与绣线的材质未做检测；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；成对计一条。",
+   "related": [
+    {
+     "id": "csm-yellow-knots-pouch",
+     "reason": "同为清代荷包：一对盘金彩绣狮子纹，一只黄绸打籽绣多子多福，比较两种针法与袋形。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-ming-yesa",
+     "reason": "小袋与外衣的对照：一件是腰间佩挂的小囊，一件是乘马所穿的曳撒袍，比较构件与针线的关系，不据此推断直接传承。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-yellow-knots-pouch",
+   "hook": "一颗一颗打出来的籽",
+   "summary": "中国丝绸博物馆藏清代荷包。质地丝，主要面料为黄色绸，其上以打籽绣表现多子多福纹样，长10.1、宽14.5厘米。纹样表达的是吉愿，不说明物主的实际生育经历。",
+   "summaryRefs": [
+    "t04-csm-yellow-knots-pouch-official"
+   ],
+   "sections": [
+    {
+     "title": "打籽绣是怎么回事",
+     "text": "官方记录对针法的说明很清楚：打籽绣采用打籽针；打籽是一种比较重要的针法，用力须均匀紧密；因为籽粒细小、组合灵活，可以绣花蕊，也可以绣各种精致图案。这解释了一个要点——所谓“籽”，是用线在针上绕成的小结，一针一结地落在布面上。",
+     "refs": [
+      "t04-csm-yellow-knots-pouch-official"
+     ]
+    },
+    {
+     "title": "纹样为什么叫多子多福",
+     "text": "这是馆方给出的纹样名称，属于对图案寓意的记述。多子多福是传统吉愿题材，取的是“多”“繁盛”的联想。要分清：**纹样表达吉愿，不等于物主真有许多子女**。把图案当成生活记录，是把祝愿读成了传记。",
+     "refs": [
+      "t04-csm-yellow-knots-pouch-official"
+     ]
+    },
+    {
+     "title": "尺寸与面料",
+     "text": "长10.1、宽14.5厘米；主要面料为黄色绸。绸是平纹组织的一类织物，表面平整，适合在上面均匀地打籽——籽粒需要布面稳定，才不会歪斜。这个尺寸正好握在手里，是随身小物的常见体量。",
+     "refs": [
+      "t04-csm-yellow-knots-pouch-official"
+     ]
+    },
+    {
+     "title": "工艺之外的空缺",
+     "text": "谁绣的、为谁绣的、什么时候绣的，官方记录都没有写；入藏经过也未载。逐次保护修复档案同样未核。站内的 AI 配图只呈现概括的黄色袋形与装饰，具体纹样的排布、结粒的疏密都不能据图核对。",
+     "refs": [
+      "t04-csm-yellow-knots-pouch-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "针法",
+     "text": "打籽绣；用力须均匀紧密，籽粒细小、组合灵活。",
+     "refs": [
+      "t04-csm-yellow-knots-pouch-official"
+     ]
+    },
+    {
+     "title": "纹样与寓意",
+     "text": "多子多福；属吉愿题材，不等于物主经历。",
+     "refs": [
+      "t04-csm-yellow-knots-pouch-official"
+     ]
+    },
+    {
+     "title": "尺寸与时代",
+     "text": "长10.1、宽14.5厘米；清。",
+     "refs": [
+      "t04-csm-yellow-knots-pouch-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "物主、制作者与入藏经过未载。",
+     "refs": [
+      "t04-csm-yellow-knots-pouch-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么用“打结”的办法绣图案，而不是平铺线条？",
+    "answer": "按馆方说明，打籽绣的籽粒细小、组合灵活，可以绣花蕊，也可以绣精致图案。结粒凸出布面，会随光线产生细小的阴影，图案因此有了颗粒与厚度。代价是费工：每一粒都要绕线、落针，还要用力均匀。",
+    "refs": [
+     "t04-csm-yellow-knots-pouch-official"
+    ]
+   },
+   "uncertainty": "物主、制作者、入藏经过与绣制年代（具体年份）未载；纹样排布不据AI图核对；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；吉愿纹样不作人物传记使用。",
+   "related": [
+    {
+     "id": "csm-lion-pouches",
+     "reason": "两只清代荷包：一只以盘金彩绣出狮子，一只以打籽绣出多子多福，比较针法带来的不同质感。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-plum-money-pouch",
+     "reason": "荷包与钱袋的分工：一件重在装饰与佩挂，一件明确用于装钱并系于腰间，比较小袋的用途差别。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-blue-waist-pouch",
+   "hook": "描着金边的轮廓，里面填绒",
+   "summary": "中国丝绸博物馆藏民国腰包。质地丝，以蓝色缎为主要面料，其上以圈金铺绒绣表现石榴与飞雁纹样，长9.9、宽28.1厘米。馆方定年为民国，不能因传统纹样而误归清代；制作人与发现过程未见记录。",
+   "summaryRefs": [
+    "t04-csm-blue-waist-pouch-official"
+   ],
+   "sections": [
+    {
+     "title": "两道工序：先圈边，再填绒",
+     "text": "官方记录把工艺拆成两步讲：圈金绣属钉金绣，用一根金线或银线圈出纹样的外轮廓，再用丝线以其他针法绣轮廓内部；铺绒绣也叫别绒或瘪绒，即挑花，特点是以满铺绒线成为整个绣地，以极细的生丝线挑出图案。先定边界、再填内容——这是许多绣法的共同思路。",
+     "refs": [
+      "t04-csm-blue-waist-pouch-official"
+     ]
+    },
+    {
+     "title": "石榴与飞雁",
+     "text": "纹样被记录为石榴与飞雁。石榴常见于多子的吉愿题材，飞雁则常与水乡、旅途、时令的联想有关。这些是图案的一般含义，本条不用它推想物主的处境或经历——纹样是绣上去的祝愿或装饰，不是生活记录。",
+     "refs": [
+      "t04-csm-blue-waist-pouch-official"
+     ]
+    },
+    {
+     "title": "尺码说明它是腰包",
+     "text": "长9.9、宽28.1厘米——窄而长。这个比例适合系在腰间，横向贴合身体。与荷包相比，腰包的面积更大，装饰的余地也更多，石榴与飞雁因此可以铺开安排。",
+     "refs": [
+      "t04-csm-blue-waist-pouch-official"
+     ]
+    },
+    {
+     "title": "年代为什么是民国",
+     "text": "馆方定年为民国。这一点需要强调：不能因为纹样是传统题材，就把它归到清代。工艺的延续与器物的年代是两件事——铺绒、圈金这些针法在民国仍在做，作品本身却属于近代。制作人与发现过程，官方记录未载。",
+     "refs": [
+      "t04-csm-blue-waist-pouch-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "工艺",
+     "text": "圈金绣（属钉金绣）勾轮廓；铺绒绣以满铺绒线为地、极细生丝线挑图案。",
+     "refs": [
+      "t04-csm-blue-waist-pouch-official"
+     ]
+    },
+    {
+     "title": "纹样",
+     "text": "石榴与飞雁。",
+     "refs": [
+      "t04-csm-blue-waist-pouch-official"
+     ]
+    },
+    {
+     "title": "尺寸与年代",
+     "text": "长9.9、宽28.1厘米；馆方定年民国。",
+     "refs": [
+      "t04-csm-blue-waist-pouch-official"
+     ]
+    },
+    {
+     "title": "边界",
+     "text": "不按传统纹样误归清代；制作人未知。",
+     "refs": [
+      "t04-csm-blue-waist-pouch-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么先要把纹样的边“描”出来？",
+    "answer": "按馆方对圈金绣的说明，金线沿轮廓走一圈，等于先把图案的界线固定下来；随后在里面填绒绣，就不容易走形。这像画画先勾线再上色：方法简单，效果稳妥，也让金线在光下显出一道亮边。",
+    "refs": [
+     "t04-csm-blue-waist-pouch-official"
+    ]
+   },
+   "uncertainty": "制作人、发现过程、物主与具体年份未载；金线成分与绒线材质未做检测；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；定年从馆方登记为民国。",
+   "related": [
+    {
+     "id": "csm-go-waist-pouch",
+     "reason": "两件民国腰包：一件蓝缎圈金铺绒绣石榴飞雁，一件白绸绣桃子围棋，比较底色、针法与纹样主题。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-ming-yesa",
+     "reason": "近代小袋与明代外衣并置：工艺样式可以相似，年代与用途不同，比较而不暗示直接传承。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-go-waist-pouch",
+   "hook": "围棋和桃子，绣在腰包上",
+   "summary": "中国丝绸博物馆藏民国腰包。质地丝，中央白色绸料上用黑色丝线绣桃子与围棋纹样，白绸周围镶黑色素缎，长17.3、宽30.5厘米。围棋图像不能证明它曾装棋子或属于某位棋手。",
+   "summaryRefs": [
+    "t04-csm-go-waist-pouch-official"
+   ],
+   "sections": [
+    {
+     "title": "黑与白的一件小物",
+     "text": "官方记录很简洁：中央白色绸料上用黑色丝线绣桃子围棋纹样；白绸周围镶黑色素缎。黑与白是这件腰包的全部配色——素缎的边框、白绸的地、黑线的纹。这样的配色让纹样成为视觉中心，也让整个包看起来克制、干净。",
+     "refs": [
+      "t04-csm-go-waist-pouch-official"
+     ]
+    },
+    {
+     "title": "围棋纹样意味着什么",
+     "text": "围棋是棋类，桃子是果品，两者被绣在同一件腰包上。它们是纹样题材，不说明这件包曾经装过棋子，也不说明它的主人是棋手。把图案当作物主职业或内装物的证据，是常见但站不住的推断。",
+     "refs": [
+      "t04-csm-go-waist-pouch-official"
+     ]
+    },
+    {
+     "title": "腰包的尺码",
+     "text": "长17.3、宽30.5厘米，横向展开的面积不小，适合系在腰间。民国时期，腰包是随身收纳的常见物件：钱、票、小物件都可能有专门的袋子。官方记录没有说明这件腰包装什么。",
+     "refs": [
+      "t04-csm-go-waist-pouch-official"
+     ]
+    },
+    {
+     "title": "明确的与不明确的",
+     "text": "明确的是：年代民国、质地丝、尺寸、纹样题材与镶边方式。不明确的是：制作人、物主、入藏经过与内装物。逐次保护修复档案未核。站内配图是 AI 概括示意，围棋纹的具体棋形与桃子纹的针法都不能据此核对。",
+     "refs": [
+      "t04-csm-go-waist-pouch-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "纹样与配色",
+     "text": "白绸地上以黑丝线绣桃子围棋纹；四周镶黑色素缎。",
+     "refs": [
+      "t04-csm-go-waist-pouch-official"
+     ]
+    },
+    {
+     "title": "尺寸与年代",
+     "text": "长17.3、宽30.5厘米；民国。",
+     "refs": [
+      "t04-csm-go-waist-pouch-official"
+     ]
+    },
+    {
+     "title": "不能做的推断",
+     "text": "围棋纹不等于装棋子或物主为棋手。",
+     "refs": [
+      "t04-csm-go-waist-pouch-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "制作人、物主与内装物未载。",
+     "refs": [
+      "t04-csm-go-waist-pouch-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么人们喜欢把“棋”绣在随身的小包上？",
+    "answer": "纹样常常取的是联想：棋有布局、较量、闲趣的意思，桃子有长寿、丰美的意思，绣在日常用物上，是把这些愿望带在身边。至于具体某个人为什么选这个图案，本条资料没有说明，我们不替他解释。",
+    "refs": [
+     "t04-csm-go-waist-pouch-official"
+    ]
+   },
+   "uncertainty": "制作人、物主、入藏经过与内装物未载；纹样细节不据AI图核对；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "csm-blue-waist-pouch",
+     "reason": "同为民国腰包：一件绣石榴飞雁并有圈金边，一件绣桃子围棋、黑白相间，比较题材与配色。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-double-pouch",
+     "reason": "都是收纳用具：腰包横向系腰，褡裢两端成袋搭在肩上，比较形制与携带方式。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-bell-ornament",
+   "hook": "钟形的小饰件，两面各一种颜色",
+   "summary": "中国丝绸博物馆藏民国丝织小饰件。外观呈钟形，两面分别以红、绿色素缎为主要面料，其上用彩色丝线绣花卉纹样，长10.4、宽8.5厘米。具体悬挂场景官方未说明。",
+   "summaryRefs": [
+    "t04-csm-bell-ornament-official"
+   ],
+   "sections": [
+    {
+     "title": "形与面",
+     "text": "官方记录的描述是：外观呈钟形，两面各以红、绿色素缎做主要面料，其上用彩色丝线绣花卉纹样。也就是同一件小物，两面颜色不同——一面红、一面绿。这种双面做法在小饰件里很常见，佩挂时无论从哪边看都是完整的一面。",
+     "refs": [
+      "t04-csm-bell-ornament-official"
+     ]
+    },
+    {
+     "title": "“钟形”是描述而不是用途",
+     "text": "记录用“钟形”形容轮廓：上窄下阔，像一口钟。名字叫“小饰件”，说明它属于装饰性物件。它具体挂在哪里、怎么用——官方记录没有说明。因此本条不写“挂在帐钩上”或“系在腰带上”，这类场景需要证据，不是凭形状猜出来的。",
+     "refs": [
+      "t04-csm-bell-ornament-official"
+     ]
+    },
+    {
+     "title": "素缎与彩绣",
+     "text": "主要面料是素缎——也就是不提花的缎织物；上面的花卉纹样靠绣，而不是靠织。素缎平整、有光泽，适合作为绣地；彩线绣上去后，颜色对比明显。10.4×8.5厘米的尺寸，是随身或悬挂小物的常见体量。",
+     "refs": [
+      "t04-csm-bell-ornament-official"
+     ]
+    },
+    {
+     "title": "还能确定的边界",
+     "text": "年代为民国，质地为丝，这些来自官方登记。制作人、物主、入藏经过、逐次保护修复档案，均未载。站内配图是 AI 概括示意，两面绣纹的排布、花卉种类都不能据图辨认——花卉名称本条也不指定。",
+     "refs": [
+      "t04-csm-bell-ornament-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "外观",
+     "text": "钟形，两面各以红、绿色素缎为主要面料。",
+     "refs": [
+      "t04-csm-bell-ornament-official"
+     ]
+    },
+    {
+     "title": "工艺",
+     "text": "其上用彩色丝线绣花卉纹样。",
+     "refs": [
+      "t04-csm-bell-ornament-official"
+     ]
+    },
+    {
+     "title": "尺寸与年代",
+     "text": "长10.4、宽8.5厘米；民国。",
+     "refs": [
+      "t04-csm-bell-ornament-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "具体悬挂与使用场景未说明；不据器形编造用途。",
+     "refs": [
+      "t04-csm-bell-ornament-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么一件小饰件要把两面都做完整？",
+    "answer": "因为它会被翻动。佩挂的物件随人走动而旋转，两面都绣满，就不会出现“背面是空的”这种尴尬。做两面比做一面费工，但换来的是一整件小物都能看。",
+    "refs": [
+     "t04-csm-bell-ornament-official"
+    ]
+   },
+   "uncertainty": "使用与悬挂场景、制作人、物主未载；花卉种类不作认定；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "csm-calling-card-bag",
+     "reason": "同为民国小件：一件是钟形饰件，一件是装名片的袋子，比较装饰性与实用性的分工。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-moth-pouch",
+     "reason": "都是两面对称的小物：一件钟形双色绣花，一件略似飞蛾形的拼缝钱袋，比较形制与拼料做法。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-calling-card-bag",
+   "hook": "装名片的袋子",
+   "summary": "中国丝绸博物馆藏民国名片袋。质地丝，外观呈长形、上端略圆并有开口，用以放置名片；以品蓝色素缎为主要面料，粉色花边镶边，其上彩绣花卉纹样。长9.5、宽6.4厘米。名片内容与物主未载。",
+   "summaryRefs": [
+    "t04-csm-calling-card-bag-official"
+   ],
+   "sections": [
+    {
+     "title": "它有一个明确的用途",
+     "text": "官方记录直说：上端略圆，有开口，用以放置名片。这一件用途最清楚：装名片。佩饰、钱袋都不是它的身份。名片是近代交往里的物件：见面递上一张，写上姓名与身份，认识就从这里开始。",
+     "refs": [
+      "t04-csm-calling-card-bag-official"
+     ]
+    },
+    {
+     "title": "尺码与形式",
+     "text": "长9.5、宽6.4厘米，正好能装下当时常见尺寸的名片并留出余量。上端略圆的形状是为了取放方便，开口在上，抽取时不必整个翻过来。这个尺寸也便于随身携带——放在衣袋里，或与其他小件一起收着。",
+     "refs": [
+      "t04-csm-calling-card-bag-official"
+     ]
+    },
+    {
+     "title": "装饰的做法",
+     "text": "以品蓝色素缎为主要面料，用粉色花边镶边，其上彩绣花卉纹样。蓝色地子沉稳，粉色边与彩色绣线在边缘形成对比；整体做法与同时期其他小袋一致：素缎为地、彩绣为饰、镶边收口。工艺上没有特殊之处，这正是它的价值所在——它是一件日常用品。",
+     "refs": [
+      "t04-csm-calling-card-bag-official"
+     ]
+    },
+    {
+     "title": "看不到的部分",
+     "text": "名片里写了什么、袋子属于谁、什么时候做的，官方记录未载。逐次保护修复档案未核。站内配图是 AI 概括示意，不能据图判断花卉种类或绣线配色。我们能说的只是：在民国，有人需要用这样一个袋子来装名片。",
+     "refs": [
+      "t04-csm-calling-card-bag-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "用途",
+     "text": "放置名片的袋子，上端略圆、有开口。",
+     "refs": [
+      "t04-csm-calling-card-bag-official"
+     ]
+    },
+    {
+     "title": "面料与装饰",
+     "text": "品蓝色素缎为地，粉色花边镶边，彩绣花卉纹。",
+     "refs": [
+      "t04-csm-calling-card-bag-official"
+     ]
+    },
+    {
+     "title": "尺寸与年代",
+     "text": "长9.5、宽6.4厘米；民国。",
+     "refs": [
+      "t04-csm-calling-card-bag-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "名片内容、物主与入藏经过未载。",
+     "refs": [
+      "t04-csm-calling-card-bag-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么装名片的袋子也要绣花？",
+    "answer": "因为名片本身是体面的东西。递名片是社交场合的动作，装它的袋子也会被看见。用素缎、彩绣与花边做一个讲究的小袋，是把“尊重对方”这件事，做到了手上的物件里。",
+    "refs": [
+     "t04-csm-calling-card-bag-official"
+    ]
+   },
+   "uncertainty": "名片内容、物主、制作人与入藏经过未载；花卉种类与配色不据AI图核对；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "csm-bell-ornament",
+     "reason": "同为民国小件：一件装名片，一件是钟形饰件，比较实用器物与装饰器物的差别。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-plum-money-pouch",
+     "reason": "随身收纳的两类：一件装名片、一件装钱并系于腰间，比较用途决定的形式。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-double-pouch",
+   "hook": "两头都是袋，中间开口",
+   "summary": "中国丝绸博物馆藏民国褡裢。质地丝，外观呈长形，中部有口、两端下垂成两袋，用以携带物品；以白色素缎为主要面料，用铺绒绣技法绣出图案，上方螃蟹纹、下方桃子纹。长16.9、宽9厘米。具体装过什么与佩用人未载。",
+   "summaryRefs": [
+    "t04-csm-double-pouch-official"
+   ],
+   "sections": [
+    {
+     "title": "褡裢是一件事物，不是两件",
+     "text": "官方记录写明：中部有口、两端下垂成两袋。也就是说，它是搭在肩上或挂在身上的一整条袋囊，中间开口，两端是两个装东西的兜。本条按一件计，不因为有两个袋就拆成两条——这是形制上的一个整体。",
+     "refs": [
+      "t04-csm-double-pouch-official"
+     ]
+    },
+    {
+     "title": "一只螃蟹、一颗桃子",
+     "text": "记录给出图案位置：上方为螃蟹纹样，下方为桃子纹样。两个题材在同一件小物上并置，一个来自水泽，一个来自果园，都是常见的吉祥或生活题材。至于它们各自的寓意，本条不代物主解释，只把纹样名称写下来。",
+     "refs": [
+      "t04-csm-double-pouch-official"
+     ]
+    },
+    {
+     "title": "铺绒绣的满铺法",
+     "text": "白素缎为地，其上用彩色丝线以铺绒绣技法绣出图案。与只绣出图案轮廓的做法不同，铺绒的特点是以满铺绒线构成绣地，再用极细的生丝线挑出图案——绣面因此整体有绒感。缎地平整、绒线饱满，两者形成质感对比。",
+     "refs": [
+      "t04-csm-double-pouch-official"
+     ]
+    },
+    {
+     "title": "带着它做什么",
+     "text": "褡裢的功能是携带物品：出门时把东西分装两端，中间搭在肩上或系在腰间，重量分散、取用也方便。它具体装过什么、谁用过，官方记录未载。长16.9、宽9厘米的体量不大，属于随身小件；逐次保护修复档案未核。",
+     "refs": [
+      "t04-csm-double-pouch-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "形制",
+     "text": "长形，中部有口，两端下垂成两袋，为携带物品的袋囊。",
+     "refs": [
+      "t04-csm-double-pouch-official"
+     ]
+    },
+    {
+     "title": "纹样",
+     "text": "上方螃蟹纹，下方桃子纹。",
+     "refs": [
+      "t04-csm-double-pouch-official"
+     ]
+    },
+    {
+     "title": "工艺与尺寸",
+     "text": "白素缎为地、铺绒绣；长16.9、宽9厘米。",
+     "refs": [
+      "t04-csm-double-pouch-official"
+     ]
+    },
+    {
+     "title": "边界",
+     "text": "双袋计一件；装过什么与佩用人未载。",
+     "refs": [
+      "t04-csm-double-pouch-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么把袋子做成两端开口、中间相连的样子？",
+    "answer": "因为要挂在身上走。东西分放两端，重量自然分到身体两侧；中间搭过去，物件就不会在走动时甩来甩去。这种形制在各地都被长期使用——它解决的是一件很实际的事：怎么把东西带着走，又腾出两只手。",
+    "refs": [
+     "t04-csm-double-pouch-official"
+    ]
+   },
+   "uncertainty": "所装物品、佩用人、制作者与入藏经过未载；纹样细节不据AI图辨认；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；双袋计一件。",
+   "related": [
+    {
+     "id": "csm-go-waist-pouch",
+     "reason": "携带方式的比较：一件是系在腰间的腰包，一件是两端成袋的褡裢，比较负重与取用的差异。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-plum-money-pouch",
+     "reason": "都是随身袋囊：一件明确装钱，一件功能概括为“携带物品”，比较用途记载的详略。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-moth-pouch",
+   "hook": "像一只飞蛾的小钱袋",
+   "summary": "中国丝绸博物馆藏民国钱袋。质地丝，外观略似飞蛾形，上端有系绳，以红、绿、蓝、黑等各色绸缎拼缝而成，其上彩绣石榴及花虫纹样，外圈用粉色绦带镶边。长10.7、宽16.7厘米。昆虫不作种属认定。",
+   "summaryRefs": [
+    "t04-csm-moth-pouch-official"
+   ],
+   "sections": [
+    {
+     "title": "“略似飞蛾形”是馆方的形容",
+     "text": "官方记录用“略似飞蛾形”来描述外观，并把它称为钱袋。这是形状的比拟：上窄下阔、两侧舒展，轮廓让人联想到张开的蛾翅。需要强调的是，这只是形态描述——不能据此推断它一定与飞蛾的寓意有关，更不能推断物主喜欢什么。",
+     "refs": [
+      "t04-csm-moth-pouch-official"
+     ]
+    },
+    {
+     "title": "拼缝：几块料子配在一起",
+     "text": "红、绿、蓝、黑等各色绸缎拼缝而成。拼缝的做法在小件里很常见：手边有不同颜色、不同大小的料子，就按形制裁开、拼接起来。这样既省料，也自然形成块面效果；再在外圈加一道粉色绦带镶边，把整件收住。",
+     "refs": [
+      "t04-csm-moth-pouch-official"
+     ]
+    },
+    {
+     "title": "石榴与花虫",
+     "text": "纹样被记为石榴及花虫。“花虫”是泛称，指花卉与昆虫一类题材。这里要说明：站内配图是 AI 概括示意，本条不据图像确定昆虫的种属（是蜂、是蝶还是别的），也不把馆方的纹样名称改写成具体的物种名。",
+     "refs": [
+      "t04-csm-moth-pouch-official"
+     ]
+    },
+    {
+     "title": "作为钱袋",
+     "text": "上端有一系绳——系绳是钱袋的常见配置：束口、悬挂，或系在衣带里。它以“钱袋”入藏，说明馆方对用途的判断是收纳钱币。至于谁用过、装过多少钱、什么时候做的，官方记录未载；逐次保护修复档案未核。",
+     "refs": [
+      "t04-csm-moth-pouch-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "外观与形制",
+     "text": "略似飞蛾形，上端有系绳；馆方称为钱袋。",
+     "refs": [
+      "t04-csm-moth-pouch-official"
+     ]
+    },
+    {
+     "title": "面料",
+     "text": "红、绿、蓝、黑等各色绸缎拼缝；外圈粉色绦带镶边。",
+     "refs": [
+      "t04-csm-moth-pouch-official"
+     ]
+    },
+    {
+     "title": "纹样与尺寸",
+     "text": "彩绣石榴及花虫纹样；长10.7、宽16.7厘米。",
+     "refs": [
+      "t04-csm-moth-pouch-official"
+     ]
+    },
+    {
+     "title": "边界",
+     "text": "昆虫不作种属认定；物主与入藏经过未载。",
+     "refs": [
+      "t04-csm-moth-pouch-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么小件喜欢用几块不同颜色的料子拼起来？",
+    "answer": "因为省钱也省料。做一件小袋，用一整块新料并不划算；把零碎的好料拼起来，既用尽了手边的材料，又自然出现色彩块面。粉绦带镶边把拼缝的边界统一收住，整件看上去就完整了。",
+    "refs": [
+     "t04-csm-moth-pouch-official"
+    ]
+   },
+   "uncertainty": "昆虫种属不作认定；物主、制作人与入藏经过未载；纹样细节不据AI图核对；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "csm-plum-money-pouch",
+     "reason": "两件钱袋：一件以多色绸缎拼缝成蛾形，一件以多色素绢拼缝成方形，比较拼缝做法与镶边。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-bell-ornament",
+     "reason": "都是多色拼料的小件：一件钟形饰件，一件蛾形钱袋，比较外观比拟与实际用途。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-plum-money-pouch",
+   "hook": "系在腰间的方形钱袋",
+   "summary": "中国丝绸博物馆藏民国钱袋。质地丝，外观呈方形，馆方说明使用时系于腰间；以桃红、白、绿、蓝、橙等各色素绢拼缝而成，白绢地上彩绣梅花并以捻金线勾边，外圈黑素缎镶边。长14.9、宽11.6厘米。确切使用者与实际所装钱币未载。",
+   "summaryRefs": [
+    "t04-csm-plum-money-pouch-official"
+   ],
+   "sections": [
+    {
+     "title": "用途写得明确：系于腰间",
+     "text": "这是这一组里少见的、馆方直接说明用途的一件：使用时系于腰间。方形袋体、四边收整，系绳固定在腰带上，取钱时伸手就到。它的尺寸14.9×11.6厘米，正好放得下当时的铜钱或纸币，不至于鼓成一团。",
+     "refs": [
+      "t04-csm-plum-money-pouch-official"
+     ]
+    },
+    {
+     "title": "多色素绢拼缝",
+     "text": "桃红、白、绿、蓝、橙——五种颜色的素绢拼在一起。素绢没有花纹，颜色就是全部的表情。拼缝的做法把几块料子变成一整片袋面：疏密、冷暖由制作者自己安排。这种“多色拼”的做法与同期其他小袋一致。",
+     "refs": [
+      "t04-csm-plum-money-pouch-official"
+     ]
+    },
+    {
+     "title": "白地上的梅花与金边",
+     "text": "在拼缝的诸色之中，白色绢地被选中承载主要纹样：其上用彩色丝线绣梅花，并用捻金线勾边。捻金线是拿金材捻成或包覆的线材，勾在纹样边缘会形成一圈细亮的轮廓。外圈再用黑色素缎镶边，把鲜艳的袋面收束住。",
+     "refs": [
+      "t04-csm-plum-money-pouch-official"
+     ]
+    },
+    {
+     "title": "不知道的部分",
+     "text": "确切使用者未载；实际装过多少钱币、钱币的种类与年代也未载。逐次保护修复档案未核。站内 AI 配图只呈现方形的概括形态，不能用来核验梅花纹的针法、金线的走向与拼缝的分块。",
+     "refs": [
+      "t04-csm-plum-money-pouch-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "用途",
+     "text": "馆方说明使用时系于腰间。",
+     "refs": [
+      "t04-csm-plum-money-pouch-official"
+     ]
+    },
+    {
+     "title": "面料",
+     "text": "桃红、白、绿、蓝、橙等各色素绢拼缝；外圈黑素缎镶边。",
+     "refs": [
+      "t04-csm-plum-money-pouch-official"
+     ]
+    },
+    {
+     "title": "纹样与工艺",
+     "text": "白绢地彩绣梅花，捻金线勾边。",
+     "refs": [
+      "t04-csm-plum-money-pouch-official"
+     ]
+    },
+    {
+     "title": "尺寸与未知",
+     "text": "长14.9、宽11.6厘米；使用者与实际钱币未载。",
+     "refs": [
+      "t04-csm-plum-money-pouch-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么钱袋要用这么多种颜色？",
+    "answer": "因为它天天在人身上、眼前。钱袋是日常用品，也是随身可见的装饰；把几种颜色的绢拼在一起，再绣花、勾金边，是让自己每天看见的物件好看一点。手工时代，这种“好看”并不额外花钱——用的是手边已有的料子与时间。",
+    "refs": [
+     "t04-csm-plum-money-pouch-official"
+    ]
+   },
+   "uncertainty": "确切使用者、钱币种类与数量、制作人未载；捻金线成分未做检测；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "csm-moth-pouch",
+     "reason": "两件钱袋的对照：一件拼缝成蛾形并用粉绦镶边，一件拼缝成方形、金字勾边，比较造型与装饰手法。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-calling-card-bag",
+     "reason": "同为随身收纳：一件装钱系腰，一件装名片，比较用途对尺寸与结构的要求。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-ming-yesa",
+   "hook": "腰以下打褶的一件长袍",
+   "summary": "中国丝绸博物馆藏明代曳撒袍。褐色暗花缎，曲水如意云纹；长108、宽49、通袖长214厘米。交领右衽、双袖平直，腰部以下作襞积（打褶），下裳呈裙状。馆方将款式联系明代早期君臣乘马外出所穿，属渊源解释，不据此认定本件物主。",
+   "summaryRefs": [
+    "t04-csm-ming-yesa-official"
+   ],
+   "sections": [
+    {
+     "title": "先看形制",
+     "text": "官方记录把结构写清楚了：交领右衽，双袖平直，最大特点是腰部以下作襞积（打褶），下裳呈裙状。上身合体、下身散开——这种结构让下摆有足够活动量，走路、上马都不至于被袍身绊住。整件服装较完整，这在明代织绣服饰里难得。",
+     "refs": [
+      "t04-csm-ming-yesa-official"
+     ]
+    },
+    {
+     "title": "面料与纹样",
+     "text": "以暗花缎为面料，纹样为曲水如意云纹。暗花缎是在缎地上以组织变化显出花纹的织物：光下看有图案，平视又不刺眼，属于含蓄一路的做法。曲水与如意云是传统的纹样题材，本条只写名称，不臆测其含义。",
+     "refs": [
+      "t04-csm-ming-yesa-official"
+     ]
+    },
+    {
+     "title": "馆方说它从哪里来",
+     "text": "官方记录指出：曳撒袍的形式受元代蒙古辫线袄影响，是明代早期君臣外出乘马时所穿。这是**款式渊源的解释**，说的是这类袍服的来历与穿着场合。要分清：它不代表这一件曾被某位君臣穿过——本件的物主、出土与入藏信息，官方记录均未提供。",
+     "refs": [
+      "t04-csm-ming-yesa-official"
+     ]
+    },
+    {
+     "title": "尺寸之外的空缺",
+     "text": "长108、宽49、通袖长214厘米，数量1件。这些是量出来的数据；而它的制作工匠、织物产地、缝制年代的具体年份、以及逐次保护修复档案，都未载。站内配图是 AI 概括示意，纹样的具体形态与织造细节不能据图核对。",
+     "refs": [
+      "t04-csm-ming-yesa-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "形制",
+     "text": "交领右衽、双袖平直，腰以下打褶、下裳呈裙状。",
+     "refs": [
+      "t04-csm-ming-yesa-official"
+     ]
+    },
+    {
+     "title": "面料与纹样",
+     "text": "暗花缎；曲水如意云纹。",
+     "refs": [
+      "t04-csm-ming-yesa-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "长108、宽49、通袖长214厘米；数量1件。",
+     "refs": [
+      "t04-csm-ming-yesa-official"
+     ]
+    },
+    {
+     "title": "渊源解释",
+     "text": "受元代蒙古辫线袄影响、明代早期乘马外出所穿，属款式渊源；不认定本件个人身份。",
+     "refs": [
+      "t04-csm-ming-yesa-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么骑马的人要穿下摆打褶的长袍？",
+    "answer": "因为要动腿。下摆散开成大褶裙，跨坐时布料有余量，不会绷紧；下马走路时又自然垂下，仍然是长袍的样子。衣服的样子往往由使用方式决定——这类“为动作留余地”的设计，在传统服饰里很常见。",
+    "refs": [
+     "t04-csm-ming-yesa-official"
+    ]
+   },
+   "uncertainty": "物主、制作工匠、织物产地、具体缝制年代与入藏经过未载；款式渊源属馆方解释，不据此认定个人身份；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；渊源表述依馆方解释。",
+   "related": [
+    {
+     "id": "csm-plain-skirt",
+     "reason": "袍与裙的结构对照：一件腰以下打褶成裙状，一件本身就是百褶裙并留大褶，比较打褶在两件上的不同作用，不据此推断直接传承。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-lion-pouches",
+     "reason": "大件服饰与随身小袋：一件是乘马所穿的长袍，一对是腰间佩挂的荷包，比较同一时期服饰与配件的分工。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-cloud-fragment",
+   "hook": "一块残片，和一句“推断”",
+   "summary": "中国丝绸博物馆藏明代丝织物残片一块。面料采用四合云纹绮；馆方记录该织物已经相当残破，并“推断其原件为寿衣一部分”。这是推断语气，出土墓葬与墓主均未知，本条不据名字复原完整衣物。",
+   "summaryRefs": [
+    "t04-csm-cloud-fragment-official"
+   ],
+   "sections": [
+    {
+     "title": "先说“推断”这两个字",
+     "text": "官方记录的原话是“推断其原件为寿衣一部分”。推断是有依据的猜测，不是结论：依据可能是织物类型、残存形制或同类出土物；而馆方没有把话说死。本条严格跟着这个语气走——不写成“这是一件寿衣”，也不写它属于谁。",
+     "refs": [
+      "t04-csm-cloud-fragment-official"
+     ]
+    },
+    {
+     "title": "四合云纹绮是什么",
+     "text": "面料是“四合云纹绮”。绮属于平纹地上起斜纹花的提花织物；四合云纹是云纹的一种排布方式，四个方向对称展开。纹样与织法都写在官方记录里，至于它在当时的具体使用场合，本条资料没有说明。",
+     "refs": [
+      "t04-csm-cloud-fragment-official"
+     ]
+    },
+    {
+     "title": "它残破到什么程度",
+     "text": "官方描述是“已经相当残破”，登记数量为一块。也就是说，我们手上是织物残片，不是衣服。站内配图是 AI 概括示意，纹样的完整循环、织造密度与残片的实际形状都不能据图判断——残片的边界与经纬方向，必须回到原件。",
+     "refs": [
+      "t04-csm-cloud-fragment-official"
+     ]
+    },
+    {
+     "title": "为什么仍值得看",
+     "text": "因为它保存了一种织物的实物：四合云纹绮的质地、颜色与花纹，在传世纺织品里并不容易见到完整样本。哪怕只剩一块，只要记录清楚它是什么、残到什么程度，它就能进入研究。墓主与完整衣形，属于还不知道的部分。",
+     "refs": [
+      "t04-csm-cloud-fragment-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "数量与状态",
+     "text": "一块，相当残破。",
+     "refs": [
+      "t04-csm-cloud-fragment-official"
+     ]
+    },
+    {
+     "title": "面料",
+     "text": "四合云纹绮；时代明、质地丝。",
+     "refs": [
+      "t04-csm-cloud-fragment-official"
+     ]
+    },
+    {
+     "title": "用途",
+     "text": "馆方推断原件为寿衣一部分（推断语气）。",
+     "refs": [
+      "t04-csm-cloud-fragment-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "墓葬与墓主、完整形制、入藏经过未载。",
+     "refs": [
+      "t04-csm-cloud-fragment-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么博物馆要保留“推断”这样的说法？",
+    "answer": "因为它是诚实的表达。残片能证明的只是它是什么织物、残到什么程度；至于是不是寿衣的一部分，需要更多证据。把推断写成结论，后来的研究者就失去了判断的空间；写下“推断”，后来的人才知道该往哪里去找证据。",
+    "refs": [
+     "t04-csm-cloud-fragment-official"
+    ]
+   },
+   "uncertainty": "寿衣用途为馆方推断；出土墓葬、墓主、完整衣物形制与入藏经过未载；纹样与残片形状不据AI图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；推断语气保留。",
+   "related": [
+    {
+     "id": "csm-padded-trousers",
+     "reason": "明代织物的两种存在形态：一件是可辨形的绵裤，一件是只剩残片的绮，比较完整与残缺对研究的影响。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-long-jacket",
+     "reason": "同为平纹地起花的织物使用：一件做成夹衣，一件只剩残片，比较织物与成衣的关系。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-padded-socks",
+   "hook": "一双绢面绵袜",
+   "summary": "中国丝绸博物馆藏明永乐绢面绵袜一双。以绢为面、内衬绵；长22.5厘米、高15.5厘米（官方记录中底长字段空缺）。原物主、出土地与现代修复经过在这条记录中未载。",
+   "summaryRefs": [
+    "t04-csm-padded-socks-official"
+   ],
+   "sections": [
+    {
+     "title": "一双，两只",
+     "text": "官方记录写明：数量1双，该袜一对，绢料为面、内衬绵。这一条按一双计：两只同属一对，不各自独立成件。在明代服饰的出土与传世材料里，成双的袜并不常见，成对保存本身就是信息。",
+     "refs": [
+      "t04-csm-padded-socks-official"
+     ]
+    },
+    {
+     "title": "绢面与衬绵",
+     "text": "外层是绢，里面衬绵。绢是平纹丝织物，平整、贴身；绵提供厚度与保暖。这样的组合在功能上很清楚：把丝织物的舒适与绵的保暖叠在一起。至于绵的种类、层数与缝制方式，官方记录没有写，本条不补。",
+     "refs": [
+      "t04-csm-padded-socks-official"
+     ]
+    },
+    {
+     "title": "尺寸与空缺",
+     "text": "长22.5厘米、高15.5厘米；底长字段在官方记录中空缺。空缺也是信息：它说明这条记录并没有把袜子量全。站内配图是 AI 概括示意，袜形、袜口收束方式与绵的厚薄都不能据图判断。",
+     "refs": [
+      "t04-csm-padded-socks-official"
+     ]
+    },
+    {
+     "title": "穿戴者是谁",
+     "text": "未载。年代定为明永乐，质地为丝，均来自官方登记；而物主、出土地、入藏经过与现代修复经过，官方记录未提供。逐次保护修复档案未核。因此这条只讲“这是一双什么样的袜子”，不讲它是谁的。",
+     "refs": [
+      "t04-csm-padded-socks-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "数量与结构",
+     "text": "1双（一对），绢料为面、内衬绵。",
+     "refs": [
+      "t04-csm-padded-socks-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "长22.5厘米、高15.5厘米；底长字段官方空缺。",
+     "refs": [
+      "t04-csm-padded-socks-official"
+     ]
+    },
+    {
+     "title": "时代与质地",
+     "text": "明永乐；丝。",
+     "refs": [
+      "t04-csm-padded-socks-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "物主、出土地、入藏与现代修复经过未载。",
+     "refs": [
+      "t04-csm-padded-socks-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么一双袜子也值得进博物馆？",
+    "answer": "因为它记录了一种穿法。外衣看得见，袜子看不见，却直接反映当时的保暖需求、材料条件与缝制水平。而且丝织品极难保存，成双留存更是少见——它让“当时的脚上穿着什么”这个问题，有了一个可以回答的实物。",
+    "refs": [
+     "t04-csm-padded-socks-official"
+    ]
+   },
+   "uncertainty": "底长等尺寸字段官方空缺；物主、出土地、入藏经过与现代修复经过未载；绵的种类与层数未载；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；一双计一条。",
+   "related": [
+    {
+     "id": "csm-ruyi-shoes",
+     "reason": "脚上的配套：一双绢面绵袜与一双如意纹缎鞋，比较两者在保暖与外观上的分工。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-padded-trousers",
+     "reason": "同为贴身保暖物：一件绵袜、一条绵裤，比较丝绵组合在不同部位的用法。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-ruyi-shoes",
+   "hook": "用芯线绕出来的绣",
+   "summary": "中国丝绸博物馆藏明永乐缎鞋一双。黄色如意纹暗花缎为面，其上缉线绣；长23、底长16、高5、底宽2.5厘米。官网标题作“辑线”，正文作“缉线”，本条并列不判；线芯究竟用马鬃还是铜丝，记录未给检测结论。",
+   "summaryRefs": [
+    "t04-csm-ruyi-shoes-official"
+   ],
+   "sections": [
+    {
+     "title": "名字里的一个字有分歧",
+     "text": "官方页面标题写“辑线绣”，正文写“缉线绣”。两个字读音相近、写法不同，指的是不是同一种针法，本条不替馆方判定——两个口径并列保留。这种细小的不一致，在整理早期记录时很常见，写清楚比强行统一更负责。",
+     "refs": [
+      "t04-csm-ruyi-shoes-official"
+     ]
+    },
+    {
+     "title": "线芯是什么，锤不下结论",
+     "text": "馆方对这类绣法的说明是：它要由特别的绣线来做，一般用有颜色的多股线，或者用马鬃、细铜丝作线芯，外面再一圈一圈绕上别的丝线。注意“或者”——官方给的是可能选项，并没有对本双鞋作出检测结论。因此本条不写“这双鞋的线芯是铜丝”。",
+     "refs": [
+      "t04-csm-ruyi-shoes-official"
+     ]
+    },
+    {
+     "title": "鞋的样子与尺寸",
+     "text": "面料采用如意纹暗花缎——暗花缎上的花纹靠组织变化显出，不另加色。长23、底长16、高5、底宽2.5厘米，是一双尺寸规整的女鞋或常鞋（本条不指定穿着者性别）。底长与鞋长分开记录，说明量取时区分了鞋底与整体。",
+     "refs": [
+      "t04-csm-ruyi-shoes-official"
+     ]
+    },
+    {
+     "title": "它属于哪一类工艺",
+     "text": "按馆方说明，缉线绣是京绣的一个品种。这一句把工艺放进了地方绣种的脉络里；但产地、工匠与具体制作年代，官方记录未载。逐次保护修复档案未核。站内配图是 AI 概括示意，不能据此核验绣线走向。",
+     "refs": [
+      "t04-csm-ruyi-shoes-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "数量与形制",
+     "text": "1双；长23、底长16、高5、底宽2.5厘米。",
+     "refs": [
+      "t04-csm-ruyi-shoes-official"
+     ]
+    },
+    {
+     "title": "面料",
+     "text": "如意纹暗花缎，黄色，其上缉线绣。",
+     "refs": [
+      "t04-csm-ruyi-shoes-official"
+     ]
+    },
+    {
+     "title": "工艺说明",
+     "text": "馆方称缉线绣为京绣品种，绣线用多股线或以马鬃、细铜丝作线芯（可能选项，非检测结论）。",
+     "refs": [
+      "t04-csm-ruyi-shoes-official"
+     ]
+    },
+    {
+     "title": "名称分歧",
+     "text": "官网标题“辑线”、正文“缉线”，并列不判。",
+     "refs": [
+      "t04-csm-ruyi-shoes-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么绣线里面要加一根芯？",
+    "answer": "因为线要立起来。按馆方的说明，这类绣法把别的丝线一圈圈绕在芯线上——有芯的线更挺、更立体，绣出的纹样能浮在缎面上。芯可以是多股线，也可能是马鬃或细铜丝；这件到底用哪种，要靠检测才能回答。",
+    "refs": [
+     "t04-csm-ruyi-shoes-official"
+    ]
+   },
+   "uncertainty": "线芯材质未做检测，不选某一种作事实；名称辑线／缉线分歧并列；工匠、产地与具体年代未载；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；名称分歧并列保留。",
+   "related": [
+    {
+     "id": "csm-peony-satin-shoe",
+     "reason": "两只与一只的对照：一件登记为一双，一件登记为单只，比较数量记录对理解成套关系的影响。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-gold-peony-shoes",
+     "reason": "绣鞋上的两种线材：一件用缉线绣，一件用钉金线绣牡丹，比较线材与固定方式。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-peony-satin-shoe",
+   "hook": "只有一只",
+   "summary": "中国丝绸博物馆藏明永乐缎鞋。官方登记数量为**1只**：黄色素缎为面，缎地上刺绣牡丹花纹；长24.5、高5厘米。本条保留单只状态，不为画面好看虚构另一只；素缎起源的概说也不构成本件的发现史。",
+   "summaryRefs": [
+    "t04-csm-peony-satin-shoe-official"
+   ],
+   "sections": [
+    {
+     "title": "数量就是一只",
+     "text": "官方记录写的是：数量1只。这就要求本条从头到尾按一只讲——不写“一双”，也不写“另一只已散佚”（那同样是编造）。在服饰类藏品里，单只鞋、单只袜并不罕见：可能是原件就只剩这一只，也可能另一只未入藏。原因未载，就只记结果。",
+     "refs": [
+      "t04-csm-peony-satin-shoe-official"
+     ]
+    },
+    {
+     "title": "素缎是什么",
+     "text": "面料采用素缎。官方解释：素缎即不提花的缎织物。缎的组织使表面光滑、反光明显，因此素缎虽然无花，却有很强的质感；花纹靠绣上去——这里是缎地上刺绣牡丹花纹。",
+     "refs": [
+      "t04-csm-peony-satin-shoe-official"
+     ]
+    },
+    {
+     "title": "一句“一般认为”不能当发现史",
+     "text": "官方记录提到素缎的起源“一般认为是宋末元初”。这是关于织物类型的一般性知识，属于概说；它说明不了这只鞋的制作年代，也说明不了这只实物的发现与流传过程。本条因此把这句放在讲解里，而不是写进它的“身世”。",
+     "refs": [
+      "t04-csm-peony-satin-shoe-official"
+     ]
+    },
+    {
+     "title": "尺寸与缺口",
+     "text": "长24.5、高5厘米；底长字段在官方记录中空缺。逐次保护修复档案未核。站内配图是 AI 概括示意，牡丹纹的针法、素缎的光泽与鞋底的形状都不能据图判断——尤其不能据图“补出”另一只鞋的样子。",
+     "refs": [
+      "t04-csm-peony-satin-shoe-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "数量",
+     "text": "官方登记为1只（不可写作一双）。",
+     "refs": [
+      "t04-csm-peony-satin-shoe-official"
+     ]
+    },
+    {
+     "title": "面料与纹样",
+     "text": "黄色素缎为地，缎地上刺绣牡丹花纹。",
+     "refs": [
+      "t04-csm-peony-satin-shoe-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "长24.5、高5厘米；底长字段空缺。",
+     "refs": [
+      "t04-csm-peony-satin-shoe-official"
+     ]
+    },
+    {
+     "title": "边界",
+     "text": "素缎起源的概说不作本件发现史；不虚构另一只。",
+     "refs": [
+      "t04-csm-peony-satin-shoe-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "只剩一只的鞋，还能告诉我们什么？",
+    "answer": "能告诉的仍然很多：它是用什么料、绣了什么花、多大尺寸、什么年代的做法。看不到的是“成双时的样子”和它穿在谁脚上。研究常常就是这样——把能确定的部分说清楚，把缺的部分标出来，而不是把画面补满。",
+    "refs": [
+     "t04-csm-peony-satin-shoe-official"
+    ]
+   },
+   "uncertainty": "另一只是否存在或未入藏，官方记录未载；底长字段空缺；工匠、物主、入藏经过未载；素缎起源为一般性概说；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；数量依官方登记保持一只。",
+   "related": [
+    {
+     "id": "csm-ruyi-shoes",
+     "reason": "同为明永乐绣鞋：一双与一只并列展示，比较数量差异带来的不同研究条件。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-gold-peony-shoes",
+     "reason": "同为黄色缎地牡丹纹绣鞋：一件为素缎地刺绣，一件以五枚素缎为地钉金绣，比较地组织与绣法。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-gold-peony-shoes",
+   "hook": "金线钉在鞋背上",
+   "summary": "中国丝绸博物馆藏明永乐缎鞋一双。黄色，共两只，以五枚素缎做地，鞋背上用钉金线绣出牡丹花卉纹样。官方记录未列尺寸；工匠与生产地点未知。",
+   "summaryRefs": [
+    "t04-csm-gold-peony-shoes-official"
+   ],
+   "sections": [
+    {
+     "title": "钉金：把金线固定在布上",
+     "text": "官方记录写的是“用钉金线绣出牡丹花卉纹样”。钉金属于把金线（或以金材捻成的线）沿纹样走势摆放，再用细线一针针钉住的做法——金线本身不必穿过布面，靠钉线固定。与普通丝线刺绣相比，它更亮，也更考验固定的匀称。",
+     "refs": [
+      "t04-csm-gold-peony-shoes-official"
+     ]
+    },
+    {
+     "title": "五枚素缎是什么",
+     "text": "以五枚素缎做地。“枚”指缎纹组织中经纬纱的交织间隔；五枚是很常见的一种缎组织。官方的意思可以理解为：鞋面用的是五枚缎的素织物。要说明的是，本条不据站内 AI 示意图去验证组织——组织的判断属于纺织检测的范围。",
+     "refs": [
+      "t04-csm-gold-peony-shoes-official"
+     ]
+    },
+    {
+     "title": "纹样只在鞋背",
+     "text": "记录特别指出：鞋背上用钉金线绣出牡丹花卉纹样。也就是说，装饰集中在最显眼的位置；鞋的其他部分保持素面。这种“集中装饰”的做法在鞋类上很常见：走路时最容易被看到的，正是鞋背。",
+     "refs": [
+      "t04-csm-gold-peony-shoes-official"
+     ]
+    },
+    {
+     "title": "缺的是哪些",
+     "text": "官方记录没有列出尺寸，也未载工匠、生产地点与物主。逐次保护修复档案未核。它的价值因此集中在材料与工艺上：一双明永乐的钉金绣缎鞋，成对保存，让我们可以看到金线如何被固定在缎地上——而它是谁做的、给谁穿的，仍不知道。",
+     "refs": [
+      "t04-csm-gold-peony-shoes-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "数量与配色",
+     "text": "1双，共两只，黄色。",
+     "refs": [
+      "t04-csm-gold-peony-shoes-official"
+     ]
+    },
+    {
+     "title": "地组织",
+     "text": "以五枚素缎做地（不据AI图验证）。",
+     "refs": [
+      "t04-csm-gold-peony-shoes-official"
+     ]
+    },
+    {
+     "title": "纹样与工艺",
+     "text": "鞋背钉金线绣牡丹花卉纹。",
+     "refs": [
+      "t04-csm-gold-peony-shoes-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "尺寸未列；工匠与生产地点未载。",
+     "refs": [
+      "t04-csm-gold-peony-shoes-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么金线不直接穿过去绣，而要“钉”住？",
+    "answer": "因为金线脆。金属线反复穿过布面容易折断，也无法像丝线那样打结收口；把它摆在布面、用细线钉牢，既能保持完整，又能在光下连成一道亮线。做法受材料限制——这几乎是一切工艺的通则。",
+    "refs": [
+     "t04-csm-gold-peony-shoes-official"
+    ]
+   },
+   "uncertainty": "尺寸未列；工匠、生产地点、物主与入藏经过未载；五枚组织不据AI图验证；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "csm-peony-satin-shoe",
+     "reason": "同为黄色缎地牡丹绣鞋：一件用素缎地刺绣，一件用五枚素缎地钉金，比较两种地组织与线材组合。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-ruyi-shoes",
+     "reason": "两双明永乐绣鞋：一双缉线绣如意纹，一双钉金绣牡丹，比较线材与针法的差别。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-plain-skirt",
+   "hook": "百褶裙，前后片各留一大褶",
+   "summary": "中国丝绸博物馆藏明永乐裙一条。黄色，百褶，前片与后片中间开衩并留有一道大于其他褶一倍的大褶，形似清代马面裙；长97.5、腰宽65、下摆宽180厘米。题名作“素纱裙”，正文称面料为1/1平纹绢，两个口径并列保留。",
+   "summaryRefs": [
+    "t04-csm-plain-skirt-official"
+   ],
+   "sections": [
+    {
+     "title": "先看形制：百褶与大褶",
+     "text": "官方记录的结构描述很清楚：裙子为百褶，前片和后片的中间开衩，并留有大于其他褶一倍的一大褶。也就是说，整条裙子是密集的细褶，只在前后中缝处留出两道宽褶。下摆宽180厘米，是靠这些褶子收拢到65厘米的腰围上——褶子既是装饰，也是把大量布料收进腰头的办法。",
+     "refs": [
+      "t04-csm-plain-skirt-official"
+     ]
+    },
+    {
+     "title": "“形似马面裙”是比对，不是断代",
+     "text": "官方记录说它“形似清代的马面裙”。这是形制上的比对：前后平幅、两侧打褶的裙子，在清代有专门的名称。本件的年代登记为明永乐，比“马面裙”这一成熟样式更早；可比的是结构思路，而不是把它算作清代衣物。",
+     "refs": [
+      "t04-csm-plain-skirt-official"
+     ]
+    },
+    {
+     "title": "纱还是绢：两个口径都在",
+     "text": "题名写“素纱裙”，正文却写“裙的面料为1/1平纹的绢织物”。纱与绢是两种不同的组织——一个以稀疏见孔为特征，一个是平纹织物。本条不替馆方判定，两个口径并列保留，并把组织问题标注为待核。站内配图是 AI 概括示意，绝不能据图判断织物透孔与否。",
+     "refs": [
+      "t04-csm-plain-skirt-official"
+     ]
+    },
+    {
+     "title": "尺寸与缺项",
+     "text": "长97.5、腰宽65、下摆宽180厘米。这三个数字说明它是一条足尺的裙：从腰到摆接近一米，摆围是腰围的近三倍。物主、出土地、缝制工匠与逐次保护修复档案，官方记录均未载。",
+     "refs": [
+      "t04-csm-plain-skirt-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "形制",
+     "text": "百褶；前后片中间开衩并留大褶（大于其他褶一倍）。",
+     "refs": [
+      "t04-csm-plain-skirt-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "长97.5、腰宽65、下摆宽180厘米；数量1条。",
+     "refs": [
+      "t04-csm-plain-skirt-official"
+     ]
+    },
+    {
+     "title": "材质冲突",
+     "text": "题名作纱、正文作1/1平纹绢，并列待核。",
+     "refs": [
+      "t04-csm-plain-skirt-official"
+     ]
+    },
+    {
+     "title": "比对",
+     "text": "形似清代马面裙，属形制比对。",
+     "refs": [
+      "t04-csm-plain-skirt-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么裙子要把布料打成这么多褶？",
+    "answer": "为了把宽大的布收进窄腰。180厘米的摆围要系到65厘米的腰上，靠的就是一道道褶子；走动时褶子松开，下摆随之展开。褶子既是功能，也是样子——古人把必要的收纳做成了有节奏的线条。",
+    "refs": [
+     "t04-csm-plain-skirt-official"
+    ]
+   },
+   "uncertainty": "题名“纱”与正文“平纹绢”冲突，组织待核；物主、出土地、工匠与入藏经过未载；尺寸中裤／裙其他字段未列；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；材质口径冲突并列保留。",
+   "related": [
+    {
+     "id": "csm-ming-yesa",
+     "reason": "同为下摆处理：一件靠腰以下的襞积成裙状，一件本身就是百褶裙，比较打褶在袍与裙上的不同位置与作用。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-padded-trousers",
+     "reason": "下半身的两种穿着：一条百褶裙与一条肥阔绵裤，比较外穿与保暖的分工。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-long-jacket",
+   "hook": "对襟直领的长袖夹衣",
+   "summary": "中国丝绸博物馆藏明永乐长袖夹衣。黄色，对襟、直领，袖缘用绢贴边；以1/1平纹地上起卍字田格纹花的织物制成。长61、通袖长198厘米。卍字是传统纹样，本条不作现代政治标识。",
+   "summaryRefs": [
+    "t04-csm-long-jacket-official"
+   ],
+   "sections": [
+    {
+     "title": "形制：对襟、直领、袖缘贴边",
+     "text": "官方记录写明：对襟、直领，袖缘用绢贴边。对襟是两片衣襟在身前相对，不交叠；直领则是领口平直、不开大襟。袖口另缝一道绢条作贴边，是常见的收边办法——既加固袖口，也让边缘整齐。",
+     "refs": [
+      "t04-csm-long-jacket-official"
+     ]
+    },
+    {
+     "title": "织物：平纹地上起花",
+     "text": "以1/1平纹地上起卍字田格纹花的织物制成。1/1平纹是最基本的交织方式；在其上起花，说明这是一块提花织物。田格纹是方格状的布局，卍字填入其中。要说明：站内 AI 配图只呈概括几何纹，不能用来核对织纹的具体结构。",
+     "refs": [
+      "t04-csm-long-jacket-official"
+     ]
+    },
+    {
+     "title": "卍字不等于近代符号",
+     "text": "卍字在中国传统纹样中使用很早，常与连绵、吉祥的寓意相关，出现在织物、建筑与器物上。近代以后它被赋予完全不同的政治含义，但那是后来的事。读古代织物，应当按当时的使用来理解，不能把现代政治标识套回明代衣物。",
+     "refs": [
+      "t04-csm-long-jacket-official"
+     ]
+    },
+    {
+     "title": "尺寸与缺项",
+     "text": "长61、通袖长198厘米，数量1件。通袖长接近两米，说明两袖展开时相当宽裕。物主、出土地、缝制工匠与逐次保护修复档案，官方记录均未载。夹衣意味着有衬层，但夹的是什么、几层，记录没有说明。",
+     "refs": [
+      "t04-csm-long-jacket-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "形制",
+     "text": "对襟、直领；袖缘用绢贴边。",
+     "refs": [
+      "t04-csm-long-jacket-official"
+     ]
+    },
+    {
+     "title": "织物",
+     "text": "1/1平纹地上起卍字田格纹花。",
+     "refs": [
+      "t04-csm-long-jacket-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "长61、通袖长198厘米；数量1件。",
+     "refs": [
+      "t04-csm-long-jacket-official"
+     ]
+    },
+    {
+     "title": "边界",
+     "text": "卍字为传统纹样，不作现代政治标识；不据AI图核织纹。",
+     "refs": [
+      "t04-csm-long-jacket-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么要在平纹地上再“起花”？",
+    "answer": "因为平纹结实、平整，但不显花纹。织造时改变部分经纬的交织顺序，就能在不换料、不加色的情况下显出图案——花纹是“织”出来的，不是绣上去的。暗花织物在光下看才明显，古人很早就喜欢这种克制的华丽。",
+    "refs": [
+     "t04-csm-long-jacket-official"
+    ]
+   },
+   "uncertainty": "夹层材料与层数未载；物主、出土地、工匠与入藏经过未载；织纹细节不据AI图核对；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；传统纹样按历史语境说明。",
+   "related": [
+    {
+     "id": "csm-short-jacket",
+     "reason": "两件夹衣：一件长袖、一件短袖，都是对襟直领并贴边，比较形制相同而袖长不同。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-cloud-fragment",
+     "reason": "同为平纹地起花织物：一件做成可辨形的夹衣，一件只剩残片，比较织物与成衣的关系。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-short-jacket",
+   "hook": "短袖、系带、腋下开衩",
+   "summary": "中国丝绸博物馆藏明永乐短袖夹衣。黄色，对襟、直领，领缘贴刺绣花卉纹花边，门襟处有两根系带，两边腋下开衩；长61、胸围78、通袖长120、下摆宽91厘米。题名作“素罗”，正文称用1/1平纹绢制成，两个口径并列保留。",
+   "summaryRefs": [
+    "t04-csm-short-jacket-official"
+   ],
+   "sections": [
+    {
+     "title": "一件为了活动而设计的衣服",
+     "text": "官方记录给出四个结构要点：对襟、直领；领缘贴刺绣花卉纹花边；门襟处有两根系带；两边腋下开衩。腋下开衩尤其值得注意——它让手臂活动时衣身不被拉扯。短袖配上开衩，是一件适合日常与劳作的形制。",
+     "refs": [
+      "t04-csm-short-jacket-official"
+     ]
+    },
+    {
+     "title": "系带代替纽扣",
+     "text": "门襟处有两根系带。传统服饰常用系带闭合：两条带子相对打结，既可收紧，也便于解开；坏了容易更换，不必在衣料上开孔装扣。两根系带的位置说明这件衣服的前襟是分开的两片，靠带子相系。",
+     "refs": [
+      "t04-csm-short-jacket-official"
+     ]
+    },
+    {
+     "title": "罗还是绢",
+     "text": "题名写“素罗短袖夹衣”，正文却写“用1/1平纹绢制成”。罗与绢是两种不同组织：罗以绞经形成孔眼，绢是平纹。本条不替馆方选定，两个口径并列，并标注组织待核。这一点必须强调：不能因为题名写了“罗”，就据此描述它的透孔与轻盈。",
+     "refs": [
+      "t04-csm-short-jacket-official"
+     ]
+    },
+    {
+     "title": "尺寸与缺项",
+     "text": "长61、胸围78、通袖长120、下摆宽91厘米。短袖配通袖120厘米，与长袖夹衣的通袖198厘米形成明显对照。物主、出土地与逐次保护修复档案均未载；领缘刺绣的花卉种类，本条不作认定。",
+     "refs": [
+      "t04-csm-short-jacket-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "形制",
+     "text": "对襟、直领；门襟两系带；两边腋下开衩；短袖。",
+     "refs": [
+      "t04-csm-short-jacket-official"
+     ]
+    },
+    {
+     "title": "装饰",
+     "text": "领缘贴刺绣花卉纹花边。",
+     "refs": [
+      "t04-csm-short-jacket-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "长61、胸围78、通袖长120、下摆宽91厘米。",
+     "refs": [
+      "t04-csm-short-jacket-official"
+     ]
+    },
+    {
+     "title": "材质冲突",
+     "text": "题名作罗、正文作1/1平纹绢，并列待核。",
+     "refs": [
+      "t04-csm-short-jacket-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么要在腋下开一道衩？",
+    "answer": "为了抬手。衣服在腋下最容易绷住，开衩等于给手臂留出活动的余地；出汗多的部位也便于透气。这类设计看着不起眼，却是穿着者日复一日的经验积累——衣服的形制，常常就是这样被用出来的。",
+    "refs": [
+     "t04-csm-short-jacket-official"
+    ]
+   },
+   "uncertainty": "题名“罗”与正文“平纹绢”冲突，组织待核；物主、出土地与工匠未载；领缘花卉种类不作认定；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；材质口径冲突并列保留。",
+   "related": [
+    {
+     "id": "csm-long-jacket",
+     "reason": "长短两袖的对照：同为对襟直领夹衣，一件通袖198厘米，一件120厘米并腋下开衩，比较活动需求对形制的影响。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-plain-skirt",
+     "reason": "上衣与下裳的搭配：一件短袖夹衣与一条百褶裙，比较明代服饰的成套结构，不据此推断同属一人。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-patched-robe",
+   "hook": "胸前一块方补，不写官阶",
+   "summary": "中国丝绸博物馆藏明代交领袍。黄色，主体面料为黄色素罗，袍服前胸有一块方补；该袍比较残破，但还能辨认为交领袍。长126、通袖长210厘米。方补的等级身份与纹样未详，本条不据此推断官阶与人物。",
+   "summaryRefs": [
+    "t04-csm-patched-robe-official"
+   ],
+   "sections": [
+    {
+     "title": "残破，但还认得出",
+     "text": "官方记录的描述很谨慎：比较残破，但还能辨认为一交领袍。也就是说，形制是从残存结构中辨认出来的，而不是完整保存。长126、通袖长210厘米——这是一件大件袍服，尺寸与规格都不小。",
+     "refs": [
+      "t04-csm-patched-robe-official"
+     ]
+    },
+    {
+     "title": "素罗与方补",
+     "text": "主体面料采用黄色素罗；前胸有一块方补。方补是缝在衣服前胸与后背的方形织绣饰块，在明清官服体系里常与品级相关。但在本件上，方补的内容与等级，官方记录未详——所以本条只写“有一块方补”，不写它代表几品、属于哪一类官员。",
+     "refs": [
+      "t04-csm-patched-robe-official"
+     ]
+    },
+    {
+     "title": "为什么不推断官阶",
+     "text": "因为推断需要依据：补子的纹样（禽或兽）、尺寸、颜色与袍服颜色的搭配，都是判断品级的线索。本件残破，且官方记录没有给出这些信息。凭轮廓就编出“某品官员的朝服”，是把想象写成了史料——这正是本条要避免的。",
+     "refs": [
+      "t04-csm-patched-robe-official"
+     ]
+    },
+    {
+     "title": "还缺什么",
+     "text": "物主、出土地、缝制工匠、方补的具体纹样与尺寸、逐次保护修复档案，官方记录均未载。站内配图是 AI 概括示意，不能据图辨认补子的内容。它现在能确定的身份，是一件明代黄色素罗交领袍，胸前缝过一方补。",
+     "refs": [
+      "t04-csm-patched-robe-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "形制与状态",
+     "text": "交领袍；比较残破但可辨认。",
+     "refs": [
+      "t04-csm-patched-robe-official"
+     ]
+    },
+    {
+     "title": "面料与方补",
+     "text": "黄色素罗；前胸有一块方补（内容与等级未详）。",
+     "refs": [
+      "t04-csm-patched-robe-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "长126、通袖长210厘米；数量1件。",
+     "refs": [
+      "t04-csm-patched-robe-official"
+     ]
+    },
+    {
+     "title": "边界",
+     "text": "不按方补推断官阶与人物故事。",
+     "refs": [
+      "t04-csm-patched-robe-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么衣服上要缝一块方补？",
+    "answer": "在明清的制度里，补子是标明身份的一种方式：不同纹样对应不同品级，穿在身上，别人一眼就能看出。但这套对应关系需要具体纹样才能判断——本件的补子内容未详，所以我们只知道“有补”，不知道“是哪一等”。",
+    "refs": [
+     "t04-csm-patched-robe-official"
+    ]
+   },
+   "uncertainty": "方补纹样、尺寸、等级未详；物主、出土地、工匠与入藏经过未载；残破程度的具体描述未在本条资料中给出；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全；不推断官阶。",
+   "related": [
+    {
+     "id": "csm-ming-yesa",
+     "reason": "两件明代袍服：一件腰下打褶、款式与乘马相关，一件残破并带方补，比较款式与身份标识两类信息。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-cloud-fragment",
+     "reason": "都涉及残缺材料：一件袍服残破但仍可辨认形制，一件只剩一块织物残片，比较“残”对研究的不同限制。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "csm-padded-trousers",
+   "hook": "裤腿肥阔的一条绵裤",
+   "summary": "中国丝绸博物馆藏明代绵裤。黄色，裤腿肥阔，面料为黄色缠枝花卉暗花缎；长90、腰宽60厘米。实际穿用者与发现、保护经过均未载。",
+   "summaryRefs": [
+    "t04-csm-padded-trousers-official"
+   ],
+   "sections": [
+    {
+     "title": "形与料",
+     "text": "官方记录只有两句：裤腿肥阔；面料为黄色缠枝花卉暗花缎。裤腿宽大，说明活动量留得足；暗花缎是在缎地上以组织变化显花的织物，缠枝花卉纹是常见的连续纹样。缎面光滑，暗花在光下才显出层次。",
+     "refs": [
+      "t04-csm-padded-trousers-official"
+     ]
+    },
+    {
+     "title": "“绵裤”意味着保暖",
+     "text": "条目名称中的“绵”提示它与填充保暖有关；官方记录对裤子的描述集中在形制与面料，没有说明絮的是什么、多少层。因此本条只写“绵裤”这一登记名称，填充工艺留待检测说明。要讨论保暖结构，需要检测与更详细的记录。",
+     "refs": [
+      "t04-csm-padded-trousers-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "长90、腰宽60厘米。这个比例在传统裤装中属于宽松型：裤腿肥阔、腰部留有余地，便于活动与叠穿。与之对照，同馆的绢面绵袜记录尺寸为长22.5厘米——下身保暖的两件，一个在外、一个贴身。",
+     "refs": [
+      "t04-csm-padded-trousers-official"
+     ]
+    },
+    {
+     "title": "缺的是身世",
+     "text": "物主、出土地、墓葬、制作与保护修复经过，官方记录均未载。逐次保护修复档案未核。站内配图是 AI 概括示意，裤形的具体裁剪、暗花纹样与颜色都不能据图判断。它现在能说明的，是明代确实存在这样一类丝质保暖裤装。",
+     "refs": [
+      "t04-csm-padded-trousers-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "形制",
+     "text": "绵裤，裤腿肥阔；长90、腰宽60厘米。",
+     "refs": [
+      "t04-csm-padded-trousers-official"
+     ]
+    },
+    {
+     "title": "面料",
+     "text": "黄色缠枝花卉暗花缎。",
+     "refs": [
+      "t04-csm-padded-trousers-official"
+     ]
+    },
+    {
+     "title": "时代与质地",
+     "text": "明代；丝。",
+     "refs": [
+      "t04-csm-padded-trousers-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "穿用者、出土地、墓葬与保护修复经过未载。",
+     "refs": [
+      "t04-csm-padded-trousers-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么连裤子也要用暗花缎？",
+    "answer": "因为讲究已经渗到贴身衣物。外衣要体面，里衣也未必将就——暗花不张扬，光下才显，正好适合穿在里面或半露的场合。这也说明当时丝织品的供应与消费范围比我们想象的更宽。",
+    "refs": [
+     "t04-csm-padded-trousers-official"
+    ]
+   },
+   "uncertainty": "填充材料与层数未载；穿用者、出土地、墓葬、制作与保护修复经过未载；纹样与裁剪细节不据AI图判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按中国丝绸博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "csm-padded-socks",
+     "reason": "贴身保暖的两件：一条绵裤与一双绢面绵袜，比较同一需求在不同部位的做法。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "csm-plain-skirt",
+     "reason": "下身的两种选择：一条裙子与一条肥阔绵裤，比较形制与季节场合的差异。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  }
+ ]
+}

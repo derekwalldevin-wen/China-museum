@@ -1,0 +1,2554 @@
+{
+ "records": {
+  "sz-proto-he": {
+   "src": "/artifact-expansion/tranche-01/sz-proto-he-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-01/sz-proto-he-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=bcc2238c9ef742c39107618d3fe4832a",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-01/sz-proto-he-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=bcc2238c9ef742c39107618d3fe4832a",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=bcc2238c9ef742c39107618d3fe4832a",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-shufu-bowl": {
+   "src": "/artifact-expansion/tranche-01/sz-shufu-bowl-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-01/sz-shufu-bowl-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=f45a02e267cd4a059d6ee7a7f5187ad8",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-01/sz-shufu-bowl-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=f45a02e267cd4a059d6ee7a7f5187ad8",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=f45a02e267cd4a059d6ee7a7f5187ad8",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-tricolor-horse": {
+   "src": "/artifact-expansion/tranche-01/sz-tricolor-horse-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-01/sz-tricolor-horse-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=3711a7b920f2463882e257931f4085af",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-01/sz-tricolor-horse-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=3711a7b920f2463882e257931f4085af",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=3711a7b920f2463882e257931f4085af",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-black-pot": {
+   "src": "/artifact-expansion/tranche-01/sz-black-pot-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-01/sz-black-pot-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=3bb9195df3ff4e6fb9e70ca6fca8ef49",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-01/sz-black-pot-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-01-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-01.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=3bb9195df3ff4e6fb9e70ca6fca8ef49",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=3bb9195df3ff4e6fb9e70ca6fca8ef49",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-bamboo-brushpot": {
+   "src": "/artifact-expansion/tranche-02/sz-bamboo-brushpot-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/sz-bamboo-brushpot-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=a572599a2109492099bd896a6d0cc0da",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/sz-bamboo-brushpot-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=a572599a2109492099bd896a6d0cc0da",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=a572599a2109492099bd896a6d0cc0da",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-pottery-well": {
+   "src": "/artifact-expansion/tranche-03/sz-pottery-well-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-pottery-well-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:57:17.084Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ee2444a22e2547df962d3370b7ef1a69",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-pottery-well-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:57:17.084Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ee2444a22e2547df962d3370b7ef1a69",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ee2444a22e2547df962d3370b7ef1a69",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-double-box": {
+   "src": "/artifact-expansion/tranche-03/sz-double-box-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-double-box-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:57:44.309Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ad2038579ced497e85e25b5424360ef3",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-double-box-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:57:44.309Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ad2038579ced497e85e25b5424360ef3",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ad2038579ced497e85e25b5424360ef3",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-incense-burner": {
+   "src": "/artifact-expansion/tranche-03/sz-incense-burner-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-incense-burner-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:58:11.466Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ec55d41ae747479abdd34a0bb7314ab0",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-incense-burner-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:58:11.466Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ec55d41ae747479abdd34a0bb7314ab0",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=ec55d41ae747479abdd34a0bb7314ab0",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-marble-bowl": {
+   "src": "/artifact-expansion/tranche-03/sz-marble-bowl-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-marble-bowl-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:58:30.544Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9fcd040894134b7993c577c8be4f4054",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-marble-bowl-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:58:30.544Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9fcd040894134b7993c577c8be4f4054",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9fcd040894134b7993c577c8be4f4054",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-marble-pillow": {
+   "src": "/artifact-expansion/tranche-03/sz-marble-pillow-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-marble-pillow-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:58:51.683Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9804a421f51e4e8699299ca5f418e3ea",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-marble-pillow-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:58:51.683Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9804a421f51e4e8699299ca5f418e3ea",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9804a421f51e4e8699299ca5f418e3ea",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-pottery-dog": {
+   "src": "/artifact-expansion/tranche-03/sz-pottery-dog-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-pottery-dog-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:11.513Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=74651e5d2a8449a392ce807c3b40349b",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-pottery-dog-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:11.513Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=74651e5d2a8449a392ce807c3b40349b",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=74651e5d2a8449a392ce807c3b40349b",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-ewer-basin": {
+   "src": "/artifact-expansion/tranche-03/sz-ewer-basin-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-ewer-basin-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:57:45.725Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=cb55bbc642ca434788c50dff438b947a",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-ewer-basin-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:57:45.725Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=cb55bbc642ca434788c50dff438b947a",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=cb55bbc642ca434788c50dff438b947a",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-oil-lamp": {
+   "src": "/artifact-expansion/tranche-03/sz-oil-lamp-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-oil-lamp-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:58:15.370Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=722b501234e5425aa8a157e56acf119b",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-oil-lamp-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:58:15.370Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=722b501234e5425aa8a157e56acf119b",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=722b501234e5425aa8a157e56acf119b",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-inlaid-table": {
+   "src": "/artifact-expansion/tranche-03/sz-inlaid-table-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-inlaid-table-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:58:35.564Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=abc948294043433a87f4f486dde72fe8",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-inlaid-table-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:58:35.564Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=abc948294043433a87f4f486dde72fe8",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=abc948294043433a87f4f486dde72fe8",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-stone-paddle": {
+   "src": "/artifact-expansion/tranche-03/sz-stone-paddle-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-stone-paddle-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:58:55.419Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=b34b5f7a056842ec9467fbb39245ce54",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-stone-paddle-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:58:55.419Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=b34b5f7a056842ec9467fbb39245ce54",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=b34b5f7a056842ec9467fbb39245ce54",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-tin-gourd-ewer": {
+   "src": "/artifact-expansion/tranche-03/sz-tin-gourd-ewer-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-tin-gourd-ewer-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:39.722Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=277c51eae2424a2cb5ea4703cf4938c0",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-tin-gourd-ewer-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:39.722Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=277c51eae2424a2cb5ea4703cf4938c0",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=277c51eae2424a2cb5ea4703cf4938c0",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-carved-brushpot": {
+   "src": "/artifact-expansion/tranche-03/sz-carved-brushpot-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-carved-brushpot-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:18.909Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=f27f63b26ce94e60acb38a4f2bea15d8",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-carved-brushpot-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:18.909Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=f27f63b26ce94e60acb38a4f2bea15d8",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=f27f63b26ce94e60acb38a4f2bea15d8",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-warming-copper-stove": {
+   "src": "/artifact-expansion/tranche-03/sz-warming-copper-stove-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-warming-copper-stove-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:01.388Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=49cdb7c4aaa04f5585fd9f5641ce7fe6",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-warming-copper-stove-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:01.388Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=49cdb7c4aaa04f5585fd9f5641ce7fe6",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=49cdb7c4aaa04f5585fd9f5641ce7fe6",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-grooved-stone": {
+   "src": "/artifact-expansion/tranche-03/sz-grooved-stone-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-grooved-stone-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:21.810Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=41d4c661935a4b93b5cda2225be6e15e",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-grooved-stone-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:21.810Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=41d4c661935a4b93b5cda2225be6e15e",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=41d4c661935a4b93b5cda2225be6e15e",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-perforated-shovel": {
+   "src": "/artifact-expansion/tranche-03/sz-perforated-shovel-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-perforated-shovel-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:02.442Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=563e820a32b547d5809c989ebd2c6c7e",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-perforated-shovel-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:02.442Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=563e820a32b547d5809c989ebd2c6c7e",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=563e820a32b547d5809c989ebd2c6c7e",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-crystal-point": {
+   "src": "/artifact-expansion/tranche-03/sz-crystal-point-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-crystal-point-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:29.955Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=514dd4607a8843c8a7b9d217f05c3838",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-crystal-point-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T09:59:29.955Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=514dd4607a8843c8a7b9d217f05c3838",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=514dd4607a8843c8a7b9d217f05c3838",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-stone-adze": {
+   "src": "/artifact-expansion/tranche-03/sz-stone-adze-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-stone-adze-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:02.306Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=2b57db711b24417c9599a7cb054e9224",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-stone-adze-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:02.306Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=2b57db711b24417c9599a7cb054e9224",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=2b57db711b24417c9599a7cb054e9224",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-paper-cut-bowl": {
+   "src": "/artifact-expansion/tranche-03/sz-paper-cut-bowl-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-paper-cut-bowl-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:22.564Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=e655863245cf4080a858a1ffd26db41b",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-paper-cut-bowl-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:22.564Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=e655863245cf4080a858a1ffd26db41b",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=e655863245cf4080a858a1ffd26db41b",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-yue-box": {
+   "src": "/artifact-expansion/tranche-03/sz-yue-box-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-yue-box-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:47.863Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=6246c2f0ddee4a2fb56f7217de733311",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-yue-box-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:00:47.863Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=6246c2f0ddee4a2fb56f7217de733311",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=6246c2f0ddee4a2fb56f7217de733311",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-white-dragon-ewer": {
+   "src": "/artifact-expansion/tranche-03/sz-white-dragon-ewer-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-white-dragon-ewer-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:01:01.320Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9621130cb129472b9826f64d64a21204",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-white-dragon-ewer-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:01:01.320Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9621130cb129472b9826f64d64a21204",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=9621130cb129472b9826f64d64a21204",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-tricolor-flat-flask": {
+   "src": "/artifact-expansion/tranche-03/sz-tricolor-flat-flask-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-tricolor-flat-flask-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:01:23.304Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=417e4bfd995d4b83978cdc332ccfee9e",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-tricolor-flat-flask-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:01:23.304Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=417e4bfd995d4b83978cdc332ccfee9e",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=417e4bfd995d4b83978cdc332ccfee9e",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-celadon-ewer": {
+   "src": "/artifact-expansion/tranche-03/sz-celadon-ewer-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-celadon-ewer-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:01:55.426Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=e300681790e5478e8e3fc38fa7b451d0",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-celadon-ewer-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:01:55.426Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=e300681790e5478e8e3fc38fa7b451d0",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=e300681790e5478e8e3fc38fa7b451d0",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "sz-changsha-ewer": {
+   "src": "/artifact-expansion/tranche-03/sz-changsha-ewer-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-03/sz-changsha-ewer-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:02:18.589Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=56de27238e7d440c9af63e8df92da866",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-03/sz-changsha-ewer-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-03-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-03.json",
+      "generatedAt": "2026-10-04T10:02:18.589Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=56de27238e7d440c9af63e8df92da866",
+        "credit": "深圳博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=56de27238e7d440c9af63e8df92da866",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  }
+ },
+ "delivery": {
+  "sz-proto-he": {
+   "src": "/artifact-expansion/tranche-01/sz-proto-he-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/15f77c88d19a59cb-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/15f77c88d19a59cb-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/15f77c88d19a59cb-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-shufu-bowl": {
+   "src": "/artifact-expansion/tranche-01/sz-shufu-bowl-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/26ed5f624c9dc0bf-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/26ed5f624c9dc0bf-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/26ed5f624c9dc0bf-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-tricolor-horse": {
+   "src": "/artifact-expansion/tranche-01/sz-tricolor-horse-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a98df067114aedb1-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/a98df067114aedb1-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/a98df067114aedb1-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-black-pot": {
+   "src": "/artifact-expansion/tranche-01/sz-black-pot-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/357b86f9324387d1-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/357b86f9324387d1-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/357b86f9324387d1-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-bamboo-brushpot": {
+   "src": "/artifact-expansion/tranche-02/sz-bamboo-brushpot-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9560d28148057066-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/9560d28148057066-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/9560d28148057066-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-pottery-well": {
+   "src": "/artifact-expansion/tranche-03/sz-pottery-well-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a5eebc69bb381291-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/a5eebc69bb381291-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/a5eebc69bb381291-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-double-box": {
+   "src": "/artifact-expansion/tranche-03/sz-double-box-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/10f6bf85226af26d-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/10f6bf85226af26d-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/10f6bf85226af26d-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-incense-burner": {
+   "src": "/artifact-expansion/tranche-03/sz-incense-burner-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/77cfe9e8b2376f68-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/77cfe9e8b2376f68-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/77cfe9e8b2376f68-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-marble-bowl": {
+   "src": "/artifact-expansion/tranche-03/sz-marble-bowl-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1be804952e59f6c9-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/1be804952e59f6c9-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1be804952e59f6c9-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-marble-pillow": {
+   "src": "/artifact-expansion/tranche-03/sz-marble-pillow-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a52005505c908f65-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/a52005505c908f65-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/a52005505c908f65-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-pottery-dog": {
+   "src": "/artifact-expansion/tranche-03/sz-pottery-dog-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/3fe27de1a1dc416a-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/3fe27de1a1dc416a-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/3fe27de1a1dc416a-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-ewer-basin": {
+   "src": "/artifact-expansion/tranche-03/sz-ewer-basin-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/71ce0d81b1de75e7-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/71ce0d81b1de75e7-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/71ce0d81b1de75e7-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-oil-lamp": {
+   "src": "/artifact-expansion/tranche-03/sz-oil-lamp-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/6437f2ecfc71aabf-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/6437f2ecfc71aabf-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/6437f2ecfc71aabf-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-inlaid-table": {
+   "src": "/artifact-expansion/tranche-03/sz-inlaid-table-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0308df0d2392894f-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/0308df0d2392894f-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/0308df0d2392894f-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-stone-paddle": {
+   "src": "/artifact-expansion/tranche-03/sz-stone-paddle-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/bc04d773a97b8615-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/bc04d773a97b8615-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/bc04d773a97b8615-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-tin-gourd-ewer": {
+   "src": "/artifact-expansion/tranche-03/sz-tin-gourd-ewer-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1de26574d73c21d3-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/1de26574d73c21d3-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1de26574d73c21d3-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-carved-brushpot": {
+   "src": "/artifact-expansion/tranche-03/sz-carved-brushpot-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9915e8bda79dbb45-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/9915e8bda79dbb45-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/9915e8bda79dbb45-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-warming-copper-stove": {
+   "src": "/artifact-expansion/tranche-03/sz-warming-copper-stove-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d9331a1e1fb3b25b-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/d9331a1e1fb3b25b-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/d9331a1e1fb3b25b-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-grooved-stone": {
+   "src": "/artifact-expansion/tranche-03/sz-grooved-stone-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/52570269e916a2fb-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/52570269e916a2fb-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/52570269e916a2fb-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-perforated-shovel": {
+   "src": "/artifact-expansion/tranche-03/sz-perforated-shovel-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/fc1bab0af0608e47-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/fc1bab0af0608e47-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/fc1bab0af0608e47-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-crystal-point": {
+   "src": "/artifact-expansion/tranche-03/sz-crystal-point-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1cd619ec4b3ed3d1-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/1cd619ec4b3ed3d1-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1cd619ec4b3ed3d1-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-stone-adze": {
+   "src": "/artifact-expansion/tranche-03/sz-stone-adze-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/bfbdfc866e66fbb5-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/bfbdfc866e66fbb5-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/bfbdfc866e66fbb5-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-paper-cut-bowl": {
+   "src": "/artifact-expansion/tranche-03/sz-paper-cut-bowl-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/16c153a72697bef4-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/16c153a72697bef4-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/16c153a72697bef4-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-yue-box": {
+   "src": "/artifact-expansion/tranche-03/sz-yue-box-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/999336f15ffbe366-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/999336f15ffbe366-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/999336f15ffbe366-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-white-dragon-ewer": {
+   "src": "/artifact-expansion/tranche-03/sz-white-dragon-ewer-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/02cec051c4999b6b-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/02cec051c4999b6b-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/02cec051c4999b6b-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-tricolor-flat-flask": {
+   "src": "/artifact-expansion/tranche-03/sz-tricolor-flat-flask-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/834cca254818233e-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/834cca254818233e-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/834cca254818233e-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-celadon-ewer": {
+   "src": "/artifact-expansion/tranche-03/sz-celadon-ewer-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c6707c30389a5e09-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/c6707c30389a5e09-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/c6707c30389a5e09-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "sz-changsha-ewer": {
+   "src": "/artifact-expansion/tranche-03/sz-changsha-ewer-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/7ce867262f3334c9-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/7ce867262f3334c9-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/7ce867262f3334c9-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

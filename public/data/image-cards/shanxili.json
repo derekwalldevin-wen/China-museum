@@ -1,0 +1,249 @@
+{
+ "museumId": "shanxili",
+ "records": {
+  "sxl-xmb": {
+   "image": {
+    "src": "/artifacts/sxl-xmb.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/31aaf7e9cd00ce45-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/31aaf7e9cd00ce45-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/31aaf7e9cd00ce45-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "sxl-wmh": {
+   "image": {
+    "src": "/artifacts/sxl-wmh.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/621bb63d5bf566f8-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/621bb63d5bf566f8-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/621bb63d5bf566f8-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "sxl-hzx": {
+   "image": {
+    "src": "/artifacts-v2/p2-source/sxl-hzx.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/6d37b8bd02b8dd9a-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/6d37b8bd02b8dd9a-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/6d37b8bd02b8dd9a-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/6d37b8bd02b8dd9a-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifacts/sxl-hzx.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/7c94a12efca04528-card-w240.webp",
+        "width": 240,
+        "height": 196
+       },
+       {
+        "src": "/artifact-responsive/7c94a12efca04528-card-w400.webp",
+        "width": 400,
+        "height": 326
+       },
+       {
+        "src": "/artifact-responsive/7c94a12efca04528-card-w640.webp",
+        "width": 640,
+        "height": 522
+       },
+       {
+        "src": "/artifact-responsive/7c94a12efca04528-card-w900.webp",
+        "width": 900,
+        "height": 734
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sxl-lt": {
+   "image": {
+    "src": "/artifacts-v2/ai-pending-20260923/sxl-lt.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/215cb93a1d11a63d-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/215cb93a1d11a63d-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/215cb93a1d11a63d-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/215cb93a1d11a63d-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "contain"
+   },
+   "hold": false
+  },
+  "sxl-yjb": {
+   "image": {
+    "src": "/artifacts-v2/p2-source/sxl-yjb.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/b72faa75b0bbfbcb-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/b72faa75b0bbfbcb-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/b72faa75b0bbfbcb-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/b72faa75b0bbfbcb-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifacts/sxl-yjb.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/d6413e208b9d5b65-card-w240.webp",
+        "width": 240,
+        "height": 180
+       },
+       {
+        "src": "/artifact-responsive/d6413e208b9d5b65-card-w400.webp",
+        "width": 400,
+        "height": 300
+       },
+       {
+        "src": "/artifact-responsive/d6413e208b9d5b65-card-w640.webp",
+        "width": 640,
+        "height": 480
+       },
+       {
+        "src": "/artifact-responsive/d6413e208b9d5b65-card-w900.webp",
+        "width": 900,
+        "height": 675
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "sxl-ptxn": {
+   "image": {
+    "src": "/artifacts-v2/ai-pending-20260923/sxl-ptxn.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/18cef49d9ae1faee-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/18cef49d9ae1faee-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/18cef49d9ae1faee-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/18cef49d9ae1faee-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "contain"
+   },
+   "hold": false
+  }
+ }
+}

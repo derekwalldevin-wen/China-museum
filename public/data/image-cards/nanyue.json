@@ -1,0 +1,251 @@
+{
+ "museumId": "nanyue",
+ "records": {
+  "ny-sly": {
+   "image": {
+    "src": "/artifacts/ny-sly.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/6be6dac3221ce8fe-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/6be6dac3221ce8fe-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/6be6dac3221ce8fe-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "ny-wdx": {
+   "image": {
+    "src": "/artifacts/ny-wdx.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/a11dd7ec72f0af4b-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/a11dd7ec72f0af4b-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/a11dd7ec72f0af4b-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "ny-jyb": {
+   "image": {
+    "src": "/artifacts/ny-jyb.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/66fac003eb6be8d4-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/66fac003eb6be8d4-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/66fac003eb6be8d4-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "ny-yh": {
+   "image": {
+    "src": "/artifacts-v2/ai-new-20260927/ny-yh.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/0b9f22c551a898a0-card-w240.webp",
+       "width": 240,
+       "height": 200
+      },
+      {
+       "src": "/artifact-responsive/0b9f22c551a898a0-card-w400.webp",
+       "width": 400,
+       "height": 333
+      },
+      {
+       "src": "/artifact-responsive/0b9f22c551a898a0-card-w640.webp",
+       "width": 640,
+       "height": 533
+      },
+      {
+       "src": "/artifact-responsive/0b9f22c551a898a0-card-w960.webp",
+       "width": 960,
+       "height": 800
+      }
+     ]
+    },
+    "fit": "contain"
+   },
+   "hold": false
+  },
+  "ny-cpyb": {
+   "image": {
+    "src": "/artifacts-v2/ai-new-20260927/ny-cpyb.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/0fc5c41d286f7277-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/0fc5c41d286f7277-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/0fc5c41d286f7277-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/0fc5c41d286f7277-card-w960.webp",
+       "width": 960,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain"
+   },
+   "hold": false
+  },
+  "ny-hujie": {
+   "image": {
+    "src": "/artifacts-v2/ai-new-20260927/ny-hujie.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/82d68fa084d07a07-card-w240.webp",
+       "width": 240,
+       "height": 160
+      },
+      {
+       "src": "/artifact-responsive/82d68fa084d07a07-card-w400.webp",
+       "width": 400,
+       "height": 267
+      },
+      {
+       "src": "/artifact-responsive/82d68fa084d07a07-card-w640.webp",
+       "width": 640,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/82d68fa084d07a07-card-w960.webp",
+       "width": 960,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain"
+   },
+   "hold": false
+  },
+  "ny-gaozu": {
+   "image": {
+    "src": "/artifacts-v2/ai-new-20260927/ny-gaozu.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/a08f464c1704cd3e-card-w240.webp",
+       "width": 240,
+       "height": 256
+      },
+      {
+       "src": "/artifact-responsive/a08f464c1704cd3e-card-w400.webp",
+       "width": 400,
+       "height": 427
+      },
+      {
+       "src": "/artifact-responsive/a08f464c1704cd3e-card-w640.webp",
+       "width": 640,
+       "height": 683
+      },
+      {
+       "src": "/artifact-responsive/a08f464c1704cd3e-card-w960.webp",
+       "width": 960,
+       "height": 1024
+      }
+     ]
+    },
+    "fit": "contain"
+   },
+   "hold": false
+  },
+  "ny-xiangyazhi": {
+   "image": {
+    "src": "/artifacts-v2/ai-new-20260927/ny-xiangyazhi.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/4322deb9cd8c156e-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/4322deb9cd8c156e-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/4322deb9cd8c156e-card-w640.webp",
+       "width": 640,
+       "height": 640
+      },
+      {
+       "src": "/artifact-responsive/4322deb9cd8c156e-card-w960.webp",
+       "width": 960,
+       "height": 960
+      }
+     ]
+    },
+    "fit": "contain"
+   },
+   "hold": false
+  }
+ }
+}

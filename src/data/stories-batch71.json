@@ -1,0 +1,2076 @@
+{
+ "version": 1,
+ "reviewedAt": "2026-10-05",
+ "sources": [
+  {
+   "id": "t04-gsjd-medicine-paper-official",
+   "title": "官方逐件记录：“付子 细辛”汉代麻纸（exhibit_id=49）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=49",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：名称、质地（麻纸）、年代（西汉早期）、出土地（1990年敦煌悬泉置遗址）与两件出土号（90DXT212④：3、90DXT212④:4）及尺寸；两纸均书药名、馆方据折痕推断为包药用纸。冲突照录：标题作“付子”，正文首张作“薰力”；第二张长度表格作13厘米、正文作3厘米，本条不代馆方判定。不含：纸张纤维检测、制作工序与保护修复档案；不构成照片再使用授权。"
+  },
+  {
+   "id": "t04-gsjd-medicine-paper-page",
+   "title": "官方展品页面：“付子 细辛”汉代麻纸（exhibitId=49）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://www.jiandumuseum.cn/collectionDetail?exhibitId=49",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-page-listing",
+   "kind": "museum-page",
+   "supports": "支持：该记录标识对应一件公开展示条目，可核名称与年代等登记字段；与接口记录同源，不提供额外实物信息，不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-maquan-brush-official",
+   "title": "官方逐件记录：马圈湾汉毛笔（exhibit_id=48）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=48",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1979年敦煌马圈湾汉代烽燧遗址出土，出土号79DMT7：01；实心竹杆，杆首钻孔插入笔毛，丝线捆扎后髹褐色漆，杆尾截平镶锥形硬木并打磨；通长19.5厘米、直径0.6厘米、笔毛残长1.2厘米；笔毛为狼毫（馆方记录）。未载：工匠、竹材与丝线来源、漆的成分、使用时长与物主；毛种不据AI示意判断；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-maquan-gauze-official",
+   "title": "官方逐件记录：马圈湾丝织品（exhibit_id=47）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=47",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1979年敦煌马圈湾汉代烽燧遗址出土，出土号79DMT12:062；湖绿色四经绞罗，长13、宽11厘米；馆方研究：汉代盛行无固定绞组型罗，此件在传统四经绞罗中多织入二梭平绞、呈横向条状效应；经丝密度每厘米64根、纬丝密度每厘米40根，经纬丝均无拈；馆方称其为少见精品。未载：用途、织造工匠与作坊、丝线产地；组织与密度属馆方研究，不据AI示意验证；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-changluo-expenses-official",
+   "title": "官方逐件记录：元康五年悬泉置过长罗侯费用簿（exhibit_id=46）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=46",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1990年敦煌悬泉置遗址出土；木简18枚，每简长23、宽0.8厘米；内容为元康五年（公元前61年）长罗侯常惠出使乌孙时悬泉置招待其路过军吏的费用记录；馆方评价其为研究悬泉置功能与经费收支、以及西汉与西域尤其乌孙关系的重要资料，可补史籍阙载。未载：开支名目与总额、接待人数、驿站人员构成；整册计一条；不据AI示意核对枚数与排列；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-sick-leave-official",
+   "title": "官方逐件记录：建武三年隧长病书（exhibit_id=42）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=42",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：三枚木简，含城北隧长党请病假的陈述、城北守候长匡向候官上报的行文、候官处理批示并上报都尉府请同意就医；馆方登记出土地为居延破城子，具体发现年月未载；馆方认为对研究戍边吏卒日常生活与疾病医疗有意义。未载：病种、人物生平与事件结局；本组计一条；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-seasonal-ban-official",
+   "title": "官方逐件记录：建武六年毋犯四时禁者书（exhibit_id=40）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=40",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：名称、材质（简牍）、年代（东汉初年）、出土地（1974年甲渠候官遗址第22号房址）与馆方定性（东汉初年窦融统治河西时期四时簿的上报底稿）。馆方对其意义的表述（对研究河西生态保护有重要意义）属研究解释。不含：禁条全文、执行记录与保护修复档案；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-document-cover-official",
+   "title": "官方逐件记录：文书检（exhibit_id=38）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=38",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：名称、材质（木检）、年代（汉）、馆方登记出土地（居延破城子）与尺寸（长15.3、宽4.2厘米）；用途为封缄文书，内容包括印章文、送达时间与送达人。未核：原有绳、泥、印的完整组合；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-discipline-stick-official",
+   "title": "官方逐件记录：侯史广德坐罪行罚檄（exhibit_id=36）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=36",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1974年居延破城子出土；以一根树枝制成，正背两面刮削写字，左右两侧未刮治；长90.7厘米；正面檄文标题与背面事由、分22栏书写、列举6个隧的守御器与防御设施废弛情况、责打五十并通报；馆方对其研究价值的判断属研究解释。不含：广德生平与后续；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-gate-pass-official",
+   "title": "官方逐件记录：五凤元年大奴出入关登记文书木简（exhibit_id=35）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=35",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1973年肩水金关出土；一封完整的出入关文书；长23.6、宽3.2厘米；馆方说明汉代出入肩水金关需出具证明，该文书对研究传文书的申请、批复、运行有参考价值。未载：持有人“大奴”的完整身份与生平；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-written-hemp-paper-official",
+   "title": "官方逐件记录：“巨阳大利 上缮皂五匹”汉代麻纸（exhibit_id=34）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=34",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1990年敦煌悬泉置遗址出土；馆方依同出简牍与地层定年为东汉初期；纸张呈不规则长方形，黄色间灰，厚而重、质地松疏粗糙、表面留有残渣；上有隶书两行“巨阳大利 上缮皂五匹”。定年依据属馆方解释；不含纤维检测与制作工序；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-wan-letter-official",
+   "title": "官方逐件记录：万致子恩书（exhibit_id=33）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=33",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1990年敦煌悬泉置遗址出土；时代西汉末至东汉初；馆方登记质地为丝；正背面书写、隶书；为万写给子恩的一封私人书信。未载：两人的完整身份、关系与信件内容；不构成照片授权。类别依馆方登记，不改作木简。"
+  },
+  {
+   "id": "t04-gsjd-imperial-search-official",
+   "title": "官方逐件记录：甘露二年御史书（exhibit_id=26）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=26",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：馆方登记出土地为肩水金关；文书分四部分——御史书对丽戎经历与相貌的描述及严查要求、张掖太守向下传达、肩水都尉府下达、肩水候官向部隧下达执行；相关残文在甲渠候官遗址也有发现，说明发往各地。馆方所称“通缉令”为现代说明语；不含全文释文与保护修复档案；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-grain-loan-official",
+   "title": "官方逐件记录：田子渊借粮食（exhibit_id=23）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=23",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1979年敦煌马圈湾汉代烽燧遗址出土；简文可知田子渊为久守边塞的戍卒，友人称其“起居无它”，在粮食短缺时希望田子渊借粮；馆方据此谈边塞戍卒生活的窘迫。未载：借粮结果与两人关系；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-qin-wood-map-official",
+   "title": "官方逐件记录：天水放马滩秦木板地图（exhibit_id=21）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=21",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1986年6月出土于天水市北道区党川乡放马滩1号秦墓；4块木板绘7幅地图（3块双面、1块单面），1幅未完成未标地名、完整者6幅；各板标注地名10、8、10、12、18处等具体项；6幅可分可合，大体反映今天水、秦安、清水一带地形；馆方称其为考古发掘的最早木板地图。本件全组计一条；AI示意图非可量测原件；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-qin-daybook-official",
+   "title": "官方逐件记录：放马滩甲种日书（exhibit_id=20）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=20",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1986年天水放马滩1号秦墓出土；日书为古代选择时日趋吉避凶的数术书籍，操此术者称“日者”；《墨子》记载日者至少在战国已活跃于民间；放马滩秦简《日书》分甲乙两种，是继睡虎地秦墓《日书》之后又一次先秦术数文献的重要发现，为研究秦人天地观念、信仰、社会生活与风俗的资料。术数属历史信仰，本条不为其预测效力背书；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-chicken-register-official",
+   "title": "官方逐件记录：悬泉置元康四年尽十二月丁卯鸡出入簿（exhibit_id=16）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=16",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1990年悬泉置遗址出土；馆方释读为一名叫“时”的厨房负责人（啬夫）上报的悬泉置一年内入鸡、吃鸡的统计；馆方认为该组简为了解悬泉置钱物来源与消费、过往客人身份构成与招待规模提供依据。未载：鸡只总数、菜谱与逐条开支；本组计一条；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-silk-credential-official",
+   "title": "官方逐件记录：张掖都尉棨信（exhibit_id=14）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=14",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1973年居延肩水金关遗址出土；绛红色缯帛，高21厘米、宽16厘米，上端有素绂；篆书“张掖都尉棨信”6字。印字与用途须依馆方记录，不得据AI示意核验；不含织造工艺与保护修复档案；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-sword-appraisal-official",
+   "title": "官方逐件记录：相利善敝剑冊（exhibit_id=12）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=12",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1974年居延破城子遗址出土；每简一行，原有编连三道、编绳处右侧有锲口，编绳已朽毁不存；六简容字210个，规整隶书、墨色如新；内容为辨识宝剑与敝剑的标准和方法，提出鉴定善剑4条、敝剑6条及辨识纹饰4条标准。不含实物剑与断代细节；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-drum-protocol-official",
+   "title": "官方逐件记录：鼓令册（exhibit_id=9）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=9",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：悬泉置出土木简；馆方记录鼓用于接待，以敲鼓次数提示来使与官吏的职级——不持节使节15下、守丞到悬泉置6下、较低级别官员3下。接待规则为馆方解释；本件是文书而非鼓；不推为全国统一永久规则；不构成照片授权。"
+  },
+  {
+   "id": "t04-gsjd-camel-dispute-official",
+   "title": "官方逐件记录：永光五年康居王使者自言献驼直不如实册（exhibit_id=6）",
+   "institution": "甘肃简牍博物馆",
+   "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=6",
+   "checkedAt": "2026-10-05",
+   "retrieval": "official-record-read",
+   "kind": "museum-record",
+   "supports": "支持：1990年悬泉置遗址出土；两道编绳尚存，字迹清晰、内容完整；记康居王使者五人从敦煌入关后贡献骆驼，评估涉及毛色、肥瘦、年齿与价值；在酒泉评估时发生纠纷，使者称未得应有膳食、边关官吏在其不在场时私自评估；政府下令严查；简中未载最终调查结果。不编造结局，不将原册画成骆驼；不构成照片授权。"
+  }
+ ],
+ "trails": [],
+ "stories": [
+  {
+   "id": "gsjd-medicine-paper",
+   "hook": "两张小纸片，包过药",
+   "summary": "甘肃简牍博物馆藏西汉早期麻纸两件（按一组计）。1990年出土于敦煌悬泉置遗址，纸上隶书药名；馆方据纸的形状与折痕推断为包药用纸。标题与正文的药名、第二张的尺寸在官方资料内部存在冲突，本条并列不判。",
+   "summaryRefs": [
+    "t04-gsjd-medicine-paper-official"
+   ],
+   "sections": [
+    {
+     "title": "纸面粗，字是隶书",
+     "text": "官方记录写得很具体：纸色白，纸面粗而不平整，有韧性。两件纸上都是隶书，一件正面写“薰力”，一件正面写“细辛”——都是药名。纸不是平的，表面留着折过的痕迹，馆方据此判断它们曾被用来包东西。",
+     "refs": [
+      "t04-gsjd-medicine-paper-official"
+     ]
+    },
+    {
+     "title": "两张纸，四个尺寸",
+     "text": "按官方摘录：一件出土号 90DXT212④：3，长12厘米、宽7厘米；另一件 90DXT212④:4，长3厘米、宽4厘米。但在同一份官方资料里，第二张的长度在表格中记作13厘米、在正文中记作3厘米。这个冲突是原件资料自带的，本条只把它摆出来：在纸片本身被重新测量之前，两个数字都只能并列存在。药名同样如此——标题写“付子”，正文明列的第一张写“薰力”。",
+     "refs": [
+      "t04-gsjd-medicine-paper-official"
+     ]
+    },
+    {
+     "title": "为什么这两片纸重要",
+     "text": "悬泉置是汉代敦煌郡的一处驿站遗址，出土简牍数量大。在一片以简牍为主的遗址里出现纸，说明当时书写材料不止一种：木简承担了多数行政与私人记录，纸也已经进入日常使用——至少到了可以用来包药的程度。馆方把这两件按一组计数，是展示与登记上的处理，不是原物本来连在一起。",
+     "refs": [
+      "t04-gsjd-medicine-paper-official"
+     ]
+    },
+    {
+     "title": "它没有告诉我们的",
+     "text": "纸的纤维成分、抄造工序与产地，官方资料没有记载，本条不补。两片纸是否原本包着同一包药、属于同一个人，资料也没有说；它们只是同在悬泉置出土、同为药名墨迹。至于逐次保护修复档案，同样未核。今天我们在展柜里看到的是两小片黄白的纸与几笔隶书，其余都是等待检验的部分。",
+     "refs": [
+      "t04-gsjd-medicine-paper-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "质地与年代",
+     "text": "麻纸；馆方定为西汉早期。",
+     "refs": [
+      "t04-gsjd-medicine-paper-official"
+     ]
+    },
+    {
+     "title": "两件出土号",
+     "text": "90DXT212④：3 与 90DXT212④:4。",
+     "refs": [
+      "t04-gsjd-medicine-paper-official"
+     ]
+    },
+    {
+     "title": "书写的药名",
+     "text": "一件“薰力”，一件“细辛”；标题作“付子”。",
+     "refs": [
+      "t04-gsjd-medicine-paper-official"
+     ]
+    },
+    {
+     "title": "尺寸冲突",
+     "text": "第二张表格13厘米、正文3厘米，两说并列。",
+     "refs": [
+      "t04-gsjd-medicine-paper-official"
+     ]
+    },
+    {
+     "title": "包药的推断",
+     "text": "依纸的形状与折痕，馆方判断为包药用纸。",
+     "refs": [
+      "t04-gsjd-medicine-paper-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么在满是木简的驿站遗址里，会出土两片纸？",
+    "answer": "因为书写材料并不只有一种。木简结实、便于编册，是行政记录的主力；纸轻薄、可折叠，适合包东西或写短记。两片纸在同一遗址出现，说明当时的人按需要选材料，而纸已经进入日常。",
+    "refs": [
+     "t04-gsjd-medicine-paper-official"
+    ]
+   },
+   "uncertainty": "标题与正文的药名（付子／薰力）、第二张的长度（13厘米／3厘米）在官方资料内部冲突，此处并列不判。纸的纤维检测、抄造工序、是否同属一人一物、逐次保护修复档案均未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；冲突项并列保留。",
+   "related": [
+    {
+     "id": "gsjd-maquan-brush",
+     "reason": "都是悬泉、马圈湾一带的书写材料：一片纸上写着药名，一支笔的笔毛还剩一段——两件东西凑成一套：笔写出字，纸留住字；比较工具与载体的搭配，不据此推断同一工坊。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-written-hemp-paper",
+     "reason": "同馆两件有字的麻纸：一件两行隶书像是货物或祝语，一件写着两味药名，可比纸面质地与用途差别。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-maquan-brush",
+   "hook": "一支笔，杆上钻了孔",
+   "summary": "甘肃简牍博物馆藏汉代毛笔。1979年出土于敦煌马圈湾烽燧遗址，出土号79DMT7：01。实心竹杆钻孔纳毛、丝线捆扎、髹褐色漆，尾端镶锥形硬木；通长19.5厘米，笔毛残长1.2厘米。",
+   "summaryRefs": [
+    "t04-gsjd-maquan-brush-official"
+   ],
+   "sections": [
+    {
+     "title": "竹杆上的一整套做法",
+     "text": "官方摘录把制作讲得干净：实心竹杆，在杆首钻一孔，插入笔毛，用丝线捆扎，再髹一层褐色漆；杆尾截平后镶一锥形硬木，打磨光滑。几个部件、几道手续，全在一支20厘米不到的杆子上。钻孔、纳毛、捆扎、髹漆、镶尾——每道手续都有人做，笔也因此有了稳定的形制。",
+     "refs": [
+      "t04-gsjd-maquan-brush-official"
+     ]
+    },
+    {
+     "title": "笔毛是什么，谁说的",
+     "text": "馆方记录笔毛为狼毫，虽残但仍有弹性，残长1.2厘米。这里要分清：毛种的判断来自馆方记录，不是从图片看出来的。站内配图是 AI 概括示意，毛的粗细、颜色与磨损都不能充作史料；任何根据示意图推断毛种或工艺的说法都不成立。",
+     "refs": [
+      "t04-gsjd-maquan-brush-official"
+     ]
+    },
+    {
+     "title": "它出土在烽燧里",
+     "text": "1979年，敦煌马圈湾汉代烽燧遗址。烽燧是边塞的警戒与驻守单位，日常要写文书：上报、登记、传递。一支笔在这样的地方被留下、被发现，说明书写是边塞生活的常规动作，而不是偶尔为之。至于这支笔属于谁、用了多久，资料未载。",
+     "refs": [
+      "t04-gsjd-maquan-brush-official"
+     ]
+    },
+    {
+     "title": "尺寸之外的部分",
+     "text": "通长19.5厘米、直径0.6厘米，这些数字来自官方记录。除此之外：竹材产地、丝线规格、漆的成分、制作这支笔的工匠，都未载。逐次保护修复档案未核——也就是说，我们不知道它出土之后经过哪些处理。展柜里的它，是一支残缺的笔，也是一份尚未读完的工艺记录。",
+     "refs": [
+      "t04-gsjd-maquan-brush-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土信息",
+     "text": "1979年敦煌马圈湾汉代烽燧遗址，出土号79DMT7：01。",
+     "refs": [
+      "t04-gsjd-maquan-brush-official"
+     ]
+    },
+    {
+     "title": "结构",
+     "text": "实心竹杆钻孔纳毛，丝线捆扎，髹褐色漆，尾端镶锥形硬木。",
+     "refs": [
+      "t04-gsjd-maquan-brush-official"
+     ]
+    },
+    {
+     "title": "尺寸",
+     "text": "通长19.5厘米，直径0.6厘米，笔毛残长1.2厘米。",
+     "refs": [
+      "t04-gsjd-maquan-brush-official"
+     ]
+    },
+    {
+     "title": "毛种依据",
+     "text": "狼毫为馆方记录，不从AI示意图判断。",
+     "refs": [
+      "t04-gsjd-maquan-brush-official"
+     ]
+    },
+    {
+     "title": "空白项",
+     "text": "工匠、竹材产地、漆的成分、保护修复经过均未载。",
+     "refs": [
+      "t04-gsjd-maquan-brush-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么一支笔要在杆尾再镶一块硬木？",
+    "answer": "官方记录写的是工序，不是理由。可以确定的是尾端镶了锥形硬木并打磨光滑——按同类器物的常识，这通常与配重、握持或收尾有关，但本件资料没有给出解释，所以我们不下结论。看实物、读记录、把不知道的留着，这也是研究的一部分。",
+    "refs": [
+     "t04-gsjd-maquan-brush-official"
+    ]
+   },
+   "uncertainty": "工匠、竹材与丝线来源、漆的成分、使用时长与物主均未载；笔毛毛种依馆方记录，未做检测；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "gsjd-medicine-paper",
+     "reason": "边塞书写的一对搭档：一支有系绳与漆面的笔，几片写着药名的纸——比较载体与工具，不据此推断同一工坊。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-document-cover",
+     "reason": "书写之后要封缄：一件是写字的笔，一件是封文书的检；把文书从写就到传递的两端放在一起看，不据此推断同一工坊。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-maquan-gauze",
+   "hook": "细到每厘米64根经线",
+   "summary": "甘肃简牍博物馆藏汉代丝织品。1979年出土于敦煌马圈湾烽燧遗址，出土号79DMT12:062，长13、宽11厘米。馆方识别为湖绿色四经绞罗：经丝密度每厘米64根、纬丝40根，经多织入二梭平绞，呈现横向条状效应。",
+   "summaryRefs": [
+    "t04-gsjd-maquan-gauze-official"
+   ],
+   "sections": [
+    {
+     "title": "什么是四经绞罗",
+     "text": "官方摘录给了一段织物学解释：传统的四经绞罗，以四根经线为一组，左右绞转，形成较大的孔眼；汉代主要盛行无固定绞组型罗。马圈湾这一件是在传统四经绞罗中多织入二梭平绞，于是整块面料出现横向的条状效果。这段话属于馆方研究解释，不是织造现场的记录。",
+     "refs": [
+      "t04-gsjd-maquan-gauze-official"
+     ]
+    },
+    {
+     "title": "数字从哪里来",
+     "text": "经丝密度每厘米64根、纬丝密度每厘米40根，经纬丝均为无拈——这些数字来自馆方研究文本。本条不根据站内 AI 示意图的纹理去验证组织：示意图是概括画法，孔眼大小、光泽与织纹走向都不能当证据。要讨论密度，只能回到馆方的测量。",
+     "refs": [
+      "t04-gsjd-maquan-gauze-official"
+     ]
+    },
+    {
+     "title": "湖绿色，13乘11厘米",
+     "text": "它很小：长13厘米、宽11厘米，颜色被记为湖绿。这样一块残片能留下，靠的是埋藏环境与后来的保护处理。它在马圈湾烽燧出土——同一边塞遗址里既有简牍、也有笔墨，还有丝织品，说明这里的生活用品并不只有粗布与木器。",
+     "refs": [
+      "t04-gsjd-maquan-gauze-official"
+     ]
+    },
+    {
+     "title": "馆方为什么称它少见",
+     "text": "官方摘录说它是“不多见的品种”“少见的精品”。这是馆方的评价，依据是组织与密度。至于它的用途——衣料、包裹还是别的——资料没有说；织造它的工匠与作坊，同样未载。一块残片能确定的，是它的组织、尺寸和出土位置。",
+     "refs": [
+      "t04-gsjd-maquan-gauze-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土信息",
+     "text": "1979年敦煌马圈湾汉代烽燧遗址，出土号79DMT12:062。",
+     "refs": [
+      "t04-gsjd-maquan-gauze-official"
+     ]
+    },
+    {
+     "title": "尺寸与颜色",
+     "text": "长13厘米、宽11厘米；湖绿色。",
+     "refs": [
+      "t04-gsjd-maquan-gauze-official"
+     ]
+    },
+    {
+     "title": "组织",
+     "text": "四经绞罗，多织入二梭平绞，呈横向条状效应。",
+     "refs": [
+      "t04-gsjd-maquan-gauze-official"
+     ]
+    },
+    {
+     "title": "密度",
+     "text": "经丝每厘米64根、纬丝每厘米40根（馆方测量）。",
+     "refs": [
+      "t04-gsjd-maquan-gauze-official"
+     ]
+    },
+    {
+     "title": "不能做的推断",
+     "text": "不用AI图验证组织，不推断用途、工匠与作坊。",
+     "refs": [
+      "t04-gsjd-maquan-gauze-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么要用“绞”的方式织布，而不是简单平织？",
+    "answer": "按馆方研究，绞经会在织物上留下孔眼，并能在传统四经绞罗里通过多织平绞形成横向条状效果——组织一变，面料的透孔与外观就变。至于当时的人具体为了透气、为了好看还是两者兼有，本件资料没有说明，我们不下判断。",
+    "refs": [
+     "t04-gsjd-maquan-gauze-official"
+    ]
+   },
+   "uncertainty": "用途、织造工匠与作坊、丝线产地均未载；组织与密度为馆方研究结论，未经本条复核；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；织物描述属馆方研究解释。",
+   "related": [
+    {
+     "id": "gsjd-maquan-brush",
+     "reason": "同址同年的两类实物：一件是细密到每厘米64根经的罗，一件是竹杆丝线做成的笔——比较边塞遗址里并存的书写与织物，不据此推断同一工坊。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-silk-credential",
+     "reason": "同为丝质：一件是织造的残片，一件是写有“张掖都尉棨信”的缯帛，比较织物在同一环境中承担的两种角色。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-changluo-expenses",
+   "hook": "十八枚木简，记一顿接待",
+   "summary": "甘肃简牍博物馆藏西汉木简一册（整册计一条）。1990年悬泉置出土，18枚，每简长23、宽0.8厘米。内容是元康五年（公元前61年）长罗侯常惠出使乌孙时，悬泉置招待其路过军吏的费用记录。",
+   "summaryRefs": [
+    "t04-gsjd-changluo-expenses-official"
+   ],
+   "sections": [
+    {
+     "title": "一本账，记的是一个过路人",
+     "text": "官方摘录交代了时间与主角：元康五年，长罗侯常惠出使乌孙，途中经过悬泉置，驿站为随行的军吏提供了接待。18枚木简写下的是这件事的花费。账簿的意义在于：一场外交行程在一个具体驿站里，变成了可以被逐项登记的开支。",
+     "refs": [
+      "t04-gsjd-changluo-expenses-official"
+     ]
+    },
+    {
+     "title": "为什么研究者看重它",
+     "text": "馆方给出两层判断：其一，为研究悬泉置的功能与经费收支提供第一手资料；其二，为研究西汉与西域、尤其与乌孙的关系提供重要资料，可补传世史籍的阙载。第一层是账簿本身能直接证明的；第二层是馆方对其史料价值的评价。本条把两层分开写，不把评价当成账面上的字。",
+     "refs": [
+      "t04-gsjd-changluo-expenses-official"
+     ]
+    },
+    {
+     "title": "长度、宽度与枚数",
+     "text": "每简长23厘米、宽0.8厘米，共18枚——这些是官方记录的形制数据。需要注意的是：站内配图是 AI 概括示意，图上的枚数排列与墨迹位置不能用来核对原件。要谈这册书的编连方式，只能依据原件与馆方记录。",
+     "refs": [
+      "t04-gsjd-changluo-expenses-official"
+     ]
+    },
+    {
+     "title": "账本没有写的",
+     "text": "开支的具体名目、总额、接待人数，本条资料未逐项列出，因此不补。常惠本人在简文中的其他记载、驿站人员的构成，同样不在本条的官方摘录范围内。一册账簿能说明的是“这里记了这笔账”，不能说明这笔接待的全貌。",
+     "refs": [
+      "t04-gsjd-changluo-expenses-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土与形制",
+     "text": "1990年悬泉置出土；木简18枚，每简长23、宽0.8厘米。",
+     "refs": [
+      "t04-gsjd-changluo-expenses-official"
+     ]
+    },
+    {
+     "title": "年代与事由",
+     "text": "元康五年（公元前61年），长罗侯常惠出使乌孙途中接待费用。",
+     "refs": [
+      "t04-gsjd-changluo-expenses-official"
+     ]
+    },
+    {
+     "title": "史料价值",
+     "text": "馆方评价：为悬泉置经费收支与西汉—乌孙关系研究提供资料，可补史籍阙载。",
+     "refs": [
+      "t04-gsjd-changluo-expenses-official"
+     ]
+    },
+    {
+     "title": "计数方式",
+     "text": "整册按一条文物计，不拆成18条。",
+     "refs": [
+      "t04-gsjd-changluo-expenses-official"
+     ]
+    },
+    {
+     "title": "不能依赖图示",
+     "text": "AI示意图不用于核对枚数与原排列。",
+     "refs": [
+      "t04-gsjd-changluo-expenses-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "一封账本为什么能帮我们了解外交？",
+    "answer": "因为大事件会落到小事上。常惠出使乌孙是史书里的事；到了悬泉置，它变成粮食、草料、人力的具体支出，被一条条写进木简。研究者由此能看到行程经过哪里、驿站怎样接待、费用怎么算——这些细节往往不进史书。",
+    "refs": [
+     "t04-gsjd-changluo-expenses-official"
+    ]
+   },
+   "uncertainty": "开支名目与总额、接待人数、驿站人员构成未载；枚数与排列以原件与馆方记录为准，不据示意图核对；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "gsjd-chicken-register",
+     "reason": "同馆两本账簿：一本记外交行程的接待费用，一本记一年里鸡的出入与消费——比较驿站账目的两种口径。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-camel-dispute",
+     "reason": "都与西域往来有关：一处记使者过境的接待开支，一处记使者对献驼估价的申诉，比较制度文书如何处理“人”与“物”。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-sick-leave",
+   "hook": "一封请假条，走了三道手续",
+   "summary": "甘肃简牍博物馆藏东汉木简三枚（本组计一条）。馆方登记出土地为居延破城子，具体发现年月未载。内容为城北隧长党请病假、守候长匡上报、候官批示并请都尉府同意其就医。",
+   "summaryRefs": [
+    "t04-gsjd-sick-leave-official"
+   ],
+   "sections": [
+    {
+     "title": "三道手续，三个人名",
+     "text": "官方摘录把三项内容列得清楚：城北隧长党因病向候长请病假；城北守候长匡将病书上报候官；候官作出处理批示，上报都尉府请同意隧长党去就医治病。三枚简上出现了三个人名与两级机构，一件私人的病假，走的是完整的文书流程。",
+     "refs": [
+      "t04-gsjd-sick-leave-official"
+     ]
+    },
+    {
+     "title": "病是什么病",
+     "text": "资料没有写。馆方释读给出的是“因病”与“就医治病”，病种未知——本条不补。能确定的是流程：当事人陈述、上级代报、机关批示，且就医需要更高一级同意。戍边吏卒的医疗不是个人说了算的事，这一层由文书本身证明。",
+     "refs": [
+      "t04-gsjd-sick-leave-official"
+     ]
+    },
+    {
+     "title": "出土地与年份",
+     "text": "馆方登记出土地为居延破城子，具体发现年月未载。这一点需要照实说：我们不知道这三枚简是哪一年出土的，也不知道原始出土编号。若把它当成有确切发掘记录的档案来引用，就超出了本条资料的范围。",
+     "refs": [
+      "t04-gsjd-sick-leave-official"
+     ]
+    },
+    {
+     "title": "三枚简的分量",
+     "text": "居延一带出土的简牍以行政文书为主：名籍、簿册、诏书、爰书。三枚病书夹在其中并不显眼，却让人看到制度运行的最低处——一个守隧的基层小吏生病了，需要请假、需要上报、需要批准。今天读它，读到的是汉代边塞的日常节奏。",
+     "refs": [
+      "t04-gsjd-sick-leave-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "简数与内容",
+     "text": "三枚木简：请病假陈述、上报行文、候官批示。",
+     "refs": [
+      "t04-gsjd-sick-leave-official"
+     ]
+    },
+    {
+     "title": "人物",
+     "text": "城北隧长党、城北守候长匡，及候官、都尉府两级。",
+     "refs": [
+      "t04-gsjd-sick-leave-official"
+     ]
+    },
+    {
+     "title": "时代",
+     "text": "东汉，建武三年（简册纪年，见条目标题）。",
+     "refs": [
+      "t04-gsjd-sick-leave-official"
+     ]
+    },
+    {
+     "title": "出土地",
+     "text": "馆方登记居延破城子；具体发现年月未载。",
+     "refs": [
+      "t04-gsjd-sick-leave-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "病种、人物生平、简文之外的结局均未载。",
+     "refs": [
+      "t04-gsjd-sick-leave-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么请病假要惊动都尉府？",
+    "answer": "按这三枚简的流程，就医需要候官上报、都尉府同意。戍卒在边塞承担警戒与值守，人一离开岗位就影响防务，所以离岗要逐级报批。规矩看似严格，实际是把“人在不在岗”写进了制度。",
+    "refs": [
+     "t04-gsjd-sick-leave-official"
+    ]
+   },
+   "uncertainty": "病种未知；出土地为馆方登记（居延破城子），具体发现年月与出土号未载；人物生平与事件结局不补；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "gsjd-discipline-stick",
+     "reason": "同一支边防军的奖惩两面：一份是请假就医的三道手续，一份是因失职被责打并通报的檄文，比较制度怎样对待“人”的两种情形。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-grain-loan",
+     "reason": "戍卒生活的两处窘迫：一处为生病请假奔走，一处为缺粮向同袍求助，比较边塞日常的真实压力。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-seasonal-ban",
+   "hook": "四时禁：一张上报底稿",
+   "summary": "甘肃简牍博物馆藏东汉初年简牍。1974年出土于甲渠候官遗址第22号房址。馆方将它解释为东汉初年窦融统治河西时期“四时簿”的上报底稿，可用于讨论季节禁令；本条不把它等同于现代环保制度。",
+   "summaryRefs": [
+    "t04-gsjd-seasonal-ban-official"
+   ],
+   "sections": [
+    {
+     "title": "出土地点很具体",
+     "text": "1974年，甲渠候官遗址第22号房址内。甲渠候官是居延边塞体系中的一处候官治所，房址编号说明这枚简是在一处室内空间被发现的——它被存放或遗落在那里，而不是随手扔在野外。这一点由官方记录直接给出。",
+     "refs": [
+      "t04-gsjd-seasonal-ban-official"
+     ]
+    },
+    {
+     "title": "“四时簿”是什么意思",
+     "text": "馆方的解释是：这是东汉初年窦融统治河西时期四时簿的上报底稿。四时指四季；簿是登记册；上报底稿说明它是要往上送的文书的草底。把这些放回当时的行政场景，可以推断这类文书记录的是按季节施行的禁令与相应情况。需要说清：这是研究解释，简册本身未在本条资料里全文公布。",
+     "refs": [
+      "t04-gsjd-seasonal-ban-official"
+     ]
+    },
+    {
+     "title": "别把它读成今天的法规",
+     "text": "官方摘要明确提醒：可讨论季节禁令，但不等同现代环保制度。两者有相似之处——都在特定时段对取用自然资源作出限制；但制度的目的、执行方式与法律地位完全不同。把汉代边塞的一份簿册直接翻译成“环境保护法”，是把现代概念套到古人身上。",
+     "refs": [
+      "t04-gsjd-seasonal-ban-official"
+     ]
+    },
+    {
+     "title": "还没读到的部分",
+     "text": "禁条的具体内容、执行记录、违犯后果，本条资料未载，因此不补。它的价值并不因此减少：在居延出土的行政文书中，能看到“按季节办事”这一类管理方式的存在，本身就已经说明边塞治理有比戍守更细的层面。",
+     "refs": [
+      "t04-gsjd-seasonal-ban-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土",
+     "text": "1974年甲渠候官遗址第22号房址。",
+     "refs": [
+      "t04-gsjd-seasonal-ban-official"
+     ]
+    },
+    {
+     "title": "馆方定性",
+     "text": "东汉初年窦融时期四时簿的上报底稿。",
+     "refs": [
+      "t04-gsjd-seasonal-ban-official"
+     ]
+    },
+    {
+     "title": "边界",
+     "text": "不套用现代法规概念，不把研究解释写成简文原文。",
+     "refs": [
+      "t04-gsjd-seasonal-ban-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "禁条全文、执行记录、违犯处理均未载。",
+     "refs": [
+      "t04-gsjd-seasonal-ban-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么古代边塞要按季节规定哪些事不能做？",
+    "answer": "按馆方的解释，这类簿册与四时禁令有关。边塞的资源有限：林木、草场、水源都要长期使用，什么时候取、取多少，需要有人管。至于当时的具体规定与理由，本条资料没有给出，我们只能说到“存在这样一套按季节施行的管理”。",
+    "refs": [
+     "t04-gsjd-seasonal-ban-official"
+    ]
+   },
+   "uncertainty": "简册全文、禁条内容、执行与违犯记录未载；四时簿的性质为馆方研究解释；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "gsjd-drum-protocol",
+     "reason": "同为边塞管理文书：一份按季节立禁，一份按敲鼓次数分等级接待，比较制度如何把日常事务写成规则。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-chicken-register",
+     "reason": "管理文书与账册的两种面貌：一件讲该禁什么，一件记吃了多少只鸡，比较规章与流水账的差别。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-document-cover",
+   "hook": "一块木检，写清谁送来、何时送到",
+   "summary": "甘肃简牍博物馆藏汉代木检。馆方登记出土于居延破城子，长15.3、宽4.2厘米。用于封缄文书，其内容包括印章文与送达时间及送达人。",
+   "summaryRefs": [
+    "t04-gsjd-document-cover-official"
+   ],
+   "sections": [
+    {
+     "title": "检是干什么的",
+     "text": "官方摘录只给了两句：文书检用于封缄文书；其内容包括印章文、送达时间及送达人。这两句已经把功能说完整了——它不写内容，只当包在文书外面的那层“封皮”，上面写着谁发的、什么时候送到的。",
+     "refs": [
+      "t04-gsjd-document-cover-official"
+     ]
+    },
+    {
+     "title": "封缄与防拆",
+     "text": "把文书封起来，再在封口处留下印记，是让收件人确认“中途没有被打开过”的办法。检上的印章文承担这个作用：印章落在绳结与封泥上，拆开就会破坏。还有一点：本件原有的绳、泥、印是否完整留存，本条资料未核，因此不描述它的封缄实态。",
+     "refs": [
+      "t04-gsjd-document-cover-official"
+     ]
+    },
+    {
+     "title": "尺寸与出土地",
+     "text": "长15.3厘米、宽4.2厘米，木胎；馆方登记出土于居延破城子。这是一枚窄长的木片——尺寸与简牍相近，但用途不同：简用于书写内容，检用于封缄与标识。在边塞的文书传递链条里，两者配合使用。",
+     "refs": [
+      "t04-gsjd-document-cover-official"
+     ]
+    },
+    {
+     "title": "它没写的部分",
+     "text": "检上印文的具体文字、送达人姓名、所送文书的种类，本条资料均未列出，故不补。我们因此只能说清它的功能与形制，不能复原某一次具体的投递。这类克制听起来不够热闹，但正是它让“文书如何被送到”这件事有了可靠的实物起点。",
+     "refs": [
+      "t04-gsjd-document-cover-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "形制与尺寸",
+     "text": "木检，长15.3、宽4.2厘米。",
+     "refs": [
+      "t04-gsjd-document-cover-official"
+     ]
+    },
+    {
+     "title": "用途",
+     "text": "封缄文书；内容包括印章文、送达时间与送达人。",
+     "refs": [
+      "t04-gsjd-document-cover-official"
+     ]
+    },
+    {
+     "title": "出土地",
+     "text": "馆方登记居延破城子。",
+     "refs": [
+      "t04-gsjd-document-cover-official"
+     ]
+    },
+    {
+     "title": "未核",
+     "text": "原有绳、泥、印的完整组合未核。",
+     "refs": [
+      "t04-gsjd-document-cover-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么要在文书外面再包一层并盖章？",
+    "answer": "因为文书要经过人手传递。封缄加印，等于把“没被拆过”变成可以检查的事实：收件人看到印完好，就知道中途没被动过。这与今天寄重要信件时用封条的道理相通——古人用的是绳、泥与印。",
+    "refs": [
+     "t04-gsjd-document-cover-official"
+    ]
+   },
+   "uncertainty": "印文内容、送达人、所送文书种类未载；原有绳泥印组合未核；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "gsjd-imperial-search",
+     "reason": "一封文书从写下到送到要经过许多环节：一件是封缄用的检，一件是逐级传递的御史书，比较传递链条的两端。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-maquan-brush",
+     "reason": "书写与封缄的配套：一支笔写出内容，一块检封住内容，比较同一套文书的两种实物。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-discipline-stick",
+   "hook": "一根树枝上的檄文",
+   "summary": "甘肃简牍博物馆藏汉代檄文。1974年出土于居延破城子遗址。用一根树枝做成，正背两面刮削后写字，左右两侧未加刮治；长90.7厘米，檄文分22栏，通报候史广德失职与处罚。",
+   "summaryRefs": [
+    "t04-gsjd-discipline-stick-official"
+   ],
+   "sections": [
+    {
+     "title": "先看它是什么材料",
+     "text": "官方摘录说得很直白：用一根树枝做成，形制特别，俨然一根棍子；正背两面刮削写字，左右两侧未加刮治。它算不上加工精细的简牍，只是就地取材的书写面。把它写成“刑具”是误解——它是通报处罚的文书，材料恰好是一根树枝。",
+     "refs": [
+      "t04-gsjd-discipline-stick-official"
+     ]
+    },
+    {
+     "title": "写了什么",
+     "text": "按馆方释读：正面是檄文标题，指候史广德“坐不循行部、涂、趣具诸当所具者”，并有“督五十”；背面写坐罪行罚的具体事由。檄文分22栏，列举第十三至十八共6个隧的守御器与防御设施废弛败敝情况，十分细致。鉴于严重失职，责打五十大板，并以檄文形式通报其他各部。",
+     "refs": [
+      "t04-gsjd-discipline-stick-official"
+     ]
+    },
+    {
+     "title": "处罚之外的信息量",
+     "text": "这份檄文真正的价值在列举：6个隧、守御器、防御设施——每一项都要被清点、被写明废弛败敝。也就是说，居延防线的装备与工事有一套被检查、被记录的标准。一件处罚文书顺手留下了边防设施的状况。",
+     "refs": [
+      "t04-gsjd-discipline-stick-official"
+     ]
+    },
+    {
+     "title": "不知道的部分",
+     "text": "广德本人的生平、这件事的后续、22栏檄文的完整释文，本条资料未提供全文；逐次保护修复档案未核。我们因此不补写“他后来怎样了”。这根90.7厘米的树枝，把一次问责的过程固定了下来，其余留给研究与原件。",
+     "refs": [
+      "t04-gsjd-discipline-stick-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "材料与形制",
+     "text": "一根树枝，正背两面刮削写字，左右未刮治；长90.7厘米。",
+     "refs": [
+      "t04-gsjd-discipline-stick-official"
+     ]
+    },
+    {
+     "title": "内容结构",
+     "text": "正面檄文标题，背面坐罪行罚事由；分22栏。",
+     "refs": [
+      "t04-gsjd-discipline-stick-official"
+     ]
+    },
+    {
+     "title": "列举对象",
+     "text": "第十三至十八共6个隧的守御器与防御设施。",
+     "refs": [
+      "t04-gsjd-discipline-stick-official"
+     ]
+    },
+    {
+     "title": "处罚",
+     "text": "责打五十，并以檄文通报其他各部。",
+     "refs": [
+      "t04-gsjd-discipline-stick-official"
+     ]
+    },
+    {
+     "title": "不能写的",
+     "text": "不把文书画成刑具；广德生平与后续未载。",
+     "refs": [
+      "t04-gsjd-discipline-stick-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么处罚一个人，要写成通报发给其他各部？",
+    "answer": "通报的意义在于让所有人知道标准在哪里。檄文不仅说广德失职，还逐条列出6个隧哪些器械、工事出了问题——别处一看就知道自己该检查什么。处罚一个人，同时上了一堂课。",
+    "refs": [
+     "t04-gsjd-discipline-stick-official"
+    ]
+   },
+   "uncertainty": "广德生平与事件后续未载；檄文完整释文未在本条资料中给出；保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "gsjd-sick-leave",
+     "reason": "同一边防军的两种处境：一人因病请假要逐级报批，一人因失职被责打通报，比较制度的宽严两面。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-seasonal-ban",
+     "reason": "都是管理文书：一份指名问责并列出设施问题，一份按季节立禁，比较边塞治理的两种笔法。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-gate-pass",
+   "hook": "出关要出示证明",
+   "summary": "甘肃简牍博物馆藏西汉木简。1973年出土于肩水金关遗址，长23.6、宽3.2厘米，是一封完整的出入关文书。汉代出入肩水金关需出具证明；持有人“大奴”的完整身份与生平未知。",
+   "summaryRefs": [
+    "t04-gsjd-gate-pass-official"
+   ],
+   "sections": [
+    {
+     "title": "一次完整的通关记录",
+     "text": "官方摘录的重点是两个词：完整、出入关。肩水金关是汉代河西走廊上的一处关隘；要过关，需要出具证明。这枚木简记下的就是这件事的文书部分——申请怎么写、批复怎么下、通过怎么记。它被称为“完整”，说明文书的几个环节都保留在简上。",
+     "refs": [
+      "t04-gsjd-gate-pass-official"
+     ]
+    },
+    {
+     "title": "“大奴”是谁",
+     "text": "条目标题里出现了“大奴”。这是简文中的称谓，馆方将其作为文书持有人记入名称；至于他的完整身份、来历与生平，本条资料未载。古代文书中的称呼有时是身份标记而非姓名，把它直接读成某个人的名字，会超出资料能支持的范围。",
+     "refs": [
+      "t04-gsjd-gate-pass-official"
+     ]
+    },
+    {
+     "title": "尺寸与出土地",
+     "text": "长23.6厘米、宽3.2厘米；1973年出于肩水金关遗址。这是汉代通行简牍的常见尺度，一简一行或两行字。关口每天要过人，登记就要写字——木简是当时最顺手的记录工具。",
+     "refs": [
+      "t04-gsjd-gate-pass-official"
+     ]
+    },
+    {
+     "title": "制度和它的边界",
+     "text": "馆方的表述是：汉代出入肩水金关需出具证明，该文书对研究传文书的申请、批复、运行有重要参考价值。这是研究层面的评价。具体到这一封文书：申请的理由、批复的用语、通关的日期，本条资料未逐项列出，本条不补。",
+     "refs": [
+      "t04-gsjd-gate-pass-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土与形制",
+     "text": "1973年肩水金关出土；长23.6、宽3.2厘米。",
+     "refs": [
+      "t04-gsjd-gate-pass-official"
+     ]
+    },
+    {
+     "title": "文书性质",
+     "text": "一封完整的出入关文书。",
+     "refs": [
+      "t04-gsjd-gate-pass-official"
+     ]
+    },
+    {
+     "title": "制度背景",
+     "text": "馆方说明：出入肩水金关需出具证明。",
+     "refs": [
+      "t04-gsjd-gate-pass-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "持有人“大奴”的完整身份与生平未载。",
+     "refs": [
+      "t04-gsjd-gate-pass-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么古人过关也要证明？",
+    "answer": "关隘控制的是人与物的流动：谁过去、带什么、为什么去，都需要记录。没有凭证，关口就无法核对，也无法向上报告。木简上的这一封文书，说明当时已经把“过关”变成需要书面手续的事。",
+    "refs": [
+     "t04-gsjd-gate-pass-official"
+    ]
+   },
+   "uncertainty": "持有人“大奴”的完整身份与生平、申请理由、批复用语、通关日期均未载；不据称谓推断社会身份；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "gsjd-document-cover",
+     "reason": "过关与封缄都属文书流程：一件记录谁被允许通过，一件封住被传递的文书，比较制度运行中的两种凭据。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-silk-credential",
+     "reason": "都是“凭证”：一件是写有身份文字的丝帛棨信，一件是木简上的通关登记，比较材质与用途的差别。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-written-hemp-paper",
+   "hook": "两行隶书，写在粗纸上",
+   "summary": "甘肃简牍博物馆藏东汉初期麻纸。1990年出土于敦煌悬泉置遗址，不规则长方形，黄色间灰，厚而重、质地松疏粗糙、表面留有残渣；上有隶书两行“巨阳大利 上缮皂五匹”。定年依馆方对同出简牍与地层的判断。",
+   "summaryRefs": [
+    "t04-gsjd-written-hemp-paper-official"
+   ],
+   "sections": [
+    {
+     "title": "纸的样子，先看清楚",
+     "text": "官方摘录描述得很实：不规则长方形，黄色间灰，厚而重，质地松疏，粗糙，表面留有残渣。这与今天平整洁白的纸完全不同——早期的麻纸就是这样：纤维粗、厚薄不匀，能写字，但不精致。",
+     "refs": [
+      "t04-gsjd-written-hemp-paper-official"
+     ]
+    },
+    {
+     "title": "两行隶书写了什么",
+     "text": "“巨阳大利 上缮皂五匹。”这是官方摘录给出的释文。这类字句在出土文献里常与货物、吉语或账簿有关，但本条资料没有对含义作出解释，所以只把文字列出，不做翻译性推断。另外要说明：站内配图是 AI 概括示意，图上的字形与行款不能用来核对原字。",
+     "refs": [
+      "t04-gsjd-written-hemp-paper-official"
+     ]
+    },
+    {
+     "title": "年代是怎么定的",
+     "text": "馆方的判断依据是同出简牍与地层：由此定在东汉初期。这是考古学上常见的方法——器物本身不易直接测年时，靠共存关系与层位推断。它属于研究解释，因此本条把它写成“馆方依同出简牍与地层定年为东汉初期”，而不是“纸上写着东汉初期”。",
+     "refs": [
+      "t04-gsjd-written-hemp-paper-official"
+     ]
+    },
+    {
+     "title": "一片纸能说明什么",
+     "text": "它说明在悬泉置这样的驿站，纸已经被用来写字，而且写的是成行成句的内容。至于这张纸是本地抄造还是外地带来、由谁写下这两行字、纸上的“皂五匹”指向哪笔交易，本条资料均未载。我们知道的与不知道的，界线就在这里。",
+     "refs": [
+      "t04-gsjd-written-hemp-paper-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土与年代",
+     "text": "1990年悬泉置遗址出土；馆方依同出简牍与地层定为东汉初期。",
+     "refs": [
+      "t04-gsjd-written-hemp-paper-official"
+     ]
+    },
+    {
+     "title": "纸面特征",
+     "text": "不规则长方形，黄色间灰，厚而重，松疏粗糙，表面有残渣。",
+     "refs": [
+      "t04-gsjd-written-hemp-paper-official"
+     ]
+    },
+    {
+     "title": "墨迹",
+     "text": "隶书两行：“巨阳大利 上缮皂五匹。”",
+     "refs": [
+      "t04-gsjd-written-hemp-paper-official"
+     ]
+    },
+    {
+     "title": "不能做的推断",
+     "text": "AI示意图不用于核字；纸的产地、抄造工序未载。",
+     "refs": [
+      "t04-gsjd-written-hemp-paper-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "在木简为主的年代，为什么有人用纸写字？",
+    "answer": "因为不同材料各有用处。木简结实、便于编连成册，适合正式与长篇记录；纸轻薄、面积可裁，写几行短句很方便。悬泉置的这片纸上写着两行隶书，正说明当时的人在按需要选材料——不是“木简的时代”与“纸的时代”截然分开。",
+    "refs": [
+     "t04-gsjd-written-hemp-paper-official"
+    ]
+   },
+   "uncertainty": "“巨阳大利 上缮皂五匹”的含义、纸张产地与抄造工序、书写者均未载；定年依据为馆方对同出简牍与地层的判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "gsjd-medicine-paper",
+     "reason": "同馆两件有字麻纸：一件写着两味药名并被推断为包药纸，一件写着两行货物或祝语，比较纸面质地与书写内容。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-wan-letter",
+     "reason": "同为书写载体：一片粗纸上两行隶书，一封丝帛上的私人书信，比较材质、文字与用途。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-wan-letter",
+   "hook": "写在丝上的家书",
+   "summary": "甘肃简牍博物馆藏书信。1990年出土于敦煌悬泉置遗址，时代为西汉末至东汉初。馆方登记质地为丝，正背面书写、隶书，是万写给子恩的一封私人书信。两人的完整身份与本条资料所载之外的内容未说明。",
+   "summaryRefs": [
+    "t04-gsjd-wan-letter-official"
+   ],
+   "sections": [
+    {
+     "title": "它是一件丝织品",
+     "text": "馆方登记的类别是丝，形制按织物处理。这一点需要强调：不能因为它出土于简牍博物馆、又写着字，就改称木简。材质决定了它的保存状态、展陈方式与研究路径，也是本条能确定的事实之一。",
+     "refs": [
+      "t04-gsjd-wan-letter-official"
+     ]
+    },
+    {
+     "title": "正背面都写字",
+     "text": "官方摘录说：正背面书写，隶书。也就是说，写信的人把两面都用上了——这既说明信有相当的内容量，也说明书写材料当时是要珍惜的。字写在丝帛上，与写在木简上的手感、墨迹扩散都不同，这一点可以从工艺角度去讨论，但本条资料没有给出检测结果。",
+     "refs": [
+      "t04-gsjd-wan-letter-official"
+     ]
+    },
+    {
+     "title": "万写给子恩",
+     "text": "简文可知是“万”写给“子恩”的一封私人书信。两个人名，一封私信——在悬泉置出土的文书里，行政文书占多数，私人书信是另一种声音。他们是什么关系、信里说了什么，本条资料未载，因此不补也不推测。",
+     "refs": [
+      "t04-gsjd-wan-letter-official"
+     ]
+    },
+    {
+     "title": "关于年代的说明",
+     "text": "“西汉末至东汉初”是馆方给出的时代范围，跨度有限但并非单一纪年。信中没有留下确切的年月信息（至少在本条资料范围内没有），所以我们把年代写成区间。这也是看待出土文献的常态：年代常常来自形制、字体与共存关系的综合判断。",
+     "refs": [
+      "t04-gsjd-wan-letter-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土与年代",
+     "text": "1990年悬泉置遗址出土；西汉末至东汉初。",
+     "refs": [
+      "t04-gsjd-wan-letter-official"
+     ]
+    },
+    {
+     "title": "材质",
+     "text": "依馆方登记为丝（织物），不作木简处理。",
+     "refs": [
+      "t04-gsjd-wan-letter-official"
+     ]
+    },
+    {
+     "title": "书写",
+     "text": "正背面书写，隶书。",
+     "refs": [
+      "t04-gsjd-wan-letter-official"
+     ]
+    },
+    {
+     "title": "关系",
+     "text": "为万写给子恩的私人书信；两人完整身份未载。",
+     "refs": [
+      "t04-gsjd-wan-letter-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么有人把信写在丝上，而不是木简上？",
+    "answer": "材料各有长短。丝帛轻薄、柔韧，能写较长的内容，也便于携带；木简结实、容易获得，但沉重、编连麻烦。写一封私人信件，选择丝帛，是当时的人根据自己的条件做出的决定——至于这封信为什么用丝，本件资料没有说明。",
+    "refs": [
+     "t04-gsjd-wan-letter-official"
+    ]
+   },
+   "uncertainty": "万与子恩的完整身份与关系、信件内容、丝帛产地均未载；年代为区间判断；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；类别依馆方登记为丝。",
+   "related": [
+    {
+     "id": "gsjd-written-hemp-paper",
+     "reason": "同为日常书写载体：一封写在丝上的私信，两行写在粗麻纸上的字，比较材质与用途。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-silk-credential",
+     "reason": "同为丝帛且都写字：一件是私人书信，一件是写有官名的棨信，比较同一材质承担的私与公。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-imperial-search",
+   "hook": "一封追查令，往下传了四级",
+   "summary": "甘肃简牍博物馆藏西汉简牍。馆方登记出于肩水金关。文书分四部分：御史书对丽戎经历与相貌的描述及严查要求、张掖太守传达、肩水都尉府下达、肩水候官向部隧下达执行；同类残文在甲渠候官也有发现。",
+   "summaryRefs": [
+    "t04-gsjd-imperial-search-official"
+   ],
+   "sections": [
+    {
+     "title": "四层文件叠在一册里",
+     "text": "官方摘录把结构列得很清楚：御史书—张掖太守—肩水都尉府—肩水候官。同一件事，从中央的御史，经郡、都尉府，一路传到最基层的候官与部隧。这册简牍因此不只是一道命令，而是**命令如何旅行**的实物证据。",
+     "refs": [
+      "t04-gsjd-imperial-search-official"
+     ]
+    },
+    {
+     "title": "它在找什么人",
+     "text": "御史书的内容包括对丽戎基本经历与相貌特征的描述，以及要求各地严加追查。相貌特征被写进文书，说明追查需要凭这些线索在关口、驿站等处辨认。至于丽戎究竟做了什么、后来有没有被找到，本条资料未载，不补。",
+     "refs": [
+      "t04-gsjd-imperial-search-official"
+     ]
+    },
+    {
+     "title": "“通缉令”是现代说法",
+     "text": "馆方在说明里用了“通缉令”一词，并加了引号。这是一个便于现代人理解的说明语，不是汉代文书的自称。本条保留这个提醒：把古代文书直接对应到现代制度名称，容易带来误解——相似的是一部分功能，不是整套制度。",
+     "refs": [
+      "t04-gsjd-imperial-search-official"
+     ]
+    },
+    {
+     "title": "另一处残文说明了什么",
+     "text": "官方摘录提到：相关内容残文在甲渠候官遗址也有发现，并据此认为这份文书是发往全国各地的。这是研究者的推论，依据是两地都有残文。它给出的图景是：一份要求追查的文书被复制、下发到不同防区，而不是只送到某一个关口。",
+     "refs": [
+      "t04-gsjd-imperial-search-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "传递层级",
+     "text": "御史书→张掖太守→肩水都尉府→肩水候官→部隧。",
+     "refs": [
+      "t04-gsjd-imperial-search-official"
+     ]
+    },
+    {
+     "title": "内容",
+     "text": "对丽戎经历与相貌的描述及严加追查的要求。",
+     "refs": [
+      "t04-gsjd-imperial-search-official"
+     ]
+    },
+    {
+     "title": "出土地",
+     "text": "馆方登记肩水金关；甲渠候官遗址亦发现相关残文。",
+     "refs": [
+      "t04-gsjd-imperial-search-official"
+     ]
+    },
+    {
+     "title": "用语提醒",
+     "text": "“通缉令”为现代说明语，非原文自称。",
+     "refs": [
+      "t04-gsjd-imperial-search-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么一道命令要一层层往下抄？",
+    "answer": "因为政令要到达最末端才算生效。御史的要求经郡、都尉府、候官，最后到部隧，每一步都要转写与转达。居延出土的这份文书正好把这条链条保存下来——它让我们看到的不只是命令内容，还有命令的路径。",
+    "refs": [
+     "t04-gsjd-imperial-search-official"
+    ]
+   },
+   "uncertainty": "丽戎案由与结局、文书全文、涉案人身份均未载；“发往全国各地”为研究者依两地残文的推论；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；现代说明语已标注。",
+   "related": [
+    {
+     "id": "gsjd-document-cover",
+     "reason": "文书从封缄到逐级下达：一件管“怎么封”，一件看“怎么传”，比较文书运行的两端。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-gate-pass",
+     "reason": "一追一放：一件要求各地严查某人，一件记录某人被允许出关，比较关口在同一套制度里的两种动作。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-grain-loan",
+   "hook": "一封信，只为借点粮",
+   "summary": "甘肃简牍博物馆藏汉代简牍。1979年出土于敦煌马圈湾汉代烽燧遗址。简文可知田子渊是久守边塞的戍卒，友人称其“起居无它”，在自己粮食短缺时希望田子渊借粮；馆方据此谈边塞戍卒生活的窘迫。借粮结果未载。",
+   "summaryRefs": [
+    "t04-gsjd-grain-loan-official"
+   ],
+   "sections": [
+    {
+     "title": "写信的人缺粮了",
+     "text": "官方摘录给出简文的关键：写信的人在粮食短缺的时候，希望田子渊能借些粮食。这一句就是全部要点——没有慷慨的陈情，也不必解释太多，因为收信人是他认识的田子渊。",
+     "refs": [
+      "t04-gsjd-grain-loan-official"
+     ]
+    },
+    {
+     "title": "“起居无它”这四个字",
+     "text": "友人对田子渊的评价是“起居无它”——日常起居没什么异样，也就是一切照常、身体还好。这四个字是借粮信里少见的温度：先问候，再说难处。它也说明写信人与田子渊之间是熟人关系，而不是公事往来。",
+     "refs": [
+      "t04-gsjd-grain-loan-official"
+     ]
+    },
+    {
+     "title": "久守边塞的戍卒",
+     "text": "简文可知田子渊是一名久守边塞的戍卒。边塞的粮食依靠官府配给与转运，一旦补给不继或配给不足，个人的口粮就会紧张。馆方据此称简文“道出了边塞戍卒生活窘迫和心酸”，这是研究层面的解读，依据的是简文本身呈现的处境。",
+     "refs": [
+      "t04-gsjd-grain-loan-official"
+     ]
+    },
+    {
+     "title": "借到没有，我们不知道",
+     "text": "借粮的结果没有记载；写信人与田子渊的关系细节也没有。本条因此不写“田子渊慷慨应允”，也不写“信没有回音”。在出土文献里，这样的缺口很常见——能读到的部分已经足够珍贵，读不到的必须留着。",
+     "refs": [
+      "t04-gsjd-grain-loan-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土",
+     "text": "1979年敦煌马圈湾汉代烽燧遗址。",
+     "refs": [
+      "t04-gsjd-grain-loan-official"
+     ]
+    },
+    {
+     "title": "人物",
+     "text": "田子渊，久守边塞的戍卒；写信人为其友人。",
+     "refs": [
+      "t04-gsjd-grain-loan-official"
+     ]
+    },
+    {
+     "title": "简文要点",
+     "text": "友人称其“起居无它”，因粮食短缺希望借粮。",
+     "refs": [
+      "t04-gsjd-grain-loan-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "借粮结果与两人关系细节未载。",
+     "refs": [
+      "t04-gsjd-grain-loan-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么边塞戍卒会缺粮？",
+    "answer": "边塞不产粮，靠内地转运与官府配给。运输远、消耗大，一遇调度不畅或配给不足，个人口粮就会紧张。这封信说明：在那样的地方，向熟人借一点粮食，是一件需要开口的事。",
+    "refs": [
+     "t04-gsjd-grain-loan-official"
+    ]
+   },
+   "uncertainty": "借粮结果、两人关系细节、写信人姓名未载；田子渊其余生平未载；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "gsjd-sick-leave",
+     "reason": "戍卒生活里的两种难处：一人缺粮向熟人求助，一人患病要走三道手续，比较个人处境与制度回应。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-chicken-register",
+     "reason": "粮食的另一面：一封私人的借粮信，一册官方的鸡只出入账，比较个人与机构对“吃”的记录方式。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-qin-wood-map",
+   "hook": "四块木板，七幅地图",
+   "summary": "甘肃简牍博物馆藏秦代木板地图（本组计一条）。1986年6月出土于天水放马滩1号秦墓：4块木板绘7幅地图，其中1幅未完成；6幅可分可合，大体反映今天水、秦安、清水一带地形。馆方称其为考古发掘的最早木板地图。",
+   "summaryRefs": [
+    "t04-gsjd-qin-wood-map-official"
+   ],
+   "sections": [
+    {
+     "title": "四块板，七幅图",
+     "text": "官方摘录给出明细：4块木板，共绘7幅地图；其中3块正反两面绘制，1块只一面绘制；7幅里有1幅尚未完成，只绘部分线条、未标地名，完整的有6幅。第一块木板还是由3块拼接而成。全组按一件文物计，不拆成7件。",
+     "refs": [
+      "t04-gsjd-qin-wood-map-official"
+     ]
+    },
+    {
+     "title": "图上有什么",
+     "text": "按官方记录：第一块正面绘山脉河流并标地名10处，背面标8处；第二块单面绘山川地形与关隘道路，标地名10处，另有大小关口5处及林木资源、道里；第三块正面标地名12处，背面未完成；第四块正面标地名18处。这些数字来自馆方逐板的清点。",
+     "refs": [
+      "t04-gsjd-qin-wood-map-official"
+     ]
+    },
+    {
+     "title": "分与合",
+     "text": "馆方的表述是：6幅地图单则为分幅图，合则可拼为一幅整图，大体反映今天水、秦安、清水一带的地形地貌。这是对图面关系的判断——分幅绘制、合观成图。至于原使用者的具体用途（行军、行政还是田猎），本条资料未载。",
+     "refs": [
+      "t04-gsjd-qin-wood-map-official"
+     ]
+    },
+    {
+     "title": "不能拿示意图当原件",
+     "text": "站内配图是 AI 概括示意，不是照片，也不是可量测的底图。图上的山川走向、地名位置与比例都不能用来做任何测量或推论；能引用的只有馆方记录中的文字与数字。这一点在讨论“最早的木板地图”时尤其重要：结论必须建立在原件上。",
+     "refs": [
+      "t04-gsjd-qin-wood-map-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土",
+     "text": "1986年6月，天水市北道区党川乡放马滩1号秦墓。",
+     "refs": [
+      "t04-gsjd-qin-wood-map-official"
+     ]
+    },
+    {
+     "title": "数量",
+     "text": "4块木板、7幅地图（1幅未完成）；全组计一条。",
+     "refs": [
+      "t04-gsjd-qin-wood-map-official"
+     ]
+    },
+    {
+     "title": "地名标注",
+     "text": "各板分别标注10、8、10、12、18处等。",
+     "refs": [
+      "t04-gsjd-qin-wood-map-official"
+     ]
+    },
+    {
+     "title": "地理范围",
+     "text": "大体反映今天水、秦安、清水一带地形。",
+     "refs": [
+      "t04-gsjd-qin-wood-map-official"
+     ]
+    },
+    {
+     "title": "使用限制",
+     "text": "AI示意图不作测量依据，不拆计为多件。",
+     "refs": [
+      "t04-gsjd-qin-wood-map-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么古人把地图画在木板上？",
+    "answer": "木板平、硬、易得，可以两面使用，也能拼接成更大的画面。放马滩这四块板正反画了七幅图，第一块还由三块拼起来——说明绘制者在有限的材料上设法画出更大的范围。至于它具体用在哪里，本条资料没有说。",
+    "refs": [
+     "t04-gsjd-qin-wood-map-official"
+    ]
+   },
+   "uncertainty": "地图的具体用途、绘制者与使用方式未载；1幅未完成图未标地名；全部内容以馆方记录为准，不据AI示意复原山川与地名；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；全组计一条。",
+   "related": [
+    {
+     "id": "gsjd-qin-daybook",
+     "reason": "同墓出土的两类知识：一类是把地形画下来，一类是择日避凶，比较秦人记录世界的两种方式。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-imperial-search",
+     "reason": "都涉及“地点与人”：一幅地图标出山川关隘，一封文书要求各地查人，比较空间信息在行政中的用法。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-qin-daybook",
+   "hook": "选日子的书",
+   "summary": "甘肃简牍博物馆藏秦代简牍《日书》甲种（一部计一条）。1986年出土于天水放马滩1号秦墓。日书是古人选择时日趋吉避凶的数术书籍；放马滩《日书》分甲乙两种，是继睡虎地秦墓《日书》之后又一次先秦术数文献的重要发现。",
+   "summaryRefs": [
+    "t04-gsjd-qin-daybook-official"
+   ],
+   "sections": [
+    {
+     "title": "什么是日书",
+     "text": "官方摘录给了定义：日书是古代用以选择时日趋吉避凶的数术书籍，操这种技术的人被称为“日者”。据《墨子》记载，日者至少在战国时期已活跃于民间；到西汉，从事择日之术的日者流派众多。它有从业者、有文本、也有市场，是一门专门技艺。",
+     "refs": [
+      "t04-gsjd-qin-daybook-official"
+     ]
+    },
+    {
+     "title": "从睡虎地到放马滩",
+     "text": "馆方把放马滩《日书》放在学术脉络里：它是继湖北睡虎地秦墓《日书》出土之后，又一次先秦术数文献的重大发现；放马滩这批分甲乙两种。同类文献在不同地点出土，让研究者得以比较抄本的差异与流传，这一层属于研究史的判断。",
+     "refs": [
+      "t04-gsjd-qin-daybook-official"
+     ]
+    },
+    {
+     "title": "它记载的是观念",
+     "text": "官方摘录说，这批材料是研究秦人天地观念、思想信仰、社会生活与风俗习惯的珍贵资料。注意这句话的落点：研究的是**当时人的观念与生活**，不是这些选择本身是否灵验。日书告诉我们的是：在那个时代，人们在做事之前会先看日子，并有一套成文的办法。",
+     "refs": [
+      "t04-gsjd-qin-daybook-official"
+     ]
+    },
+    {
+     "title": "不为其效力背书",
+     "text": "本条须明确：术数属历史信仰，此处不为其预测效力背书，也不提供任何现代预测用途的建议。把日书当史料读，与把它的规则当方法用，是两件完全不同的事。我们读它的理由，是它记录了人怎样安排不确定的生活。",
+     "refs": [
+      "t04-gsjd-qin-daybook-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土",
+     "text": "1986年天水放马滩1号秦墓；分甲、乙两种。",
+     "refs": [
+      "t04-gsjd-qin-daybook-official"
+     ]
+    },
+    {
+     "title": "性质",
+     "text": "选择时日趋吉避凶的数术书籍；操术者称“日者”。",
+     "refs": [
+      "t04-gsjd-qin-daybook-official"
+     ]
+    },
+    {
+     "title": "文献背景",
+     "text": "《墨子》记日者战国时已活跃；西汉流派众多。",
+     "refs": [
+      "t04-gsjd-qin-daybook-official"
+     ]
+    },
+    {
+     "title": "研究价值",
+     "text": "研究秦人天地观念、信仰、社会生活与风俗的珍贵资料。",
+     "refs": [
+      "t04-gsjd-qin-daybook-official"
+     ]
+    },
+    {
+     "title": "边界",
+     "text": "历史信仰，不为其有效性背书。",
+     "refs": [
+      "t04-gsjd-qin-daybook-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么古人做事前要先挑日子？",
+    "answer": "因为很多事的结果事先无法确定：出行、动土、婚嫁、交易。挑日子是把不确定变成可以安排的办法——至少让人心里有个准。日书记录的正是这套办法。它准不准是另一回事，但“人们需要它”这一点，是真实的历史事实。",
+    "refs": [
+     "t04-gsjd-qin-daybook-official"
+    ]
+   },
+   "uncertainty": "甲种日书的完整篇目与具体条文未在本条资料中列出；抄写者与使用者未载；术数效力不在本条讨论之列；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；术数性质按馆方说明表述。",
+   "related": [
+    {
+     "id": "gsjd-qin-wood-map",
+     "reason": "同墓出土的两种知识实践：一份择日之术，一份地形之图，比较秦人面对时间与空间的两套办法。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-seasonal-ban",
+     "reason": "两个层面的“时”：日书写个人如何择日，四时簿记官方如何按季立禁，比较私人信仰与行政管理的分野。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-chicken-register",
+   "hook": "一年吃了多少只鸡，有人记账",
+   "summary": "甘肃简牍博物馆藏西汉简牍一册（本组计一条）。1990年出土于悬泉置遗址。馆方释读为一名叫“时”的厨房负责人（啬夫）上报的悬泉置一年内入鸡、吃鸡的统计，可用于了解驿站的钱物来源、消费与招待规模。",
+   "summaryRefs": [
+    "t04-gsjd-chicken-register-official"
+   ],
+   "sections": [
+    {
+     "title": "记账的人有名字",
+     "text": "简文里出现了一个叫“时”的人，身份是厨房负责人（啬夫）。他上报的内容很具体：一年之内，悬泉置进了多少鸡、吃了多少鸡。这份统计因此有两个方向——进来的和消耗掉的。记账的人有名有姓，是这类文书里少见的“普通职员”。",
+     "refs": [
+      "t04-gsjd-chicken-register-official"
+     ]
+    },
+    {
+     "title": "鸡从哪里来，到哪里去",
+     "text": "馆方指出这组简可用于研究悬泉置钱、物的来源与消费情况，也可用于了解过往客人的身份构成与招待规模。也就是说，鸡不只是食物：它是驿站开支的一部分，而开支的多少与来客的等级、数量相关。一只鸡背后连着一整套接待制度。",
+     "refs": [
+      "t04-gsjd-chicken-register-official"
+     ]
+    },
+    {
+     "title": "账面的数字，本条不写",
+     "text": "鸡只总数是多少、什么季节吃得多、有没有菜谱记载——本条资料未列，因此不补。这类账簿在出土文献中往往有残缺，逐条数据需要回到原件与整理本。把不知道的数字写成确切的说法，是对史料的伤害。",
+     "refs": [
+      "t04-gsjd-chicken-register-official"
+     ]
+    },
+    {
+     "title": "它为什么值得看",
+     "text": "因为它写的是日常。边塞研究常关注烽火、戍守、战争，而这份简册记录的是吃饭：一年里有多少只鸡进了驿站，又有多少只被吃掉。它把“招待”这个抽象词，落到了可以数的实物上。",
+     "refs": [
+      "t04-gsjd-chicken-register-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土与年代",
+     "text": "1990年悬泉置遗址出土；元康四年（简册纪年，见条目标题）。",
+     "refs": [
+      "t04-gsjd-chicken-register-official"
+     ]
+    },
+    {
+     "title": "记账人",
+     "text": "厨房负责人（啬夫）“时”。",
+     "refs": [
+      "t04-gsjd-chicken-register-official"
+     ]
+    },
+    {
+     "title": "内容",
+     "text": "一年内入鸡、吃鸡的统计。",
+     "refs": [
+      "t04-gsjd-chicken-register-official"
+     ]
+    },
+    {
+     "title": "研究用途",
+     "text": "钱物来源与消费、来客身份构成与招待规模。",
+     "refs": [
+      "t04-gsjd-chicken-register-official"
+     ]
+    },
+    {
+     "title": "未知",
+     "text": "鸡只总数与菜谱未载；本组计一条。",
+     "refs": [
+      "t04-gsjd-chicken-register-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么一本“吃鸡账”也能当史料？",
+    "answer": "因为它记录的是制度的实际运转。驿站要接待来往的人，接待要花钱花物；钱物从哪来、用掉多少，必须有人登记。这本账让人看到：招待在这里落实成一串可以核对的数量。",
+    "refs": [
+     "t04-gsjd-chicken-register-official"
+    ]
+   },
+   "uncertainty": "鸡只总数、季节分布、菜谱与逐条开支未载；简册残缺情况未在本条资料中说明；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；全组计一条。",
+   "related": [
+    {
+     "id": "gsjd-changluo-expenses",
+     "reason": "同馆两册账：一册记外交过境的接待费用，一册记一年鸡的出入——比较驿站开支的两种记法。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-drum-protocol",
+     "reason": "接待的两面：一面是敲几下鼓提示来客职级，一面是账上吃了多少只鸡，比较制度与消耗。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-silk-credential",
+   "hook": "六个篆字，写在红帛上",
+   "summary": "甘肃简牍博物馆藏汉代棨信。1973年出土于居延肩水金关遗址。绛红色缯帛，高21、宽16厘米，上端有素绂；篆书“张掖都尉棨信”6字。印字与用途依馆方记录，不据示意图像核验。",
+   "summaryRefs": [
+    "t04-gsjd-silk-credential-official"
+   ],
+   "sections": [
+    {
+     "title": "它是一件织物",
+     "text": "官方记录的形制要素很清楚：绛红色缯帛，高21厘米、宽16厘米，上端有素绂。它既非木简，也非印章，是一块织出来的帛——用丝织品承载文字，把它当作通行的凭据。",
+     "refs": [
+      "t04-gsjd-silk-credential-official"
+     ]
+    },
+    {
+     "title": "六个字写了什么",
+     "text": "篆书“张掖都尉棨信”六字。张掖是郡名，都尉是武职，棨信是凭信一类。这六个字把地点、职官与物件性质写在了一起。要强调：字样的依据是馆方记录，站内配图是 AI 概括示意，字形、行款与帛面细节都不能用来辨字或校字。",
+     "refs": [
+      "t04-gsjd-silk-credential-official"
+     ]
+    },
+    {
+     "title": "上端为什么有素绂",
+     "text": "记录提到上端有素绂——也就是一段素色的系带。凭信要随身携带或悬挂，需要可以系的地方；这是形制上的合理配置，但本件资料没有对绂的用法作进一步说明，因此不细描如何使用。",
+     "refs": [
+      "t04-gsjd-silk-credential-official"
+     ]
+    },
+    {
+     "title": "出土在关口",
+     "text": "1973年，居延肩水金关遗址。关口是查验身份的场所：人与物往来都要凭据。一件写着“张掖都尉棨信”的织物在这里出土，与关口的功能互相印证。至于它属于谁、执行什么任务时使用，资料未载。",
+     "refs": [
+      "t04-gsjd-silk-credential-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "材质与尺寸",
+     "text": "绛红色缯帛，高21、宽16厘米，上端有素绂。",
+     "refs": [
+      "t04-gsjd-silk-credential-official"
+     ]
+    },
+    {
+     "title": "文字",
+     "text": "篆书“张掖都尉棨信”6字。",
+     "refs": [
+      "t04-gsjd-silk-credential-official"
+     ]
+    },
+    {
+     "title": "出土",
+     "text": "1973年居延肩水金关遗址。",
+     "refs": [
+      "t04-gsjd-silk-credential-official"
+     ]
+    },
+    {
+     "title": "核验限制",
+     "text": "印字与用途依馆方记录，不据AI示意核验。",
+     "refs": [
+      "t04-gsjd-silk-credential-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么凭信要用丝帛做？",
+    "answer": "丝帛轻薄、可以卷起或折叠，带着方便，也便于在上面写字或印记。凭信需要随身携带、随时出示，材料自然要轻。至于这件为什么选缯帛而非木、竹或铜，本件资料没有说明，我们不下判断。",
+    "refs": [
+     "t04-gsjd-silk-credential-official"
+    ]
+   },
+   "uncertainty": "持有者、使用场合、织造工艺与绂的用法未载；印字依馆方记录，未据图像核验；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全。",
+   "related": [
+    {
+     "id": "gsjd-gate-pass",
+     "reason": "过关的两种凭据：一件是木简上的出入登记，一件是帛上的官署棨信，比较登记与凭证的分工。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-maquan-gauze",
+     "reason": "同为丝织品：一件是织造的残片，一件是写着官名的帛，比较织物在同一环境中的两种用途。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-sword-appraisal",
+   "hook": "六枚简，讲怎么看出好剑",
+   "summary": "甘肃简牍博物馆藏汉代简册（整册计一条）。1974年出土于居延破城子遗址。每简一行，原有编连三道、编绳处右侧有锲口，编绳已朽毁不存；六简容字210个，规整隶书、墨色如新。内容为辨识宝剑与敝剑的标准与方法。",
+   "summaryRefs": [
+    "t04-gsjd-sword-appraisal-official"
+   ],
+   "sections": [
+    {
+     "title": "先分清：它是书，不是剑",
+     "text": "这份简册讨论的是如何辨认剑的好坏，但实物是六枚木简，没有剑。站内配图是 AI 概括示意，不能据它想象剑的形制；更不应把这份研究性文书画成兵器陈列。材料、编号、字数——这些才是它作为文物的属性。",
+     "refs": [
+      "t04-gsjd-sword-appraisal-official"
+     ]
+    },
+    {
+     "title": "编绳不在了",
+     "text": "官方记录写得很细：原有编连三道，编绳处右侧有锲口；编绳已朽毁不存。锲口是绳子勒过木简留下的痕迹——绳没了，位置还在。从这里能看出：看到的六枚简，原本是被编在一起的册，今天的排列要靠这些痕迹与研究复原。",
+     "refs": [
+      "t04-gsjd-sword-appraisal-official"
+     ]
+    },
+    {
+     "title": "标准有几条",
+     "text": "按馆方释读：内容提出鉴定善剑四条标准、鉴定敝剑六条标准，以及辨识善剑敝剑纹饰的四条标准。合计若干条判断依据，210个字要写清这些内容，用词必然精炼。这类文本接近行业经验的口诀化总结，属于知识传承一路，与官府律令不同。",
+     "refs": [
+      "t04-gsjd-sword-appraisal-official"
+     ]
+    },
+    {
+     "title": "墨色如新，字是隶书",
+     "text": "官方记录用“规整隶书，墨色如新”来形容。出土简牍能保存到字迹清晰并不常见，这让释读相对顺利。至于这份册子由谁抄写、给谁使用，资料未载；它属于边塞的哪一类人（军官、工匠还是书吏），同样不能确定。",
+     "refs": [
+      "t04-gsjd-sword-appraisal-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土与形制",
+     "text": "1974年居延破城子遗址；六简，每简一行，容字210个。",
+     "refs": [
+      "t04-gsjd-sword-appraisal-official"
+     ]
+    },
+    {
+     "title": "编连",
+     "text": "原有三道编绳，锲口尚存，编绳已朽毁。",
+     "refs": [
+      "t04-gsjd-sword-appraisal-official"
+     ]
+    },
+    {
+     "title": "内容",
+     "text": "善剑4条、敝剑6条、纹饰辨识4条标准。",
+     "refs": [
+      "t04-gsjd-sword-appraisal-official"
+     ]
+    },
+    {
+     "title": "书体",
+     "text": "规整隶书，墨色如新。",
+     "refs": [
+      "t04-gsjd-sword-appraisal-official"
+     ]
+    },
+    {
+     "title": "不能做的",
+     "text": "不把文书当实物剑，不据AI图描述剑形。",
+     "refs": [
+      "t04-gsjd-sword-appraisal-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么有人要把“怎么看剑”写成简册？",
+    "answer": "因为经验需要传下去。什么样是善剑、什么样是敝剑、纹饰怎么看，这些判断如果只靠口传，换个人就可能走样。写成条文，就有了可以对照的标准。边塞军中有兵器管理，这类知识对验收入库、追责与更换都用得上。",
+    "refs": [
+     "t04-gsjd-sword-appraisal-official"
+    ]
+   },
+   "uncertainty": "抄写者与使用者身份、标准的全部原文、与实物剑的对应关系均未载；编绳原件已不存；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；整册计一条。",
+   "related": [
+    {
+     "id": "gsjd-discipline-stick",
+     "reason": "军中两件事：一件是列明设施废弛的问责檄文，一件是教人辨别兵器好坏的标准，比较管理与技术两种文本。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-document-cover",
+     "reason": "同为木制实物：一件写字成册，一件封缄文书，比较简与检在文书体系里的分工。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-drum-protocol",
+   "hook": "敲几下鼓，就知道来了谁",
+   "summary": "甘肃简牍博物馆藏汉代木简（整册计一条）。悬泉置出土。馆方记录鼓用于接待：以敲鼓次数提示来使与官吏的职级——不持节使节15下、守丞到悬泉置6下、较低级别官员3下。本件是文书而不是鼓。",
+   "summaryRefs": [
+    "t04-gsjd-drum-protocol-official"
+   ],
+   "sections": [
+    {
+     "title": "把等级写成了次数",
+     "text": "官方摘录给出三档：不持节使节15下，守丞到悬泉置6下，较低级别官员3下。鼓声是听得到的，次数是可数的——用一套可数的信号，把“来的是谁”提前告诉里面的人。文书本身不是鼓，它记录的是这套约定。",
+     "refs": [
+      "t04-gsjd-drum-protocol-official"
+     ]
+    },
+    {
+     "title": "为什么需要一个信号",
+     "text": "驿站要接待来往的使者与官吏，接待的规格依身份而不同。人还在路上，里面就要知道该按什么标准准备：住哪里、吃什么、谁来迎。鼓声承担了“预报”的功能，把准备的时间提前。",
+     "refs": [
+      "t04-gsjd-drum-protocol-official"
+     ]
+    },
+    {
+     "title": "不要把三档说成全国通则",
+     "text": "馆方给出的是悬泉置的记录。三档数字是否通行于其他驿站、是否长期不变，本条资料没有说明——因此不推为全国统一或永久有效的规则。更稳妥的说法是：在悬泉置，接待用鼓声来提示等级，这是一个具体的做法。",
+     "refs": [
+      "t04-gsjd-drum-protocol-official"
+     ]
+    },
+    {
+     "title": "简与鼓的关系",
+     "text": "我们今天看到的是简，不是鼓。鼓多半早已腐朽无存，但**规则被写下来了**：这正说明文书在制度里的位置——口头约定容易走样，写进简册就能按册执行、也有人可以核对。",
+     "refs": [
+      "t04-gsjd-drum-protocol-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "内容",
+     "text": "以敲鼓次数提示来使与官吏职级。",
+     "refs": [
+      "t04-gsjd-drum-protocol-official"
+     ]
+    },
+    {
+     "title": "三档",
+     "text": "不持节使节15下、守丞6下、较低级别官员3下。",
+     "refs": [
+      "t04-gsjd-drum-protocol-official"
+     ]
+    },
+    {
+     "title": "性质",
+     "text": "本件是文书，不是鼓。",
+     "refs": [
+      "t04-gsjd-drum-protocol-official"
+     ]
+    },
+    {
+     "title": "边界",
+     "text": "接待规则为馆方解释，不推为全国统一永久规则。",
+     "refs": [
+      "t04-gsjd-drum-protocol-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么用敲鼓来通报，而不是直接喊话或写字？",
+    "answer": "鼓声传得远，不挑听者的位置，也不需要照明或识字。在驿站这样的场所，白天黑夜都可能有人到，鼓是最省事的信号。至于具体为什么定15、6、3这三档，资料没有解释。",
+    "refs": [
+     "t04-gsjd-drum-protocol-official"
+    ]
+   },
+   "uncertainty": "三档规则是否通行于其他驿站、是否长期不变未载；鼓的形制未载；本册完整条文与残缺情况未在本条资料中说明；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；整册计一条。",
+   "related": [
+    {
+     "id": "gsjd-chicken-register",
+     "reason": "接待的规则与消耗：一份规定敲几下鼓提示等级，一份记一年吃掉多少只鸡，比较制度与实际。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-seasonal-ban",
+     "reason": "同为边塞管理办法：一份管来客接待，一份管季节禁令，比较两类日常规则的写法。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-camel-dispute",
+   "hook": "使者上书：驼被评贱了",
+   "summary": "甘肃简牍博物馆藏西汉简册（整册计一条）。1990年出土于悬泉置遗址，两道编绳尚存，字迹清晰、内容完整。简文记康居王使者五人从敦煌入关贡献骆驼，在酒泉评估时发生纠纷；政府下令严查，最终调查结果简中未载。",
+   "summaryRefs": [
+    "t04-gsjd-camel-dispute-official"
+   ],
+   "sections": [
+    {
+     "title": "礼物怎么算价钱",
+     "text": "官方摘录列出评估涉及的几项：毛色、肥瘦、年齿、价值。也就是说，贡献的骆驼要按一套标准折算价值——颜色、胖瘦、年龄都影响估价。进入汉境之后，这五个人带着骆驼从敦煌往内走，到酒泉再评估时出了问题。",
+     "refs": [
+      "t04-gsjd-camel-dispute-official"
+     ]
+    },
+    {
+     "title": "纠纷的两条理由",
+     "text": "简文说到：使者称入境后没有得到应有的膳食；边关官吏又在使者不在场的情况下私自评估骆驼价值，把肥的说成瘦的、白的说成黄的。这两点性质不同——一个是待遇问题，一个是程序与评估问题。使者为此上书。",
+     "refs": [
+      "t04-gsjd-camel-dispute-official"
+     ]
+    },
+    {
+     "title": "然后呢？没有然后",
+     "text": "简文中政府下令严查此事；至于最终的调查结果，简里没有记载。本条因此不写“后来查明”“使者获得补偿”之类的续文——那是编造。能确定的是：一起涉外纠纷被写下来，并进入了下令查办的流程。",
+     "refs": [
+      "t04-gsjd-camel-dispute-official"
+     ]
+    },
+    {
+     "title": "两道编绳还在",
+     "text": "官方记录特别提到：两道编绳尚存，字迹清晰、内容完整。对简册而言这是难得的状态——绳子还在，说明编连关系可以直接观察，不必靠锲口与推测复原。它也是本册能被完整释读的原因之一。",
+     "refs": [
+      "t04-gsjd-camel-dispute-official"
+     ]
+    }
+   ],
+   "details": [
+    {
+     "title": "出土与保存",
+     "text": "1990年悬泉置遗址出土；两道编绳尚存，字迹清晰、内容完整。",
+     "refs": [
+      "t04-gsjd-camel-dispute-official"
+     ]
+    },
+    {
+     "title": "事由",
+     "text": "康居王使者五人从敦煌入关贡献骆驼，在酒泉评估时发生纠纷。",
+     "refs": [
+      "t04-gsjd-camel-dispute-official"
+     ]
+    },
+    {
+     "title": "申诉内容",
+     "text": "未得应有膳食；官吏在其不在场时私自评估，变肥为瘦、变白为黄。",
+     "refs": [
+      "t04-gsjd-camel-dispute-official"
+     ]
+    },
+    {
+     "title": "处理",
+     "text": "政府下令严查；最终调查结果简中未载。",
+     "refs": [
+      "t04-gsjd-camel-dispute-official"
+     ]
+    },
+    {
+     "title": "边界",
+     "text": "不编造结局，不把原册画成骆驼。",
+     "refs": [
+      "t04-gsjd-camel-dispute-official"
+     ]
+    }
+   ],
+   "reflection": {
+    "question": "为什么一次估价纠纷会被郑重写成简册？",
+    "answer": "因为涉及外来使者。接待与评估有既定规矩，规矩被指违反，就必须查。文书既是申诉的记录，也是下令查办的凭证。写下来，这件事就进入了可以被追问的程序——这对当时的人，比一时的结果更重要。",
+    "refs": [
+     "t04-gsjd-camel-dispute-official"
+    ]
+   },
+   "uncertainty": "最终调查结果、五名使者姓名与后续行程、骆驼数量与具体估价均未载；不编造结局；逐次保护修复档案未核。",
+   "correction": "2026年10月新增条目，按甘肃简牍博物馆逐件官方记录补全；整册计一条。",
+   "related": [
+    {
+     "id": "gsjd-changluo-expenses",
+     "reason": "丝路往来的两种文书：一册记使者过境的接待开支，一册记使者对贡献物估价的申诉，比较驿站账目与涉外纠纷。",
+     "type": "curatorial-comparison"
+    },
+    {
+     "id": "gsjd-imperial-search",
+     "reason": "都涉及“上面下令”：一件要各地追查某人，一件要查估价纠纷，比较政令启动的两种缘由。",
+     "type": "curatorial-comparison"
+    }
+   ]
+  }
+ ]
+}

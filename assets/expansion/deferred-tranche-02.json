@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-10-04",
+  "countedAsAdmissions": false,
+  "records": [
+    {
+      "id": "gb-dragon-lacquer-box",
+      "name": "雕填云龙纹鼓式漆盒",
+      "url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26887.shtml",
+      "reason": "官网正文与年代字段没有可靠的具体断代；虽已生成草图，未接入应用，不计入库。"
+    },
+    {
+      "id": "gb-three-dragon-mirror",
+      "name": "三龙十六连弧铜镜",
+      "url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26901.shtml",
+      "reason": "当前直接记录缺具体年代，未以纹样推断。"
+    },
+    {
+      "id": "hb-guodian-taiyi",
+      "name": "郭店楚简《太一生水》",
+      "url": "https://m-www.hbww.org.cn/p/5367.html",
+      "reason": "页面明列原藏荆门博物馆，现藏归属和展示关系尚未闭合，未自动计入湖北馆。"
+    }
+  ]
+}

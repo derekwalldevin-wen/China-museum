@@ -1,0 +1,1145 @@
+{
+ "museumId": "china-silk",
+ "records": {
+  "csm-lion-pouches": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-lion-pouches-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/58b5df02a9f1728d-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/58b5df02a9f1728d-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/58b5df02a9f1728d-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-lion-pouches-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/450421b8a34827be-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/450421b8a34827be-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/450421b8a34827be-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/450421b8a34827be-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-yellow-knots-pouch": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-yellow-knots-pouch-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/ad1af1acc4e424e8-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/ad1af1acc4e424e8-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/ad1af1acc4e424e8-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-yellow-knots-pouch-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/50bd4d744c951296-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/50bd4d744c951296-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/50bd4d744c951296-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/50bd4d744c951296-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-blue-waist-pouch": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-blue-waist-pouch-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/3144242e87af5cd9-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/3144242e87af5cd9-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/3144242e87af5cd9-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-blue-waist-pouch-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/f0ecfae729280f29-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/f0ecfae729280f29-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/f0ecfae729280f29-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/f0ecfae729280f29-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-go-waist-pouch": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-go-waist-pouch-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/2643997dcad0dca4-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/2643997dcad0dca4-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/2643997dcad0dca4-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-go-waist-pouch-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/5b89971dc7f1a47f-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/5b89971dc7f1a47f-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/5b89971dc7f1a47f-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/5b89971dc7f1a47f-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-bell-ornament": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-bell-ornament-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/0b4aaaeb48d74918-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/0b4aaaeb48d74918-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/0b4aaaeb48d74918-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-bell-ornament-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/999cd6f2bb1b7cce-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/999cd6f2bb1b7cce-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/999cd6f2bb1b7cce-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/999cd6f2bb1b7cce-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-calling-card-bag": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-calling-card-bag-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/f65c5b106b8f810e-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/f65c5b106b8f810e-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/f65c5b106b8f810e-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-calling-card-bag-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/0cc2ea83b626e109-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/0cc2ea83b626e109-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/0cc2ea83b626e109-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/0cc2ea83b626e109-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-double-pouch": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-double-pouch-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/dedf54c9f23e4479-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/dedf54c9f23e4479-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/dedf54c9f23e4479-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-double-pouch-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/7638c46cf14c8417-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/7638c46cf14c8417-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/7638c46cf14c8417-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/7638c46cf14c8417-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-moth-pouch": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-moth-pouch-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/37898636cb14b61c-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/37898636cb14b61c-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/37898636cb14b61c-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-moth-pouch-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/60afa1932b652e24-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/60afa1932b652e24-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/60afa1932b652e24-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/60afa1932b652e24-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-plum-money-pouch": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-plum-money-pouch-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/32d5c74524df2e27-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/32d5c74524df2e27-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/32d5c74524df2e27-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-plum-money-pouch-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/c127ff9c3329f82f-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/c127ff9c3329f82f-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/c127ff9c3329f82f-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/c127ff9c3329f82f-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-ming-yesa": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-ming-yesa-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/f8d683ff3e346e0e-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/f8d683ff3e346e0e-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/f8d683ff3e346e0e-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-ming-yesa-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/ee7bfd693704fced-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/ee7bfd693704fced-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/ee7bfd693704fced-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/ee7bfd693704fced-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-cloud-fragment": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-cloud-fragment-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/9b2c1209e36a36f5-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/9b2c1209e36a36f5-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/9b2c1209e36a36f5-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-cloud-fragment-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/82e942325a9aff6d-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/82e942325a9aff6d-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/82e942325a9aff6d-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/82e942325a9aff6d-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-padded-socks": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-padded-socks-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/0221c751a07e1ecf-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/0221c751a07e1ecf-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/0221c751a07e1ecf-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-padded-socks-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/864766c92d2697b8-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/864766c92d2697b8-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/864766c92d2697b8-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/864766c92d2697b8-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-ruyi-shoes": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-ruyi-shoes-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/98ee3870f57341ac-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/98ee3870f57341ac-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/98ee3870f57341ac-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-ruyi-shoes-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/d90d7771a745be24-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/d90d7771a745be24-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/d90d7771a745be24-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/d90d7771a745be24-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-peony-satin-shoe": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-peony-satin-shoe-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/b413ece2298c54ed-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/b413ece2298c54ed-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/b413ece2298c54ed-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-peony-satin-shoe-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/a7d59c17d3471765-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/a7d59c17d3471765-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/a7d59c17d3471765-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/a7d59c17d3471765-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-gold-peony-shoes": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-gold-peony-shoes-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/df169199fd44a861-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/df169199fd44a861-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/df169199fd44a861-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-gold-peony-shoes-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/d36a913eeec8a133-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/d36a913eeec8a133-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/d36a913eeec8a133-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/d36a913eeec8a133-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-plain-skirt": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-plain-skirt-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/751e7fb08ea83499-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/751e7fb08ea83499-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/751e7fb08ea83499-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-plain-skirt-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/3b3a4535b4a17c12-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/3b3a4535b4a17c12-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/3b3a4535b4a17c12-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/3b3a4535b4a17c12-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-long-jacket": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-long-jacket-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/052995ce2390279c-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/052995ce2390279c-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/052995ce2390279c-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-long-jacket-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/d5c3f2c36157b2e9-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/d5c3f2c36157b2e9-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/d5c3f2c36157b2e9-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/d5c3f2c36157b2e9-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-short-jacket": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-short-jacket-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/e36928ab658e35e2-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/e36928ab658e35e2-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/e36928ab658e35e2-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-short-jacket-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/aceb624e40b46aa9-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/aceb624e40b46aa9-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/aceb624e40b46aa9-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/aceb624e40b46aa9-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-patched-robe": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-patched-robe-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/f4b2a49d477e2e93-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/f4b2a49d477e2e93-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/f4b2a49d477e2e93-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-patched-robe-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/62542d84563da4f1-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/62542d84563da4f1-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/62542d84563da4f1-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/62542d84563da4f1-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "csm-padded-trousers": {
+   "image": {
+    "src": "/artifact-expansion/tranche-04/csm-padded-trousers-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/e61ca7e8ebc84bae-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/e61ca7e8ebc84bae-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/e61ca7e8ebc84bae-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-04/csm-padded-trousers-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/1962fc2f335fd2f6-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/1962fc2f335fd2f6-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/1962fc2f335fd2f6-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/1962fc2f335fd2f6-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  }
+ }
+}

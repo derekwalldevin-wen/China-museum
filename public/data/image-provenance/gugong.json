@@ -493,6 +493,138 @@
     "linkCheckedAt": "2026-09-23",
     "note": "故宫数字展品页确认藏品名、北宋汝窑、三足兽形足、七道弦纹与淡天青釉；该文字记录不授权页面影像。未找到明确可复用的精确匹配照片，AI示意保留，釉色和开片仍待原件影像核验。"
    }
+  },
+  "gg-shen-meique-kesi": {
+   "src": "/artifact-expansion/tranche-02/gg-shen-meique-kesi-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gg-shen-meique-kesi-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.dpm.org.cn/collection/embroider/234663.html",
+        "credit": "故宫博物院文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gg-shen-meique-kesi-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.dpm.org.cn/collection/embroider/234663.html",
+        "credit": "故宫博物院文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.dpm.org.cn/collection/embroider/234663.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "gg-chrysanthemum-lacquer-dish": {
+   "src": "/artifact-expansion/tranche-02/gg-chrysanthemum-lacquer-dish-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-02/gg-chrysanthemum-lacquer-dish-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.dpm.org.cn/collection/lacquerware/232150.html",
+        "credit": "故宫博物院文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-02/gg-chrysanthemum-lacquer-dish-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-02-20261004",
+      "promptManifest": "/data/image-processing/expansion-tranche-02.json",
+      "generatedAt": "2026-10-04",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.dpm.org.cn/collection/lacquerware/232150.html",
+        "credit": "故宫博物院文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-04",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-04",
+    "authorityUrl": "https://www.dpm.org.cn/collection/lacquerware/232150.html",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
   }
  },
  "delivery": {
@@ -655,6 +787,56 @@
       "src": "/artifact-responsive/4a5ae37198349e34-detail-w1122.webp",
       "width": 1122,
       "height": 1402
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gg-shen-meique-kesi": {
+   "src": "/artifact-expansion/tranche-02/gg-shen-meique-kesi-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9546daf289a5545d-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/9546daf289a5545d-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/9546daf289a5545d-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "gg-chrysanthemum-lacquer-dish": {
+   "src": "/artifact-expansion/tranche-02/gg-chrysanthemum-lacquer-dish-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d0f8ec2a1a49d760-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/d0f8ec2a1a49d760-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/d0f8ec2a1a49d760-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
      }
     ]
    },

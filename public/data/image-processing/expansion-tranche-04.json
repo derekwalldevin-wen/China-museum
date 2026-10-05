@@ -1,0 +1,1627 @@
+{
+  "version": "expansion-tranche-04-20261005",
+  "generator": "OpenAI built-in imagegen",
+  "note": "原始文件为AI生成，不是馆藏照片；网页派生仅缩放编码。历史细节未核，不能用于认读纹饰或铭文。",
+  "items": [
+    {
+      "id": "gsjd-medicine-paper",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: “付子 细辛”汉代麻纸. Two small irregular pale coarse hemp paper fragments with folds; no legible writing. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-medicine-paper.png",
+      "generatedAt": "2026-10-05T03:10:38.286Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "fdc66fa762cffaf54f363f05a0e38928f60efa6b7a93046d5223e0db9d212739",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-medicine-paper-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "089f2737555e351e1629cbdc7b8abc5590c6b4f41ce785659bd121ac28f7a16c",
+          "bytes": 77822,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-medicine-paper-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "1a49331866e2a4f8cecab56d1a78c1c1f2a255217095e514907b1308bf2d9a8d",
+          "bytes": 259512,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-maquan-brush",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 马圈湾汉毛笔. Slender brown bamboo writing brush, short worn bristle tip, dark lacquer binding and hard wooden end. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-maquan-brush.png",
+      "generatedAt": "2026-10-05T03:11:04.341Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "fe51b7fed1872e25ff666f97fe5d714c1cc9a2968154156aa5cad87c445b2c76",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-maquan-brush-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "fadc0dbfcc5565e27b255375516a314f5b5bdda4245e054a7c6019dc61ba7553",
+          "bytes": 41708,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-maquan-brush-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "f4733d52fe0586e8ccc113be08096596ce1817eafc3dcd455420065762262564",
+          "bytes": 154438,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-maquan-gauze",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 马圈湾丝织品. Small faded lake-green silk gauze fragment, visible fine open weave and slight horizontal bands. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-maquan-gauze.png",
+      "generatedAt": "2026-10-05T03:11:26.509Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "b3e248b25429f7eaf009a8e74e86aa6195516b9c6a73a3ae8dc74f0cc16dffc2",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-maquan-gauze-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "b497dc9165d2c9e63ad1880d142f614a39533a39d10b99be0e48cfac2da8b3f2",
+          "bytes": 99658,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-maquan-gauze-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "f0d04037d1480fe8cf7e58e55937dc08315ee342df5011dc8b66c972583b273c",
+          "bytes": 362930,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-changluo-expenses",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 元康五年悬泉置过长罗侯费用簿. One compact set of narrow weathered wooden accounting slips laid together; no readable script. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-changluo-expenses.png",
+      "generatedAt": "2026-10-05T03:11:49.194Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "933cf83906c63d10dbe17739f302ea173f5a7b7546d1caa40f305ac10b433f09",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-changluo-expenses-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "2e5782984535234f0ee3ff08310cb5d61f595be164a5222360ce5721a82dfb81",
+          "bytes": 87327,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-changluo-expenses-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "490130094dce3afcba9f2029ccd93a247d329018cfbee14298918b6be2e6f5cd",
+          "bytes": 291059,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-sick-leave",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 建武三年隧长病书. Three broad weathered wooden writing slips arranged side by side, faint nonlegible ink traces. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-sick-leave.png",
+      "generatedAt": "2026-10-05T03:12:10.034Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "97787bfff21670e824429fbc20021f98018d5fb7c671c1005b83e490f24e071a",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-sick-leave-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "340a32a52b35852b7b9e026082c27408f8681169a367eb83cec2bbca57c73498",
+          "bytes": 91897,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-sick-leave-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "bf6e2839db0953c36cb1250c874db7973c40a73e0f106553f0cfee37b540ddb1",
+          "bytes": 319089,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-seasonal-ban",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 建武六年毋犯四时禁者书. Small group of flat tan wooden slips, dark indistinct ink remnants, broken edges. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-seasonal-ban.png",
+      "generatedAt": "2026-10-05T03:13:02.677Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "e9188e5d4796e12cae2e175e607b12ce67d8ca674b4f159798d2c62854a550f8",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-seasonal-ban-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "47d3c47a267a5d7a762d53fcf22d5315d46b1d5881cf6572213d6b0aff2107fa",
+          "bytes": 91891,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-seasonal-ban-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "74c5dcfb8015d4f4a56ff9302122c996ce4e790bd8ac1229161e7721bf16aa7a",
+          "bytes": 350910,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-document-cover",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 文书检. Flat rectangular wooden document cover with simple shallow channel, subdued worn brown. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-document-cover.png",
+      "generatedAt": "2026-10-05T03:13:24.230Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "cf161c039fc35f45530679ece9d4b75453e58ae1837a5eaf4860412a7000329e",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-document-cover-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "efe16cfe5d0deeb4e15fa14fc378b58a00a1fbd1043a625784b88a90c34844c3",
+          "bytes": 85545,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-document-cover-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "cf053b9a8b3f65ec4e6e0e3a6cccfb4e41351caa8b2d545e3b8c6510eb2fccec",
+          "bytes": 313133,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-discipline-stick",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 侯史广德坐罪行罚檄. Long slender crooked wooden branch with two flattened faces and unworked sides, no readable text. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-discipline-stick.png",
+      "generatedAt": "2026-10-05T03:13:46.784Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "d23c97dc0c8f252cecd1836c1191825e1aaea073dd3ec092bdf651afee4544a7",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-discipline-stick-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "105601f510d8b27d51034ab94868fb49ceeb1d92e7874721f2b09b8464823430",
+          "bytes": 39175,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-discipline-stick-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "76f4174c1980ea1705c10bd2bf7e2aaee37514a88f0194cbc426ee34752627d5",
+          "bytes": 147151,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-gate-pass",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 五凤元年大奴出入关登记文书木简. One broad narrow rectangular dark wooden pass slip, faint blurred ink. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-gate-pass.png",
+      "generatedAt": "2026-10-05T03:14:07.449Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "c9ad9d6e23193f31ef014117054a78ddf2a373466c1baa8c9c517e7d51b468ae",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-gate-pass-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "eba7021d8e4ac0e7c03ec7024de6c261f027e9428e3d584f6e6c25f271a22768",
+          "bytes": 67349,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-gate-pass-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "dc34f6f06280d929719da523334d3970f9a5fec0550e76a28df0e13ccafe3ae1",
+          "bytes": 254658,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-written-hemp-paper",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: “巨阳大利 上缮皂五匹”汉代麻纸. Irregular rectangular yellow-grey coarse hemp paper with fiber remnants; no legible calligraphy. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-written-hemp-paper.png",
+      "generatedAt": "2026-10-05T03:14:30.436Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "a102edb4602d666b409058165fcb35712bcc4fbcfdbf723ed66941ece1e7aed1",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-written-hemp-paper-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "86ad439f4a0eaf06b06f2345c929676d266c0a2ee9167a465f228c6c6cafb80f",
+          "bytes": 109691,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-written-hemp-paper-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "9807ec2cd3c51d4ce9428a3a22dfa7a1dc05035616055518cd5af667fef52985",
+          "bytes": 362978,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-wan-letter",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 万致子恩书. Small worn pale silk letter fragment, rectangular and softly folded; no legible writing. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-wan-letter.png",
+      "generatedAt": "2026-10-05T03:14:51.304Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "5ff1689671cebe6f768759d12c284e18684ba423e905ddd224d82d796b7d6907",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-wan-letter-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "f10f8ceb5a2f77a928cce25a7c754e4cccdf3b2a65464665dc1915f76efed438",
+          "bytes": 67138,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-wan-letter-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "a751d2dbcaae79e9bcaac33b62e869ca5c40f7fd83acfa5bd2c8967a0b099e2c",
+          "bytes": 272396,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-imperial-search",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 甘露二年御史书. Group of very narrow wooden writing slips, faded tan, dark indistinct marks. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-imperial-search.png",
+      "generatedAt": "2026-10-05T03:15:18.070Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "94d1d7a9ea2a611260b6c18faf3e94a414dbdda45ec3756e9b886f85c2ea9a80",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-imperial-search-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "9d8b5565487db6b2cc9ec36aaac5fd32b1038603c1f3ef901e28c2eeb6c4819d",
+          "bytes": 94631,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-imperial-search-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "b8ed5292dce28fda0195162d404674f1bf615809d8effa4a7502fc581f939cbe",
+          "bytes": 322184,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-grain-loan",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 田子渊借粮食. One slender uneven wooden slip with worn edges and blurred ink traces. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-grain-loan.png",
+      "generatedAt": "2026-10-05T03:15:39.962Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "2778ec6cd59cf9ab1cfaa0018d42a602bd8f4d1796224748aa0785367b02742a",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-grain-loan-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "bc033c2a2efac5feba26d1dae893ee6ac95e309820f948de1c6b86cef6d833e1",
+          "bytes": 45433,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-grain-loan-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "ef2d5b9bd8b3773d04ea430c55153d023c8bc53fd9336cd0f857c07a6e125c43",
+          "bytes": 170310,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-qin-wood-map",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 天水放马滩秦木板地图. One display group of four weathered flat wooden boards, abstract sparse non-geographic lines; no words. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-qin-wood-map.png",
+      "generatedAt": "2026-10-05T03:17:07.066Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "7e88c0aab9bd7b94e69097dfed6bbdb161f68c7bd6435efe19555d1149013509",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-qin-wood-map-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "e365b90097ac496b14cec4d97f3af0f494b264ff9a5d052247649431723e3331",
+          "bytes": 110535,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-qin-wood-map-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "1ace7e14cb4fb36790464ceec3ac5ae568ffff72fd76e1efe7fcd75741f2bc62",
+          "bytes": 363772,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-qin-daybook",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 放马滩甲种日书. One grouped set of thin weathered bamboo slips with subtle non-readable ink traces. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-qin-daybook.png",
+      "generatedAt": "2026-10-05T03:17:27.438Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "6a7e20079db76b6675151a65a6155b49fb0a94478e34b9c490a0f55fea4d858e",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-qin-daybook-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "effde54fcb791336ed855e5033d7c555352e14fce22025f93d3ca4de33325cd7",
+          "bytes": 91482,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-qin-daybook-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "c6528bf71a8a65d531dc38bd04b1ffb05347b8d0ba013cce59b093dff94d25f2",
+          "bytes": 305532,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-chicken-register",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 悬泉置元康四年尽十二月丁卯鸡出入簿. Small set of tan narrow wooden accounting slips, laid on flat surface, no legible characters. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-chicken-register.png",
+      "generatedAt": "2026-10-05T03:17:48.212Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "2b6d129381ae46e2ae0931cc81d90183520f3d1bfb9398370ecc926341bfa79c",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-chicken-register-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "a9e061118ad4787bb1a9bf5f4806f5424c6d86a6f5ddd2279c636db5629f5583",
+          "bytes": 70898,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-chicken-register-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "ee3eb285f3d6d6d3f8d95c8fcb4dda2e40b0b66d62d15131fa625f984d7dff73",
+          "bytes": 262489,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-silk-credential",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 张掖都尉棨信. Faded crimson rectangular silk credential with plain cord at top, no legible script. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-silk-credential.png",
+      "generatedAt": "2026-10-05T03:18:16.583Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "c10519d3d5614d9b6b24fd04149fc4b450f790dbee9e211e5032150fb0cc7081",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-silk-credential-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "2ae4a21cbc6a6d0d325a4ada6046d89b8d76a16def0b24ee4608c98b3fc1b014",
+          "bytes": 69352,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-silk-credential-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "41f68f31f156689b0fa9712ab11546df8b6f73cc78840bfc45cf45fa07da7545",
+          "bytes": 261525,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-sword-appraisal",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 相利善敝剑冊. Six slender tan wooden slips with small side notches; no attached modern binding or legible writing. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-sword-appraisal.png",
+      "generatedAt": "2026-10-05T03:18:43.357Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "687a7ea816fdee8de0eb82c36cc85be38835fa5b7e8e119dd81252ba2266a961",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-sword-appraisal-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "2570dd37659f4b6d4573df9a315af2d10f056023ca3afce078bcc0e840f951e7",
+          "bytes": 76709,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-sword-appraisal-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "e5495b6106088d768316b5561fc951c9c65c743d7a637e098b3146de085bc069",
+          "bytes": 263835,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-drum-protocol",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 鼓令册. A small grouped set of weathered wooden document slips, no drum or readable text. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-drum-protocol.png",
+      "generatedAt": "2026-10-05T03:19:09.521Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "5ed5af1d05407e5524394c9e4b6514032b3239629ee07312b062ac1ba2fad674",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-drum-protocol-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "afab54d82042b4dac25996b053a80f9f559332445e126fd6ee6258dab9cbc3c5",
+          "bytes": 76714,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-drum-protocol-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "e82c835f1233ba34bd9622b6d69add65efe85fd4ba9283e6ede43d2736d29477",
+          "bytes": 266255,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gsjd-camel-dispute",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 永光五年康居王使者自言献驼直不如实册. One bound set of thin wooden slips with two remaining plain binding cords, aged brown, no readable script. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/gsjd-camel-dispute.png",
+      "generatedAt": "2026-10-05T03:19:34.783Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "34121c314442c80b88eaec314390aa9f315221213d5588f638f78d4ac62fab08",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/gsjd-camel-dispute-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "ca53428d78868521ce92c4ca004f46fae5fc465a74a676d382c35b72a29bf1f2",
+          "bytes": 95366,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/gsjd-camel-dispute-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "f80f52d895eb3329e51f9270b94115c5eaeabee7bd762ccaa487b8eabcc5ae8e",
+          "bytes": 323052,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-lion-pouches",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 盘金彩绣狮子纹荷包. A pair of gathered silk drawstring pouches with approximate gold lion motifs, cords and small jade rings. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-lion-pouches.png",
+      "generatedAt": "2026-10-05T03:19:56.724Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "1011897eae72f40acf4de23f5c6b8390be1faa2168b8964104f837a3f5010f04",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-lion-pouches-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "58b5df02a9f1728d2268f569c72d8310abfc3cd72e33dbbb68578469e9e8f2ed",
+          "bytes": 102394,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-lion-pouches-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "450421b8a34827be3ee99466b8037c309de448ca3ecb69f0765e89eaad4711c2",
+          "bytes": 342841,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-yellow-knots-pouch",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 黄绸地打籽绣多子多福荷包. Yellow silk pouch with fine dense knotted floral embroidery, soft rounded silhouette. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-yellow-knots-pouch.png",
+      "generatedAt": "2026-10-05T03:20:56.633Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "cd2370b3add12d1bd0a00a3a42a425316414c04fa25eec5117827faa943bedc3",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-yellow-knots-pouch-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "ad1af1acc4e424e8c37719c71342e22e334c0c2a9a91e7be5ae31bfd786dd448",
+          "bytes": 104038,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-yellow-knots-pouch-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "50bd4d744c951296c2760617cd7e81fb0d3d7253c435f0e768bd44a52f724798",
+          "bytes": 341012,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-blue-waist-pouch",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 蓝缎圈金铺绒绣石榴飞雁腰包. Wide blue satin waist pouch with approximate gold outlined pomegranate and flying goose motifs. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-blue-waist-pouch.png",
+      "generatedAt": "2026-10-05T03:21:20.000Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "f3b6a8f3305a68d43855e59df260d67efbcfea185a1b490ce19386d5b3f271cc",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-blue-waist-pouch-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "3144242e87af5cd976135c538e1daf6451c71662726e6098f91cfd8a8198728d",
+          "bytes": 96753,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-blue-waist-pouch-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "f0ecfae729280f295540dba6687f493211fce5a1f48381324d48608009dfd758",
+          "bytes": 305198,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-go-waist-pouch",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 白绸绣桃子围棋腰包. Broad white silk waist pouch edged in black satin, abstract peach and go-board embroidery. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-go-waist-pouch.png",
+      "generatedAt": "2026-10-05T03:21:41.785Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "081a8869769d6ca2409d8ec06ed8073df8506f8fff62904eef8645d1c2543f8e",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-go-waist-pouch-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "2643997dcad0dca4506d952431cb4c4485639826d992da6b3195944d5e46fa54",
+          "bytes": 88267,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-go-waist-pouch-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "5b89971dc7f1a47f77d807de96cee05b1beb0794de03cd5d7e4aa807ad640907",
+          "bytes": 300644,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-bell-ornament",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 红绿缎绣花卉小饰件. Small bell-shaped embroidered silk ornament, red face and green reverse, approximate floral motif. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-bell-ornament.png",
+      "generatedAt": "2026-10-05T03:22:03.056Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "5043d5e50cbe76549e2e68c4239e0d17424614ce6013e85baec65b8ee16825c8",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-bell-ornament-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "0b4aaaeb48d749188a48fb4c9dcd6c1156ebda7eb2dfed67609bdbb0fb9a259c",
+          "bytes": 72813,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-bell-ornament-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "999cd6f2bb1b7cce1f37fc731131a57f41395c4286eb0e4d5c612ace366b07f1",
+          "bytes": 224108,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-calling-card-bag",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 品蓝缎彩绣花卉名片袋. Small long royal-blue satin calling-card pouch, rounded open top, pink edging and restrained floral embroidery. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-calling-card-bag.png",
+      "generatedAt": "2026-10-05T03:22:24.852Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "6db0a9a51616d4660f52f3b7636b8eaac18109799f204d0bccba240b79fc2d41",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-calling-card-bag-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "f65c5b106b8f810e289ea9039d91b6dfbb19fd661fe40bb56a08e6fb4ecc44ea",
+          "bytes": 66294,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-calling-card-bag-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "0cc2ea83b626e1097299cb5b6359486a0301e1ee2f7d67c50b6e191ca9bbfb45",
+          "bytes": 240729,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-double-pouch",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 白缎铺绒绣桃子螃蟹褡裢. One double-ended white satin carrying pouch, center opening, approximate crab and peach embroidery. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-double-pouch.png",
+      "generatedAt": "2026-10-05T03:22:47.984Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "934108833ec167ad77d97a8453e2f14ff8fc434e2243188034f921b8648ae060",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-double-pouch-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "dedf54c9f23e4479a4c18216cd4c7741e15537665c63dae12f731492675d885a",
+          "bytes": 73756,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-double-pouch-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "7638c46cf14c8417e8613961a320f49a7c05110131efbb5fc980e3501e93c003",
+          "bytes": 238133,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-moth-pouch",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 彩绸绣石榴花虫荷包. Moth-like multicolored patchwork silk pouch, pink border and small cord, approximate pomegranate and insect embroidery. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-moth-pouch.png",
+      "generatedAt": "2026-10-05T03:23:10.219Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "95fb0306bd8bcb706834cafdfb225cb356b00d5f2d1ec2eadc49fc74822a480a",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-moth-pouch-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "37898636cb14b61c49bb5fe22fc0aafd6d77ac75cfb4d8dc400a07442f7e673c",
+          "bytes": 103525,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-moth-pouch-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "60afa1932b652e246931b79df70a6d0d761282dd575761f41ebba9585d48e885",
+          "bytes": 346285,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-plum-money-pouch",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 彩绢圈金绣梅花钱袋. Square multicolored silk money pouch with white center, simple plum embroidery, gold outlines and black edge. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-plum-money-pouch.png",
+      "generatedAt": "2026-10-05T03:23:32.771Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "674451989470e72442e5db9ba195ded1e39c9c4b795798941374d0a84ac115eb",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-plum-money-pouch-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "32d5c74524df2e27fb6c36d9828c472f3a17cb375128eebf4ba352a69773b539",
+          "bytes": 115210,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-plum-money-pouch-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "c127ff9c3329f82f7625b0b9a1c4f348ed971b3905606fbc2a78b1eaeb2806f5",
+          "bytes": 391745,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-ming-yesa",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 明代曲水如意云纹暗花缎曳撒袍. Brown silk damask robe, crossed collar closing right, straight sleeves and pleated skirt below waist, empty garment laid flat. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-ming-yesa.png",
+      "generatedAt": "2026-10-05T03:27:03.415Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "d55fbd1a02c9856ef0fbc2d31f1950bc55ba73d42cc06caa96462fa1348b302d",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-ming-yesa-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "f8d683ff3e346e0e8ed6779b0ee5e28dae8ca27aeb77f48676ce75d3dc5bf0d7",
+          "bytes": 82149,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-ming-yesa-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "ee7bfd693704fcedf8f095244ef2e434bb4732c843365ac1e8cb97e46613f178",
+          "bytes": 265421,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-cloud-fragment",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 四合云纹绮寿衣. One heavily fragmented silk cloth with subtle approximate four-part cloud pattern; not a complete robe. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-cloud-fragment.png",
+      "generatedAt": "2026-10-05T03:27:34.906Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "951e5b1f288573f65e20ec39dfb967fa353c352d8f604e47e9f9a1f6b14a6cfc",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-cloud-fragment-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "9b2c1209e36a36f53402c5dd82d0f2a7d5f517eada019b6017ac256b6a39d48e",
+          "bytes": 108591,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-cloud-fragment-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "82e942325a9aff6dc4871694ee9bde7d451f63bfb76d4a89811bdb78e02712c3",
+          "bytes": 352992,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-ruyi-shoes",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 辑线绣如意纹缎鞋. A pair of small yellow satin cloth shoes, low sides, approximate raised cord ruyi embroidery. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-ruyi-shoes.png",
+      "generatedAt": "2026-10-05T03:28:01.124Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "dea02922cb1c3b71df4eb5c4b3b560833316b494425191bf65ecb127b99c26ea",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-ruyi-shoes-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "98ee3870f57341acc4c6750c0f055985657ab7f6299f8127dafbdd70c77ce418",
+          "bytes": 68141,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-ruyi-shoes-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "d90d7771a745be2499fbc04e9a30e87c4fc646a964cee5769ffbd1649343cd33",
+          "bytes": 213513,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-padded-socks",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 绢面绵袜. A pair of low pale silk padded cloth socks, soft worn texture, no feet or mannequin. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-padded-socks.png",
+      "generatedAt": "2026-10-05T03:28:21.059Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "9fa9c953d5764058b3cb7b01944725d5c0cef8e84c7b12c19e2aae456b37895d",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-padded-socks-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "0221c751a07e1ecf33da3d70d2dc366f2327a7032882d318f71a39cb0ac2d17a",
+          "bytes": 55728,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-padded-socks-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "864766c92d2697b810a9f54e3675e0632f63b8cf063d6acf4371a28ac634ae0f",
+          "bytes": 181211,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-peony-satin-shoe",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 刺绣牡丹花纹缎鞋. ONE small worn yellow satin cloth shoe with approximate embroidered peony; no second shoe. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-peony-satin-shoe.png",
+      "generatedAt": "2026-10-05T03:28:41.197Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "18324e2cec12ce74342b83aa7e10ec24b4330ac795055af780b699f23ee97161",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-peony-satin-shoe-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "b413ece2298c54ed479abcafcf01701f3b59f29e545fd282d3af5b37e0daf7cc",
+          "bytes": 67201,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-peony-satin-shoe-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "a7d59c17d3471765eb64d4cbbed7c5408aa75fecc1345120118ee217bccf8eb7",
+          "bytes": 213590,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-gold-peony-shoes",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 钉金绣牡丹花纹缎鞋. A pair of yellow satin cloth shoes with approximate couching gold peony embroidery. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-gold-peony-shoes.png",
+      "generatedAt": "2026-10-05T03:29:01.974Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "6121d9bdb1262003b1dbaad8430e464735c66f29ebb7b153a0839d37a235063c",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-gold-peony-shoes-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "df169199fd44a861ac07d5966413fbf4e4ce52a15dfd7555d0712a0f5fbe0cd0",
+          "bytes": 81789,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-gold-peony-shoes-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "d36a913eeec8a133efd4246e1842d510f9125c2442ced394502398e6f2a9a345",
+          "bytes": 255057,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-plain-skirt",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 素纱裙. Yellow pleated silk skirt laid flat, wide central panels, gentle worn fabric, no mannequin. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-plain-skirt.png",
+      "generatedAt": "2026-10-05T03:29:22.186Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "fcadb48c0c99e7b292d6d49130bb783ffeac237d4d271c8457059036799dcca0",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-plain-skirt-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "751e7fb08ea834994980fa25fc2b7d045d6eeff25d57c2bb7629fc048ed0cbf9",
+          "bytes": 74006,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-plain-skirt-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "3b3a4535b4a17c12e5409a54becbaa1970c4da242d1646fed4c3a417ddeca5eb",
+          "bytes": 237406,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-long-jacket",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 卍字田格纹绮长袖夹衣. Yellow long-sleeved open-front straight-collar silk jacket laid flat, plain edging, faint abstract geometric grid. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-long-jacket.png",
+      "generatedAt": "2026-10-05T03:29:42.947Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "74e7c70e0e1cf2be870988e69394da3c98956acd6b6f53140a1181ba4a7f8099",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-long-jacket-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "052995ce2390279cdde9004262566f36c87dad7e4d7963dcd75e4f0f21c1b0e6",
+          "bytes": 59411,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-long-jacket-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "d5c3f2c36157b2e9a8bde297b27f3a6bfbe343c01c8ba292f6558c707a850a99",
+          "bytes": 197897,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-short-jacket",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 绣花卉纹缘素罗短袖夹衣. Yellow short-sleeved open-front silk jacket with floral collar edging, two plain ties and side slits. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-short-jacket.png",
+      "generatedAt": "2026-10-05T03:31:12.673Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "17a15f365e354cf54c8f6d78135597b05785d17b2d954e2e8177a0000040d948",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-short-jacket-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "e36928ab658e35e2e5ccfc3c790979624b392d966e84804d5540dcb45564cb3c",
+          "bytes": 72257,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-short-jacket-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "aceb624e40b46aa9e8f206ce0356b219af7cb8ad3330a84cea17b41bb610435e",
+          "bytes": 235855,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-patched-robe",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 黄色素罗绣花方补交领袍. Fragmentary yellow cross-collar silk robe, worn gaps and a plain approximate square chest patch; no rank animal. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-patched-robe.png",
+      "generatedAt": "2026-10-05T03:31:35.026Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "2a8af7e302a4e460bc04cc01febb312adf4831b58ef367940ea85e4ad32539b3",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-patched-robe-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "f4b2a49d477e2e93520b6e9da99612447e6d7b96e0f72bc82e9b9f764ac1646e",
+          "bytes": 89731,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-patched-robe-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "62542d84563da4f12a2b5bb9bf06b64663460356a0135c3af98b04364a84b472",
+          "bytes": 294051,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "csm-padded-trousers",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 黄色缠枝花卉暗花缎绵裤. Wide-legged yellow silk padded trousers with faint approximate scrolling floral damask pattern, laid flat. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/csm-padded-trousers.png",
+      "generatedAt": "2026-10-05T03:31:55.167Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "11feb2cea69ee6fecb940614a2750aebc35b97b7ed7db114f90314e6c5e1a174",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/csm-padded-trousers-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "e61ca7e8ebc84bae06b85d44558d6a97c0fd06bf6b67aab8e86fc1cabaef1ec1",
+          "bytes": 82991,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/csm-padded-trousers-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "1962fc2f335fd2f60f3a97be449eeaf88bde2fdca3f6362130305f7c6f250b6f",
+          "bytes": 274450,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cs-yuyang-cup-box",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 云纹漆具杯盒. Oval black lacquer wooden box, red interior, round end handles and small nested ear cups, muted cloud decoration. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/cs-yuyang-cup-box.png",
+      "generatedAt": "2026-10-05T03:32:17.865Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "62513823f9e86d2eaff235a619b744e7b3c7ded74d9218b4386e11cea4682c91",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/cs-yuyang-cup-box-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "799d001d3a05e38d544be33d3b78db95177b9073840bf41ab33e0c5797f40c4e",
+          "bytes": 71920,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/cs-yuyang-cup-box-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "b9f9db743cdd8ac56efa465ff839c9982ac9738250c46c550b79ac48481a5e7a",
+          "bytes": 221205,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cs-yuyang-triangle-cup",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: “渔阳”三角纹漆耳杯. Black outside and red inside oval lacquer ear cup, two flat handles, approximate red triangle border; no words. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/cs-yuyang-triangle-cup.png",
+      "generatedAt": "2026-10-05T03:32:37.608Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "a95d5b36dcfe37958197184e7d96b1c280128673a6a91ed765ea41a8cc92d610",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/cs-yuyang-triangle-cup-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "b9eef739ac2051524cb7400712105d1e1071d1462ef44b451eb64333e55d586f",
+          "bytes": 51313,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/cs-yuyang-triangle-cup-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "038fe87fbd089a433a64101772d18ca71d3aba1d1443a7223fccfc908c532a54",
+          "bytes": 165918,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cs-yuyang-phoenix-cup",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: “渔阳”凤纹漆耳杯. Oval black and red lacquer ear cup, two handles, restrained approximate phoenix and cloud motif; no inscriptions. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/cs-yuyang-phoenix-cup.png",
+      "generatedAt": "2026-10-05T03:32:59.054Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "06697e5570991e76370fa9868c35372599a9887230891587b478fcc2307d0231",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/cs-yuyang-phoenix-cup-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "d487548f38fa163ca33c3d3473706122706a1f182b08559c4450d6668407349f",
+          "bytes": 71553,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/cs-yuyang-phoenix-cup-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "c1cc1bd417beb797bff340def11cb9713369fe5354d4a65345aeaffdc678043c",
+          "bytes": 221685,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cs-changsha-seal-case",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: “长沙后府”封泥匣. Small rectangular case with central shallow recessed clay seal, worn earth tones, no legible seal characters. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/cs-changsha-seal-case.png",
+      "generatedAt": "2026-10-05T03:33:20.456Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "299f4f5d09d983b7b0f0ac9c1185e8ac77553cea981dedc5ee0f4e26afbdd5d8",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/cs-changsha-seal-case-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "139cc4f979bd9a84688e0b75151ec1e88fe2c6b4df8ec47fb3fc5ade43a0814e",
+          "bytes": 75028,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/cs-changsha-seal-case-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "af15f91822ef4aca829cf08ba4ab524488611f246266cad25ad78ca262896bb3",
+          "bytes": 234781,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cs-yuyang-game-board",
+      "prompt": "Independent educational AI conceptual illustration, NOT original museum photography or exact reconstruction. Subject: 博局盘. Square black lacquer game board with shallow angular channels and raised base, approximate cloud decoration, no counters. Entire object or explicitly stated set alone, centered with generous margins on warm off-white paper background, realistic restrained material rendering, muted palette, diffuse light, soft shadow, square catalogue composition. No people, mannequin, logos, watermark, labels or legible inscriptions. No invented readable writing or exact original weaving, seal, map or ornament details. Preserve fragmentary state and specified single/pair/set count. Approximate visualization only.",
+      "originalFile": "assets/expansion/originals/tranche-04/cs-yuyang-game-board.png",
+      "generatedAt": "2026-10-05T03:33:56.549Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括形制、画面与无可读伪造文字；不是原貌核验，历史细部待核。",
+      "originalSha256": "11680a100b46f29942d1228fdb7a32938ed7a3ed81e870666db081c13bccaabe",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-04/cs-yuyang-game-board-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "85860c81acefa26b798887b473a665c145b1f42b1d1d1cfda2badf6e711638b2",
+          "bytes": 81481,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-04/cs-yuyang-game-board-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "1f0cc5d55fc4ee63e95057d9f37dc13dee5178faa9c1f47542177501d8d09c7f",
+          "bytes": 255905,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    }
+  ]
+}

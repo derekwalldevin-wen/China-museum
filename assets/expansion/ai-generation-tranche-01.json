@@ -1,0 +1,95 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "items": [
+    {
+      "id": "gb-jade-rabbit",
+      "prompt": "ONE standalone AI educational illustration of 西周兔形玉佩, National Museum of China. A flat thin double-sided carved pale celadon green jade rabbit pendant, shown clearly in side silhouette: crouching lying rabbit, legs extended forward, long ears swept backward along back, large rounded rump, tiny tail tip lifted, round eye, small suspension perforation near mouth. Jade is weathered muted translucent green, not a furry living rabbit and not a three-dimensional figurine. General form only, simplified grooves, no invented inscriptions or archaeological scene. Warm ivory parchment textured background, soft diffused studio light, refined realistic-material illustration matching digital ink-scroll museum, whole object with margin, square composition. No text, logos, border, humans or extra objects. AI interpretation, not authentic artifact photograph.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-76c76a69-34d4-45cf-b882-501daef83620.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立器物示意，总体形制可读；细部为AI阐释，非匹配原作影像。"
+    },
+    {
+      "id": "gb-jade-fish",
+      "prompt": "ONE standalone AI educational illustration of 西周鱼形玉佩, National Museum of China. A thin flat carved pale celadon green jade fish pendant, gently curved crescent-like fish body, a large round eye, small drilled round suspension hole at mouth, NO scales, dorsal fin indicated by restrained incised contour and fine slant lines, belly fin only simple contour, outward-splaying bifurcated tail. Muted weathered green jade, side profile laid against a warm ivory parchment textured background, soft diffused studio light, elegant realistic-material illustration for an ink-scroll museum. Whole object centered with margin, square composition. No text, logos, frame, human or additional objects. Modern AI interpretation, not an exact reconstruction or photograph; do not invent lettering.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-94ff14d0-c1f8-48b0-8d89-760466e663eb.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立器物示意，总体形制可读；细部为AI阐释，非匹配原作影像。"
+    },
+    {
+      "id": "sz-proto-he",
+      "prompt": "Produce ONE independent square museum educational AI illustration, one complete object with generous margins, warm ivory paper-texture backdrop, soft diffuse light, refined realistic material rendering compatible with a Chinese ink-scroll website. No captions, letters, logos, people, display-case reflections or extra objects. Explicitly an approximate modern AI interpretation, not a true museum photograph or an exact replica; do not invent inscriptions or fine archaeological details. A Warring States proto-celadon ceramic three-legged he pouring vessel with a tall overhead loop bail handle, subdued olive-brown primitive glaze, compact rounded body and pouring spout. Official Shenzhen Museum record: height23cm, mouth diameter7.3cm. Show the general vessel architecture, not shiny later celadon.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-d6925078-5f56-4b7d-88e6-8dc2a5875dcf.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立器物示意，总体形制可读；细部为AI阐释，非匹配原作影像。"
+    },
+    {
+      "id": "sz-shufu-bowl",
+      "prompt": "Produce ONE independent square museum educational AI illustration, one complete object with generous margins, warm ivory paper-texture backdrop, soft diffuse light, refined realistic material rendering compatible with a Chinese ink-scroll website. No captions, letters, logos, people, display-case reflections or extra objects. Explicitly an approximate modern AI interpretation, not a true museum photograph or an exact replica; do not invent inscriptions or fine archaeological details. A Yuan dynasty egg-white-glazed porcelain bowl, height9cm, mouth20cm and base7cm. Soft slightly bluish ivory glaze, elegant rounded bowl and small circular foot. No rendered '枢府' lettering: leave any inscription area blank and keep shallow ornament vague. General silhouette only.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-77a52190-149d-433d-8be5-006144b8388e.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立器物示意，总体形制可读；细部为AI阐释，非匹配原作影像。"
+    },
+    {
+      "id": "sz-tricolor-horse",
+      "prompt": "Produce ONE independent square museum educational AI illustration, one complete object with generous margins, warm ivory paper-texture backdrop, soft diffuse light, refined realistic material rendering compatible with a Chinese ink-scroll website. No captions, letters, logos, people, display-case reflections or extra objects. Explicitly an approximate modern AI interpretation, not a true museum photograph or an exact replica; do not invent inscriptions or fine archaeological details. A Tang sancai glazed pottery WHITE horse, standing firmly with all four legs and head upright, compact powerful form. Predominantly ivory-white body, restrained amber and green glaze accents on tack only. Official object is height57.3cm,length60.5cm,width20cm; do not add a rider or a camel. General silhouette without inventing authentic decorative detail.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-49c04916-8f5d-490a-bd1a-038917c853e7.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立器物示意，总体形制可读；细部为AI阐释，非匹配原作影像。"
+    },
+    {
+      "id": "sz-black-pot",
+      "prompt": "Produce ONE independent square museum educational AI illustration, one complete object with generous margins, warm ivory paper-texture backdrop, soft diffuse light, refined realistic material rendering compatible with a Chinese ink-scroll website. No captions, letters, logos, people, display-case reflections or extra objects. Explicitly an approximate modern AI interpretation, not a true museum photograph or an exact replica; do not invent inscriptions or fine archaeological details. A Western Han black pottery two-handled jar in the Shenzhen Museum: matte dark-gray black ceramic, rounded body, broad round mouth, two modest opposing handles, small raised copper bosses indicated sparingly. Height20.5cm,mouth diameter13.4cm. Do not add text, painted patterns, golden metal body or lids. Show only approximate general form.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-aee09d9e-50d1-46af-83b7-c3e475e8aae8.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立器物示意，总体形制可读；细部为AI阐释，非匹配原作影像。"
+    },
+    {
+      "id": "cd-hunting-pot",
+      "prompt": "Create ONE independent square modern AI museum learning illustration, whole artifact centered with clear generous margin, warm ivory parchment textured backdrop, soft diffuse studio light, sophisticated realistic-material rendering for Chinese ink-scroll museum website. No text, no labels, no fabricated readable glyphs, no frame or people. Not a photograph nor exact historical reconstruction; simplify motifs and never invent archaeological context. Warring States bronze hu jar from Chengdu: slightly flaring mouth, long slender neck, oval rounded belly, low ring foot, symmetric beast-mask ring handles at shoulders. Height41.4cm,bellydiameter26cm. Muted dark green bronze patina. Seven faint horizontal decoration bands, abstract sparse traces only, do not render specific hunting scenes or invented figures.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-f85b9a16-84ad-482a-bd93-3c05f8f9fafb.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立器物示意，总体形制可读；细部为AI阐释，非匹配原作影像。"
+    },
+    {
+      "id": "cd-silkworm-ge",
+      "prompt": "Create ONE independent square modern AI museum learning illustration, whole artifact centered with clear generous margin, warm ivory parchment textured backdrop, soft diffuse studio light, sophisticated realistic-material rendering for Chinese ink-scroll museum website. No text, no labels, no fabricated readable glyphs, no frame or people. Not a photograph nor exact historical reconstruction; simplify motifs and never invent archaeological context. Warring States bronze ge dagger-axe head, no wooden shaft: flat horizontal blade with sharp tapering tip, a short rectangular attachment tang, length25.2cm,width6.3cm. A restrained simplified silkworm-like engraved oval indication on tang and faint abstract beast-mask ornament at blade base. Dark green weathered bronze, side plan-view, no inscriptions. Not a sword, not a full axe with a handle.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-2456f7df-8727-4e82-bfc0-6bcac83a5999.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立器物示意，总体形制可读；细部为AI阐释，非匹配原作影像。"
+    },
+    {
+      "id": "cd-bashu-ladle",
+      "prompt": "Create ONE independent square modern AI museum learning illustration, whole artifact centered with clear generous margin, warm ivory parchment textured backdrop, soft diffuse studio light, sophisticated realistic-material rendering for Chinese ink-scroll museum website. No text, no labels, no fabricated readable glyphs, no frame or people. Not a photograph nor exact historical reconstruction; simplify motifs and never invent archaeological context. Warring States bronze shallow round ladle from Chengdu: round shallow bowl diameter8.4cm with a short flat handle7.3cm, archaic restrained design. Muted dark green patina, simple faint fish, bird and turtle outline indications in bowl, not letters and not claimed exact glyph reconstruction. Show whole bowl and handle from slightly raised three-quarter view.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-993caa1e-14ff-4735-a35b-80078600d0ad.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立器物示意，总体形制可读；细部为AI阐释，非匹配原作影像。"
+    },
+    {
+      "id": "cd-stone-rhino",
+      "prompt": "Create ONE independent square modern AI museum learning illustration, whole artifact centered with clear generous margin, warm ivory parchment textured backdrop, soft diffuse studio light, sophisticated realistic-material rendering for Chinese ink-scroll museum website. No text, no labels, no fabricated readable glyphs, no frame or people. Not a photograph nor exact historical reconstruction; simplify motifs and never invent archaeological context. Ancient Chengdu monumental stone rhinoceros sculpture, dated late Warring States to Han, shown without landscape context. Robust rounded heavy gray stone trunk, short thick four legs, small modest head, barely indicated abstract cloud curls around lower jaw and front body. No dramatic large horn, no modern natural-history animal skin, no ritual narrative. Whole squat sculpture in three-quarter view, no pedestal. Its specific connection with Li Bing is uncertain, do not illustrate that story.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-ef2b21cb-6368-4f95-8636-ac2159bcab5b.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立器物示意，总体形制可读；细部为AI阐释，非匹配原作影像。"
+    }
+  ]
+}

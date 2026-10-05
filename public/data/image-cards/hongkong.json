@@ -1,0 +1,151 @@
+{
+ "museumId": "hongkong",
+ "records": {
+  "hk-lsf": {
+   "image": {
+    "src": "/artifacts/hk-lsf.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/28010bf973fce461-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/28010bf973fce461-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/28010bf973fce461-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "hk-hrz": {
+   "image": {
+    "src": "/artifacts-v2/p1/hk-hrz.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/4a435023095be1a5-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/4a435023095be1a5-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/4a435023095be1a5-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/4a435023095be1a5-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifacts/hk-hrz.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/6f07992e05f71800-card-w240.webp",
+        "width": 240,
+        "height": 141
+       },
+       {
+        "src": "/artifact-responsive/6f07992e05f71800-card-w400.webp",
+        "width": 400,
+        "height": 236
+       },
+       {
+        "src": "/artifact-responsive/6f07992e05f71800-card-w640.webp",
+        "width": 640,
+        "height": 377
+       },
+       {
+        "src": "/artifact-responsive/6f07992e05f71800-card-w900.webp",
+        "width": 900,
+        "height": 530
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "hk-jgb": {
+   "image": {
+    "src": "/artifacts-v2/p1/hk-jgb.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/bb755728e761d203-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/bb755728e761d203-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/bb755728e761d203-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/bb755728e761d203-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifact-sources/official/hk-jgb.png",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/2a68ca8c7c54fbc3-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/2a68ca8c7c54fbc3-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/2a68ca8c7c54fbc3-card-w600.webp",
+        "width": 600,
+        "height": 600
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  }
+ }
+}

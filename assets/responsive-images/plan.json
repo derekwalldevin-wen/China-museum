@@ -4812,6 +4812,3966 @@
           }
         }
       }
+    },
+    "gb-jade-rabbit": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/gb-jade-rabbit-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-01/gb-jade-rabbit-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/gb-jade-rabbit-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-jade-fish": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/gb-jade-fish-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-01/gb-jade-fish-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/gb-jade-fish-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-hunting-pot": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/cd-hunting-pot-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-01/cd-hunting-pot-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/cd-hunting-pot-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-silkworm-ge": {
+      "hold": false,
+      "shape": "axe",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/cd-silkworm-ge-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-01/cd-silkworm-ge-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/cd-silkworm-ge-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-bashu-ladle": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/cd-bashu-ladle-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-01/cd-bashu-ladle-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/cd-bashu-ladle-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-stone-rhino": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/cd-stone-rhino-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-01/cd-stone-rhino-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/cd-stone-rhino-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-proto-he": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/sz-proto-he-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-01/sz-proto-he-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/sz-proto-he-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-shufu-bowl": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/sz-shufu-bowl-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-01/sz-shufu-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/sz-shufu-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-tricolor-horse": {
+      "hold": false,
+      "shape": "horse",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/sz-tricolor-horse-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-01/sz-tricolor-horse-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/sz-tricolor-horse-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-black-pot": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/sz-black-pot-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-01/sz-black-pot-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-01/sz-black-pot-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-lacquer-dou": {
+      "hold": false,
+      "shape": "lacquer",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/cd-lacquer-dou-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/cd-lacquer-dou-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/cd-lacquer-dou-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-meridian-lacquer-model": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/cd-meridian-lacquer-model-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/cd-meridian-lacquer-model-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/cd-meridian-lacquer-model-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-linghua-lian": {
+      "hold": false,
+      "shape": "lacquer",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-linghua-lian-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gb-linghua-lian-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-linghua-lian-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-landscape-brushpot": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-landscape-brushpot-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gb-landscape-brushpot-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-landscape-brushpot-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-medicine-lacquer-cabinet": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-medicine-lacquer-cabinet-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gb-medicine-lacquer-cabinet-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-medicine-lacquer-cabinet-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-bone-inlay-storage-box": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-bone-inlay-storage-box-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gb-bone-inlay-storage-box-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-bone-inlay-storage-box-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-red-panpipes": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-red-panpipes-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gb-red-panpipes-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-red-panpipes-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-folding-table": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-folding-table-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gb-folding-table-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-folding-table-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-basin-stand": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-basin-stand-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gb-basin-stand-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-basin-stand-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-red-embroidered-skirt": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-red-embroidered-skirt-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gb-red-embroidered-skirt-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-red-embroidered-skirt-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-blue-gauze-jacket": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-blue-gauze-jacket-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gb-blue-gauze-jacket-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-blue-gauze-jacket-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-fish-embroidered-shoes": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-fish-embroidered-shoes-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gb-fish-embroidered-shoes-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-fish-embroidered-shoes-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-goose-kesi": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-goose-kesi-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gb-goose-kesi-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-goose-kesi-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gg-shen-meique-kesi": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gg-shen-meique-kesi-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gg-shen-meique-kesi-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gg-shen-meique-kesi-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-peony-gold-satin": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-peony-gold-satin-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gb-peony-gold-satin-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gb-peony-gold-satin-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gg-chrysanthemum-lacquer-dish": {
+      "hold": false,
+      "shape": "lacquer",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gg-chrysanthemum-lacquer-dish-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/gg-chrysanthemum-lacquer-dish-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/gg-chrysanthemum-lacquer-dish-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hb-heifu-letter": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/hb-heifu-letter-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/hb-heifu-letter-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/hb-heifu-letter-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hb-xiaolv-slips": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/hb-xiaolv-slips-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/hb-xiaolv-slips-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/hb-xiaolv-slips-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "hb-longgang-tablet": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/hb-longgang-tablet-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/hb-longgang-tablet-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/hb-longgang-tablet-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-bamboo-brushpot": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/sz-bamboo-brushpot-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-02/sz-bamboo-brushpot-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-02/sz-bamboo-brushpot-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-comic-figure": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-comic-figure-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-comic-figure-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-comic-figure-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-stone-bear": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-stone-bear-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-stone-bear-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-stone-bear-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-chenghan-figure": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-chenghan-figure-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-chenghan-figure-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-chenghan-figure-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-pottery-courtyard": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-pottery-courtyard-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-pottery-courtyard-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-pottery-courtyard-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-qiong-kiln-censer": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-qiong-kiln-censer-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-qiong-kiln-censer-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-qiong-kiln-censer-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-bronze-chess": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-bronze-chess-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-bronze-chess-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-bronze-chess-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-ding-child-pillow": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-ding-child-pillow-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-ding-child-pillow-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-ding-child-pillow-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-gold-hairpin": {
+      "hold": false,
+      "shape": "gold",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-gold-hairpin-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-gold-hairpin-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-gold-hairpin-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-agate-snuff-bottle": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-agate-snuff-bottle-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-agate-snuff-bottle-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-agate-snuff-bottle-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-peacock-bowl": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-peacock-bowl-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-peacock-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-peacock-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-ge-ewer": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-ge-ewer-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-ge-ewer-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-ge-ewer-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-bat-vase": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-bat-vase-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-bat-vase-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-bat-vase-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-dragon-belt-hook": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-dragon-belt-hook-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-dragon-belt-hook-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-dragon-belt-hook-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-attendant-figure": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-attendant-figure-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-attendant-figure-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-attendant-figure-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cd-beast-lei": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-beast-lei-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/cd-beast-lei-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/cd-beast-lei-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-pottery-well": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-pottery-well-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-pottery-well-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-pottery-well-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-double-box": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-double-box-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-double-box-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-double-box-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-incense-burner": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-incense-burner-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-incense-burner-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-incense-burner-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-marble-bowl": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-marble-bowl-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-marble-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-marble-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-marble-pillow": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-marble-pillow-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-marble-pillow-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-marble-pillow-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-pottery-dog": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-pottery-dog-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-pottery-dog-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-pottery-dog-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-ewer-basin": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-ewer-basin-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-ewer-basin-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-ewer-basin-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-oil-lamp": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-oil-lamp-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-oil-lamp-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-oil-lamp-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-inlaid-table": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-inlaid-table-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-inlaid-table-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-inlaid-table-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-stone-paddle": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-stone-paddle-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-stone-paddle-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-stone-paddle-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-tin-gourd-ewer": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-tin-gourd-ewer-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-tin-gourd-ewer-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-tin-gourd-ewer-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-carved-brushpot": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-carved-brushpot-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-carved-brushpot-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-carved-brushpot-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-warming-copper-stove": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-warming-copper-stove-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-warming-copper-stove-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-warming-copper-stove-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-grooved-stone": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-grooved-stone-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-grooved-stone-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-grooved-stone-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-perforated-shovel": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-perforated-shovel-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-perforated-shovel-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-perforated-shovel-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-crystal-point": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-crystal-point-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-crystal-point-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-crystal-point-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-stone-adze": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-stone-adze-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-stone-adze-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-stone-adze-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-paper-cut-bowl": {
+      "hold": false,
+      "shape": "bowl",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-paper-cut-bowl-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-paper-cut-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-paper-cut-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-yue-box": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-yue-box-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-yue-box-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-yue-box-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-birch-milk-tube": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-birch-milk-tube-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/gb-birch-milk-tube-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-birch-milk-tube-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-dade-coin": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-dade-coin-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/gb-dade-coin-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-dade-coin-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-guobao-coin": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-guobao-coin-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/gb-guobao-coin-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-guobao-coin-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-wuzhu-mould": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-wuzhu-mould-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/gb-wuzhu-mould-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-wuzhu-mould-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-small-banliang": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-small-banliang-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/gb-small-banliang-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-small-banliang-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-jade-crab-inkstone": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-jade-crab-inkstone-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/gb-jade-crab-inkstone-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-jade-crab-inkstone-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gb-jade-bamboo-brushpot": {
+      "hold": false,
+      "shape": "jade",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-jade-bamboo-brushpot-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/gb-jade-bamboo-brushpot-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/gb-jade-bamboo-brushpot-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-white-dragon-ewer": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-white-dragon-ewer-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-white-dragon-ewer-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-white-dragon-ewer-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-tricolor-flat-flask": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-tricolor-flat-flask-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-tricolor-flat-flask-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-tricolor-flat-flask-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-celadon-ewer": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-celadon-ewer-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-celadon-ewer-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-celadon-ewer-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "sz-changsha-ewer": {
+      "hold": false,
+      "shape": "pot",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-changsha-ewer-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-03/sz-changsha-ewer-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-03/sz-changsha-ewer-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-medicine-paper": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-medicine-paper-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-medicine-paper-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-medicine-paper-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-maquan-brush": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-maquan-brush-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-maquan-brush-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-maquan-brush-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-maquan-gauze": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-maquan-gauze-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-maquan-gauze-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-maquan-gauze-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-changluo-expenses": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-changluo-expenses-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-changluo-expenses-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-changluo-expenses-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-sick-leave": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-sick-leave-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-sick-leave-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-sick-leave-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-seasonal-ban": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-seasonal-ban-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-seasonal-ban-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-seasonal-ban-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-document-cover": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-document-cover-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-document-cover-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-document-cover-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-discipline-stick": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-discipline-stick-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-discipline-stick-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-discipline-stick-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-gate-pass": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-gate-pass-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-gate-pass-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-gate-pass-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-written-hemp-paper": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-written-hemp-paper-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-written-hemp-paper-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-written-hemp-paper-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-wan-letter": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-wan-letter-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-wan-letter-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-wan-letter-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-imperial-search": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-imperial-search-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-imperial-search-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-imperial-search-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-grain-loan": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-grain-loan-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-grain-loan-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-grain-loan-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-qin-wood-map": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-qin-wood-map-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-qin-wood-map-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-qin-wood-map-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-qin-daybook": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-qin-daybook-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-qin-daybook-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-qin-daybook-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-chicken-register": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-chicken-register-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-chicken-register-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-chicken-register-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-silk-credential": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-silk-credential-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-silk-credential-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-silk-credential-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-sword-appraisal": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-sword-appraisal-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-sword-appraisal-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-sword-appraisal-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-drum-protocol": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-drum-protocol-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-drum-protocol-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-drum-protocol-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "gsjd-camel-dispute": {
+      "hold": false,
+      "shape": "stele",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-camel-dispute-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/gsjd-camel-dispute-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/gsjd-camel-dispute-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-lion-pouches": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-lion-pouches-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-lion-pouches-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-lion-pouches-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-yellow-knots-pouch": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-yellow-knots-pouch-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-yellow-knots-pouch-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-yellow-knots-pouch-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-blue-waist-pouch": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-blue-waist-pouch-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-blue-waist-pouch-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-blue-waist-pouch-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-go-waist-pouch": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-go-waist-pouch-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-go-waist-pouch-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-go-waist-pouch-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-bell-ornament": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-bell-ornament-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-bell-ornament-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-bell-ornament-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-calling-card-bag": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-calling-card-bag-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-calling-card-bag-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-calling-card-bag-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-double-pouch": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-double-pouch-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-double-pouch-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-double-pouch-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-moth-pouch": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-moth-pouch-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-moth-pouch-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-moth-pouch-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-plum-money-pouch": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-plum-money-pouch-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-plum-money-pouch-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-plum-money-pouch-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-ming-yesa": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-ming-yesa-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-ming-yesa-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-ming-yesa-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-cloud-fragment": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-cloud-fragment-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-cloud-fragment-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-cloud-fragment-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-padded-socks": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-padded-socks-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-padded-socks-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-padded-socks-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-ruyi-shoes": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-ruyi-shoes-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-ruyi-shoes-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-ruyi-shoes-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-peony-satin-shoe": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-peony-satin-shoe-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-peony-satin-shoe-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-peony-satin-shoe-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-gold-peony-shoes": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-gold-peony-shoes-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-gold-peony-shoes-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-gold-peony-shoes-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-plain-skirt": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-plain-skirt-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-plain-skirt-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-plain-skirt-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-long-jacket": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-long-jacket-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-long-jacket-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-long-jacket-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-short-jacket": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-short-jacket-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-short-jacket-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-short-jacket-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-patched-robe": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-patched-robe-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-patched-robe-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-patched-robe-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "csm-padded-trousers": {
+      "hold": false,
+      "shape": "textile",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-padded-trousers-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/csm-padded-trousers-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/csm-padded-trousers-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cs-yuyang-cup-box": {
+      "hold": false,
+      "shape": "lacquer",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/cs-yuyang-cup-box-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/cs-yuyang-cup-box-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/cs-yuyang-cup-box-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cs-yuyang-triangle-cup": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/cs-yuyang-triangle-cup-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/cs-yuyang-triangle-cup-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/cs-yuyang-triangle-cup-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cs-yuyang-phoenix-cup": {
+      "hold": false,
+      "shape": "cup",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/cs-yuyang-phoenix-cup-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/cs-yuyang-phoenix-cup-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/cs-yuyang-phoenix-cup-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cs-changsha-seal-case": {
+      "hold": false,
+      "shape": "seal",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/cs-changsha-seal-case-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/cs-changsha-seal-case-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/cs-changsha-seal-case-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cs-yuyang-game-board": {
+      "hold": false,
+      "shape": "lacquer",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/cs-yuyang-game-board-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-04/cs-yuyang-game-board-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-04/cs-yuyang-game-board-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-stone-spade": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-stone-spade-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-stone-spade-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-stone-spade-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-drum-pot": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-drum-pot-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-drum-pot-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-drum-pot-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-pottery-yan": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-pottery-yan-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-pottery-yan-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-pottery-yan-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-pottery-dui": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-pottery-dui-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-pottery-dui-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-pottery-dui-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-pigsty-latrine": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-pigsty-latrine-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-pigsty-latrine-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-pigsty-latrine-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-mother-candlestick": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-mother-candlestick-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-mother-candlestick-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-mother-candlestick-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-dabu-coin": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-dabu-coin-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-dabu-coin-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-dabu-coin-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-measuring-ding": {
+      "hold": false,
+      "shape": "ding",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-measuring-ding-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-measuring-ding-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-measuring-ding-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-people-mirror": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-people-mirror-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-people-mirror-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-people-mirror-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-yangguang-trigger": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-yangguang-trigger-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-yangguang-trigger-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-yangguang-trigger-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-lushi-mirror": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-lushi-mirror-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-lushi-mirror-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-lushi-mirror-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-fortress-model": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-fortress-model-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-fortress-model-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-fortress-model-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-shield-figure": {
+      "hold": false,
+      "shape": "figure",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-shield-figure-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-shield-figure-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-shield-figure-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-zhaozhuo-trigger": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-zhaozhuo-trigger-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-zhaozhuo-trigger-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-zhaozhuo-trigger-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-tiger-vessel": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-tiger-vessel-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-tiger-vessel-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-tiger-vessel-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-well-model": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-well-model-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-well-model-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-well-model-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-many-foot-inkstone": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-many-foot-inkstone-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-many-foot-inkstone-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-many-foot-inkstone-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-snake-seal": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-snake-seal-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-snake-seal-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-snake-seal-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-chicken-ewer": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-chicken-ewer-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-chicken-ewer-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-chicken-ewer-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "wh-chengni-inkstone": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-chengni-inkstone-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/wh-chengni-inkstone-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/wh-chengni-inkstone-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-gold-lotus-box": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-gold-lotus-box-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-gold-lotus-box-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-gold-lotus-box-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-trumpet-lacquer": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-trumpet-lacquer-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-trumpet-lacquer-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-trumpet-lacquer-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-carved-cup": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-carved-cup-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-carved-cup-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-carved-cup-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-wood-cane": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-cane-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-cane-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-cane-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-wood-spoon": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-spoon-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-spoon-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-spoon-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-wood-chopstick": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-chopstick-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-chopstick-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-chopstick-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-yuan-black-bowl": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-yuan-black-bowl-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-yuan-black-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-yuan-black-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-phagspa-bowl": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-phagspa-bowl-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-phagspa-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-phagspa-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-bamboo-comb": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-bamboo-comb-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-bamboo-comb-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-bamboo-comb-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-pearl-comb": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-pearl-comb-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-pearl-comb-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-pearl-comb-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-wood-roller": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-roller-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-roller-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-roller-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-lacquer-brush": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-lacquer-brush-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-lacquer-brush-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-lacquer-brush-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-wood-chair": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-chair-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-chair-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-chair-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-wood-table": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-table-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-table-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-table-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-lacquer-teacup": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-lacquer-teacup-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-lacquer-teacup-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-lacquer-teacup-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-petal-dish": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-petal-dish-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-petal-dish-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-petal-dish-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-black-washer": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-black-washer-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-black-washer-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-black-washer-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-mirror-case": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-mirror-case-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-mirror-case-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-mirror-case-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-red-rect-box": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-red-rect-box-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-red-rect-box-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-red-rect-box-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-willow-box": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-willow-box-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-willow-box-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-willow-box-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-silk-brush": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-silk-brush-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-silk-brush-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-silk-brush-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-red-hairpick": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-red-hairpick-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-red-hairpick-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-red-hairpick-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-changzhou-bowl": {
+      "hold": false,
+      "shape": "vase",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-changzhou-bowl-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-changzhou-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-changzhou-bowl-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-wood-paddle": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-paddle-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-paddle-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-paddle-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
+    },
+    "cz-wood-scull": {
+      "hold": false,
+      "shape": "misc",
+      "roles": {
+        "card": {
+          "profile": "card",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-scull-card.jpg",
+            "kind": "ai"
+          },
+          "fallback": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-scull-detail.jpg",
+            "kind": "ai"
+          }
+        },
+        "detail": {
+          "profile": "detail",
+          "primary": {
+            "src": "/artifact-expansion/tranche-05/cz-wood-scull-detail.jpg",
+            "kind": "ai"
+          }
+        }
+      }
     }
   }
 }

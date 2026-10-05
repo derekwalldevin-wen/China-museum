@@ -1,0 +1,30 @@
+{
+  "base": "http://127.0.0.1:4180/",
+  "testedAt": "2026-10-04T07:51:11.807Z",
+  "passed": 23,
+  "checks": [
+    "desktop: gb-jade-rabbit direct URL, image, AI boundary and official reference",
+    "desktop: gb-jade-fish direct URL, image, AI boundary and official reference",
+    "desktop: cd-hunting-pot direct URL, image, AI boundary and official reference",
+    "desktop: cd-silkworm-ge direct URL, image, AI boundary and official reference",
+    "desktop: cd-bashu-ladle direct URL, image, AI boundary and official reference",
+    "desktop: cd-stone-rhino direct URL, image, AI boundary and official reference",
+    "desktop: sz-proto-he direct URL, image, AI boundary and official reference",
+    "desktop: sz-shufu-bowl direct URL, image, AI boundary and official reference",
+    "desktop: sz-tricolor-horse direct URL, image, AI boundary and official reference",
+    "desktop: sz-black-pot direct URL, image, AI boundary and official reference",
+    "mobile-390: gb-jade-rabbit direct URL, image, AI boundary and official reference",
+    "mobile-390: gb-jade-fish direct URL, image, AI boundary and official reference",
+    "mobile-390: cd-hunting-pot direct URL, image, AI boundary and official reference",
+    "mobile-390: cd-silkworm-ge direct URL, image, AI boundary and official reference",
+    "mobile-390: cd-bashu-ladle direct URL, image, AI boundary and official reference",
+    "mobile-390: cd-stone-rhino direct URL, image, AI boundary and official reference",
+    "mobile-390: sz-proto-he direct URL, image, AI boundary and official reference",
+    "mobile-390: sz-shufu-bowl direct URL, image, AI boundary and official reference",
+    "mobile-390: sz-tricolor-horse direct URL, image, AI boundary and official reference",
+    "mobile-390: sz-black-pot direct URL, image, AI boundary and official reference",
+    "new Shenzhen mobile gallery: 2 images, 13402 bytes",
+    "new gallery lower card and detail retain scroll/history and refresh route",
+    "card metadata failure retains gallery; click retries and detail opens without fake source labels"
+  ]
+}

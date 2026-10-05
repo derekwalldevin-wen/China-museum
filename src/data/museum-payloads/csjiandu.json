@@ -25,6 +25,121 @@
    "category": "简牍",
    "shape": "stele",
    "story": "长沙五一广场东侧井窖2010年出土东汉简牍；清华研究中心书讯记发掘6862枚，长沙简牍博物馆保护工作页记6859枚完成室内揭剥、清洗和脱色。两数口径尚待对照；它不是1996年走马楼三国吴简，逐枚修复履历未知。"
+  },
+  {
+   "id": "cs-yuyang-cup-box",
+   "name": "云纹漆具杯盒",
+   "dynasty": "西汉",
+   "era": "秦汉",
+   "category": "漆器",
+   "shape": "lacquer",
+   "story": "1993年长沙望城坡渔阳墓出土。椭圆木胎盒外黑内朱、两端圆把柄，内收十个耳杯。盒与杯作为一套只计一条；不要将十杯再拆开新增。",
+   "keywords": [
+    "云纹漆具杯盒",
+    "漆器",
+    "渔阳墓"
+   ],
+   "references": [
+    {
+     "title": "云纹漆具杯盒 · 官方馆藏记录",
+     "institution": "长沙简牍博物馆",
+     "url": "https://www.chinajiandu.cn/Collection/Details/yym?nid=255",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cs-yuyang-triangle-cup",
+   "name": "“渔阳”三角纹漆耳杯",
+   "dynasty": "西汉",
+   "era": "秦汉",
+   "category": "漆器",
+   "shape": "cup",
+   "story": "1993年渔阳王后墓出土，长17.8厘米，椭圆木胎外黑内红，两侧有耳，朱绘三角与波折纹。底部锥刻渔阳二字；AI不仿刻字。",
+   "keywords": [
+    "“渔阳”三角纹漆耳杯",
+    "漆器",
+    "渔阳墓"
+   ],
+   "references": [
+    {
+     "title": "“渔阳”三角纹漆耳杯 · 官方馆藏记录",
+     "institution": "长沙简牍博物馆",
+     "url": "https://www.chinajiandu.cn/Collection/Details/yym?nid=250",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cs-yuyang-phoenix-cup",
+   "name": "“渔阳”凤纹漆耳杯",
+   "dynasty": "西汉",
+   "era": "秦汉",
+   "category": "漆器",
+   "shape": "cup",
+   "story": "1993年渔阳王后墓出土，长18厘米，木胎外黑内红，凤鸟与云气纹构成主题。馆方网页249为本条识别号，不把同名248未经比对再入库。",
+   "keywords": [
+    "“渔阳”凤纹漆耳杯",
+    "漆器",
+    "渔阳墓"
+   ],
+   "references": [
+    {
+     "title": "“渔阳”凤纹漆耳杯 · 官方馆藏记录",
+     "institution": "长沙简牍博物馆",
+     "url": "https://www.chinajiandu.cn/Collection/Details/yym?nid=249",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cs-changsha-seal-case",
+   "name": "“长沙后府”封泥匣",
+   "dynasty": "西汉",
+   "era": "秦汉",
+   "category": "杂项",
+   "shape": "seal",
+   "story": "1993年渔阳王后墓出土，长5、宽3厘米。长方形匣中凹槽容纳封泥，原印长沙后府四字；可比较文书防拆，不把印文当墓主人姓名。",
+   "keywords": [
+    "“长沙后府”封泥匣",
+    "杂项",
+    "渔阳墓"
+   ],
+   "references": [
+    {
+     "title": "“长沙后府”封泥匣 · 官方馆藏记录",
+     "institution": "长沙简牍博物馆",
+     "url": "https://www.chinajiandu.cn/Collection/Details/yym?nid=247",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cs-yuyang-game-board",
+   "name": "博局盘",
+   "dynasty": "西汉",
+   "era": "秦汉",
+   "category": "漆器",
+   "shape": "lacquer",
+   "story": "1993年渔阳墓出土，方盘边长43.2厘米、髹黑漆，局盘与底座用竹钉连接。馆方认为应为六博；完整行棋规则仍不能由本盘独立复原。",
+   "keywords": [
+    "博局盘",
+    "漆器",
+    "渔阳墓"
+   ],
+   "references": [
+    {
+     "title": "博局盘 · 官方馆藏记录",
+     "institution": "长沙简牍博物馆",
+     "url": "https://www.chinajiandu.cn/Collection/Details/yym?nid=253",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,121 @@
+{
+ "museumId": "jingzhou",
+ "records": {
+  "jz-hnjg": {
+   "image": {
+    "src": "/artifacts/jz-hnjg.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/af0f9ce72028d781-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/af0f9ce72028d781-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/af0f9ce72028d781-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "jz-yzj": {
+   "image": {
+    "src": "/artifacts-v2/p2-source/jz-yzj.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/7b1403084e5f07f7-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/7b1403084e5f07f7-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/7b1403084e5f07f7-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/7b1403084e5f07f7-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifacts/jz-yzj.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/87ee793e569dc8e6-card-w240.webp",
+        "width": 240,
+        "height": 180
+       },
+       {
+        "src": "/artifact-responsive/87ee793e569dc8e6-card-w400.webp",
+        "width": 400,
+        "height": 300
+       },
+       {
+        "src": "/artifact-responsive/87ee793e569dc8e6-card-w640.webp",
+        "width": 640,
+        "height": 480
+       },
+       {
+        "src": "/artifact-responsive/87ee793e569dc8e6-card-w900.webp",
+        "width": 900,
+        "height": 675
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "jz-lfh": {
+   "image": {
+    "src": "/artifacts/jz-lfh.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/0a648131e019797c-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/0a648131e019797c-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/0a648131e019797c-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  }
+ }
+}

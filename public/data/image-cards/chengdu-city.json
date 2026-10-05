@@ -1,0 +1,1202 @@
+{
+ "museumId": "chengdu-city",
+ "records": {
+  "cd-hunting-pot": {
+   "image": {
+    "src": "/artifact-expansion/tranche-01/cd-hunting-pot-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/daddec5e24ea9fc6-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/daddec5e24ea9fc6-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/daddec5e24ea9fc6-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-01/cd-hunting-pot-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/f2a8fd92f6a7b9a6-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/f2a8fd92f6a7b9a6-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/f2a8fd92f6a7b9a6-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/f2a8fd92f6a7b9a6-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-silkworm-ge": {
+   "image": {
+    "src": "/artifact-expansion/tranche-01/cd-silkworm-ge-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/df55194a99a51262-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/df55194a99a51262-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/df55194a99a51262-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-01/cd-silkworm-ge-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/998b35e45b1c22c5-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/998b35e45b1c22c5-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/998b35e45b1c22c5-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/998b35e45b1c22c5-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-bashu-ladle": {
+   "image": {
+    "src": "/artifact-expansion/tranche-01/cd-bashu-ladle-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/1ff9468530367b80-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/1ff9468530367b80-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/1ff9468530367b80-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-01/cd-bashu-ladle-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/51833a95c610bbe0-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/51833a95c610bbe0-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/51833a95c610bbe0-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/51833a95c610bbe0-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-stone-rhino": {
+   "image": {
+    "src": "/artifact-expansion/tranche-01/cd-stone-rhino-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/8bcad7d09527042a-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/8bcad7d09527042a-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/8bcad7d09527042a-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-01/cd-stone-rhino-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/16374ed864533576-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/16374ed864533576-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/16374ed864533576-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/16374ed864533576-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-lacquer-dou": {
+   "image": {
+    "src": "/artifact-expansion/tranche-02/cd-lacquer-dou-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/2e57959aa38fa1e0-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/2e57959aa38fa1e0-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/2e57959aa38fa1e0-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-02/cd-lacquer-dou-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/bd9fac1fe84eeb71-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/bd9fac1fe84eeb71-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/bd9fac1fe84eeb71-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/bd9fac1fe84eeb71-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-meridian-lacquer-model": {
+   "image": {
+    "src": "/artifact-expansion/tranche-02/cd-meridian-lacquer-model-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/129579c360135f6a-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/129579c360135f6a-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/129579c360135f6a-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-02/cd-meridian-lacquer-model-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/1523e88dc091c13f-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/1523e88dc091c13f-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/1523e88dc091c13f-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/1523e88dc091c13f-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-comic-figure": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-comic-figure-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/3979017df7fdcd6f-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/3979017df7fdcd6f-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/3979017df7fdcd6f-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-comic-figure-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/45abe543c6c091f4-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/45abe543c6c091f4-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/45abe543c6c091f4-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/45abe543c6c091f4-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-stone-bear": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-stone-bear-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/6165626b521bff06-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/6165626b521bff06-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/6165626b521bff06-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-stone-bear-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/25ac5a818bf6fa22-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/25ac5a818bf6fa22-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/25ac5a818bf6fa22-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/25ac5a818bf6fa22-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-chenghan-figure": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-chenghan-figure-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/def9cb7a3f98b3c1-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/def9cb7a3f98b3c1-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/def9cb7a3f98b3c1-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-chenghan-figure-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/ecc05f196078727d-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/ecc05f196078727d-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/ecc05f196078727d-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/ecc05f196078727d-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-pottery-courtyard": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-pottery-courtyard-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/2f8b5182d8fa2c71-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/2f8b5182d8fa2c71-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/2f8b5182d8fa2c71-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-pottery-courtyard-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/061e1570b6ae73e9-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/061e1570b6ae73e9-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/061e1570b6ae73e9-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/061e1570b6ae73e9-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-qiong-kiln-censer": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-qiong-kiln-censer-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/4316da8718e36d7e-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/4316da8718e36d7e-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/4316da8718e36d7e-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-qiong-kiln-censer-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/aab69fb2d2b8f9fd-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/aab69fb2d2b8f9fd-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/aab69fb2d2b8f9fd-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/aab69fb2d2b8f9fd-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-bronze-chess": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-bronze-chess-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/9feb94da7b8f64e8-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/9feb94da7b8f64e8-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/9feb94da7b8f64e8-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-bronze-chess-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/e98d61fce3816a9f-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/e98d61fce3816a9f-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/e98d61fce3816a9f-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/e98d61fce3816a9f-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-ding-child-pillow": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-ding-child-pillow-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/bc48fabb76362b86-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/bc48fabb76362b86-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/bc48fabb76362b86-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-ding-child-pillow-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/e8f62eef9eab3ce5-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/e8f62eef9eab3ce5-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/e8f62eef9eab3ce5-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/e8f62eef9eab3ce5-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-gold-hairpin": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-gold-hairpin-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/11405d08f2bf8192-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/11405d08f2bf8192-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/11405d08f2bf8192-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-gold-hairpin-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/cb2fd651549ed7cd-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/cb2fd651549ed7cd-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/cb2fd651549ed7cd-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/cb2fd651549ed7cd-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-agate-snuff-bottle": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-agate-snuff-bottle-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/2e6564c294f37bef-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/2e6564c294f37bef-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/2e6564c294f37bef-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-agate-snuff-bottle-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/33d2b36d9ed1e12c-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/33d2b36d9ed1e12c-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/33d2b36d9ed1e12c-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/33d2b36d9ed1e12c-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-peacock-bowl": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-peacock-bowl-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/b90704baf26ba90a-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/b90704baf26ba90a-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/b90704baf26ba90a-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-peacock-bowl-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/d12a00210b2191e7-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/d12a00210b2191e7-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/d12a00210b2191e7-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/d12a00210b2191e7-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-ge-ewer": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-ge-ewer-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/911eae4b1cc86cbb-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/911eae4b1cc86cbb-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/911eae4b1cc86cbb-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-ge-ewer-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/3964a87e1dfdd0ea-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/3964a87e1dfdd0ea-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/3964a87e1dfdd0ea-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/3964a87e1dfdd0ea-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-bat-vase": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-bat-vase-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/a419a7ba25063cca-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/a419a7ba25063cca-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/a419a7ba25063cca-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-bat-vase-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/570a7055b645bcc2-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/570a7055b645bcc2-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/570a7055b645bcc2-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/570a7055b645bcc2-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-dragon-belt-hook": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-dragon-belt-hook-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/ce0a9a03a4da92fb-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/ce0a9a03a4da92fb-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/ce0a9a03a4da92fb-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-dragon-belt-hook-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/311b04501da1de7e-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/311b04501da1de7e-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/311b04501da1de7e-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/311b04501da1de7e-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-attendant-figure": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-attendant-figure-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/bdc0321f3f986700-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/bdc0321f3f986700-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/bdc0321f3f986700-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-attendant-figure-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/051a1bbbbdaaabd9-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/051a1bbbbdaaabd9-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/051a1bbbbdaaabd9-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/051a1bbbbdaaabd9-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cd-beast-lei": {
+   "image": {
+    "src": "/artifact-expansion/tranche-03/cd-beast-lei-card.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/ce5e03ad91aab6cb-card-w240.webp",
+       "width": 240,
+       "height": 240
+      },
+      {
+       "src": "/artifact-responsive/ce5e03ad91aab6cb-card-w400.webp",
+       "width": 400,
+       "height": 400
+      },
+      {
+       "src": "/artifact-responsive/ce5e03ad91aab6cb-card-w640.webp",
+       "width": 640,
+       "height": 640
+      }
+     ]
+    },
+    "fit": "contain",
+    "fallback": {
+     "src": "/artifact-expansion/tranche-03/cd-beast-lei-detail.jpg",
+     "kind": "ai",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/7278884cd4c647db-card-w240.webp",
+        "width": 240,
+        "height": 240
+       },
+       {
+        "src": "/artifact-responsive/7278884cd4c647db-card-w400.webp",
+        "width": 400,
+        "height": 400
+       },
+       {
+        "src": "/artifact-responsive/7278884cd4c647db-card-w640.webp",
+        "width": 640,
+        "height": 640
+       },
+       {
+        "src": "/artifact-responsive/7278884cd4c647db-card-w960.webp",
+        "width": 960,
+        "height": 960
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  }
+ }
+}

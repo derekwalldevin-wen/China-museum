@@ -1,0 +1,1826 @@
+{
+ "records": {
+  "wh-stone-spade": {
+   "src": "/artifact-expansion/tranche-05/wh-stone-spade-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-stone-spade-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/玉石器/7ce30e5b2580a4a95f5880983d0ad66f",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-stone-spade-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/玉石器/7ce30e5b2580a4a95f5880983d0ad66f",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/玉石器/7ce30e5b2580a4a95f5880983d0ad66f",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-drum-pot": {
+   "src": "/artifact-expansion/tranche-05/wh-drum-pot-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-drum-pot-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/6bab0a546a2070fbd7ffa77c9bbd6734",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-drum-pot-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/6bab0a546a2070fbd7ffa77c9bbd6734",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/陶瓷/6bab0a546a2070fbd7ffa77c9bbd6734",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-pottery-yan": {
+   "src": "/artifact-expansion/tranche-05/wh-pottery-yan-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-pottery-yan-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/4edb65118f7ed4c124b4a146b052e531",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-pottery-yan-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/4edb65118f7ed4c124b4a146b052e531",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/陶瓷/4edb65118f7ed4c124b4a146b052e531",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-pottery-dui": {
+   "src": "/artifact-expansion/tranche-05/wh-pottery-dui-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-pottery-dui-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/f31376077d2c04b38d4b13bb0ae2ee1a",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-pottery-dui-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/f31376077d2c04b38d4b13bb0ae2ee1a",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/陶瓷/f31376077d2c04b38d4b13bb0ae2ee1a",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-pigsty-latrine": {
+   "src": "/artifact-expansion/tranche-05/wh-pigsty-latrine-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-pigsty-latrine-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/eece3d959ff9dfc768ba57dc9223e0ea",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-pigsty-latrine-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/eece3d959ff9dfc768ba57dc9223e0ea",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/陶瓷/eece3d959ff9dfc768ba57dc9223e0ea",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-mother-candlestick": {
+   "src": "/artifact-expansion/tranche-05/wh-mother-candlestick-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-mother-candlestick-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/6cfefb213f334407a27b97773729d1f1",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-mother-candlestick-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/6cfefb213f334407a27b97773729d1f1",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/陶瓷/6cfefb213f334407a27b97773729d1f1",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-dabu-coin": {
+   "src": "/artifact-expansion/tranche-05/wh-dabu-coin-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-dabu-coin-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/铜器/dbf5a639e4826e185bb1fb1a8d6f4052",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-dabu-coin-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/铜器/dbf5a639e4826e185bb1fb1a8d6f4052",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/铜器/dbf5a639e4826e185bb1fb1a8d6f4052",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-measuring-ding": {
+   "src": "/artifact-expansion/tranche-05/wh-measuring-ding-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-measuring-ding-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/铜器/9035e09f767bcd01680bd5c6a74d3c6c",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-measuring-ding-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/铜器/9035e09f767bcd01680bd5c6a74d3c6c",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/铜器/9035e09f767bcd01680bd5c6a74d3c6c",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-people-mirror": {
+   "src": "/artifact-expansion/tranche-05/wh-people-mirror-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-people-mirror-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/铜器/15e17b4ca076bde7a168e5303360e2d2",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-people-mirror-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/铜器/15e17b4ca076bde7a168e5303360e2d2",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/铜器/15e17b4ca076bde7a168e5303360e2d2",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-yangguang-trigger": {
+   "src": "/artifact-expansion/tranche-05/wh-yangguang-trigger-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-yangguang-trigger-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/铜器/81c701e6892e9551b884bfbbb01c131f",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-yangguang-trigger-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/铜器/81c701e6892e9551b884bfbbb01c131f",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/铜器/81c701e6892e9551b884bfbbb01c131f",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-lushi-mirror": {
+   "src": "/artifact-expansion/tranche-05/wh-lushi-mirror-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-lushi-mirror-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/铜器/ee6812427eacb8acdfc9857d26ecf564",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-lushi-mirror-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/铜器/ee6812427eacb8acdfc9857d26ecf564",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/铜器/ee6812427eacb8acdfc9857d26ecf564",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-fortress-model": {
+   "src": "/artifact-expansion/tranche-05/wh-fortress-model-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-fortress-model-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/da92870a4cb6ff81e7bfb9b0cc6f9e03",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-fortress-model-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/da92870a4cb6ff81e7bfb9b0cc6f9e03",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/陶瓷/da92870a4cb6ff81e7bfb9b0cc6f9e03",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-shield-figure": {
+   "src": "/artifact-expansion/tranche-05/wh-shield-figure-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-shield-figure-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/e6ec605238d437715bdcf46a0214ed7a",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-shield-figure-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/e6ec605238d437715bdcf46a0214ed7a",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/陶瓷/e6ec605238d437715bdcf46a0214ed7a",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-zhaozhuo-trigger": {
+   "src": "/artifact-expansion/tranche-05/wh-zhaozhuo-trigger-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-zhaozhuo-trigger-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/铜器/24c09eeed03f4aa350742644b4b3db15",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-zhaozhuo-trigger-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/铜器/24c09eeed03f4aa350742644b4b3db15",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/铜器/24c09eeed03f4aa350742644b4b3db15",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-tiger-vessel": {
+   "src": "/artifact-expansion/tranche-05/wh-tiger-vessel-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-tiger-vessel-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/963c36c0042448a99001a6ad33057b89",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-tiger-vessel-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/963c36c0042448a99001a6ad33057b89",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/陶瓷/963c36c0042448a99001a6ad33057b89",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-well-model": {
+   "src": "/artifact-expansion/tranche-05/wh-well-model-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-well-model-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/9aa35f07ba74ab67c546c4c7aea61b9a",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-well-model-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/9aa35f07ba74ab67c546c4c7aea61b9a",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/陶瓷/9aa35f07ba74ab67c546c4c7aea61b9a",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-many-foot-inkstone": {
+   "src": "/artifact-expansion/tranche-05/wh-many-foot-inkstone-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-many-foot-inkstone-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/ec457ba22a1bc41a36c0841574a10293",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-many-foot-inkstone-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/ec457ba22a1bc41a36c0841574a10293",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/陶瓷/ec457ba22a1bc41a36c0841574a10293",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-snake-seal": {
+   "src": "/artifact-expansion/tranche-05/wh-snake-seal-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-snake-seal-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/其它/ef48d98ea58d0e83717b3177e2b96155",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-snake-seal-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/其它/ef48d98ea58d0e83717b3177e2b96155",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/其它/ef48d98ea58d0e83717b3177e2b96155",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-chicken-ewer": {
+   "src": "/artifact-expansion/tranche-05/wh-chicken-ewer-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-chicken-ewer-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/75ac577b1961832baedc748cab0d73f3",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-chicken-ewer-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/75ac577b1961832baedc748cab0d73f3",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/陶瓷/75ac577b1961832baedc748cab0d73f3",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "wh-chengni-inkstone": {
+   "src": "/artifact-expansion/tranche-05/wh-chengni-inkstone-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/wh-chengni-inkstone-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/178752855674be902f8d03102c75ab70",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/wh-chengni-inkstone-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "http://www.whmuseum.com.cn/collection/陶瓷/178752855674be902f8d03102c75ab70",
+        "credit": "武汉博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "http://www.whmuseum.com.cn/collection/陶瓷/178752855674be902f8d03102c75ab70",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  }
+ },
+ "delivery": {
+  "wh-stone-spade": {
+   "src": "/artifact-expansion/tranche-05/wh-stone-spade-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d596633ee96182ba-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/d596633ee96182ba-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/d596633ee96182ba-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-drum-pot": {
+   "src": "/artifact-expansion/tranche-05/wh-drum-pot-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/742f97f4611daf57-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/742f97f4611daf57-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/742f97f4611daf57-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-pottery-yan": {
+   "src": "/artifact-expansion/tranche-05/wh-pottery-yan-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ade46fd180ec5549-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/ade46fd180ec5549-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/ade46fd180ec5549-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-pottery-dui": {
+   "src": "/artifact-expansion/tranche-05/wh-pottery-dui-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/45b97eb9f0d45fa6-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/45b97eb9f0d45fa6-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/45b97eb9f0d45fa6-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-pigsty-latrine": {
+   "src": "/artifact-expansion/tranche-05/wh-pigsty-latrine-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/11ad72f4946def03-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/11ad72f4946def03-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/11ad72f4946def03-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-mother-candlestick": {
+   "src": "/artifact-expansion/tranche-05/wh-mother-candlestick-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/eb369164610ac277-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/eb369164610ac277-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/eb369164610ac277-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-dabu-coin": {
+   "src": "/artifact-expansion/tranche-05/wh-dabu-coin-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/069fc897732fdcfe-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/069fc897732fdcfe-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/069fc897732fdcfe-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-measuring-ding": {
+   "src": "/artifact-expansion/tranche-05/wh-measuring-ding-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/343bc2bda285c6c2-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/343bc2bda285c6c2-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/343bc2bda285c6c2-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-people-mirror": {
+   "src": "/artifact-expansion/tranche-05/wh-people-mirror-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/146091a1a1a4bfe4-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/146091a1a1a4bfe4-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/146091a1a1a4bfe4-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-yangguang-trigger": {
+   "src": "/artifact-expansion/tranche-05/wh-yangguang-trigger-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/8b7186a3a2e7ed61-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/8b7186a3a2e7ed61-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/8b7186a3a2e7ed61-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-lushi-mirror": {
+   "src": "/artifact-expansion/tranche-05/wh-lushi-mirror-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/a030cd8273e9cae8-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/a030cd8273e9cae8-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/a030cd8273e9cae8-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-fortress-model": {
+   "src": "/artifact-expansion/tranche-05/wh-fortress-model-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ad6b9216b430fe32-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/ad6b9216b430fe32-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/ad6b9216b430fe32-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-shield-figure": {
+   "src": "/artifact-expansion/tranche-05/wh-shield-figure-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c9013edcff4ef7e0-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/c9013edcff4ef7e0-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/c9013edcff4ef7e0-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-zhaozhuo-trigger": {
+   "src": "/artifact-expansion/tranche-05/wh-zhaozhuo-trigger-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/0faeb23107745a48-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/0faeb23107745a48-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/0faeb23107745a48-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-tiger-vessel": {
+   "src": "/artifact-expansion/tranche-05/wh-tiger-vessel-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/41fa0984d4cb9d16-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/41fa0984d4cb9d16-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/41fa0984d4cb9d16-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-well-model": {
+   "src": "/artifact-expansion/tranche-05/wh-well-model-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/fecb533efc227bf2-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/fecb533efc227bf2-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/fecb533efc227bf2-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-many-foot-inkstone": {
+   "src": "/artifact-expansion/tranche-05/wh-many-foot-inkstone-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/5486f8b3682f6293-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/5486f8b3682f6293-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/5486f8b3682f6293-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-snake-seal": {
+   "src": "/artifact-expansion/tranche-05/wh-snake-seal-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/17c4e340e446d2d4-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/17c4e340e446d2d4-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/17c4e340e446d2d4-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-chicken-ewer": {
+   "src": "/artifact-expansion/tranche-05/wh-chicken-ewer-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/f2e50dda65cce073-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/f2e50dda65cce073-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/f2e50dda65cce073-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "wh-chengni-inkstone": {
+   "src": "/artifact-expansion/tranche-05/wh-chengni-inkstone-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c648bc2e9a74ff27-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/c648bc2e9a74ff27-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/c648bc2e9a74ff27-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

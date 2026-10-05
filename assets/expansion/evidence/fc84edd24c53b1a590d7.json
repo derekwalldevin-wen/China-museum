@@ -1,0 +1,9 @@
+{
+  "url": "https://www.czmuseum.cn/api/supreme/achieve_supreme_detail?id=415&cid=&terminal=1",
+  "finalUrl": "https://www.czmuseum.cn/api/supreme/achieve_supreme_detail?id=415&cid=&terminal=1",
+  "checkedAt": "2026-10-05T04:28:42.649Z",
+  "sha256": "4b9e021b0ef2eac9a011d3eec25c816e2887772737272fda547a2a10c7e079c3",
+  "bytes": 752,
+  "contentType": "application/json; charset=utf-8",
+  "requestProtocol": "official-public-client-get"
+}

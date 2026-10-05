@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-05",
+  "notAdmitted": true,
+  "items": [
+    {
+      "institution": "常州博物馆",
+      "recordIdentifier": "id=412",
+      "reason": "与413同名但不同尺寸；本批只选413，避免同名混读。"
+    },
+    {
+      "institution": "常州博物馆",
+      "recordIdentifier": "自然史标本、现代剪纸及群组器物",
+      "reason": "不把自然标本当文物，不为凑数拆分组；现代作者图像权限未闭合。"
+    },
+    {
+      "institution": "武汉博物馆",
+      "recordIdentifier": "蚁鼻钱钱范、环形权、四神砖及生肖俑成组记录",
+      "reason": "本批不拆组计数；暂选独立记录较清晰的器物。"
+    }
+  ]
+}

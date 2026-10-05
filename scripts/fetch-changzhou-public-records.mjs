@@ -1,0 +1,20 @@
+// Reproduce the official site's public GET query parameters; no account or login.
+import {readFile,writeFile} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+const root=new URL('../',import.meta.url);
+const js=await readFile(new URL('assets/expansion/evidence/c0f7d93217bff300092a.html',root),'utf8');
+const appkey=js.match(/appkey:"([^"]+)"/)[1];
+const salt=js.match(/MD5\(l\+="([^"]+)"/)[1];
+const [endpoint,raw]=process.argv.slice(2);
+const fields={appkey,nonce:Math.floor(Math.random()*999999+100000),timestamp:Math.floor(Date.now()/1000),...JSON.parse(raw)};
+const sign=createHash('md5').update(Object.keys(fields).sort().map(k=>fields[k]).join('')+salt).digest('hex').toUpperCase();
+const canonical='https://www.czmuseum.cn/api'+endpoint+'?'+new URLSearchParams(JSON.parse(raw));
+const url='https://www.czmuseum.cn/api'+endpoint+'?'+new URLSearchParams({...fields,sign});
+const response=await fetch(url,{signal:AbortSignal.timeout(30000)});
+if(!response.ok)throw Error(response.status);
+const bytes=Buffer.from(await response.arrayBuffer());const parsed=JSON.parse(bytes);
+if(parsed.error_code)throw Error(parsed.error_msg);
+const key=createHash('sha256').update(canonical).digest('hex').slice(0,20);
+await writeFile(new URL(`assets/expansion/evidence/${key}.html`,root),bytes);
+await writeFile(new URL(`assets/expansion/evidence/${key}.json`,root),JSON.stringify({url:canonical,finalUrl:canonical,requestProtocol:'official-public-client-get',publicClientScript:'https://www.czmuseum.cn/static/js/app.19cead91231158f1e80f.js',checkedAt:new Date().toISOString(),sha256:createHash('sha256').update(bytes).digest('hex'),bytes:bytes.length,contentType:response.headers.get('content-type')},null,2));
+console.log(key,JSON.stringify(parsed));

@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>馆藏精品_中国国家博物馆官方网站</title>
+    <meta name="SiteName" content="中国国家博物馆官方网站" />
+<meta name="SiteDomain" content="www.chnmuseum.cn" />
+<meta name="SiteIDCode" content="" />
+<meta name="ColumnName" content="馆藏精品" />
+<meta name="ColumnDescription" content="中国国家博物馆网站全面及时介绍中国国家博物馆概况,藏品,展览,活动,学术研究,国际交流等各项内容，提供参观导览,门票预约,留言问答等多类服务，努力为公众了解国家博物馆,参观国家博物馆和享受国家博物馆提供的各类文化休闲服务提供支持" />
+<meta name="ColumnKeywords" content="中国国家博物馆,国家博物馆,国博,北京国家博物馆,国家博物馆官网,中国历史博物馆,革命博物馆,革命历史博物馆,国家博物馆预约,国家博物馆复兴之路,国博官网,古代中国,复兴之路,复兴之路新时代部分,参观预约,导览,展览,藏品,学术,后母戊方鼎,四羊方尊" />
+<meta name="ColumnType" content="馆藏精品" />
+<meta name="others" content="页面生成时间 2025-11-03 20:31:40" />
+    <script type="text/javascript" src="../../images/pc_mobile.js"></script>
+    <script type="text/javascript" src="../../images/jquery-3.7.1.min.js"></script>
+    <script type="text/javascript" src="../../images/swiper-4.5.3.min.js"></script>
+    <link rel="stylesheet" href="../../images/swiper-4.5.3.min.css" />
+    <script type="text/javascript" src="../../images/guobo202509.js"></script>
+    <script type="text/javascript" src="../../images/guobo202509_base_mobile.js"></script>
+    <link href="../../images/guobo202509_base.css" rel="stylesheet" type="text/css">
+    <link href="../../images/guobo202509_sec_pc.css" rel="stylesheet" type="text/css">
+</head>
+<body class="cp_body">
+<div class="header">
+    <div class="top clearfix">
+        <div class="logo">
+            <a href="/"><img class="mobile_none" src="/images/guobo202509_logo.png" alt="" /></a>
+            <a href="/"><img class="pc_none" src="/images/guobo202509_logo_m.png" alt="" /></a>
+        </div>
+        <div class="menu_l">
+            <ul class="menu">
+                <li><a href="/zp/">藏品</a></li>
+                <li><a href="/wb/">文保</a></li>
+                <li><a href="/yj/">研究</a></li>
+                <li><a href="/zl/">展览</a></li>
+            </ul>
+        </div>
+        <div class="menu_r">
+            <ul class="menu">
+                <li><a href="/fw/">社教</a></li>
+                <li><a href="/wc/">文创</a></li>
+                <li><a href="/cg/">服务</a></li>
+                <li><a href="/sp/">视频</a></li>
+            </ul>
+            <div class="english">
+                <span class="current-language"><a href="https://en.chnmuseum.cn/" target="_blank">English</a></span>
+            </div>
+            <div class="search_pc ">
+                <div class="search search-btn-pc"></div>
+                <div class="sobox_pc">
+                    <div class="inp_w">
+                        <div class="so_close_pc icon_close"></div>
+                        <input class="inputs" onkeydown="keyup_submit(event);" id="searchword" type="text" name="" value="请输入关键词" onfocus="if (value =='请输入关键词'){value =''; $(this).addClass('dark');}" onblur="if (value ==''){value='请输入关键词'; $(this).removeClass('dark');}" />
+                        <button class="but_so" onclick="search()" type="submit"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="search search_m"></div><!--移动端检索按钮-->
+        <div class="but" id="but2"><i></i></div><!--移动端导航按钮-->
+    </div>
+</div>
+
+<script>
+function search(){
+    var searchword=$("#searchword").val().trim();
+    if(searchword===""||searchword=="请输入关键词"){
+      alert("请输入关键词");
+      return false;
+    }
+   // 检索特殊字符校验
+        var specialCharsRegex = /(['";#%_\.*+?|{}[\]()\^$&<>`!=@])/;
+        function hasSpecialChars(str) {
+            return specialCharsRegex.test(str);
+        }
+ if(hasSpecialChars($("#searchword").val().trim()) ){
+                alert("检索词不能包含特殊字符，如： ' \" ; # % _ . * + ? | { } [ ] ( ) ^ $ & < > ` ! = @");
+                return;
+            }
+    window.open("/qwjs/?searchword="+searchword);
+}
+function keyup_submit(e){ 
+    var evt = window.event || e; 
+    if (evt.keyCode == 13){
+        //回车事件
+        search()
+    }
+}
+</script>
+<!--移动端头部 弹窗-->
+<div class="clearfix">
+    <div class="menu_mobile">
+        <ul>
+            <li>
+                <div class="clear title1">
+                    <a href="/" class="ts">首页</a>
+                </div>
+            </li>
+
+            <li>
+                <div class="clear title1">
+                    <a href="/zp/" class="ts">藏品</a>
+                </div>
+            </li>
+
+            <li>
+                <div class="clear title1">
+                    <a href="/wb/" class="ts">文保</a>
+                </div>
+            </li>
+
+            <li>
+                <div class="clear title1">
+                    <a href="/yj/" class="ts">研究</a>
+                    <!--<i class="icos"></i>-->
+                </div>
+<!--
+                <div class="sonul">
+                    <a href="#" class="tas">研究1</a>
+                    <a href="#" class="tas">研究2</a>
+                    <a href="#" class="tas">研究3</a>
+                </div>
+-->
+            </li>
+
+            <li>
+                <div class="clear title1">
+                    <a href="/zl/" class="ts">展览</a>
+                    <!--<i class="icos"></i>-->
+                </div>
+<!--
+                <div class="sonul">
+                    <a href="#" class="tas">展览1</a>
+                    <a href="#" class="tas">展览2</a>
+                    <a href="#" class="tas">展览3</a>
+                </div>
+-->
+            </li>
+
+            <li>
+                <div class="clear title1">
+                    <a href="/fw/" class="ts">社教</a>
+                </div>
+            </li>
+
+            <li>
+                <div class="clear title1">
+                    <a href="/wc/" class="ts">文创</a>
+                </div>
+            </li>
+
+            <li>
+                <div class="clear title1">
+                    <a href="/cg/" class="ts">服务</a>
+                </div>
+            </li>
+
+            <li>
+                <div class="clear title1">
+                    <a href="/sp/" class="ts">视频</a>
+                </div>
+            </li>
+
+        </ul>
+    </div>
+    <div class="search_box">
+        <div class="inp_w">
+            <input class="inputs" type="text" name="" id="searchword_m" onkeydown="keyup_submit_m(event);" value="请输入关键词" onfocus="if (value =='请输入关键词'){value =''; $(this).addClass('dark');}" onblur="if (value ==''){value='请输入关键词'; $(this).removeClass('dark');}" />
+            <button class="but_so" type="submit" onclick="search_m()"></button>
+        </div>
+        <div class="so_close icon_close mobile_search_close"></div>
+    </div>
+</div>
+<script>
+function search_m(){
+    var searchword_m=$("#searchword_m").val().trim();
+    if(searchword_m===""||searchword_m=="请输入关键字"){
+      alert("请输入检索词");
+      return false;
+    }
+    window.open("/qwjs/?searchword="+searchword_m);
+}
+function keyup_submit_m(e){ 
+    var evt = window.event || e; 
+    if (evt.keyCode == 13){
+        //回车事件
+        search_m()
+    }
+}
+</script>
+<!--移动端头部 弹窗结束-->
+
+<script>
+    $(document).ready(function(){
+        var nvdqlujing=window.location.pathname;
+        var nvdqstrs=new Array();
+        nvdqstrs=nvdqlujing.split("/");
+        var navnubtwo=nvdqstrs[1];
+        switch (navnubtwo)
+        {
+            case "zp":
+                $(".menu_l ul li").eq(0).addClass("active");
+                break;
+            case "wb":
+                $(".menu_l ul li").eq(1).addClass("active");
+                break;
+            case "yj":
+                $(".menu_l ul li").eq(2).addClass("active");
+                break;
+            case "zl":
+                $(".menu_l ul li").eq(3).addClass("active");
+                break;
+            case "fw":
+                $(".menu_r ul li").eq(0).addClass("active");
+                break;
+            case "wc":
+                $(".menu_r ul li").eq(1).addClass("active");
+                break;
+            case "cg":
+                $(".menu_r ul li").eq(2).addClass("active");
+                break;
+            case "sp":
+                $(".menu_r ul li").eq(3).addClass("active");
+                break;
+        }
+    });
+</script>
+<div class="cp_banner" style="background: url(./images/P020251031609738292588.jpg);background-size: cover;background-position-x: center;" >
+    <div class="clum_mask"></div>
+    <div class="crumbsNav">
+        <div class="wrap pd10">
+            <a href="../../" target="_self" title="首页" class="CurrChnlCls">首页</a>&nbsp;>&nbsp;<a href="../" target="_self" title="藏品" class="CurrChnlCls">藏品</a>&nbsp;>&nbsp;<a href="./" target="_self" title="馆藏精品" class="CurrChnlCls">馆藏精品</a>
+        </div>
+    </div>
+    <div class="crumb_mod ">
+        <div class="crumb_mod_box">
+            <div class="title">馆藏精品</div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+function searchcp(){
+    var classification="";
+    var niandai="";
+    var zhidi="";
+    var pinlei="";
+    if($("#zhidi").val()!=""){
+        console.log($("#zhidi").val());
+        classification+=$("#zhidi").val()+",";
+        zhidi=$("#zhidi").val();
+    }
+    if($("#pinlei").val()!=""){
+        console.log($("#pinlei").val());
+        classification+=$("#pinlei").val()+",";
+        pinlei=$("#pinlei").val();
+    }
+
+    if($("#niandai").val()!=""){
+        console.log($("#niandai").val());
+        classification+=$("#niandai").val()+",";
+        niandai=$("#niandai").val();
+    }
+    var searchword=$("#word").val();
+    if(searchword!=""||classification){
+        // 新窗口打开搜索结果
+        window.open("/qwjs/cpjs/?&classification="+classification+"&searchword="+searchword+"&niandai="+niandai+"&zhidi="+zhidi+"&pinlei="+pinlei,"_blank");
+    }
+}
+</script>
+<div class="wrap pd10">
+    <div class="clum_layout cp_layout">
+        <div class="cj_vd_erlanmuye cj_xianbore">
+            <div class="search_list">
+                <div class="form-item" style="z-index:3;">
+                    <div class="form-ui">
+                        <h3>
+                            <span class="JS-select">请选择年代</span>
+                            <input name="niandai" id="niandai" value="" type="hidden" />
+                            <i class="JS-select btn-select"></i>
+                        </h3>
+                        <ul class="clearfix" style="z-index:3; display: none;">
+                            <li><span date-val="0">请选择年代</span></li>
+                            <li><span date-val="50">旧石器</span></li>
+                            <li><span date-val="51">新石器</span></li>
+                            <li><span date-val="74">夏</span></li>
+                            <li><span date-val="75">商</span></li>
+                            <li><span date-val="76">西周</span></li>
+                            <li><span date-val="77">商周时期</span></li>
+                            <li><span date-val="78">春秋</span></li>
+                            <li><span date-val="79">夏至春秋</span></li>
+                            <li><span date-val="80">战国</span></li>
+                            <li><span date-val="81">秦</span></li>
+                            <li><span date-val="82">汉</span></li>
+                            <li><span date-val="83">三国</span></li>
+                            <li><span date-val="84">晋</span></li>
+                            <li><span date-val="85">南北朝</span></li>
+                            <li><span date-val="104">隋</span></li>
+                            <li><span date-val="105">唐</span></li>
+                            <li><span date-val="106">五代十国</span></li>
+                            <li><span date-val="124">宋</span></li>
+                            <li><span date-val="125">元</span></li>
+                            <li><span date-val="126">明</span></li>
+                            <li><span date-val="127">清</span></li>
+                            <li><span date-val="128">近代</span></li>
+                            <li><span date-val="129">现当代</span></li>
+                            <li><span date-val="130">其他</span></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="form-item" style="z-index:2;">
+                    <div class="form-ui">
+                        <h3>
+                            <span class="JS-select">请选择质地</span>
+                            <input name="zhidi" id="zhidi" value="" type="hidden" />
+                            <i class="JS-select btn-select"></i>
+                        </h3>
+                        <ul class="clearfix" style="z-index:2; display: none;">
+                            <li><span date-val="0">请选择质地</span></li>
+                            <li><span date-val="2">石质</span></li>
+                            <li><span date-val="3">玉质</span></li>
+                            <li><span date-val="4">砖瓦</span></li>
+                            <li><span date-val="5">陶制</span></li>
+                            <li><span date-val="6">瓷质</span></li>
+                            <li><span date-val="7">铜制</span></li>
+                            <li><span date-val="8">铁质</span></li>
+                            <li><span date-val="9">金银</span></li>
+                            <li><span date-val="10">其他金属</span></li>
+                            <li><span date-val="11">牙骨角</span></li>
+                            <li><span date-val="12">草木竹</span></li>
+                            <li><span date-val="13">漆质</span></li>
+                            <li><span date-val="14">玻璃</span></li>
+                            <li><span date-val="15">珐琅</span></li>
+                            <li><span date-val="16">织绣</span></li>
+                            <li><span date-val="17">皮革</span></li>
+                            <li><span date-val="18">纸质</span></li>
+                            <li><span date-val="19">化学合成</span></li>
+                            <li><span date-val="20">其他</span></li>
+                            <li><span date-val="21">泥质</span></li>
+                            <li><span date-val="196">画像砖</span></li>
+                            <li><span date-val="197">钱币</span></li>
+                            <li><span date-val="198">书画</span></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="form-item" style="z-index:1;">
+                    <div class="form-ui">
+                        <h3>
+                            <span class="JS-select">请选择品类</span>
+                            <input name="pinlei" id="pinlei" value="" type="hidden" />
+                            <i class="JS-select btn-select"></i>
+                        </h3>
+                        <ul class="clearfix" style="z-index:1; display: none;">
+                            <li><span date-val="0">请选择品类</span></li>
+                            <li><span date-val="23">生产工具</span></li>
+                            <li><span date-val="24">生活用品</span></li>
+                            <li><span date-val="25">建筑构件</span></li>
+                            <li><span date-val="26">交通工具</span></li>
+                            <li><span date-val="27">医疗卫生</span></li>
+                            <li><span date-val="28">书画</span></li>
+                            <li><span date-val="29">文献</span></li>
+                            <li><span date-val="30">雕塑造像</span></li>
+                            <li><span date-val="31">邮品</span></li>
+                            <li><span date-val="32">照片底片</span></li>
+                            <li><span date-val="33">音像制品</span></li>
+                            <li><span date-val="34">文体娱乐</span></li>
+                            <li><span date-val="35">货币</span></li>
+                            <li><span date-val="36">印章</span></li>
+                            <li><span date-val="37">证章符号</span></li>
+                            <li><span date-val="38">证件票据</span></li>
+                            <li><span date-val="39">旗帜牌匾</span></li>
+                            <li><span date-val="40">机械仪器</span></li>
+                            <li><span date-val="41">高科技</span></li>
+                            <li><span date-val="42">兵器武器</span></li>
+                            <li><span date-val="43">民族民俗</span></li>
+                            <li><span date-val="44">宗教用品</span></li>
+                            <li><span date-val="45">模型</span></li>
+                            <li><span date-val="46">其他</span></li>
+                            <li><span date-val="47">丧葬用品</span></li>
+                            <li><span date-val="48">祭器礼器</span></li>
+                            <li><span date-val="405">陶瓷器</span></li>
+                            <li><span date-val="406">玉器</span></li>
+                            <li><span date-val="408">金属器</span></li>
+                            <li><span date-val="409">石刻砖瓦</span></li>
+                            <li><span date-val="410">杂项</span></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="search">
+                    <input class="search_input" type="text" id="word" value="请输入藏品关键词" onfocus="if (value =='请输入藏品关键词'){value =''}" onblur="if (value ==''){value='请输入藏品关键词'}" />
+                    <input class="btn" type="submit" onclick="searchcp()" value="" />
+                </div>
+            </div>
+        </div>
+
+        <div class="clum_img_list">
+            <ul id="div">
+                
+                <li>
+                    <a href="./201812/t20181218_24787.shtml" target="_blank">
+                        <div class="img"><img src="./201812/P020181218738312924414.jpg" alt="后金内秘书院大学士范文程接管八孤山子弟读书事奏稿" /></div>
+                        <div class="txt">
+                            <p class="clear_name">清</p>
+                            <p>后金内秘书院大学士范文程接管...</p>
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="./201812/t20181218_24783.shtml" target="_blank">
+                        <div class="img"><img src="./201812/P020181218738249115414.jpg" alt="光绪十五年三月上慈禧端佑康颐昭豫庄诚寿恭皇太后徽号诏" /></div>
+                        <div class="txt">
+                            <p class="clear_name">清</p>
+                            <p>光绪十五年三月上慈禧端佑康颐...</p>
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="./201812/t20181218_24781.shtml" target="_blank">
+                        <div class="img"><img src="./201812/P020181218738210395714.jpg" alt="道光十五年十月初十日李钟潢祖父母敕命" /></div>
+                        <div class="txt">
+                            <p class="clear_name">清</p>
+                            <p>道光十五年十月初十日李钟潢祖...</p>
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="./201812/t20181218_24777.shtml" target="_blank">
+                        <div class="img"><img src="./201812/P020181218738143431665.jpg" alt="乾隆四十五年六月初二日敕山西分守冀宁道命其兼管水利事务驻扎省城谕" /></div>
+                        <div class="txt">
+                            <p class="clear_name">清</p>
+                            <p>乾隆四十五年六月初二日敕山西...</p>
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="./201812/t20181218_24776.shtml" target="_blank">
+                        <div class="img"><img src="./201812/P020181218738125718602.jpg" alt="乾隆四十四年三月初九日敕山海关副都统都尔嘉统领八旗官兵驻扎山海关谕" /></div>
+                        <div class="txt">
+                            <p class="clear_name">清</p>
+                            <p>乾隆四十四年三月初九日敕山海...</p>
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="./201812/t20181218_24773.shtml" target="_blank">
+                        <div class="img"><img src="./201812/P020181218738075105142.jpg" alt="乾隆二十五年十二月十七日祖尚贤子孙世袭诰命" /></div>
+                        <div class="txt">
+                            <p class="clear_name">清</p>
+                            <p>乾隆二十五年十二月十七日祖尚...</p>
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="./201812/t20181218_24771.shtml" target="_blank">
+                        <div class="img"><img src="./201812/P020181218738043622728.jpg" alt="乾隆六年五月二十二日敕贵州丹江营参将统领经制官兵驻扎丹江城谕" /></div>
+                        <div class="txt">
+                            <p class="clear_name">清</p>
+                            <p>乾隆六年五月二十二日敕贵州丹...</p>
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="./201812/t20181218_24769.shtml" target="_blank">
+                        <div class="img"><img src="./201812/P020181218738011132169.jpg" alt="雍正十年七月二十日命查郎阿署宁远大将军敕谕" /></div>
+                        <div class="txt">
+                            <p class="clear_name">清</p>
+                            <p>雍正十年七月二十日命查郎阿署...</p>
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="./201812/t20181218_24768.shtml" target="_blank">
+                        <div class="img"><img src="./201812/P020181218737992681085.jpg" alt="雍正九年征讨噶尔丹策凌祭天文告" /></div>
+                        <div class="txt">
+                            <p class="clear_name">清</p>
+                            <p>雍正九年征讨噶尔丹策凌祭天文告</p>
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="./201812/t20181218_24767.shtml" target="_blank">
+                        <div class="img"><img src="./201812/P020181218737977103731.jpg" alt="雍正四年五月十七日宣布允禩集团历年来“奸伪逆乱之行”上谕" /></div>
+                        <div class="txt">
+                            <p class="clear_name">清</p>
+                            <p>雍正四年五月十七日宣布允禩集...</p>
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="./201812/t20181218_24766.shtml" target="_blank">
+                        <div class="img"><img src="./201812/P020181218737961179527.jpg" alt="康熙四十年四月二十日敕静觉寺国师阿望丹进谕（满藏汉文合璧）" /></div>
+                        <div class="txt">
+                            <p class="clear_name">清</p>
+                            <p>康熙四十年四月二十日敕静觉寺...</p>
+                        </div>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="./201812/t20181218_24764.shtml" target="_blank">
+                        <div class="img"><img src="./201812/P020181218737928245846.jpg" alt="康熙二十二年四月十九日敕湖广郧阳府副将统领经制官兵驻扎郧阳府谕" /></div>
+                        <div class="txt">
+                            <p class="clear_name">清</p>
+                            <p>康熙二十二年四月十九日敕湖广...</p>
+                        </div>
+                    </a>
+                </li>
+                
+            </ul>
+            <div class="pages">
+    <script language="javascript">
+        //createPageHTML(111, 30, "index", "shtml");
+        var currentPage = 30;//所在页从0开始
+        //var headPage = "index"+"."+"shtml";//首页
+        //var tailPage = "index_" + (countPage-1) + ".shtml"//尾页
+        var prevPage = currentPage-1//上一页
+        var nextPage = currentPage+1//下一页
+        var countPage = 111//共多少页
+
+        // if (countPage == 1) {
+        //     return false
+        // }
+
+        //document.write("共"+countPage+"页&nbsp;&nbsp;");
+        //设置上一页代码
+        if(countPage>1&&currentPage!=0&&currentPage!=1)
+            document.write("<a class='pages_a pages_prev' href=\"index"+"_" + prevPage + "."+"shtml\" target=\"_self\"></a>");
+        else if(countPage>1&&currentPage!=0&&currentPage==1)
+            document.write("<a class='pages_a pages_prev' href=\"index.shtml\" target=\"_self\"></a>");
+        else
+            document.write("<a class='pages_a pages_prev pages_no'></a>");
+
+        //循环
+        //var num = 5;
+        //for(var i=0+(currentPage-1-(currentPage-1)%num) ; i<=(num+(currentPage-1-(currentPage-1)%num))&&(i<countPage) ; i++){
+
+        var num = 5;
+        var startPage=currentPage-2;
+        if(startPage<0) startPage=0;
+        var endpage=startPage+num;
+        if(endpage>countPage)endpage=countPage;
+
+        startPage=endpage-5;
+        if(startPage<0) startPage=0;
+
+        for(var i=startPage; i<endpage ; i++){
+
+            if(currentPage==i)
+                document.write("<a class='active pages_a'>"+(i+1)+"</a>");
+            else if(i==0){
+                document.write("<a class='pages_a' href=\"index.shtml\" target=\"_self\">"+1+"</a>");
+            }else
+                document.write("<a class='pages_a' href=\"index"+"_" + i + "."+"shtml\" target=\"_self\">"+(i+1)+"</a>");
+        }
+
+        //设置下一页代码
+        if(countPage>1&&currentPage!=(countPage-1))
+            document.write("<a class='pages_a pages_next' href=\"index"+"_" + nextPage + "."+"shtml\" target=\"_self\"></a>");
+        else
+            document.write("<a class='pages_a pages_next pages_no'></a>");
+
+        //跳转页面
+        // <span>跳</span>
+        //     <input type="text" value="1" />
+        //     /
+        //     <span>25</span>
+        //     页
+        //     <a class="btn_go" href="javascipt:;">Go</a>
+        document.write("<div class='pages_tiao'><input type='text' class='pages_text' id='num' value="+(currentPage+1)+" />"+"<a id='go' class='pages_button' onClick=javascript:toPage()>GO</a></div>");
+
+        function toPage(){
+            var _num = document.getElementById("num").value.replace(/[^\d]/g,'');
+            var str = "index"+"_"+(_num-1)+"."+"shtml";
+            var url = location.href.substring(0,location.href.lastIndexOf("/")+1);
+            if(_num<=1||_num==null)
+                location.href = url+"index"+"."+"shtml";
+            else if(_num>countPage)
+                alert("本频道最多"+countPage+"页");
+            else
+                location.href = url+str;
+        }
+    </script>
+</div>
+            <div class="pages_more">
+                <a id='anniu' onclick="goto()">加载更多</a>
+                <a id='anniu_none' style="display: none;" class="more_none">没有了</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!--foot-->
+<div class="footer">
+    <div class="wrap">
+        <div class="logo"><img src="/images/guobo202509_logoGold.png" alt="" /></div>
+        <div class="t_linker clearfix">
+            <div class="bt">友情链接：</div>
+            <div class="friend">
+                <a target="_blank" href="https://www.mct.gov.cn/">文化和旅游部</a>
+                <a target="_blank" href="http://www.ncha.gov.cn/">国家文物局</a>
+                <a target="_blank" href="https://www.dpm.org.cn/">故宫博物院</a>
+                <a target="_blank" href="http://www.shanghaimuseum.net/">上海博物馆</a>
+                <a target="_blank" href="http://www.njmuseum.com/">南京博物院</a>
+                <a target="_blank" href="http://www.hnmuseum.com/">湖南省博物馆</a>
+                <a target="_blank" href="https://www.sxhm.com/">陕西历史博物馆</a>
+            </div>
+            <div class="lm_more"><a target="_blank" href="/shxg/yqlj/"><span>更多</span></a></div>
+        </div>
+        <div class="list">
+            <div class="qr-li">
+                <div class="suds-mod">
+                    <div class="icon"><img src="/images/guobo202509-foot_icon1.png" alt="" class="img-i" /></div>
+                    <div class="txt">APP下载</div>
+                    <a href="/shxg/wbwx/" class="mask" target="_blank"></a>
+                    <div class="suds-pop at-t">
+                        
+                        <div class="img"><img src="https://www.chnmuseum.cn/shxg/wbwx/202511/W020251110470817932689.jpg" alt="" /></div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="qr-li weixin">
+                <div class="suds-mod">
+                    <div class="icon"><img src="/images/guobo202509-foot_icon2.png" alt="" class="img-i" /></div>
+                    <div class="txt">微信公众号</div>
+                    <a href="/shxg/wbwx/" class="mask" target="_blank"></a>
+                    <div class="suds-pop at-t">
+                        
+                        <div class="img"><img src="https://www.chnmuseum.cn/shxg/wbwx/202511/W020251110470983428407.jpg" alt="" /></div>
+                        <div class="img"><img src="https://www.chnmuseum.cn/shxg/wbwx/202511/W020251110470983672408.jpg" alt="" /></div>
+                        <div class="img"><img src="https://www.chnmuseum.cn/shxg/wbwx/202511/W020251110470984037217.jpg" alt="" /></div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="qr-li">
+                <div class="suds-mod">
+                    <div class="icon"><img src="/images/guobo202509-foot_icon3.png" alt="" class="img-i" /></div>
+                    <div class="txt">微信小程序</div>
+                    <a href="/shxg/wbwx/" class="mask" target="_blank"></a>
+                    <div class="suds-pop at-t">
+                        
+                        <div class="img"><img src="https://www.chnmuseum.cn/shxg/wbwx/202511/W020251110471138404499.jpg" alt="" /></div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="qr-li">
+                <div class="suds-mod">
+                    <div class="icon"><img src="/images/guobo202509-foot_icon4.png" alt="" class="img-i" /></div>
+                    <div class="txt">强国号</div>
+                    <a href="/shxg/wbwx/" class="mask" target="_blank"></a>
+                    <div class="suds-pop at-t">
+                        
+                        <div class="img"><img src="https://www.chnmuseum.cn/shxg/wbwx/202511/W020251110471226304753.jpg" alt="" /></div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="qr-li">
+                <div class="suds-mod">
+                    <div class="icon"><img src="/images/guobo202509-foot_icon5.png" alt="" class="img-i" /></div>
+                    <div class="txt">小红书</div>
+                    <a href="/shxg/wbwx/" class="mask" target="_blank"></a>
+                    <div class="suds-pop at-t">
+                        
+                        <div class="img"><img src="https://www.chnmuseum.cn/shxg/wbwx/202511/W020251110471333180376.png" alt="" /></div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="qr-li">
+                <div class="suds-mod">
+                    <div class="icon"><img src="/images/guobo202509-foot_icon6.png" alt="" class="img-i" /></div>
+                    <div class="txt">抖音</div>
+                    <a href="/shxg/wbwx/" class="mask" target="_blank"></a>
+                    <div class="suds-pop at-t">
+                        
+                        <div class="img"><img src="https://www.chnmuseum.cn/shxg/wbwx/202511/W020251110471439474918.png" alt="" /></div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="qr-li">
+                <div class="suds-mod">
+                    <div class="icon"><img src="/images/guobo202509-foot_icon7.png" alt="" class="img-i" /></div>
+                    <div class="txt">B站</div>
+                    <a href="/shxg/wbwx/" class="mask" target="_blank"></a>
+                    <div class="suds-pop at-t">
+                        
+                        <div class="img"><img src="https://www.chnmuseum.cn/shxg/wbwx/202511/W020251110471523465396.jpg" alt="" /></div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="qr-li">
+                <div class="suds-mod">
+                    <div class="icon"><img src="/images/guobo202509-foot_icon8.png" alt="" class="img-i" /></div>
+                    <div class="txt">视频号</div>
+                    <a href="/shxg/wbwx/" class="mask" target="_blank"></a>
+                    <div class="suds-pop at-t">
+                        
+                        <div class="img"><img src="https://www.chnmuseum.cn/shxg/wbwx/202604/W020260413570595050134.jpg" alt="" /></div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="qr-li">
+                <div class="suds-mod">
+                    <div class="icon"><img src="/images/guobo202509-foot_icon9.png" alt="" class="img-i" /></div>
+                    <div class="txt">微博</div>
+                    <a href="/shxg/wbwx/" class="mask" target="_blank"></a>
+                    <div class="suds-pop at-t">
+                        
+                        <div class="img"><img src="https://www.chnmuseum.cn/shxg/wbwx/202511/W020251110471613990046.png" alt="" /></div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="d_box">
+            <div class="b_linker">
+                <a target="_blank" href="/shxg/sitemap/">网站地图</a>
+                <a target="_blank" href="/shxg/gbzp/">国博招聘</a>
+                <a target="_blank" href="/cg/lybd/">留言板</a>
+                <a target="_blank" href="/shxg/zlxz/">资料下载</a>
+                <a target="_blank" href="/shxg/lxwm/">联系我们</a>
+                <a target="_blank" href="/shxg/bqsm/">版权声明</a>
+                <a target="_blank" href="/shxg/yszc/">隐私安全声明</a>
+            </div>
+            <div class="d_box_b_left">
+                <a href="https://www.boc.cn/" target="_blank">
+                    <img alt="" src="/images/guobo202509_foot_zlhzhbB.png" />
+                </a>
+            </div>
+            <div class="d_box_b_right">
+                <div class="p">
+                    <span class="ln">中国国家博物馆版权所有</span>
+                    <a class="ln" target="_blank" href="https://beian.miit.gov.cn/">京ICP备05008885号</a>
+                    <a class="ln" target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010102003012">京公网安备11010102003012号</a>
+                    <span class="ln">EMAIL：service@chnmuseum.cn</span>
+                </div>
+                <div class="p p2">
+                    <span class="ln">内容运维：新闻传播处</span>
+                    <span class="ln">技术支持：<i>信息技术部　易宝电脑系统（北京）有限公司</i></span>
+                </div>
+                <div class="icon_lan"><a target="_blank" href="//bszs.conac.cn/sitename?method=show&amp;id=30E0CF203BE827D8E053022819AC57DB"><img src="/images/guobo202509_logo_lan.png" alt="" /></a></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--百度-->
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d8512e191052092ef1dd135588660448";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<script>
+    $(function () {
+        $("html,body").animate({scrollTop: 0}, 100);
+        var countPage = 111;
+        //console.log(countPage)
+        if(countPage<2){
+            $('#anniu').hide();
+        }
+    })
+    var page = 1;
+    function goto(){
+        console.log(page);
+        $.ajax({
+            url:'index_1540_' + page + '.shtml',
+            success: function(html){
+                data_html = html;
+                page = page + 1;
+                $('#div').append(data_html);
+            },
+            error: function(error){
+                data_html = 'error';
+            }
+        });
+        page_N = page + 1;
+        if(page_N>=countPage){
+            $("#anniu_none").show();
+            $("#anniu").hide();
+        }
+    }
+    $(function(){
+        $(".clum_img_list ul li").each(function(){
+            var thisText = $(this).find(".clear_name").html();
+            thisText = thisText.replace(/;/ig, "·");
+            $(this).find(".clear_name").html(thisText)
+        })
+    })
+
+</script>
+<script>
+    $(function(){
+        //自定义UI
+        $(".JS-select").click(function(e){
+            var obj=$(this).parent();
+            if ( obj.parent().find("ul").css("display")=="block" ) {
+                $(this).removeClass('select');
+                obj.parent().find("ul").hide();
+                //return false;
+            }else {
+            //$(".JS-select").parent().parent().find('ul').hide();
+            obj.next("ul").show();
+}
+
+            if ($(this).parents('h3').hasClass('on')) {
+                $(this).parents('h3').removeClass('on')
+            } else {
+                $(this).parents('h3').addClass('on')
+            }
+            e.pre
+
+            return false
+        });
+        $(":not(.JS-select)").click(function (e) {
+            $(".form-ui h3").removeClass('on')
+        });
+        $(".form-ui ul").mouseleave(function(e){
+            $(this).parent('.form-ui').children('h3').removeClass('on')
+            $(this).hide();
+        })
+        $(".form-ui ul li").bind("click",function(){
+            var obj2=$(this).parent().parent();
+            var costVal = $(this).find('span').attr('date-val');
+            var costInfo = $(this).find('span').html();
+            obj2.find("h3 span").html(costInfo);
+            obj2.find('h3 input').val(costVal);
+            obj2.find("ul").hide();
+            return false;
+        });
+        $(document).click(function(){
+            $(".form-ui ul").hide();
+        });
+    });
+</script>
+
+<div style="width:-100px; height:-100px; display:none;"><a href="/ics/cpf/hlink119290"></a></div></body>
+</html>

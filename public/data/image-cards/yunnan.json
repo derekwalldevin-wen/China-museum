@@ -1,0 +1,94 @@
+{
+ "museumId": "yunnan",
+ "records": {
+  "yn-nha": {
+   "image": {
+    "src": "/artifacts/yn-nha.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/caa3d2e6add09871-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/caa3d2e6add09871-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/caa3d2e6add09871-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "yn-jcn": {
+   "image": {
+    "src": "/artifacts-v2/p2-source/yn-jcn.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/1bb06d7328a83587-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/1bb06d7328a83587-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/1bb06d7328a83587-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/1bb06d7328a83587-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifacts/yn-jcn.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/f33499df6ce35604-card-w240.webp",
+        "width": 240,
+        "height": 180
+       },
+       {
+        "src": "/artifact-responsive/f33499df6ce35604-card-w400.webp",
+        "width": 400,
+        "height": 300
+       },
+       {
+        "src": "/artifact-responsive/f33499df6ce35604-card-w640.webp",
+        "width": 640,
+        "height": 480
+       },
+       {
+        "src": "/artifact-responsive/f33499df6ce35604-card-w900.webp",
+        "width": 900,
+        "height": 675
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  }
+ }
+}

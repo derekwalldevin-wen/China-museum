@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { mkdir, writeFile } from 'node:fs/promises';
 import responsiveManifest from '../assets/responsive-images/manifest.json' with { type: 'json' };
 import museumIndex from '../src/data/museum-index.json' with { type: 'json' };
+import imageRegistry from '../src/data/images.json' with { type: 'json' };
 
 const songCount = museumIndex.flatMap(museum => museum.artifacts).filter(artifact => artifact.era === '宋辽金元').length;
 
@@ -388,8 +389,9 @@ try {
         const a = [...d.querySelectorAll('a')].find(a => a.textContent.includes('来源页许可'));
         return {text:d.textContent, license:a?.href, height:a?.getBoundingClientRect().height, overflow:d.scrollWidth-d.clientWidth};
       })()`);
-      assert.match(disclosure.text, /当前文件授权待核/);
-      assert.match(disclosure.text, /授权状态：待核验/);
+      const verifiedScroll = imageRegistry[id].variants.detail.provenance.authorizationStatus === 'verified';
+      assert.match(disclosure.text, verifiedScroll ? /来源与授权已核/ : /当前文件授权待核/);
+      assert.match(disclosure.text, verifiedScroll ? /授权状态：Public domain/ : /授权状态：待核验/);
       if (id === 'gg-qmsh') {
         assert.doesNotMatch(disclosure.text, /当前为低清历史缩图|查看高清全卷候选（尚未接入本站）/);
         assert.match(disclosure.text, /用户提供|16000×770/);
@@ -400,15 +402,15 @@ try {
         assert.equal(await page.evaluate(`!!document.querySelector('a[href="/data/image-processing/gg-qmsh-user-2026-09-16.json"]')`), true);
         await page.evaluate(`(() => { const v=document.querySelector('[aria-label$="长卷阅卷台"]'); v.scrollLeft=(v.scrollWidth-v.clientWidth)*0.5; })()`);
       } else {
-        assert.match(disclosure.text, /当前为低清历史缩图/);
-        assert.match(disclosure.text, /查看高清全卷候选（尚未接入本站）/);
-        assert.equal(disclosure.license, 'https://creativecommons.org/publicdomain/mark/1.0/');
+        assert.match(disclosure.text, /16000×640/);
+        assert.doesNotMatch(disclosure.text, /当前为低清历史缩图/);
+        assert.equal(disclosure.license, imageRegistry[id].variants.detail.provenance.licenseUrl);
         assert.ok(disclosure.height >= 44);
       }
       assert.ok(disclosure.overflow <= 1);
       const shot = await page.send('Page.captureScreenshot', { format: 'png' });
       await writeFile(new URL(`${mobile ? 'mobile' : 'desktop'}-${id}.png`, screenshotDir), Buffer.from(shot.data, 'base64'));
-      report.push(`${device}：${id} ${mobile ? '原生触摸横滑' : '键盘阅卷'}、${id === 'gg-qmsh' ? '用户高清分段处理记录' : '许可链接'}与待核披露`);
+      report.push(`${device}：${id} ${mobile ? '原生触摸横滑' : '键盘阅卷'}、${id === 'gg-qmsh' ? '用户高清分段处理记录与待核披露' : '已核原件许可与处理记录'}`);
     }
     await page.navigate(artifactUrl('北京市', 'gugong', 'gg-jgyg'));
     await page.waitFor(`document.querySelector('[role="dialog"]')?.textContent.includes('AI 复原示意 · 非文物实拍')`, `${device} quarantined source replaced by labeled AI illustration`);

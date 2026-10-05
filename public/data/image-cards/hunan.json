@@ -1,0 +1,178 @@
+{
+ "museumId": "hunan",
+ "records": {
+  "hun-tbh": {
+   "image": {
+    "src": "/artifacts-v2/p1/hun-tbh.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/c4e1ac3f41baa9b6-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/c4e1ac3f41baa9b6-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/c4e1ac3f41baa9b6-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/c4e1ac3f41baa9b6-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifacts/hun-tbh.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/3c5c3613eba84793-card-w240.webp",
+        "width": 240,
+        "height": 445
+       },
+       {
+        "src": "/artifact-responsive/3c5c3613eba84793-card-w400.webp",
+        "width": 400,
+        "height": 742
+       },
+       {
+        "src": "/artifact-responsive/3c5c3613eba84793-card-w485.webp",
+        "width": 485,
+        "height": 900
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "hun-ssd": {
+   "image": {
+    "src": "/artifacts-v2/p2-source/hun-ssd.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/7a8a85a9d1b519b7-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/7a8a85a9d1b519b7-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/7a8a85a9d1b519b7-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/7a8a85a9d1b519b7-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifacts/hun-ssd.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/47c7ca323c74e6dc-card-w240.webp",
+        "width": 240,
+        "height": 180
+       },
+       {
+        "src": "/artifact-responsive/47c7ca323c74e6dc-card-w400.webp",
+        "width": 400,
+        "height": 300
+       },
+       {
+        "src": "/artifact-responsive/47c7ca323c74e6dc-card-w640.webp",
+        "width": 640,
+        "height": 480
+       },
+       {
+        "src": "/artifact-responsive/47c7ca323c74e6dc-card-w900.webp",
+        "width": 900,
+        "height": 675
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "hun-dhd": {
+   "image": {
+    "src": "/artifacts/hun-dhd.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/fa6bbc72b9c53799-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/fa6bbc72b9c53799-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/fa6bbc72b9c53799-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "hun-mfl": {
+   "image": {
+    "src": "/artifacts/hun-mfl.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/447434b69429acb3-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/447434b69429acb3-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/447434b69429acb3-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  }
+ }
+}

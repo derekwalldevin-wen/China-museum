@@ -1,0 +1,9 @@
+{
+  "url": "http://www.whmuseum.com.cn/japi/sw-cms-cloud/api/queryExhibitById/81c701e6892e9551b884bfbbb01c131f",
+  "finalUrl": "http://www.whmuseum.com.cn/japi/sw-cms-cloud/api/queryExhibitById/81c701e6892e9551b884bfbbb01c131f",
+  "checkedAt": "2026-10-05T04:28:41.971Z",
+  "sha256": "affd70a304132f10f8d35c1db6e6dfdf258c62e8be117e48fe6189674af6917e",
+  "bytes": 1051,
+  "contentType": "application/json;charset=UTF-8",
+  "requestProtocol": "public-get"
+}

@@ -1,0 +1,588 @@
+{
+ "id": "changzhou-city",
+ "name": "常州博物馆",
+ "province": "江苏省",
+ "city": "常州",
+ "coord": [
+  119.96696,
+  31.81105
+ ],
+ "artifacts": [
+  {
+   "id": "cz-gold-lotus-box",
+   "name": "朱漆戗金莲瓣式人物花卉纹奁",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "漆器",
+   "shape": "misc",
+   "story": "1978年村前蒋塘南宋墓出土的朱漆奁，高21.3厘米。六出莲瓣筒形分盖、盘、中、底四层，银扣包边，戗金装饰仕女人物与花卉。",
+   "keywords": [
+    "朱漆戗金莲瓣式人物花卉纹奁",
+    "漆器",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "朱漆戗金莲瓣式人物花卉纹奁 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=369&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-trumpet-lacquer",
+   "name": "喇叭形漆器",
+   "dynasty": "新石器时代马家浜文化",
+   "era": "先秦",
+   "category": "漆器",
+   "shape": "misc",
+   "story": "1976年圩墩遗址出土的马家浜文化喇叭形漆器，高6厘米。器内空，外有黑色涂料及烧灼痕迹；具体用途未在记录中说明。",
+   "keywords": [
+    "喇叭形漆器",
+    "漆器",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "喇叭形漆器 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=44&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-carved-cup",
+   "name": "雕花漆杯",
+   "dynasty": "明",
+   "era": "明清",
+   "category": "漆器",
+   "shape": "vase",
+   "story": "明代竹根雕花漆杯，高8厘米，外壁浮雕松树，内外原髹漆但大部脱落。顺竹根自然形状雕刻，不能画成完好的鲜红漆杯。",
+   "keywords": [
+    "雕花漆杯",
+    "漆器",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "雕花漆杯 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=417&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-cane",
+   "name": "木手杖",
+   "dynasty": "元",
+   "era": "宋辽金元",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1976年卜弋元墓出土的木手杖，长126.5厘米。把手与杖身榫卯相接，通体雕成竹节状；外观像竹，材质记作木。",
+   "keywords": [
+    "木手杖",
+    "杂项",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "木手杖 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=418&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-spoon",
+   "name": "木勺",
+   "dynasty": "元",
+   "era": "宋辽金元",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1976年卜弋元墓出土的楠木勺，长22厘米。勺柄微弧、勺头扁弧，平常饮食工具的用料与加工也能成为研究线索。",
+   "keywords": [
+    "木勺",
+    "杂项",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "木勺 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=416&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-chopstick",
+   "name": "木筷",
+   "dynasty": "元",
+   "era": "宋辽金元",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1976年卜弋元墓出土的楠木筷，长27.2厘米，圆柱形、一端稍粗。本条依官网单项记录，不擅自补成成双筷子。",
+   "keywords": [
+    "木筷",
+    "杂项",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "木筷 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=415&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-yuan-black-bowl",
+   "name": "黑漆碗",
+   "dynasty": "元",
+   "era": "宋辽金元",
+   "category": "漆器",
+   "shape": "vase",
+   "story": "1981年礼河元墓出土的黑漆碗，高5厘米。木胎直口、浅腹微折、平底，外壁朱书含“湖州”作坊信息；原铭文与图像示意分开。",
+   "keywords": [
+    "黑漆碗",
+    "漆器",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "黑漆碗 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=414&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-phagspa-bowl",
+   "name": "“八思巴文”漆碗",
+   "dynasty": "元",
+   "era": "宋辽金元",
+   "category": "漆器",
+   "shape": "vase",
+   "story": "1976年卜弋元墓出土的八思巴文漆碗，高8.4厘米。木胎敛口、弧腹、圈足，暗黄色漆配黑边，圈足内朱书一字；同名另一件未重复纳入。",
+   "keywords": [
+    "“八思巴文”漆碗",
+    "漆器",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "“八思巴文”漆碗 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=413&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-bamboo-comb",
+   "name": "竹篦",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1976年村前蒋塘南宋墓出土的竹篦，长8.4厘米。两面细齿夹在竹篦梁之间，用棉线捆绑；两端档子现仅存一端。",
+   "keywords": [
+    "竹篦",
+    "杂项",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "竹篦 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=410&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-pearl-comb",
+   "name": "半月形镶珠木梳",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1976年村前蒋塘南宋墓出土的黄杨木梳，长9.2厘米。梳作半月形，背沿镶一排细小珍珠，把日用工具与装饰结合起来。",
+   "keywords": [
+    "半月形镶珠木梳",
+    "杂项",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "半月形镶珠木梳 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=409&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-roller",
+   "name": "木卷轴",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1978年村前蒋塘南宋墓出土的木卷轴，长29厘米。圆柱木轴两端镶白色玉构件，玉端有沁痕；本件是卷轴构件，不是附画全卷。",
+   "keywords": [
+    "木卷轴",
+    "杂项",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "木卷轴 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=408&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-lacquer-brush",
+   "name": "黑漆刻花竹毛刷",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "漆器",
+   "shape": "misc",
+   "story": "1978年村前蒋塘南宋墓出土的黑漆竹毛刷，长14.8厘米。竹柄浅刻花卉，猪鬃束排三列八行；馆方依据伴出梳妆器解释其洁具用途。",
+   "keywords": [
+    "黑漆刻花竹毛刷",
+    "漆器",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "黑漆刻花竹毛刷 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=382&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-chair",
+   "name": "木椅",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1978年村前蒋塘南宋墓出土的木椅，高30.4厘米，白坯无漆。椅背较直，椅下横枨分层；作为随葬明器，不是成人尺寸座椅。",
+   "keywords": [
+    "木椅",
+    "杂项",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "木椅 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=380&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-table",
+   "name": "木桌",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1978年村前蒋塘南宋墓出土的木桌，高22厘米。无漆长方桌用榫与横枨连接，桌面留置器痕；馆方据此解释为随葬供桌。",
+   "keywords": [
+    "木桌",
+    "杂项",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "木桌 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=379&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-lacquer-teacup",
+   "name": "漆托盏",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "漆器",
+   "shape": "vase",
+   "story": "1982年村前庄桥头南宋墓出土的漆托盏，高4.5厘米。小碗、圆托盘和圈足相连，通髹深褐漆，可比较茶器的扶托结构。",
+   "keywords": [
+    "漆托盏",
+    "漆器",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "漆托盏 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=378&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-petal-dish",
+   "name": "花瓣式漆盘",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "漆器",
+   "shape": "misc",
+   "story": "1983年丽华新村工地出土的南宋花瓣漆盘，口径23.5厘米。盘壁二十八瓣，内黑外赭，底有朱书作坊铭款；图不承担瓣数和铭文核对。",
+   "keywords": [
+    "花瓣式漆盘",
+    "漆器",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "花瓣式漆盘 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=377&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-black-washer",
+   "name": "黑漆洗",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "漆器",
+   "shape": "vase",
+   "story": "1974年成章南宋墓出土的黑漆洗，口径27.2厘米。木胎敞口、突出唇边、浅腹和宽假圈足，用朴素形制观察生活器物。",
+   "keywords": [
+    "黑漆洗",
+    "漆器",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "黑漆洗 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=375&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-mirror-case",
+   "name": "剔犀执镜盒",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "漆器",
+   "shape": "misc",
+   "story": "1978年村前蒋塘南宋墓出土的剔犀执镜盒，长27.3厘米。盒随执镜轮廓，出土时内置双鱼镜，雕云纹，断面可见朱黄黑层漆；本条只计镜盒。",
+   "keywords": [
+    "剔犀执镜盒",
+    "漆器",
+    "漆木与日常",
+    "铜镜"
+   ],
+   "references": [
+    {
+     "title": "剔犀执镜盒 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=373&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-red-rect-box",
+   "name": "朱漆戗金人物花卉纹长方盒",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "漆器",
+   "shape": "misc",
+   "story": "1978年村前蒋塘南宋墓出土的朱漆长方盒，高11.6厘米。内有浅盘，内黑外朱、戗金人物花卉；馆方把盖面故事与阮修挂钱杖头的典故联系。",
+   "keywords": [
+    "朱漆戗金人物花卉纹长方盒",
+    "漆器",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "朱漆戗金人物花卉纹长方盒 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=372&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-willow-box",
+   "name": "黑地戗金细钩填柳塘纹长方漆盒",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "漆器",
+   "shape": "misc",
+   "story": "1978年村前蒋塘南宋墓出土的黑地戗金漆盒，高11厘米。盖饰柳塘小景，器壁四季花纹，纹间小孔填朱漆磨光；馆方明列多种装饰工艺。",
+   "keywords": [
+    "黑地戗金细钩填柳塘纹长方漆盒",
+    "漆器",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "黑地戗金细钩填柳塘纹长方漆盒 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=371&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-silk-brush",
+   "name": "毛笔",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1978年村前蒋塘南宋墓出土的毛笔，通长26.5厘米。芦杆作管与套，笔头用细丝捻成，接管处丝带包裹；不能一概写成兽毛笔。",
+   "keywords": [
+    "毛笔",
+    "杂项",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "毛笔 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=367&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-red-hairpick",
+   "name": "朱漆发插",
+   "dynasty": "南宋",
+   "era": "宋辽金元",
+   "category": "漆器",
+   "shape": "misc",
+   "story": "1978年村前蒋塘南宋墓出土的朱漆发插，长11.7厘米。木胎弧面长条，下列八齿；馆方同时记有茶筅解释，用途尚无定论。",
+   "keywords": [
+    "朱漆发插",
+    "漆器",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "朱漆发插 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=365&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-changzhou-bowl",
+   "name": "“常州”铭花瓣式黑漆碗",
+   "dynasty": "宋",
+   "era": "宋辽金元",
+   "category": "漆器",
+   "shape": "vase",
+   "story": "1984年清潭体育场工地出土的宋代黑漆碗，高10厘米，口沿十瓣，深腹宽圈足。朱书含“常州”及“甲戌”款，展示器物和地方作坊的联系。",
+   "keywords": [
+    "“常州”铭花瓣式黑漆碗",
+    "漆器",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "“常州”铭花瓣式黑漆碗 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=360&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-paddle",
+   "name": "木桨",
+   "dynasty": "新石器时代马家浜文化",
+   "era": "先秦",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1985年圩墩遗址出土的马家浜文化木桨，通长74厘米。整块原木削成桨杆与桨叶，叶有缺损，把手三角形中空；刻线用途仅疑作系绳。",
+   "keywords": [
+    "木桨",
+    "杂项",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "木桨 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=239&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "cz-wood-scull",
+   "name": "木橹",
+   "dynasty": "新石器时代马家浜文化",
+   "era": "先秦",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1981年圩墩遗址出土的马家浜文化木橹，长120厘米。原木砍削、尾端渐薄，结合部有对应凹坑；结构可与后世舟具比较，不证明连续传承。",
+   "keywords": [
+    "木橹",
+    "杂项",
+    "漆木与日常"
+   ],
+   "references": [
+    {
+     "title": "木橹 · 官方馆藏记录",
+     "institution": "常州博物馆",
+     "url": "https://www.czmuseum.cn/mobile/#/feaDetail?id=238&cid=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  }
+ ]
+}

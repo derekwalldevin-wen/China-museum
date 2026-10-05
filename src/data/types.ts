@@ -24,9 +24,12 @@ export interface Artifact {
   story: string;        // 文物故事（80-150字）
   holdingInstitution?: string; // 藏品实际收藏单位；与当前浏览入口不同才填写
   exhibitionNote?: string; // 已核的展出关系，不能暗示当前仍在展
+  inventoryNumber?: string;
+  keywords?: string[];
+  references?: { title: string; institution: string; url: string; checkedAt: string; supports: string }[];
 }
 
-export type ArtifactIndex = Omit<Artifact, 'story'>;
+export type ArtifactIndex = Omit<Artifact, 'story' | 'references' | 'keywords' | 'inventoryNumber'>;
 
 export interface Museum {
   id: string;

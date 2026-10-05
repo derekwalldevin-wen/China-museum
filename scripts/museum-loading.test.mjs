@@ -19,15 +19,15 @@ const ids = results => results ? {
 } : null;
 
 function legacySearch(value) {
-  const corpus = Object.fromEntries(museums.flatMap(museum => museum.artifacts.map(artifact => [artifact.id, normalize(artifact.story)])));
+  const corpus = Object.fromEntries(museums.flatMap(museum => museum.artifacts.map(artifact => [artifact.id, normalize([artifact.story, ...(artifact.keywords ?? []), artifact.inventoryNumber ?? ''].join(' '))])));
   return searchMuseumIndex(museums, value, corpus);
 }
 
 test('generated museum data is bound to the untouched authority source', async () => {
   const source = await readFile(new URL('../src/data/museums.ts', import.meta.url));
   assert.equal(createHash('sha256').update(source).digest('hex'), generation.source.sha256);
-  assert.equal(generation.source.museums, 59);
-  assert.equal(generation.source.artifacts, 223);
+  assert.equal(generation.source.museums, museums.length);
+  assert.equal(generation.source.artifacts, museums.reduce((count, museum) => count + museum.artifacts.length, 0));
 });
 
 test('light index preserves order and every non-story field', () => {
@@ -37,7 +37,7 @@ test('light index preserves order and every non-story field', () => {
     assert.deepEqual({ ...museumIndex[i], artifacts:undefined }, { ...museum, artifacts:undefined });
     assert.equal(museumIndex[i].artifacts.length, artifacts.length);
     for (let j = 0; j < artifacts.length; j++) {
-      const { story: _story, ...artifact } = artifacts[j];
+      const { story: _story, references: _references, keywords: _keywords, inventoryNumber: _inventoryNumber, ...artifact } = artifacts[j];
       assert.deepEqual(museumIndex[i].artifacts[j], artifact);
       assert.equal('story' in museumIndex[i].artifacts[j], false);
     }
@@ -54,9 +54,9 @@ test('all 59 full museum payloads round-trip exactly and no stale file remains',
 });
 
 test('lazy story search corpus preserves every normalized full description', () => {
-  assert.equal(Object.keys(searchCorpus).length, 223);
+  assert.equal(Object.keys(searchCorpus).length, museums.reduce((count, museum) => count + museum.artifacts.length, 0));
   for (const museum of museums) for (const artifact of museum.artifacts) {
-    assert.equal(searchCorpus[artifact.id], normalize(artifact.story), artifact.id);
+    assert.equal(searchCorpus[artifact.id], normalize([artifact.story, ...(artifact.keywords ?? []), artifact.inventoryNumber ?? ''].join(' ')), artifact.id);
   }
 });
 
@@ -100,7 +100,7 @@ test('every artifact route resolves to exactly one indexed museum', () => {
     assert.equal(locations.has(artifact.id), false, artifact.id);
     locations.set(artifact.id, museum.id);
   }
-  assert.equal(locations.size, 223);
+  assert.equal(locations.size, museums.reduce((count, museum) => count + museum.artifacts.length, 0));
   for (const museum of museums) for (const artifact of museum.artifacts) assert.equal(locations.get(artifact.id), museum.id);
 });
 

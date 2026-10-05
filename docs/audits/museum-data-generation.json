@@ -1,46 +1,51 @@
 {
- "generatedAt": "2026-10-03T03:53:13.084Z",
+ "generatedAt": "2026-10-05T07:21:17.016Z",
  "source": {
   "path": "src/data/museums.ts",
-  "bytes": 102582,
-  "sha256": "f13694356b755ca37ccc5a680aa0ae3475ceaa83043562ca47b07ada02cc9126",
-  "museums": 59,
-  "artifacts": 223
+  "bytes": 103072,
+  "sha256": "c27da2382595241a4ee687a0768d7d1fe1233f9b9a5363bce7ce2934e8cd3182",
+  "museums": 65,
+  "artifacts": 388
+ },
+ "expansionSource": {
+  "path": "src/data/collection-expansion.json",
+  "bytes": 174582,
+  "sha256": "52500577cfd7aa644453357ea89c2d58fedd454a4fa1564dd5ab675c3e519910"
  },
  "index": {
   "path": "src/data/museum-index.json",
-  "bytes": 47190,
-  "sha256": "8253a11f3d2bd27c999b53638c32e7fd8b3c007522f27e4f328038b9c6666dcc"
+  "bytes": 77025,
+  "sha256": "88ec60f80df371d7ae7a38675be38a1cbfba576a8ae246cbad2f1cb1fe96f7a9"
  },
  "compactIndex": {
   "path": "src/data/museum-index.compact.json",
-  "bytes": 21317,
-  "sha256": "f3370aeb815ffa16dfdd7e3d27400a93924f622f02f8c882f3f9ebe81cc880de"
+  "bytes": 35573,
+  "sha256": "6c6219be5975a54b0fab0d9783e527b1f1ac4244c22085a0a344918196f7065a"
  },
  "searchCorpus": {
   "path": "src/data/artifact-search.json",
-  "bytes": 54678,
-  "sha256": "dd2257ffeaad14d62245008cfd77027d774c42064ed6608f3930bb8436998d90",
-  "entries": 223
+  "bytes": 97197,
+  "sha256": "3cfffbf3154c6e42a7040264502377a382076b049e0f30b6d8ae0aec1fda0b2f",
+  "entries": 388
  },
  "payloads": {
   "directory": "src/data/museum-payloads",
-  "count": 59,
-  "totalBytes": 103707,
+  "count": 65,
+  "totalBytes": 250629,
   "files": [
    {
     "id": "gugong",
     "path": "src/data/museum-payloads/gugong.json",
-    "bytes": 3226,
-    "sha256": "8aa22534eba96658e1233b82175c1e91044b9d6ee9638d2c46fd55eaa7efd99c",
-    "artifacts": 7
+    "bytes": 5600,
+    "sha256": "aed33ff5d8db80352de32175847047881f6fe7e4ad40dee0729a6cff64c2df4d",
+    "artifacts": 9
    },
    {
     "id": "guobo",
     "path": "src/data/museum-payloads/guobo.json",
-    "bytes": 4775,
-    "sha256": "c912f32b08a771658df11abc452fad20a7d365c23235f2fe03254ac43ff65ce7",
-    "artifacts": 10
+    "bytes": 26680,
+    "sha256": "fb79ca86cd61831381fee387e90ca4125f6fbde7b884e90b3cd910c7b00b4518",
+    "artifacts": 31
    },
    {
     "id": "shoubo",
@@ -248,9 +253,9 @@
    {
     "id": "hubei",
     "path": "src/data/museum-payloads/hubei.json",
-    "bytes": 8836,
-    "sha256": "2090bc1e564108a46a5446879182a77c205d4182da68956e3b78f601b9ccaf1e",
-    "artifacts": 22
+    "bytes": 12162,
+    "sha256": "069daf64631bb38dc7ee119f43debf44b736569037715478a1d4c4954151a732",
+    "artifacts": 25
    },
    {
     "id": "jingzhou",
@@ -269,9 +274,9 @@
    {
     "id": "csjiandu",
     "path": "src/data/museum-payloads/csjiandu.json",
-    "bytes": 989,
-    "sha256": "b8c5384169f19f03e7c1c1599f411468fad4577b8290df0e7b16b12449e645c9",
-    "artifacts": 2
+    "bytes": 5038,
+    "sha256": "e4fef2e483a607bf2bb7e0c61079f964e4c9c12083d4df115685dbbed3657ec1",
+    "artifacts": 7
    },
    {
     "id": "guangdong",
@@ -440,6 +445,48 @@
     "bytes": 2191,
     "sha256": "7827a9ae831bc0b07d3a7237bdf8151458c85b3913606419ce808577939b82a7",
     "artifacts": 5
+   },
+   {
+    "id": "chengdu-city",
+    "path": "src/data/museum-payloads/chengdu-city.json",
+    "bytes": 18772,
+    "sha256": "d2c97256132d442aef856f9bf32dd5e2626915bd4a6105ee695688b900767cf6",
+    "artifacts": 21
+   },
+   {
+    "id": "shenzhen-city",
+    "path": "src/data/museum-payloads/shenzhen-city.json",
+    "bytes": 26181,
+    "sha256": "2841b5a1aca35f541d49807d4a86fbcf4b89c0ba7e76e007e2e907c272c75454",
+    "artifacts": 28
+   },
+   {
+    "id": "gansu-jiandu",
+    "path": "src/data/museum-payloads/gansu-jiandu.json",
+    "bytes": 17021,
+    "sha256": "a90f318b3b8c6a7285f1cc95d026bf632fdfa81276103b6dc4f61649f93071ec",
+    "artifacts": 20
+   },
+   {
+    "id": "china-silk",
+    "path": "src/data/museum-payloads/china-silk.json",
+    "bytes": 16897,
+    "sha256": "bd3d2c6cd7757e455406147677a31fb81d509bd7dcba774c2383696b2fc959c0",
+    "artifacts": 20
+   },
+   {
+    "id": "wuhan-city",
+    "path": "src/data/museum-payloads/wuhan-city.json",
+    "bytes": 16703,
+    "sha256": "55561028034d342612590c17f216f4a06ca79f768a9710e20e05edea67dab9e5",
+    "artifacts": 20
+   },
+   {
+    "id": "changzhou-city",
+    "path": "src/data/museum-payloads/changzhou-city.json",
+    "bytes": 19694,
+    "sha256": "67c9a5f2a1745e53f47ac0e57f5fdaae5f4c7e5b38c9e2b7dd229df4f5e1ebdd",
+    "artifacts": 25
    }
   ]
  }

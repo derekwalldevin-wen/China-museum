@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+     
+ 
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="Author" content="万户网络设计制作" />
+<title>中国丝绸博物馆</title>
+<meta name="keywords" content="中国丝绸博物馆" />
+<meta name="Description" content="中国丝绸博物馆" />
+
+<!--
+                       (0 0)
+   +=============oOO====(_)================+
+   |   Powered By wanhu - www.wanhu.com.cn |
+   |   Tel:400-888-0035  020-85575672      |
+   |   Creation:2017.04.06                 |
+   +==========================oOO==========+
+                      |__|__|
+                       || ||
+                      ooO Ooo
+    -->
+<link rel="stylesheet" type="text/css" href="/cn/css/theme.min.css">
+<link rel="stylesheet" type="text/css" href="/cn/css/jquery.bxslider.css">
+<!--glyphicon字体图标-->
+<link rel="stylesheet" href="/cn/css/glyphicon.css" />
+<!-- 项目初始化样式 -->
+<link rel="stylesheet" type="text/css" href="/cn/css/whir_css.css">
+<!-- 优化jquery -->
+<script src="/cn/scripts/jquery-3.6.0.min.js"></script>
+<script src="/cn/scripts/jquery-migrate-1.4.1.min.js"></script>
+<!-- HTML5 shim 和 Respond.js用于IE8支持HTML5标签和媒介查询  -->
+<!--[if lt IE 9]>
+  <script src="/cn/scripts/html5shiv3.7.3.min.js"></script>
+  <script src="/cn/scripts/respondv1.4.2.min.js"></script>
+<![endif]-->
+<script>
+    //判断访问设备，方便后面针对不同设备调用代码
+    var dev = "";
+    if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+        //设备为移动端
+        dev = "mobile";
+        $("html").addClass("mobile");
+    }
+    else {
+        //设备为pc
+        dev = "pc";
+        $("html").addClass("pc");
+    }
+
+    //定义设备宽度和高度
+    var dw = $(window).width(),
+	    dh = $(window).height();
+
+    //console.log("当前使用设备为：" + dev + "||设备宽度为：" + dw + "||设备高度为：" + dh);
+</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?88249fa0632e7cd27a66cab9956af42f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+
+    <script>
+        //定义栏目ID
+        var navID = 1,
+    	    menuID ='4',
+            lcid ='0';
+    </script>
+</head>
+<body>
+    <!--头部-->
+     
+ 
+<header class="header">
+	<div class="m clearfix">
+       
+       <a class="logo" href='/index.aspx'><img src="/uploadfiles/2017/11/201711141339253925.png" ></a>
+       
+       <div class="nav-btn"><span class="glyphicon glyphicon-list"></span></div>
+
+       <div class="mainnav">
+          <ul class="ul clearfix">
+                <li id="nav1"><a href='/bwggk/index_3.aspx' class="nav_a">概况</a><em></em>
+                	<div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                                <dd><a href='/bwggk/index_3.aspx'>关于国丝</a></dd>
+                                <dd><a href='/xsgk/list_26.aspx'>学术概况</a></dd>
+                                
+                                <dd>
+                                    <a href='/gwgk/list_4.aspx?cid=628'>
+                                        馆务公开
+                                    </a>
+                                </dd>
+                                
+                                <dd><a href='/jgzc/list_5.aspx'>机构组成</a></dd>
+                                <dd><a href='/cgjyy/list_6.aspx'>参观及预约</a></dd>
+                                <dd><a href='/zcbwg/list_7.aspx'>支持国丝</a></dd>
+                             </dl>
+                        </div>
+                    </div>
+                </li>
+                <li id="nav2"><a href='/xwdtIR/list_9.aspx'  class="nav_a">动态</a><em></em>
+                <div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                            
+                                <dd><a href="/xwdtIR/list_9.aspx">国丝公告</a></dd>
+                                
+                                <dd><a href="/cs/list_164.aspx">馆内新闻</a></dd>
+                                
+                                <dd><a href="/list_373.aspx">文博要闻</a></dd>
+                                
+                                <dd><a href="/cs/list_168.aspx">社会报道</a></dd>
+                                
+                                <dd><a href="/yg/list_13.aspx">活动预告</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                </li>
+                <li id="nav3"><a href='/ngcxg/list_11.aspx' class="nav_a">活动</a><em></em>
+                	<div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                                
+                                    <dd><a href="/ngcxg/list_11.aspx">女红传习</a></dd>
+                                
+                                    <dd><a href="/jz/list_15.aspx">经纶讲堂</a></dd>
+                                
+                                    <dd><a href="/gszy/list_328.aspx">国丝之夜</a></dd>
+                                
+                                    <dd><a href="/list_151.aspx">国丝研学</a></dd>
+                                
+                                    <dd><a href="/gskt/list_319.aspx">国丝课堂</a></dd>
+                                
+                                    <dd><a href="/sljxy/list_291.aspx">丝路进校园</a></dd>
+                                
+                                    <dd><a href="/gsjr/list_292.aspx">国丝节日</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                </li>
+                <li id="nav4"><a href='/zz/list_17.aspx' class="nav_a">展览</a><em></em>
+                	<div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                                <div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                            
+
+                                <dd><a href="/zz/list_17.aspx">在展</a></dd>
+                                
+
+                                <dd><a href="/yz/list_18.aspx">已展</a></dd>
+                                
+
+                                <dd><a href="/jzNX/list_19.aspx">将展</a></dd>
+                                
+
+                                <dd><a href="/Cloudzl/list_367.aspx">云上展览</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                            </dl>
+                        </div>
+                    </div>
+                </li>
+                <li id="nav5"><a href='/zggd/list_21.aspx' class="nav_a">藏品</a><em></em>
+                	<div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                                <div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                            
+
+                                <dd><a href="/zggd/list_21.aspx">中国历代</a></dd>
+                                
+
+                                <dd><a href="/zgxd/list_22.aspx">中国当代</a></dd>
+                                
+
+                                <dd><a href="/xf/list_23.aspx">西方</a></dd>
+                                
+
+                                <dd><a href="/mzx/list_24.aspx">民族学</a></dd>
+                                
+
+                                <dd><a href="/list_302.aspx">其他</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                            </dl>
+                        </div>
+                    </div>
+                </li>
+                <!-- <li id="nav6"><a href='/xsgk/list_26.aspx' class="nav_a">学术概况</a><em></em>
+                	<div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                                <div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                            
+
+                                <dd><a href="/xsgk/list_26.aspx">学术概况</a></dd>
+                                
+
+                                <dd><a href="/zjwt/list_27.aspx">专家舞台</a></dd>
+                                
+
+                                <dd><a href="/xscg/list_28.aspx">学术成果</a></dd>
+                                
+
+                                <dd><a href="/xshy/list_155.aspx">学术会议</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                            </dl>
+                        </div>
+                    </div>
+                </li> -->
+                <li id="nav7"><a href='/jlt/list_33.aspx' class="nav_a">文创</a><em></em>
+                	<div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                                
+
+                                <dd><a href="/jlt/list_33.aspx">经纶堂</a></dd>
+                                
+
+                                <dd><a href="/jdwc/list_34.aspx">锦道</a></dd>
+                                
+
+                                <dd><a href="/list_300.aspx">微店</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                </li>
+                <!--<li id="nav8"><a href='/slzyFY/index_36.html' class="nav_a">丝路之友</a><em></em>
+                <div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                
+
+                                <dd><a href="/slzyFY/index_36.html">丝路之友</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                </li>-->
+               <li id="nav9"><a href='/jdgs/index_279.aspx' class="nav_a">科研基地</a><em></em>
+                  <div class="navdown">
+                      <div class="m">
+                          <dl class="clearfix">
+                              <dd id="topId327"><a href='/jdgs/index_279.aspx'>基地概况</a></dd>
+                              
+                                  <dd id="topId296"><a href="/gzzd/list_296.aspx">规章制度</a></dd>
+                              
+                                  <dd id="topId297"><a href="/gzz/list_297.aspx">工作站</a></dd>
+                              
+                                  <dd id="topId213"><a href="/kyxm/list_213.aspx">科研项目</a></dd>
+                              
+                                  <dd id="topId211"><a href="/hzjl/list_211.aspx">交流合作</a></dd>
+                              
+                                  <dd id="topId212"><a href="/jsfw/list_212.aspx">技术服务</a></dd>
+                              
+                          </dl>
+                      </div>
+                  </div>
+              </li>
+              <li id="nav10"><a href='/gjslzx/list_305.aspx' class="nav_a">相关机构</a><em></em>
+                  <div class="navdown">
+                      <div class="m">
+                          <dl class="clearfix">
+                              
+                                  <dd id="topId305"><a href="/gjslzx/list_305.aspx">国际丝路中心</a></dd>
+                              
+                                  <dd id="topId306"><a href="/bxfzzwh/list_306.aspx">博协服装设计专委会</a></dd>
+                              
+                                  <dd id="topId307"><a href="/gjscxy/list_307.aspx">国际丝绸学院</a></dd>
+                              
+                                  <dd id="topId308"><a href="/fylm/list_308.aspx">非遗联盟</a></dd>
+                              
+                                  <dd id="topId309"><a href="/bwgf/list_309.aspx">博物工坊</a></dd>
+                              
+                          </dl>
+                      </div>
+                  </div>
+              </li>
+            </ul>
+       </div>
+
+       <div class="top_right">
+            <div class="top_share clearfix">
+                <span class="top_i4"><a href='/index_en.html'>En</a></span>
+                
+                    <a class="top_i3" href='https://weibo.com/87035150' target="_blank"></a>
+                
+        		<a class="top_i2" onclick="javascript: $('#codeBg').css('display','block')"></a>
+                <a href="/cn/CalendarPrediction.aspx"><span class="top_i1"></span></a>
+                <a href='/cgjyy/list_6.aspx'><span class="top_i0">预约</span></a>
+            </div>
+            <div class="sBox">
+                <a href='/gjss/index_222.aspx' class="gjsearch">高级搜索</a>
+                <div class="top_search">
+
+                    <input type="text" id="key" class="top_input1" value="输入关键字..." onblur="if(this.value=='')this.value='输入关键字...';"
+                        onfocus="if(this.value=='输入关键字...')this.value='';" onkeydown="entersearch('key','输入关键字...','请输入关键字！','/cn/search.aspx?key=')">
+                <input type="button" onclick="GoSearchUrl('key','输入关键字...','请输入关键字！','/cn/search.aspx?key=')" class="top_input2" />
+                </div>
+            </div>
+
+
+       </div>
+       <span class="top_is"></span> <a href='/gjss/index_222.aspx' class="top_isGJ">高级搜索</a>
+   </div>
+</header>
+<script>
+    $(document).ready(function (e) {
+		$("#topId215").find("a").attr("href","/jdjj/list_215_lcid_640.html")
+        //导航选中
+        $("#nav" + navID).addClass("onnav");
+
+
+        $('.nav-btn').click(function () {
+            $('.mainnav').slideToggle();
+        })
+        $('.top_is').click(function () {
+            $('.top_search').slideToggle();
+        })
+
+
+        $('.mobile .nav_a').click(function () {
+            $(this).siblings('.navdown').slideToggle();
+            $(this).parent('li').siblings('li').children('.navdown').slideUp();
+        })
+
+    });
+</script>
+<script type="text/javascript">
+    //this function do not use jquery for honner page?
+    function GoSearchUrl(id, searchinputvalue, tip, href) {
+        var searchinput = document.getElementById(id);
+        if (searchinput.value == "" || searchinput.value == searchinputvalue) {
+            alert(tip);
+            searchinput.focus();
+            return false;
+        }
+        if (searchinput.value.length > 50) {
+            alert("输入的关键字字数不要过多！");
+            searchinput.focus();
+            return false;
+        }
+        CheckString(searchinput.value, href);
+    }
+
+    function GoSreach(rs, href) {
+        window.location =href+escape(rs);
+        return true;
+    }
+
+    function entersearch(id, searchinputvalue, tip, href) {
+        var event = window.event || arguments.callee.caller.arguments[0];
+        if (event.keyCode == 13) {
+            GoSearchUrl(id, searchinputvalue, tip, href);
+        }
+    }
+    function CheckString(s, href) {
+        var pattern = new RegExp("[`~!@#$^&*()=|{}':;',\\[\\].<>/?~！@#￥……&*（）—|{}【】‘；：”“'。，、？]")
+        var rs = "";
+        for (var i = 0; i < s.length; i++) {
+            rs = rs + s.substr(i, 1).replace(pattern, '');
+        }
+        if (rs == "") {
+            alert("不能输入特殊字符！");
+            return false;
+        }
+        else {
+            GoSreach(rs, href);
+        }
+    }
+</script>
+
+
+
+    <!--头部-->
+     
+ 
+<!--PC端banner-->
+
+        <aside class="sideban sideban_pc" style="background: url(/uploadfiles/2022/04/20220411162657262.jpg) no-repeat center center;"></aside>
+    <!--手机端banner-->
+    <aside class="sideban sideban_mobile">
+	<img src="/uploadfiles/2018/01/201801051116521652.jpg">
+</aside>
+    
+
+
+    <!--网页主体部分-->
+    <div class="about">
+        <div class="m">
+             
+ 
+<div class="about_menu">
+    <div class="menu_ul">
+        <ul class="ul clearfix">
+            <li id="menu3"><a href='/bwggk/index_3.aspx'>
+                    关于国丝
+                </a></li>
+
+            
+                <li id="menu4">
+                    <a href='/gwgk/list_4.aspx?cid=628'>
+                        馆务公开
+                    </a>
+                </li>
+            
+
+            
+                <li id="menu5">
+                    <a href='/jgzc/list_5.aspx?cid=327'>
+                        机构组成
+                    </a>
+                </li>
+            
+
+            <li id="menu6"><a href='/cgjyy/list_6.aspx'>
+                    参观及预约
+                </a></li>
+
+                
+                <li id="menu7">
+                    <a href='/zcbwg/list_7.aspx?cid=70'>
+                        支持国丝
+                    </a>
+                </li>
+            
+          
+            <li id="menu14"><a href='/yy/list_14.aspx'>
+                    观众留言
+                </a></li>
+            </wtl:list>
+        </ul>
+    </div>
+</div>
+<script>
+    $(document).ready(function (e) {
+        //导航选中
+        $("#menu" + menuID).addClass("onnav");
+
+    });
+
+</script>
+
+            <div class="about_h">
+                <span id='628'><a href='/gwgk/list_4.aspx?cid=628'>规章制度</a></span>
+                 <span id='2'><a href='/gwgk/list_4.aspx?cid=2'>大事记</a></span>
+                 <span id='1'><a href='/gwgk/list_4.aspx?cid=1'>公示</a></span>
+                 
+            </div>
+            <div class="about_body">
+                <div class="detail_body">
+                <div class="detail_head">
+                        <div class="detail_h">
+                            中国丝绸博物馆章程</div>
+                        <div class="detail_time">
+                            2012-10-25</div>
+                    </div>
+                    <div class="detail_text">
+                        <p>目 录<br/></p><p>序言</p><p>第一章&nbsp; 总则</p><p>第二章&nbsp; 举办单位</p><p>第三章&nbsp; 理事会</p><p>第四章&nbsp; 管理层</p><p>第五章&nbsp; 职工</p><p>第六章&nbsp; 藏品展示、保护、管理、处置</p><p>第七章&nbsp; 资产管理与使用</p><p>第八章&nbsp; 信息披露</p><p>第九章&nbsp; 终止和剩余资产处理</p><p>第十章&nbsp; 章程修改</p><p>第十一章&nbsp; 附则</p><p>&nbsp;</p><p>&nbsp;&nbsp;&nbsp;</p><p>序&nbsp;言</p><p>&nbsp;</p><p>中国丝绸博物馆，是国家一级博物馆，于1992年2月26日正式对外开放，2004年起对公众免费开放。建筑面积23000平方米，展览面积9000平方米，包括丝路馆、蚕桑馆、织造馆、修复馆、锦绣廊、时装馆、藏品楼和行政楼等。</p><p>&nbsp;</p><p><strong>第一章 总则</strong></p><p>&nbsp;</p><p>第一条&nbsp; 为促进和保障博物馆依法办馆、科学发展，规范本馆各项业务工作，确保公共文化服务、公共信托职能的实现，根据《中华人民共和国文物保护法》、《事业单位登记管理暂行条例》、《博物馆条例》及其他有关规定，制定本章程。</p><p>第二条&nbsp; 本馆名称为&nbsp;中国丝绸博物馆，英文名为China National Silk Museum。本馆住所为&nbsp;杭州玉皇山路73-1,网址：https://www.chinasilkmuseum.com/<strong>。</strong></p><p>第三条&nbsp; 本馆举办单位浙江省文化厅，登记机关为浙江省事业单位管理局。</p><p>第四条&nbsp; 本馆的经费来源为财政适当补助，开办资金2134万元。</p><p>第五条&nbsp; 本馆是非营利性事业单位，具有独立法人资格，依法享有和履行相应权利义务，独立承担法律责任。</p><p>第六条&nbsp; 本馆的宗旨是：</p><p>本馆是以中国丝绸为核心的纺织服饰文化遗产收藏、保护、研究、展示、传承、创新、并向公众开放的非赢利性常设机构，以研究为基础夯实博物馆丝绸历史、科技保护、传统工艺和当代时尚四大板块，对接国家战略，开展国际合作，服务文化、经济和社会协调发展。</p><p>第七条&nbsp;本馆的业务范围是：</p><p>（一）征集、收藏、保管、保护、研究丝绸、纺织品及与之相关的服饰类文物、标本、机具、文献、艺术品；</p><p>（二）开展纺织服饰类文物的鉴定、认知、保护、修复、复制、仿制等研究，并提供相应技术服务；</p><p>（三）举办各种类型的展览，开展社会教育活动，传播和弘扬丝绸、丝绸之路及时尚生活相关的历史、科学、文化和艺术知识；</p><p>（四）开展蚕桑丝织染绣类文化遗产的保护、传承、利用和创新工作；</p><p>（五）符合本章程的博物馆其它业务范围。</p><p><strong>&nbsp;</strong></p><p><strong>第二章&nbsp; 举办单位</strong></p><p>&nbsp;</p><p>第八条 &nbsp;举办单位的权利:</p><p>（一）提出本馆的宗旨和业务范围；</p><p>（二）组建本馆第一届理事会；</p><p>（三）向本馆理事会委派有关理事；</p><p>（四）按照有关程序任免党组织负责人；</p><p>（五）审核本馆章程草案及章程修改草案；</p><p>（六）批准本馆理事会工作报告；</p><p>（七）支持理事会依照相关法律法规和本章程履行职责；</p><p>（八）监督本馆运行；</p><p>（九）履行法律法规及其它规定明确的举办单位职责。</p><p>第九条 &nbsp;举办单位的义务：</p><p>（一）支持本馆依照法律、法规、规章和本章程自主办馆，制止或者排除侵害或妨碍本馆行使自主权的行为；</p><p>（二）为本馆提供稳定增长的办馆资金和相关资源，提供必备的办馆保障条件和必要的政策支持；</p><p>（三）维护本馆合法权益，支持与引导本馆发展；</p><p>（四）法律、法规规定的其他义务。</p><p><strong>&nbsp;</strong></p><p><strong>第三章&nbsp; 理事会</strong></p><p>&nbsp;</p><p>第一节&nbsp; 理事会的构成和职责</p><p>第十条&nbsp; 理事会是本馆的决策、监督机构，理事会向举办单位报告工作。</p><p>理事会每届任期&nbsp;3&nbsp;&nbsp;年。</p><p>第十一条&nbsp; 本馆理事会成员&nbsp;13&nbsp;&nbsp;名，采用委派、征选或推选方式产生，由举办单位履行任免程序，其来源与名额、产生方式为：</p><p>举办单位或政府部门代表&nbsp;&nbsp;1 名，由举办单位或相关政府部门委派产生；</p><p>社会公众代表&nbsp;9&nbsp;名，包括各利益相关方代表、专家代表、观众代表，由举办单位面向社会征选；</p><p>本馆代表&nbsp;&nbsp;3名，其中馆长、党组织主要负责人为当然理事，其余&nbsp;1名由本馆职工大会选举产生。</p><p>理事会可根据具体情况设名誉理事长1名，名誉理事长不参与理事会具体工作。</p><p>理事会设秘书1人，负责日常联络、会议记录、文稿起草、档案管理等工作。该职务没有发言权、提议权和表决权。</p><p>第十二条 &nbsp;理事会的基本职责：</p><p>（一）确保博物馆的宗旨、业务范围和目的的持续性；</p><p>（二）鼓励公众积极参与博物馆的各项业务活动；</p><p>（三）根据博物馆的宗旨和业务范围提供相应支持，确保藏品及文物在当前和未来的安全和维护；</p><p>（四）确保博物馆能最广泛地为公众服务；</p><p>（五）支持博物馆通过研究，客观准确地诠释和传播有关藏品及文物的知识；</p><p>（六）根据博物馆的宗旨和业务范围，监察和批准各项制度并监督这些制度的执行；</p><p>（七）审议博物馆中长期发展规划，审议和批准博物馆目标和实现途径，监督博物馆计划的执行；</p><p>（八）通过审查、批准、监督预算和财务报告，决策博物馆财政预算支出和募集资金，保证博物馆的财政稳定；</p><p>（九）选举产生理事长、副理事长，评估管理层的工作；</p><p>（十）确保博物馆有充足的人员实施博物馆的各项功能；</p><p>（十一）审议本馆内设和分支机构设置方案；</p><p>（十二）本届理事会任期届满前三个月负责组建下届理事会，并报举办单位审议；</p><p>（十三）履行法律法规及其它规定明确的理事会职责。</p><p>第十三条&nbsp; 理事会向举办单位提交年度工作报告和重大事项专题报告。理事会通过的决议按管理权限须报有关部门批准或备案的，应报有关部门批准或备案。</p><p>第十四条&nbsp; 第一届理事会由举办单位组织；理事会换届改选时，由举办单位、本届理事会共同组织，按程序选举新一届理事。</p><p>&nbsp;</p><p>第二节&nbsp; 理事</p><p>第十五条&nbsp; 理事每届任期与理事会任期相同。任期届满，根据工作需要可以连选连任，但任期最长不超过两届。举办单位或政府部门委派的理事年龄不得超过60岁，社会人士年龄原则上不超过70岁，名誉理事长可视具体情况放宽年限；</p><p>第十六条&nbsp; 理事为非受薪的社会公益职位，不得因理事资格领取薪酬；因履行理事职责产生的交通、通讯等相关补贴，可按有关规定从本馆经费中列支。</p><p>第十七条 &nbsp;理事任职资格：</p><p>（一）熟悉并遵守有关法律法规和国家政策；</p><p>（二）热心社会公益，热爱文博事业，能维护本馆的权益和社会声誉；</p><p>（三）在所在行业具有一定资历和良好声望，能客观、独立表达意见；</p><p>（四）无记过以上行政处分、无违法犯罪、失信记录，且具有完全民事行为能力。</p><p>第十八条&nbsp; 理事享有以下权利：</p><p>（一）出席理事会会议，享有发言权、提议权、表决权、选举权和被选举权；</p><p>（二）对理事会会议和本馆重大事项的知情权、建议权和监督权；</p><p>（三）提议召开临时理事会会议；</p><p>（四）理事会赋予的其他权利。</p><p>第十九条&nbsp; 理事应当履行以下义务：</p><p>（一）遵守有关法律、法规和本章程，在理事职责范围内行使权利，认真履行职责；</p><p>（二）及时向本馆反映社会各界的意见与建议，广泛引导和争取社会资源支持本馆事业发展；</p><p>（三）按时参加理事会会议及相关活动，遵守并执行理事会会议决议；</p><p>（四）遵守理事会规定的其他义务。</p><p>第二十条&nbsp; 理事履职过程中不得有以下情形：</p><p>（一）擅自公开或使用本馆涉密信息；</p><p>（二）凭借理事身份为本人或者他人谋取不当利益；</p><p>（三）以违背本章程规定和精神的方式干扰本馆正常运作；</p><p>（四）从事其他与理事身份不符的行为。</p><p>第二十一条&nbsp; 理事可以在任期内提出辞职。辞职应向理事会递交书面申请，经理事会表决通过后，理事资格方可终止。委派的理事辞职须经委派方同意。</p><p>第二十二条&nbsp; 理事发生以下情形的，理事会应按程序终止其理事资格：</p><p>（一）任期内无正当理由连续两次或累计三次不参加理事会会议的；</p><p>（二）因本人身体健康和工作等原因，无法继续履行理事职责的；</p><p>（三）不能履行理事职责与义务、损害公共利益或本馆利益的；</p><p>（四）违反法律法规，被追究行政或刑事责任的；</p><p>（五）法律法规和本章程规定的其他情形。</p><p>第二十三条&nbsp; 委派或推选的理事任期内因故变动需更换，由委派方或推选方提出人选，经理事会表决通过后，按理事原产生方式及程序予以更换。</p><p>第二十四条&nbsp; 理事出现空缺，应及时按原产生方式及程序填补缺额。新任理事任期为当届理事余下任期。</p><p>&nbsp;</p><p>第三节&nbsp; 理事长</p><p>第二十五条&nbsp; 理事会设理事长1名，副理事长&nbsp;1&nbsp;名。理事长由举办单位提名，理事会选举任命；副理事长由理事长提名，理事会选举任命；</p><p>第二十六条&nbsp; 理事长行使以下职权：</p><p>（一）引导理事会完成其职权，支持本馆实现各项发展目标；</p><p>（二）确定理事会的议题，召集并主持理事会会议；</p><p>（三）督促、检查理事会决议的实施情况；</p><p>（四）代表理事会签署有关文件；</p><p>（五）法律法规和理事会授予的其他职权。</p><p>第二十七条&nbsp; 副理事长协助理事长工作。在理事长缺席情况下，受理事长委托，副理事长可代行相关职权。</p><p>&nbsp;</p><p>第四节&nbsp; 理事会会议</p><p>第二十八条&nbsp; 理事会会议一般由理事长召集和主持。每年应至少召开两次理事会会议，会议召开前十日书面通知全体理事。理事会会议应有三分之二以上的理事出席方可举行。</p><p>第二十九条 &nbsp;理事长认为必要时，或有三分之一以上理事联名提议时，可召开理事会临时会议，并于会议召开前五日书面通知全体理事。</p><p>第三十条&nbsp; 理事会实行民主集中制。采用记名方式投票表决，每名理事享有一票表决权。理事会决议一般事项须经全部理事的半数以上通过，重大事项须经全部理事的三分之二以上通过方可生效。</p><p>重大事项如下：</p><p>（一）拟定及修订本馆章程；</p><p>（二）审议本馆中长期发展战略和发展规划；</p><p>（三）审议本馆重大财务事项；</p><p>（四）审议本馆机构设置方案；</p><p>（五）审议决定本馆理事会成员的聘任和解聘。</p><p>第三十一条&nbsp; 理事会会议应当制作会议记录。出席会议的理事和记录人，应当在会议记录上签名。形成决议的，应当制作会议纪要，并由出席会议的理事审阅、签名。理事会会议记录应当作为本馆重要档案妥善保管。</p><p>第三十二条&nbsp; 理事会会议记录应当载明以下内容：</p><p>（一）出席会议的理事人员、列席人员、缺席理事及缺席事由；</p><p>（二）会议的日期、地点；</p><p>（三）主要议题及议程；</p><p>（四）参会理事的发言要点；</p><p>（五）提交表决事项的表决结果；</p><p>（六）理事会认为应当载入会议记录的其他内容。</p><p>第三十三条&nbsp; 理事会决议违反法律、法规或本单位章程规定，致使本馆利益遭受损失的，参与决议的理事应当承担责任。经证明在表决时反对并记载于会议记录的，该理事可免除责任。</p><p>&nbsp;</p><p><strong>第四章&nbsp;管理层</strong></p><p>&nbsp;</p><p>第三十四条&nbsp; 本馆管理层是理事会的执行机构，向理事会负责，由馆长、党组织负责人、副馆长和其他核心管理人员组成，实行馆长负责制。</p><p>第三十五条 &nbsp;馆长及管理层根据干部管理权限任免；党组织负责人按照有关规定和程序任免。</p><p>第三十六条&nbsp; 管理层履行下列职责：</p><p>（一）组织实施理事会的决议，接受理事会的监督；</p><p>（二）编制博物馆发展规划，组织开展业务活动，实施年度工作计划等日常工作管理；</p><p>（三）编制并组织实施经费预算等财务资产管理；</p><p>（四）按照相关条例做好职工招聘、岗位晋升、人员管理、内设或分支机构的设置、薪酬发放等工作；</p><p>（五）做好文物安全工作、保障本馆内参观及活动人群的安全；</p><p>（六）根据工作需要可提议设立发展规划、薪酬与考核、展览陈列、藏品征集与保护等咨询委员会或专业委员会。</p><p>第三十七条&nbsp; 馆长作为拟任法定代表人人选，经登记管理机关核准登记后，取得本馆法定代表人资格。&nbsp;</p><p>馆长行使下列职责：</p><p>（一）全面负责本单位业务、人事、财务、资产、征集等各项管理工作；</p><p>（二）组织制定本馆内设机构设置方案和基本管理制度；</p><p>（三）按照理事会决议主持开展工作；</p><p>（四）法律法规和本章程规定的其他职责。</p><p>第三十八条&nbsp; 副馆长协助馆长工作。馆长因故临时不能行使职权时，指定副馆长代行其职权。</p><p>&nbsp;</p><p><strong>第五章 职工</strong></p><p>&nbsp;</p><p>第三十九条&nbsp; 本馆职工由专业技术人员、管理人员、工勤人员等组成。</p><p>第四十条&nbsp; 本馆按照事业单位人事管理的有关规定对职工进行管理。招聘、聘用、考核、晋升、奖惩等具体办法由本馆或本馆授权的相关职能部门依法另行制定和实施。</p><p>第四十一条&nbsp; 职工根据法律、行政法规、规章以及本章程的规定享有下列基本权利：</p><p>（一）开展岗位要求的工作，按其岗位职责和贡献程度依据有关规定领取相应薪酬；</p><p>（二）对博物馆事务提出意见和建议，通过职工代表大会等参与民主管理；</p><p>（三）公平地获得个人发展所需的相应工作、学习和交流的机会；</p><p>（四）在工作业绩、工作能力等方面获得公正评价，公平地获得各级各类奖励及各种荣誉称号；</p><p>（五）对职称、待遇、纪律处分等涉及其切身利益的相关决定表达异议，提出申诉，并请求处理；</p><p>（六）法律、行政法规、规章、章程以及博物馆规章制度或者聘约规定的其他权利。</p><p>第四十二条　职工根据法律、行政法规、规章以及本章程的规定应当履行下列基本义务：</p><p>（一）遵守宪法、法律和博物馆职业道德，不断提高思想政治觉悟和业务水平；</p><p>（二）珍惜爱护博物馆声誉，维护博物馆利益，遵守博物馆各项规章制度；</p><p>（三）勤奋工作，恪尽职守，完成岗位要求的工作任务；</p><p>（四）法律、行政法规、规章、章程以及本馆规章制度或者聘约规定的其他义务。</p><p>&nbsp;</p><p><strong>第六章&nbsp; 藏品展示、保护、管理、处置</strong></p><p>&nbsp;</p><p>第四十三条&nbsp; 本馆坚持博物馆公共信托职责，所有藏品均为永久性收藏，按照有关法律法规合法保藏和利用。</p><p>第四十四条&nbsp; 本馆应当建立完备的藏品账目及档案，区分文物藏品等级、单独设置文物档案，建立严格的管理制度，并报文物主管部门备案。</p><p>第四十五条&nbsp; 本馆法定代表人对藏品安全负责，法定代表人、藏品管理人员离任前，应当办结藏品移交手续。</p><p>第四十六条&nbsp; 本馆举办陈列展览，开展社会教育和公众服务，其主题和内容应当符合宪法所确定的基本原则和维护国家安全与民族团结、弘扬爱国主义、倡导科学精神、普及科学知识、传播优秀文化、培养良好风尚、促进社会和谐、推动社会文明进步的要求。</p><p>第四十七条&nbsp; 本馆不得从事文物等藏品的商业经营活动。从事其他商业经营活动，不得违反办馆宗旨，不得损害观众利益。</p><p>第四十八条&nbsp; 本馆终止后，藏品处置依照有关文物保护法律法规的规定处理。</p><p>&nbsp;</p><p><strong>第七章&nbsp; 资产的管理和使用</strong></p><p>&nbsp;</p><p>第四十九条&nbsp; 本馆的合法资产受法律保护，任何单位、个人不得侵占、私分、挪用。</p><p>第五十条&nbsp; 本馆的经费使用应符合本馆的宗旨和业务范围。</p><p>第五十一条&nbsp; 本馆执行国家统一的事业单位会计制度，依法接受税务、会计、审计等主管部门监督。</p><p>第五十二条&nbsp; 本馆的人员工资、社保、福利待遇按照国家有关规定执行。</p><p>第五十三条&nbsp; 理事会换届和本馆的法定代表人离任前，应当进行经济责任审计。&nbsp;&nbsp;</p><p>&nbsp;</p><p><strong>第八章&nbsp;&nbsp; 信息披露</strong></p><p>&nbsp;</p><p>第五十四条&nbsp; 本馆承诺按照相关法律法规、政策和登记管理机关的规定，真实、完整、及时地披露应当公开的相关信息。</p><p>第五十五条&nbsp; 信息披露的主要形式：单位年报、职工大会、公示栏和相关新闻媒体及网站。&nbsp;</p><p>&nbsp;</p><p><strong>第九章&nbsp;&nbsp; 终止和剩余资产处理</strong></p><p>&nbsp;</p><p>第五十六条&nbsp; 本馆有以下情形之一，应当终止：</p><p>（一）经审批机关决定撤销；</p><p>（二）合并、分立；</p><p>（三）因其他原因依法应当终止的。</p><p>第五十七条&nbsp; 本馆在申请注销登记前，理事会在举办单位和有关机关的指导下，成立清算组织，开展清算工作。清算期间不开展清算以外的任何活动。</p><p>第五十八条&nbsp; 本馆所有藏品及文物，应由政府主管部门组织清点封存，可划拨其他博物馆等机构用于公益性目的，不得用于清算偿债。</p><p>第五十九条&nbsp; 清算工作结束，形成清算报告，经理事会通过，报举办单位审查同意后，向登记管理机关申请注销登记。</p><p>第六十条&nbsp; 本馆终止后的其他剩余资产，在相关政府部门的监督下，按照有关法律法规和本馆章程进行处置。</p><p>&nbsp;</p><p><strong>第十章 &nbsp; 章程修改</strong></p><p>&nbsp;</p><p>第六十一条 &nbsp;本馆有下列情形之一的，应修改章程：</p><p>（一）章程规定的事项与修改后的国家法律、行政法规的规定不符的；</p><p>（二）章程内容与实际情况不符的；</p><p>（三）理事会认为应当修改章程的其他情形。</p><p>第六十二条&nbsp; 理事会决议通过的章程修改案，经举办单位审查同意后，报登记管理机关核准备案。涉及事业单位法人登记事项的，须向登记管理机关申请变更登记。</p><p>&nbsp;</p><p><strong>第十一章&nbsp; 附则</strong></p><p>&nbsp;</p><p>第六十三条&nbsp; 本章程经&nbsp;&nbsp; 年&nbsp;&nbsp; 月&nbsp;&nbsp; 日理事会表决通过。自事业单位登记管理机关核准备案之日起生效。</p><p>第六十四条&nbsp; 本章程中的各项条款与法律、法规不符的，以法律、法规的规定为准。涉及事业单位法人登记事项的，以登记管理机关核准颁发的《事业单位法人证书》刊载内容为准。</p><p>第六十五条&nbsp; 本章程解释权属于本馆理事会。</p>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--网页主体部分-->
+    <!--底部-->
+     
+ 
+<footer class="footer">
+    <div class="m">
+        <div class="footer_nav">
+            <ul class="ul clearfix">
+                <li><a href='/bwggk/index_3.aspx' class="nav_a">概况</a></li>
+                <li><a href='/xwdtIR/list_9.aspx'  class="nav_a">动态</a></li>
+                <li><a href='/ngcxg/list_11.aspx' class="nav_a">活动</a></li>
+                <li><a href='/zz/list_17.aspx' class="nav_a">展览</a></li>
+                <li><a href='/zggd/list_21.aspx' class="nav_a">藏品</a></li>
+                <li><a href='/jlt/list_33.aspx' class="nav_a">文创</a></li>
+                <li><a href='/jdgs/index_279.aspx' class="nav_a">科研基地</a></li>
+                <li><a href='/gjslzx/list_305.aspx' class="nav_a">相关机构</a></li>
+            </ul>
+        </div>
+        <div class="footer_nav2">
+            <ul class="ul clearfix">
+                <li>
+                    <dl>
+                        <dd><a href='/bwggk/index_3.aspx'>关于国丝</a></dd>
+                        <dd><a href='/xsgk/list_26.aspx'>学术概况</a></dd>
+                        
+                                <dd>
+                                    <a href='/gwgk/list_4.aspx?cid=628'>
+                                        馆务公开
+                                    </a>
+                                </dd>
+                        
+                        <dd><a href='/jgzc/list_5.aspx'>机构组成</a></dd>
+                        <dd><a href='/cgjyy/list_6.aspx'>参观及预约</a></dd>
+                        <dd><a href='/zcbwg/list_7.aspx'>支持国丝</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        
+                            <dd><a href="/xwdtIR/list_9.aspx">国丝公告</a></dd>
+                        
+                            <dd><a href="/cs/list_164.aspx">馆内新闻</a></dd>
+                        
+                            <dd><a href="/list_373.aspx">文博要闻</a></dd>
+                        
+                            <dd><a href="/cs/list_168.aspx">社会报道</a></dd>
+                        
+                            <dd><a href="/yg/list_13.aspx">活动预告</a></dd>
+                        
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        
+                                    <dd><a href="/ngcxg/list_11.aspx">女红传习</a></dd>
+                                
+                                    <dd><a href="/jz/list_15.aspx">经纶讲堂</a></dd>
+                                
+                                    <dd><a href="/gszy/list_328.aspx">国丝之夜</a></dd>
+                                
+                                    <dd><a href="/list_151.aspx">国丝研学</a></dd>
+                                
+                                    <dd><a href="/gskt/list_319.aspx">国丝课堂</a></dd>
+                                
+                                    <dd><a href="/sljxy/list_291.aspx">丝路进校园</a></dd>
+                                
+                                    <dd><a href="/gsjr/list_292.aspx">国丝节日</a></dd>
+                                
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        
+
+                                <dd><a href="/zz/list_17.aspx">在展</a></dd>
+                                
+
+                                <dd><a href="/yz/list_18.aspx">已展</a></dd>
+                                
+
+                                <dd><a href="/jzNX/list_19.aspx">将展</a></dd>
+                                
+
+                                <dd><a href="/Cloudzl/list_367.aspx">云上展览</a></dd>
+                                
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        
+
+                                <dd><a href="/zggd/list_21.aspx">中国历代</a></dd>
+                                
+
+                                <dd><a href="/zgxd/list_22.aspx">中国当代</a></dd>
+                                
+
+                                <dd><a href="/xf/list_23.aspx">西方</a></dd>
+                                
+
+                                <dd><a href="/mzx/list_24.aspx">民族学</a></dd>
+                                
+
+                                <dd><a href="/list_302.aspx">其他</a></dd>
+                                
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        
+
+                                <dd><a href="/jlt/list_33.aspx">经纶堂</a></dd>
+                                
+
+                                <dd><a href="/jdwc/list_34.aspx">锦道</a></dd>
+                                
+
+                                <dd><a href="/list_300.aspx">微店</a></dd>
+                                
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dd><a href='/jdgs/index_279.aspx'>基地概况</a></dd>
+                              
+                                  <dd id="topId296"><a href="/gzzd/list_296.aspx">规章制度</a></dd>
+                              
+                                  <dd id="topId297"><a href="/gzz/list_297.aspx">工作站</a></dd>
+                              
+                                  <dd id="topId213"><a href="/kyxm/list_213.aspx">科研项目</a></dd>
+                              
+                                  <dd id="topId211"><a href="/hzjl/list_211.aspx">交流合作</a></dd>
+                              
+                                  <dd id="topId212"><a href="/jsfw/list_212.aspx">技术服务</a></dd>
+                              
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        
+                                  <dd id="topId305"><a href="/gjslzx/list_305.aspx">国际丝路中心</a></dd>
+                              
+                                  <dd id="topId306"><a href="/bxfzzwh/list_306.aspx">博协服装设计专委会</a></dd>
+                              
+                                  <dd id="topId307"><a href="/gjscxy/list_307.aspx">国际丝绸学院</a></dd>
+                              
+                                  <dd id="topId308"><a href="/fylm/list_308.aspx">非遗联盟</a></dd>
+                              
+                                  <dd id="topId309"><a href="/bwgf/list_309.aspx">博物工坊</a></dd>
+                              
+                    </dl>
+                </li>
+            </ul>
+        </div>
+
+        <div class="footer_share bdsharebuttonbox clearfix">
+            <span class="footer_span4 gotop"></span>
+            <span class="footer_span5 gotop"></span>
+        </div>
+
+<div class="links">
+<a href='/wzdt/index_38.aspx' target="_blank">网站地图</a><em></em>
+<a href='/flsm/index_39.aspx' target="_blank">法律声明</a><em></em>
+<a href='/yqlj/list_40.aspx' target="_blank">友情链接</a><em></em>
+
+<a href='https://tongji.baidu.com/web/welcome/login' target="_blank">流量统计</a>
+
+</div>
+<div class="copyright">
+<span>© 2012 中国丝绸博物馆 版权所有</span>
+<span>
+
+
+    <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备05027391号-1  </a>
+
+
+DESIGNED BY <a href="http://www.wanhu.com.cn" target="_blank">Wanhu</a>.</span>
+
+<div>
+<p class="p1">浙公网安备：33019902000116<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/12/000/0000/40683746/CA120000000406837460002.js' type='text/javascript'%3E%3C/script%3E"));</script></p>
+</div>
+
+
+</div>
+
+
+</div>
+</footer>
+<!-- JiaThis Button END -->
+<script>
+    $(function () {
+
+        $('.gotop').click(function () {
+            $('html ,body').animate({ scrollTop: 0 }, 500);
+            return false;
+        });
+    });
+
+</script>
+<style type="text/css">
+	.copyright .p1{;padding-left: 25px;background:url(/uploadfiles/ii.png) no-repeat; color: #747474; display: inline-block;}
+	#imgConac{margin-left: 20px;}
+
+    #codeBg {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        display: none;
+        background-color: rgba(0, 0, 0, 0.17);
+        z-index: 10;
+        top: 0;
+    }
+
+        #codeBg .codebox {
+            background: white;
+            width: 200px;
+            text-align: center;
+            padding: 20px 0;
+            margin: 140px auto;
+            border-radius: 8px;
+            position: relative;
+        }
+
+            #codeBg .codebox .close {
+                position: absolute;
+                font-size: 16px;
+                right: 12px;
+                top: 8px;
+                cursor: pointer;
+            }
+    #codeBg .codebox span{display: block;text-align: center;}
+
+</style>
+<div id="codeBg">
+    <div class="codebox">
+        
+            <img src="/uploadfiles/2018/03/20180319134147716.jpg" />
+            <span>关注我们</span>
+        
+        <i class="close">×</i>
+    </div>
+</div>
+<script type="text/javascript">
+    $("#codeBg .codebox .close").click(function () {
+        $("#codeBg").css("display", "none");
+    });
+</script>
+<script>
+    var pagenum = '';
+    if (pagenum == "") {
+        $("#pageNum1").addClass("a_cur")
+    } else {
+        $("#pageNum" + pagenum).addClass("a_cur")
+    }
+
+
+
+    $(".Pages").find("a").each(function () {
+        var url = $(this).attr("href");
+        url = url.replace('.html', '');
+        if (url.indexOf("page") >= 0) {
+            var page = '';
+            var arr = url.split('_');
+            for (let i = 0; i < arr.length; i++) {
+                if (!isNaN(arr[i])) {
+                    page = arr[i]
+                }
+            }
+            var url2 = arr[0] + "_page_" + page + ".html";
+            $(this).attr("href", url2);
+        }
+    })
+	
+	$('img').bind('error', function () {
+		$(this).attr('src', '/uploadfiles/nopic.jpg');
+		$(this).hide()
+	});
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?7f1971daeee2771c686d2ee8f9b361b4";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+    <!--底部-->
+    <script>
+        $(".about_h #" + lcid).addClass("ah_active");
+    </script>
+    <script>
+        if ("4" == "4" && "" == "628") {
+            $("body").css({ "-moz-user-select": "none", "-webkit-user-select": "none", "-ms-user-select": "none", "-khtml-user-select": "none", "user-select": "none" });
+        }
+    </script>
+</body>
+</html>

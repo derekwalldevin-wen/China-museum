@@ -1,0 +1,774 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+<base href="/mu/">
+<title>上海博物馆</title>
+<link rel="icon" type="image/vnd.microsoft.icon" href="site/img/favicon.ico">
+<link rel="stylesheet" href="site/lib/baguettebox/baguetteBox.min.css">
+<link rel="stylesheet" href="site/lib/sharejs/css/share.min.css">
+<link rel="stylesheet" href="site/lib/luxbar/luxbar.min.css">
+<link rel="stylesheet" href="site/lib/fontawesome/css/all.min.css">
+
+
+<link rel="stylesheet" href="site/lib/tooltipster/css/tooltipster.bundle.min.css">
+<link rel="stylesheet" href="site/lib/tooltipster/css/plugins/tooltipster/sideTip/themes/tooltipster-sideTip-borderless.min.css">
+<link rel="stylesheet" href="site/lib/tooltipster/css/plugins/tooltipster/sideTip/themes/tooltipster-sideTip-light.min.css">
+<link rel="stylesheet" href="site/lib/tooltipster-follower/css/tooltipster-follower.min.css">
+<link rel="stylesheet" href="site/lib/fullpage.js/fullpage.min.css">
+<link rel="stylesheet" href="site/lib/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
+<link rel="stylesheet" href="site/lib/toastr/toastr.min.css">
+<link rel="stylesheet" href="site/lib/superfish/css/superfish.css">
+<link rel="stylesheet" href="site/lib/superfish/css/superfish-vertical.css">
+<link rel="stylesheet" href="site/lib/slick/slick.css">
+<link rel="stylesheet" href="site/lib/slick/slick-theme.css">
+<link rel="stylesheet" href="site/lib/fancybox/jquery.fancybox.min.css">
+<link rel="stylesheet" href="site/lib/layui/css/layui.css">
+<link rel="stylesheet" href="site/css/common.css">
+<link rel="stylesheet" href="site/css/common-m.css">
+<link rel="stylesheet" href="site/css/common-m-medium.css" media="all and (min-width: 500px)">
+<link rel="stylesheet" href="site/css/common-m-large.css" media="all and (min-width: 1000px)">
+<link rel="stylesheet" href="site/css/jiangnan.css">
+<link rel="stylesheet" href="site/css/jiangnan-m.css">
+<link rel="stylesheet" href="site/css/lib1.css">
+<link rel="stylesheet" href="site/css/lib2.css">
+<link rel="stylesheet" href="site/css/lib-m.css">
+<link rel="stylesheet" href="site/css/seventy.css">
+<link rel="stylesheet" href="site/css/seventy-m.css">
+<link rel="stylesheet" href="site/css/color.css">
+<link rel="stylesheet" href="site/css/color-m-portrait.css" media="all and (orientation: portrait)">
+<link rel="stylesheet" href="site/css/color-m-landscape.css" media="all and (orientation: landscape)">
+<link rel="stylesheet" href="site/css/common-patch.css">
+<link rel="stylesheet" href="site/css/common-m-patch.css">
+<link rel="stylesheet" href="site/css/common-antique-m-landscape.css" media="all and (orientation: landscape)">
+<script src="//webapi.amap.com/maps?v=1.4.15&key=1e621b25dfa85850848e00d64f7590f3"></script>
+<script src="//res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
+<script src="site/lib/o3dv/o3dv.min.js"></script>
+<script src="site/lib/three/three.js"></script>
+<script src="site/lib/a-color-picker/acolorpicker.js"></script>
+<script src="site/lib/iro/iro.min.js"></script>
+<script src="site/lib/gsap3/gsap.min.js"></script>
+<script src="site/lib/scrollreveal/scrollreveal.min.js"></script>
+<script src="site/lib/jsmpeg/jsmpeg.min.js"></script>
+<script src="site/lib/howler/howler.min.js"></script>
+<script src="site/lib/interactjs/interact.min.js"></script>
+<script src="site/lib/hammerjs/hammer.min.js"></script>
+<script src="site/lib/fabric/fabric.min.js"></script>
+<script src="site/lib/echarts/echarts.min.js"></script>
+<script src="site/lib/baguettebox/baguetteBox.min.js"></script>
+<script src="site/lib/sharejs/js/social-share.min.js"></script>
+<script src="site/lib/qrcode/qrcode.min.js"></script>
+<script src="site/lib/qr-code-styling/qr-code-styling.js"></script>
+<script src="site/lib/uri/URI.min.js"></script>
+<script src="site/lib/validatorjs/validator.min.js"></script>
+<script src="site2/cdn/handlebars.js/4.7.8/handlebars.min.js" type="application/javascript"></script>
+<script src="site/lib/watermarkjs/watermark.min.js"></script>
+<script src="site/lib/html2canvas/html2canvas.min.js"></script>
+<script src="site/lib/file-saver/FileSaver.min.js"></script>
+
+
+<script src="site2/cdn/jquery/3.7.1/jquery.min.js"></script>
+<script src="site2/cdn/jquery-migrate/3.5.2/jquery-migrate.min.js"></script>
+<script src="site/lib/jquery.mousewheel/jquery.mousewheel.min.js"></script>
+<script src="site/lib/masonry/masonry.pkgd.min.js"></script>
+<script src="site/lib/tooltipster/js/tooltipster.bundle.min.js"></script>
+<script src="site/lib/tooltipster-follower/js/tooltipster-follower.min.js"></script>
+<script src="site/lib/print/jQuery.print.min.js"></script>
+<script src="site/lib/jquery.pin/jquery.pin.min.js"></script>
+<script src="site/lib/fullpage.js/vendors/scrolloverflow.min.js"></script>
+<script src="site/lib/fullpage.js/fullpage.min.js"></script>
+<script src="site/lib/imagesloaded/imagesloaded.pkgd.min.js"></script>
+<script src="site/lib/headroom/headroom.min.js"></script>
+<script src="site/lib/headroom/jQuery.headroom.min.js"></script>
+<script src="site/lib/jquery.nicescroll/jquery.nicescroll.js"></script>
+<script src="site/lib/jquery.marquee/jquery.marquee.min.js"></script>
+<script src="site/lib/animatescroll/animatescroll.min.js"></script>
+<script src="site/lib/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="site/lib/toastr/toastr.min.js"></script>
+<script src="site/lib/superfish/js/superfish.min.js"></script>
+<script src="site/lib/slick/slick.min.js"></script>
+<script src="site/lib/fancybox/jquery.fancybox.min.js"></script>
+<script src="site/lib/layui/layui.js"></script>
+<script src="site/js/common.js"></script>
+	<style>
+		.shmu-main {
+			--columns: 4;
+			--gutter-width: 15px;
+			--gutters: calc(var(--columns) - 1);
+			--square-width: calc((var(--main-width) - var(--gutter-width) * var(--gutters)) / var(--columns));
+			display: grid;
+			grid-template-columns: repeat(var(--columns), 1fr);
+			grid-auto-rows: var(--square-width);
+			grid-gap: var(--gutter-width);
+		}
+	</style>
+</head>
+<body class="shmu-body first-column">
+	
+
+
+
+
+
+
+<div id="shmu-current-date" class="layui-hide">2026-10-04</div>
+<div class="shmu-top">
+	<a href="frontend/pg/index" class="shmu-logo">
+		<img src="/mu/site/img/logo.png">
+	</a>
+	<div class="site-flex-item"></div>
+	<ul id="top-menu" class="sf-menu shmu-top-menu">
+		<li>
+			<a href="frontend/pg/service/index">服务</a>
+			<ul>
+				<li style="display: none;">
+					<a href="frontend/pg/service/admission">观众须知</a>
+				</li>
+				<li>
+					<a href="frontend/pg/service/services">服务项目</a>
+				</li>
+				<li style="display: none;">
+					<a href="frontend/pg/service/facilities">馆内设施</a>
+				</li>
+				<li>
+					<a href="frontend/pg/service/location">位置周边</a>
+				</li>
+				<li style="display: none;">
+					<a href="frontend/pg/display/road">推荐路线</a>
+				</li>
+				<li>
+					<a href="frontend/pg/service/shop">文创商店</a>
+				</li>
+				<!--
+				<li>
+					<a href="frontend/pg/service/privacy">隐私声明</a>
+				</li>
+				-->
+			</ul>
+		</li>
+		<li>
+			<a href="frontend/pg/infomation/index">资讯</a>
+			<ul>
+				<li>
+					<a href="javascript:;">关于我们</a>
+					<ul>
+						<li>
+							<a href="frontend/pg/infomation/history">本馆介绍</a>
+						</li>
+						<li>
+							<a href="frontend/pg/infomation/icon">馆标介绍</a>
+						</li>
+						<li>
+							<a href="frontend/pg/infomation/leader">领导介绍</a>
+						</li>
+						<li>
+							<a href="frontend/pg/infomation/regulation">理事会章程</a>
+						</li>
+						<li>
+							<a href="frontend/pg/infomation/organization">组织架构</a>
+						</li>
+						<li>
+							<a href="frontend/pg/infomation/privacy">隐私政策</a>
+						</li>
+						<li>
+							<a href="frontend/pg/infomation/contact">联系我们</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="frontend/pg/infomation/bulletin-overview">本馆公告</a>
+					<ul>
+						<li>
+							<a href="frontend/pg/infomation/bulletin?bulletinInfoTypeCode=BULLETIN_INFO_TYPE_1">服务公告</a>
+						</li>
+						<li>
+							<a href="frontend/pg/infomation/bulletin?bulletinInfoTypeCode=BULLETIN_INFO_TYPE_2">人事公告</a>
+						</li>
+						<li>
+							<a href="frontend/pg/infomation/bulletin?bulletinInfoTypeCode=BULLETIN_INFO_TYPE_3">对外交流</a>
+						</li>
+						<li>
+							<a href="frontend/pg/infomation/bulletin?bulletinInfoTypeCode=BULLETIN_INFO_TYPE_4">馆务公开</a>
+						</li>
+						<li>
+							<a href="frontend/pg/infomation/bulletin?bulletinInfoTypeCode=BULLETIN_INFO_TYPE_5">财政公开</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="frontend/pg/infomation/news">新闻动态</a>
+				</li>
+				<li>
+					<a href="javascript:;">媒体资源</a>
+					<ul>
+						<li>
+							<a href="frontend/pg/infomation/museum-video-overview">视频</a>
+							<ul>
+								<li>
+									<a href="frontend/pg/infomation/museum-video?videoTypeCode=VIDEO_TYPE_1">展览</a>
+								</li>
+								<li>
+									<a href="frontend/pg/infomation/museum-video?videoTypeCode=VIDEO_TYPE_2">专题</a>
+								</li>
+								<li>
+									<a href="frontend/pg/infomation/museum-video?videoTypeCode=VIDEO_TYPE_3">讲座</a>
+								</li>
+								<li>
+									<a href="frontend/pg/infomation/museum-video?videoTypeCode=VIDEO_TYPE_4">活动</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="javascript:;">三维</a>
+							<ul>
+								<li>
+									<a href="frontend/pg/infomation/three-dimensions?threeDimensionsInfoTypeCode=INFOMATION_3D_TYPE_1">场景</a>
+								</li>
+								<!--
+								<li>
+									<a href="frontend/pg/infomation/three-dimensions?threeDimensionsInfoTypeCode=INFOMATION_3D_TYPE_2">藏品</a>
+								</li>
+								-->
+							</ul>
+						</li>
+						<li>
+							<a href="frontend/pg/infomation/ar">AR藏品</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="javascript:;">数字产品</a>
+					<ul>
+						<li>
+							<a href="frontend/pg/infomation/card">贺卡</a>
+						</li>
+						<li>
+							<a href="frontend/pg/infomation/desktop">桌面</a>
+						</li>
+						<li>
+							<a href="frontend/pg/infomation/manual">导览手册</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="frontend/pg/infomation/volunteer">志愿者之家</a>
+				</li>
+			</ul>
+		</li>
+		<li style="display: none;">
+			<a href="frontend/pg/activity/activity">活动</a>
+			<ul>
+				
+							<li>
+								<a href="frontend/pg/activity/activity?seriesId=2">专题讲座</a>
+							</li>
+						
+							<li>
+								<a href="frontend/pg/activity/activity?seriesId=3">专题导览</a>
+							</li>
+						
+							<li>
+								<a href="frontend/pg/activity/activity?seriesId=8">艺术欣赏</a>
+							</li>
+						
+							<li>
+								<a href="frontend/pg/activity/activity?seriesId=13">其他</a>
+							</li>
+						
+							<li>
+								<a href="frontend/pg/activity/activity?seriesId=17">体验工坊</a>
+							</li>
+						
+			</ul>
+		</li>
+		<li>
+			<a href="frontend/pg/collection/index">典藏</a>
+			<ul>
+				<li>
+					<a href="frontend/pg/lib1/index">数字文物库</a>
+				</li>
+				<li>
+					<a href="frontend/pg/collection/antique">典藏精选</a>
+					<ul>
+						<li>
+							<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_1">金石</a>
+							<ul>
+								<li>
+									<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_1&antiqueType2Code=CP_SMALL_CLASS_TYPE_1_1">青铜</a>
+								</li>
+								<li>
+									<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_1&antiqueType2Code=CP_SMALL_CLASS_TYPE_1_2">雕塑</a>
+								</li>
+								<li>
+									<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_1&antiqueType2Code=CP_SMALL_CLASS_TYPE_1_3">钱币</a>
+								</li>
+								<li>
+									<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_1&antiqueType2Code=CP_SMALL_CLASS_TYPE_1_4">其他</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_2">陶瓷</a>
+						</li>
+						<li>
+							<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_3">书画</a>
+							<ul>
+								<li>
+									<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_3&antiqueType2Code=CP_SMALL_CLASS_TYPE_3_1">书法</a>
+								</li>
+								<li>
+									<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_3&antiqueType2Code=CP_SMALL_CLASS_TYPE_3_2">绘画</a>
+								</li>
+								<li>
+									<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_3&antiqueType2Code=CP_SMALL_CLASS_TYPE_3_3">其他</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_4">工艺</a>
+							<ul>
+								<li>
+									<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_4&antiqueType2Code=CP_SMALL_CLASS_TYPE_4_1">玉器</a>
+								</li>
+								<li>
+									<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_4&antiqueType2Code=CP_SMALL_CLASS_TYPE_4_2">家具</a>
+								</li>
+								<li>
+									<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_4&antiqueType2Code=CP_SMALL_CLASS_TYPE_4_3">少数民族</a>
+								</li>
+								<li>
+									<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_4&antiqueType2Code=CP_SMALL_CLASS_TYPE_4_4">其他</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<!--
+				<li>
+					<a href="frontend/pg/collection/treasure">珍品百选</a>
+				</li>
+				-->
+				<!--
+				<li>
+					<a href="frontend/pg/infomation/three-dimensions?threeDimensionsInfoTypeCode=INFOMATION_3D_TYPE_2">三维藏品</a>
+				</li>
+				-->
+				<li>
+					<a href="frontend/pg/infomation/ar">AR藏品</a>
+				</li>
+				<li>
+					<a href="frontend/member/my-favorite">我的收藏</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href="frontend/pg/display/index">展示</a>
+			<ul>
+				<li>
+					<a href="frontend/pg/display/gallery">常设陈列（线上展厅）</a>
+				</li>
+				<li>
+					<a href="frontend/pg/infomation/three-dimensions?threeDimensionsInfoTypeCode=INFOMATION_3D_TYPE_1">历年特展（线上展厅）</a>
+				</li>
+				<li>
+					<a href="frontend/pg/display/offline-exhibit">特别展览</a>
+				</li>
+				<li>
+					<a href="frontend/pg/display/online-exhibit">网上展览</a>
+				</li>
+				<li>
+					<a href="frontend/pg/collection/monthly-treasure">珍品精读</a>
+				</li>
+				<li style="display: none;">
+					<a href="frontend/pg/display/road">推荐路线</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href="frontend/pg/research/index">研究</a>
+			<ul>
+				<li>
+					<a href="frontend/pg/research/museum-research?researchTypeCode=CATALOG">展览图录</a>
+				</li>
+				<li>
+					<a href="javascript:;">学术专刊</a>
+					<ul>
+						<li>
+							<a href="frontend/pg/research/museum-research?researchTypeCode=JOURNAL">上海博物馆集刊</a>
+						</li>
+						<li>
+							<a href="frontend/pg/research/museum-research?researchTypeCode=WENBO">上海文博</a>
+						</li>
+						<li>
+							<a href="http://www.wwbhkgkx.net/" target="_blank">文物保护与考古科学</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="frontend/pg/research/achievement">学术成果</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href="https://reservation.shanghaimuseum.net/SHMReservation" target="_blank">参观预约</a>
+		</li>
+	</ul>
+	<div class="shmu-top-bar">
+		<a href="frontend/member/index" title="用户中心">
+			<!-- <i class="layui-icon layui-icon-username" style="font-size: 20px;"></i> -->
+			<i class="fas fa-user"></i>
+		</a>
+		<a href="frontend/pg/en/index" title="语言">
+			EN
+		</a>
+		<a id="search-site-button" href="javascript:;" title="搜索" data-src="#model-search-site">
+			<i class="fas fa-search"></i>
+		</a>
+	</div>
+</div>
+<div id="model-search-site" style="display: none;">
+	<div class="shmu-columns">
+		<div style="flex: 1;">
+			<input type="text" id="model-search-site-search-text" placeholder="请输入搜索内容">
+		</div>
+		<div class="button">确定</div>
+	</div>
+</div>
+<ul class="shmu-sidebar-menu">
+	<li class="menu-item">
+		<a href="javascript:;">
+			<div>
+				<img src="/mu/site/img/sidebar-menu1.png" class="img1">
+				<img src="/mu/site/img/sidebar-menu2.png" class="img2">
+			</div>
+			<div>
+				预约
+			</div>
+		</a>
+		<div class="overlay overlay-yuyue">
+			<div class="overlay-content">
+				<a href="https://reservation.shanghaimuseum.net/SHMReservation" target="_blank">参观预约</a>
+				<a href="frontend/pg/activity/activity">活动预约</a>
+			</div>
+		</div>
+	</li>
+	<li class="menu-item">
+		<a href="javascript:;">
+			<div>
+				<img src="/mu/site/img/sidebar-menu3.png" class="img1">
+				<img src="/mu/site/img/sidebar-menu4.png" class="img2">
+			</div>
+			<div>
+				社交
+			</div>
+		</a>
+		<div class="overlay overlay-social">
+			<div class="overlay-content">
+				<a href="https://weibo.com/shanghaimuseum" target="_blank">
+					<img src="/mu/site/img/sidebar-weibo.png">
+					<!--
+					<div>&nbsp;</div>
+					<div style="font-size: 15px;">新浪微博</div>
+					<div style="font-size: 12px;">https://weibo.com<br>/shanghaimuseum</div>
+					-->
+				</a>
+				<a href="javascript:;">
+					<img src="/mu/site/img/sidebar-weixin.png">
+					<!--
+					<div>&nbsp;</div>
+					<div style="font-size: 15px;">上海博物馆</div>
+					<div style="font-size: 12px;">微信公众号</div>
+					-->
+					<div class="weixin">
+						<img src="/mu/site/img/sidebar-weixin2.png">
+					</div>
+				</a>
+			</div>
+		</div>
+	</li>
+	<li class="menu-item">
+		<a href="javascript:;">
+			<div>
+				<img src="/mu/site/img/sidebar-menu5.png" class="img1">
+				<img src="/mu/site/img/sidebar-menu6.png" class="img2">
+			</div>
+			<div>
+				APP
+			</div>
+		</a>
+		<div class="overlay overlay-app">
+			<div class="overlay-content">
+				<img src="/mu/site/img/sidebar-app.png">
+			</div>
+		</div>
+	</li>
+	<li class="menu-item">
+		<a href="frontend/pg/service/shop">
+			<div>
+				<img src="/mu/site/img/sidebar-menu7.png" class="img1">
+				<img src="/mu/site/img/sidebar-menu8.png" class="img2">
+			</div>
+			<div>
+				商店
+			</div>
+		</a>
+	</li>
+	<!--
+	<li class="menu-item">
+		<a href="frontend/pg/display/road">
+			<div>
+				<img src="/mu/site/img/sidebar-menu9.png" class="img1">
+				<img src="/mu/site/img/sidebar-menu10.png" class="img2">
+			</div>
+			<div>
+				路线
+			</div>
+		</a>
+	</li>
+	-->
+	<li class="to-top">
+		<a href="javascript:;">
+			<div>
+				<img src="/mu/site/img/sidebar-menu11.png" class="img1">
+				<img src="/mu/site/img/sidebar-menu12.png" class="img2">
+			</div>
+		</a>
+	</li>
+</ul>
+<script>
+	$(function() {
+		$('#top-menu').superfish({
+			animation: {
+				height: 'show'
+			}
+		});
+		
+		if ($('body').hasClass('first-column')) {
+			$('.shmu-sidebar-menu .menu-item').show();
+		}
+		if ($('body').hasClass('shmu-body')) {
+			var toTop = $('.shmu-sidebar-menu .to-top');
+			toTop.click(function() {
+				$('.shmu-top').animatescroll();
+			});
+			$(window).scroll(function() {
+				if ($(window).scrollTop() > $(window).height()) {
+					toTop.show();
+				} else {
+					toTop.hide();
+				}
+			});
+		}
+		
+		$('#search-site-button').fancybox({
+			baseClass: 'shmu-search-site',
+			afterClose: function() {
+				$('#model-search-site-search-text').val('');
+			}
+		});
+		
+		$('#model-search-site .button').click(function() {
+			location.href = getUrl('frontend/pg/infomation/full-text-search', {
+				searchText: $('#model-search-site-search-text').val()
+			});
+		});
+		
+		$('#model-search-site').keypress(function(event) {
+			if (event.which == 13) {
+				$('#model-search-site .button').click();
+			}
+		});
+	});
+</script>
+	<div class="shmu-banner shmu-banner-collection"></div>
+	<div class="shmu-container-wrapper">
+		<div class="shmu-container">
+			
+<ul id="left-menu" class="sf-menu sf-vertical shmu-left-menu">
+	<div class="menu-title menu-title-collection">典藏</div>
+	<li>
+		<a href="frontend/pg/lib1/index">数字文物库</a>
+	</li>
+	<li>
+		<a href="frontend/pg/collection/antique">典藏精选</a>
+		<ul>
+			<li>
+				<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_1">金石</a>
+				<ul>
+					<li>
+						<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_1&antiqueType2Code=CP_SMALL_CLASS_TYPE_1_1">青铜</a>
+					</li>
+					<li>
+						<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_1&antiqueType2Code=CP_SMALL_CLASS_TYPE_1_2">雕塑</a>
+					</li>
+					<li>
+						<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_1&antiqueType2Code=CP_SMALL_CLASS_TYPE_1_3">钱币</a>
+					</li>
+					<li>
+						<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_1&antiqueType2Code=CP_SMALL_CLASS_TYPE_1_4">其他</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_2">陶瓷</a>
+			</li>
+			<li>
+				<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_3">书画</a>
+				<ul>
+					<li>
+						<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_3&antiqueType2Code=CP_SMALL_CLASS_TYPE_3_1">书法</a>
+					</li>
+					<li>
+						<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_3&antiqueType2Code=CP_SMALL_CLASS_TYPE_3_2">绘画</a>
+					</li>
+					<li>
+						<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_3&antiqueType2Code=CP_SMALL_CLASS_TYPE_3_3">其他</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_4">工艺</a>
+				<ul>
+					<li>
+						<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_4&antiqueType2Code=CP_SMALL_CLASS_TYPE_4_1">玉器</a>
+					</li>
+					<li>
+						<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_4&antiqueType2Code=CP_SMALL_CLASS_TYPE_4_2">家具</a>
+					</li>
+					<li>
+						<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_4&antiqueType2Code=CP_SMALL_CLASS_TYPE_4_3">少数民族</a>
+					</li>
+					<li>
+						<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_4&antiqueType2Code=CP_SMALL_CLASS_TYPE_4_4">其他</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<!--
+	<li>
+		<a href="frontend/pg/collection/treasure">珍品百选</a>
+	</li>
+	-->
+	<!--
+	<li>
+		<a href="frontend/pg/infomation/three-dimensions?threeDimensionsInfoTypeCode=INFOMATION_3D_TYPE_2">三维藏品</a>
+	</li>
+	-->
+	<li>
+		<a href="frontend/pg/infomation/ar">AR藏品</a>
+	</li>
+	<li>
+		<a href="frontend/member/my-favorite">我的收藏</a>
+	</li>
+	<form class="layui-form shmu-form">
+		<div class="layui-form-item">
+			<input type="text" name="searchText" value="" id="searchText" class="layui-input" autocomplete="off" placeholder="请输入关键字"/>
+		</div>
+		<div class="layui-form-item">
+			<select name="antiqueType2CodeForSearch" id="antiqueType2CodeForSearch">
+    <option value=""
+    >请选择分类</option>
+    <option value="CP_SMALL_CLASS_TYPE_1_1">青铜</option>
+    <option value="CP_SMALL_CLASS_TYPE_1_2">雕塑</option>
+    <option value="CP_SMALL_CLASS_TYPE_1_3">钱币</option>
+    <option value="CP_SMALL_CLASS_TYPE_1_4">其他（金石）</option>
+    <option value="CP_SMALL_CLASS_TYPE_2_1">陶瓷</option>
+    <option value="CP_SMALL_CLASS_TYPE_3_1">书法</option>
+    <option value="CP_SMALL_CLASS_TYPE_3_2">绘画</option>
+    <option value="CP_SMALL_CLASS_TYPE_3_3">其他（书画）</option>
+    <option value="CP_SMALL_CLASS_TYPE_4_1">玉器</option>
+    <option value="CP_SMALL_CLASS_TYPE_4_2">家具</option>
+    <option value="CP_SMALL_CLASS_TYPE_4_3">少数民族</option>
+    <option value="CP_SMALL_CLASS_TYPE_4_4">其他（工艺）</option>
+
+
+</select>
+
+
+		</div>
+		<div class="layui-form-item">
+			<select name="ageCode" id="ageCode">
+    <option value=""
+    >请选择年代</option>
+    <option value="AGE_11">旧石器时代</option>
+    <option value="AGE_1">新石器时代</option>
+    <option value="AGE_2">夏商周</option>
+    <option value="AGE_3">秦汉</option>
+    <option value="AGE_4">魏晋南北朝</option>
+    <option value="AGE_5">隋唐五代</option>
+    <option value="AGE_6">宋</option>
+    <option value="AGE_12">辽金</option>
+    <option value="AGE_7">元</option>
+    <option value="AGE_8">明</option>
+    <option value="AGE_9">清</option>
+    <option value="AGE_10">近现代</option>
+    <option value="AGE_13">未确定</option>
+
+
+</select>
+
+
+		</div>
+		<div class="layui-form-item">
+			<button type="button" class="layui-btn layui-btn-fluid" style="background-color: #333;" lay-submit lay-filter="search-btn">搜索</button>
+		</div>
+	</form>
+</ul>
+<script>
+	layui.use(['form'], function() {
+		var form = layui.form;
+		
+		$('#left-menu').superfish({
+			animation: {
+				height: 'show'
+			}
+		});
+		
+		form.on('submit(search-btn)', function(obj) {
+			location.href = getUrl('frontend/pg/collection/antique-search', obj.field);
+			return false;
+		});
+	});
+</script>
+			<div class="shmu-main">
+				<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_1" class="shmu-thumbnail">
+					<div class="label label-left-top">金石</div>
+					<img src="site/img/collection1.jpg">
+				</a>
+				<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_2" class="shmu-thumbnail">
+					<div class="label label-left-top">陶瓷</div>
+					<img src="site/img/collection2.jpg">
+				</a>
+				<a href="frontend/pg/collection/treasure" class="shmu-thumbnail">
+					<div class="label label-left-top">珍品百选</div>
+					<img src="site/img/collection6.jpg">
+				</a>
+				<a href="frontend/pg/collection/monthly-treasure" class="shmu-thumbnail" style="grid-row: span 2;">
+					<div class="label label-left-top">每月一珍</div>
+					<img src="site/img/collection5.jpg">
+				</a>
+				<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_3" class="shmu-thumbnail" style="grid-column: span 2;">
+					<div class="label label-left-top">书画</div>
+					<img src="site/img/collection3.jpg">
+				</a>
+				<a href="frontend/pg/collection/antique?antiqueType1Code=CP_HIGH_CLASS_TYPE_4" class="shmu-thumbnail">
+					<div class="label label-left-top">工艺</div>
+					<img src="site/img/collection4.jpg">
+				</a>
+			</div>
+		</div>
+	</div>
+	
+<div class="shmu-bottom">
+	<div id="shmu-website-logo"></div>
+	Copyright &copy; 2015 ShanghaiMuseum.net<br>
+	上海博物馆 版权所有 备案号：<a href="https://beian.miit.gov.cn" target="_blank" style="color: inherit;">沪ICP备10003390号-4</a>
+</div>
+</body>
+</html>

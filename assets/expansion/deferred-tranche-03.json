@@ -1,0 +1,40 @@
+{
+  "countedAsAdmissions": false,
+  "items": [
+    {
+      "id": "sz-beast-handle-dou",
+      "name": "陶圈足兽把豆",
+      "museumId": "shenzhen-city",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=d7991a31c9814ba9941e12add3990a15",
+      "reason": "直接逐件记录未明确本件断代，保留待核，不计入库。"
+    },
+    {
+      "id": "sz-six-ear-basin",
+      "name": "青釉六耳盂",
+      "museumId": "shenzhen-city",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=8b396cd6db154f9ab6f50892894c1d4f",
+      "reason": "直接逐件记录未明确本件断代，先保留待核；不凭其他同类器物年代补填。"
+    },
+    {
+      "id": "gb-kaiyuan-coin",
+      "name": "开元通宝钱",
+      "museumId": "guobo",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25401.shtml",
+      "reason": "直接逐件记录未明确本件断代，先保留待核；不凭其他同类器物年代补填。"
+    },
+    {
+      "id": "gb-peacock-inkstone",
+      "name": "雕孔雀端砚",
+      "museumId": "guobo",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25787.shtml",
+      "reason": "直接逐件记录未明确本件断代，先保留待核；不凭其他同类器物年代补填。"
+    },
+    {
+      "id": "gb-bamboo-ghost-tube",
+      "name": "竹雕五鬼闹判花筒",
+      "museumId": "guobo",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25741.shtml",
+      "reason": "直接逐件记录未明确本件断代，先保留待核；不凭其他同类器物年代补填。"
+    }
+  ]
+}

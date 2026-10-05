@@ -1,0 +1,727 @@
+{
+  "version": "expansion-tranche-02-20261004",
+  "generator": "OpenAI built-in imagegen",
+  "note": "原始文件为AI生成，不是馆藏照片；网页派生仅缩放编码。历史细节未核，不能用于认读纹饰或铭文。",
+  "items": [
+    {
+      "id": "cd-lacquer-dou",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. A Warring States wooden lacquer dou food dish: very broad shallow circular dish on a short pedestal with a VERY broad spreading ring foot. Diameter top41.5cm, foot37.5cm, totalheight23.8cm. Black lacquer exterior, vermilion red shallow interior; restrained geometric red and ochre abstract motifs on pedestal. Foot almost as broad as dish, not a narrow goblet.",
+      "originalFile": "assets/expansion/originals/tranche-02/cd-lacquer-dou.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "3c84cd27c76f42eb9a96c379898d00897de9b3ca48e419f66dbbb370fd662710",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/cd-lacquer-dou-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "2e57959aa38fa1e0f3190e2d99f8bcb82b2cfe2090da2c516c60c0aba6c29fd8",
+          "bytes": 69832,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/cd-lacquer-dou-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "bd9fac1fe84eeb71425cd4c494d6bbf8d3f34671add1c1583b6b657189e560c7",
+          "bytes": 236928,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cd-meridian-lacquer-model",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. A small Western Han lacquered wooden anatomical teaching human figurine, upright bare simplified adult body, bald head, arms straight down beside torso palms forward, feet together. Black lacquer with sparse abstract red and white incised meridian-like curves. Total14cm height proportional. Do NOT draw exact acupuncture point locations or any readable organ names; no medical accuracy claim. Nonsexual museum object.",
+      "originalFile": "assets/expansion/originals/tranche-02/cd-meridian-lacquer-model.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "f0aa138e96fb6413752259acb251cf65f7089d421a5a7dea415b84a7493ac5af",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/cd-meridian-lacquer-model-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "129579c360135f6ae0ef5befebb07c3c9329d8853ce6fbf18ecbc42d1437f731",
+          "bytes": 58319,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/cd-meridian-lacquer-model-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "1523e88dc091c13fa81b0728be15e5dbbe960a74b9231be699614c4a49346ba3",
+          "bytes": 184587,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-linghua-lian",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. A Song dynasty lacquer cosmetic lian box, lobed flower-like outline, multiple nested tiers. Dark restrained brown-black lacquer, plain smooth surface, closed stacked box seen at slight angle. Show general composite storage architecture, not invented embellishments.",
+      "originalFile": "assets/expansion/originals/tranche-02/gb-linghua-lian.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "db19d1624cac028e240ecddfa9bca6ada9fff8ac7b2a3a8fabc9a626ad20bde8",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gb-linghua-lian-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "df6da16677b6f54e6c993a428f693493cd20c3ff15f435bdc2e4014d57c88929",
+          "bytes": 54105,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gb-linghua-lian-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "1a2986451b7ae9b6fb11794c145244d81d380493dc73e142a29f54418608e7c0",
+          "bytes": 189735,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-landscape-brushpot",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. A large Japanese-made lacquer brush holder kept in Qing collection, open cylindrical black lacquer container with restrained gold mountain-and-water landscape decoration. Entire vessel alone, no brushes. Gold ornament is approximate abstract landscape, not copied original scene.",
+      "originalFile": "assets/expansion/originals/tranche-02/gb-landscape-brushpot.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "c35da0dd8167dacd8828d0160d83c67643bb4e02a633e68c78d1f1f6ae5a685f",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gb-landscape-brushpot-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "35b8df76e6810190e86450676e0b14c4c2862566bd8065e546bb657f33ea7dae",
+          "bytes": 86904,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gb-landscape-brushpot-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "9bf4b9ff95135ade288683c0609e9306b9e9b1f210928d2fbdddf4a1e9cef92d",
+          "bytes": 292978,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-medicine-lacquer-cabinet",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. A compact Ming Wanli rectangular black lacquer medicine cabinet, height94cm width79cm depth57cm, square corners, four short bronze-capped feet, double hinged front doors shown partly open and a dense internal octagonal rotating drawer assembly suggested. Three large lower drawers. Restrained gold dragon decoration on closed outer surface. No drug labels, no writing, no invented medicine.",
+      "originalFile": "assets/expansion/originals/tranche-02/gb-medicine-lacquer-cabinet.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "77375739dcd42d124d0c6231d15e51e67eb164225819e85dee434661548428cc",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gb-medicine-lacquer-cabinet-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "a24340438f900415bdb3701512874456f17fdfc9e9a80c23e797ce1143df5d46",
+          "bytes": 105840,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gb-medicine-lacquer-cabinet-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "7d312f395a2fe58fc39a9b25b28de6298719c41797ee2af0b0299fe0ce116bfe",
+          "bytes": 343855,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-bone-inlay-storage-box",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. Late Ming portable black lacquer guanpi storage box, near-cubic35x22x35cm, flat lid, low pedestal, front double doors one slightly open exposing three tiers with FIVE small drawers total. Bronze hanging drawer pulls and cloud hinges. Restrained ivory-colored bone inlay abstract landscape shapes. No precise story characters or lettering.",
+      "originalFile": "assets/expansion/originals/tranche-02/gb-bone-inlay-storage-box.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "4d1b0dc7f807954e88dc31e707938eec32f38631047b524e1476337cd385e877",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gb-bone-inlay-storage-box-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "7edad4d94c23ebf067b468f73f3911f8466c40cbec52a8acebf13bb94de2838c",
+          "bytes": 92599,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gb-bone-inlay-storage-box-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "d79e83ce236cda15ba3fb7859dd478db180573e90275a0b0e2a266c0ced87218",
+          "bytes": 296176,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-red-panpipes",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. Educational APPROXIMATE RED LACQUER COURT PANPIPE. Show a rounded rectangular red lacquer casing from front, slightly wider than tall (37cm wide34cm high), with gold abstract cloud-and-dragon motifs along lower panel. At the top edge show a compact row of sixteen small circular open pipe mouths; ALL pipe bodies enclosed by casing, so no exposed flute shafts, NO SIDE WINDOWS and no recorder holes. Top profile subtly graded toward middle, not diagonal exposed modern pan flute. Omit all pitch labels and reign marks. Focus red lacquer casing, overall contour; not an exact copy or source for counting original details.",
+      "originalFile": "assets/expansion/originals/tranche-02/gb-red-panpipes.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "eaa87bd91677dfaf69b3b469c3604b6a99dec93563e403491edf4a4e3c3f26ac",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gb-red-panpipes-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "330611c6799200786e260168e602cb3081a4a9f5a2b7c5ab80c7896ab209109e",
+          "bytes": 89366,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gb-red-panpipes-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "08ba1de874f5abbe78b69f11e62b99ac24aa1efa1205c9ad4f7e29651e5bb653",
+          "bytes": 308129,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-folding-table",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. Late Ming huanghuali hardwood low folding table71x44x25cm, rectangular framed wood top, outward curved horse-hoof feet, copper fittings at corners and hinged joints, two stretchers connecting leg pairs. Shown open stable, warm honey-brown hardwood. Whole small table alone; no decorative bowls.",
+      "originalFile": "assets/expansion/originals/tranche-02/gb-folding-table.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "aee453078f3390054056bdb36898e16af3095a71018dfde2e58bf377f567c6ea",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gb-folding-table-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "7271fdcd21956a77a94fedb09c1b4a493141762df9288e7baf9bfeb65af6b0ee",
+          "bytes": 64136,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gb-folding-table-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "86c74a679f38ed9c3e7bdb803f58c95cbdf7d0c537f8844841bc0976928bddd8",
+          "bytes": 218726,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-basin-stand",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. Mid Qing huanghuali carved wooden six-legged tall washbasin stand, upright ornamental back extending high above circular basin ring, crossed horizontal stretchers between SIX legs, delicately carved top rail with restrained backward-looking dragonhead ends, front four uprights smooth.182cm high63cm ring diameter. No basin added, no unrelated chair seat.",
+      "originalFile": "assets/expansion/originals/tranche-02/gb-basin-stand.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "32b9743b98fee57d56ac43fb38b6b62ec6be51c989e9a81ea8033a5d5ea12922",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gb-basin-stand-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "0dd2a4df36707b5f5592e5cef50a53c113bfc43b3069ac9ea373d99cd36389ac",
+          "bytes": 57779,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gb-basin-stand-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "e920fe879ce29a159382b7761b516767afb20016398fb7c815f1abfaf9fbca1f",
+          "bytes": 188447,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-red-embroidered-skirt",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. A Qing red gauze mamian skirt laid out as a single complete garment, flat frontal view, fabric waistband, flat front panel and pleated sides, twelve pleats suggested each side, modest colorful flower-and-bird embroidered borders. Bat and plant forms abstract, no writing. Not worn by a person.",
+      "originalFile": "assets/expansion/originals/tranche-02/gb-red-embroidered-skirt.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "d90dd58239087a69f816f57fdec84694720822437c1deb0e9e315549102f9235",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gb-red-embroidered-skirt-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "5b84ab2eda446b110f2a0d1b10f5cd92159dd57c9c781ab9c85f52e9d5fa36d2",
+          "bytes": 109051,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gb-red-embroidered-skirt-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "7ac3c6acf0cd40264b55fe6bfe54345a1dc28e934ce95b6a986039f3a6f5040d",
+          "bytes": 344398,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-blue-gauze-jacket",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. A Qing woman's pale sky-blue gauze upper garment, broad sleeves, standing collar, right-overlap asymmetric front, two button rows, two wide black patterned trim bands around collar sleeve ends hem and front. Muted plum and bamboo abstract embroidered border, flat garment display, no person.",
+      "originalFile": "assets/expansion/originals/tranche-02/gb-blue-gauze-jacket.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "7f5aa95bf1cccd34cf5493943b1d9144c85f05a7481b791982bac39f81da1553",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gb-blue-gauze-jacket-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "0090e5bb13e0ab7b5c697ce5743e53166b0866333058582823760429caa33f47",
+          "bytes": 92182,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gb-blue-gauze-jacket-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "7a4b24a9dc62616471a82da03d45e5ff15776362a4d8daf8b9d0d6fa982be0c0",
+          "bytes": 319566,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-fish-embroidered-shoes",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. A pair of Qing embroidered fish-pattern women's shoes, gray silk uppers, subtle yellow-thread scales, toe shaped like a fish head, black edge trim, thick boat-shaped white cloth-covered wooden soles. Not tiny lotus-foot shoes; no invented text.",
+      "originalFile": "assets/expansion/originals/tranche-02/gb-fish-embroidered-shoes.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "02f661166dc2b562de441f331674704a33c7c1ced6c6d8bb7e67d84256da2da9",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gb-fish-embroidered-shoes-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "ddc1f42a9fad0d234581ba65c62f69ca2f8af22a96ad5e9da2ea0fb206bbb3f6",
+          "bytes": 86966,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gb-fish-embroidered-shoes-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "af83af4df1538c28e6550dd1bfcda2ef1e09d89f73895275d131225c686d241f",
+          "bytes": 306728,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-goose-kesi",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. A conceptual silk tapestry of an alert ochre-yellow goose by water with stones and distant young bamboo, Ming hanging silk panel59.5x49.5cm ratio. Subtle woven texture, quiet warm tones. NOT a reproduction of exact original scene; omit every collector seal and signature. Whole small hanging textile with margins, educational AI composition.",
+      "originalFile": "assets/expansion/originals/tranche-02/gb-goose-kesi.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "99cdea286c0b1e7051faf0d758ea4b0ba23d038ca3b976f1c10f323fb9d170a9",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gb-goose-kesi-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "1b5991ef121cb514ba7745e7a9586fa68c5d66542858e039eacbfb3644a57cb7",
+          "bytes": 116625,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gb-goose-kesi-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "7dc7e39c47327d7f9a644c65c4a6e2f626fa7239adca3a119609ae70b5ceaf27",
+          "bytes": 391764,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gg-shen-meique-kesi",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. A conceptual educational hanging silk tapestry inspired by Southern Song plum-and-magpie subject: tall narrow ivory woven textile panel, sparse plum branches and black-white magpies, subtle visible silk weave, restrained colors. Do not reproduce original arrangement or seals, no characters, no faux authentic signature. Whole mounted hanging scroll shown with margin; AI illustrative motif study, not actual painting.",
+      "originalFile": "assets/expansion/originals/tranche-02/gg-shen-meique-kesi.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "382fe02fc91c05c3bb66e9d6c702f40d3bbc02c0af99d9f18f23369b8775326b",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gg-shen-meique-kesi-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "e09d1ac392e7a75f759d58909817dfaf3665f59a121b0f7e76543cb27fd02f7a",
+          "bytes": 63323,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gg-shen-meique-kesi-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "9546daf289a5545d6a23b4b61da990186009bfbf80d6e782c3041d0bab006e39",
+          "bytes": 221383,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gb-peony-gold-satin",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. One long narrow blue satin textile piece with gold-thread peony floral motifs, displayed partly unfolded in a gentle long curve, width79cm relative length325cm, satin smooth silk shimmer and restrained gold floating-thread flowers. No people, no writing, no claims of exact weaving. Broad stylized peonies, whole textile not a garment.",
+      "originalFile": "assets/expansion/originals/tranche-02/gb-peony-gold-satin.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "0ebc14bd05c12029b1c918ad2b8791f1fec5ac89dadb67b8170dfea59d064f39",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gb-peony-gold-satin-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "2f0a580cc915e03822214d6f22d4d34969fe06ad5664e934898e74b0c2f0ff9a",
+          "bytes": 105202,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gb-peony-gold-satin-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "3af6397741a924ef73ceedaa61d85ec31b14782242487f6aeefb6291b8e2ea23",
+          "bytes": 352627,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "gg-chrysanthemum-lacquer-dish",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. A small Qing Qianlong vermilion red lacquer dish, shallow open bowl with chrysanthemum petal lobed rim, flat center and low ring foot, diameter14cm height3.5cm. Show clear many petal lobes and smooth red surface. Omit the original poem, reign inscription and seals entirely; center plain rather than invented lettering. Whole dish angle view.",
+      "originalFile": "assets/expansion/originals/tranche-02/gg-chrysanthemum-lacquer-dish.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "033ceec60d5c042aa9f91fb6fee7dac9460e838ca8fbf3a37976034a0e799479",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/gg-chrysanthemum-lacquer-dish-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "b41ad0519171dae8b5caf53b9d1b0504b937c851c47de68851daf2a8c10e46de",
+          "bytes": 57641,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/gg-chrysanthemum-lacquer-dish-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "d0f8ec2a1a49d760b1b7182c37691a34ed3ae5ae7f405377ef7f69dc739eb6e9",
+          "bytes": 193210,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "hb-heifu-letter",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. One conceptual Qin wooden letter tablet, long narrow weathered brown plank22x4cm ratio with worn grain. A few abstract dark blurred ink traces suggest writing but absolutely NO readable characters, no seal, no restored missing text. Single tablet only, not bamboo scroll. Educational illustration of writing material, not an exact facsimile of Black-Fu letter.",
+      "originalFile": "assets/expansion/originals/tranche-02/hb-heifu-letter.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "cca8449afe9d63156b6c9930019c47337a5431058e7e8a3e5c135c7a99cfdabc",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/hb-heifu-letter-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "ca9e5d7d4219bd223a85e38c01230f9606eab39087b94c56f8801379c27a272d",
+          "bytes": 55240,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/hb-heifu-letter-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "6d38ebb8870ffa2c61ee2460b2b11dd296891215baf3ea5208128554629aaa98",
+          "bytes": 202925,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "hb-xiaolv-slips",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. A conceptual small arrangement of narrow weathered Qin bamboo slips of equal27cm length, some separate and a small loosely aligned cluster, subtle aged brown bamboo fibers. Sparse blurred illegible dark ink strokes, NO readable writing, no fake complete text, no pristine modern bamboo rolling mat. Illustrate bamboo writing material generally, not facsimile of Xiaolv sixty-slip group. Whole arrangement with margins.",
+      "originalFile": "assets/expansion/originals/tranche-02/hb-xiaolv-slips.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "79f9f87f39eb4ec10ec39b17c73b6d6ffdf312435c5045d08fae1542057d1913",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/hb-xiaolv-slips-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "8fd4ad4064d3216d458d606857849dbd31cbaf9b429a9b219eb625349e6427be",
+          "bytes": 84164,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/hb-xiaolv-slips-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "9559f1bc24badcb2888a796cd727bf74a479b3c133c084427418607b0e1d0abe",
+          "bytes": 274586,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "hb-longgang-tablet",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. One conceptual Qin long slender wooden legal tablet36.5cm long3.2cm wide ratio, weathered dull brown grain and worn ends, a few abstract illegible ink traces down the face. NO readable Chinese, no invented judgment, no wax seal. Single narrow wooden plank shown vertically at slight angle, not a roll or bamboo book.",
+      "originalFile": "assets/expansion/originals/tranche-02/hb-longgang-tablet.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "61cc3a23832fe0aab2869e753bb332237637734c1db6dff82badc0e7e6cef587",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/hb-longgang-tablet-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "715420b17dc521fa33bcc3bffab9efc3eb1162ab322a11727a38ab0381f13513",
+          "bytes": 54429,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/hb-longgang-tablet-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "6811b05da6f1f03cd9f4e6d594bb38898a05891f92f70fa7d1a0932cc3dd8a0f",
+          "bytes": 202834,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "sz-bamboo-brushpot",
+      "prompt": "Produce ONE independent square AI educational museum illustration, whole object with generous margins on warm ivory parchment background, soft diffused light, refined realistic-material rendering compatible with Chinese ink-scroll UI. No text, readable letters, watermark, humans or additional objects. This is a modern approximate illustration, not an artifact photograph or exact replica. Simplify ornament, never invent inscriptions. A small Qing bamboo brush holder, straight open cylindrical natural bamboo segment, diameter5cm height11.7cm, warm aged ochre bamboo grain, simple subtle carved texture. Omit all inscriptions entirely rather than invent readable text. No brushes, no seal, no imagined scholar. General material and cylindrical shape only.",
+      "originalFile": "assets/expansion/originals/tranche-02/sz-bamboo-brushpot.png",
+      "generatedAt": "2026-10-04",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "独立概括示意；审查可浏览与无伪造可读铭文，不代表原作匹配或精确结构核验。纹样、结构、数量及经穴位置不能作为原件证据。",
+      "originalSha256": "6a968b9f0f7689230728062917110c55671ac4dd02d19f273e537e01bbd47ea4",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-02/sz-bamboo-brushpot-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "e6224286c23e402192f0889b1440856729edce38e767b208e002020937fbbf96",
+          "bytes": 63790,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-02/sz-bamboo-brushpot-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "9560d281480570666c281640d3be5f5bc1f0afc0c3a324584acb58fa39b7d59f",
+          "bytes": 220683,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    }
+  ]
+}

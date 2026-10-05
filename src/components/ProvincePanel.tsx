@@ -4,9 +4,11 @@ import { resolveArtifactCardImage } from '../data/images';
 import { museumIntros } from '../data/museum-intros';
 import ArtifactArt from './ArtifactArt';
 import ResponsiveArtifactImage from './ResponsiveArtifactImage';
+import { useArtifactCardEntry } from '../hooks/useArtifactCardEntry';
 
 function MuseumThumb({ museum }: { museum: MuseumIndex }) {
   const first = museum.artifacts[0];
+  useArtifactCardEntry(first?.id ?? '', Boolean(first));
   const resolved = first ? resolveArtifactCardImage(first.id) : null;
   const key = `${resolved?.src ?? ''}|${resolved?.fallback?.src ?? ''}`;
   const [load, setLoad] = useState<{ key: string; fallback: boolean; failed: boolean }>({ key, fallback: false, failed: false });

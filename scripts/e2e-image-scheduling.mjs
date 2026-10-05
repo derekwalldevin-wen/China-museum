@@ -125,9 +125,10 @@ await withPage(async page => {
     throw error;
   });
   await page.evaluate(`document.querySelector('[data-artifact-scroll-root]').scrollTop = document.querySelector('[data-artifact-scroll-root]').scrollHeight`);
-  await page.wait(`(() => { const card = document.querySelector('.grid > button:last-child'); const loaded = card?.querySelector('img'); return loaded?.dataset.responsiveBypassed === 'true' && loaded.complete && loaded.naturalWidth > 0; })()`, 'deferred same-image fallback', 30000);
-  assert.equal(await page.evaluate(`document.querySelector('.grid > button:last-child img').currentSrc.endsWith(${JSON.stringify(image.src)})`), true);
-  assert.equal(await page.evaluate(`document.querySelector('.grid > button:last-child').textContent.includes('备用图')`), false);
+  await page.evaluate(`document.querySelector('[data-artifact-card="gg-ryzl"]').scrollIntoView({block:'center'})`);
+  await page.wait(`(() => { const card = document.querySelector('[data-artifact-card="gg-ryzl"]'); const loaded = card?.querySelector('img'); return loaded?.dataset.responsiveBypassed === 'true' && loaded.complete && loaded.naturalWidth > 0; })()`, 'deferred same-image fallback', 30000);
+  assert.equal(await page.evaluate(`document.querySelector('[data-artifact-card="gg-ryzl"] img').currentSrc.endsWith(${JSON.stringify(image.src)})`), true);
+  assert.equal(await page.evaluate(`document.querySelector('[data-artifact-card="gg-ryzl"]').textContent.includes('备用图')`), false);
   checks.push('mobile deferred failure: blocked WebP retries the same original only after its card enters range');
 });
 

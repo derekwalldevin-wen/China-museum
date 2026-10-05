@@ -1,0 +1,411 @@
+{
+  "items": [
+    {
+      "id": "cd-comic-figure",
+      "prompt": "Use case: historical-scene. Asset: independent AI conceptual illustration for a museum catalogue, NOT a photograph of the real collection. Subject: East Han terracotta comic performer, Chengdu Museum 陶俳优俑: seated on a round cushion, headscarf, bare torso and trousered legs, barefoot; left hand holds a small drum, right fist raised as if with a drumstick, right foot kicks outward, left foot curled, head lifted with broad laughing expression. Full object alone centered on warm off-white paper background, realistic sculpted earthen material, muted brown, soft diffuse museum-like light and gentle shadow, coherent elegant catalogue style. No labels, text, watermark, people or extra props. Do not invent readable inscriptions. This is approximate educational visualization; exact facial details and surface condition are not claimed. Square composition, entire silhouette visible with generous margins.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-b3afa3e1-7895-4386-ac8a-25b40187db56.png",
+      "generatedAt": "2026-10-04T09:54:03.128Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-stone-bear",
+      "prompt": "Use case: historical-scene. Independent AI educational object illustration for Huaxia museum catalogue, NOT original collection photography. Scene: warm off-white paper background, entire object centered with generous margins, realistic material render, softly diffused lighting and mild shadow, elegant restrained muted catalogue style, square framing. Subject: East Han carved stone bear, squat sitting posture, rear paws on ground, left forepaw on knee and right forepaw placed behind head, open mouth, small ears, visible round socket at shoulder. Grey weathered stone, subtle traces of muted red near ears and mouth. Constraints: no text, labels, watermark, museum logos, humans, extra props or readable inscriptions. Exact ornament, corrosion, shape details are approximate, never scientific reconstruction.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-fc802bfd-e9b6-40e5-b13e-93d948f011f6.png",
+      "generatedAt": "2026-10-04T09:48:30.694Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-chenghan-figure",
+      "prompt": "Use case: historical-scene. Independent AI educational object illustration for Huaxia museum catalogue, NOT original collection photography. Scene: warm off-white paper background, entire object centered with generous margins, realistic material render, softly diffused lighting and mild shadow, elegant restrained muted catalogue style, square framing. Subject: Cheng-Han terracotta whistle-playing figure, expressive protruding eyes, broad mouth and large ears, wearing simple cap, hands held near mouth holding a small whistle. Muted earthen clay. Not caricatured ethnic portrait; approximate form, no claimed original facial likeness. Constraints: no text, labels, watermark, museum logos, humans, extra props or readable inscriptions. Exact ornament, corrosion, shape details are approximate, never scientific reconstruction.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-97869dc8-b975-4e43-a01d-0121ade98d6e.png",
+      "generatedAt": "2026-10-04T09:48:52.354Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-pottery-courtyard",
+      "prompt": "Use case: historical-scene. Independent AI educational object illustration for Huaxia museum catalogue, NOT original collection photography. Scene: warm off-white paper background, entire object centered with generous margins, realistic material render, softly diffused lighting and mild shadow, elegant restrained muted catalogue style, square framing. Subject: Five Dynasties Later Shu terracotta architectural courtyard model, enclosing gate, side towers and rear rooms, central pavilion, small model stove and well, a few tiny attendant forms. Muted clay with subtle remnants of paint. Overall architectural concept only, not a measured reconstruction of Zhao Tingyin's actual residence; no modern highrise or fantasy palace. Constraints: no text, labels, watermark, museum logos, humans, extra props or readable inscriptions. Exact ornament, corrosion, shape details are approximate, never scientific reconstruction.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-9aebbd62-d5c1-4ee1-a741-93976c9a9a0c.png",
+      "generatedAt": "2026-10-04T09:49:15.513Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-qiong-kiln-censer",
+      "prompt": "Use case: historical-scene. Independent AI educational object illustration for Huaxia museum catalogue, NOT original collection photography. Scene: warm off-white paper background, entire object centered with generous margins, realistic material render, softly diffused lighting and mild shadow, elegant restrained muted catalogue style, square framing. Subject: Late Tang to Five Dynasties Qiong kiln ceramic incense burner WITHOUT lid: shallow bowl on tall stem foot like a dou vessel, yellow-glazed rim and foot, three overlapping tiers of raised curled lotus petals on green glazed body. Only abstract small relief accents on petals, no invented readable details. Constraints: no text, labels, watermark, museum logos, humans, extra props or readable inscriptions. Exact ornament, corrosion, shape details are approximate, never scientific reconstruction.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-c3228e38-d51f-4e91-a523-dff88a67c5d7.png",
+      "generatedAt": "2026-10-04T09:49:44.532Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-bronze-chess",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT photography of an original collection artifact. Full subject alone centered against warm ivory paper, generous margins, realistic sculpted material, muted earth palette, soft diffuse light and gentle shadow, coherent elegant catalogue aesthetic, square image. Subject: A group of small round aged bronze chess counters loosely arranged, no board, worn blank faces rather than invented readable characters; conceptual group not exact original count arrangement. Constraints: no text, labels, watermark, logos, human visitors, extra props or readable inscriptions. Ornament and condition are approximate, not a measured replica. Never invent legible historical characters.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-b0607502-b8d5-43db-9820-96bfc8b7e1ec.png",
+      "generatedAt": "2026-10-04T09:54:35.753Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-ding-child-pillow",
+      "prompt": "Independent AI educational object illustration, not an original museum photograph or measured replica. Square composition on warm ivory paper, whole object centered with generous margins, softly lit, muted colours, coherent elegant museum catalogue style. An ivory-glazed ceramic pillow with a small fully clothed reclining ceramic attendant supporting an elevated flat pillow pad. Plain undecorated pottery surface, no flowers or painted motifs. Sculptural educational approximation. No text, logos, watermarks or readable inscriptions. Do not invent details; simplify unknown decoration.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-874d624d-eb05-48c9-9eb2-ce58c8e5c8eb.png",
+      "generatedAt": "2026-10-04T10:08:38.201Z",
+      "iterationNote": "Rejected first version for unsupported floral decoration; simplified revision.",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-gold-hairpin",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT photography of an original collection artifact. Full subject alone centered against warm ivory paper, generous margins, realistic sculpted material, muted earth palette, soft diffuse light and gentle shadow, coherent elegant catalogue aesthetic, square image. Subject: Small delicate gold hairpin with thin openwork cloud-like abstract longevity ornament, no readable copied character. Constraints: no text, labels, watermark, logos, human visitors, extra props or readable inscriptions. Ornament and condition are approximate, not a measured replica. Never invent legible historical characters.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-f190781b-8ae0-48a1-a6a7-810f333cc772.png",
+      "generatedAt": "2026-10-04T09:55:17.029Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-agate-snuff-bottle",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT photography of an original collection artifact. Full subject alone centered against warm ivory paper, generous margins, realistic sculpted material, muted earth palette, soft diffuse light and gentle shadow, coherent elegant catalogue aesthetic, square image. Subject: Small flattened agate snuff bottle, mottled honey and cream stone with understated abstract carved relief, short neck; no exact figure replication. Constraints: no text, labels, watermark, logos, human visitors, extra props or readable inscriptions. Ornament and condition are approximate, not a measured replica. Never invent legible historical characters.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-52b78c52-833d-46e0-82d2-270c9db293cb.png",
+      "generatedAt": "2026-10-04T09:55:45.213Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-peacock-bowl",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT photography of an original collection artifact. Full subject alone centered against warm ivory paper, generous margins, realistic sculpted material, muted earth palette, soft diffuse light and gentle shadow, coherent elegant catalogue aesthetic, square image. Subject: Simple shallow ceramic bowl with luminous turquoise peacock-blue glaze and subtle fine crackle. Constraints: no text, labels, watermark, logos, human visitors, extra props or readable inscriptions. Ornament and condition are approximate, not a measured replica. Never invent legible historical characters.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-3f539145-c12a-4a66-a539-c8c2f56cbdc3.png",
+      "generatedAt": "2026-10-04T09:56:05.311Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-ge-ewer",
+      "prompt": "Independent AI educational object illustration, not an original museum photograph or measured replica. Square composition on warm ivory paper, whole object centered with generous margins, softly lit, muted colours, coherent elegant museum catalogue style. A plain octagonal ceramic ewer, grey-green glossy crackle glaze, curved spout and handle, entirely undecorated facets, no flowers, no relief motifs, no marks. No text, logos, watermarks or readable inscriptions. Do not invent details; simplify unknown decoration.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-e34f2fe0-c48b-4375-815d-4dded36ba5fc.png",
+      "generatedAt": "2026-10-04T10:08:59.036Z",
+      "iterationNote": "Rejected first version for unsupported floral decoration; simplified revision.",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-bat-vase",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT photography of an original collection artifact. Full subject alone centered against warm ivory paper, generous margins, realistic sculpted material, muted earth palette, soft diffuse light and gentle shadow, coherent elegant catalogue aesthetic, square image. Subject: Qing porcelain reward-vase silhouette, soft pastel clouds and small bat-like ornament, floral shoulder band, white ground, approximate decoration. Constraints: no text, labels, watermark, logos, human visitors, extra props or readable inscriptions. Ornament and condition are approximate, not a measured replica. Never invent legible historical characters.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-004d8fa0-4822-4e49-a538-b3b9b17a974d.png",
+      "generatedAt": "2026-10-04T09:56:55.572Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-dragon-belt-hook",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT photography of an original collection artifact. Full subject alone centered against warm ivory paper, generous margins, realistic sculpted material, muted earth palette, soft diffuse light and gentle shadow, coherent elegant catalogue aesthetic, square image. Subject: Pale jade elongated belt hook, larger dragon-head hook and smaller dragon relief on shaft, restrained carving. Constraints: no text, labels, watermark, logos, human visitors, extra props or readable inscriptions. Ornament and condition are approximate, not a measured replica. Never invent legible historical characters.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-8b805958-234e-466a-a39e-04514beb70fc.png",
+      "generatedAt": "2026-10-04T09:57:17.395Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-attendant-figure",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Standing terracotta attendant in sky-blue glazed narrow-sleeved robe, round hat, unglazed face and hands, one hand raised, other at belt, square blue base. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-0384b27e-1715-4807-866f-212e7e323d0a.png",
+      "generatedAt": "2026-10-04T09:56:34.858Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "cd-beast-lei",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Large Western Zhou bronze lei jar with broad shoulders and two beast-head handles, subdued dark patina, no invented inscription. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-524b3341-b9f8-4dad-8541-cf2449d68543.png",
+      "generatedAt": "2026-10-04T09:56:57.559Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-pottery-well",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: A grey terracotta miniature well model, cylindrical well wall with modest upright support frame; conceptual form, no modern machinery. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-33d42534-d4ab-45e9-b50c-a84f7ca0e4ff.png",
+      "generatedAt": "2026-10-04T09:57:17.084Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-double-box",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Small pale bluish-white glazed ceramic nesting boxes, outer round lidded box with smaller inset box, subtle abstract impressed ornament. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-c4726854-bd49-4b10-88aa-ea924e70cb6d.png",
+      "generatedAt": "2026-10-04T09:57:44.309Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-incense-burner",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Pale blue-white ceramic incense burner with pierced rounded cover and footed lower bowl, abstract openings, no burning incense. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-1a92a8e3-b699-4949-8bcf-4f0c39bb2900.png",
+      "generatedAt": "2026-10-04T09:58:11.466Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-marble-bowl",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Small rounded marbled-clay ceramic water vessel with narrow opening, brown and cream interwoven clay pattern under light glaze. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-fc5ca180-a931-407a-97e3-a061fe26229b.png",
+      "generatedAt": "2026-10-04T09:58:30.544Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-marble-pillow",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Low rectangular ceramic pillow with softened corners, green glaze over marbled brown and cream clay pattern. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-23d51bb1-acfb-42a7-a2e6-8e309689bcda.png",
+      "generatedAt": "2026-10-04T09:58:51.683Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-pottery-dog",
+      "prompt": "Use case: historical-scene. Asset: independent AI educational museum object illustration, NOT original collection photography. Full subject alone centered on warm ivory paper, generous margins, realistic material render, muted tones, diffuse soft light and mild shadow, restrained coherent catalogue style, square framing. Subject: Han brown-glazed terracotta dog, squat watchful posture, earthen sculpted surface, no modern collar or leash. Constraints: no text, labels, watermark, logos, visitors, extra props or legible inscriptions. Approximate educational shape only; ornament and condition must not be treated as original details.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-aec9ed1a-24ec-4971-8fcb-8bb3b752564f.png",
+      "generatedAt": "2026-10-04T09:59:11.513Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-ewer-basin",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Pale blue-white ceramic ewer with slender spout and handle placed beside matching deep rounded bowl, a two-piece set. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-3198c323-c30a-4a53-ae0b-25ef934a169a.png",
+      "generatedAt": "2026-10-04T09:57:45.725Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-oil-lamp",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Celadon lamp bowl on three short hoof-like feet connected to a wide circular drip tray, no flame or fuel. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-e3d1bd65-77d4-4b43-ac40-7207ff232a68.png",
+      "generatedAt": "2026-10-04T09:58:15.370Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-inlaid-table",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Small narrow redwood tabletop candle stand, four holes on top, a tiny drawer, subtle mother-of-pearl grape and squirrel motif. No candles. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-df04272d-cbd7-4e7e-8625-5721d6a9848a.png",
+      "generatedAt": "2026-10-04T09:58:35.564Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-stone-paddle",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Flat rounded rectangular stone paddle with parallel longitudinal grooves on front and a visible repaired transverse break, grey stone. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-d0baaa4a-ede9-44a1-b7d1-47f6c9f1a9de.png",
+      "generatedAt": "2026-10-04T09:58:55.419Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-tin-gourd-ewer",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Gourd-shaped tin vessel with lid, restrained silver-grey surface and abstract floral dragon-like relief, no readable marks. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-f3646f68-753e-49b1-818c-8ecc8b7775d1.png",
+      "generatedAt": "2026-10-04T09:59:39.722Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-carved-brushpot",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Small cylindrical brown wooden brush pot with abstract carved human figures in low relief, no brushes, inscriptions or specific famous character. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-1219aed9-3a01-475b-951d-fbd2389c1241.png",
+      "generatedAt": "2026-10-04T09:59:18.909Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-warming-copper-stove",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Small copper warming stove with lidded upper liquid container, arched carrying handle and ventilated lower charcoal chamber, abstract auspicious openings not legible text. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-86b4e9f5-aa0b-4265-971d-84e65412a361.png",
+      "generatedAt": "2026-10-04T10:00:01.388Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-grooved-stone",
+      "prompt": "Use case: historical-scene. Independent AI conceptual museum illustration, NOT photography of real artifact. Subject: Rectangular ground stone tool with gently curved ends, single bevel lower edge, residual chipped marks near top and a transverse crack, muted grey. Scene: entire object centered, warm ivory paper background, generous margins, realistic material rendering, softly diffuse lighting with gentle shadow, restrained muted catalogue style, square composition. Constraints: no text, labels, watermarks, logo, visitors, additional props or readable inscriptions. Approximate educational silhouette and material only, never a measured or historically verified replica.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-24f26e42-e666-4cc9-a45b-15a599deb918.png",
+      "generatedAt": "2026-10-04T10:00:21.810Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-perforated-shovel",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: Fragmentary flat stone shovel with one perforation near upper portion and surviving broad beveled lower edge, broken irregular edge, no wooden shaft. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-ecf14724-5854-4204-a6e2-690a98639c76.png",
+      "generatedAt": "2026-10-04T09:59:02.442Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-crystal-point",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: Small irregular translucent rock-crystal pointed stone artifact with rough worked facets and a tapered point, not a modern polished crystal wand. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-a6b7993c-0bbb-4405-9844-ad48550944a7.png",
+      "generatedAt": "2026-10-04T09:59:29.955Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-stone-adze",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: Compact grey stone adze head, rectangular tapered body and beveled cutting edge, no handle, no modern axe shape. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-dfc01729-fe26-4e12-8081-3a46eed665fb.png",
+      "generatedAt": "2026-10-04T10:00:02.306Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-paper-cut-bowl",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: Southern Song dark glazed tea bowl with subtle pale abstract paper-cut floral silhouette decoration, small foot, no readable characters. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-485ae4b9-0c14-419a-99ed-0b4feb6f823e.png",
+      "generatedAt": "2026-10-04T10:00:22.564Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-yue-box",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: Low round lidded celadon box with restrained incised floral lines, muted green glaze, simple full silhouette. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-7b7e790d-9b61-4afc-ba82-40d62be62bdc.png",
+      "generatedAt": "2026-10-04T10:00:47.863Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "gb-birch-milk-tube",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: A simple cylindrical birch-bark milk vessel, pale bark with natural horizontal markings and restrained seam, no invented ornaments, conceptual construction. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-28c24423-0af7-4d37-936f-7404b3f181eb.png",
+      "generatedAt": "2026-10-04T10:01:08.091Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "gb-dade-coin",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: A single aged bronze round coin with central square hole, subtle worn relief, no readable invented characters, not Yuan attribution. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-e9b94814-d525-454b-baaa-92692a295b33.png",
+      "generatedAt": "2026-10-04T10:01:29.241Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "gb-guobao-coin",
+      "prompt": "Use case: historical-scene. AI educational concept illustration for museum catalogue, NOT original photography. Subject: Bronze artifact shaped as a round square-holed coin joined to a lower square panel, worn blank relief not invented legible inscriptions. Scene: entire object centered on warm off-white paper, generous margins, realistic understated material, diffuse soft light and gentle shadow, restrained catalogue aesthetic, square. Constraints: no readable inscriptions, text, labels, watermark, logos, human visitors or extra props. No unsupported ornamental additions. Shape and surface are approximate, not a certified historical reconstruction.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-c07c169d-3129-40f4-9f05-75728fb6b407.png",
+      "generatedAt": "2026-10-04T10:02:02.928Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "gb-wuzhu-mould",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Long rectangular aged bronze coin casting mould with several round cavities and feeding channels, approximate cavity arrangement only, no readable coin inscriptions. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-3efa9a8c-8a7c-4a47-93e7-0439733dd774.png",
+      "generatedAt": "2026-10-04T09:59:24.723Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "gb-small-banliang",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: A small thin aged bronze round coin with central square hole, worn blank surface rather than fake readable Banliang writing. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-de21d432-fcc9-4e19-9602-a7371e21134a.png",
+      "generatedAt": "2026-10-04T09:59:53.606Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "gb-jade-crab-inkstone",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Small dark green jade oval lotus-leaf inkstone, flat grinding area and recessed pool with understated crab motif, no text. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-b2dc8a45-fd55-48e6-84a4-83b8c00b841f.png",
+      "generatedAt": "2026-10-04T10:00:16.258Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "gb-jade-bamboo-brushpot",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Green jade cylindrical brush pot with seven bamboo-like horizontal sections and three short cloud-like feet, plain interior, no brushes. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-5d41b8d0-e1c1-440f-9ccb-1f933b928f29.png",
+      "generatedAt": "2026-10-04T10:00:38.567Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-white-dragon-ewer",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Tang white ceramic ewer, dragon-shaped arched handle, plain rounded body and pouring lip, ivory glaze, restrained abstract dragon head. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-e4a7e657-6cc0-47f8-a75e-758e34f73498.png",
+      "generatedAt": "2026-10-04T10:01:01.320Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-tricolor-flat-flask",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Tang tricolor ceramic flattened flask, flat back and rounded front, raised abstract knotted-ribbon ornament, amber green cream glaze, no strap. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-8e79ab21-6ea3-4a1d-b78c-2b60a79ef5d4.png",
+      "generatedAt": "2026-10-04T10:01:23.304Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-celadon-ewer",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Northern Song celadon ewer, rounded melon-ribbed body, curved spout and loop handle, muted green glaze. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-41f20d59-3d13-4d17-8eb1-c02565272546.png",
+      "generatedAt": "2026-10-04T10:01:55.426Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    },
+    {
+      "id": "sz-changsha-ewer",
+      "prompt": "Use case: historical-scene. Independent AI educational museum concept illustration, NOT a photo or measured replica of original. Subject: Tang Changsha kiln ceramic ewer, pale celadon glaze with brown splash accents and simple applied date-palm-like relief, rounded body, curved spout and handle. Scene: entire artifact centered on warm ivory paper, generous margins, realistic restrained material, soft diffuse light, mild shadow, coherent muted catalogue aesthetic, square image. Avoid: all readable writing or inscriptions, labels, watermark, logos, additional props, visitors and unsupported decorative additions. Condition and ornament are approximate only.",
+      "originalFile": "C:\\Users\\derek\\.codex\\generated_images\\01a029ba-d248-7a71-92de-27b132982365\\exec-f75f3eeb-f208-400e-a0a7-4a1f776a9727.png",
+      "generatedAt": "2026-10-04T10:02:18.589Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅通过概括器形、材料及画面审查；非原貌核验，不据图认读铭文、纹饰、部件数量或结构。"
+    }
+  ]
+}

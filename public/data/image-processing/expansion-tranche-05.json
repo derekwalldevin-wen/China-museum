@@ -1,0 +1,1627 @@
+{
+  "version": "expansion-tranche-05-20261005",
+  "generator": "OpenAI built-in imagegen",
+  "note": "原始文件为AI生成，不是馆藏照片；网页派生仅缩放编码。历史细节未核，不能用于认读纹饰或铭文。",
+  "items": [
+    {
+      "id": "wh-stone-spade",
+      "prompt": "Use case: scientific-educational. Asset type: single museum artifact AI illustration for Huaxia atlas, clearly not an authentic collection photograph. Subject: Long flat grey stone spade blade, rounded rectangular outline, worn working edge. Style: refined full-color hand-painted archaeological educational illustration, nuanced realistic materials, restrained artistic rendering, warm ivory paper background, soft light and subtle grounding shadow. One complete isolated object centered with generous padding, square composition. Only approximate the stated general structure; no invented readable inscriptions, no logos, no labels, no watermarks, no modern props, no restoration of missing components. Do not depict a different artifact or add a scene.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-stone-spade.png",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形、独立画面与无可读伪造文字；非具体原貌核验，细部和数量不作史料。",
+      "originalSha256": "c710161ddc9013d7d0ca27fdf203be65b9fbed93380f7947d86847220b34ae00",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-stone-spade-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "41a3f8084e648a7e71aa36a1e779fa67be18d076f981e58211a69043d1dd1766",
+          "bytes": 89171,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-stone-spade-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "d596633ee96182ba1d591609649e8420a15cfc94bba9e3975db3a5783f7e8a8e",
+          "bytes": 306828,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-drum-pot",
+      "prompt": "Use case: scientific-educational. Asset type: single museum artifact AI illustration for Huaxia atlas, clearly not an authentic collection photograph. Subject: Grey pottery vessel with vertical round drum-like body, small short neck and mouth on top, circular raised studs on both sides. Style: refined full-color hand-painted archaeological educational illustration, nuanced realistic materials, restrained artistic rendering, warm ivory paper background, soft light and subtle grounding shadow. One complete isolated object centered with generous padding, square composition. Only approximate the stated general structure; no invented readable inscriptions, no logos, no labels, no watermarks, no modern props, no restoration of missing components. Do not depict a different artifact or add a scene.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-drum-pot.png",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形、独立画面与无可读伪造文字；非具体原貌核验，细部和数量不作史料。",
+      "originalSha256": "b78a1b2e5b4cae4243f6770de755b36bc37b520265fa908bca84c43b2a2ca744",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-drum-pot-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "0976d8ffb65f5afba1da7f1d0b9b274dc72a6082e169c987d3b86519b1b9b286",
+          "bytes": 95060,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-drum-pot-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "742f97f4611daf57c36a371cd702d5c87e4ef8d58f5492af8c3c91cbe8f35011",
+          "bytes": 328151,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-pottery-yan",
+      "prompt": "Use case: scientific-educational. Asset type: single museum artifact AI illustration for Huaxia atlas, clearly not an authentic collection photograph. Subject: Grey earthenware cooking steamer, wide open upper bowl joined to lower three hollow legs, unglazed. Style: refined full-color hand-painted archaeological educational illustration, nuanced realistic materials, restrained artistic rendering, warm ivory paper background, soft light and subtle grounding shadow. One complete isolated object centered with generous padding, square composition. Only approximate the stated general structure; no invented readable inscriptions, no logos, no labels, no watermarks, no modern props, no restoration of missing components. Do not depict a different artifact or add a scene.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-pottery-yan.png",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形、独立画面与无可读伪造文字；非具体原貌核验，细部和数量不作史料。",
+      "originalSha256": "3336530d5e2f44744eb38e572ac9038019391ca1cc96c6ed9974d04925639e80",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-pottery-yan-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "2269dcb097e2f1235ace6b389bc6f873a49aa4ed0fe25df40c380ebe7df91888",
+          "bytes": 97070,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-pottery-yan-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "ade46fd180ec5549608ecd1c10e58a0ecfebf963f39145c74fb7e6469ebfde11",
+          "bytes": 316133,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-pottery-dui",
+      "prompt": "Use case: scientific-educational. Asset type: single museum artifact AI illustration for Huaxia atlas, clearly not an authentic collection photograph. Subject: Black pottery spherical lidded food vessel, paired hemispheres, three curved S-shaped feet and matching knobs. Style: refined full-color hand-painted archaeological educational illustration, nuanced realistic materials, restrained artistic rendering, warm ivory paper background, soft light and subtle grounding shadow. One complete isolated object centered with generous padding, square composition. Only approximate the stated general structure; no invented readable inscriptions, no logos, no labels, no watermarks, no modern props, no restoration of missing components. Do not depict a different artifact or add a scene.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-pottery-dui.png",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形、独立画面与无可读伪造文字；非具体原貌核验，细部和数量不作史料。",
+      "originalSha256": "33e96db02e9932d04be1104ad08a6b81c4efda24fd843d84862813503ade6c68",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-pottery-dui-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "be0bca2951f6101bd33f1aaa6485612aaee3e5425eca80ebb83464c5884187e9",
+          "bytes": 91818,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-pottery-dui-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "45b97eb9f0d45fa643bb25370aee03a84920c59ec87c874a272b0725cadb9e75",
+          "bytes": 308394,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-pigsty-latrine",
+      "prompt": "Use case: scientific-educational. Asset type: single museum artifact AI illustration for Huaxia atlas, clearly not an authentic collection photograph. Subject: Brown earthenware miniature enclosed square pigsty and raised small latrine building, simple archaeological model, no modern bathroom fittings. Style: refined full-color hand-painted archaeological educational illustration, nuanced realistic materials, restrained artistic rendering, warm ivory paper background, soft light and subtle grounding shadow. One complete isolated object centered with generous padding, square composition. Only approximate the stated general structure; no invented readable inscriptions, no logos, no labels, no watermarks, no modern props, no restoration of missing components. Do not depict a different artifact or add a scene.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-pigsty-latrine.png",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形、独立画面与无可读伪造文字；非具体原貌核验，细部和数量不作史料。",
+      "originalSha256": "113b3647bbe613904ca5906f7d70b405ad8c850c6891d1161cd71599a7d44654",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-pigsty-latrine-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "183d7c2b50178f8730ae19043361929f01b2d66e1d47937903e31ebdb0004ba7",
+          "bytes": 86253,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-pigsty-latrine-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "11ad72f4946def0338e08992d6d753c8db94cfdda49fc20adf0ac9be0ce8c642",
+          "bytes": 281698,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-mother-candlestick",
+      "prompt": "Use case: scientific-educational. Asset type: single museum artifact AI illustration for Huaxia atlas, clearly not an authentic collection photograph. Subject: Worn red pottery figure of crouching mother holding child, tall tubular hair bun acting as candle socket, subdued silvery glaze remnants. Style: refined full-color hand-painted archaeological educational illustration, nuanced realistic materials, restrained artistic rendering, warm ivory paper background, soft light and subtle grounding shadow. One complete isolated object centered with generous padding, square composition. Only approximate the stated general structure; no invented readable inscriptions, no logos, no labels, no watermarks, no modern props, no restoration of missing components. Do not depict a different artifact or add a scene.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-mother-candlestick.png",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形、独立画面与无可读伪造文字；非具体原貌核验，细部和数量不作史料。",
+      "originalSha256": "20c66f82f75cdf4e8038bad9f0a0edfa2e523bd444e88cb91e6bbfbf6c0445ef",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-mother-candlestick-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "bd67e33789527696be9ae86de04761ea8f677c65dd63583c87ad092aa418579b",
+          "bytes": 86588,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-mother-candlestick-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "eb369164610ac277e23a588b84a68168d2408552ff0cbbf197d71d217716eda3",
+          "bytes": 290537,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-dabu-coin",
+      "prompt": "Use case: scientific-educational. Asset type: single museum artifact AI illustration for Huaxia atlas, clearly not an authentic collection photograph. Subject: Single patinated bronze spade-shaped coin, round perforation in narrow upper head, broad two-foot lower body, no readable inscription. Style: refined full-color hand-painted archaeological educational illustration, nuanced realistic materials, restrained artistic rendering, warm ivory paper background, soft light and subtle grounding shadow. One complete isolated object centered with generous padding, square composition. Only approximate the stated general structure; no invented readable inscriptions, no logos, no labels, no watermarks, no modern props, no restoration of missing components. Do not depict a different artifact or add a scene.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-dabu-coin.png",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形、独立画面与无可读伪造文字；非具体原貌核验，细部和数量不作史料。",
+      "originalSha256": "891731b9882dbedde4d9b1b5568a8a06b527f85a13473d4c36bebeccb90ecbed",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-dabu-coin-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "c7f87519ba0b32dc39e375f48866226c6cea29b93e386b899ba9dc3343634081",
+          "bytes": 100769,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-dabu-coin-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "069fc897732fdcfe720ee7b40ed2f54d76ae86e3a22da49fd8c3c7a68d31c638",
+          "bytes": 339761,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-measuring-ding",
+      "prompt": "Use case: scientific-educational. Asset type: single museum artifact AI illustration for Huaxia atlas, clearly not an authentic collection photograph. Subject: Small aged bronze tripod ding with two upright handles, rounded bowl and three slender legs, inscription not rendered. Style: refined full-color hand-painted archaeological educational illustration, nuanced realistic materials, restrained artistic rendering, warm ivory paper background, soft light and subtle grounding shadow. One complete isolated object centered with generous padding, square composition. Only approximate the stated general structure; no invented readable inscriptions, no logos, no labels, no watermarks, no modern props, no restoration of missing components. Do not depict a different artifact or add a scene.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-measuring-ding.png",
+      "generatedAt": "2026-10-05T04:41:46.413Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "仅审核概括器形、独立画面与无可读伪造文字；非具体原貌核验，细部和数量不作史料。",
+      "originalSha256": "30a0b6af1a35304545b060343babeabc39e505a1b9d05d43b004f3a214ec42f2",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-measuring-ding-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "bf00013c7db10c21b7cc9e1c72a65cb2c259ffd57aa20f2ec2a3f447cc9da475",
+          "bytes": 85488,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-measuring-ding-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "343bc2bda285c6c203e216771be3ea686b73c6a2d39944c011c0d604d2f7539b",
+          "bytes": 284870,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-people-mirror",
+      "prompt": "Use case: scientific-educational. Asset type: standalone archaeological AI concept illustration, NOT original museum photography. Subject: Circular patinated bronze mirror back, central knob and five raised bosses among approximate animal relief, no readable words. Full-color refined hand-painted material rendering on warm ivory paper, diffuse light, soft shadow, square centered composition and generous padding. Only approximate stated general structure; no readable invented inscriptions, no text, logos, labels, watermarks or modern props. Preserve explicitly described missing parts; no restoration.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-people-mirror.png",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "0cb8b2c15e63a1c9476b7744c205775fbad5ae706b01436b4b8b53a17e6c5c06",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-people-mirror-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "0c2a55bcaec778e9ad49a3dd2d9b85fd701df00c1464cf2f9c8d62b96e21b52a",
+          "bytes": 147528,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-people-mirror-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "146091a1a1a4bfe464f931bb99bafc5e1c565b6886a1d195e49b4e45120dc8cb",
+          "bytes": 484863,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-yangguang-trigger",
+      "prompt": "Use case: scientific-educational. Asset type: standalone archaeological AI concept illustration, NOT original museum photography. Subject: Small antique bronze crossbow trigger mechanism with gold traces, interlocking angular parts, upright trigger lever, no stock or bow. Full-color refined hand-painted material rendering on warm ivory paper, diffuse light, soft shadow, square centered composition and generous padding. Only approximate stated general structure; no readable invented inscriptions, no text, logos, labels, watermarks or modern props. Preserve explicitly described missing parts; no restoration.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-yangguang-trigger.png",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "243c605d81565960bc5c0b0c80926c38bcfdb596addb7e37ca516a0cc028137f",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-yangguang-trigger-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "0ad988cb213754333c3bcff144b75388525686505d0dfc747e78fa4834956283",
+          "bytes": 76713,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-yangguang-trigger-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "8b7186a3a2e7ed6130454ca3eb800c42dce6c06ee26301872444f731fc560afc",
+          "bytes": 266273,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-lushi-mirror",
+      "prompt": "Use case: scientific-educational. Asset type: standalone archaeological AI concept illustration, NOT original museum photography. Subject: Circular aged bronze mirror back with central knob and rows of approximate mythic beasts, indistinct perimeter marks, no legible script. Full-color refined hand-painted material rendering on warm ivory paper, diffuse light, soft shadow, square centered composition and generous padding. Only approximate stated general structure; no readable invented inscriptions, no text, logos, labels, watermarks or modern props. Preserve explicitly described missing parts; no restoration.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-lushi-mirror.png",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "470fc83aae46dd46901bc7a032ca4140c1082f6f433a669bce74278fc06288fe",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-lushi-mirror-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "fa74f96d0f3dc0c751525f544e9e9b3ccb96c3d683042ff7fa712a69d8cb5872",
+          "bytes": 156725,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-lushi-mirror-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "a030cd8273e9cae81a179ff0741d51db181daa6a9287f25ccc6f6a3b108ea766",
+          "bytes": 506858,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-shield-figure",
+      "prompt": "Use case: scientific-educational. Asset type: standalone archaeological AI concept illustration, NOT original museum photography. Subject: Kneeling celadon ceramic armored warrior, helmet, long rectangular beast-face shield with raised central ridge, simple weapon held close. Full-color refined hand-painted material rendering on warm ivory paper, diffuse light, soft shadow, square centered composition and generous padding. Only approximate stated general structure; no readable invented inscriptions, no text, logos, labels, watermarks or modern props. Preserve explicitly described missing parts; no restoration.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-shield-figure.png",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "6bf80e59ce226d76c6940d686ba8138062f0ea947880fc08951e6a1d4bb714e4",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-shield-figure-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "e2d171e441321cc37867466bac5e56741bef7d29cda329eb371d96fda6cde70f",
+          "bytes": 95008,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-shield-figure-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "c9013edcff4ef7e0657421104cf84133c75e7058f9064004fe26608e65c58a4c",
+          "bytes": 314609,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-zhaozhuo-trigger",
+      "prompt": "Use case: scientific-educational. Asset type: standalone archaeological AI concept illustration, NOT original museum photography. Subject: Elongated patinated bronze crossbow trigger mechanism, angular socket and lever parts, not a complete crossbow, no legible marks. Full-color refined hand-painted material rendering on warm ivory paper, diffuse light, soft shadow, square centered composition and generous padding. Only approximate stated general structure; no readable invented inscriptions, no text, logos, labels, watermarks or modern props. Preserve explicitly described missing parts; no restoration.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-zhaozhuo-trigger.png",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "0e368b25352fe2af9ac13823719d8ac04f9421154f7f1607b03d4dcb93ab7037",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-zhaozhuo-trigger-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "6a015ea42b3b3634f638562926bc418c5bf043db155f228cb11498f3cb48183a",
+          "bytes": 76539,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-zhaozhuo-trigger-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "0faeb23107745a4828ae2b93eeceee187dd4013e511d5f915cee40f4875404f7",
+          "bytes": 269452,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-fortress-model",
+      "prompt": "Use case: scientific-educational. Asset type: standalone archaeological AI concept illustration, NOT original museum photography. Subject: Celadon ceramic miniature fortified compound, rectangular enclosing walls, corner watchtowers, gate, small granary and side rooms. Full-color refined hand-painted material rendering on warm ivory paper, diffuse light, soft shadow, square centered composition and generous padding. Only approximate stated general structure; no readable invented inscriptions, no text, logos, labels, watermarks or modern props. Preserve explicitly described missing parts; no restoration.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-fortress-model.png",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "96afb55cd4b7fa5d1a1b30a27982f1fa03513924ecea63927898dfe244a5ae50",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-fortress-model-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "33a865a81fefa2210733ef4fc9ff8332ec017322dc304aee6726711fbcefa88f",
+          "bytes": 89060,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-fortress-model-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "ad6b9216b430fe324fe51381e6310010fb76558eda26fe6a9625121d025f3022",
+          "bytes": 297169,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-tiger-vessel",
+      "prompt": "Use case: scientific-educational. Asset type: standalone archaeological AI concept illustration, NOT original museum photography. Subject: Celadon tiger-shaped hollow vessel lying low on four bent paws, raised open round mouth, tail curving into overhead handle. Full-color refined hand-painted material rendering on warm ivory paper, diffuse light, soft shadow, square centered composition and generous padding. Only approximate stated general structure; no readable invented inscriptions, no text, logos, labels, watermarks or modern props. Preserve explicitly described missing parts; no restoration.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-tiger-vessel.png",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "240adcfbc15320077c0db0c4d4da45506c200b7534f9fa6bbff38b9fbdbac18a",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-tiger-vessel-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "1a495496b8d69802801f497746f316132d3b5d6108de8b12ef31ee59784e1327",
+          "bytes": 83272,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-tiger-vessel-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "41fa0984d4cb9d167554af4a0b969f4b8cda38c18c584cbd8efc25661841ec0e",
+          "bytes": 266350,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-well-model",
+      "prompt": "Use case: scientific-educational. Asset type: standalone archaeological AI concept illustration, NOT original museum photography. Subject: Small celadon ceramic well model, four slender columns supporting pyramidal roof, round well opening and tiny bucket-holding figure. Full-color refined hand-painted material rendering on warm ivory paper, diffuse light, soft shadow, square centered composition and generous padding. Only approximate stated general structure; no readable invented inscriptions, no text, logos, labels, watermarks or modern props. Preserve explicitly described missing parts; no restoration.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-well-model.png",
+      "generatedAt": "2026-10-05T04:46:15.335Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "216e8d99a46fcb2638e633a2018a8dfc1325bb6d69221da06308018372b99f5c",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-well-model-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "35925937fb66cde8162243505d0d8935cd355fc74b2ed9068cac80052d462563",
+          "bytes": 91717,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-well-model-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "fecb533efc227bf2ba7bcd1b3f6f595bc0d70e57142f7e8c659895d88169142d",
+          "bytes": 317618,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-many-foot-inkstone",
+      "prompt": "Use case: scientific-educational. A single independent AI conceptual museum illustration, NOT original artifact photography or exact reconstruction. Subject: Low circular celadon inkstone with unglazed dark central grinding surface, glazed rim, ring of small animal feet. Refined full-color hand-painted archaeological material rendering, muted accurate general material colors, warm ivory paper backdrop, diffuse light, soft shadow, entire object isolated with generous margins, square. Approximate structure only. No readable inscriptions, text, labels, watermark, logos, scenery or modern props. Preserve stated damaged parts, do not complete missing details.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-many-foot-inkstone.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "4f484571d98b9bd4269b450472803649398754150da1d5004f5d321717ded2a2",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-many-foot-inkstone-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "7bc2452f724bc68def51886ec6b957c299b6c415955adfb3e1d6091b3a6860d8",
+          "bytes": 79038,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-many-foot-inkstone-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "5486f8b3682f6293f0f8aa41cd1de0adeac06a7ab966977840a01285c27e21d4",
+          "bytes": 279277,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-snake-seal",
+      "prompt": "Use case: scientific-educational. A single independent AI conceptual museum illustration, NOT original artifact photography or exact reconstruction. Subject: Small square warm gold seal with compact curved snake-shaped knob, viewed from above and side, no exposed readable seal face. Refined full-color hand-painted archaeological material rendering, muted accurate general material colors, warm ivory paper backdrop, diffuse light, soft shadow, entire object isolated with generous margins, square. Approximate structure only. No readable inscriptions, text, labels, watermark, logos, scenery or modern props. Preserve stated damaged parts, do not complete missing details.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-snake-seal.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "7dd3d6319e88f67f42e58f5b5d1f88b4db7a98369e4e26c584835acec5345e9b",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-snake-seal-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "af4c25db60b95e4b851c25d0d5898127cbad37b6fde2d540bad4ee68ca5ff4ff",
+          "bytes": 83572,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-snake-seal-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "17c4e340e446d2d445e43b401031da50b06483e18ffd6f5eadfd693c0cff6154",
+          "bytes": 274912,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-chicken-ewer",
+      "prompt": "Use case: scientific-educational. A single independent AI conceptual museum illustration, NOT original artifact photography or exact reconstruction. Subject: Small thick-bodied celadon ewer with chicken-head spout, dragon-shaped handle whose head meets the round lip. Refined full-color hand-painted archaeological material rendering, muted accurate general material colors, warm ivory paper backdrop, diffuse light, soft shadow, entire object isolated with generous margins, square. Approximate structure only. No readable inscriptions, text, labels, watermark, logos, scenery or modern props. Preserve stated damaged parts, do not complete missing details.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-chicken-ewer.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "07a35884239a64487152b297f6450a07871cb6858f0339e1d2ebbbbe9b7362ed",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-chicken-ewer-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "15ad80867c6d687569b35f6b1670ffd3422211856c073585c444f61a3c2f5779",
+          "bytes": 75572,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-chicken-ewer-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "f2e50dda65cce07384ed96da6f85db7db82597560264ce8d3058f7a612ddf1ed",
+          "bytes": 255332,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "wh-chengni-inkstone",
+      "prompt": "Use case: scientific-educational. A single independent AI conceptual museum illustration, NOT original artifact photography or exact reconstruction. Subject: Plain dark brown fired-clay rectangular inkstone, hand-hold hollow underside, recessed ink pool and flat grinding surface, no readable calligraphy. Refined full-color hand-painted archaeological material rendering, muted accurate general material colors, warm ivory paper backdrop, diffuse light, soft shadow, entire object isolated with generous margins, square. Approximate structure only. No readable inscriptions, text, labels, watermark, logos, scenery or modern props. Preserve stated damaged parts, do not complete missing details.",
+      "originalFile": "assets/expansion/originals/tranche-05/wh-chengni-inkstone.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "cee9c30af5d2ef8aad209d67a0e0ac097fb77e01e234b2befcac463084ad5b02",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/wh-chengni-inkstone-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "4fc973a1debcb4ff8af93565fd05c779279d44f099aad8789b4c4396c892ce2a",
+          "bytes": 73989,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/wh-chengni-inkstone-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "c648bc2e9a74ff272e95d0ad91f6aed19075b1b80f9b94dff7bb398e4e3d4561",
+          "bytes": 254641,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-gold-lotus-box",
+      "prompt": "Use case: scientific-educational. A single independent AI conceptual museum illustration, NOT original artifact photography or exact reconstruction. Subject: Six-lobed cinnabar lacquer cylindrical cosmetic box, four stacked sections, silver rim bands, approximate fine gold flowers and indistinct figures. Refined full-color hand-painted archaeological material rendering, muted accurate general material colors, warm ivory paper backdrop, diffuse light, soft shadow, entire object isolated with generous margins, square. Approximate structure only. No readable inscriptions, text, labels, watermark, logos, scenery or modern props. Preserve stated damaged parts, do not complete missing details.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-gold-lotus-box.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "059a54957bfc20f1926a4c3f91d28f12583c4def6266e79834ffe3eec5068a71",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-gold-lotus-box-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "6c32716e0819e55defa396f48ab4d573d1f27296c43e105d06490095ff3bccf8",
+          "bytes": 93664,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-gold-lotus-box-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "8b95aaae1a74e22a4946346dd3fd93dbdaa243c99e6e83b13fb24870bd4c6096",
+          "bytes": 305182,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-trumpet-lacquer",
+      "prompt": "Use case: scientific-educational. A single independent AI conceptual museum illustration, NOT original artifact photography or exact reconstruction. Subject: Small hollow dark brown black-coated trumpet-shaped wooden archaeological artifact, flaring bottom, narrow top, worn scorched patches. Refined full-color hand-painted archaeological material rendering, muted accurate general material colors, warm ivory paper backdrop, diffuse light, soft shadow, entire object isolated with generous margins, square. Approximate structure only. No readable inscriptions, text, labels, watermark, logos, scenery or modern props. Preserve stated damaged parts, do not complete missing details.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-trumpet-lacquer.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "4497b2b8f14515c7cb3f802be22d6d621d124dd113090116d4a1a4453473f1ea",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-trumpet-lacquer-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "3f4dbfcf270697ab2e50d4fdab693a6794ac0d9138c9868ab01ad1a0dc170c4b",
+          "bytes": 68216,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-trumpet-lacquer-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "89c11ab59e130350b23c299fabf8566c49a84e1478bb52c29980daf79a72152f",
+          "bytes": 245804,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-carved-cup",
+      "prompt": "Use case: scientific-educational. A single independent AI conceptual museum illustration, NOT original artifact photography or exact reconstruction. Subject: Irregular natural bamboo-root cup, aged brown, shallow pine relief, heavily worn sparse dark lacquer remnants. Refined full-color hand-painted archaeological material rendering, muted accurate general material colors, warm ivory paper backdrop, diffuse light, soft shadow, entire object isolated with generous margins, square. Approximate structure only. No readable inscriptions, text, labels, watermark, logos, scenery or modern props. Preserve stated damaged parts, do not complete missing details.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-carved-cup.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "6289fe3dcb93db93babc23004bf5a951012e124baa3e434746b3dcf6735862cb",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-carved-cup-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "10e811388e706cc9bbb876327e331d99f215bd741b3a05ee9367863e6c152709",
+          "bytes": 96433,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-carved-cup-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "04f87305bba7980eb03c3f397985cadceaa983f6a88f011899a1bb719e67f1bb",
+          "bytes": 296843,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-wood-cane",
+      "prompt": "Use case: scientific-educational. A single independent AI conceptual museum illustration, NOT original artifact photography or exact reconstruction. Subject: Long aged wooden walking cane carved into bamboo segments, distinct joined handle, warm dark brown, single object diagonally placed. Refined full-color hand-painted archaeological material rendering, muted accurate general material colors, warm ivory paper backdrop, diffuse light, soft shadow, entire object isolated with generous margins, square. Approximate structure only. No readable inscriptions, text, labels, watermark, logos, scenery or modern props. Preserve stated damaged parts, do not complete missing details.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-wood-cane.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "be8dd8799fac3b9952fe48f097e6485fa03fd56c0f44b178418981db47b21e29",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-cane-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "b66382fc55c8ffd3a15e3889fe68e8c3fef398e15ac30c832f0d04ba3a07b0cb",
+          "bytes": 52865,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-cane-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "9d8d5ad5ca712c88b973412bc4933e6dc1208008f777885392724c43361e5dea",
+          "bytes": 186135,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-wood-spoon",
+      "prompt": "Use case: scientific-educational. Independent AI conceptual artifact illustration, NOT an authentic collection photograph or exact restoration. Subject: Single aged nanmu wooden spoon with slightly arched narrow handle and flat oval shallow bowl. Refined full-color hand-painted archaeological material illustration on warm ivory paper, diffuse soft light and shadow, square, one complete isolated object with ample margins. No legible writing, text, labels, logos, watermark, modern props or invented additional objects. Preserve damaged state specified above. Decorative detail is approximate, never an exact copy of original artwork.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-wood-spoon.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "da8ac64d8e180a23ebc39f5694ca80fd4724372cc31650b0688c23be8031a10b",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-spoon-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "046f8cc93edc19a5faeda6bb17b4100a56c85b103dd0eb91129a01b8ea14579d",
+          "bytes": 63736,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-spoon-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "aafe48c6b5c2172d0146151532c8d0ef4304273cf5a5ad8605a6d99b83e93b5d",
+          "bytes": 235696,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-wood-chopstick",
+      "prompt": "Use case: scientific-educational. Independent AI conceptual artifact illustration, NOT an authentic collection photograph or exact restoration. Subject: One cylindrical dark aged wooden chopstick, slightly thicker at one end, no decorative pattern. Refined full-color hand-painted archaeological material illustration on warm ivory paper, diffuse soft light and shadow, square, one complete isolated object with ample margins. No legible writing, text, labels, logos, watermark, modern props or invented additional objects. Preserve damaged state specified above. Decorative detail is approximate, never an exact copy of original artwork.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-wood-chopstick.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "1ed309b696cdddfae4245f396d30b5de15eedc9e041231dcaf6c917973e34f81",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-chopstick-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "b57908ac03e0d9cbfda906cc48f7785786d26d99d103c57c449aaab557c67e2a",
+          "bytes": 52405,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-chopstick-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "53d8074b8f90899eadec646dcbf756120e760e97e123afe59a666a4843d2ce46",
+          "bytes": 209596,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-yuan-black-bowl",
+      "prompt": "独立的古代器物AI概括示意图：黑漆碗。已知形制：Shallow black lacquer wooden bowl, straight lip, subtly angled sides and wide flat base, no legible red inscription.。严格素面黑漆，绝对没有花卉、金线、人物、文字或任何装饰纹样。暖象牙色背景、柔和投影、单件完整器形、方形构图、细腻全彩手绘质感。只示意形制，不声称实拍或精确复原。",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-yuan-black-bowl.png",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "3bbae13d8148e90bee763505c1cb43a3deefcb410b6602584367662f9ce42703",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-yuan-black-bowl-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "eee4aa4427707a8d3a0e4681e04a04cf98e692d857063cd9c4245a6f0bf96b7c",
+          "bytes": 41551,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-yuan-black-bowl-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "29f23f5a76a38295679b5fe7415ac4cf1aa710cfd987cf1cff131e23f4e2d395",
+          "bytes": 155082,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-phagspa-bowl",
+      "prompt": "Use case: scientific-educational. Independent AI conceptual artifact illustration, NOT an authentic collection photograph or exact restoration. Subject: Muted dark ochre lacquer wooden bowl, slightly inward lip, curved belly and ring foot, black rim and base edging, no words. Refined full-color hand-painted archaeological material illustration on warm ivory paper, diffuse soft light and shadow, square, one complete isolated object with ample margins. No legible writing, text, labels, logos, watermark, modern props or invented additional objects. Preserve damaged state specified above. Decorative detail is approximate, never an exact copy of original artwork.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-phagspa-bowl.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "dcd95a5f3c20daea0a11e62592b1be4bedeeb8097f6f615e6a8b8f29ba7c8580",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-phagspa-bowl-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "64f416f2659c6a9c868317f7aec505e94ec7d6365ff33c8060ac3a2ca84ab872",
+          "bytes": 91542,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-phagspa-bowl-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "1ee5ccf76bca5c8ebe629c400c2f97464533ee4e5d41c1f2db3fe6a8bf05d63a",
+          "bytes": 311619,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-bamboo-comb",
+      "prompt": "Use case: scientific-educational. Independent AI conceptual artifact illustration, NOT an authentic collection photograph or exact restoration. Subject: Small flat double-sided bamboo fine-tooth comb, paired bamboo crossbars tied with fine thread, one end cap missing. Refined full-color hand-painted archaeological material illustration on warm ivory paper, diffuse soft light and shadow, square, one complete isolated object with ample margins. No legible writing, text, labels, logos, watermark, modern props or invented additional objects. Preserve damaged state specified above. Decorative detail is approximate, never an exact copy of original artwork.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-bamboo-comb.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "6478ccd607461d987a925ff97416998bd4d5787ae736069ddf798701b2d40483",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-bamboo-comb-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "e2b320eaf5d26c9ee3665aa53d6587a3c110379e80e6b578ae32feca03823c9d",
+          "bytes": 96612,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-bamboo-comb-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "72c5a5180f5c6a18ef44e18207b431de8a99a6e925a592a68ab6b0cf552f4fb6",
+          "bytes": 344417,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-pearl-comb",
+      "prompt": "Use case: scientific-educational. Independent AI conceptual artifact illustration, NOT an authentic collection photograph or exact restoration. Subject: Small semicircular boxwood comb, fine dense teeth, single row of tiny pearls along curved back. Refined full-color hand-painted archaeological material illustration on warm ivory paper, diffuse soft light and shadow, square, one complete isolated object with ample margins. No legible writing, text, labels, logos, watermark, modern props or invented additional objects. Preserve damaged state specified above. Decorative detail is approximate, never an exact copy of original artwork.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-pearl-comb.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "3d4e9a75b993963f3b3e96bcbe3858e3d1e246ceb65d5ab6fa8c6c45059dcff4",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-pearl-comb-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "200e61cbd79d0b76400e86242379a1c5677ed6b2e4726ad1443b37c609da6b47",
+          "bytes": 90210,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-pearl-comb-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "ebf1fe7d9896e393d71b572862c2af040b303ff7058a6fed0ab321276d3c5540",
+          "bytes": 315940,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-wood-roller",
+      "prompt": "Use case: scientific-educational. Independent AI conceptual artifact illustration, NOT an authentic collection photograph or exact restoration. Subject: Single cylindrical aged wooden scroll roller with pale white jade end caps and slight brown staining, no paper or painting. Refined full-color hand-painted archaeological material illustration on warm ivory paper, diffuse soft light and shadow, square, one complete isolated object with ample margins. No legible writing, text, labels, logos, watermark, modern props or invented additional objects. Preserve damaged state specified above. Decorative detail is approximate, never an exact copy of original artwork.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-wood-roller.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "11ec7afcdcb891ec8c8226f379b4bcdf692e42c6780bbfa81267389ee7244c6e",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-roller-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "85209d8a7b8a4a5c250851c6a50310e7492e1d09226f224a4a41831f721b5f9f",
+          "bytes": 68625,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-roller-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "d987c968d8ff8714f943cb849f2068e170494c48a6dd9f67d739c182af0ff72b",
+          "bytes": 252128,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-lacquer-brush",
+      "prompt": "Use case: scientific-educational. Independent AI conceptual artifact illustration, NOT an authentic collection photograph or exact restoration. Subject: Small rectangular black-lacquered bamboo grooming brush, shallow flower carving, short dark bristle tufts arranged in rows. Refined full-color hand-painted archaeological material illustration on warm ivory paper, diffuse soft light and shadow, square, one complete isolated object with ample margins. No legible writing, text, labels, logos, watermark, modern props or invented additional objects. Preserve damaged state specified above. Decorative detail is approximate, never an exact copy of original artwork.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-lacquer-brush.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "464379a1ac8717d0e25e9a31c9d25c4bbb4c3927e552b0b0cb308914168dafac",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-lacquer-brush-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "9b7ed75fe9d41c76c5228106ccc446ba228d28fe0221f4320d385edcc957c1eb",
+          "bytes": 84764,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-lacquer-brush-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "48b084765e37c9a354fad7d8cc12bd5c9dec1e7139f298140184950b7894dce2",
+          "bytes": 296744,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-wood-chair",
+      "prompt": "Use case: scientific-educational. Single independent AI conceptual museum artifact illustration, not an authentic photograph, not exact restoration. Subject: Small unpainted pale-brown wooden funerary miniature chair, tall straight back, projecting top rail, staggered lower stretchers. Elegant full-color hand-painted material study on warm ivory paper, diffuse light, subtle shadow, square catalogue layout, entire isolated object or stated combined unit centered with ample padding. General structure only; decorative detail approximate. No readable words, inscriptions, labels, logos, watermark, extra props or scenes. Do not restore absent components.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-wood-chair.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "f4051354f7fe91333d4bdff15deb5c64cf8926fe9e435280fbf70ce57bd4d509",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-chair-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "52d94f317c1f0d45273b9efe92c717a1b2af8947959e8539c6f7fa11a7e2536e",
+          "bytes": 63080,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-chair-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "62ea01f58098d4ea44bfef3d0b2375f02cc48c1169865b73231d6303bc4e5ce9",
+          "bytes": 203551,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-wood-table",
+      "prompt": "Use case: scientific-educational. Single independent AI conceptual museum artifact illustration, not an authentic photograph, not exact restoration. Subject: Small unpainted rectangular wooden funerary table, four cylindrical legs, simple stretchers, faint circular object traces on top. Elegant full-color hand-painted material study on warm ivory paper, diffuse light, subtle shadow, square catalogue layout, entire isolated object or stated combined unit centered with ample padding. General structure only; decorative detail approximate. No readable words, inscriptions, labels, logos, watermark, extra props or scenes. Do not restore absent components.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-wood-table.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "1a16e32ddff09c76c46a6b4cb52d1ff471b6754aae843c3dadbbbb20ff5aad0d",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-table-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "04029ce2aea26378d8299e2944190b141b43dadbbcf98811b5960e42b8780153",
+          "bytes": 86162,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-table-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "ffb898bd0863b653b8f4ff00a29afcd389278ca2fc8a19af958b5a793c5aa6dd",
+          "bytes": 294999,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-lacquer-teacup",
+      "prompt": "独立的古代器物AI概括示意图：漆托盏。已知形制：Dark brown lacquer small inward-rim teacup fixed in round saucer and ring foot, compact single combined vessel.。严格素面黑漆，绝对没有花卉、金线、人物、文字或任何装饰纹样。暖象牙色背景、柔和投影、单件完整器形、方形构图、细腻全彩手绘质感。只示意形制，不声称实拍或精确复原。",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-lacquer-teacup.png",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "8a06f986c85aea3da90fca561ce6019d3b4d01c1b9cd7c3cba559c157a8340c8",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-lacquer-teacup-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "fa93e02c9ac61fc234fa6e1fcf492d1a57d19230e6b2b5c37bf11db77f386cd9",
+          "bytes": 42566,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-lacquer-teacup-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "cbd219292d029330376280b052cdee55589bf5fbc816d4fa056d938dbf129e5b",
+          "bytes": 138726,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-petal-dish",
+      "prompt": "Use case: scientific-educational. Single independent AI conceptual museum artifact illustration, not an authentic photograph, not exact restoration. Subject: Flat-bottomed lacquer dish with finely scalloped many-petal rim, black interior and reddish brown exterior, no readable marks. Elegant full-color hand-painted material study on warm ivory paper, diffuse light, subtle shadow, square catalogue layout, entire isolated object or stated combined unit centered with ample padding. General structure only; decorative detail approximate. No readable words, inscriptions, labels, logos, watermark, extra props or scenes. Do not restore absent components.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-petal-dish.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "c41a653009db2869ccfc51fd5b86791a67f916746661941bb64290d9288783be",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-petal-dish-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "e05c7de8b634a63a49215b902f5febe31f55dfbddc08a283a35ca07ab32357e6",
+          "bytes": 70362,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-petal-dish-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "e37de7fda4290485fb4780697780ec24645353e17653626a009b575a9ebb8d96",
+          "bytes": 250502,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-black-washer",
+      "prompt": "独立的古代器物AI概括示意图：黑漆洗。已知形制：Broad shallow black lacquer wooden basin with projecting lip, gently bulging sides and wide low false ring foot.。严格素面黑漆，绝对没有花卉、金线、人物、文字或任何装饰纹样。暖象牙色背景、柔和投影、单件完整器形、方形构图、细腻全彩手绘质感。只示意形制，不声称实拍或精确复原。",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-black-washer.png",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "7910c18db0dc49fd62b5eb33b33a7bf60482cddca7df2f148f56102ebef4f43f",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-black-washer-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "c6c049f2e7499551d883b7ef1829995f1777e0d65084f4dd3c25096efb3d0cae",
+          "bytes": 45559,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-black-washer-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "701d356c3b3cece07d742a2d9bcf4a44e734c6a9226b5a9a68438c177351d22a",
+          "bytes": 157761,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-mirror-case",
+      "prompt": "Use case: scientific-educational. Single independent AI conceptual museum artifact illustration, not an authentic photograph, not exact restoration. Subject: Black carved lacquer handled-mirror case, circular head joined to long handle, swirling cloud relief and subtly exposed red-yellow-black layered edges. Elegant full-color hand-painted material study on warm ivory paper, diffuse light, subtle shadow, square catalogue layout, entire isolated object or stated combined unit centered with ample padding. General structure only; decorative detail approximate. No readable words, inscriptions, labels, logos, watermark, extra props or scenes. Do not restore absent components.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-mirror-case.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "b7b99665dfee92b013b95c62abdb1f5ca594a66014d12cd269912f4ee08909c8",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-mirror-case-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "7d6ca9b2f64d4ce94bbc788e632608db637efeff201c31d9a80bc6a2b4a3cd14",
+          "bytes": 81503,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-mirror-case-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "ed9441ebbaa6fb0d3cb81fe53a050bd1ce97be9dbdeed293ec5206b318a52c6e",
+          "bytes": 266021,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-red-rect-box",
+      "prompt": "Use case: scientific-educational. Single independent AI conceptual museum artifact illustration, not an authentic photograph, not exact restoration. Subject: Rectangular cinnabar lacquer lidded box, black inner tray, approximate fine gold flowers and indistinct landscape figure, no words. Elegant full-color hand-painted material study on warm ivory paper, diffuse light, subtle shadow, square catalogue layout, entire isolated object or stated combined unit centered with ample padding. General structure only; decorative detail approximate. No readable words, inscriptions, labels, logos, watermark, extra props or scenes. Do not restore absent components.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-red-rect-box.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "d8bf875128ad6c65656d7c8ec07a9f0775986f51be71f828430c8359642a1ec8",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-red-rect-box-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "49dd65be8cd47a3bef38b41f74fea1c1d465d8800c659ea91bd21ef1d0c9bc68",
+          "bytes": 109273,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-red-rect-box-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "55280bccbb15f396811a11beef51a6dc55612900aa1d74c3f4dc39028052d7f1",
+          "bytes": 362717,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-willow-box",
+      "prompt": "Use case: scientific-educational. Single independent AI conceptual museum artifact illustration, not an authentic photograph, not exact restoration. Subject: Black rectangular lacquer lidded box with thin approximate gold willow-and-pond motif, small red filled dots, black shallow interior tray. Elegant full-color hand-painted material study on warm ivory paper, diffuse light, subtle shadow, square catalogue layout, entire isolated object or stated combined unit centered with ample padding. General structure only; decorative detail approximate. No readable words, inscriptions, labels, logos, watermark, extra props or scenes. Do not restore absent components.",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-willow-box.png",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "a7c920dc1724d080870c1dd0e27183e9a2671f38c45a7b499d51f6b18f67a952",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-willow-box-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "d6473f2a678bd79af923074e6843e27d6f126ee6a2cb16dda65567fff93e18a3",
+          "bytes": 113205,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-willow-box-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "1a036d3f3f568a9c92b163cbba4c6c712a44920ece419d2dc4ab8af65e87af3f",
+          "bytes": 378271,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-silk-brush",
+      "prompt": "为华夏博物志制作一张独立文物AI示意图：毛笔。器形依据：Long slender aged reed writing brush with reed protective cap beside it, short twisted silk-fiber tip and plain thread binding.。原创、细腻手绘的全彩博物馆器物图，暖象牙色背景、柔和投影、单件完整展示，方形构图。只表现有依据的概括器形，不补绘未知原作细节，不生成可读铭文、文字或水印，不制造考古现场。不是实拍、不是精确复原。",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-silk-brush.png",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "25961916f46c8a305d3160b567e7aece33c6433d84c9560c46db18d6db9afa5d",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-silk-brush-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "2123a660036f08d8a92f2b64553355e12316bd9455d06ffeb3d5c2ce8419329d",
+          "bytes": 53366,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-silk-brush-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "fc8e8e98bd413d80276441f1a816d8a046acf5b00f69f71364526c40800d2c0e",
+          "bytes": 178405,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-red-hairpick",
+      "prompt": "为华夏博物志制作一张独立文物AI示意图：朱漆发插。器形依据：Narrow curved cinnabar lacquer wooden strip with eight long flat teeth at one end, abstract pierced top decoration, no hair or teacup context.。原创、细腻手绘的全彩博物馆器物图，暖象牙色背景、柔和投影、单件完整展示，方形构图。只表现有依据的概括器形，不补绘未知原作细节，不生成可读铭文、文字或水印，不制造考古现场。不是实拍、不是精确复原。",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-red-hairpick.png",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "598ccec8da992ffb80e0df386b157e26d5db45299d8777bdfdbcd4d67dd910a2",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-red-hairpick-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "065335ed32875960a4044adf8d3653d81f531637b3b8b7ff885a317bcf6e9530",
+          "bytes": 57537,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-red-hairpick-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "9a7167038fcf3e28c8356ee751e55005d5bbce242346ea6cca8ca00536514dd1",
+          "bytes": 177946,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-changzhou-bowl",
+      "prompt": "为华夏博物志制作一张独立文物AI示意图：“常州”铭花瓣式黑漆碗。器形依据：Deep black lacquer wooden bowl with ten-lobed floral lip and broad ring foot, no readable inscription.。原创、细腻手绘的全彩博物馆器物图，暖象牙色背景、柔和投影、单件完整展示，方形构图。只表现有依据的概括器形，不补绘未知原作细节，不生成可读铭文、文字或水印，不制造考古现场。不是实拍、不是精确复原。",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-changzhou-bowl.png",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "54a8be6953e24fece5edf22e8690885e9333c65307a892b9b4211e979af9b588",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-changzhou-bowl-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "66f3b2d1cff2b52040a4884ab36a51c646139ddf8848fe134913bde106346287",
+          "bytes": 73830,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-changzhou-bowl-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "69cf821296458c2a304b49303f4269f91d25269dd6c4f07273bb6afb5d2093ec",
+          "bytes": 250702,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-wood-paddle",
+      "prompt": "为华夏博物志制作一张独立文物AI示意图：木桨。器形依据：Short weathered wooden paddle with flattened broken blade, rounded shaft, triangular hollow handle and two shallow incised lines.。原创、细腻手绘的全彩博物馆器物图，暖象牙色背景、柔和投影、单件完整展示，方形构图。只表现有依据的概括器形，不补绘未知原作细节，不生成可读铭文、文字或水印，不制造考古现场。不是实拍、不是精确复原。",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-wood-paddle.png",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "0b7f7167d5de0de5461d362931f2acc2e503e4568ce82af6d687c4e46faadb83",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-paddle-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "da71555e223e327d178aafeb425dd867acb7832fe4cc06c5ff9be91fff3a419c",
+          "bytes": 60233,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-paddle-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "572303f54a380a309959c02e92ac32a0da4447ac5b464498540604e984b52e1c",
+          "bytes": 203600,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    },
+    {
+      "id": "cz-wood-scull",
+      "prompt": "为华夏博物志制作一张独立文物AI示意图：木橹。器形依据：Long rough-hewn aged wooden sculling oar, broad flattened blade tapering to thin tail, thicker shaft junction with opposed rectangular notches.。原创、细腻手绘的全彩博物馆器物图，暖象牙色背景、柔和投影、单件完整展示，方形构图。只表现有依据的概括器形，不补绘未知原作细节，不生成可读铭文、文字或水印，不制造考古现场。不是实拍、不是精确复原。",
+      "originalFile": "assets/expansion/originals/tranche-05/cz-wood-scull.png",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "visualReview": "approved",
+      "historicalReview": "pending",
+      "reviewNote": "审核概括器形、独立画面、无可读伪造文字；AI细部非原貌证据。",
+      "originalSha256": "5ee507740ebb897aee9d374f556e5d86ac11957aad6792ccf1b0d1dca8089cf7",
+      "originalDimensions": [
+        1254,
+        1254
+      ],
+      "roles": {
+        "card": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-scull-card.jpg",
+          "width": 640,
+          "height": 640,
+          "sha256": "13dbca10bcfe573afce09b5e049eeea607efda295e23f1f75556eb3ebd71205f",
+          "bytes": 53969,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        },
+        "detail": {
+          "src": "/artifact-expansion/tranche-05/cz-wood-scull-detail.jpg",
+          "width": 1200,
+          "height": 1200,
+          "sha256": "2b79c4d2ca2b291e08f2b2504c001a0b39f8809e17b1bd9ef65db3006a5b4375",
+          "bytes": 174985,
+          "upscaled": false,
+          "aiGenerated": true,
+          "operation": "等比缩小、JPEG编码；不裁切、不锐化、不补绘"
+        }
+      }
+    }
+  ]
+}

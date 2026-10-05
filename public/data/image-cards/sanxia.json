@@ -1,0 +1,116 @@
+{
+ "museumId": "sanxia",
+ "records": {
+  "cq-nxz": {
+   "image": {
+    "src": "/artifacts/cq-nxz.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/bcd96387590dcfe8-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/bcd96387590dcfe8-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/bcd96387590dcfe8-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  },
+  "cq-wyq": {
+   "image": {
+    "src": "/artifacts-v2/p2-source/cq-wyq.png",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/d4f2a1239977cc0f-card-w240.webp",
+       "width": 240,
+       "height": 300
+      },
+      {
+       "src": "/artifact-responsive/d4f2a1239977cc0f-card-w400.webp",
+       "width": 400,
+       "height": 500
+      },
+      {
+       "src": "/artifact-responsive/d4f2a1239977cc0f-card-w640.webp",
+       "width": 640,
+       "height": 800
+      },
+      {
+       "src": "/artifact-responsive/d4f2a1239977cc0f-card-w960.webp",
+       "width": 960,
+       "height": 1200
+      }
+     ]
+    },
+    "fit": "cover",
+    "fallback": {
+     "src": "/artifacts/cq-wyq.jpg",
+     "kind": "source",
+     "responsive": {
+      "format": "image/webp",
+      "candidates": [
+       {
+        "src": "/artifact-responsive/2972f50bc7e2864f-card-w240.webp",
+        "width": 240,
+        "height": 359
+       },
+       {
+        "src": "/artifact-responsive/2972f50bc7e2864f-card-w400.webp",
+        "width": 400,
+        "height": 599
+       },
+       {
+        "src": "/artifact-responsive/2972f50bc7e2864f-card-w601.webp",
+        "width": 601,
+        "height": 900
+       }
+      ]
+     }
+    }
+   },
+   "hold": false
+  },
+  "cq-hty": {
+   "image": {
+    "src": "/artifacts/cq-hty.jpg",
+    "kind": "ai",
+    "responsive": {
+     "format": "image/webp",
+     "candidates": [
+      {
+       "src": "/artifact-responsive/2279bb79b0129a15-card-w240.webp",
+       "width": 240,
+       "height": 360
+      },
+      {
+       "src": "/artifact-responsive/2279bb79b0129a15-card-w400.webp",
+       "width": 400,
+       "height": 600
+      },
+      {
+       "src": "/artifact-responsive/2279bb79b0129a15-card-w600.webp",
+       "width": 600,
+       "height": 900
+      }
+     ]
+    }
+   },
+   "hold": false
+  }
+ }
+}

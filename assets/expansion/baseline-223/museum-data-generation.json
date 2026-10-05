@@ -1,0 +1,446 @@
+{
+ "generatedAt": "2026-10-03T03:53:13.084Z",
+ "source": {
+  "path": "src/data/museums.ts",
+  "bytes": 102582,
+  "sha256": "f13694356b755ca37ccc5a680aa0ae3475ceaa83043562ca47b07ada02cc9126",
+  "museums": 59,
+  "artifacts": 223
+ },
+ "index": {
+  "path": "src/data/museum-index.json",
+  "bytes": 47190,
+  "sha256": "8253a11f3d2bd27c999b53638c32e7fd8b3c007522f27e4f328038b9c6666dcc"
+ },
+ "compactIndex": {
+  "path": "src/data/museum-index.compact.json",
+  "bytes": 21317,
+  "sha256": "f3370aeb815ffa16dfdd7e3d27400a93924f622f02f8c882f3f9ebe81cc880de"
+ },
+ "searchCorpus": {
+  "path": "src/data/artifact-search.json",
+  "bytes": 54678,
+  "sha256": "dd2257ffeaad14d62245008cfd77027d774c42064ed6608f3930bb8436998d90",
+  "entries": 223
+ },
+ "payloads": {
+  "directory": "src/data/museum-payloads",
+  "count": 59,
+  "totalBytes": 103707,
+  "files": [
+   {
+    "id": "gugong",
+    "path": "src/data/museum-payloads/gugong.json",
+    "bytes": 3226,
+    "sha256": "8aa22534eba96658e1233b82175c1e91044b9d6ee9638d2c46fd55eaa7efd99c",
+    "artifacts": 7
+   },
+   {
+    "id": "guobo",
+    "path": "src/data/museum-payloads/guobo.json",
+    "bytes": 4775,
+    "sha256": "c912f32b08a771658df11abc452fad20a7d365c23235f2fe03254ac43ff65ce7",
+    "artifacts": 10
+   },
+   {
+    "id": "shoubo",
+    "path": "src/data/museum-payloads/shoubo.json",
+    "bytes": 1501,
+    "sha256": "8dafe22d7dec4efbcb2e19e43af7004a6da54781df482d72508db6c9de1fa558",
+    "artifacts": 3
+   },
+   {
+    "id": "tianbo",
+    "path": "src/data/museum-payloads/tianbo.json",
+    "bytes": 1495,
+    "sha256": "d752552c9796b6b46e26d2cd290dfea9e49f682f624a192cb8f5c07d848bc59d",
+    "artifacts": 3
+   },
+   {
+    "id": "hebwy",
+    "path": "src/data/museum-payloads/hebwy.json",
+    "bytes": 1436,
+    "sha256": "ab5e47f99053acd0698e8667dcd8c8a3555e48927372d6b693171ae66f79c902",
+    "artifacts": 3
+   },
+   {
+    "id": "dingzhou",
+    "path": "src/data/museum-payloads/dingzhou.json",
+    "bytes": 1485,
+    "sha256": "0f3c388b70401738edbde1ed56d611be0f32d40044416d060045a29f5dffe8f4",
+    "artifacts": 3
+   },
+   {
+    "id": "shanxi",
+    "path": "src/data/museum-payloads/shanxi.json",
+    "bytes": 1518,
+    "sha256": "4b4d16d735a07e363ca0c6b75b67a43c54c0de61cfcc9a5c32dd543b46b3d52b",
+    "artifacts": 3
+   },
+   {
+    "id": "datong",
+    "path": "src/data/museum-payloads/datong.json",
+    "bytes": 1052,
+    "sha256": "df245ef8e2192b2a41483a506d2b4c43b02d67bc9303aebac7d298ca41dcc666",
+    "artifacts": 2
+   },
+   {
+    "id": "neimenggu",
+    "path": "src/data/museum-payloads/neimenggu.json",
+    "bytes": 1430,
+    "sha256": "1f9f2d8dd1184eac1fc377cbb3223c17e1588aa8f7fa405526954ab8ba3e9eea",
+    "artifacts": 3
+   },
+   {
+    "id": "liaobo",
+    "path": "src/data/museum-payloads/liaobo.json",
+    "bytes": 1485,
+    "sha256": "510dbe1083e992214e46f11cb10a4dc1614daae7835bb0e006656733d548139e",
+    "artifacts": 3
+   },
+   {
+    "id": "sygugong",
+    "path": "src/data/museum-payloads/sygugong.json",
+    "bytes": 1500,
+    "sha256": "fcefec760f2ad875fe9eb46a7e849b7b70a60ebb6695abf771b097f21ac6ec46",
+    "artifacts": 3
+   },
+   {
+    "id": "jilin",
+    "path": "src/data/museum-payloads/jilin.json",
+    "bytes": 1353,
+    "sha256": "b38e229e591ade39debe3063edee50d5551aac1cab14059895265506c56b821b",
+    "artifacts": 3
+   },
+   {
+    "id": "heilongjiang",
+    "path": "src/data/museum-payloads/heilongjiang.json",
+    "bytes": 1470,
+    "sha256": "3870ffb1827855808df6827f9cf9693876aec9fe349609e2a20b0693c3192bce",
+    "artifacts": 3
+   },
+   {
+    "id": "shanghai",
+    "path": "src/data/museum-payloads/shanghai.json",
+    "bytes": 2320,
+    "sha256": "d586529e13ee39c84c61e26c24cb7bd2440b6081330449e0b9f330e3e3810507",
+    "artifacts": 5
+   },
+   {
+    "id": "nanjing",
+    "path": "src/data/museum-payloads/nanjing.json",
+    "bytes": 1857,
+    "sha256": "e04c0b73734fcb93d9e18f5a6d1c7b0b0b3a582ed137a6051cf643e072d28076",
+    "artifacts": 4
+   },
+   {
+    "id": "suzhou",
+    "path": "src/data/museum-payloads/suzhou.json",
+    "bytes": 1509,
+    "sha256": "9df12162d908d2d7b785810090fcaaf77e10649630408e2828156cdcf72df122",
+    "artifacts": 3
+   },
+   {
+    "id": "yangzhou",
+    "path": "src/data/museum-payloads/yangzhou.json",
+    "bytes": 1354,
+    "sha256": "4fb53e0ce8e327dcc7559913d469ceccfb590564f4d4ca9162ec651cbbe90779",
+    "artifacts": 3
+   },
+   {
+    "id": "zhejiang",
+    "path": "src/data/museum-payloads/zhejiang.json",
+    "bytes": 1938,
+    "sha256": "82772da12dba75f8f45f035dfbdeed4c8d70485f977c77771b122ef9d95c19a4",
+    "artifacts": 4
+   },
+   {
+    "id": "ningbo",
+    "path": "src/data/museum-payloads/ningbo.json",
+    "bytes": 1918,
+    "sha256": "b4095bd608edb4a7eb12066878397013bfae6b28673eeaae450cd528e3274eaa",
+    "artifacts": 4
+   },
+   {
+    "id": "anhui",
+    "path": "src/data/museum-payloads/anhui.json",
+    "bytes": 1496,
+    "sha256": "5aee508477da45d159b22c378f884e52f1aa3040c2b3102e4e91ecd30b9d57aa",
+    "artifacts": 3
+   },
+   {
+    "id": "fujian",
+    "path": "src/data/museum-payloads/fujian.json",
+    "bytes": 1554,
+    "sha256": "ee3ea791bf7d41202b3c8cc1f7c865508794bf3b5fc8835fd2d55bf06def1fc5",
+    "artifacts": 3
+   },
+   {
+    "id": "quanzhou",
+    "path": "src/data/museum-payloads/quanzhou.json",
+    "bytes": 1440,
+    "sha256": "67be64a36b34718e6217f6e00da16a52710b9c3d95262e1d703b1ae4d8d10f38",
+    "artifacts": 3
+   },
+   {
+    "id": "jiangxi",
+    "path": "src/data/museum-payloads/jiangxi.json",
+    "bytes": 1334,
+    "sha256": "d570e70ce5a29f54dbd610748bd631fe3c0de7fcb97fa9f1cfcf5b90445b99a8",
+    "artifacts": 3
+   },
+   {
+    "id": "jingdezhen",
+    "path": "src/data/museum-payloads/jingdezhen.json",
+    "bytes": 1355,
+    "sha256": "3919b61cce394f9e8f1d428611140a900c3b2e0879a627879b72e6ef016ec6fe",
+    "artifacts": 3
+   },
+   {
+    "id": "shandong",
+    "path": "src/data/museum-payloads/shandong.json",
+    "bytes": 1915,
+    "sha256": "aa42f22d02687797aeb5d1a750b785bd81c8bc41cd80fe4eadd574c1dc363ec8",
+    "artifacts": 4
+   },
+   {
+    "id": "kongzi",
+    "path": "src/data/museum-payloads/kongzi.json",
+    "bytes": 1311,
+    "sha256": "bf23d1de4bae9d954f9ad09ab772c9ed75e5283c214d1e71d028ef7f2455f1ab",
+    "artifacts": 3
+   },
+   {
+    "id": "qingzhou",
+    "path": "src/data/museum-payloads/qingzhou.json",
+    "bytes": 1456,
+    "sha256": "a656fe0e7bfc63094b1b34b1b56a53cfcf90115e3c88388a0b46e3fe081b7252",
+    "artifacts": 3
+   },
+   {
+    "id": "henan",
+    "path": "src/data/museum-payloads/henan.json",
+    "bytes": 2393,
+    "sha256": "207b1523293a86531317350b52407be5962d7d21b23f409ce2bd91335d169c71",
+    "artifacts": 5
+   },
+   {
+    "id": "luoyang",
+    "path": "src/data/museum-payloads/luoyang.json",
+    "bytes": 1281,
+    "sha256": "4808a89846cf99334dd6134ed270d975ee7f906133e87c65266c75bdcf25dfef",
+    "artifacts": 3
+   },
+   {
+    "id": "kaifeng",
+    "path": "src/data/museum-payloads/kaifeng.json",
+    "bytes": 1472,
+    "sha256": "6b2fc00e9ce48d57cdfac2509bb3cf95989c5e19e74df97e4dea054fe23d6f85",
+    "artifacts": 3
+   },
+   {
+    "id": "yinxu",
+    "path": "src/data/museum-payloads/yinxu.json",
+    "bytes": 1258,
+    "sha256": "a3c0cd94f45dcf5a25b2cd7a356522574f3b7a668e2cb28f1a048fed16a3d6c1",
+    "artifacts": 3
+   },
+   {
+    "id": "hubei",
+    "path": "src/data/museum-payloads/hubei.json",
+    "bytes": 8836,
+    "sha256": "2090bc1e564108a46a5446879182a77c205d4182da68956e3b78f601b9ccaf1e",
+    "artifacts": 22
+   },
+   {
+    "id": "jingzhou",
+    "path": "src/data/museum-payloads/jingzhou.json",
+    "bytes": 1362,
+    "sha256": "9ce74a62682557e83df13983257514635f00631a75cde2ea8761c5cf1c1943ca",
+    "artifacts": 3
+   },
+   {
+    "id": "hunan",
+    "path": "src/data/museum-payloads/hunan.json",
+    "bytes": 1944,
+    "sha256": "ad01144fcbf8f40f819c0740c40e4dc702fe875feb9cc5cf7bf68d4d09eb9662",
+    "artifacts": 4
+   },
+   {
+    "id": "csjiandu",
+    "path": "src/data/museum-payloads/csjiandu.json",
+    "bytes": 989,
+    "sha256": "b8c5384169f19f03e7c1c1599f411468fad4577b8290df0e7b16b12449e645c9",
+    "artifacts": 2
+   },
+   {
+    "id": "guangdong",
+    "path": "src/data/museum-payloads/guangdong.json",
+    "bytes": 1312,
+    "sha256": "67408554be43ca9fb69a8b80ec21701768c3f9d652c824bc97a9e68ee4296236",
+    "artifacts": 3
+   },
+   {
+    "id": "nanyue",
+    "path": "src/data/museum-payloads/nanyue.json",
+    "bytes": 3364,
+    "sha256": "f2277cc4ef2f1574ebaca8f513b44bfb46835109ed4d3ad9cfd7a4c3d66e513d",
+    "artifacts": 8
+   },
+   {
+    "id": "guangxi",
+    "path": "src/data/museum-payloads/guangxi.json",
+    "bytes": 1386,
+    "sha256": "2c80004e43286eca50c45142cb461c839117298943597d70e896b6c4da73a30e",
+    "artifacts": 3
+   },
+   {
+    "id": "hainan",
+    "path": "src/data/museum-payloads/hainan.json",
+    "bytes": 1418,
+    "sha256": "0acd701a25a2ed4a41b54c25460adb5adefc8d266ab47ef8d8887498e0c65da4",
+    "artifacts": 3
+   },
+   {
+    "id": "sanxia",
+    "path": "src/data/museum-payloads/sanxia.json",
+    "bytes": 1368,
+    "sha256": "c3fde866d4635b883a2cbeeb3e4636a7ae2c3ec705de965816c60d565a91ff82",
+    "artifacts": 3
+   },
+   {
+    "id": "dazu",
+    "path": "src/data/museum-payloads/dazu.json",
+    "bytes": 1478,
+    "sha256": "379123bf292570808212e00090ad0e4436e900be5ac5b05115688b318bb94a10",
+    "artifacts": 3
+   },
+   {
+    "id": "sichuan",
+    "path": "src/data/museum-payloads/sichuan.json",
+    "bytes": 1349,
+    "sha256": "06e71e38c359b509175910a0229495efe5f1362e8b83212d7002d12b18851da9",
+    "artifacts": 3
+   },
+   {
+    "id": "sanxingdui",
+    "path": "src/data/museum-payloads/sanxingdui.json",
+    "bytes": 2354,
+    "sha256": "674edbe289d28a7202eff346b058c465ba6ab5889d878b45fe4fbe59d690b3be",
+    "artifacts": 5
+   },
+   {
+    "id": "jinsha",
+    "path": "src/data/museum-payloads/jinsha.json",
+    "bytes": 1457,
+    "sha256": "65765c7fe57dbf139d975e204e585736ec3045eb9fd2bd44cda1a1646593f734",
+    "artifacts": 3
+   },
+   {
+    "id": "guizhou",
+    "path": "src/data/museum-payloads/guizhou.json",
+    "bytes": 1285,
+    "sha256": "b47dfdd452331695c5cab38fd7e46695e2f845cde104fcdd57c272757f4ae90c",
+    "artifacts": 3
+   },
+   {
+    "id": "yunnan",
+    "path": "src/data/museum-payloads/yunnan.json",
+    "bytes": 1068,
+    "sha256": "b7c81523edfc96a6d2d72bd8bc5ecbf1b17fa3b409cefc989f2d5ab6902e7a33",
+    "artifacts": 2
+   },
+   {
+    "id": "xizang",
+    "path": "src/data/museum-payloads/xizang.json",
+    "bytes": 1303,
+    "sha256": "c30953f8a2e75e2a9dde274f6cce43145b4a1fe7bcbeb51443c8fb04e319a759",
+    "artifacts": 3
+   },
+   {
+    "id": "shanxili",
+    "path": "src/data/museum-payloads/shanxili.json",
+    "bytes": 2629,
+    "sha256": "32a2dbc209493c801b1107f7f17cc36ce6e855e4e5f8bfa606b87f720fdccb2e",
+    "artifacts": 6
+   },
+   {
+    "id": "qinshihuang",
+    "path": "src/data/museum-payloads/qinshihuang.json",
+    "bytes": 1372,
+    "sha256": "18dd94e48e9d08ad93c36b98d401a040fcfce757b56756f806442faaa100d105",
+    "artifacts": 3
+   },
+   {
+    "id": "xian",
+    "path": "src/data/museum-payloads/xian.json",
+    "bytes": 1398,
+    "sha256": "931f08d248fdb43e1b9c726d7ebc6db7cdc2e3c9438e4aa2b76bc3b37a87d78e",
+    "artifacts": 3
+   },
+   {
+    "id": "baoji",
+    "path": "src/data/museum-payloads/baoji.json",
+    "bytes": 1496,
+    "sha256": "314c78b858b78f8e45ac0f1570d7267433be326041e86089fc0c7f5342f59467",
+    "artifacts": 3
+   },
+   {
+    "id": "gansu",
+    "path": "src/data/museum-payloads/gansu.json",
+    "bytes": 1645,
+    "sha256": "f51d8f291089a53f4fadf5fc817f8440da1a61080f9a41158783564f8e6feb24",
+    "artifacts": 3
+   },
+   {
+    "id": "dunhuang",
+    "path": "src/data/museum-payloads/dunhuang.json",
+    "bytes": 1515,
+    "sha256": "6f56d8330ec5f6861aac8989896f3583160381a7e35a531bab8e874b380bb377",
+    "artifacts": 3
+   },
+   {
+    "id": "qinghai",
+    "path": "src/data/museum-payloads/qinghai.json",
+    "bytes": 964,
+    "sha256": "2c5675da95df85f9ec2c0320cf58eaf61eb2f4454d6a05160b2e0c196285dfb7",
+    "artifacts": 2
+   },
+   {
+    "id": "ningxia",
+    "path": "src/data/museum-payloads/ningxia.json",
+    "bytes": 1515,
+    "sha256": "34cdd64e32efe6c1e18377d1d8cd3e580ed0a85febf0cea7aec9461f93832ed5",
+    "artifacts": 3
+   },
+   {
+    "id": "xinjiang",
+    "path": "src/data/museum-payloads/xinjiang.json",
+    "bytes": 1501,
+    "sha256": "eb66af137e345e735432e289eb7dfa848eca2e206ea2bb841b8e1cc0fba999de",
+    "artifacts": 3
+   },
+   {
+    "id": "hongkong",
+    "path": "src/data/museum-payloads/hongkong.json",
+    "bytes": 1381,
+    "sha256": "af3a91026ceaa00542bfbb93c9d2b0c0f1957f8705ab9e81e21356179489976f",
+    "artifacts": 3
+   },
+   {
+    "id": "macao",
+    "path": "src/data/museum-payloads/macao.json",
+    "bytes": 940,
+    "sha256": "bf22e1102f93e2adae2e61846786427eb7ff64e56fa43197c728f7cb3a6ae746",
+    "artifacts": 2
+   },
+   {
+    "id": "taibei",
+    "path": "src/data/museum-payloads/taibei.json",
+    "bytes": 2191,
+    "sha256": "7827a9ae831bc0b07d3a7237bdf8151458c85b3913606419ce808577939b82a7",
+    "artifacts": 5
+   }
+  ]
+ }
+}

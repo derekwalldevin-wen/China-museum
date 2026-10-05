@@ -1,0 +1,731 @@
+{
+  "instructions": "未创作长篇故事。每件官方来源只支持明列事实；制作、发现、研究史的空白保留未知。AI图不作史料，关联仅用于比较，不暗示传承。",
+  "items": [
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/xianqin/201901/41.html",
+      "evidenceKey": "a7d751e515c5fce406c3",
+      "recordIdentifier": "/xianqin/201901/41.html",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；成都商业街船棺葬出土。木胎髹黑漆，盘面大部涂朱，口径41.5厘米、足径37.5厘米、高23.8厘米。盘与宽圈足共同构成盛食器，外壁纹饰被馆方描述为似蝉纹，不应把相似判断写成确定图像释读。 资料不构成图片许可。",
+      "artifact": {
+        "id": "cd-lacquer-dou",
+        "name": "漆豆",
+        "dynasty": "战国",
+        "era": "先秦",
+        "category": "漆器",
+        "shape": "lacquer",
+        "story": "成都商业街船棺葬出土。木胎髹黑漆，盘面大部涂朱，口径41.5厘米、足径37.5厘米、高23.8厘米。盘与宽圈足共同构成盛食器，外壁纹饰被馆方描述为似蝉纹，不应把相似判断写成确定图像释读。",
+        "keywords": [
+          "漆豆",
+          "漆器"
+        ]
+      },
+      "writingNotes": {
+        "making": "木胎、黑漆与朱赭色纹样可述；各层厚度、制作工具未载。",
+        "discovery": "只确认商业街船棺葬，具体墓号、发现年份和逐件保护记录未知。",
+        "research": "盘外纹饰似蝉纹，保留馆方限定。",
+        "comparison": {
+          "artifactId": "gb-linghua-lian",
+          "reason": "比较盛食与梳妆收纳两种漆器功能，时代不同，不推断直接传承。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://cdmuseum.com/xinwen/202109/2453.html",
+      "evidenceKey": "06e6852893c11ed8c44a",
+      "recordIdentifier": "/xinwen/202109/2453.html",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；成都老官山汉墓出土的经穴漆人高14厘米，通体黑漆，双臂垂于体侧。身上刻绘经脉与穴位，并有器官名称。馆方转载将其解释为可能用于经脉教学的模型；AI图只表现概括器形，不供定位穴位或医学使用。 资料不构成图片许可。",
+      "artifact": {
+        "id": "cd-meridian-lacquer-model",
+        "name": "经穴漆人",
+        "dynasty": "西汉",
+        "era": "秦汉",
+        "category": "漆器",
+        "shape": "figure",
+        "story": "成都老官山汉墓出土的经穴漆人高14厘米，通体黑漆，双臂垂于体侧。身上刻绘经脉与穴位，并有器官名称。馆方转载将其解释为可能用于经脉教学的模型；AI图只表现概括器形，不供定位穴位或医学使用。",
+        "keywords": [
+          "经穴漆人",
+          "漆器"
+        ]
+      },
+      "writingNotes": {
+        "making": "黑漆及阴刻线条有记录；木料与工序细节未知。",
+        "discovery": "馆方转载谢涛说明2012年秋出土于老官山三号墓，未核原始发掘工单。",
+        "research": "页面前后经脉数量不同，不能拼凑精确总数；教学用途为研究推测。",
+        "comparison": {
+          "artifactId": "gb-medicine-lacquer-cabinet",
+          "reason": "比较人体教学模型与药材分类柜如何组织知识，不把古代模型当现代临床标准。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26113.shtml",
+      "evidenceKey": "4e2199f42c017e86519b",
+      "recordIdentifier": "/zp/zpml/201812/t20181218_26113.shtml",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；这件南宋漆奁以菱花形轮廓组织多层套盒。奁高17.3厘米、直径16.7厘米，另有三件小盒。古代梳篦和化妆物品大小不同，组合收纳因而值得观察。馆方没有给出本件使用者、作坊或发现地点，不宜补写闺房主人。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gb-linghua-lian",
+        "name": "菱花形漆奁",
+        "dynasty": "南宋",
+        "era": "宋辽金元",
+        "category": "漆器",
+        "shape": "lacquer",
+        "story": "这件南宋漆奁以菱花形轮廓组织多层套盒。奁高17.3厘米、直径16.7厘米，另有三件小盒。古代梳篦和化妆物品大小不同，组合收纳因而值得观察。馆方没有给出本件使用者、作坊或发现地点，不宜补写闺房主人。",
+        "keywords": [
+          "菱花形漆奁",
+          "漆器"
+        ]
+      },
+      "writingNotes": {
+        "making": "套盒式多层组合可核；胎材、涂漆层数未载。",
+        "discovery": "传世品记录，具体流传与保护史未知。",
+        "research": "宋代工商业背景为馆方通论，不等于本件有作坊题记。",
+        "comparison": {
+          "artifactId": "gb-bone-inlay-storage-box",
+          "reason": "比较套盒和抽屉如何分隔日常物品，不暗示同一作坊传统。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_25639.shtml",
+      "evidenceKey": "8b36275bcd96ea49c1cd",
+      "recordIdentifier": "/zp/zpml/201812/t20181218_25639.shtml",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；这件高22.8厘米的黑漆山水笔筒由国博记录为日本制作、赠送清朝的礼物。器面以金色山水装饰。读者可以比较书桌用具如何承载图像与交流；具体赠送年份、使者与制造者没有在记录中给出，不能补成外交故事。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gb-landscape-brushpot",
+        "name": "黑漆描金山水大笔筒",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "漆器",
+        "shape": "misc",
+        "story": "这件高22.8厘米的黑漆山水笔筒由国博记录为日本制作、赠送清朝的礼物。器面以金色山水装饰。读者可以比较书桌用具如何承载图像与交流；具体赠送年份、使者与制造者没有在记录中给出，不能补成外交故事。",
+        "keywords": [
+          "黑漆描金山水大笔筒",
+          "漆器"
+        ]
+      },
+      "writingNotes": {
+        "making": "馆方明确日本制作及描金漆工艺，具体制作配方未载。",
+        "discovery": "只确认清朝受赠；入藏时间与修复工单未知。",
+        "research": "官网把莳绘误写商绘；不沿用错字，不泛化为已证工艺传播链。",
+        "comparison": {
+          "artifactId": "sz-bamboo-brushpot",
+          "reason": "比较漆与竹两种笔筒材料和装饰方式，不以器物并置证明传播。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256940.shtml",
+      "evidenceKey": "ad8b449c4b8cb9c7c361",
+      "recordIdentifier": "/zp/zpml/csp/202208/t20220812_256940.shtml",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；明万历药柜高94.1厘米，木胎黑漆、双开门，柜内设八方旋转药屉。馆方说明全柜可存140种药物，下部另有三个大抽屉。它让我们看到药材分类和取用的设计；李时珍嘉靖年间任职并不能证明他使用过这件万历柜。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gb-medicine-lacquer-cabinet",
+        "name": "黑漆描金龙纹方角药柜",
+        "dynasty": "明万历",
+        "era": "明清",
+        "category": "漆器",
+        "shape": "misc",
+        "story": "明万历药柜高94.1厘米，木胎黑漆、双开门，柜内设八方旋转药屉。馆方说明全柜可存140种药物，下部另有三个大抽屉。它让我们看到药材分类和取用的设计；李时珍嘉靖年间任职并不能证明他使用过这件万历柜。",
+        "keywords": [
+          "黑漆描金龙纹方角药柜",
+          "漆器"
+        ]
+      },
+      "writingNotes": {
+        "making": "描金、铜下脚、旋转抽屉结构可核；具体榫卯尺寸未载。",
+        "discovery": "馆方称太医院御药局旧物，未获独立原始征集档案。",
+        "research": "区分药柜年代与李时珍任职时间，禁止两者接成亲用故事。",
+        "comparison": {
+          "artifactId": "cd-meridian-lacquer-model",
+          "reason": "比较分类贮藏与人体模型的不同知识工具，非医学有效性比较。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256941.shtml",
+      "evidenceKey": "6446506439ca4e59aed6",
+      "recordIdentifier": "/zp/zpml/csp/202208/t20220812_256941.shtml",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；这件晚明官皮箱长35、宽22、高35厘米，是可移动的收纳小箱。前有双门，内分三层、五个抽屉，铜吊牌便于拉开。黑漆表面的嵌骨图像与内部葫芦、花卉装饰提供观察线索；具体人物故事未被逐一释读。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gb-bone-inlay-storage-box",
+        "name": "黑漆嵌骨山水人物纹五屉官皮箱",
+        "dynasty": "明晚期",
+        "era": "明清",
+        "category": "漆器",
+        "shape": "misc",
+        "story": "这件晚明官皮箱长35、宽22、高35厘米，是可移动的收纳小箱。前有双门，内分三层、五个抽屉，铜吊牌便于拉开。黑漆表面的嵌骨图像与内部葫芦、花卉装饰提供观察线索；具体人物故事未被逐一释读。",
+        "keywords": [
+          "黑漆嵌骨山水人物纹五屉官皮箱",
+          "漆器"
+        ]
+      },
+      "writingNotes": {
+        "making": "黑漆与嵌骨装饰、五屉三层结构有直接记录。",
+        "discovery": "传世记录未给出制作地、使用者或保护史。",
+        "research": "人物图像不是已确定的历史人物肖像。",
+        "comparison": {
+          "artifactId": "gb-linghua-lian",
+          "reason": "比较抽屉和套盒的收纳逻辑，不能认作同一用途或直接发展序列。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26920.shtml",
+      "evidenceKey": "9f1ab635b64ea0868660",
+      "recordIdentifier": "/zp/zpml/201812/t20181218_26920.shtml",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；国博这件宫廷排箫通高34厘米，最宽37厘米，髹红漆并以金粉绘纹与题字。上部排列16根吹奏管，每管对应一个音。故事可从排列与音律命名展开，但没有听过原件演奏的证据，也不能依据AI图认读音名。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gb-red-panpipes",
+        "name": "乾隆红漆描金云龙纹排箫",
+        "dynasty": "清乾隆",
+        "era": "明清",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "国博这件宫廷排箫通高34厘米，最宽37厘米，髹红漆并以金粉绘纹与题字。上部排列16根吹奏管，每管对应一个音。故事可从排列与音律命名展开，但没有听过原件演奏的证据，也不能依据AI图认读音名。",
+        "keywords": [
+          "乾隆红漆描金云龙纹排箫",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "红漆、金粉装饰及16管结构可核，竹材来源与调律工序未载。",
+        "discovery": "乾隆年制款支持记录定名，入藏与修复史未知。",
+        "research": "器物上的音名不是现代录音；不据此虚构声音。",
+        "comparison": {
+          "artifactId": "hub-zhy",
+          "reason": "比较排箫气柱与编钟金属振动的发声方式，不暗示音律体系完全相同。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256942.shtml",
+      "evidenceKey": "a5a47e1d2a9e11f97212",
+      "recordIdentifier": "/zp/zpml/csp/202208/t20220812_256942.shtml",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；这张晚明黄花梨小桌长71、宽44、高25厘米，腿部可沿转轴旋转折起，边抹及连接处包铜以减轻磨损。它的妙处不只在木纹，也在收起与支撑的结构安排。原页未说明使用者和行旅用途，不能写成某位文人的旅行桌。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gb-folding-table",
+        "name": "黄花梨包铜活折叠桌",
+        "dynasty": "明晚期",
+        "era": "明清",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "这张晚明黄花梨小桌长71、宽44、高25厘米，腿部可沿转轴旋转折起，边抹及连接处包铜以减轻磨损。它的妙处不只在木纹，也在收起与支撑的结构安排。原页未说明使用者和行旅用途，不能写成某位文人的旅行桌。",
+        "keywords": [
+          "黄花梨包铜活折叠桌",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "馆方逐段解释转轴、横枨、穿带与铜活，不扩写实测承重。",
+        "discovery": "传世品，征集与保护过程未知。",
+        "research": "可折叠是结构事实，便携旅行情节为待证用途。",
+        "comparison": {
+          "artifactId": "gb-basin-stand",
+          "reason": "比较可折叠结构与高架稳定结构的设计取舍，不建立发展先后关系。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202208/t20220812_256943.shtml",
+      "evidenceKey": "5df754550b41876bac37",
+      "recordIdentifier": "/zp/zpml/csp/202208/t20220812_256943.shtml",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；清中期六足面盆架高182厘米、直径63厘米，腿与直枨交叉联结，上部有雕花背架。洗漱家具也能在稳固、空间和装饰之间作选择。馆方没有确认配套面盆或使用房间，因此AI示意不额外加入盆具。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gb-basin-stand",
+        "name": "黄花梨雕花六足高面盆架",
+        "dynasty": "清中期",
+        "era": "明清",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "清中期六足面盆架高182厘米、直径63厘米，腿与直枨交叉联结，上部有雕花背架。洗漱家具也能在稳固、空间和装饰之间作选择。馆方没有确认配套面盆或使用房间，因此AI示意不额外加入盆具。",
+        "keywords": [
+          "黄花梨雕花六足高面盆架",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "六腿、直枨、牙角和透雕结构有记录；木材产地未知。",
+        "discovery": "具体入藏、主人与修复史未载。",
+        "research": "生活用途来自馆方定名，不虚构完整室内陈设。",
+        "comparison": {
+          "artifactId": "gb-folding-table",
+          "reason": "比较支撑点和连接方式，以结构观察代替家具演化结论。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253258.shtml",
+      "evidenceKey": "c619f91b29d9f80c6ca1",
+      "recordIdentifier": "/zp/zpml/csp/202112/t20211221_253258.shtml",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；这条清代红纱裙通长104.5厘米，下摆145厘米，前方有马面，两侧各12褶。花鸟边饰之外，打籽绣还表现螳螂、促织与杂花。先看平面与褶裥如何配合，再找不同装饰部位；没有本件穿着者的姓名记录。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gb-red-embroidered-skirt",
+        "name": "红实地纱打籽彩绣花鸟裙",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "这条清代红纱裙通长104.5厘米，下摆145厘米，前方有马面，两侧各12褶。花鸟边饰之外，打籽绣还表现螳螂、促织与杂花。先看平面与褶裥如何配合，再找不同装饰部位；没有本件穿着者的姓名记录。",
+        "keywords": [
+          "红实地纱打籽彩绣花鸟裙",
+          "织绣"
+        ]
+      },
+      "writingNotes": {
+        "making": "纱地、打籽绣、补花与机织绦边可核，不臆造逐针路线。",
+        "discovery": "传世品，收购、使用与保护史未知。",
+        "research": "不能由蝙蝠或灵芝纹自动确定穿着人的身份。",
+        "comparison": {
+          "artifactId": "gb-blue-gauze-jacket",
+          "reason": "比较裙褶和上衣镶边的结构与装饰位置，不称已证配套服装。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211220_253253.shtml",
+      "evidenceKey": "78cf6b05ff4d90f8849a",
+      "recordIdentifier": "/zp/zpml/csp/202112/t20211220_253253.shtml",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；清代天青纱女上衣身长97.5厘米，采用大襟右衽、立领和宽袖。领围、袖口、襟边与下摆镶宽幅黑色花边，梅竹与蝙蝠等纹样沿边组织。晚清多道镶边是背景，不能把通论十八镶说成本件实数。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gb-blue-gauze-jacket",
+        "name": "天青纱镶花边女上衣",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "清代天青纱女上衣身长97.5厘米，采用大襟右衽、立领和宽袖。领围、袖口、襟边与下摆镶宽幅黑色花边，梅竹与蝙蝠等纹样沿边组织。晚清多道镶边是背景，不能把通论十八镶说成本件实数。",
+        "keywords": [
+          "天青纱镶花边女上衣",
+          "织绣"
+        ]
+      },
+      "writingNotes": {
+        "making": "立领、双排扣、右衽与镶边直接有据；染料配方未知。",
+        "discovery": "个人使用、流传与修复档案未载。",
+        "research": "十八镶为社会背景，不作本件精确装饰数量。",
+        "comparison": {
+          "artifactId": "gb-red-embroidered-skirt",
+          "reason": "比较上衣边缘与裙下摆如何安置花纹，明确没有配套证据。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211220_253254.shtml",
+      "evidenceKey": "5ce64405c6fed9c7a7c5",
+      "recordIdentifier": "/zp/zpml/csp/202112/t20211220_253254.shtml",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；清代鱼纹鞋高8.9厘米、长20厘米。灰绸鞋面上用黄线绣鱼鳞，鱼头形包头与黑边相配；木跟外裱白棉布，形成船形厚底。它属于馆方记录的满族妇女鞋式，不应与缠足鞋混称，也不知道具体穿着者。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gb-fish-embroidered-shoes",
+        "name": "绣金鱼纹鞋",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "清代鱼纹鞋高8.9厘米、长20厘米。灰绸鞋面上用黄线绣鱼鳞，鱼头形包头与黑边相配；木跟外裱白棉布，形成船形厚底。它属于馆方记录的满族妇女鞋式，不应与缠足鞋混称，也不知道具体穿着者。",
+        "keywords": [
+          "绣金鱼纹鞋",
+          "织绣"
+        ]
+      },
+      "writingNotes": {
+        "making": "黄线刺绣、木跟、白布和百纳底结构有直接记载。",
+        "discovery": "无使用者、征集年份或逐件保护记录。",
+        "research": "鞋式分类不能推出特定身份或实际身体形态。",
+        "comparison": {
+          "artifactId": "gb-red-embroidered-skirt",
+          "reason": "比较刺绣在足部立体小器与衣裙平面上的布置，不虚构配套。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253284.shtml",
+      "evidenceKey": "b262dcce2355237ebb59",
+      "recordIdentifier": "/zp/zpml/csp/202112/t20211221_253284.shtml",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；国博馆藏字段将仙鹅缂丝图轴列为明代，纵59.5厘米、横49.5厘米。画面有水边坡石、嫩竹与昂首的鹅，色丝组织出图像。收藏印提供流传线索，但尚未逐一考释其年代；AI图是主题概括，不复制原作布局或印章。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gb-goose-kesi",
+        "name": "缂丝仙鹅图轴",
+        "dynasty": "明",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "国博馆藏字段将仙鹅缂丝图轴列为明代，纵59.5厘米、横49.5厘米。画面有水边坡石、嫩竹与昂首的鹅，色丝组织出图像。收藏印提供流传线索，但尚未逐一考释其年代；AI图是主题概括，不复制原作布局或印章。",
+        "keywords": [
+          "缂丝仙鹅图轴",
+          "织绣"
+        ]
+      },
+      "writingNotes": {
+        "making": "缂丝工艺说明支持生丝经、熟丝纬等基础描述，具体作品工序未载。",
+        "discovery": "印章存在可述，完整收藏履历和修复过程未知。",
+        "research": "欣赏性织物不是墨笔原画，主题示意不能当原图。",
+        "comparison": {
+          "artifactId": "gg-shen-meique-kesi",
+          "reason": "比较两个时期缂丝花鸟题材和材料表现，不据题材认定师承。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gugong",
+      "institution": "故宫博物院",
+      "sourceUrl": "https://www.dpm.org.cn/collection/embroider/234663.html",
+      "evidenceKey": "c445a890a5261ccd676a",
+      "recordIdentifier": "/collection/embroider/234663.html",
+      "inventoryNumber": "故00072691",
+      "supports": "器物名称与馆方逐件记录；南宋沈子蕃梅鹊缂丝图轴纵104厘米、宽36厘米，清宫旧藏。它依画稿以不同色丝分区缂织，经线相通而纬线不贯穿整个幅面。馆方给出织物密度与款印，但作者生卒年不详；AI主题图不替代原件的针织纹理和收藏印。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gg-shen-meique-kesi",
+        "name": "沈子蕃缂丝梅鹊图轴",
+        "dynasty": "南宋",
+        "era": "宋辽金元",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "南宋沈子蕃梅鹊缂丝图轴纵104厘米、宽36厘米，清宫旧藏。它依画稿以不同色丝分区缂织，经线相通而纬线不贯穿整个幅面。馆方给出织物密度与款印，但作者生卒年不详；AI主题图不替代原件的针织纹理和收藏印。",
+        "keywords": [
+          "沈子蕃缂丝梅鹊图轴",
+          "织绣"
+        ],
+        "inventoryNumber": "故00072691"
+      },
+      "writingNotes": {
+        "making": "通经断纬、15至16种色丝和馆方密度描述可用，不臆造工期。",
+        "discovery": "清宫旧藏与所载款印可述；逐次流转的档案尚未核。",
+        "research": "人物生卒未知；收藏印存在不等于每次过手都有完整日期。",
+        "comparison": {
+          "artifactId": "gb-goose-kesi",
+          "reason": "比较梅鹊和仙鹅织物如何借色丝呈现花鸟，与原笔墨不同，不推断同工坊。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/csp/202112/t20211221_253272.shtml",
+      "evidenceKey": "91069b66aeb74ce93918",
+      "recordIdentifier": "/zp/zpml/csp/202112/t20211221_253272.shtml",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；这件蓝地牡丹织金缎全长325厘米、宽79厘米。缎面借浮长经纬形成平滑光泽，金色牡丹又改变了表面的视觉节奏。官网年代字段作明，正文却称清代，现保留冲突而不选一个确定朝代；它是面料，不臆造为某人的衣服。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gb-peony-gold-satin",
+        "name": "蓝地牡丹织金缎",
+        "dynasty": "明或清（馆方字段与正文不一致）",
+        "era": "明清",
+        "category": "织绣",
+        "shape": "textile",
+        "story": "这件蓝地牡丹织金缎全长325厘米、宽79厘米。缎面借浮长经纬形成平滑光泽，金色牡丹又改变了表面的视觉节奏。官网年代字段作明，正文却称清代，现保留冲突而不选一个确定朝代；它是面料，不臆造为某人的衣服。",
+        "keywords": [
+          "蓝地牡丹织金缎",
+          "织绣"
+        ]
+      },
+      "writingNotes": {
+        "making": "缎纹组织与织金定名可述，具体金线配方和机具未载。",
+        "discovery": "发现、流传与保护史未给出。",
+        "research": "馆方年代冲突须待核，不猜测哪项正确。",
+        "comparison": {
+          "artifactId": "gb-red-embroidered-skirt",
+          "reason": "比较织金面料和后加刺绣，关注工艺差别而非未经证实的沿革。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "gugong",
+      "institution": "故宫博物院",
+      "sourceUrl": "https://www.dpm.org.cn/collection/lacquerware/232150.html",
+      "evidenceKey": "7f1c876d7a07475ae7d6",
+      "recordIdentifier": "/collection/lacquerware/232150.html",
+      "inventoryNumber": "故00114606-95/99",
+      "supports": "器物名称与馆方逐件记录；乾隆菊瓣漆盘口径14厘米、高3.5厘米，浅腹与矮圈足构成轻巧轮廓。盘心御题署乾隆甲午，即1774年。馆方结合清宫档案说明曾命苏州制作此类盘；关于超越前朝的说法是御诗表达，不是已证技术排名。 资料不构成图片许可。",
+      "artifact": {
+        "id": "gg-chrysanthemum-lacquer-dish",
+        "name": "脱胎朱漆菊瓣式盘",
+        "dynasty": "清乾隆",
+        "era": "明清",
+        "category": "漆器",
+        "shape": "lacquer",
+        "story": "乾隆菊瓣漆盘口径14厘米、高3.5厘米，浅腹与矮圈足构成轻巧轮廓。盘心御题署乾隆甲午，即1774年。馆方结合清宫档案说明曾命苏州制作此类盘；关于超越前朝的说法是御诗表达，不是已证技术排名。",
+        "keywords": [
+          "脱胎朱漆菊瓣式盘",
+          "漆器"
+        ],
+        "inventoryNumber": "故00114606-95/99"
+      },
+      "writingNotes": {
+        "making": "脱胎、朱漆、刀刻填金与黑漆外底明确记载；具体胎体制作步骤未详。",
+        "discovery": "馆方引述清宫档案，未核本件逐次修复工单。",
+        "research": "御诗称赞与现代工艺评价需分层，不把皇帝语气当测量结论。",
+        "comparison": {
+          "artifactId": "cd-lacquer-dou",
+          "reason": "比较木胎与脱胎器的形制及材料表达，不建立相隔两千年的直接传承。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "hubei",
+      "institution": "湖北省博物馆",
+      "sourceUrl": "https://m-www.hbww.org.cn/p/5381.html",
+      "evidenceKey": "591dbf52634fbbdfd836",
+      "recordIdentifier": "/p/5381.html",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；馆方记录的黑夫家信木牍于1975年出土于云梦睡虎地4号墓，长22厘米、宽4厘米。文字涉及黑夫与惊从军至淮阳一带的情况。应与11号墓法律竹简分开；网页总字数口径不等于每片字数，AI图不提供可读释文。 资料不构成图片许可。",
+      "artifact": {
+        "id": "hb-heifu-letter",
+        "name": "睡虎地秦简墓黑夫“家信”木牍",
+        "dynasty": "秦",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "misc",
+        "story": "馆方记录的黑夫家信木牍于1975年出土于云梦睡虎地4号墓，长22厘米、宽4厘米。文字涉及黑夫与惊从军至淮阳一带的情况。应与11号墓法律竹简分开；网页总字数口径不等于每片字数，AI图不提供可读释文。",
+        "keywords": [
+          "睡虎地秦简墓黑夫“家信”木牍",
+          "简牍"
+        ]
+      },
+      "writingNotes": {
+        "making": "木牍作为书写载体可述，木材种属和墨料未载。",
+        "discovery": "1975年、睡虎地4号墓、湖北省博物馆藏直接有据。",
+        "research": "官网将家信文字合计527字，不擅自分配到单片，不改成11号墓出土。",
+        "comparison": {
+          "artifactId": "hb-longgang-tablet",
+          "reason": "比较家书与纠正误判法律文书的不同交流目的，非同一档案。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "hubei",
+      "institution": "湖北省博物馆",
+      "sourceUrl": "https://m-www.hbww.org.cn/p/5371.html",
+      "evidenceKey": "d762618988567b0f35bd",
+      "recordIdentifier": "/p/5371.html",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；这组效律竹简共60枚，长27厘米，1975年出土于云梦睡虎地11号墓，湖北省博物馆藏。内容涉及核验县和都官物资账目的制度。本条按一组入库，不把60枚计作60件，也不与现有秦律十八种条目混为同一篇。 资料不构成图片许可。",
+      "artifact": {
+        "id": "hb-xiaolv-slips",
+        "name": "睡虎地秦简《效律》",
+        "dynasty": "秦",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "misc",
+        "story": "这组效律竹简共60枚，长27厘米，1975年出土于云梦睡虎地11号墓，湖北省博物馆藏。内容涉及核验县和都官物资账目的制度。本条按一组入库，不把60枚计作60件，也不与现有秦律十八种条目混为同一篇。",
+        "keywords": [
+          "睡虎地秦简《效律》",
+          "简牍"
+        ]
+      },
+      "writingNotes": {
+        "making": "竹简书写载体直接有据，具体削制、编联和墨料未知。",
+        "discovery": "1975年睡虎地11号墓出土，有馆藏归属。",
+        "research": "效律为独立内容组；释字争议和修复方法需另查正式报告。",
+        "comparison": {
+          "artifactId": "hb-longgang-tablet",
+          "reason": "比较核验物资与纠正误判的行政文书主题，不把条文当实际判例全过程。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "hubei",
+      "institution": "湖北省博物馆",
+      "sourceUrl": "https://m-www.hbww.org.cn/p/5382.html",
+      "evidenceKey": "d5ac088f69b5fa643f74",
+      "recordIdentifier": "/p/5382.html",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；秦代龙岗木牍长36.5厘米、宽3.2厘米，1975年出土于云梦龙岗6号墓，现藏湖北省博物馆。两面以墨书秦隶，共38字，馆方说明内容为纠正误判的法律文书。没有完整案情，不能补写被告、案发经过或最终命运。 资料不构成图片许可。",
+      "artifact": {
+        "id": "hb-longgang-tablet",
+        "name": "龙岗木牍",
+        "dynasty": "秦",
+        "era": "秦汉",
+        "category": "简牍",
+        "shape": "misc",
+        "story": "秦代龙岗木牍长36.5厘米、宽3.2厘米，1975年出土于云梦龙岗6号墓，现藏湖北省博物馆。两面以墨书秦隶，共38字，馆方说明内容为纠正误判的法律文书。没有完整案情，不能补写被告、案发经过或最终命运。",
+        "keywords": [
+          "龙岗木牍",
+          "简牍"
+        ]
+      },
+      "writingNotes": {
+        "making": "双面墨书秦隶可核，木材种类、削制及墨配方未知。",
+        "discovery": "1975年龙岗6号墓与湖北馆藏直接有据。",
+        "research": "纠正误判为馆方内容概述；具体人名与完整判决未知。",
+        "comparison": {
+          "artifactId": "hb-heifu-letter",
+          "reason": "比较同为木牍的私人信件与法律文书，关注目的差异而非书写者联系。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=a572599a2109492099bd896a6d0cc0da",
+      "evidenceKey": "550483bc105b478770a1",
+      "recordIdentifier": "a572599a2109492099bd896a6d0cc0da",
+      "inventoryNumber": null,
+      "supports": "器物名称与馆方逐件记录；深圳博物馆的清代刻字竹笔筒口径与底径均5厘米，高11.7厘米。竹材、圆筒与刻字共同组成小型案头器具。官网没有展示可核释文与刻作者，AI图因此不生成可读字迹；使用者、产地和收藏来源继续未知。 资料不构成图片许可。",
+      "artifact": {
+        "id": "sz-bamboo-brushpot",
+        "name": "刻字竹笔筒",
+        "dynasty": "清",
+        "era": "明清",
+        "category": "杂项",
+        "shape": "misc",
+        "story": "深圳博物馆的清代刻字竹笔筒口径与底径均5厘米，高11.7厘米。竹材、圆筒与刻字共同组成小型案头器具。官网没有展示可核释文与刻作者，AI图因此不生成可读字迹；使用者、产地和收藏来源继续未知。",
+        "keywords": [
+          "刻字竹笔筒",
+          "杂项",
+          "生活器具"
+        ]
+      },
+      "writingNotes": {
+        "making": "竹材和刻字定名可核，具体刻刀与加工步骤未载。",
+        "discovery": "未提供出土地、征集或捐赠记录，不套用其他深博器物捐赠年份。",
+        "research": "无可核作者与释文，禁按图案猜文人名。",
+        "comparison": {
+          "artifactId": "gb-landscape-brushpot",
+          "reason": "比较竹刻和描金漆装饰的不同材料边界，不虚构外交或工艺传承。"
+        }
+      },
+      "evidenceLevel": "official-record-read",
+      "photoAuthorization": "unknown",
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    }
+  ]
+}

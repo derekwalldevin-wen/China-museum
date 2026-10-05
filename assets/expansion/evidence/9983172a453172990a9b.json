@@ -1,0 +1,8 @@
+{
+  "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/list?p=w&page=1&limit=80",
+  "finalUrl": "https://web.jiandumuseum.cn/gwebapi/exhibit/list?p=w&page=1&limit=80",
+  "checkedAt": "2026-10-05T03:01:38.670Z",
+  "sha256": "c7bfdf067f7d098c07c1650bdb67153a5eadc503f98629a1a5aaee15cb078c23",
+  "bytes": 15102,
+  "contentType": "application/json; charset=utf-8"
+}

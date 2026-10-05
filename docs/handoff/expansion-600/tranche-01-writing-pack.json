@@ -1,0 +1,356 @@
+{
+  "instructions": "未创作长篇故事。每件官方来源只支持明列事实；制作、发现、研究史的空白保留未知。AI图不作史料，关联仅用于比较，不暗示传承。",
+  "items": [
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_28415.shtml",
+      "evidenceKey": "9d244fd1f33488501a49",
+      "recordIdentifier": "t20181218_28415",
+      "supports": "西周年代、青玉材质、卧兔形制和吻部穿孔；不支持此件具体出土墓葬。",
+      "artifact": {
+        "id": "gb-jade-rabbit",
+        "name": "兔形玉佩",
+        "dynasty": "西周",
+        "era": "先秦",
+        "category": "玉器",
+        "shape": "jade",
+        "story": "这件西周青玉佩把兔子刻成卧伏的姿态：前腿伸展，长耳向后，尖尾上翘。它是一件双面片雕，吻部的小孔可供系佩。观察耳、腿和穿孔，能看见工匠如何把动物轮廓与佩戴需要结合起来。具体出土地点在这条馆藏记录中没有公布。",
+        "keywords": [
+          "青玉",
+          "片雕",
+          "动物玉佩",
+          "穿孔"
+        ]
+      },
+      "writingNotes": {
+        "making": "可讲片雕及穿孔的已见结构，不推断具体工具。",
+        "discovery": "此件出土地点未公布；勿把馆方谈及妇好墓的类型背景写成本件出处。",
+        "research": "器形观察与同类比较，不替此件编造主人。",
+        "comparison": {
+          "artifactId": "gb-jade-fish",
+          "reason": "比较动物轮廓、穿孔位置及平面雕刻；不暗示两件同墓或同一工匠。"
+        }
+      },
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "guobo",
+      "institution": "中国国家博物馆",
+      "sourceUrl": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_28413.shtml",
+      "evidenceKey": "d951107f9c92e403b79a",
+      "recordIdentifier": "t20181218_28413",
+      "supports": "西周年代、青玉、弯曲鱼身、口孔、鳍纹及叉尾；墓葬悬挂习俗是类型背景。",
+      "artifact": {
+        "id": "gb-jade-fish",
+        "name": "鱼形玉佩",
+        "dynasty": "西周",
+        "era": "先秦",
+        "category": "玉器",
+        "shape": "jade",
+        "story": "这条青玉鱼呈弯曲的璜形，圆眼醒目，口部有小孔。工匠没有刻鱼鳞，而是以阴线和细斜线表现背鳍，尾端分成两叉。国博介绍西周玉鱼也出现在墓葬悬挂系统中，但没有说明这件玉鱼的具体使用场景，不能仅凭名称确定它曾戴在谁身上。",
+        "keywords": [
+          "青玉",
+          "玉鱼",
+          "阴线",
+          "叉尾"
+        ]
+      },
+      "writingNotes": {
+        "making": "线刻鳍部与尾端双面磨制有正文依据。",
+        "discovery": "此件出处未知。",
+        "research": "把西周悬挂玉鱼习俗作为背景，不能认定本件就是棺帷饰物。",
+        "comparison": {
+          "artifactId": "gb-jade-rabbit",
+          "reason": "比较同样有系孔的两种动物片雕，讨论器名与实际用途之间的不确定性。"
+        }
+      },
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/xianqin/201901/43.html",
+      "evidenceKey": "b8d01e2300425bdea3b4",
+      "recordIdentifier": "xianqin/201901/43",
+      "supports": "战国年代、青羊小区出土、尺寸、器形、七段纹饰及馆方列出的主题。",
+      "artifact": {
+        "id": "cd-hunting-pot",
+        "name": "狩猎纹铜壶",
+        "dynasty": "战国",
+        "era": "先秦",
+        "category": "青铜器",
+        "shape": "pot",
+        "story": "成都青羊小区出土的这件战国铜壶高41.4厘米，长颈、椭圆腹，两肩各有铺首衔环。器身分成七段装饰，馆方辨认出狩猎、羽人仙鹤和三足鸟向日等主题。先辨认壶的结构，再阅读分层纹饰，就能体会工匠如何把一只容器组织成连续的图像空间。",
+        "keywords": [
+          "青羊小区",
+          "狩猎",
+          "铺首",
+          "七段纹饰"
+        ]
+      },
+      "writingNotes": {
+        "making": "可解释纹饰分段及几何间隔；铸造方法需另找研究资料。",
+        "discovery": "只确认青羊小区出土，年份和发掘经过未载。",
+        "research": "图案主题采用馆方命名，不把仙鹤图像演绎为确定宗教仪式。",
+        "comparison": {
+          "artifactId": "cd-bashu-ladle",
+          "reason": "比较同地区铜器如何组织图像：壶的分层叙事与勺内的小型符号，不认定图语已获释读。"
+        }
+      },
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/xianqin/201901/42.html",
+      "evidenceKey": "510d9a2adae452aab73b",
+      "recordIdentifier": "xianqin/201901/42",
+      "supports": "战国年代、交通巷出土、长25.2宽6.3厘米、兽面纹和蚕形图像。",
+      "artifact": {
+        "id": "cd-silkworm-ge",
+        "name": "蚕纹铜戈",
+        "dynasty": "战国",
+        "era": "先秦",
+        "category": "青铜器",
+        "shape": "axe",
+        "story": "这件战国铜戈出土于成都交通巷，长25.2厘米、宽6.3厘米。援部两面饰兽面纹，内的两面可见蚕形图像。武器上的动物纹让我们有机会讨论先秦蜀地对蚕的关注；图像与养蚕历史的关系可以比较研究，却不宜仅凭一件铜戈复原完整的纺织生产流程。",
+        "keywords": [
+          "交通巷",
+          "蚕纹",
+          "兵器",
+          "兽面纹"
+        ]
+      },
+      "writingNotes": {
+        "making": "说明援与内的器物结构，具体铸造和镶嵌未载。",
+        "discovery": "只确认交通巷；未载墓号或年份。",
+        "research": "馆方将蚕纹联系养蚕史；扩写时分清图像观察与产业解释。",
+        "comparison": {
+          "artifactId": "cd-hunting-pot",
+          "reason": "比较兵器与盛器上不同的动物图像，不推断直接工艺传承。"
+        }
+      },
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/xianqin/201909/992.html",
+      "evidenceKey": "5eb532cb7846825c117a",
+      "recordIdentifier": "xianqin/201909/992",
+      "supports": "战国、三洞桥出土、勺内鱼鸟龟图案；尺寸原页单位未明，不扩写单位。",
+      "artifact": {
+        "id": "cd-bashu-ladle",
+        "name": "巴蜀图语铜勺",
+        "dynasty": "战国",
+        "era": "先秦",
+        "category": "青铜器",
+        "shape": "misc",
+        "story": "这把战国铜勺出土于成都三洞桥。勺内刻着鱼、鸟、龟等图案，小小器面既容纳实用结构，也留下巴蜀地区的图像线索。先找一找不同动物轮廓，再思考它们为何被放进勺内。官方记录没有提供这些图案的完整释读，故事扩写需要把观察与解释分开。",
+        "keywords": [
+          "三洞桥",
+          "巴蜀图语",
+          "鱼鸟龟",
+          "铜勺"
+        ]
+      },
+      "writingNotes": {
+        "making": "只说刻有图案，不据此断言具体刻制工具。",
+        "discovery": "三洞桥出土，具体发掘日期未知。",
+        "research": "不将巴蜀图语写成已经破解的文字。",
+        "comparison": {
+          "artifactId": "cd-hunting-pot",
+          "reason": "比较图语和装饰叙事的排列方式，避免假定符号有确定同一含义。"
+        }
+      },
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "chengdu-city",
+      "institution": "成都博物馆",
+      "sourceUrl": "https://www.cdmuseum.com/xianqin/201909/991.html",
+      "evidenceKey": "68278fe5a2df5bdb3f3c",
+      "recordIdentifier": "xianqin/201909/991",
+      "supports": "战国晚期至汉、天府广场东侧工地出土、尺寸重量、站姿和卷云纹；李冰联系仅为馆方可能性解释。",
+      "artifact": {
+        "id": "cd-stone-rhino",
+        "name": "石犀",
+        "dynasty": "战国晚期至汉",
+        "era": "先秦",
+        "category": "石刻",
+        "shape": "misc",
+        "story": "这件石犀在成都天府广场东侧工地出土，长3.31米、宽1.38米、高1.93米，约重8.5吨。它站立着，身躯壮实、四肢短粗，下颌和前肢附近有卷云纹。馆方定年为战国晚期至汉，并提出可能与李冰治水有关；古籍记载与这件石雕之间的对应关系仍须保留不确定性。",
+        "keywords": [
+          "天府广场",
+          "石雕",
+          "卷云纹",
+          "李冰",
+          "战国至汉"
+        ]
+      },
+      "writingNotes": {
+        "making": "仅确认石雕及卷云纹，没有石料来源或工具证据。",
+        "discovery": "天府广场东侧工地，年份需独立考古报告补充。",
+        "research": "《华阳国志》石犀叙述是背景，不把本件认作李冰所造的确定遗物。跨时代文物主筛选暂放先秦，原定年完整显示。",
+        "comparison": {
+          "artifactId": "cd-bashu-ladle",
+          "reason": "比较大型公共空间遗物与小型生活器具的证据尺度，不暗示共同用途。"
+        }
+      },
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=bcc2238c9ef742c39107618d3fe4832a",
+      "evidenceKey": "d1024a1d99bc922ba42a",
+      "recordIdentifier": "bcc2238c9ef742c39107618d3fe4832a",
+      "supports": "战国、瓷器类别、尺寸及2010年捐赠；捐赠所在地不等于产地。",
+      "artifact": {
+        "id": "sz-proto-he",
+        "name": "原始青瓷提梁三足盉",
+        "dynasty": "战国",
+        "era": "先秦",
+        "category": "陶瓷",
+        "shape": "pot",
+        "story": "深圳博物馆记录这件原始青瓷盉为战国器，高23厘米、口径7.3厘米，2010年由日本某友好团体捐赠。名称提示了提梁和三足等结构，适合与后来的青瓷比较器形和釉面。收藏来源说明的是它进入博物馆的过程，不代表这件器物在日本制作或出土。",
+        "keywords": [
+          "原始青瓷",
+          "提梁",
+          "三足",
+          "捐赠"
+        ]
+      },
+      "writingNotes": {
+        "making": "具体窑口、烧成温度和原料分析未载。",
+        "discovery": "出土地点未知，2010年是入藏捐赠年。",
+        "research": "区分原始青瓷类型与本件工艺检测。",
+        "comparison": {
+          "artifactId": "sz-shufu-bowl",
+          "reason": "比较不同时代的器形和釉色，不宣称本件是后者的直接祖型。"
+        }
+      },
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=f45a02e267cd4a059d6ee7a7f5187ad8",
+      "evidenceKey": "62d73624665c201429c2",
+      "recordIdentifier": "f45a02e267cd4a059d6ee7a7f5187ad8",
+      "supports": "卵白釉枢府铭印花碗名称、具体元代年限、尺寸和2010年捐赠。",
+      "artifact": {
+        "id": "sz-shufu-bowl",
+        "name": "卵白釉“枢府”铭印花碗",
+        "dynasty": "元",
+        "era": "宋辽金元",
+        "category": "陶瓷",
+        "shape": "bowl",
+        "story": "这件元代瓷碗高9厘米、口径20厘米、底径7厘米，馆方定年为1271至1368年，2010年经捐赠入藏。名称中的卵白釉、印花与“枢府”铭提供了观察方向。它的具体烧造窑址和订制机构在这条记录中未说明，不能仅凭铭名就替它编出确定的使用者。",
+        "keywords": [
+          "卵白釉",
+          "枢府",
+          "印花",
+          "元瓷"
+        ]
+      },
+      "writingNotes": {
+        "making": "名称支持釉与印花类型，制作步骤需正式陶瓷研究另证。",
+        "discovery": "原出土地点未知，入藏2010。",
+        "research": "原页面年代字段1206~1368与具体年代1271~1368不一，采用具体年代；不猜窑址。AI图不用于辨认铭文。",
+        "comparison": {
+          "artifactId": "sz-proto-he",
+          "reason": "比较釉面、圈足与提梁三足结构，解释陶瓷分类而非直接传承。"
+        }
+      },
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=3711a7b920f2463882e257931f4085af",
+      "evidenceKey": "473b39787b8e90160f5a",
+      "recordIdentifier": "3711a7b920f2463882e257931f4085af",
+      "supports": "唐年代、陶质、尺寸、一级记录与2010年捐赠；具体墓葬未载。",
+      "artifact": {
+        "id": "sz-tricolor-horse",
+        "name": "三彩白马",
+        "dynasty": "唐",
+        "era": "隋唐五代",
+        "category": "陶俑",
+        "shape": "horse",
+        "story": "这匹唐代三彩白马高57.3厘米、长60.5厘米、宽20厘米，深圳博物馆将其登记为陶器，2010年经捐赠入藏。把马的轮廓与彩釉作为观察起点，可以与其他唐代陶俑比较造型。官方这条记录未公布出土墓葬、制作窑口或原来的组合，扩写故事时应保留这些空白。",
+        "keywords": [
+          "三彩",
+          "白马",
+          "陶马",
+          "唐代"
+        ]
+      },
+      "writingNotes": {
+        "making": "三彩是名称依据，不声称已测得每种着色剂。",
+        "discovery": "捐赠入藏，不编造考古出土。",
+        "research": "唐代陶俑背景须另引，不能认定本件属于某个具体墓主。",
+        "comparison": {
+          "artifactId": "sxl-lt",
+          "reason": "比较马与载乐骆驼俑的造型及观看方式，不推断同一墓葬。"
+        }
+      },
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    },
+    {
+      "museumId": "shenzhen-city",
+      "institution": "深圳博物馆",
+      "sourceUrl": "https://shenzhenmuseum.com/webCollection/collectionDetail?lmType=L0303&resId=3bb9195df3ff4e6fb9e70ca6fca8ef49",
+      "evidenceKey": "d37ac5b0663b846d8312",
+      "recordIdentifier": "3bb9195df3ff4e6fb9e70ca6fca8ef49",
+      "supports": "西汉具体年代、黑陶嵌铜泡钉双耳壶名称、尺寸和入藏来源。",
+      "artifact": {
+        "id": "sz-black-pot",
+        "name": "黑陶嵌铜泡钉双耳壶",
+        "dynasty": "西汉",
+        "era": "秦汉",
+        "category": "陶瓷",
+        "shape": "pot",
+        "story": "这件西汉陶壶以黑陶与铜泡钉的组合得名，高20.5厘米、口径13.4厘米，2010年经捐赠进入深圳博物馆。双耳、壶口和嵌入装饰可作为近看细节。馆方具体年代栏写公元前206年至公元8年；原使用场景、出土地点及铜钉安装工序在该记录中没有交代。",
+        "keywords": [
+          "黑陶",
+          "铜泡钉",
+          "双耳",
+          "材料组合"
+        ]
+      },
+      "writingNotes": {
+        "making": "材料组合可观察，不能编造烧后嵌钉步骤。",
+        "discovery": "入藏捐赠非考古出土。",
+        "research": "年代总栏与具体栏不一致，摘要明确采用具体栏，不篡改原证据。",
+        "comparison": {
+          "artifactId": "sz-proto-he",
+          "reason": "比较同馆陶瓷器上的提持结构与材料，不把馆藏相邻视为历史相连。"
+        }
+      },
+      "checkedAt": "2026-10-04",
+      "imageKind": "ai",
+      "storyStatus": "summary-only"
+    }
+  ]
+}

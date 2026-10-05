@@ -25,9 +25,9 @@ for (const museum of museums) {
 
 const index = museums.map(({ artifacts, ...museum }) => ({
   ...museum,
-  artifacts: artifacts.map(({ story: _story, ...artifact }) => artifact),
+  artifacts: artifacts.map(({ story: _story, references: _references, keywords: _keywords, inventoryNumber: _inventoryNumber, ...artifact }) => artifact),
 }));
-const searchCorpus = Object.fromEntries(museums.flatMap(museum => museum.artifacts.map(artifact => [artifact.id, normalize(artifact.story)])));
+const searchCorpus = Object.fromEntries(museums.flatMap(museum => museum.artifacts.map(artifact => [artifact.id, normalize([artifact.story, ...(artifact.keywords ?? []), artifact.inventoryNumber ?? ''].join(' '))])));
 // 浏览器只下载紧凑形式：键名换成固定字段顺序，体积约省 39%（可读版仍落盘，供脚本与测试使用）
 const compact = {
   v: 1,
@@ -48,6 +48,7 @@ const compact = {
   ]),
 };
 const source = await readFile(sourceUrl);
+const expansionSource = await readFile(new URL('../src/data/collection-expansion.json', import.meta.url));
 
 await mkdir(payloadDir, { recursive: true });
 for (const entry of await readdir(payloadDir, { withFileTypes: true })) {
@@ -69,6 +70,7 @@ for (const museum of museums) {
 const report = {
   generatedAt: new Date().toISOString(),
   source: { path: 'src/data/museums.ts', bytes: (await stat(sourceUrl)).size, sha256: sha256(source), museums: museums.length, artifacts: artifactIds.size },
+  expansionSource: { path: 'src/data/collection-expansion.json', bytes: expansionSource.length, sha256: sha256(expansionSource) },
   index: { path: 'src/data/museum-index.json', bytes: indexText.length, sha256: sha256(indexText) },
   compactIndex: { path: 'src/data/museum-index.compact.json', bytes: (await stat(compactUrl)).size, sha256: sha256(await readFile(compactUrl)) },
   searchCorpus: { path: 'src/data/artifact-search.json', bytes: searchText.length, sha256: sha256(searchText), entries: Object.keys(searchCorpus).length },

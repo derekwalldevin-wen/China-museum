@@ -9,6 +9,336 @@
    "src": "/artifacts/cs-dhj.jpg",
    "credit": "AI 生成示意",
    "ai": true
+  },
+  "cs-yuyang-cup-box": {
+   "src": "/artifact-expansion/tranche-04/cs-yuyang-cup-box-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/cs-yuyang-cup-box-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:32:17.865Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinajiandu.cn/Collection/Details/yym?nid=255",
+        "credit": "长沙简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/cs-yuyang-cup-box-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:32:17.865Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinajiandu.cn/Collection/Details/yym?nid=255",
+        "credit": "长沙简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=255",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cs-yuyang-triangle-cup": {
+   "src": "/artifact-expansion/tranche-04/cs-yuyang-triangle-cup-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/cs-yuyang-triangle-cup-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:32:37.608Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinajiandu.cn/Collection/Details/yym?nid=250",
+        "credit": "长沙简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/cs-yuyang-triangle-cup-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:32:37.608Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinajiandu.cn/Collection/Details/yym?nid=250",
+        "credit": "长沙简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=250",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cs-yuyang-phoenix-cup": {
+   "src": "/artifact-expansion/tranche-04/cs-yuyang-phoenix-cup-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/cs-yuyang-phoenix-cup-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:32:59.054Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinajiandu.cn/Collection/Details/yym?nid=249",
+        "credit": "长沙简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/cs-yuyang-phoenix-cup-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:32:59.054Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinajiandu.cn/Collection/Details/yym?nid=249",
+        "credit": "长沙简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=249",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cs-changsha-seal-case": {
+   "src": "/artifact-expansion/tranche-04/cs-changsha-seal-case-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/cs-changsha-seal-case-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:33:20.456Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinajiandu.cn/Collection/Details/yym?nid=247",
+        "credit": "长沙简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/cs-changsha-seal-case-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:33:20.456Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinajiandu.cn/Collection/Details/yym?nid=247",
+        "credit": "长沙简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=247",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cs-yuyang-game-board": {
+   "src": "/artifact-expansion/tranche-04/cs-yuyang-game-board-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-04/cs-yuyang-game-board-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:33:56.549Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinajiandu.cn/Collection/Details/yym?nid=253",
+        "credit": "长沙简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-04/cs-yuyang-game-board-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-04-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-04.json",
+      "generatedAt": "2026-10-05T03:33:56.549Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.chinajiandu.cn/Collection/Details/yym?nid=253",
+        "credit": "长沙简牍博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.chinajiandu.cn/Collection/Details/yym?nid=253",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
   }
  },
  "delivery": {
@@ -49,6 +379,131 @@
      }
     ]
    }
+  },
+  "cs-yuyang-cup-box": {
+   "src": "/artifact-expansion/tranche-04/cs-yuyang-cup-box-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/b9f9db743cdd8ac5-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/b9f9db743cdd8ac5-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/b9f9db743cdd8ac5-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cs-yuyang-triangle-cup": {
+   "src": "/artifact-expansion/tranche-04/cs-yuyang-triangle-cup-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/038fe87fbd089a43-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/038fe87fbd089a43-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/038fe87fbd089a43-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cs-yuyang-phoenix-cup": {
+   "src": "/artifact-expansion/tranche-04/cs-yuyang-phoenix-cup-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/c1cc1bd417beb797-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/c1cc1bd417beb797-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/c1cc1bd417beb797-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cs-changsha-seal-case": {
+   "src": "/artifact-expansion/tranche-04/cs-changsha-seal-case-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/af15f91822ef4aca-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/af15f91822ef4aca-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/af15f91822ef4aca-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cs-yuyang-game-board": {
+   "src": "/artifact-expansion/tranche-04/cs-yuyang-game-board-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1f0cc5d55fc4ee63-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/1f0cc5d55fc4ee63-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1f0cc5d55fc4ee63-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
   }
  }
 }

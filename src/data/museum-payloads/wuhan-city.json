@@ -1,0 +1,478 @@
+{
+ "id": "wuhan-city",
+ "name": "武汉博物馆",
+ "province": "湖北省",
+ "city": "武汉",
+ "coord": [
+  114.25098,
+  30.61381
+ ],
+ "artifacts": [
+  {
+   "id": "wh-stone-spade",
+   "name": "屈家岭文化石耜",
+   "dynasty": "新石器时代屈家岭文化",
+   "era": "先秦",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "潘柳村遗址出土的屈家岭文化石耜，长38.5厘米，用于翻土。它属于石制农具；官网放入jade目录，不等于材质为玉。",
+   "keywords": [
+    "屈家岭文化石耜",
+    "杂项",
+    "江城生活与技术",
+    "科技器物"
+   ],
+   "references": [
+    {
+     "title": "屈家岭文化石耜 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/玉石器/7ce30e5b2580a4a95f5880983d0ad66f",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-drum-pot",
+   "name": "灰陶鼓形壶",
+   "dynasty": "商",
+   "era": "先秦",
+   "category": "陶瓷",
+   "shape": "vase",
+   "story": "1988年盘龙城杨家湾发掘出土。灰陶壶呈鼓形，两侧有两周乳钉装饰，高24.4厘米；乐器形状不能证明它曾作为鼓敲击。",
+   "keywords": [
+    "灰陶鼓形壶",
+    "陶瓷",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "灰陶鼓形壶 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/陶瓷/6bab0a546a2070fbd7ffa77c9bbd6734",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-pottery-yan",
+   "name": "陶甗",
+   "dynasty": "商",
+   "era": "先秦",
+   "category": "陶瓷",
+   "shape": "ding",
+   "story": "盘龙城遗址出土的商代陶甗，高44.5厘米。甑与鬲上下相连，体现蒸煮器的结构；本件发掘年份未在记录中说明。",
+   "keywords": [
+    "陶甗",
+    "陶瓷",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "陶甗 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/陶瓷/4edb65118f7ed4c124b4a146b052e531",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-pottery-dui",
+   "name": "陶敦",
+   "dynasty": "战国",
+   "era": "先秦",
+   "category": "陶瓷",
+   "shape": "ding",
+   "story": "新洲辛冲出土的战国黑陶敦，通高29厘米。盖与身同形，合成球状，盖取下可倒置使用；盖钮和足由S形构件组成。",
+   "keywords": [
+    "陶敦",
+    "陶瓷",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "陶敦 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/陶瓷/f31376077d2c04b38d4b13bb0ae2ee1a",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-pigsty-latrine",
+   "name": "陶圈厕",
+   "dynasty": "汉",
+   "era": "秦汉",
+   "category": "陶瓷",
+   "shape": "misc",
+   "story": "1986年新洲红山嘴东汉墓出土的陶圈厕，是厕所与猪圈结合的随葬建筑模型，高23厘米。它提供生活设施的图像线索，并非实用厕所原件。",
+   "keywords": [
+    "陶圈厕",
+    "陶瓷",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "陶圈厕 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/陶瓷/eece3d959ff9dfc768ba57dc9223e0ea",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-mother-candlestick",
+   "name": "青釉妇人抱子陶烛台",
+   "dynasty": "汉",
+   "era": "秦汉",
+   "category": "陶俑",
+   "shape": "figure",
+   "story": "汉代红陶烛台塑成妇人抱子形，高髻呈插烛筒形。馆方记通体铅釉、呈银色；青釉题名与现存银色观感应区分。",
+   "keywords": [
+    "青釉妇人抱子陶烛台",
+    "陶瓷",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "青釉妇人抱子陶烛台 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/陶瓷/6cfefb213f334407a27b97773729d1f1",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-dabu-coin",
+   "name": "“大布黄千”铜币",
+   "dynasty": "新莽",
+   "era": "秦汉",
+   "category": "青铜器",
+   "shape": "misc",
+   "story": "新洲肖家洼汉墓出土的“大布黄千”铜币，长5.7厘米。馆方正文归王莽时期，时代字段作西汉；这里保留新莽限定，不把王莽制度一概写作西汉。",
+   "keywords": [
+    "“大布黄千”铜币",
+    "青铜器",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "“大布黄千”铜币 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/铜器/dbf5a639e4826e185bb1fb1a8d6f4052",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-measuring-ding",
+   "name": "“菅邑家”鼎",
+   "dynasty": "汉",
+   "era": "秦汉",
+   "category": "青铜器",
+   "shape": "ding",
+   "story": "汉代“菅邑家”鼎通高17厘米，口沿铭文记容量一斗、重十斤四两。馆方解释它为度量衡器，让鼎的用途超出祭祀和炊煮。",
+   "keywords": [
+    "“菅邑家”鼎",
+    "青铜器",
+    "江城生活与技术",
+    "科技器物"
+   ],
+   "references": [
+    {
+     "title": "“菅邑家”鼎 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/铜器/9035e09f767bcd01680bd5c6a74d3c6c",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-people-mirror",
+   "name": "“中国人民”五乳神兽镜",
+   "dynasty": "汉",
+   "era": "秦汉",
+   "category": "青铜器",
+   "shape": "misc",
+   "story": "1972年于湖北省更生仓库拣选所得的汉镜，直径18厘米。镜铭出现“中国人民”，这是文字证据，不能据此直接等同现代国家和公民概念。",
+   "keywords": [
+    "“中国人民”五乳神兽镜",
+    "青铜器",
+    "江城生活与技术",
+    "铜镜"
+   ],
+   "references": [
+    {
+     "title": "“中国人民”五乳神兽镜 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/铜器/15e17b4ca076bde7a168e5303360e2d2",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-yangguang-trigger",
+   "name": "“延光三年”鎏金铭文弩机",
+   "dynasty": "东汉",
+   "era": "秦汉",
+   "category": "青铜器",
+   "shape": "misc",
+   "story": "东汉鎏金弩机臂长11厘米。馆方据刻铭定为延光三年（124年）制造；它是弩的机械部件，不是完整木弩。",
+   "keywords": [
+    "“延光三年”鎏金铭文弩机",
+    "青铜器",
+    "江城生活与技术",
+    "科技器物"
+   ],
+   "references": [
+    {
+     "title": "“延光三年”鎏金铭文弩机 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/铜器/81c701e6892e9551b884bfbbb01c131f",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-lushi-mirror",
+   "name": "鲁诗铭文重列式神兽镜",
+   "dynasty": "东汉",
+   "era": "秦汉",
+   "category": "青铜器",
+   "shape": "misc",
+   "story": "东汉神兽镜直径14.7厘米，缘有隶书铭文。馆方引罗福颐将其与《诗经·卫风·硕人》比较并解释为鲁诗遗文；这是学者释读，不是AI认字结论。",
+   "keywords": [
+    "鲁诗铭文重列式神兽镜",
+    "青铜器",
+    "江城生活与技术",
+    "铜镜"
+   ],
+   "references": [
+    {
+     "title": "鲁诗铭文重列式神兽镜 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/铜器/ee6812427eacb8acdfc9857d26ecf564",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-fortress-model",
+   "name": "青瓷坞堡",
+   "dynasty": "三国 吴",
+   "era": "魏晋南北朝",
+   "category": "陶瓷",
+   "shape": "misc",
+   "story": "黄陂滠口三国吴墓出土的青瓷坞堡模型，高30、长62、宽48厘米。外围有围墙、角楼，院内有谷仓与厢房；作为随葬模型，不是遗址建筑实测图。",
+   "keywords": [
+    "青瓷坞堡",
+    "陶瓷",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "青瓷坞堡 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/陶瓷/da92870a4cb6ff81e7bfb9b0cc6f9e03",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-shield-figure",
+   "name": "青瓷执盾俑",
+   "dynasty": "三国 吴",
+   "era": "魏晋南北朝",
+   "category": "陶俑",
+   "shape": "figure",
+   "story": "1986年黄陂滠口三国墓M68出土的青瓷执盾俑，高28.9厘米。俑作跪姿、着铠甲，持兽面长方盾；伴出生活与军事模型提供墓葬组合线索。",
+   "keywords": [
+    "青瓷执盾俑",
+    "陶瓷",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "青瓷执盾俑 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/陶瓷/e6ec605238d437715bdcf46a0214ed7a",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-zhaozhuo-trigger",
+   "name": "“赵濯”铭文青铜弩机",
+   "dynasty": "三国",
+   "era": "魏晋南北朝",
+   "category": "青铜器",
+   "shape": "misc",
+   "story": "洪山区石咀砖室墓出土的三国铜弩机，长20厘米。馆方据多位使用者的刻铭讨论孙吴领兵制度；制度含义是研究解释，不能据铭文编造三人的经历。",
+   "keywords": [
+    "“赵濯”铭文青铜弩机",
+    "青铜器",
+    "江城生活与技术",
+    "科技器物"
+   ],
+   "references": [
+    {
+     "title": "“赵濯”铭文青铜弩机 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/铜器/24c09eeed03f4aa350742644b4b3db15",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-tiger-vessel",
+   "name": "青瓷虎子",
+   "dynasty": "西晋",
+   "era": "魏晋南北朝",
+   "category": "陶瓷",
+   "shape": "vase",
+   "story": "西晋青瓷虎子长28.5厘米，塑成伏地仰头的虎，口张成圆孔，尾上卷成提梁。馆方并列水器与便壶两说，用途仍保留争议。",
+   "keywords": [
+    "青瓷虎子",
+    "陶瓷",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "青瓷虎子 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/陶瓷/963c36c0042448a99001a6ad33057b89",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-well-model",
+   "name": "青瓷井",
+   "dynasty": "西晋",
+   "era": "魏晋南北朝",
+   "category": "陶瓷",
+   "shape": "misc",
+   "story": "武昌中山路墓葬出土的西晋青瓷井模型，高17.2厘米。四柱支撑攒尖屋顶，井沿有人提桶；这是生活场景的随葬模型，不是真井。",
+   "keywords": [
+    "青瓷井",
+    "陶瓷",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "青瓷井 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/陶瓷/9aa35f07ba74ab67c546c4c7aea61b9a",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-many-foot-inkstone",
+   "name": "多足青瓷砚",
+   "dynasty": "南北朝",
+   "era": "魏晋南北朝",
+   "category": "陶瓷",
+   "shape": "misc",
+   "story": "南北朝多足青瓷砚直径22.5厘米。研墨中心不施釉且微隆起，边缘施釉，下围多只兽足；馆方将其与后来的辟雍砚作形制比较。",
+   "keywords": [
+    "多足青瓷砚",
+    "陶瓷",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "多足青瓷砚 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/陶瓷/ec457ba22a1bc41a36c0841574a10293",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-snake-seal",
+   "name": "蛇钮金印",
+   "dynasty": "西晋",
+   "era": "魏晋南北朝",
+   "category": "金银器",
+   "shape": "misc",
+   "story": "西晋蛇钮金印长宽高均为2.2厘米，重85.5克，铭文为“晋蛮夷归义侯”。馆方解释为朝廷颁给部落首领的印信；具体受印人未在记录中指名。",
+   "keywords": [
+    "蛇钮金印",
+    "金银器",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "蛇钮金印 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/其它/ef48d98ea58d0e83717b3177e2b96155",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-chicken-ewer",
+   "name": "青瓷龙柄鸡首壶",
+   "dynasty": "隋",
+   "era": "隋唐五代",
+   "category": "陶瓷",
+   "shape": "vase",
+   "story": "武昌岳家嘴出土的隋代青瓷龙柄鸡首壶，高12.5厘米。鸡首作流，龙首衔口沿作柄，动物形象融入器物结构。",
+   "keywords": [
+    "青瓷龙柄鸡首壶",
+    "陶瓷",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "青瓷龙柄鸡首壶 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/陶瓷/75ac577b1961832baedc748cab0d73f3",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "wh-chengni-inkstone",
+   "name": "抄手澄泥砚",
+   "dynasty": "宋",
+   "era": "宋辽金元",
+   "category": "陶瓷",
+   "shape": "misc",
+   "story": "宋代抄手澄泥砚长18.5厘米，为陶质砚。馆方列陆游、高凤翰、黄易、金农等题款；这些人物跨越时代，不能写成宋代同时制作的177字。",
+   "keywords": [
+    "抄手澄泥砚",
+    "陶瓷",
+    "江城生活与技术"
+   ],
+   "references": [
+    {
+     "title": "抄手澄泥砚 · 官方馆藏记录",
+     "institution": "武汉博物馆",
+     "url": "http://www.whmuseum.com.cn/collection/陶瓷/178752855674be902f8d03102c75ab70",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  }
+ ]
+}

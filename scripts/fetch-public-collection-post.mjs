@@ -1,0 +1,13 @@
+import {createHash} from 'node:crypto';
+import {mkdir,writeFile} from 'node:fs/promises';
+const [url,body]=process.argv.slice(2);
+if(!url||!body)throw Error('public query URL and JSON body required');
+const response=await fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body,signal:AbortSignal.timeout(30000)});
+if(!response.ok)throw Error(`HTTP ${response.status}`);
+const bytes=Buffer.from(await response.arrayBuffer());
+const key=createHash('sha256').update(url+'\n'+body).digest('hex').slice(0,20);
+const dir=new URL('../assets/expansion/evidence/',import.meta.url);
+await mkdir(dir,{recursive:true});
+await writeFile(new URL(key+'.html',dir),bytes);
+await writeFile(new URL(key+'.json',dir),JSON.stringify({url,method:'POST',requestBody:JSON.parse(body),finalUrl:response.url,checkedAt:new Date().toISOString(),sha256:createHash('sha256').update(bytes).digest('hex'),bytes:bytes.length,contentType:response.headers.get('content-type')},null,2));
+console.log(key,bytes.toString());

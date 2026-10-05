@@ -13,6 +13,8 @@ import { useResolvedArtifactImage } from '../hooks/useResolvedArtifactImage';
 import ArtifactArt from './ArtifactArt';
 import ResponsiveArtifactImage from './ResponsiveArtifactImage';
 import qingmingTiles from '../data/qingming-tiles.json';
+import { useArtifactCardEntry } from '../hooks/useArtifactCardEntry';
+import { useNearViewport } from '../hooks/useNearViewport';
 
 // ============================================================
 // 统一卡牌外壳：勘测档案卡 + 博物馆展签
@@ -30,6 +32,8 @@ interface Props {
 
 export default function ArtifactCard({ artifact, index, onClick, showStory = true, deferImage = false, onImageIntent }: Props) {
   const intentTimerRef = useRef<number | null>(null);
+  const { targetRef, shouldLoad } = useNearViewport(deferImage);
+  const card = useArtifactCardEntry(artifact.id, shouldLoad);
   const resolved = resolveArtifactCardImage(artifact.id);
   const hold = isArtifactImageOnHold(artifact.id);
   const { activeImage, failed, usingLegacyFallback, onError } = useResolvedArtifactImage(resolved);
@@ -40,7 +44,7 @@ export default function ArtifactCard({ artifact, index, onClick, showStory = tru
   return (
     <button
       data-artifact-card={artifact.id}
-      onClick={onClick}
+      onClick={() => { if (card.status === 'failed') card.retry(); onClick?.(); }}
       onFocus={onImageIntent}
       onPointerDown={() => {
         if (intentTimerRef.current !== null) window.clearTimeout(intentTimerRef.current);
@@ -65,6 +69,7 @@ export default function ArtifactCard({ artifact, index, onClick, showStory = tru
 
       {/* 图像区：展柜聚光 */}
       <div className="relative aspect-[4/5] overflow-hidden m-2 mb-0 bg-[#0e0d0a]">
+        <span ref={targetRef} className="pointer-events-none absolute inset-0" aria-hidden="true" />
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_50%_15%,#3a352a_0%,#1c1a13_45%,#0e0d0a_100%)]" />
         {usePhoto ? (
           <ResponsiveArtifactImage
@@ -78,7 +83,7 @@ export default function ArtifactCard({ artifact, index, onClick, showStory = tru
             className={`relative w-full h-full ${imageFit} opacity-95 group-hover:opacity-100 group-hover:scale-[1.03] transition-all duration-500`}
           />
         ) : (
-          hold ? <ImageOnHold /> : <ArtifactArt shape={artifact.shape} className="relative w-full h-full group-hover:scale-[1.03] transition-transform duration-500" />
+          card.status !== 'ready' ? <div className="relative grid h-full place-items-center px-3 text-center text-xs text-[#efe6cf]/45" aria-busy={card.status !== 'failed'}>{card.status === 'failed' ? '影像资料暂未载入 · 点击卡片重试' : '正在取回影像…'}</div> : hold ? <ImageOnHold /> : <ArtifactArt shape={artifact.shape} className="relative w-full h-full group-hover:scale-[1.03] transition-transform duration-500" />
         )}
         {usePhoto && activeImage.kind === 'ai' && (
           <div className="absolute left-2 top-2 font-mono text-[12px] text-[#efe6cf]/80 bg-[#0d0c09]/75 border border-[#efe6cf]/20 px-1.5 py-0.5 z-10">
@@ -111,7 +116,7 @@ export default function ArtifactCard({ artifact, index, onClick, showStory = tru
         {showStory && 'story' in artifact && (
           <p className="mt-2 text-[12px] leading-relaxed text-[#efe6cf]/55 line-clamp-3">{artifact.story}</p>
         )}
-        {!usePhoto && (
+        {!usePhoto && card.status === 'ready' && (
           <div className="mt-1.5 font-mono text-[12px] text-[#efe6cf]/30">{hold ? '图像核验中 · 暂缓展示' : '示意线刻 · 真品图待补'}</div>
         )}
       </div>
@@ -225,6 +230,7 @@ function ResolvedArtifactFigure({ artifact, info, delivery, className, preserveF
 }
 
 function ArtifactFigurePending({ artifact, className, preserveFrame, failed, retry }: { artifact: Artifact | ArtifactIndex; className: string; preserveFrame: boolean; failed: boolean; retry: () => void }) {
+  useArtifactCardEntry(artifact.id);
   const resolved = resolveArtifactCardImage(artifact.id);
   const hold = isArtifactImageOnHold(artifact.id);
   const { activeImage, failed: previewFailed, onError } = useResolvedArtifactImage(resolved);

@@ -1,0 +1,21 @@
+{
+  "url": "http://www.whmuseum.com.cn/japi/sw-cms-cloud/api/queryExhibitList",
+  "method": "POST",
+  "requestBody": {
+    "entity": {
+      "exhibitName": "",
+      "exhibitType": "",
+      "exhibitLevel": "",
+      "isOwn": true
+    },
+    "param": {
+      "pageSize": 100,
+      "pageNum": 1
+    }
+  },
+  "finalUrl": "http://www.whmuseum.com.cn/japi/sw-cms-cloud/api/queryExhibitList",
+  "checkedAt": "2026-10-05T04:23:59.960Z",
+  "sha256": "41defa2b5b6ee1a088389841985746007e6c742386e97ec7937ac633c6481b4f",
+  "bytes": 90957,
+  "contentType": "application/json;charset=UTF-8"
+}

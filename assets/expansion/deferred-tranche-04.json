@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-10-05",
+  "notAdmitted": true,
+  "items": [
+    {
+      "institution": "甘肃简牍博物馆",
+      "recordIdentifiers": [
+        "exhibit_id=31",
+        "exhibit_id=44"
+      ],
+      "reason": "候粟君所责寇恩册目录双页，暂按同一册，不双计；本批未选。"
+    },
+    {
+      "institution": "长沙简牍博物馆",
+      "recordIdentifiers": [
+        "nid=248"
+      ],
+      "reason": "凤纹漆耳杯与249同名，未证不同具体器物，不重复入库。"
+    },
+    {
+      "institution": "长沙简牍博物馆",
+      "recordIdentifiers": [
+        "吴简目录",
+        "西汉简a"
+      ],
+      "reason": "吴简与既有走马楼整体记录重叠；西汉简a缺具体编号与形制，不拆充数量。"
+    },
+    {
+      "institution": "中国丝绸博物馆",
+      "recordIdentifiers": [
+        "itemid=3103",
+        "itemid=3106",
+        "itemid=3101",
+        "itemid=3100",
+        "itemid=3099",
+        "itemid=3109",
+        "itemid=3097",
+        "itemid=3102",
+        "itemid=3111",
+        "itemid=1832"
+      ],
+      "reason": "所核页未给明确年代，或正文不足；本轮改用有明确逐件事实及年代的记录。"
+    }
+  ]
+}

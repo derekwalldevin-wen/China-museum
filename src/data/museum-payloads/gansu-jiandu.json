@@ -1,0 +1,472 @@
+{
+ "id": "gansu-jiandu",
+ "name": "甘肃简牍博物馆",
+ "province": "甘肃省",
+ "city": "兰州",
+ "coord": [
+  103.7291,
+  36.07798
+ ],
+ "artifacts": [
+  {
+   "id": "gsjd-medicine-paper",
+   "name": "“付子 细辛”汉代麻纸",
+   "dynasty": "西汉早期",
+   "era": "秦汉",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1990年出土于悬泉置遗址，馆方据折痕推断为包药用纸。两张纸按一组计数；标题与正文首张药名、第二张长度有冲突，本条不替馆方判定。",
+   "keywords": [
+    "“付子 细辛”汉代麻纸",
+    "杂项",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "“付子 细辛”汉代麻纸 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=49",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-maquan-brush",
+   "name": "马圈湾汉毛笔",
+   "dynasty": "汉",
+   "era": "秦汉",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1979年出土于敦煌马圈湾烽燧，出土号79DMT7：01。竹杆钻孔纳毛、丝线捆扎并髹漆，尾端嵌硬木，展示书写工具的复合制作。",
+   "keywords": [
+    "马圈湾汉毛笔",
+    "杂项",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "马圈湾汉毛笔 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=48",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-maquan-gauze",
+   "name": "马圈湾丝织品",
+   "dynasty": "汉",
+   "era": "秦汉",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "1979年出土于马圈湾烽燧，出土号79DMT12:062，长13、宽11厘米。馆方识别为湖绿色四经绞罗，细密经纬中留有孔眼。",
+   "keywords": [
+    "马圈湾丝织品",
+    "织绣",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "马圈湾丝织品 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=47",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-changluo-expenses",
+   "name": "元康五年悬泉置过长罗侯费用簿",
+   "dynasty": "西汉",
+   "era": "秦汉",
+   "category": "简牍",
+   "shape": "stele",
+   "story": "1990年悬泉置出土，一册18枚木简记录常惠出使乌孙时路过军吏的接待费用。账簿让外交往来与驿站开支相遇；整册只计一条。",
+   "keywords": [
+    "元康五年悬泉置过长罗侯费用簿",
+    "简牍",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "元康五年悬泉置过长罗侯费用簿 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=46",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-sick-leave",
+   "name": "建武三年隧长病书",
+   "dynasty": "东汉",
+   "era": "秦汉",
+   "category": "简牍",
+   "shape": "stele",
+   "story": "三枚木简记录隧长党请病假、候长匡上报和候官请准就医的过程。馆方登记出土地为居延破城子，具体发现年月未载；本组计一条。",
+   "keywords": [
+    "建武三年隧长病书",
+    "简牍",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "建武三年隧长病书 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=42",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-seasonal-ban",
+   "name": "建武六年毋犯四时禁者书",
+   "dynasty": "东汉",
+   "era": "秦汉",
+   "category": "简牍",
+   "shape": "stele",
+   "story": "1974年出土于甲渠候官遗址22号房址。馆方将它解释为东汉初年河西四时簿的上报底稿，可讨论季节禁令，但不等同现代环保制度。",
+   "keywords": [
+    "建武六年毋犯四时禁者书",
+    "简牍",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "建武六年毋犯四时禁者书 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=40",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-document-cover",
+   "name": "文书检",
+   "dynasty": "汉",
+   "era": "秦汉",
+   "category": "简牍",
+   "shape": "stele",
+   "story": "馆方登记出土于居延破城子，长15.3、宽4.2厘米。木检用于封缄文书，记录印章、送达时间与送达人，把书信传递与防拆联系起来。",
+   "keywords": [
+    "文书检",
+    "简牍",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "文书检 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=38",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-discipline-stick",
+   "name": "侯史广德坐罪行罚檄",
+   "dynasty": "汉",
+   "era": "秦汉",
+   "category": "简牍",
+   "shape": "stele",
+   "story": "1974年居延破城子出土，长90.7厘米。工匠仅刮平树枝正背两面用于书写；檄文通报广德失职与处罚，具体内容依馆方释读。",
+   "keywords": [
+    "侯史广德坐罪行罚檄",
+    "简牍",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "侯史广德坐罪行罚檄 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=36",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-gate-pass",
+   "name": "五凤元年大奴出入关登记文书木简",
+   "dynasty": "西汉",
+   "era": "秦汉",
+   "category": "简牍",
+   "shape": "stele",
+   "story": "1973年肩水金关出土的完整出入关文书，长23.6、宽3.2厘米。它为观察申请、批复和通关流程提供实物线索；持有人更完整生平未知。",
+   "keywords": [
+    "五凤元年大奴出入关登记文书木简",
+    "简牍",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "五凤元年大奴出入关登记文书木简 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=35",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-written-hemp-paper",
+   "name": "“巨阳大利 上缮皂五匹”汉代麻纸",
+   "dynasty": "东汉初期",
+   "era": "秦汉",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1990年悬泉置出土，馆方据共存简牍与地层判为东汉初期。黄色间灰的粗厚纸张留有两行隶书，展示纸作为书写材料的使用。",
+   "keywords": [
+    "“巨阳大利 上缮皂五匹”汉代麻纸",
+    "杂项",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "“巨阳大利 上缮皂五匹”汉代麻纸 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=34",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-wan-letter",
+   "name": "万致子恩书",
+   "dynasty": "西汉末至东汉初",
+   "era": "秦汉",
+   "category": "书画",
+   "shape": "textile",
+   "story": "1990年悬泉置出土，馆方登记质地为丝，正背面用隶书书写，是万写给子恩的私人信件。亲密关系与两人完整身份未在本条资料中说明。",
+   "keywords": [
+    "万致子恩书",
+    "书画",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "万致子恩书 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=33",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-imperial-search",
+   "name": "甘露二年御史书",
+   "dynasty": "西汉",
+   "era": "秦汉",
+   "category": "简牍",
+   "shape": "stele",
+   "story": "馆方登记肩水金关出土。文书依次包含御史要求追查、太守传达、都尉府下达及候官执行，显出公文分层传递；整册按一条。",
+   "keywords": [
+    "甘露二年御史书",
+    "简牍",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "甘露二年御史书 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=26",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-grain-loan",
+   "name": "田子渊借粮食",
+   "dynasty": "汉",
+   "era": "秦汉",
+   "category": "简牍",
+   "shape": "stele",
+   "story": "1979年马圈湾烽燧出土。馆方据简文解释为粮食短缺者向戍卒田子渊借粮，体现边塞生活的窘迫；不能把借粮结果写成已知。",
+   "keywords": [
+    "田子渊借粮食",
+    "简牍",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "田子渊借粮食 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=23",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-qin-wood-map",
+   "name": "天水放马滩秦木板地图",
+   "dynasty": "秦",
+   "era": "秦汉",
+   "category": "杂项",
+   "shape": "misc",
+   "story": "1986年6月天水放马滩1号秦墓出土，四块木板绘七幅地图，其中一幅未完成。全组只计一条；AI示意不复原真实山川线和地名。",
+   "keywords": [
+    "天水放马滩秦木板地图",
+    "杂项",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "天水放马滩秦木板地图 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=21",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-qin-daybook",
+   "name": "放马滩甲种日书",
+   "dynasty": "秦",
+   "era": "秦汉",
+   "category": "简牍",
+   "shape": "stele",
+   "story": "1986年放马滩1号秦墓出土。甲种日书记录择日趋吉避凶的术数观念，可与生活选择相对照，但不是科学预测方法；一部按一条。",
+   "keywords": [
+    "放马滩甲种日书",
+    "简牍",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "放马滩甲种日书 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=20",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-chicken-register",
+   "name": "悬泉置元康四年尽十二月丁卯鸡出入簿",
+   "dynasty": "西汉",
+   "era": "秦汉",
+   "category": "简牍",
+   "shape": "stele",
+   "story": "1990年悬泉置出土，馆方释读为厨房负责人时上报的全年鸡入账与消费统计。一册账簿把接待规模与日常饮食联系起来；全组只计一条。",
+   "keywords": [
+    "悬泉置元康四年尽十二月丁卯鸡出入簿",
+    "简牍",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "悬泉置元康四年尽十二月丁卯鸡出入簿 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=16",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-silk-credential",
+   "name": "张掖都尉棨信",
+   "dynasty": "汉",
+   "era": "秦汉",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "1973年居延肩水金关出土，绛红色缯帛高21、宽16厘米，上端有素绂。原件篆书六字；图仅概括材质与轮廓，不用于认字。",
+   "keywords": [
+    "张掖都尉棨信",
+    "织绣",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "张掖都尉棨信 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=14",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-sword-appraisal",
+   "name": "相利善敝剑冊",
+   "dynasty": "汉",
+   "era": "秦汉",
+   "category": "简牍",
+   "shape": "stele",
+   "story": "1974年居延破城子出土，共六简，原有三道编绳但已朽毁，边缘留锲口。馆方释读涉及辨识善剑、敝剑和纹饰的方法；整册一条。",
+   "keywords": [
+    "相利善敝剑冊",
+    "简牍",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "相利善敝剑冊 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=12",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-drum-protocol",
+   "name": "鼓令册",
+   "dynasty": "汉",
+   "era": "秦汉",
+   "category": "简牍",
+   "shape": "stele",
+   "story": "悬泉置出土的木简记敲鼓次数提示来客职级。馆方列出15、6、3下的不同接待情形；本件是文书而不是鼓，整册只计一条。",
+   "keywords": [
+    "鼓令册",
+    "简牍",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "鼓令册 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=9",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "gsjd-camel-dispute",
+   "name": "永光五年康居王使者自言献驼直不如实册",
+   "dynasty": "西汉",
+   "era": "秦汉",
+   "category": "简牍",
+   "shape": "stele",
+   "story": "1990年悬泉置出土，两道编绳尚存。简文记康居使者对献驼估价和待遇提出申诉，政府要求查办；最终调查结果没有记载，整册计一条。",
+   "keywords": [
+    "永光五年康居王使者自言献驼直不如实册",
+    "简牍",
+    "河西书写与技术"
+   ],
+   "references": [
+    {
+     "title": "永光五年康居王使者自言献驼直不如实册 · 官方馆藏记录",
+     "institution": "甘肃简牍博物馆",
+     "url": "https://web.jiandumuseum.cn/gwebapi/exhibit/detail?p=w&exhibit_id=6",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  }
+ ]
+}

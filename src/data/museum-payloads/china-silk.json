@@ -1,0 +1,472 @@
+{
+ "id": "china-silk",
+ "name": "中国丝绸博物馆",
+ "province": "浙江省",
+ "city": "杭州",
+ "coord": [
+  120.146573,
+  30.225175
+ ],
+ "artifacts": [
+  {
+   "id": "csm-lion-pouches",
+   "name": "盘金彩绣狮子纹荷包",
+   "dynasty": "清",
+   "era": "明清",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "一对荷包打褶收口，用盘金彩绣表现狮子纹，连绳与玉环总长40.5厘米。成对只计一条，原主人和入藏经过未在记录中公布。",
+   "keywords": [
+    "盘金彩绣狮子纹荷包",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "盘金彩绣狮子纹荷包 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3282",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-yellow-knots-pouch",
+   "name": "黄绸地打籽绣多子多福荷包",
+   "dynasty": "清",
+   "era": "明清",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "黄色丝绸荷包用打籽绣构成多子多福纹样，长10.1、宽14.5厘米。可从细小针结看装饰组织；纹样表达吉愿，不说明实际生育经历。",
+   "keywords": [
+    "黄绸地打籽绣多子多福荷包",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "黄绸地打籽绣多子多福荷包 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3281",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-blue-waist-pouch",
+   "name": "蓝缎圈金铺绒绣石榴飞雁腰包",
+   "dynasty": "民国",
+   "era": "近现代",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "蓝缎腰包以圈金线勾轮廓，再以铺绒绣表现石榴与飞雁。馆方定年民国，不能按传统纹样误归清代；制作人与发现过程未知。",
+   "keywords": [
+    "蓝缎圈金铺绒绣石榴飞雁腰包",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "蓝缎圈金铺绒绣石榴飞雁腰包 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3280",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-go-waist-pouch",
+   "name": "白绸绣桃子围棋腰包",
+   "dynasty": "民国",
+   "era": "近现代",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "白绸腰包中央用黑丝线绣桃子与围棋纹，外围镶黑素缎。长17.3、宽30.5厘米；围棋图像不能证明它曾装棋子或属于某位棋手。",
+   "keywords": [
+    "白绸绣桃子围棋腰包",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "白绸绣桃子围棋腰包 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3279",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-bell-ornament",
+   "name": "红绿缎绣花卉小饰件",
+   "dynasty": "民国",
+   "era": "近现代",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "钟形丝织小饰件两面以红、绿素缎为主要面料，彩丝绣花。馆方尺寸10.4乘8.5厘米，具体悬挂场景未说明，不能据器形编造用途。",
+   "keywords": [
+    "红绿缎绣花卉小饰件",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "红绿缎绣花卉小饰件 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3284",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-calling-card-bag",
+   "name": "品蓝缎彩绣花卉名片袋",
+   "dynasty": "民国",
+   "era": "近现代",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "长形名片袋上端略圆且有开口，以品蓝缎为地、粉色花边镶缘。名片与传统针线结合，说明日常物件也能成为观察近代交往的入口。",
+   "keywords": [
+    "品蓝缎彩绣花卉名片袋",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "品蓝缎彩绣花卉名片袋 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3283",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-double-pouch",
+   "name": "白缎铺绒绣桃子螃蟹褡裢",
+   "dynasty": "民国",
+   "era": "近现代",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "白缎褡裢中部有口，两端垂成两个袋囊，上绣螃蟹、下绣桃子。馆方登记铺绒绣；携带功能明确，但具体装过什么和佩用人未知。",
+   "keywords": [
+    "白缎铺绒绣桃子螃蟹褡裢",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "白缎铺绒绣桃子螃蟹褡裢 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3274",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-moth-pouch",
+   "name": "彩绸绣石榴花虫荷包",
+   "dynasty": "民国",
+   "era": "近现代",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "荷包略呈飞蛾形，红、绿、蓝、黑绸缎拼缝，上端系绳，粉绦带镶缘，绣石榴与花虫。图像名称采用馆方，不作昆虫种属认定。",
+   "keywords": [
+    "彩绸绣石榴花虫荷包",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "彩绸绣石榴花虫荷包 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3275",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-plum-money-pouch",
+   "name": "彩绢圈金绣梅花钱袋",
+   "dynasty": "民国",
+   "era": "近现代",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "方形钱袋由多色素绢拼缝，白绢地绣梅花并以捻金线勾边，外缘黑缎。馆方说明使用时系于腰间，确切使用者未载。",
+   "keywords": [
+    "彩绢圈金绣梅花钱袋",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "彩绢圈金绣梅花钱袋 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=3272",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-ming-yesa",
+   "name": "明代曲水如意云纹暗花缎曳撒袍",
+   "dynasty": "明",
+   "era": "明清",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "褐色暗花缎曳撒袍交领右衽、双袖平直，腰以下打褶。馆方将款式联系明代乘马服饰；本件较完整，但不能认定曾由某位君臣穿用。",
+   "keywords": [
+    "明代曲水如意云纹暗花缎曳撒袍",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "明代曲水如意云纹暗花缎曳撒袍 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1900",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-cloud-fragment",
+   "name": "四合云纹绮寿衣",
+   "dynasty": "明",
+   "era": "明清",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "馆方登记一块残破丝织物，织有四合云纹绮，并推断原是寿衣的一部分。保留推断语气；不能凭名字复原成一件完整衣服或确定墓主。",
+   "keywords": [
+    "四合云纹绮寿衣",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "四合云纹绮寿衣 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1904",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-padded-socks",
+   "name": "绢面绵袜",
+   "dynasty": "明永乐",
+   "era": "明清",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "一双绢面袜内衬绵，馆方定为明永乐。它让我们从保暖与贴身穿用认识织物；原物主、出土地及现代修复经过在这条记录中未载。",
+   "keywords": [
+    "绢面绵袜",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "绢面绵袜 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1898",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-ruyi-shoes",
+   "name": "辑线绣如意纹缎鞋",
+   "dynasty": "明永乐",
+   "era": "明清",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "黄色如意纹暗花缎鞋一双，上有缉线绣。馆方介绍该针法线芯可用不同材料，但没有对本双线芯给出检测结论，不选择某一种写成事实。",
+   "keywords": [
+    "辑线绣如意纹缎鞋",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "辑线绣如意纹缎鞋 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1897",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-peony-satin-shoe",
+   "name": "刺绣牡丹花纹缎鞋",
+   "dynasty": "明永乐",
+   "era": "明清",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "本条官方数量为一只黄色素缎鞋，饰刺绣牡丹。保留单只状态，不为画面好看虚构另一只；织物起源的概说不能当本件发现史。",
+   "keywords": [
+    "刺绣牡丹花纹缎鞋",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "刺绣牡丹花纹缎鞋 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1899",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-gold-peony-shoes",
+   "name": "钉金绣牡丹花纹缎鞋",
+   "dynasty": "明永乐",
+   "era": "明清",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "一双黄色缎鞋以五枚素缎为地，鞋背以钉金线绣牡丹。对比普通丝线刺绣可理解线材与固定方式，但具体工匠和生产地点仍未知。",
+   "keywords": [
+    "钉金绣牡丹花纹缎鞋",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "钉金绣牡丹花纹缎鞋 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1894",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-plain-skirt",
+   "name": "素纱裙",
+   "dynasty": "明永乐",
+   "era": "明清",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "黄色百褶裙前后片中间开衩并留大褶。馆方题名作素纱裙，正文说面料为平纹绢，两个口径并列保留，不擅自判定组织或直接传承。",
+   "keywords": [
+    "素纱裙",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "素纱裙 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1896",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-long-jacket",
+   "name": "卍字田格纹绮长袖夹衣",
+   "dynasty": "明永乐",
+   "era": "明清",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "黄色长袖夹衣对襟直领，袖缘以绢贴边，馆方记织物有卍字田格纹。卍纹为传统纹样，示意图只呈概括几何纹，不用于精确认纹。",
+   "keywords": [
+    "卍字田格纹绮长袖夹衣",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "卍字田格纹绮长袖夹衣 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1901",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-short-jacket",
+   "name": "绣花卉纹缘素罗短袖夹衣",
+   "dynasty": "明永乐",
+   "era": "明清",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "短袖夹衣对襟直领，领缘贴绣花边，门襟两根系带、腋下开衩。题名素罗而正文称平纹绢，保留材料描述冲突；物主与出土地未知。",
+   "keywords": [
+    "绣花卉纹缘素罗短袖夹衣",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "绣花卉纹缘素罗短袖夹衣 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1892",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-patched-robe",
+   "name": "黄色素罗绣花方补交领袍",
+   "dynasty": "明",
+   "era": "明清",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "残破黄色交领袍胸前留一块方补。馆方登记素罗与绣花方补，但没说明方补等级或物主；不能按方补轮廓编造官阶和人物故事。",
+   "keywords": [
+    "黄色素罗绣花方补交领袍",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "黄色素罗绣花方补交领袍 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1890",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  },
+  {
+   "id": "csm-padded-trousers",
+   "name": "黄色缠枝花卉暗花缎绵裤",
+   "dynasty": "明",
+   "era": "明清",
+   "category": "织绣",
+   "shape": "textile",
+   "story": "黄色暗花缎绵裤裤腿宽阔，馆方登记缠枝花卉纹，长90厘米。贴身保暖用品可以与外衣比较，但实际穿用者和发现、保护经过仍未知。",
+   "keywords": [
+    "黄色缠枝花卉暗花缎绵裤",
+    "织绣",
+    "衣物与日常"
+   ],
+   "references": [
+    {
+     "title": "黄色缠枝花卉暗花缎绵裤 · 官方馆藏记录",
+     "institution": "中国丝绸博物馆",
+     "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1891",
+     "checkedAt": "2026-10-05",
+     "supports": "支持摘要明列的本件馆藏事实；未知和冲突仍按摘要限定，不构成图片授权。"
+    }
+   ]
+  }
+ ]
+}

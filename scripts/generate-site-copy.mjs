@@ -1,0 +1,11 @@
+import { readFile, writeFile } from 'node:fs/promises';
+import { museums } from '../src/data/museums.ts';
+const url = new URL('../index.html', import.meta.url);
+const html = await readFile(url, 'utf8');
+const artifacts = museums.reduce((total, museum) => total + museum.artifacts.length, 0);
+const copy = `轻触真实省界与朱印，在一轴山河间浏览${museums.length}座博物馆与${artifacts}件代表文物。`;
+const expression = /(<meta property="og:description" content=")[^"]*("\s*\/?>)/;
+if (!expression.test(html)) throw new Error('Missing share description');
+const updated = html.replace(expression, (_, before, after) => `${before}${copy}${after}`);
+if (updated !== html) await writeFile(url, updated);
+console.log(`Share copy derived: ${museums.length} museums / ${artifacts} artifacts`);

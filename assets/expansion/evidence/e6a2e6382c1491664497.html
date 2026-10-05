@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+     
+ 
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="Author" content="万户网络设计制作" />
+<title>中国丝绸博物馆</title>
+<meta name="keywords" content="中国丝绸博物馆" />
+<meta name="Description" content="中国丝绸博物馆" />
+
+<!--
+                       (0 0)
+   +=============oOO====(_)================+
+   |   Powered By wanhu - www.wanhu.com.cn |
+   |   Tel:400-888-0035  020-85575672      |
+   |   Creation:2017.04.06                 |
+   +==========================oOO==========+
+                      |__|__|
+                       || ||
+                      ooO Ooo
+    -->
+<link rel="stylesheet" type="text/css" href="/cn/css/theme.min.css">
+<link rel="stylesheet" type="text/css" href="/cn/css/jquery.bxslider.css">
+<!--glyphicon字体图标-->
+<link rel="stylesheet" href="/cn/css/glyphicon.css" />
+<!-- 项目初始化样式 -->
+<link rel="stylesheet" type="text/css" href="/cn/css/whir_css.css">
+<!-- 优化jquery -->
+<script src="/cn/scripts/jquery-3.6.0.min.js"></script>
+<script src="/cn/scripts/jquery-migrate-1.4.1.min.js"></script>
+<!-- HTML5 shim 和 Respond.js用于IE8支持HTML5标签和媒介查询  -->
+<!--[if lt IE 9]>
+  <script src="/cn/scripts/html5shiv3.7.3.min.js"></script>
+  <script src="/cn/scripts/respondv1.4.2.min.js"></script>
+<![endif]-->
+<script>
+    //判断访问设备，方便后面针对不同设备调用代码
+    var dev = "";
+    if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+        //设备为移动端
+        dev = "mobile";
+        $("html").addClass("mobile");
+    }
+    else {
+        //设备为pc
+        dev = "pc";
+        $("html").addClass("pc");
+    }
+
+    //定义设备宽度和高度
+    var dw = $(window).width(),
+	    dh = $(window).height();
+
+    //console.log("当前使用设备为：" + dev + "||设备宽度为：" + dw + "||设备高度为：" + dh);
+</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?88249fa0632e7cd27a66cab9956af42f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+
+    <script>
+        //定义栏目ID
+        var navID = 5,
+    	    menuID ='21';
+    </script>
+</head>
+<body>
+    <!--头部-->
+     
+ 
+<header class="header">
+	<div class="m clearfix">
+       
+       <a class="logo" href='/index.aspx'><img src="/uploadfiles/2017/11/201711141339253925.png" ></a>
+       
+       <div class="nav-btn"><span class="glyphicon glyphicon-list"></span></div>
+
+       <div class="mainnav">
+          <ul class="ul clearfix">
+                <li id="nav1"><a href='/bwggk/index_3.aspx' class="nav_a">概况</a><em></em>
+                	<div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                                <dd><a href='/bwggk/index_3.aspx'>关于国丝</a></dd>
+                                <dd><a href='/xsgk/list_26.aspx'>学术概况</a></dd>
+                                
+                                <dd>
+                                    <a href='/gwgk/list_4.aspx?cid=628'>
+                                        馆务公开
+                                    </a>
+                                </dd>
+                                
+                                <dd><a href='/jgzc/list_5.aspx'>机构组成</a></dd>
+                                <dd><a href='/cgjyy/list_6.aspx'>参观及预约</a></dd>
+                                <dd><a href='/zcbwg/list_7.aspx'>支持国丝</a></dd>
+                             </dl>
+                        </div>
+                    </div>
+                </li>
+                <li id="nav2"><a href='/xwdtIR/list_9.aspx'  class="nav_a">动态</a><em></em>
+                <div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                            
+                                <dd><a href="/xwdtIR/list_9.aspx">国丝公告</a></dd>
+                                
+                                <dd><a href="/cs/list_164.aspx">馆内新闻</a></dd>
+                                
+                                <dd><a href="/list_373.aspx">文博要闻</a></dd>
+                                
+                                <dd><a href="/cs/list_168.aspx">社会报道</a></dd>
+                                
+                                <dd><a href="/yg/list_13.aspx">活动预告</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                </li>
+                <li id="nav3"><a href='/ngcxg/list_11.aspx' class="nav_a">活动</a><em></em>
+                	<div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                                
+                                    <dd><a href="/ngcxg/list_11.aspx">女红传习</a></dd>
+                                
+                                    <dd><a href="/jz/list_15.aspx">经纶讲堂</a></dd>
+                                
+                                    <dd><a href="/gszy/list_328.aspx">国丝之夜</a></dd>
+                                
+                                    <dd><a href="/list_151.aspx">国丝研学</a></dd>
+                                
+                                    <dd><a href="/gskt/list_319.aspx">国丝课堂</a></dd>
+                                
+                                    <dd><a href="/sljxy/list_291.aspx">丝路进校园</a></dd>
+                                
+                                    <dd><a href="/gsjr/list_292.aspx">国丝节日</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                </li>
+                <li id="nav4"><a href='/zz/list_17.aspx' class="nav_a">展览</a><em></em>
+                	<div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                                <div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                            
+
+                                <dd><a href="/zz/list_17.aspx">在展</a></dd>
+                                
+
+                                <dd><a href="/yz/list_18.aspx">已展</a></dd>
+                                
+
+                                <dd><a href="/jzNX/list_19.aspx">将展</a></dd>
+                                
+
+                                <dd><a href="/Cloudzl/list_367.aspx">云上展览</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                            </dl>
+                        </div>
+                    </div>
+                </li>
+                <li id="nav5"><a href='/zggd/list_21.aspx' class="nav_a">藏品</a><em></em>
+                	<div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                                <div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                            
+
+                                <dd><a href="/zggd/list_21.aspx">中国历代</a></dd>
+                                
+
+                                <dd><a href="/zgxd/list_22.aspx">中国当代</a></dd>
+                                
+
+                                <dd><a href="/xf/list_23.aspx">西方</a></dd>
+                                
+
+                                <dd><a href="/mzx/list_24.aspx">民族学</a></dd>
+                                
+
+                                <dd><a href="/list_302.aspx">其他</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                            </dl>
+                        </div>
+                    </div>
+                </li>
+                <!-- <li id="nav6"><a href='/xsgk/list_26.aspx' class="nav_a">学术概况</a><em></em>
+                	<div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                                <div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                            
+
+                                <dd><a href="/xsgk/list_26.aspx">学术概况</a></dd>
+                                
+
+                                <dd><a href="/zjwt/list_27.aspx">专家舞台</a></dd>
+                                
+
+                                <dd><a href="/xscg/list_28.aspx">学术成果</a></dd>
+                                
+
+                                <dd><a href="/xshy/list_155.aspx">学术会议</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                            </dl>
+                        </div>
+                    </div>
+                </li> -->
+                <li id="nav7"><a href='/jlt/list_33.aspx' class="nav_a">文创</a><em></em>
+                	<div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                                
+
+                                <dd><a href="/jlt/list_33.aspx">经纶堂</a></dd>
+                                
+
+                                <dd><a href="/jdwc/list_34.aspx">锦道</a></dd>
+                                
+
+                                <dd><a href="/list_300.aspx">微店</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                </li>
+                <!--<li id="nav8"><a href='/slzyFY/index_36.html' class="nav_a">丝路之友</a><em></em>
+                <div class="navdown">
+                    	<div class="m">
+                            <dl class="clearfix">
+                
+
+                                <dd><a href="/slzyFY/index_36.html">丝路之友</a></dd>
+                                
+                            </dl>
+                        </div>
+                    </div>
+                </li>-->
+               <li id="nav9"><a href='/jdgs/index_279.aspx' class="nav_a">科研基地</a><em></em>
+                  <div class="navdown">
+                      <div class="m">
+                          <dl class="clearfix">
+                              <dd id="topId327"><a href='/jdgs/index_279.aspx'>基地概况</a></dd>
+                              
+                                  <dd id="topId296"><a href="/gzzd/list_296.aspx">规章制度</a></dd>
+                              
+                                  <dd id="topId297"><a href="/gzz/list_297.aspx">工作站</a></dd>
+                              
+                                  <dd id="topId213"><a href="/kyxm/list_213.aspx">科研项目</a></dd>
+                              
+                                  <dd id="topId211"><a href="/hzjl/list_211.aspx">交流合作</a></dd>
+                              
+                                  <dd id="topId212"><a href="/jsfw/list_212.aspx">技术服务</a></dd>
+                              
+                          </dl>
+                      </div>
+                  </div>
+              </li>
+              <li id="nav10"><a href='/gjslzx/list_305.aspx' class="nav_a">相关机构</a><em></em>
+                  <div class="navdown">
+                      <div class="m">
+                          <dl class="clearfix">
+                              
+                                  <dd id="topId305"><a href="/gjslzx/list_305.aspx">国际丝路中心</a></dd>
+                              
+                                  <dd id="topId306"><a href="/bxfzzwh/list_306.aspx">博协服装设计专委会</a></dd>
+                              
+                                  <dd id="topId307"><a href="/gjscxy/list_307.aspx">国际丝绸学院</a></dd>
+                              
+                                  <dd id="topId308"><a href="/fylm/list_308.aspx">非遗联盟</a></dd>
+                              
+                                  <dd id="topId309"><a href="/bwgf/list_309.aspx">博物工坊</a></dd>
+                              
+                          </dl>
+                      </div>
+                  </div>
+              </li>
+            </ul>
+       </div>
+
+       <div class="top_right">
+            <div class="top_share clearfix">
+                <span class="top_i4"><a href='/index_en.html'>En</a></span>
+                
+                    <a class="top_i3" href='https://weibo.com/87035150' target="_blank"></a>
+                
+        		<a class="top_i2" onclick="javascript: $('#codeBg').css('display','block')"></a>
+                <a href="/cn/CalendarPrediction.aspx"><span class="top_i1"></span></a>
+                <a href='/cgjyy/list_6.aspx'><span class="top_i0">预约</span></a>
+            </div>
+            <div class="sBox">
+                <a href='/gjss/index_222.aspx' class="gjsearch">高级搜索</a>
+                <div class="top_search">
+
+                    <input type="text" id="key" class="top_input1" value="输入关键字..." onblur="if(this.value=='')this.value='输入关键字...';"
+                        onfocus="if(this.value=='输入关键字...')this.value='';" onkeydown="entersearch('key','输入关键字...','请输入关键字！','/cn/search.aspx?key=')">
+                <input type="button" onclick="GoSearchUrl('key','输入关键字...','请输入关键字！','/cn/search.aspx?key=')" class="top_input2" />
+                </div>
+            </div>
+
+
+       </div>
+       <span class="top_is"></span> <a href='/gjss/index_222.aspx' class="top_isGJ">高级搜索</a>
+   </div>
+</header>
+<script>
+    $(document).ready(function (e) {
+		$("#topId215").find("a").attr("href","/jdjj/list_215_lcid_640.html")
+        //导航选中
+        $("#nav" + navID).addClass("onnav");
+
+
+        $('.nav-btn').click(function () {
+            $('.mainnav').slideToggle();
+        })
+        $('.top_is').click(function () {
+            $('.top_search').slideToggle();
+        })
+
+
+        $('.mobile .nav_a').click(function () {
+            $(this).siblings('.navdown').slideToggle();
+            $(this).parent('li').siblings('li').children('.navdown').slideUp();
+        })
+
+    });
+</script>
+<script type="text/javascript">
+    //this function do not use jquery for honner page?
+    function GoSearchUrl(id, searchinputvalue, tip, href) {
+        var searchinput = document.getElementById(id);
+        if (searchinput.value == "" || searchinput.value == searchinputvalue) {
+            alert(tip);
+            searchinput.focus();
+            return false;
+        }
+        if (searchinput.value.length > 50) {
+            alert("输入的关键字字数不要过多！");
+            searchinput.focus();
+            return false;
+        }
+        CheckString(searchinput.value, href);
+    }
+
+    function GoSreach(rs, href) {
+        window.location =href+escape(rs);
+        return true;
+    }
+
+    function entersearch(id, searchinputvalue, tip, href) {
+        var event = window.event || arguments.callee.caller.arguments[0];
+        if (event.keyCode == 13) {
+            GoSearchUrl(id, searchinputvalue, tip, href);
+        }
+    }
+    function CheckString(s, href) {
+        var pattern = new RegExp("[`~!@#$^&*()=|{}':;',\\[\\].<>/?~！@#￥……&*（）—|{}【】‘；：”“'。，、？]")
+        var rs = "";
+        for (var i = 0; i < s.length; i++) {
+            rs = rs + s.substr(i, 1).replace(pattern, '');
+        }
+        if (rs == "") {
+            alert("不能输入特殊字符！");
+            return false;
+        }
+        else {
+            GoSreach(rs, href);
+        }
+    }
+</script>
+
+
+
+    <!--头部-->
+     
+ 
+<!--PC端banner-->
+
+        <aside class="sideban sideban_pc" style="background: url(/uploadfiles/2018/01/201801051113551355.jpg) no-repeat center center;"></aside>
+    <!--手机端banner-->
+    <aside class="sideban sideban_mobile">
+	<img src="/uploadfiles/2018/01/201801051112181218.jpg">
+</aside>
+    
+
+
+    <!--网页主体部分-->
+    <div class="about">
+        <div class="m">
+             
+ 
+<div class="about_menu">
+    <div class="menu_ul">
+        <ul class="ul clearfix">
+            
+                <li id="menu21"><a href="/zggd/list_21.aspx">中国历代</a></li>
+            
+                <li id="menu22"><a href="/zgxd/list_22.aspx">中国当代</a></li>
+            
+                <li id="menu23"><a href="/xf/list_23.aspx">西方</a></li>
+            
+                <li id="menu24"><a href="/mzx/list_24.aspx">民族学</a></li>
+            
+                <li id="menu302"><a href="/list_302.aspx">其他</a></li>
+            
+        </ul>
+    </div>
+</div>
+<script>
+    $(document).ready(function (e) {
+        //导航选中
+        $("#menu" + menuID).addClass("onnav");
+    });
+</script>
+
+            <div class="about_body">
+                <div class="detail_body">
+                <div class="detail_head">
+                        <div class="detail_h">
+                            黄色缠枝花卉暗花缎绵裤</div>
+                        <div class="detail_time">
+                            2017-12-29</div>
+                    </div>
+                    <div class="detail_text">
+                        <a target="_blank" data-deadlink="true"><img src="/uploadfiles/downloadimg/20171229105552280.jpg" alt=""></a><br>　<br>时代　　明代<br>数量　&nbsp; 1件<br>质地　&nbsp; 丝<br>色泽　　黄色<br>尺寸(厘米)　　长：90 &nbsp;&nbsp;&nbsp;&nbsp; 腰宽: 60&nbsp;&nbsp;&nbsp;&nbsp; <br>形状内容描述　　此绵裤，裤腿肥阔，面料为黄色缠枝花卉暗花缎。<br>
+  
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--网页主体部分-->
+    <!--底部-->
+     
+ 
+<footer class="footer">
+    <div class="m">
+        <div class="footer_nav">
+            <ul class="ul clearfix">
+                <li><a href='/bwggk/index_3.aspx' class="nav_a">概况</a></li>
+                <li><a href='/xwdtIR/list_9.aspx'  class="nav_a">动态</a></li>
+                <li><a href='/ngcxg/list_11.aspx' class="nav_a">活动</a></li>
+                <li><a href='/zz/list_17.aspx' class="nav_a">展览</a></li>
+                <li><a href='/zggd/list_21.aspx' class="nav_a">藏品</a></li>
+                <li><a href='/jlt/list_33.aspx' class="nav_a">文创</a></li>
+                <li><a href='/jdgs/index_279.aspx' class="nav_a">科研基地</a></li>
+                <li><a href='/gjslzx/list_305.aspx' class="nav_a">相关机构</a></li>
+            </ul>
+        </div>
+        <div class="footer_nav2">
+            <ul class="ul clearfix">
+                <li>
+                    <dl>
+                        <dd><a href='/bwggk/index_3.aspx'>关于国丝</a></dd>
+                        <dd><a href='/xsgk/list_26.aspx'>学术概况</a></dd>
+                        
+                                <dd>
+                                    <a href='/gwgk/list_4.aspx?cid=628'>
+                                        馆务公开
+                                    </a>
+                                </dd>
+                        
+                        <dd><a href='/jgzc/list_5.aspx'>机构组成</a></dd>
+                        <dd><a href='/cgjyy/list_6.aspx'>参观及预约</a></dd>
+                        <dd><a href='/zcbwg/list_7.aspx'>支持国丝</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        
+                            <dd><a href="/xwdtIR/list_9.aspx">国丝公告</a></dd>
+                        
+                            <dd><a href="/cs/list_164.aspx">馆内新闻</a></dd>
+                        
+                            <dd><a href="/list_373.aspx">文博要闻</a></dd>
+                        
+                            <dd><a href="/cs/list_168.aspx">社会报道</a></dd>
+                        
+                            <dd><a href="/yg/list_13.aspx">活动预告</a></dd>
+                        
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        
+                                    <dd><a href="/ngcxg/list_11.aspx">女红传习</a></dd>
+                                
+                                    <dd><a href="/jz/list_15.aspx">经纶讲堂</a></dd>
+                                
+                                    <dd><a href="/gszy/list_328.aspx">国丝之夜</a></dd>
+                                
+                                    <dd><a href="/list_151.aspx">国丝研学</a></dd>
+                                
+                                    <dd><a href="/gskt/list_319.aspx">国丝课堂</a></dd>
+                                
+                                    <dd><a href="/sljxy/list_291.aspx">丝路进校园</a></dd>
+                                
+                                    <dd><a href="/gsjr/list_292.aspx">国丝节日</a></dd>
+                                
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        
+
+                                <dd><a href="/zz/list_17.aspx">在展</a></dd>
+                                
+
+                                <dd><a href="/yz/list_18.aspx">已展</a></dd>
+                                
+
+                                <dd><a href="/jzNX/list_19.aspx">将展</a></dd>
+                                
+
+                                <dd><a href="/Cloudzl/list_367.aspx">云上展览</a></dd>
+                                
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        
+
+                                <dd><a href="/zggd/list_21.aspx">中国历代</a></dd>
+                                
+
+                                <dd><a href="/zgxd/list_22.aspx">中国当代</a></dd>
+                                
+
+                                <dd><a href="/xf/list_23.aspx">西方</a></dd>
+                                
+
+                                <dd><a href="/mzx/list_24.aspx">民族学</a></dd>
+                                
+
+                                <dd><a href="/list_302.aspx">其他</a></dd>
+                                
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        
+
+                                <dd><a href="/jlt/list_33.aspx">经纶堂</a></dd>
+                                
+
+                                <dd><a href="/jdwc/list_34.aspx">锦道</a></dd>
+                                
+
+                                <dd><a href="/list_300.aspx">微店</a></dd>
+                                
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dd><a href='/jdgs/index_279.aspx'>基地概况</a></dd>
+                              
+                                  <dd id="topId296"><a href="/gzzd/list_296.aspx">规章制度</a></dd>
+                              
+                                  <dd id="topId297"><a href="/gzz/list_297.aspx">工作站</a></dd>
+                              
+                                  <dd id="topId213"><a href="/kyxm/list_213.aspx">科研项目</a></dd>
+                              
+                                  <dd id="topId211"><a href="/hzjl/list_211.aspx">交流合作</a></dd>
+                              
+                                  <dd id="topId212"><a href="/jsfw/list_212.aspx">技术服务</a></dd>
+                              
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        
+                                  <dd id="topId305"><a href="/gjslzx/list_305.aspx">国际丝路中心</a></dd>
+                              
+                                  <dd id="topId306"><a href="/bxfzzwh/list_306.aspx">博协服装设计专委会</a></dd>
+                              
+                                  <dd id="topId307"><a href="/gjscxy/list_307.aspx">国际丝绸学院</a></dd>
+                              
+                                  <dd id="topId308"><a href="/fylm/list_308.aspx">非遗联盟</a></dd>
+                              
+                                  <dd id="topId309"><a href="/bwgf/list_309.aspx">博物工坊</a></dd>
+                              
+                    </dl>
+                </li>
+            </ul>
+        </div>
+
+        <div class="footer_share bdsharebuttonbox clearfix">
+            <span class="footer_span4 gotop"></span>
+            <span class="footer_span5 gotop"></span>
+        </div>
+
+<div class="links">
+<a href='/wzdt/index_38.aspx' target="_blank">网站地图</a><em></em>
+<a href='/flsm/index_39.aspx' target="_blank">法律声明</a><em></em>
+<a href='/yqlj/list_40.aspx' target="_blank">友情链接</a><em></em>
+
+<a href='https://tongji.baidu.com/web/welcome/login' target="_blank">流量统计</a>
+
+</div>
+<div class="copyright">
+<span>© 2012 中国丝绸博物馆 版权所有</span>
+<span>
+
+
+    <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备05027391号-1  </a>
+
+
+DESIGNED BY <a href="http://www.wanhu.com.cn" target="_blank">Wanhu</a>.</span>
+
+<div>
+<p class="p1">浙公网安备：33019902000116<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/12/000/0000/40683746/CA120000000406837460002.js' type='text/javascript'%3E%3C/script%3E"));</script></p>
+</div>
+
+
+</div>
+
+
+</div>
+</footer>
+<!-- JiaThis Button END -->
+<script>
+    $(function () {
+
+        $('.gotop').click(function () {
+            $('html ,body').animate({ scrollTop: 0 }, 500);
+            return false;
+        });
+    });
+
+</script>
+<style type="text/css">
+	.copyright .p1{;padding-left: 25px;background:url(/uploadfiles/ii.png) no-repeat; color: #747474; display: inline-block;}
+	#imgConac{margin-left: 20px;}
+
+    #codeBg {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        display: none;
+        background-color: rgba(0, 0, 0, 0.17);
+        z-index: 10;
+        top: 0;
+    }
+
+        #codeBg .codebox {
+            background: white;
+            width: 200px;
+            text-align: center;
+            padding: 20px 0;
+            margin: 140px auto;
+            border-radius: 8px;
+            position: relative;
+        }
+
+            #codeBg .codebox .close {
+                position: absolute;
+                font-size: 16px;
+                right: 12px;
+                top: 8px;
+                cursor: pointer;
+            }
+    #codeBg .codebox span{display: block;text-align: center;}
+
+</style>
+<div id="codeBg">
+    <div class="codebox">
+        
+            <img src="/uploadfiles/2018/03/20180319134147716.jpg" />
+            <span>关注我们</span>
+        
+        <i class="close">×</i>
+    </div>
+</div>
+<script type="text/javascript">
+    $("#codeBg .codebox .close").click(function () {
+        $("#codeBg").css("display", "none");
+    });
+</script>
+<script>
+    var pagenum = '';
+    if (pagenum == "") {
+        $("#pageNum1").addClass("a_cur")
+    } else {
+        $("#pageNum" + pagenum).addClass("a_cur")
+    }
+
+
+
+    $(".Pages").find("a").each(function () {
+        var url = $(this).attr("href");
+        url = url.replace('.html', '');
+        if (url.indexOf("page") >= 0) {
+            var page = '';
+            var arr = url.split('_');
+            for (let i = 0; i < arr.length; i++) {
+                if (!isNaN(arr[i])) {
+                    page = arr[i]
+                }
+            }
+            var url2 = arr[0] + "_page_" + page + ".html";
+            $(this).attr("href", url2);
+        }
+    })
+	
+	$('img').bind('error', function () {
+		$(this).attr('src', '/uploadfiles/nopic.jpg');
+		$(this).hide()
+	});
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?7f1971daeee2771c686d2ee8f9b361b4";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+    <!--底部-->
+
+    <script>
+        $(function () {
+            $(".detail_text img").parent().removeAttr("href");
+        })
+    </script>
+</body>
+</html>

@@ -1,41 +1,41 @@
 {
- "generatedAt": "2026-10-03T03:53:13.164Z",
+ "generatedAt": "2026-10-05T07:21:17.152Z",
  "source": {
   "path": "src/data/images.json",
-  "bytes": 293189,
-  "sha256": "3f45d9b73f0ce2f44403613e36585b0f634251379b7cc0dc3ce4efc866b930dc",
-  "records": 223
+  "bytes": 747595,
+  "sha256": "896e992637da8a1b18c271919e2a59fcae0fdb5074d870360fe8e4339e44be1c",
+  "records": 388
  },
  "responsiveSource": {
   "path": "assets/responsive-images/manifest.json",
-  "bytes": 1558692,
-  "sha256": "38ea318bcb4b47801c8f25d00570ef22cbfb1117facfd76964185c76d2885937",
-  "outputs": 1592
+  "bytes": 3242075,
+  "sha256": "67eb8c12b8e39f2e5da8a235ff2bfe7d39dd8386d6e0a5586526cccc2580ff88",
+  "outputs": 3242
  },
  "cardManifest": {
   "path": "src/data/image-card-manifest.json",
-  "bytes": 184616,
-  "sha256": "d152cc26d9e609e755143d8f2a3be42d677d1dd16815c89b57c7fdc507b75484",
-  "records": 223
+  "bytes": 404378,
+  "sha256": "8ec86c1eb7d495df1716bfe0da8b24e0541303e0de20d92234d64c2bcbcd76c8",
+  "records": 388
  },
  "provenancePayloads": {
   "directory": "public/data/image-provenance",
-  "count": 59,
-  "totalBytes": 385969,
+  "count": 65,
+  "totalBytes": 902851,
   "files": [
    {
     "id": "gugong",
     "path": "public/data/image-provenance/gugong.json",
-    "bytes": 25500,
-    "sha256": "3504481fe3041096cc7f44f9f33c2d1539adece495706b17544a557e628e0873",
-    "records": 7
+    "bytes": 31718,
+    "sha256": "4a6cec1e148a76f2a54fa8077d925a7cd3ed102cc4d4906d7545f6d64a5cce64",
+    "records": 9
    },
    {
     "id": "guobo",
     "path": "public/data/image-provenance/guobo.json",
-    "bytes": 30318,
-    "sha256": "4ce4aa391a73c632aad0bab71d18a7aabd660716a64925543820501cbc9b36cf",
-    "records": 10
+    "bytes": 95758,
+    "sha256": "fa79f554d633c1ac15e50413ccd211c7c153f380f8db9450aa03533ff5d10554",
+    "records": 31
    },
    {
     "id": "shoubo",
@@ -243,9 +243,9 @@
    {
     "id": "hubei",
     "path": "public/data/image-provenance/hubei.json",
-    "bytes": 72309,
-    "sha256": "031174802226660b7c83095b51fed0e487808f4bdc8c5defaf6cfbc139e56484",
-    "records": 22
+    "bytes": 81339,
+    "sha256": "8fe6cd04322150c8e08d17ed89f7e4641857a2ab61270045dafad2a01c200cc3",
+    "records": 25
    },
    {
     "id": "jingzhou",
@@ -264,9 +264,9 @@
    {
     "id": "csjiandu",
     "path": "public/data/image-provenance/csjiandu.json",
-    "bytes": 1038,
-    "sha256": "b9215946df02840b037d91e80a4f9503127e98d9a7beb3390296d02b689799b2",
-    "records": 2
+    "bytes": 16684,
+    "sha256": "638abca74fd7f15515dba9ac85e2943f1b47611935c39c1ac8cd75adbeab9c45",
+    "records": 7
    },
    {
     "id": "guangdong",
@@ -435,6 +435,48 @@
     "bytes": 2717,
     "sha256": "c51a668412cf17de4dadc734b1a99fe71625ac96f074449cead0f9fec2ec2a7a",
     "records": 5
+   },
+   {
+    "id": "chengdu-city",
+    "path": "public/data/image-provenance/chengdu-city.json",
+    "bytes": 64097,
+    "sha256": "cb99a198b4ae8272b28fa6950ab17e51d5a21246816987552045375a427656dc",
+    "records": 21
+   },
+   {
+    "id": "shenzhen-city",
+    "path": "public/data/image-provenance/shenzhen-city.json",
+    "bytes": 90776,
+    "sha256": "b2440f303c51586ee9ae4ac4dc41d0662ea8d7e64f175624ab7cd25f1f195d43",
+    "records": 28
+   },
+   {
+    "id": "gansu-jiandu",
+    "path": "public/data/image-provenance/gansu-jiandu.json",
+    "bytes": 63036,
+    "sha256": "53dd85e6490e1d9a33ac3b99beb34a7f2fae290f9920370be84c7c7f9b4c4f98",
+    "records": 20
+   },
+   {
+    "id": "china-silk",
+    "path": "public/data/image-provenance/china-silk.json",
+    "bytes": 62508,
+    "sha256": "bbf3f9acfbe21094445e8ea0a0538625c4dbe6d6b7565dc442dfcb0c27295b68",
+    "records": 20
+   },
+   {
+    "id": "wuhan-city",
+    "path": "public/data/image-provenance/wuhan-city.json",
+    "bytes": 63081,
+    "sha256": "cf1d04e218726e6208c6e6b6b8eac7534b2095148d6f11d95299e632210ec193",
+    "records": 20
+   },
+   {
+    "id": "changzhou-city",
+    "path": "public/data/image-provenance/changzhou-city.json",
+    "bytes": 77050,
+    "sha256": "132bb99d76cc51a85a22337d278bed3c5b520dc9d5cb9f7e67d44d7b30a9bb7b",
+    "records": 25
    }
   ]
  }

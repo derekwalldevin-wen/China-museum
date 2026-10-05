@@ -1,0 +1,2281 @@
+{
+ "records": {
+  "cz-gold-lotus-box": {
+   "src": "/artifact-expansion/tranche-05/cz-gold-lotus-box-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-gold-lotus-box-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=369&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-gold-lotus-box-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=369&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=369&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-trumpet-lacquer": {
+   "src": "/artifact-expansion/tranche-05/cz-trumpet-lacquer-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-trumpet-lacquer-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=44&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-trumpet-lacquer-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=44&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=44&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-carved-cup": {
+   "src": "/artifact-expansion/tranche-05/cz-carved-cup-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-carved-cup-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=417&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-carved-cup-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=417&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=417&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-wood-cane": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-cane-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-cane-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=418&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-cane-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=418&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=418&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-wood-spoon": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-spoon-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-spoon-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=416&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-spoon-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=416&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=416&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-wood-chopstick": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-chopstick-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-chopstick-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=415&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-chopstick-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=415&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=415&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-yuan-black-bowl": {
+   "src": "/artifact-expansion/tranche-05/cz-yuan-black-bowl-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-yuan-black-bowl-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=414&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-yuan-black-bowl-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=414&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=414&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-phagspa-bowl": {
+   "src": "/artifact-expansion/tranche-05/cz-phagspa-bowl-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-phagspa-bowl-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=413&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-phagspa-bowl-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=413&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=413&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-bamboo-comb": {
+   "src": "/artifact-expansion/tranche-05/cz-bamboo-comb-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-bamboo-comb-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=410&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-bamboo-comb-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=410&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=410&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-pearl-comb": {
+   "src": "/artifact-expansion/tranche-05/cz-pearl-comb-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-pearl-comb-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=409&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-pearl-comb-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=409&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=409&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-wood-roller": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-roller-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-roller-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=408&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-roller-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=408&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=408&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-lacquer-brush": {
+   "src": "/artifact-expansion/tranche-05/cz-lacquer-brush-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-lacquer-brush-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=382&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-lacquer-brush-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=382&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=382&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-wood-chair": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-chair-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-chair-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=380&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-chair-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=380&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=380&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-wood-table": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-table-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-table-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=379&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-table-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=379&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=379&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-lacquer-teacup": {
+   "src": "/artifact-expansion/tranche-05/cz-lacquer-teacup-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-lacquer-teacup-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=378&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-lacquer-teacup-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=378&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=378&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-petal-dish": {
+   "src": "/artifact-expansion/tranche-05/cz-petal-dish-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-petal-dish-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=377&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-petal-dish-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=377&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=377&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-black-washer": {
+   "src": "/artifact-expansion/tranche-05/cz-black-washer-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-black-washer-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=375&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-black-washer-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=375&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=375&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-mirror-case": {
+   "src": "/artifact-expansion/tranche-05/cz-mirror-case-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-mirror-case-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=373&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-mirror-case-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=373&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=373&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-red-rect-box": {
+   "src": "/artifact-expansion/tranche-05/cz-red-rect-box-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-red-rect-box-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=372&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-red-rect-box-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=372&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=372&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-willow-box": {
+   "src": "/artifact-expansion/tranche-05/cz-willow-box-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-willow-box-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=371&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-willow-box-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:55:30.269Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=371&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=371&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-silk-brush": {
+   "src": "/artifact-expansion/tranche-05/cz-silk-brush-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-silk-brush-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=367&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-silk-brush-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=367&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=367&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-red-hairpick": {
+   "src": "/artifact-expansion/tranche-05/cz-red-hairpick-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-red-hairpick-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=365&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-red-hairpick-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=365&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=365&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-changzhou-bowl": {
+   "src": "/artifact-expansion/tranche-05/cz-changzhou-bowl-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-changzhou-bowl-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=360&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-changzhou-bowl-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=360&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=360&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-wood-paddle": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-paddle-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-paddle-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=239&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-paddle-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=239&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=239&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  },
+  "cz-wood-scull": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-scull-detail.jpg",
+   "ai": true,
+   "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+   "variants": {
+    "card": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-scull-card.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=238&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    },
+    "detail": {
+     "src": "/artifact-expansion/tranche-05/cz-wood-scull-detail.jpg",
+     "kind": "ai",
+     "fit": "contain",
+     "credit": "AI概括示意 · 非文物实拍 · 不用于核对铭文、纹饰和原作细节",
+     "provenance": {
+      "type": "ai",
+      "generator": "OpenAI built-in imagegen",
+      "promptVersion": "expansion-tranche-05-20261005",
+      "promptManifest": "/data/image-processing/expansion-tranche-05.json",
+      "generatedAt": "2026-10-05T04:58:09.891Z",
+      "references": [
+       {
+        "type": "museum-record",
+        "value": "https://www.czmuseum.cn/mobile/#/feaDetail?id=238&cid=12",
+        "credit": "常州博物馆文字记录；非照片授权"
+       }
+      ]
+     },
+     "review": {
+      "visual": "approved",
+      "historical": "pending",
+      "reviewedAt": "2026-10-05",
+      "reviewedBy": "Codex AI illustration QA",
+      "note": "仅核总体器形与文字约束；纹饰、釉色和细部不作为原作证据。"
+     }
+    }
+   },
+   "sourceReview": {
+    "reviewedAt": "2026-10-05",
+    "authorityUrl": "https://www.czmuseum.cn/mobile/#/feaDetail?id=238&cid=12",
+    "note": "馆方记录用于事实与器形背景，不构成照片许可；此图为AI概括示意。"
+   }
+  }
+ },
+ "delivery": {
+  "cz-gold-lotus-box": {
+   "src": "/artifact-expansion/tranche-05/cz-gold-lotus-box-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/8b95aaae1a74e22a-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/8b95aaae1a74e22a-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/8b95aaae1a74e22a-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-trumpet-lacquer": {
+   "src": "/artifact-expansion/tranche-05/cz-trumpet-lacquer-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/89c11ab59e130350-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/89c11ab59e130350-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/89c11ab59e130350-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-carved-cup": {
+   "src": "/artifact-expansion/tranche-05/cz-carved-cup-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/04f87305bba7980e-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/04f87305bba7980e-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/04f87305bba7980e-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-wood-cane": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-cane-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9d8d5ad5ca712c88-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/9d8d5ad5ca712c88-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/9d8d5ad5ca712c88-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-wood-spoon": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-spoon-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/aafe48c6b5c2172d-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/aafe48c6b5c2172d-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/aafe48c6b5c2172d-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-wood-chopstick": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-chopstick-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/53d8074b8f90899e-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/53d8074b8f90899e-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/53d8074b8f90899e-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-yuan-black-bowl": {
+   "src": "/artifact-expansion/tranche-05/cz-yuan-black-bowl-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/29f23f5a76a38295-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/29f23f5a76a38295-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/29f23f5a76a38295-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-phagspa-bowl": {
+   "src": "/artifact-expansion/tranche-05/cz-phagspa-bowl-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1ee5ccf76bca5c8e-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/1ee5ccf76bca5c8e-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1ee5ccf76bca5c8e-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-bamboo-comb": {
+   "src": "/artifact-expansion/tranche-05/cz-bamboo-comb-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/72c5a5180f5c6a18-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/72c5a5180f5c6a18-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/72c5a5180f5c6a18-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-pearl-comb": {
+   "src": "/artifact-expansion/tranche-05/cz-pearl-comb-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ebf1fe7d9896e393-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/ebf1fe7d9896e393-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/ebf1fe7d9896e393-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-wood-roller": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-roller-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/d987c968d8ff8714-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/d987c968d8ff8714-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/d987c968d8ff8714-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-lacquer-brush": {
+   "src": "/artifact-expansion/tranche-05/cz-lacquer-brush-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/48b084765e37c9a3-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/48b084765e37c9a3-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/48b084765e37c9a3-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-wood-chair": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-chair-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/62ea01f58098d4ea-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/62ea01f58098d4ea-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/62ea01f58098d4ea-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-wood-table": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-table-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ffb898bd0863b653-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/ffb898bd0863b653-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/ffb898bd0863b653-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-lacquer-teacup": {
+   "src": "/artifact-expansion/tranche-05/cz-lacquer-teacup-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/cbd219292d029330-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/cbd219292d029330-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/cbd219292d029330-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-petal-dish": {
+   "src": "/artifact-expansion/tranche-05/cz-petal-dish-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/e37de7fda4290485-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/e37de7fda4290485-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/e37de7fda4290485-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-black-washer": {
+   "src": "/artifact-expansion/tranche-05/cz-black-washer-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/701d356c3b3cece0-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/701d356c3b3cece0-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/701d356c3b3cece0-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-mirror-case": {
+   "src": "/artifact-expansion/tranche-05/cz-mirror-case-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/ed9441ebbaa6fb0d-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/ed9441ebbaa6fb0d-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/ed9441ebbaa6fb0d-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-red-rect-box": {
+   "src": "/artifact-expansion/tranche-05/cz-red-rect-box-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/55280bccbb15f396-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/55280bccbb15f396-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/55280bccbb15f396-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-willow-box": {
+   "src": "/artifact-expansion/tranche-05/cz-willow-box-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/1a036d3f3f568a9c-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/1a036d3f3f568a9c-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/1a036d3f3f568a9c-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-silk-brush": {
+   "src": "/artifact-expansion/tranche-05/cz-silk-brush-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/fc8e8e98bd413d80-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/fc8e8e98bd413d80-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/fc8e8e98bd413d80-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-red-hairpick": {
+   "src": "/artifact-expansion/tranche-05/cz-red-hairpick-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/9a7167038fcf3e28-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/9a7167038fcf3e28-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/9a7167038fcf3e28-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-changzhou-bowl": {
+   "src": "/artifact-expansion/tranche-05/cz-changzhou-bowl-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/69cf821296458c2a-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/69cf821296458c2a-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/69cf821296458c2a-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-wood-paddle": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-paddle-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/572303f54a380a30-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/572303f54a380a30-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/572303f54a380a30-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  },
+  "cz-wood-scull": {
+   "src": "/artifact-expansion/tranche-05/cz-wood-scull-detail.jpg",
+   "kind": "ai",
+   "responsive": {
+    "format": "image/webp",
+    "candidates": [
+     {
+      "src": "/artifact-responsive/2b79c4d2ca2b291e-detail-w480.webp",
+      "width": 480,
+      "height": 480
+     },
+     {
+      "src": "/artifact-responsive/2b79c4d2ca2b291e-detail-w800.webp",
+      "width": 800,
+      "height": 800
+     },
+     {
+      "src": "/artifact-responsive/2b79c4d2ca2b291e-detail-w1200.webp",
+      "width": 1200,
+      "height": 1200
+     }
+    ]
+   },
+   "fit": "contain"
+  }
+ }
+}

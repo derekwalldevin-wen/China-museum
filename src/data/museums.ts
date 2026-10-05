@@ -1,10 +1,11 @@
 import type { Museum } from './types';
+import expansion from './collection-expansion.json' with { type: 'json' };
 
 // ============================================================
 // 全国博物馆数据 —— 扩展内容时在此文件中追加即可
 // ============================================================
 
-export const museums: Museum[] = [
+const existingMuseums: Museum[] = [
   // ── 北京市 ──────────────────────────────────────────────
   {
     id: 'gugong',
@@ -796,4 +797,11 @@ export const museums: Museum[] = [
       { id: 'tp-kxs', name: '晋王羲之《快雪时晴帖》', dynasty: '东晋', era: '魏晋南北朝', category: '书画', shape: 'scroll', story: '台北故宫藏《快雪时晴帖》册（故書000141），本幅为纸本、所录短札二十八字。馆方展览明确称现存为唐摹善本而非王羲之晋代亲笔；册内还保存清代乾隆的题跋与绘画等后加层次。' },
     ],
   },
+];
+
+// Existing entries keep their IDs and text; new curated batches live in a separate source.
+const additions = expansion as unknown as { museums: Museum[]; artifactsByMuseum: Record<string, Museum['artifacts']> };
+export const museums: Museum[] = [
+  ...existingMuseums.map(museum => ({ ...museum, artifacts: [...museum.artifacts, ...(additions.artifactsByMuseum[museum.id] ?? [])] })),
+  ...additions.museums,
 ];

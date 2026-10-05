@@ -6,6 +6,7 @@ const sourceUrl = new URL('src/data/images.json', root);
 const museumIndexUrl = new URL('src/data/museum-index.json', root);
 const cardManifestUrl = new URL('src/data/image-card-manifest.json', root);
 const provenanceDir = new URL('public/data/image-provenance/', root);
+const cardPayloadDir = new URL('public/data/image-cards/', root);
 const reportUrl = new URL('docs/audits/image-data-generation.json', root);
 const responsiveManifestUrl = new URL('assets/responsive-images/manifest.json', root);
 const json = value => `${JSON.stringify(value, null, 1)}\n`;
@@ -97,6 +98,10 @@ const cardManifest = Object.fromEntries(sourceIds.map(id => [id, {
 }]));
 
 await mkdir(provenanceDir, { recursive: true });
+await mkdir(cardPayloadDir, { recursive: true });
+for (const entry of await readdir(cardPayloadDir, { withFileTypes: true })) {
+  if (entry.isFile() && entry.name.endsWith('.json') && !museums.some(museum => `${museum.id}.json` === entry.name)) await rm(new URL(entry.name, cardPayloadDir));
+}
 for (const entry of await readdir(provenanceDir, { withFileTypes: true })) {
   if (entry.isFile() && entry.name.endsWith('.json')) await rm(new URL(entry.name, provenanceDir));
 }
@@ -104,6 +109,8 @@ await writeFile(cardManifestUrl, json(cardManifest));
 
 const payloads = [];
 for (const museum of museums) {
+  const cardRecords = Object.fromEntries(museum.artifacts.map(artifact => [artifact.id, cardManifest[artifact.id]]));
+  await writeFile(new URL(`${museum.id}.json`, cardPayloadDir), json({ museumId: museum.id, records: cardRecords }));
   const records = Object.fromEntries(museum.artifacts.map(artifact => [artifact.id, images[artifact.id]]));
   const delivery = Object.fromEntries(museum.artifacts.map(artifact => {
     const resolved = resolve(images[artifact.id], 'detail');
