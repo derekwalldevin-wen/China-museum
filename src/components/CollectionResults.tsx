@@ -90,7 +90,7 @@ export default function CollectionResults({ museums, provinces, filter, onFilter
           </article>)}
         </div> : <div className="mx-auto max-w-md py-12 text-center">
           <h2 className="font-serif text-xl text-[#efe6cf]">当前条件下暂无收录</h2>
-          <p className="mt-3 text-sm leading-relaxed text-[#efe6cf]/55">这是本站已收录馆藏的筛选结果，不代表当地没有此类文物。可以扩大地域范围，或取消类别限制。</p>
+          <p className="mt-3 text-sm leading-relaxed text-[#efe6cf]/55">这里只统计已收录的馆藏，未收录的地区不在此列。可以扩大地域范围，或取消类别限制。</p>
           <div className="mt-5 flex flex-wrap justify-center gap-3">
             {filter.province && <button type="button" className="collection-filter-chip" onClick={() => onFilter({ ...filter, province: null })}>查看全国 · {nationwide.length} 件</button>}
             {filter.category && <button type="button" className="collection-filter-chip" onClick={() => onFilter({ ...filter, category: null })}>取消类别限制</button>}

@@ -73,6 +73,24 @@ test('related links in rewritten stories read like a human comparison', () => {
   assert.ok(ids.size > 0);
 });
 
+test('every component keeps user-facing copy free of meta commentary', () => {
+  // The reader should never be told about "this page / this site / this article": the copy talks
+  // about the objects. Comments are stripped first, so implementation notes stay free to explain
+  // themselves. Previously only museums.ts and App.tsx were scanned — which is how "本文结构" and
+  // "本站已收录馆藏" reached the interface.
+  const files = ['src/App.tsx', ...readdirSync('src/components').filter(name => name.endsWith('.tsx')).map(name => `src/components/${name}`)];
+  const META = [/本页/g, /本站/g, /本文/g, /本条目/g, /本批/g, /值得注意的是/g, /需要说明的是/g, /读者/g];
+  for (const file of files) {
+    const source = readFileSync(file, 'utf8')
+      .replace(/\/\*[\s\S]*?\*\//g, '')
+      .split('\n').map(line => line.replace(/\/\/.*$/, '')).join('\n');
+    for (const pattern of META) {
+      const hits = source.match(pattern) ?? [];
+      assert.equal(hits.length, 0, `${file}: ${pattern.source} appears ${hits.length} times in user-facing copy`);
+    }
+  }
+});
+
 test('museums.ts and the app shell keep the same voice rules', () => {
   for (const file of ['src/data/museums.ts', 'src/App.tsx']) {
     const text = readFileSync(file, 'utf8');

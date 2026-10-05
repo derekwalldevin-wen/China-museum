@@ -321,7 +321,7 @@ export function ArtifactImageDisclosure({ info, image }: { info: ArtifactImageIn
       <div className={`mt-1 ${authorizationStatus === 'verified' ? 'text-[#efe6cf]/45' : 'text-[#d7a84a]'}`}>
         授权状态：{authorizationLabel}
       </div>
-      {license && provenance?.licenseUrl && <a href={provenance.licenseUrl} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center text-[#d43a28] underline">来源页许可：{license}{authorizationStatus === 'verified' ? '（原件与展示图证据已核）' : '（不等于当前文件授权确认）'} ↗</a>}
+      {license && provenance?.licenseUrl && <a href={provenance.licenseUrl} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center text-[#d43a28] underline">来源页许可：{license}{authorizationStatus === 'verified' ? '（原件与展示图证据已核）' : '（仅指原件与展示图证据，不含文件授权）'} ↗</a>}
       {provenance?.modifications && <div className="mt-1">图像处理：{provenance.modifications}</div>}
       {provenance?.evidenceNote && <div className="mt-1">核验备注：{provenance.evidenceNote}</div>}
       {provenance?.processingManifest?.startsWith('/data/image-processing/') && <a href={provenance.processingManifest} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center text-[#d43a28] underline">查看原文件哈希与图像处理记录 ↗</a>}
